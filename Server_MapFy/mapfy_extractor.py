@@ -1,0 +1,727 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+mapfy_extractor.py
+==================
+Robô de extração incremental, estruturação e consolidação de relatórios do Mapfy.
+
+Funcionalidades:
+  1. Login transparente via Microsoft Edge (Azure AD SSO / Gatec).
+     Salva e reutiliza a sessão em 'session_state.json' automaticamente.
+  2. Mapeia todos os formulários da página: https://app.mapfy.com.br/m/FormEntry/List
+  3. Para cada formulário:
+     - Detecta o histórico local em 'relatorios/<Nome_do_Formulario>/dados.csv'.
+     - Se for a primeira vez: Data Inicial = 01/01/2026.
+     - Se já houver dados: Data Inicial = última data registrada no relatório.
+     - Data Final = data atual (hoje).
+     - Abre o formulário, aciona o modal de exportação CSV.
+     - Aplica as datas via Kendo DatePicker e confirma o download.
+     - Se não houver novos dados no período (count = 0), pula silenciosamente sem erros.
+     - Se houver novos dados:
+       * Salva o CSV bruto em 'relatorios/<Nome_do_Formulario>/historico/'.
+       * Concatena com os dados existentes e deduplica pelo 'Id' (mantendo sempre os dados atualizados).
+       * Nunca apaga dados antigos.
+       * Salva o consolidado atualizado em 'dados.csv' e 'dados.json'.
+  4. Repete o processo para todos os formulários da lista.
+"""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import io
+import json
+import logging
+import os
+import re
+import sys
+import time
+import zipfile
+from datetime import datetime
+from logging.handlers import RotatingFileHandler
+from pathlib import Path
+from typing import Any
+
+import pandas as pd
+from dotenv import load_dotenv
+from playwright.sync_api import Page, BrowserContext, sync_playwright, TimeoutError as PlaywrightTimeout
+
+# =============================================================================
+# DIRETÓRIOS E CONFIGURAÇÃO
+# =============================================================================
+BASE_DIR = Path(__file__).resolve().parent
+RELATORIOS_DIR = BASE_DIR / "relatorios"
+SESSION_FILE = BASE_DIR / "session_state.json"
+LOG_FILE = BASE_DIR / "mapfy_extractor.log"
+ENV_FILE = BASE_DIR / ".env"
+
+load_dotenv(ENV_FILE)
+
+MAPFY_HUB_URL = "https://app.mapfy.com.br/m/FormEntry/List"
+FIRST_RUN_DATE = "01/01/2026"
+
+RELATORIOS_DIR.mkdir(parents=True, exist_ok=True)
+
+# =============================================================================
+# LOGGING
+# =============================================================================
+log = logging.getLogger("mapfy_extractor")
+log.setLevel(logging.INFO)
+
+fmt = logging.Formatter("%(asctime)s | %(levelname)-7s | %(message)s", "%Y-%m-%d %H:%M:%S")
+file_handler = RotatingFileHandler(LOG_FILE, maxBytes=5_000_000, backupCount=5, encoding="utf-8")
+file_handler.setFormatter(fmt)
+console_handler = logging.StreamHandler(sys.stdout)
+console_handler.setFormatter(fmt)
+
+if not log.handlers:
+    log.addHandler(file_handler)
+    log.addHandler(console_handler)
+
+
+# =============================================================================
+# UTILITÁRIOS DE ARQUIVOS E DADOS
+# =============================================================================
+def sanitize_name(name: str) -> str:
+    """Higieniza o nome do formulário para uso seguro em pastas do Windows."""
+    clean = re.sub(r'[\\/*?:"<>|]', '_', name)
+    clean = re.sub(r'\s+', ' ', clean).strip()
+    return clean
+
+
+def read_csv_smart(filepath: Path) -> pd.DataFrame:
+    """Lê CSV testando ZIP compactado ou CSV direto com múltiplos encodings e delimitadores."""
+    if not filepath.exists() or filepath.stat().st_size == 0:
+        return pd.DataFrame()
+
+    raw_bytes: bytes | None = None
+    if zipfile.is_zipfile(filepath):
+        try:
+            with zipfile.ZipFile(filepath, "r") as zf:
+                csv_names = [n for n in zf.namelist() if n.lower().endswith(".csv")]
+                target_name = csv_names[0] if csv_names else zf.namelist()[0]
+                raw_bytes = zf.read(target_name)
+        except Exception as e:
+            log.warning(f"Erro ao descompactar {filepath.name}: {e}")
+            return pd.DataFrame()
+    else:
+        raw_bytes = filepath.read_bytes()
+
+    if not raw_bytes:
+        return pd.DataFrame()
+
+    encodings = ["utf-8-sig", "utf-8", "latin-1", "cp1252"]
+    separators = [";", ",", "\t"]
+
+    for enc in encodings:
+        for sep in separators:
+            try:
+                df = pd.read_csv(io.BytesIO(raw_bytes), sep=sep, encoding=enc, dtype=str)
+                if df.shape[1] > 1:
+                    return df
+            except Exception:
+                continue
+
+    # Fallback automático
+    try:
+        return pd.read_csv(io.BytesIO(raw_bytes), sep=None, engine="python", encoding="latin-1", dtype=str)
+    except Exception as e:
+        log.warning(f"Erro ao ler CSV {filepath.name}: {e}")
+        return pd.DataFrame()
+
+
+def find_latest_date_in_csv(filepath: Path) -> str | None:
+    """
+    Inspeciona o CSV consolidado e localiza a maior data registrada.
+    Retorna no formato DD/MM/YYYY ou None.
+    """
+    if not filepath.exists() or filepath.stat().st_size == 0:
+        return None
+
+    df = read_csv_smart(filepath)
+    if df.empty:
+        return None
+
+    # Procura colunas com indicativo de data
+    date_cols = [
+        c for c in df.columns
+        if any(k in c.lower() for k in ["data", "date", "sincronizacao", "criacao", "inicio"])
+    ]
+
+    found_dates: list[datetime] = []
+    for col in date_cols:
+        series = df[col].dropna()
+        for raw_val in series:
+            val_str = str(raw_val).strip()
+            # Formato brasileiro DD/MM/YYYY
+            m_br = re.search(r"(\d{2})/(\d{2})/(\d{4})", val_str)
+            if m_br:
+                d, mth, y = int(m_br.group(1)), int(m_br.group(2)), int(m_br.group(3))
+                try:
+                    found_dates.append(datetime(y, mth, d))
+                except ValueError:
+                    pass
+                continue
+            # Formato ISO YYYY-MM-DD
+            m_iso = re.search(r"(\d{4})-(\d{2})-(\d{2})", val_str)
+            if m_iso:
+                y, mth, d = int(m_iso.group(1)), int(m_iso.group(2)), int(m_iso.group(3))
+                try:
+                    found_dates.append(datetime(y, mth, d))
+                except ValueError:
+                    pass
+
+    if found_dates:
+        latest = max(found_dates)
+        return latest.strftime("%d/%m/%Y")
+
+    return None
+
+
+def merge_and_save_data(
+    existing_csv: Path,
+    new_csv: Path,
+    json_path: Path
+) -> tuple[int, int]:
+    """
+    Mescla o novo CSV com a base existente, deduplicando por 'Id'.
+    Retorna (registros_adicionados, total_final).
+    """
+    new_df = read_csv_smart(new_csv)
+    if new_df.empty:
+        return 0, 0
+
+    # Localiza coluna de Id para deduplicação
+    id_col = None
+    for c in new_df.columns:
+        if c.strip().lower() in ["id", "código", "codigo", "id do formulário", "id_formulario"]:
+            id_col = c
+            break
+    if not id_col:
+        id_col = new_df.columns[0]
+
+    if existing_csv.exists() and existing_csv.stat().st_size > 0:
+        old_df = read_csv_smart(existing_csv)
+        total_before = len(old_df)
+        combined_df = pd.concat([old_df, new_df], ignore_index=True)
+        # Deduplica pelo Id mantendo a linha mais recente
+        combined_df.drop_duplicates(subset=[id_col], keep="last", inplace=True)
+        added = len(combined_df) - total_before
+    else:
+        combined_df = new_df.drop_duplicates(subset=[id_col], keep="last")
+        added = len(combined_df)
+
+    # Gravação atômica do CSV consolidado (separador ';' e utf-8-sig para compatibilidade com Excel)
+    temp_csv = existing_csv.with_suffix(".tmp")
+    combined_df.to_csv(temp_csv, sep=";", index=False, encoding="utf-8-sig")
+    temp_csv.replace(existing_csv)
+
+    # Gravação atômica do JSON para consumo ágil em dashboards / aplicações web
+    temp_json = json_path.with_suffix(".tmp")
+    combined_df.to_json(temp_json, orient="records", force_ascii=False, indent=2)
+    temp_json.replace(json_path)
+
+    return added, len(combined_df)
+
+
+# =============================================================================
+# MANIPULAÇÃO DA INTERFACE MAPFY (PLAYWRIGHT)
+# =============================================================================
+def set_kendo_dates(page: Page, start_str: str, finish_str: str) -> None:
+    """
+    Define as datas nos componentes Kendo UI DatePicker (#StartDate e #FinishDate)
+    usando a API JavaScript do Kendo para garantir validação correta.
+    """
+    page.evaluate(
+        """
+        ([sDate, fDate]) => {
+            function parseBRDate(str) {
+                var p = str.split('/');
+                return new Date(parseInt(p[2], 10), parseInt(p[1], 10) - 1, parseInt(p[0], 10));
+            }
+            var dStart = parseBRDate(sDate);
+            var dFinish = parseBRDate(fDate);
+
+            var dpStart = $("#StartDate").data("kendoDatePicker");
+            if (dpStart) {
+                dpStart.value(dStart);
+                dpStart.trigger("change");
+            }
+            $("#StartDate").val(sDate).trigger("input").trigger("change").trigger("blur");
+
+            var dpFinish = $("#FinishDate").data("kendoDatePicker");
+            if (dpFinish) {
+                dpFinish.value(dFinish);
+                dpFinish.trigger("change");
+            }
+            $("#FinishDate").val(fDate).trigger("input").trigger("change").trigger("blur");
+
+            var form = $("form#entry-filter-form");
+            if (form.length && form.valid) {
+                form.valid();
+            }
+        }
+        """,
+        [start_str, finish_str]
+    )
+
+
+def ensure_authenticated(
+    page: Page,
+    context: BrowserContext,
+    username: str,
+    password: str
+) -> None:
+    """
+    Garante que a sessão está autenticada.
+    Se já estiver logado, aproveita os cookies salvos em session_state.json.
+    Se redirecionar para a Gatec / Azure AD, realiza o login automático via SSO.
+    """
+    log.info(f"Navegando para a central de formulários: {MAPFY_HUB_URL}")
+    try:
+        page.goto(MAPFY_HUB_URL, timeout=45000)
+    except Exception as e:
+        log.warning(f"Aviso na navegação inicial: {e}")
+
+    # 1. Verifica se já está na tela principal de formulários
+    try:
+        page.wait_for_selector(".gm-vc, p:has-text('Escolha um formulário')", timeout=10000)
+        log.info("[AUTENTICAÇÃO] Sessão ativa e autenticada.")
+        context.storage_state(path=str(SESSION_FILE))
+        return
+    except PlaywrightTimeout:
+        pass
+
+    log.info("Sessão não autenticada. Iniciando fluxo automático de login SSO...")
+
+    # 2. Clica no botão Azure AD na página da Gatec
+    try:
+        btn_aad = page.wait_for_selector("a.box-auth-aad, a:has-text('Sign in with Azure AD')", timeout=15000)
+        btn_aad.click()
+    except Exception as e:
+        log.warning(f"Botão Azure AD não encontrado imediatamente: {e}")
+
+    # 3. Preenche e submete email se solicitado
+    try:
+        email_inp = page.wait_for_selector("input[name='loginfmt'], input[type='email']", timeout=12000)
+        email_inp.fill(username)
+        page.locator("input[type='submit']").click()
+    except Exception:
+        pass
+
+    # 4. Preenche e submete senha se solicitada
+    try:
+        pass_inp = page.wait_for_selector("input[name='passwd'], input[type='password']", timeout=12000)
+        pass_inp.fill(password)
+        page.locator("input[type='submit']").click()
+    except Exception:
+        pass
+
+    # 5. Confirma 'Stay signed in' / 'Continuar conectado'
+    try:
+        btn_kmsi = page.wait_for_selector("#idSIButton9, input[value='Yes'], input[value='Sim']", timeout=12000)
+        btn_kmsi.click()
+    except Exception:
+        pass
+
+    # 6. Aguarda chegada na tela de formulários do Mapfy
+    log.info("Aguardando carregamento da central de formulários do Mapfy...")
+    page.wait_for_selector(".gm-vc, p:has-text('Escolha um formulário')", timeout=45000)
+    log.info("[SUCESSO] Login concluído e formulários carregados!")
+    context.storage_state(path=str(SESSION_FILE))
+    log.info(f"[OK] Sessão salva em {SESSION_FILE.name}")
+
+
+def extract_form_data(
+    context: BrowserContext,
+    page: Page,
+    form_name: str,
+    form_folder: Path,
+    start_date: str,
+    finish_date: str
+) -> dict[str, Any]:
+    """
+    Executa o fluxo completo de extração para um formulário específico:
+    1. Clica em 'Visualizar'.
+    2. Clica em 'CSV'.
+    3. Configura o filtro de datas.
+    4. Clica em 'Download'.
+    5. Trata a resposta (count=0 vs download do blob).
+    6. Atualiza o banco de dados local consolidado.
+    """
+    result = {
+        "form": form_name,
+        "start_date": start_date,
+        "finish_date": finish_date,
+        "status": "INICIANDO",
+        "added": 0,
+        "total": 0,
+        "mensagem": ""
+    }
+
+    log.info("-" * 65)
+    log.info(f"PROCESSANDO FORMULÁRIO: {form_name}")
+    log.info(f"Intervalo solicitado: {start_date} até {finish_date}")
+
+    # Garante que a página principal está na lista
+    if "FormEntry/List" not in page.url:
+        page.goto(MAPFY_HUB_URL)
+        page.wait_for_selector(".gm-vc", timeout=15000)
+
+    # Localiza o card pelo nome
+    card = page.locator(".gm-vc").filter(has_text=form_name).first
+    if card.count() == 0:
+        msg = f"Card com título '{form_name}' não encontrado na página."
+        log.error(msg)
+        result["status"] = "ERRO"
+        result["mensagem"] = msg
+        return result
+
+    card.scroll_into_view_if_needed()
+    btn_visualizar = card.locator(".gm-vi, button:has-text('Visualizar')").first
+
+    # Clique em 'Visualizar' observando se abre em nova aba ou na mesma
+    detail_page: Page = page
+    is_new_tab = False
+    try:
+        with context.expect_page(timeout=4000) as new_page_info:
+            btn_visualizar.click()
+        detail_page = new_page_info.value
+        is_new_tab = True
+        log.info("Página de detalhes aberta em nova aba.")
+    except Exception:
+        # Se navegou na mesma aba
+        detail_page = page
+        is_new_tab = False
+        log.info("Página de detalhes aberta na mesma aba.")
+
+    try:
+        # Aguarda carregamento da página de detalhes (botão CSV visível)
+        btn_csv = detail_page.locator('[data-testid="formentry-button-csv"], #csv, button:has-text("CSV")').first
+        btn_csv.wait_for(state="visible", timeout=25000)
+        log.info("Botão 'CSV' localizado. Abrindo modal de filtros...")
+        btn_csv.click()
+
+        # Aguarda modal de filtro e especificamente os inputs de data e botão de confirmação
+        log.info("Aguardando inicialização do modal e dos seletores de data...")
+        detail_page.wait_for_selector("#StartDate", state="visible", timeout=20000)
+        detail_page.wait_for_selector("#FinishDate", state="visible", timeout=20000)
+        detail_page.wait_for_selector("#btnConfirm", state="visible", timeout=20000)
+        time.sleep(1)
+
+        # Configura as datas
+        log.info(f"Aplicando datas no Kendo DatePicker: Início={start_date}, Fim={finish_date}")
+        set_kendo_dates(detail_page, start_date, finish_date)
+        time.sleep(1)
+
+        # Monitor de resposta do CanExport e listener de download
+        can_export_info: dict[str, Any] = {"checked": False, "count": None, "canExport": None}
+        downloads: list[Any] = []
+
+        def on_response(resp):
+            if "/FormEntry/CanExport" in resp.url:
+                try:
+                    data = resp.json()
+                    can_export_info["checked"] = True
+                    can_export_info["count"] = data.get("count", 0)
+                    can_export_info["canExport"] = data.get("canExport", True)
+                except Exception:
+                    pass
+
+        def on_download(dl):
+            downloads.append(dl)
+
+        detail_page.on("response", on_response)
+        detail_page.on("download", on_download)
+
+        # Clica no botão 'Download' (#btnConfirm)
+        log.info("Acionando botão '#btnConfirm' (Download)...")
+        detail_page.locator("#btnConfirm").click()
+
+        # Aguarda desfecho (download ou count=0)
+        start_wait = time.time()
+        max_download_wait = 90
+        has_new_records = True
+
+        while time.time() - start_wait < max_download_wait:
+            if downloads:
+                break
+            if can_export_info["checked"]:
+                if can_export_info["count"] == 0:
+                    has_new_records = False
+                    log.info(f"[SEM DADOS NOVOS] Mapfy retornou count=0 para '{form_name}'.")
+                    break
+                if not can_export_info["canExport"]:
+                    log.warning(f"Limite de registros excedido ({can_export_info['count']}).")
+                    break
+
+            # Verifica toastr de aviso
+            toastr_warnings = detail_page.locator(".toast-message, .toastr-warning").all_text_contents()
+            if any("Nenhum lançamento" in t for t in toastr_warnings):
+                has_new_records = False
+                log.info(f"[AVISO TOASTR] Nenhum lançamento encontrado para '{form_name}'.")
+                break
+
+            time.sleep(0.5)
+
+        # Remove listeners para evitar vazamento
+        try:
+            detail_page.remove_listener("response", on_response)
+            detail_page.remove_listener("download", on_download)
+        except Exception:
+            pass
+
+        # Cria pastas locais
+        form_folder.mkdir(parents=True, exist_ok=True)
+        history_dir = form_folder / "historico"
+        history_dir.mkdir(parents=True, exist_ok=True)
+        dados_csv = form_folder / "dados.csv"
+        dados_json = form_folder / "dados.json"
+
+        if has_new_records and downloads:
+            dl = downloads[0]
+            timestamp_str = datetime.now().strftime("%Y%m%d_%H%M%S")
+            raw_file = history_dir / f"download_{timestamp_str}.csv"
+            dl.save_as(str(raw_file))
+            log.info(f"[OK] Arquivo bruto salvo em: {raw_file.name}")
+
+            # Mescla com dados existentes e deduplica
+            added, total = merge_and_save_data(dados_csv, raw_file, dados_json)
+            result["status"] = "SUCESSO"
+            result["added"] = added
+            result["total"] = total
+            result["mensagem"] = f"{added} novos registros adicionados. Total consolidado: {total}."
+            log.info(f"[DADOS CONSOLIDADOS] {result['mensagem']}")
+        elif not has_new_records:
+            total = len(read_csv_smart(dados_csv)) if dados_csv.exists() else 0
+            result["status"] = "SEM_NOVIDADES"
+            result["added"] = 0
+            result["total"] = total
+            result["mensagem"] = "Nenhum novo registro no período."
+            log.info(f"[INFO] Formulário '{form_name}' já está atualizado.")
+            # Se for formulário sem dados em 2026, não mantém pasta vazia
+            if not dados_csv.exists() or dados_csv.stat().st_size == 0:
+                try:
+                    import shutil
+                    shutil.rmtree(form_folder, ignore_errors=True)
+                except Exception:
+                    pass
+        else:
+            total = len(read_csv_smart(dados_csv)) if dados_csv.exists() else 0
+            result["status"] = "TIMEOUT"
+            result["mensagem"] = "Tempo limite de download atingido."
+            log.warning(f"[TIMEOUT] Não foi possível obter download de '{form_name}'.")
+
+    except Exception as exc:
+        log.error(f"Erro durante extração de '{form_name}': {exc}", exc_info=True)
+        result["status"] = "ERRO"
+        result["mensagem"] = str(exc)
+    finally:
+        # Limpeza e retorno à página principal
+        if is_new_tab:
+            try:
+                detail_page.close()
+            except Exception:
+                pass
+        else:
+            try:
+                page.goto(MAPFY_HUB_URL)
+                page.wait_for_selector(".gm-vc", timeout=15000)
+            except Exception:
+                pass
+
+    return result
+
+
+# =============================================================================
+# FLUXO PRINCIPAL / FUNÇÃO EXPORTÁVEL PARA INTERFACE GRÁFICA
+# =============================================================================
+def run_full_extraction(
+    headless: bool = True,
+    target_form: str = "",
+    force_start: str = "",
+    username: str | None = None,
+    password: str | None = None,
+    log_callback: Any = None,
+    progress_callback: Any = None,
+    cancel_event: Any = None
+) -> list[dict[str, Any]]:
+    """
+    Executa a rotina completa de extração incremental.
+    Pode ser acionada via linha de comando ou pela interface gráfica.
+    """
+    username = username or os.getenv("MAPFY_USER", "").strip()
+    password = password or os.getenv("MAPFY_PASS", "")
+    if not username or not password:
+        raise RuntimeError(
+            "Credenciais ausentes. Configure MAPFY_USER e MAPFY_PASS no arquivo .env."
+        )
+
+    today_str = datetime.now().strftime("%d/%m/%Y")
+
+    def emit(message: str, level: str = "INFO"):
+        if level == "ERROR":
+            log.error(message)
+        elif level == "WARNING":
+            log.warning(message)
+        else:
+            log.info(message)
+        if log_callback:
+            try:
+                log_callback(message, level)
+            except Exception:
+                pass
+
+    emit("=" * 65)
+    emit("INICIANDO EXTRATOR MAPFY")
+    emit(f"Data de referência: {today_str}")
+    emit("=" * 65)
+
+    relatorio_geral: list[dict[str, Any]] = []
+
+    with sync_playwright() as pw:
+        # Lança o Microsoft Edge
+        browser = pw.chromium.launch(
+            channel="msedge",
+            headless=headless,
+            args=["--start-maximized"]
+        )
+
+        context_kwargs = {
+            "locale": "pt-BR",
+            "viewport": {"width": 1440, "height": 900},
+            "accept_downloads": True
+        }
+        if SESSION_FILE.exists():
+            emit(f"Carregando sessão prévia de {SESSION_FILE.name}")
+            context_kwargs["storage_state"] = str(SESSION_FILE)
+
+        context = browser.new_context(**context_kwargs)
+        page = context.new_page()
+
+        # Garante autenticação
+        try:
+            ensure_authenticated(page, context, username, password)
+        except Exception as e:
+            emit(f"Falha de autenticação: {e}", "ERROR")
+            browser.close()
+            return relatorio_geral
+
+        # Obtém lista de formulários disponíveis na tela filtrando por atividade em 2026
+        emit("Identificando formulários disponíveis no painel...")
+        try:
+            page.wait_for_selector(".gm-vc", timeout=15000)
+        except Exception as e:
+            emit(f"Erro ao carregar cards de formulários: {e}", "ERROR")
+            browser.close()
+            return relatorio_geral
+
+        cards = page.locator(".gm-vc")
+        total_cards = cards.count()
+
+        form_names: list[str] = []
+        for i in range(total_cards):
+            card = cards.nth(i)
+            title_elem = card.locator(".gm-vf")
+            if title_elem.count() == 0:
+                continue
+
+            name = title_elem.inner_text().strip()
+            if not name:
+                continue
+
+            # Inspeciona data da última sincronia no card
+            subtitles = card.locator(".gm-vg").all_inner_texts()
+            sub_text = " ".join(subtitles)
+            years = [int(y) for y in re.findall(r"\b\d{2}/\d{2}/(\d{4})\b", sub_text)]
+            latest_year = max(years) if years else None
+
+            # Regra: Se a última sincronia for anterior a 2026 ou dados zerados antigos, ignora
+            if latest_year is not None and latest_year < 2026:
+                emit(f"  [IGNORADO] {name} (Última sincronia em {latest_year}, sem movimentação em 2026)")
+                continue
+
+            form_names.append(name)
+
+        emit(f"\nTotal de formulários aptos com movimentação em 2026: {len(form_names)}")
+        for idx, name in enumerate(form_names, start=1):
+            emit(f"  [{idx:02d}] {name}")
+
+        if target_form:
+            target_name = target_form.strip().lower()
+            form_names = [f for f in form_names if target_name in f.lower()]
+            emit(f"Filtro aplicado: executando apenas '{form_names}'")
+
+        # Processamento iterativo de cada formulário
+        total_forms = len(form_names)
+        for idx, form_name in enumerate(form_names, start=1):
+            if cancel_event and cancel_event.is_set():
+                emit("Execução cancelada pelo usuário.", "WARNING")
+                break
+
+            form_folder = RELATORIOS_DIR / sanitize_name(form_name)
+            dados_csv = form_folder / "dados.csv"
+
+            # Determina a data inicial:
+            # 1. Se informada via linha de comando/interface
+            # 2. Se já houver dados.csv, busca a última data
+            # 3. Caso contrário, primeira carga = 01/01/2026
+            if force_start:
+                start_date = force_start
+            else:
+                latest_date = find_latest_date_in_csv(dados_csv)
+                if latest_date:
+                    start_date = latest_date
+                else:
+                    start_date = FIRST_RUN_DATE
+
+            finish_date = today_str
+
+            emit(f"\n>>> [{idx}/{total_forms}] Preparando: {form_name}")
+            res = extract_form_data(
+                context=context,
+                page=page,
+                form_name=form_name,
+                form_folder=form_folder,
+                start_date=start_date,
+                finish_date=finish_date
+            )
+            relatorio_geral.append(res)
+
+            if progress_callback:
+                try:
+                    progress_callback(idx, total_forms, form_name, res)
+                except Exception:
+                    pass
+
+            time.sleep(1.5)  # Pausa de estabilização entre formulários
+
+        # Resumo final da extração
+        emit("\n" + "=" * 65)
+        emit("RESUMO FINAL DA EXECUÇÃO")
+        emit("=" * 65)
+        for r in relatorio_geral:
+            emit(f"• {r['form']} | Status: {r['status']} | Novos: {r['added']} | Total: {r['total']} | {r['mensagem']}")
+
+        browser.close()
+        emit("\nExecução concluída com sucesso.")
+
+    return relatorio_geral
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Extração automatizada dos formulários Mapfy.")
+    parser.add_argument("--form", type=str, default="", help="Nome exato de um formulário para executar apenas ele.")
+    parser.add_argument("--headless", action="store_true", help="Executa o navegador em segundo plano.")
+    parser.add_argument("--force-start", type=str, default="", help="Força data inicial customizada (DD/MM/YYYY).")
+    args = parser.parse_args()
+
+    run_full_extraction(
+        headless=args.headless,
+        target_form=args.form,
+        force_start=args.force_start
+    )
+
+
+if __name__ == "__main__":
+    main()

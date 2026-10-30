@@ -1,0 +1,127 @@
+/* styles.css • Gestão Inteligente da Frota • Usina Pitangueiras 2026 */
+
+:root {
+    --bg-page: #f8fafc;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #94a3b8;
+    --border-color: #e2e8f0;
+    --card-bg: #ffffff;
+    --card-hover: #f1f5f9;
+    --header-bg: rgba(255, 255, 255, 0.94);
+    --kpi-bg: #f8fafc;
+    --node-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+    --badge-leve-bg: #ecfdf5;
+    --badge-leve-text: #059669;
+    --badge-leve-border: #a7f3d0;
+    --badge-mod-bg: #fffbeb;
+    --badge-mod-text: #d97706;
+    --badge-mod-border: #fde68a;
+    --table-header-bg: #f8fafc;
+    --table-row-hover: #f1f5f9;
+}
+
+html.dark {
+    --bg-page: #0f172a;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    --border-color: #1e293b;
+    --card-bg: #1e293b;
+    --card-hover: #334155;
+    --header-bg: rgba(15, 23, 42, 0.94);
+    --kpi-bg: #0f172a;
+    --node-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+    --badge-leve-bg: rgba(16, 185, 129, 0.15);
+    --badge-leve-text: #34d399;
+    --badge-leve-border: rgba(16, 185, 129, 0.35);
+    --badge-mod-bg: rgba(245, 158, 11, 0.15);
+    --badge-mod-text: #fbbf24;
+    --badge-mod-border: rgba(245, 158, 11, 0.35);
+    --table-header-bg: #0f172a;
+    --table-row-hover: #334155;
+}
+
+body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    transition: background-color 0.25s ease, color 0.25s ease;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.font-mono {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bg-page);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #10b981;
+}
+
+/* App Card */
+.app-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+    box-shadow: var(--node-shadow);
+    transition: all 0.2s ease;
+}
+
+.app-card:hover {
+    border-color: rgba(16, 185, 129, 0.4);
+}
+
+/* Badges de Criticidade */
+.badge-leve {
+    background: var(--badge-leve-bg);
+    color: var(--badge-leve-text);
+    border: 1px solid var(--badge-leve-border);
+}
+
+.badge-moderado {
+    background: var(--badge-mod-bg);
+    color: var(--badge-mod-text);
+    border: 1px solid var(--badge-mod-border);
+}
+
+/* Tabs Navegação */
+.nav-tab-btn {
+    transition: all 0.2s ease;
+    border-bottom: 2px solid transparent;
+}
+
+.nav-tab-btn.active {
+    color: #10b981;
+    border-bottom-color: #10b981;
+    font-weight: 700;
+}
+
+/* Map Styling */
+#mapContainer {
+    border-radius: 0.75rem;
+    overflow: hidden;
+    z-index: 10;
+}
+
+.leaflet-popup-content-wrapper {
+    background: var(--card-bg) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: 0.75rem !important;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2) !important;
+}
+
+.leaflet-popup-tip {
+    background: var(--card-bg) !important;
+}

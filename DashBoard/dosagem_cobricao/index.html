@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Dosagem de Produto na Cobrição | Usina Pitangueiras</title>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Estilos Customizados -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    
+    <!-- SheetJS (Excel Export) -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body>
+    <!-- Cabeçalho Oficial com Navegação Estrita -->
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="header-brand">
+                <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo">
+                <div class="brand-text">
+                    <h1>
+                        Dosagem de Produto — Cobrição
+                        <span class="badge-tag">Proteção de Cultivo</span>
+                    </h1>
+                    <div class="brand-subtitle">
+                        MapFy | Usina Pitangueiras • Safra 2026 • Controle Operacional, Análise de Dosagem e Rastreabilidade Agrícola
+                    </div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <a href="../index.html" class="btn-mandala" title="Retornar ao Hub Mandala Central">
+                    ← Mandala Hub
+                </a>
+                <button id="themeToggleBtn" class="btn-theme-toggle" title="Alternar tema claro/escuro">
+                    🌙
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Banner de Nota Técnica e Alinhamento Metodológico -->
+    <div class="technical-notice-banner">
+        <div class="notice-box">
+            <div class="notice-icon">ℹ️</div>
+            <div class="notice-content">
+                <div class="notice-title">Nota Técnica Operacional: Parâmetros, Unidades e Metodologia Estatística</div>
+                <div>
+                    Conforme auditoria do formulário de campo, as dosagens registradas concentram-se na faixa de <strong>1,00 a 1,16</strong>. Os valores são apresentados sob a chancela <strong>“Dosagem registrada”</strong> (unidade de medida técnica a validar: L/ha, kg/ha ou vazão específica pela área técnica agronômica). Para assegurar rigor científico e integridade operacional, <strong>não foram inventados limites arbitrários de aprovação/reprovação</strong>. Variações estatísticas são identificadas pelo método do <strong>Intervalo Interquartil (IQR 1,5x)</strong> como <em>“Valores Atípicos para Investigação”</em>, mantendo a rastreabilidade total de cada amostra sem rotulação prematura de erro.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Painel de Filtros Reativos -->
+    <section class="filters-container">
+        <div class="filters-card">
+            <div class="filters-header">
+                <div class="filters-title">
+                    <span>🔍</span> Filtros Operacionais & Seleção de Período
+                </div>
+                <div class="filters-actions">
+                    <button id="btnVerTodoHistorico" class="btn-filter-action" title="Exibe todo o histórico de dados de 2026">
+                        📅 Ver Todo o Histórico
+                    </button>
+                    <button id="btnResetFilters" class="btn-filter-action btn-filter-reset" title="Limpar todos os filtros">
+                        🔄 Limpar Filtros
+                    </button>
+                </div>
+            </div>
+
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label class="filter-label" for="filterDateExact">Data Específica</label>
+                    <input type="text" id="filterDateExact" class="filter-input" placeholder="DD/MM/AAAA (ex: 28/10/2026)">
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterFrente">Frente Operacional</label>
+                    <select id="filterFrente" class="filter-select">
+                        <option value="all">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterOS">Ordem de Serviço (OS)</label>
+                    <select id="filterOS" class="filter-select">
+                        <option value="all">Todas as OSs</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterLocal">Talhão / Local</label>
+                    <select id="filterLocal" class="filter-select">
+                        <option value="all">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterResponsavel">Responsável</label>
+                    <select id="filterResponsavel" class="filter-select">
+                        <option value="all">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label">Faixa de Dosagem</label>
+                    <div style="display: flex; gap: 0.5rem;">
+                        <input type="number" id="filterDosMin" class="filter-input" placeholder="Mín" step="0.01">
+                        <input type="number" id="filterDosMax" class="filter-input" placeholder="Máx" step="0.01">
+                    </div>
+                </div>
+            </div>
+
+            <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border-color);">
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyOutliers">
+                    <span style="font-size: 0.85rem; font-weight: 600; color: var(--color-atipico);">⚠️ Apenas Valores Atípicos para Investigação (IQR)</span>
+                </label>
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkExcludeOutliers">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Recalcular Média e Desvio sem Atípicos</span>
+                </label>
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyCoords">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Apenas Pontos Georreferenciados</span>
+                </label>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cards de KPIs Executivos -->
+    <section class="kpis-container">
+        <div class="kpis-grid">
+            <!-- KPI 1: Total Registros -->
+            <div class="kpi-card kpi-primary">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total de Registros</span>
+                    <span class="kpi-icon">📋</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTotalRegistros" class="kpi-value">925</span>
+                    <span class="kpi-unit">amostras</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiPeriodoAmostral">Histórico Completo</span>
+                    <span class="kpi-badge badge-info">100% IDs Únicos</span>
+                </div>
+            </div>
+
+            <!-- KPI 2: Dosagem Média -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Dosagem Média Registrada</span>
+                    <span class="kpi-icon">⚖️</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiDosagemMedia" class="kpi-value">1,09</span>
+                    <span class="kpi-unit">unid. reg.</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiDesvioPadrao">Desvio: ±0,612</span>
+                    <span class="kpi-badge badge-tipico" id="kpiAmostrasValidas">925 válidos</span>
+                </div>
+            </div>
+
+            <!-- KPI 3: Dosagem Mediana -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Dosagem Mediana</span>
+                    <span class="kpi-icon">🎯</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiDosagemMediana" class="kpi-value">1,10</span>
+                    <span class="kpi-unit">unid. reg.</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>50% das amostras ≤ 1,10</span>
+                    <span class="kpi-badge badge-tipico">Robusta a extremos</span>
+                </div>
+            </div>
+
+            <!-- KPI 4: Menor Dosagem -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Menor Dosagem</span>
+                    <span class="kpi-icon">📉</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiMenorDosagem" class="kpi-value">0,001</span>
+                    <span class="kpi-unit">mínimo</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Q1 (25%): 1,05</span>
+                    <span class="kpi-badge badge-info">Ponto mínimo</span>
+                </div>
+            </div>
+
+            <!-- KPI 5: Maior Dosagem -->
+            <div class="kpi-card kpi-aviso">
+                <div class="kpi-header">
+                    <span class="kpi-title">Maior Dosagem</span>
+                    <span class="kpi-icon">📈</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiMaiorDosagem" class="kpi-value">19,09</span>
+                    <span class="kpi-unit">máximo</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Q3 (75%): 1,10</span>
+                    <span class="kpi-badge badge-atipico">Ponto máximo</span>
+                </div>
+            </div>
+
+            <!-- KPI 6: Amplitude Observada -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Amplitude Observada</span>
+                    <span class="kpi-icon">📏</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiAmplitude" class="kpi-value">19,089</span>
+                    <span class="kpi-unit">dispersão</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Máx − Mín</span>
+                    <span class="kpi-badge badge-info">IQR: 0,050</span>
+                </div>
+            </div>
+
+            <!-- KPI 7: Valores Atípicos -->
+            <div class="kpi-card kpi-atipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Atípicos p/ Investigação</span>
+                    <span class="kpi-icon">⚠️</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiAtipicosCount" class="kpi-value">15</span>
+                    <span class="kpi-unit">registros</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiAtipicosPerc">1,62% do total</span>
+                    <span class="kpi-badge badge-atipico">Critério IQR 1,5x</span>
+                </div>
+            </div>
+
+            <!-- KPI 8: Qualidade dos Dados -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Problemas Estruturais</span>
+                    <span class="kpi-icon">🛡️</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiProblemasDados" class="kpi-value">0</span>
+                    <span class="kpi-unit">falhas</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Zero nulos ou ilegíveis</span>
+                    <span class="kpi-badge badge-tipico">100% Íntegro</span>
+                </div>
+            </div>
+
+            <!-- KPI 9: Abrangência Operacional -->
+            <div class="kpi-card kpi-primary">
+                <div class="kpi-header">
+                    <span class="kpi-title">Talhões & OSs</span>
+                    <span class="kpi-icon">🌾</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTalhoesOS" class="kpi-value">169 / 180</span>
+                    <span class="kpi-unit">distintos</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiFrentesCount">13 frentes ativas</span>
+                    <span class="kpi-badge badge-info">Ampla Cobertura</span>
+                </div>
+            </div>
+
+            <!-- KPI 10: Georreferenciamento -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Georreferenciamento</span>
+                    <span class="kpi-icon">📍</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiGeorrefPerc" class="kpi-value">100%</span>
+                    <span class="kpi-unit">válido</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiGeorrefCount">925 / 925 pontos</span>
+                    <span class="kpi-badge badge-tipico">Mapeamento Total</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gráficos e Seções Analíticas -->
+    <section class="analytics-container">
+        <!-- Linha 1 de Gráficos: Histograma de Distribuição & Evolução Temporal -->
+        <div class="charts-row-2">
+            <!-- Gráfico A: Distribuição das Dosagens -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📊</span> Gráfico A: Distribuição das Dosagens Registradas
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartDistribution"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico B: Evolução Temporal -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📈</span> Gráfico B: Evolução Temporal (Média Diária vs. Volume)
+                    </div>
+                    <div class="chart-card-tools">
+                        <div class="chart-view-toggle">
+                            <button id="btnTimelineMedia" class="chart-view-btn active">Média</button>
+                            <button id="btnTimelineMediana" class="chart-view-btn">Mediana</button>
+                            <button id="btnTimelineVolume" class="chart-view-btn">Volume</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartTimeline"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Linha 2 de Gráficos: Comparativo por Frente & Ranking por OS -->
+        <div class="charts-row-2">
+            <!-- Gráfico C: Comparativo por Frente -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🚜</span> Gráfico C: Dosagem Média por Frente de Trabalho
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartFrentes"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico D: Comparativo por OS -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📑</span> Gráfico D: Top 15 Ordens de Serviço (OS) com Mais Amostras
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartOS"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Linha 3 de Gráficos: Comparativo por Talhão & Análise por Responsável -->
+        <div class="charts-row-2">
+            <!-- Gráfico E: Comparativo por Talhão -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🗺️</span> Gráfico E: Top 15 Talhões / Locais Avaliados
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartLocais"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico F: Análise por Responsável -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>👷</span> Gráfico F: Volume e Média por Responsável Operacional
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartResponsaveis"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Linha 4 de Gráficos: Dispersão Individual (Scatter Plot) & Ritmo Horário -->
+        <div class="charts-row-2">
+            <!-- Gráfico G: Dispersão dos Registros -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🔬</span> Gráfico G: Dispersão Individual das Amostras & Detecção de Atípicos
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartScatter"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico H: Ritmo Horário -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>⏰</span> Ritmo Horário das Avaliações de Cobrição (07h às 18h)
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartHourly"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mapa Geográfico das Aplicações (100% OpenStreetMap Limpo) -->
+        <div class="map-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📍</span> Mapa Geográfico Operacional das Amostras de Cobrição
+                </div>
+                <div style="font-size: 0.8rem; color: var(--text-secondary);">
+                    Camada Oficial OpenStreetMap • Sem Marcas d'Água • 
+                    <span style="color: var(--color-tipico); font-weight: 600;">● Típico</span> | 
+                    <span style="color: var(--color-atipico); font-weight: 600;">● Atípico (IQR)</span>
+                </div>
+            </div>
+            <div id="map-container"></div>
+        </div>
+
+        <!-- Tabela Analítica Completa -->
+        <div class="table-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📑</span> Tabela Analítica Completa de Amostras de Cobrição
+                </div>
+            </div>
+
+            <div class="table-controls">
+                <div class="table-search-box">
+                    <span class="table-search-icon">🔍</span>
+                    <input type="text" id="tableSearchInput" class="table-search-input" placeholder="Buscar por ID, Data, Frente, OS, Talhão, Responsável...">
+                </div>
+
+                <div class="table-export-actions">
+                    <button id="btnExportExcel" class="btn-export" title="Exportar tabela filtrada para Excel (.xlsx)">
+                        📊 Exportar Excel
+                    </button>
+                    <button id="btnExportCSV" class="btn-export" title="Exportar tabela filtrada para CSV (.csv)">
+                        📄 Exportar CSV
+                    </button>
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table class="analytical-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="id">ID ⇕</th>
+                            <th data-sort="data">Data / Hora ⇕</th>
+                            <th data-sort="frente">Frente Operacional ⇕</th>
+                            <th data-sort="os">OS ⇕</th>
+                            <th data-sort="local">Talhão / Local ⇕</th>
+                            <th data-sort="responsavel">Responsável ⇕</th>
+                            <th data-sort="dosagem_num">Dosagem Registrada ⇕</th>
+                            <th data-sort="categoria_analitica">Classificação Analítica ⇕</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Linhas geradas dinamicamente -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-pagination">
+                <div id="tableInfo">Exibindo 0 de 0 registros</div>
+                <div class="pagination-buttons" id="paginationControls"></div>
+            </div>
+        </div>
+
+        <!-- Seção de Qualidade e Confiabilidade dos Dados -->
+        <div class="audit-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>🛡️</span> Diagnóstico de Qualidade, Integridade e Confiabilidade dos Dados
+                </div>
+            </div>
+            <div class="audit-grid">
+                <div class="audit-item">
+                    <span class="audit-item-title">IDs Duplicados</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">100% dos 925 IDs são exclusivos e auditáveis.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Dosagens Ausentes / Nulas</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">Todos os registros possuem valor preenchido em campo.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Valores Não Numéricos / Erros</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">Conversão numérica decimal brasileira 100% aprovada.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Valores Negativos</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">Nenhum registro apresentou valor inferior a zero.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Integridade Cartográfica</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">100% Válido</span>
+                    <span class="audit-item-desc">925 de 925 registros possuem latitude e longitude válidas.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Atípicos Estatísticos (IQR)</span>
+                    <span class="audit-item-value" style="color: var(--color-atipico);">15 Amostras</span>
+                    <span class="audit-item-desc">Identificados por método IQR 1,5x para averiguação técnica.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Score de Formulário</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">0,00 (100%)</span>
+                    <span class="audit-item-desc">Formulário móvel original sem pontuação de score ativa.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Coluna Unnamed: 15</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">100% Nula</span>
+                    <span class="audit-item-desc">Omitida da interface principal para preservar limpeza visual.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal de Detalhes da Inspeção -->
+    <div id="detailsModal" class="modal-overlay">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3 id="modalTitle">Detalhes da Inspeção #000000</h3>
+                <button id="modalCloseBtn" class="btn-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-grid">
+                    <div class="modal-field">
+                        <span class="modal-field-label">ID da Inspeção</span>
+                        <span id="mId" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data e Hora</span>
+                        <span id="mData" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data Lançamento</span>
+                        <span id="mDataLanc" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Duração da Avaliação</span>
+                        <span id="mDuracao" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Frente Operacional</span>
+                        <span id="mFrente" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Ordem de Serviço (OS)</span>
+                        <span id="mOS" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Local (Fazenda - Talhão)</span>
+                        <span id="mLocal" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Responsável</span>
+                        <span id="mResp" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Usuário Coletor</span>
+                        <span id="mUser" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Status do Formulário</span>
+                        <span id="mStatus" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Dosagem Registrada (Texto Original)</span>
+                        <span id="mDosOrig" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Dosagem Normalizada (Numérico)</span>
+                        <span id="mDosNum" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Classificação Estatística</span>
+                        <span id="mCategoria" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Diferença p/ Mediana Global</span>
+                        <span id="mDiffMed" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Coordenadas GPS</span>
+                        <span id="mCoords" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Score Original</span>
+                        <span id="mScore" class="modal-field-value">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rodapé Corporativo -->
+    <footer class="site-footer">
+        <div><strong>Usina Pitangueiras Açúcar e Álcool Ltda.</strong> • Sistema Integrado MapFy Safra 2026</div>
+        <div>Módulo: <em>Plantio — 11 — Dosagem de Produto na Cobrição</em> • Engenharia de Dados & Qualidade Agrícola</div>
+    </footer>
+
+    <!-- Scripts de Dados, Motor Analítico e Controlador -->
+    <script src="js/data.js"></script>
+    <script src="js/dosagem_cobricao_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

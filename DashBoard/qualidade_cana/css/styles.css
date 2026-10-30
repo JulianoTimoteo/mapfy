@@ -1,0 +1,161 @@
+/**
+ * styles.css - Qualidade da Cana
+ * ==============================
+ * Estilos Corporativos, Temas Claro/Escuro e Visualização de Qualidade
+ * Usina Pitangueiras • Monitoramento da Qualidade da Cana no Plantio
+ */
+
+:root {
+    --bg-page: #f8fafc;
+    --bg-header: rgba(255, 255, 255, 0.94);
+    --bg-card: #ffffff;
+    --bg-card-hover: #f1f5f9;
+    --bg-kpi: #f1f5f9;
+    --bg-subtle: #f8fafc;
+    --border-color: #e2e8f0;
+    --border-subtle: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #94a3b8;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.08);
+
+    /* Cores Semânticas de Qualidade */
+    --color-bom: #059669;
+    --color-bom-bg: #ecfdf5;
+    --color-bom-border: #a7f3d0;
+
+    --color-outros: #2563eb;
+    --color-outros-bg: #eff6ff;
+    --color-outros-border: #bfdbfe;
+
+    --color-divergente: #d97706;
+    --color-divergente-bg: #fffbeb;
+    --color-divergente-border: #fde68a;
+
+    --color-revisar: #e11d48;
+    --color-revisar-bg: #fff1f2;
+    --color-revisar-border: #fecdd3;
+}
+
+html.dark {
+    --bg-page: #121417;
+    --bg-header: rgba(24, 26, 30, 0.94);
+    --bg-card: #1c1e22;
+    --bg-card-hover: #23262b;
+    --bg-kpi: #17191d;
+    --bg-subtle: #24272d;
+    --border-color: #2e3238;
+    --border-subtle: #24272d;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 12px 35px rgba(0, 0, 0, 0.6);
+
+    --color-bom: #10b981;
+    --color-bom-bg: rgba(16, 185, 129, 0.12);
+    --color-bom-border: rgba(16, 185, 129, 0.28);
+
+    --color-outros: #3b82f6;
+    --color-outros-bg: rgba(59, 130, 246, 0.12);
+    --color-outros-border: rgba(59, 130, 246, 0.28);
+
+    --color-divergente: #f59e0b;
+    --color-divergente-bg: rgba(245, 158, 11, 0.12);
+    --color-divergente-border: rgba(245, 158, 11, 0.28);
+
+    --color-revisar: #f43f5e;
+    --color-revisar-bg: rgba(244, 63, 94, 0.12);
+    --color-revisar-border: rgba(244, 63, 94, 0.28);
+}
+
+body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+/* Scrollbar Customizada */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bg-page);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #10b981;
+}
+
+/* Badges Semânticos */
+.badge-bom {
+    background-color: var(--color-bom-bg);
+    color: var(--color-bom);
+    border: 1px solid var(--color-bom-border);
+}
+
+.badge-outros {
+    background-color: var(--color-outros-bg);
+    color: var(--color-outros);
+    border: 1px solid var(--color-outros-border);
+}
+
+.badge-divergente {
+    background-color: var(--color-divergente-bg);
+    color: var(--color-divergente);
+    border: 1px solid var(--color-divergente-border);
+}
+
+.badge-revisar {
+    background-color: var(--color-revisar-bg);
+    color: var(--color-revisar);
+    border: 1px solid var(--color-revisar-border);
+}
+
+/* Marcadores Leaflet Customizados */
+.custom-pin {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    transition: transform 0.2s ease;
+}
+.custom-pin:hover {
+    transform: scale(1.3);
+    z-index: 9999 !important;
+}
+
+.custom-pin-bom { background-color: #10b981; }
+.custom-pin-divergente { background-color: #f59e0b; }
+.custom-pin-obs { background-color: #0284c7; }
+.custom-pin-outros { background-color: #f43f5e; }
+
+/* Tabela Analítica */
+.table-row-hover:hover {
+    background-color: var(--bg-card-hover) !important;
+}
+
+@media print {
+    body {
+        background: #ffffff !important;
+        color: #000000 !important;
+    }
+    header, #filterSection, #paginationControls, .no-print {
+        display: none !important;
+    }
+}

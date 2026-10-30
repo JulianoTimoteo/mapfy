@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Inspeções das Frentes Agrícolas • Usina Pitangueiras</title>
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+    <!-- Leaflet Maps CDN -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <!-- Leaflet MarkerCluster -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Estilos Customizados da Aplicação -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        };
+    </script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
+
+    <!-- ======================================================== -->
+    <!-- 1. CABEÇALHO EXECUTIVO (SEÇÃO 7)                         -->
+    <!-- ======================================================== -->
+    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors"
+            style="background: var(--bg-header); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 py-3 flex flex-wrap items-center justify-between gap-4">
+            
+            <!-- Título e Identidade -->
+            <div class="flex items-center gap-3">
+                <a href="../index.html" class="p-2 rounded-xl border transition-all hover:scale-105"
+                   style="background: var(--bg-card); border-color: var(--border-color);"
+                   title="Voltar ao Hub Central da Mandala">
+                    <svg viewBox="0 0 24 24" class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <path d="M19 12H5m7 7l-7-7 7-7" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </a>
+                
+                <!-- Logo da Empresa Usina Pitangueiras -->
+                <div class="h-11 px-2.5 rounded-xl border shadow-sm flex items-center justify-center bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-8 w-auto object-contain">
+                </div>
+
+                <!-- Ícone Oficial do Checklist (Prancheta com Lupa e Visto Verde) -->
+                <div class="w-11 h-11 rounded-xl p-1 border shadow-sm flex items-center justify-center overflow-hidden flex-shrink-0"
+                     style="background: var(--bg-card); border-color: var(--border-color);">
+                    <img src="assets/checklist_vivencia.png" alt="Checklist Vivência" class="w-full h-full object-contain">
+                </div>
+
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight" style="color: var(--text-primary);">
+                            Painel de Inspeções das Frentes Agrícolas
+                        </h1>
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
+                            Área de Vivência
+                        </span>
+                    </div>
+                    <p class="text-xs" style="color: var(--text-secondary);">
+                        Monitoramento de conformidade, condições sanitárias, segurança e qualidade das áreas de vivência • Usina Pitangueiras
+                    </p>
+                </div>
+            </div>
+
+            <!-- Controles Rápidos do Cabeçalho -->
+            <div class="flex items-center gap-2 sm:gap-3 text-xs flex-wrap">
+                
+                <!-- Seletor Rápido de Período Temporal (Diferenciação Estrita do Selecionado) -->
+                <div class="period-segmented-group shadow-sm">
+                    <!-- Botão Safra Completa -->
+                    <button id="btnAllDates" class="period-toggle-btn active" data-period="all"
+                            title="Exibir todo o histórico da safra (347 inspeções)">
+                        <span>🌐</span>
+                        <span>Safra Completa</span>
+                        <span class="period-badge">347</span>
+                    </button>
+
+                    <!-- Botão Última Data -->
+                    <button id="btnLatestDate" class="period-toggle-btn" data-period="latest"
+                            title="Filtrar pela última data com inspeções registradas na base">
+                        <span>📅</span>
+                        <span>Última Data</span>
+                        <span class="period-badge" id="latestDateBadge">29/10</span>
+                    </button>
+
+                    <!-- Botão Hoje -->
+                    <button id="btnToday" class="period-toggle-btn" data-period="today"
+                            title="Verificar inspeções registradas na data de hoje">
+                        <span>📆</span>
+                        <span>Hoje</span>
+                    </button>
+                </div>
+
+                <!-- Exportar CSV -->
+                <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm">
+                    <span>📥</span>
+                    <span class="hidden sm:inline">Exportar CSV</span>
+                </button>
+
+                <!-- Imprimir Relatório -->
+                <button id="btnPrintReport" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all"
+                        style="background: var(--bg-card); border-color: var(--border-color);"
+                        title="Imprimir relatório executivo para A4/PDF">
+                    <span>🖨</span>
+                </button>
+
+                <!-- Toggle Tema Claro/Escuro -->
+                <button id="themeToggleBtn" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all"
+                        style="background: var(--bg-card); border-color: var(--border-color);"
+                        title="Alternar entre modo Claro e Escuro">
+                    <span id="themeIcon">🌙</span>
+                    <span id="themeLabel" class="hidden sm:inline">Escuro</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Barra de Contexto Ativo (Destaque do Período Selecionado) -->
+        <div class="border-t px-4 sm:px-8 py-2 text-xs flex flex-wrap items-center justify-between gap-3"
+             style="background: var(--bg-kpi); border-color: var(--border-color);">
+            <div class="flex items-center gap-2">
+                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                <span class="text-[var(--text-muted)] font-medium">Período Selecionado:</span>
+                <span id="currentDateDisplay" class="font-bold text-emerald-500 font-mono">🌐 Safra Completa (347 inspeções • 19/06/2026 a 29/10/2026)</span>
+                <span class="text-[var(--text-muted)]">•</span>
+                <span id="currentCountDisplay" class="font-mono text-[var(--text-secondary)] font-semibold">347 inspeções</span>
+            </div>
+            <div class="flex items-center gap-2 text-[var(--text-muted)] font-mono text-[11px]">
+                <span>Última Sincronização Mapfy:</span>
+                <span id="lastSyncDate" class="text-[var(--text-primary)] font-semibold">29/10/2026 08:32 (ID: 4015625)</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <main class="flex-1 w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 py-6 space-y-6">
+
+        <!-- ======================================================== -->
+        <!-- 2. BARRA DE FILTROS GLOBAIS (SEÇÃO 5)                    -->
+        <!-- ======================================================== -->
+        <section id="filterSection" class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2">
+                    <span class="text-sm">🔍</span>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Filtros Globais</h2>
+                </div>
+                <button id="btnClearFilters" class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1">
+                    <span>↺</span> Limpar Filtros
+                </button>
+            </div>
+
+            <!-- Grid de Controles de Filtros -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3 text-xs">
+                
+                <!-- Filtro de Data -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Data Específica</label>
+                    <input type="date" id="filterDate"
+                           class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                </div>
+
+                <!-- Filtro de Frente -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente de Colheita</label>
+                    <select id="filterFrente"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <!-- Filtro de Responsável -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável</label>
+                    <select id="filterResponsavel"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <!-- Filtro de Turno -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Turno</label>
+                    <select id="filterTurno"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Turnos</option>
+                        <option value="A">Turno A</option>
+                        <option value="B">Turno B</option>
+                        <option value="C">Turno C</option>
+                        <option value="OUTROS">Turnos Atípicos</option>
+                    </select>
+                </div>
+
+                <!-- Filtro de Resultado -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Resultado Avaliado</label>
+                    <select id="filterResultado"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Resultados</option>
+                        <option value="CONFORME">🟢 Conforme (100% OK)</option>
+                        <option value="ATENÇÃO">🟡 Atenção (Item Quebrado)</option>
+                        <option value="NÃO CONFORME">🔴 Não Conforme (Falha)</option>
+                    </select>
+                </div>
+
+                <!-- Filtro de Item Não Conforme -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ocorrência no Item</label>
+                    <select id="filterItem"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Qualquer Item</option>
+                        <option value="itemQuebrado">Item Quebrado / Em Falta</option>
+                        <option value="aguaHigienizacao">Sem Água de Higienização</option>
+                        <option value="aguaPotavel">Água Potável Inadequada</option>
+                        <option value="papelHigienico">Sem Papel Higiênico</option>
+                        <option value="papelToalha">Sem Papel Toalha</option>
+                        <option value="piaDescarga">Pia/Descarga Não Funcionando</option>
+                        <option value="limpeza">Limpeza Ruim</option>
+                        <option value="fitaIsolamento">Sem Fita de Isolamento</option>
+                        <option value="coneSinalizacao">Sem Cone de Sinalização</option>
+                    </select>
+                </div>
+
+                <!-- Filtro de Observação -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Observações (OBS)</label>
+                    <select id="filterObs"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as Inspeções</option>
+                        <option value="WITH_OBS">Apenas com OBS</option>
+                        <option value="WITHOUT_OBS">Sem OBS</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Busca Textual Instantânea e Tags Ativas -->
+            <div class="mt-4 pt-3 border-t flex flex-col md:flex-row items-start md:items-center justify-between gap-3"
+                 style="border-color: var(--border-color);">
+                <div class="w-full md:w-96 relative">
+                    <input type="text" id="globalSearch" placeholder="Buscar por ID, frente, responsável ou observação..."
+                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
+                </div>
+                <div id="activeFilterTags" class="flex flex-wrap gap-1.5 items-center">
+                    <!-- Preenchido via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 3. CARDS EXECUTIVOS INTERATIVOS (SEÇÃO 8)                -->
+        <!-- ======================================================== -->
+        <section class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3 sm:gap-4">
+            
+            <!-- Card 1: Inspeções Realizadas -->
+            <div id="cardTotalInspecoesContainer" class="card-transition p-4 rounded-2xl border flex flex-col justify-between cursor-pointer"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Total de inspeções registradas no filtro. Clique para ver todas.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-[var(--text-secondary)]">Inspeções</span>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="cardTotalInspecoes">0</div>
+                <span class="text-[10px] text-[var(--text-muted)] font-mono">Registros distintos</span>
+            </div>
+
+            <!-- Card 2: Frentes Inspecionadas -->
+            <div class="card-transition p-4 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Quantidade de frentes operacionais distintas monitoradas.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-[var(--text-secondary)]">Frentes</span>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="cardFrentesInspecionadas">0</div>
+                <span class="text-[10px] text-[var(--text-muted)] font-mono">Frentes ativas</span>
+            </div>
+
+            <!-- Card 3: Não Conformidades Confirmadas -->
+            <div id="cardNaoConformesContainer" class="card-transition p-4 rounded-2xl border flex flex-col justify-between cursor-pointer hover:border-rose-500"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Inspeções com falhas sanitárias/higiene confirmadas. Clique para filtrar.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-rose-500">Não Conformes</span>
+                <div class="text-2xl font-extrabold font-mono text-rose-500 my-1" id="cardNaoConformes">0</div>
+                <span class="text-[10px] text-rose-500/80 font-mono">Falhas críticas</span>
+            </div>
+
+            <!-- Card 4: Total de Itens Não Conformes -->
+            <div class="card-transition p-4 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Soma de todos os itens individuais que falharam nas inspeções.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-rose-500">Itens c/ Falha</span>
+                <div class="text-2xl font-extrabold font-mono text-rose-500 my-1" id="cardTotalItensFalhas">0</div>
+                <span class="text-[10px] text-rose-500/80 font-mono">Ocorrências sanitárias</span>
+            </div>
+
+            <!-- Card 5: Inspeções Conformes -->
+            <div id="cardConformesContainer" class="card-transition p-4 rounded-2xl border flex flex-col justify-between cursor-pointer hover:border-emerald-500"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Inspeções 100% conformes sem nenhuma ocorrência. Clique para filtrar.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-emerald-500">Conformes</span>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="cardConformes">0</div>
+                <span class="text-[10px] text-emerald-500/80 font-mono" id="cardConformesPerc">0% taxa</span>
+            </div>
+
+            <!-- Card 6: Inspeções Abertas -->
+            <div class="card-transition p-4 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Registros com status 'Aberto' no sistema Mapfy.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-sky-500">Status Aberto</span>
+                <div class="text-2xl font-extrabold font-mono text-sky-500 my-1" id="cardAbertas">0</div>
+                <span class="text-[10px] text-[var(--text-muted)] font-mono">Registros no Mapfy</span>
+            </div>
+
+            <!-- Card 7: Pendências de Informação -->
+            <div class="card-transition p-4 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Registros com inconsistências de dados (ex: turno atípico, duração negativa).">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-amber-500">Inconsistências</span>
+                <div class="text-2xl font-extrabold font-mono text-amber-500 my-1" id="cardPendencias">0</div>
+                <span class="text-[10px] text-amber-500/80 font-mono">Auditoria de dados</span>
+            </div>
+
+            <!-- Card 8: Frentes que Exigem Atenção -->
+            <div class="card-transition p-4 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Frentes com ocorrências de itens quebrados ou não conformidades.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-amber-500">Frentes Alerta</span>
+                <div class="text-2xl font-extrabold font-mono text-amber-500 my-1" id="cardFrentesAtencao">0</div>
+                <span class="text-[10px] text-amber-500/80 font-mono">Exigem intervenção</span>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 4. AUDITORIA DE SCORE (SEÇÃO 10)                         -->
+        <!-- ======================================================== -->
+        <section class="p-4 rounded-2xl border bg-amber-500/10 border-amber-500/30 flex items-start gap-3.5 text-xs text-amber-600 dark:text-amber-400">
+            <span class="text-lg">⚖️</span>
+            <div>
+                <strong class="font-bold">Auditoria de Dados & Validação de Score (Regra Seção 10):</strong>
+                <p class="mt-0.5 leading-relaxed text-[var(--text-secondary)]">
+                    Na base original do Mapfy, todos os 347 registros possuem <code class="font-mono bg-amber-500/20 px-1 py-0.5 rounded">Score = 0,00</code> e <code class="font-mono bg-amber-500/20 px-1 py-0.5 rounded">Score desc. = Baixo</code>, inclusive quando a área de vivência está plenamente conforme.
+                    Este painel <strong>preserva os valores originais para auditoria</strong> e implementa uma <strong>camada de validação item a item</strong>, refletindo a conformidade sanitária real de cada frente.
+                </p>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 5. CENTRAL DE ATENÇÃO OPERACIONAL (SEÇÃO 18)             -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2">
+                    <span class="text-sm">🚨</span>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Central de Atenção Operacional</h2>
+                    <span id="alertsCountBadge" class="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-500 border border-amber-500/30">
+                        0 Ocorrências
+                    </span>
+                </div>
+                <span class="text-[11px] text-[var(--text-muted)]">Ocorrências priorizadas por impacto sanitário e de segurança</span>
+            </div>
+
+            <div id="alertsContainer" class="space-y-2.5">
+                <!-- Preenchido via JS -->
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 6. MATRIZ DE CONFORMIDADE DOS ITENS (SEÇÃO 12)           -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📊</span>
+                        <span>Matriz de Conformidade por Frente e Item</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Visão consolidada: Frentes nas linhas x Itens avaliados nas colunas (clique na célula para filtrar)</p>
+                </div>
+                <div class="flex items-center gap-3 text-[11px]">
+                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-emerald-500/20 border border-emerald-500 text-emerald-500 text-[9px] flex items-center justify-center font-bold">✓</span> Conforme</span>
+                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-amber-500/20 border border-amber-500 text-amber-500 text-[9px] flex items-center justify-center font-bold">⚠</span> Item Quebrado</span>
+                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-rose-500/20 border border-rose-500 text-rose-500 text-[9px] flex items-center justify-center font-bold">✕</span> Não Conforme</span>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-xs">
+                    <thead id="matrixThead">
+                        <!-- Preenchido via JS -->
+                    </thead>
+                    <tbody id="matrixTbody">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 7. ANÁLISE POR FRENTE E GRÁFICOS (SEÇÕES 11 E 16)        -->
+        <!-- ======================================================== -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            
+            <!-- Tabela Comparativa das Frentes -->
+            <div class="lg:col-span-2 p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                            <span>🚜</span>
+                            <span>Situação das Frentes Agrícolas</span>
+                        </h2>
+                        <span class="text-xs text-[var(--text-muted)]">Clique na frente para filtrar o painel</span>
+                    </div>
+
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-xs">
+                            <thead>
+                                <tr class="border-b text-[11px] text-[var(--text-secondary)] font-semibold" style="border-color: var(--border-color);">
+                                    <th class="p-3 text-left">Frente</th>
+                                    <th class="p-3 text-center">Total</th>
+                                    <th class="p-3 text-center">Não Conformes</th>
+                                    <th class="p-3 text-center">Itens Quebrados</th>
+                                    <th class="p-3 text-center">Conformes</th>
+                                    <th class="p-3 text-center">Última Data</th>
+                                    <th class="p-3 text-center">Status</th>
+                                </tr>
+                            </thead>
+                            <tbody id="frenteTableBody">
+                                <!-- Preenchido via JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Gráfico de Rosca de Conformidade Geral (NUNCA EM BRANCO - DADOS EXPLICITOS) -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-3 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Distribuição de Conformidade</h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5" id="donutSubtitle">Classificação de qualidade operacional</p>
+                        </div>
+                        <span class="text-xs text-[var(--text-muted)] font-mono font-semibold" id="donutScopeBadge">% da safra</span>
+                    </div>
+
+                    <!-- Canvas da Rosca com Percentual Central em Destaque -->
+                    <div class="relative aspect-square w-full max-w-[210px] mx-auto py-2">
+                        <canvas id="chartDonut"></canvas>
+                        <div id="donutCenterOverlay" class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
+                            <span class="text-2xl sm:text-3xl font-extrabold font-mono text-emerald-500 leading-none" id="donutCenterPerc">75,5%</span>
+                            <span class="text-[10px] font-bold uppercase tracking-wider text-[var(--text-secondary)] mt-1">Conforme</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Detalhamento Numérico Explicito e Barras de Progresso (SEMPRE COM DADOS) -->
+                <div class="mt-3 pt-3 border-t space-y-2.5 text-xs" style="border-color: var(--border-color);" id="donutDataContainer">
+                    <!-- 1. Conforme -->
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-emerald-600 dark:text-emerald-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Conforme
+                            </span>
+                            <span class="font-mono font-bold" id="donutValConforme">262 (75,5%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarConforme" class="h-full bg-emerald-500 rounded-full transition-all duration-500" style="width: 75.5%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- 2. Atenção / Item Quebrado -->
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-amber-600 dark:text-amber-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Atenção (Item Quebrado)
+                            </span>
+                            <span class="font-mono font-bold" id="donutValAtencao">84 (24,2%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarAtencao" class="h-full bg-amber-500 rounded-full transition-all duration-500" style="width: 24.2%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- 3. Não Conforme / Falha Crítica -->
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-rose-600 dark:text-rose-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-rose-500"></span> Não Conforme (Falha)
+                            </span>
+                            <span class="font-mono font-bold" id="donutValNaoConforme">1 (0,3%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarNaoConforme" class="h-full bg-rose-500 rounded-full transition-all duration-500" style="width: 0.3%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Total Denominador -->
+                    <div class="pt-1.5 flex items-center justify-between text-[10px] text-[var(--text-muted)] font-mono border-t" style="border-color: var(--border-color);">
+                        <span>Total de Inspeções:</span>
+                        <span id="donutValTotal" class="font-bold text-[var(--text-primary)]">347 inspeções avaliadas</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ======================================================== -->
+        <!-- 8. ITENS MAIS AFETADOS E TURNOS (SEÇÃO 15)               -->
+        <!-- ======================================================== -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            
+            <!-- Ranking de Ocorrências por Item -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Itens com Mais Ocorrências</h2>
+                        <span class="text-xs text-[var(--text-muted)] font-mono">Ranking de Campo</span>
+                    </div>
+                    <div class="h-56 w-full">
+                        <canvas id="chartItems"></canvas>
+                    </div>
+                </div>
+
+                <!-- Detalhes dos Itens em Badges -->
+                <div id="itemsBreakdownContainer" class="mt-3 pt-3 border-t grid grid-cols-2 sm:grid-cols-3 gap-2 text-xs" style="border-color: var(--border-color);">
+                    <!-- Preenchido via JS -->
+                </div>
+            </div>
+
+            <!-- Distribuição por Turno -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Volume de Inspeções por Turno</h2>
+                        <span class="text-xs text-[var(--text-muted)] font-mono">Turnos A, B e C</span>
+                    </div>
+                    <div class="h-56 w-full">
+                        <canvas id="chartTurnos"></canvas>
+                    </div>
+                </div>
+
+                <!-- Detalhes dos Turnos em Badges -->
+                <div id="turnosBreakdownContainer" class="mt-3 pt-3 border-t grid grid-cols-4 gap-2 text-xs" style="border-color: var(--border-color);">
+                    <!-- Preenchido via JS -->
+                </div>
+            </div>
+        </div>
+
+        <!-- ======================================================== -->
+        <!-- 9. MAPA GEOGRÁFICO DAS INSPEÇÕES (SEÇÃO 17)              -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🗺️</span>
+                        <span>Geolocalização das Áreas de Vivência no Campo</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Pontos mapeados por coordenadas GPS nas fazendas e talhões da Usina Pitangueiras</p>
+                </div>
+                <div class="flex items-center gap-3 text-xs">
+                    <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Conforme</span>
+                    <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Atenção</span>
+                    <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-rose-500"></span> Não Conforme</span>
+                </div>
+            </div>
+
+            <!-- Container do Mapa Leaflet -->
+            <div id="mapContainer" class="w-full h-96 rounded-xl border z-10" style="border-color: var(--border-color);"></div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 10. TABELA COMPLETA DE INSPEÇÕES (SEÇÃO 13)              -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📋</span>
+                        <span>Registros Detalhados de Inspeção</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Rastreabilidade completa com todos os 28 campos auditáveis</p>
+                </div>
+                
+                <div class="flex items-center gap-3 text-xs">
+                    <label class="text-[var(--text-secondary)]">Exibir:</label>
+                    <select id="pageSizeSelect" class="p-1.5 rounded-lg border text-xs"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="15">15 por página</option>
+                        <option value="30">30 por página</option>
+                        <option value="50">50 por página</option>
+                        <option value="100">100 por página</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="table-container border rounded-xl overflow-x-auto" style="border-color: var(--border-color);">
+                <table class="w-full text-xs">
+                    <thead>
+                        <tr class="border-b text-[11px] text-[var(--text-secondary)] font-semibold" style="border-color: var(--border-color);">
+                            <th class="p-3 text-left">ID</th>
+                            <th class="p-3 text-left">Data / Hora</th>
+                            <th class="p-3 text-left">Frente</th>
+                            <th class="p-3 text-center">Turno</th>
+                            <th class="p-3 text-left">Responsável</th>
+                            <th class="p-3 text-left">Fazenda / Talhão</th>
+                            <th class="p-3 text-center">Classificação</th>
+                            <th class="p-3 text-center">Conformidade</th>
+                            <th class="p-3 text-left">Observação</th>
+                            <th class="p-3 text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Paginação -->
+            <div class="mt-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[var(--text-secondary)]">
+                <div id="paginationInfo" class="font-mono">Carregando...</div>
+                <div id="pageControls" class="flex items-center gap-2">
+                    <!-- Controles via JS -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="border-t py-6 text-center text-xs mt-auto transition-colors"
+            style="background: var(--bg-header); border-color: var(--border-color); color: var(--text-secondary);">
+        <p>Usina Pitangueiras • Monitoramento Operacional de Vivência & Sanitários • Safra 2026</p>
+        <p class="text-[11px] mt-1 font-mono opacity-80">Dados sincronizados incrementalmente com o servidor Mapfy • Rastreabilidade ponta a ponta</p>
+    </footer>
+
+    <!-- ======================================================== -->
+    <!-- 11. MODAL / RAIO-X INDIVIDUAL DA INSPEÇÃO (SEÇÃO 14)     -->
+    <!-- ======================================================== -->
+    <div id="recordModal" class="fixed inset-0 bg-black/60 dark:bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-3xl rounded-2xl shadow-2xl flex flex-col max-h-[90vh] animate-in fade-in zoom-in-95 duration-150 border"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <!-- Topo Modal -->
+            <div class="p-5 border-b flex items-start justify-between" style="border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center gap-2">
+                        <span class="text-[10px] font-mono uppercase tracking-wider font-bold px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
+                            INSPEÇÃO ID: <span id="modalRecordId">-</span>
+                        </span>
+                        <span id="modalRecordStatus" class="px-2 py-0.5 rounded-full text-[10px] font-bold">Status</span>
+                    </div>
+                    <h2 class="text-lg font-bold mt-1.5" id="modalRecordFrente">Frente</h2>
+                    <p class="text-xs text-[var(--text-secondary)] font-mono">
+                        Data: <span id="modalRecordDate">-</span> • Turno: <span id="modalRecordTurno">-</span> • Duração: <span id="modalRecordDuracao">-</span>
+                    </p>
+                </div>
+                <button id="modalCloseBtn" class="p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 transition-colors">
+                    ✕
+                </button>
+            </div>
+
+            <!-- Corpo Modal com Scroll -->
+            <div class="p-6 overflow-y-auto flex-1 space-y-5 text-xs">
+                
+                <!-- Informações Cadastrais -->
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 p-3.5 rounded-xl border bg-[var(--bg-subtle)]" style="border-color: var(--border-color);">
+                    <div>
+                        <div class="text-[10px] text-[var(--text-muted)] uppercase font-semibold">Responsável de Campo</div>
+                        <div class="font-bold text-[var(--text-primary)] mt-0.5" id="modalRecordResp">-</div>
+                    </div>
+                    <div>
+                        <div class="text-[10px] text-[var(--text-muted)] uppercase font-semibold">Usuário Registrante</div>
+                        <div class="font-mono text-[var(--text-primary)] mt-0.5 truncate" id="modalRecordUser">-</div>
+                    </div>
+                    <div>
+                        <div class="text-[10px] text-[var(--text-muted)] uppercase font-semibold">Fazenda / Talhão</div>
+                        <div class="font-mono font-bold text-[var(--text-primary)] mt-0.5" id="modalRecordLocal">-</div>
+                    </div>
+                    <div>
+                        <div class="text-[10px] text-[var(--text-muted)] uppercase font-semibold">Localização GPS</div>
+                        <a id="modalRecordMapLink" href="#" target="_blank" class="font-semibold text-emerald-500 hover:underline mt-0.5 block truncate">
+                            Ver no Mapa ↗
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Auditoria de Score -->
+                <div id="modalScoreAudit"></div>
+
+                <!-- Checklist Completo dos 11 Itens -->
+                <div>
+                    <h3 class="text-xs font-bold uppercase tracking-wider text-[var(--text-secondary)] mb-2.5">
+                        Avaliação Item a Item (Checklist Operacional)
+                    </h3>
+                    <div id="modalChecklistItems" class="space-y-1.5">
+                        <!-- Preenchido via JS -->
+                    </div>
+                </div>
+
+                <!-- Observação Textual -->
+                <div>
+                    <h3 class="text-xs font-bold uppercase tracking-wider text-[var(--text-secondary)] mb-1">
+                        Observação Registrada (OBS)
+                    </h3>
+                    <div id="modalRecordObs" class="p-3 rounded-xl border bg-[var(--bg-subtle)] font-mono text-xs leading-relaxed text-[var(--text-primary)]" style="border-color: var(--border-color);">
+                        Nenhuma observação.
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Footer Modal -->
+            <div class="p-4 border-t rounded-b-2xl flex items-center justify-between text-xs"
+                 style="background: var(--bg-kpi); border-color: var(--border-color);">
+                <span class="text-[var(--text-muted)] font-mono">Fonte: #Check-list área de vivência _ Colheita/dados.csv</span>
+                <button onclick="document.getElementById('recordModal').classList.add('hidden')"
+                        class="px-4 py-2 bg-emerald-600 text-white rounded-lg font-semibold hover:bg-emerald-500 transition-colors">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts de Dados, Regras e Controle -->
+    <script src="js/data.js"></script>
+    <script src="js/compliance_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

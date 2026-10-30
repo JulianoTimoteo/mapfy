@@ -1,0 +1,627 @@
+/**
+ * fullscreen_inspector.css
+ * ========================
+ * Estilos para visualização em Tela Inteira de Mapas Leaflet, Gráficos Chart.js
+ * e Adaptação Ergonômica Imersiva do Raio-X em Smartphones e Desktops.
+ * Usina Pitangueiras • Safra 2026
+ */
+
+/* --- 1. MODO TELA CHEIA PARA O MAPA OPERACIONAL --- */
+.map-fullscreen-active {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    max-width: 100vw !important;
+    max-height: 100vh !important;
+    z-index: 99990 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    background: #0f172a !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+}
+
+/* O elemento div do mapa preenche 100% da viewport */
+.map-fullscreen-active > div[id^="map"],
+.map-fullscreen-active .leaflet-container {
+    position: absolute !important;
+    inset: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 100vh !important;
+    border-radius: 0 !important;
+    z-index: 1 !important;
+}
+
+/* Barra de Controle Flutuante no Topo do Mapa em Tela Cheia */
+.map-fullscreen-topbar {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    right: 14px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+    gap: 10px;
+}
+
+.map-fullscreen-topbar > * {
+    pointer-events: auto;
+}
+
+.map-fullscreen-badge {
+    background: rgba(15, 23, 42, 0.88);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #f8fafc;
+    padding: 8px 14px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-exit-map-fullscreen {
+    background: #10b981;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 12px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 4px 14px rgba(16, 185, 129, 0.45);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border: none;
+}
+
+.btn-exit-map-fullscreen:hover {
+    background: #059669;
+    transform: scale(1.03);
+}
+
+/* --- 2. MODO TELA CHEIA PARA GRÁFICOS (CHART.JS) --- */
+.chart-fullscreen-active {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    max-width: 100vw !important;
+    max-height: 100vh !important;
+    z-index: 99980 !important;
+    margin: 0 !important;
+    padding: 24px !important;
+    border-radius: 0 !important;
+    background: #ffffff !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: none !important;
+    overflow: hidden !important;
+}
+
+html.dark .chart-fullscreen-active {
+    background: #0f172a !important;
+    color: #f8fafc !important;
+}
+
+.chart-fullscreen-active .chart-container-inner,
+.chart-fullscreen-active > div:has(canvas),
+.chart-fullscreen-active canvas {
+    flex: 1 1 0% !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-height: calc(100vh - 80px) !important;
+}
+
+/* Botão Universal de Tela Cheia nos Cards */
+.btn-toggle-fullscreen {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-secondary, #64748b);
+    border: 1px solid var(--border-color, #e2e8f0);
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.btn-toggle-fullscreen:hover {
+    color: #10b981;
+    border-color: #10b981;
+    background: rgba(16, 185, 129, 0.08);
+}
+
+/* --- 3. RAIO-X PERFEITO NO CELULAR (< 640px) --- */
+@media (max-width: 639px) {
+    /* O modal passa a ocupar 100% da tela do celular sem quebras laterais */
+    #recordModal > div,
+    #detailModal > div,
+    #detailsModal > div,
+    #recordDetailModal > div {
+        width: 100vw !important;
+        height: 100vh !important;
+        max-width: 100vw !important;
+        max-height: 100vh !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        padding: 16px 14px 24px 14px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        border: none !important;
+    }
+
+    #recordModal,
+    #detailModal,
+    #detailsModal,
+    #recordDetailModal {
+        padding: 0 !important;
+    }
+
+    /* Conteúdo interno com scroll suave e toque ergonômico */
+    #modalRecordContent,
+    #modalBody,
+    #modalComponentesList,
+    .modal-scroll-area {
+        flex: 1 1 0% !important;
+        overflow-y: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+        padding-bottom: 24px !important;
+    }
+
+    /* Ajuste de grids internas do Raio-X para coluna única ou 2 colunas equilibradas no celular */
+    #modalRecordContent .grid,
+    #modalBody .grid {
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+        gap: 8px !important;
+    }
+
+    /* Textos maiores e sem corte */
+    #recordModal h3,
+    #detailModal h3,
+    #detailsModal h3,
+    #recordDetailModal h3 {
+        font-size: 14px !important;
+    }
+
+    /* Botão fechar mais acessível para toque do polegar */
+    #btnCloseRecordModal,
+    #btnCloseDetailModal,
+    #btnCloseModal,
+    #btnCloseRecordDetailModal {
+        min-width: 36px;
+        min-height: 36px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+    }
+}
+
+/* Modo Tela Cheia Expandido para Raio-X no Computador/Desktop */
+.raiox-modal-fullscreen {
+    width: 96vw !important;
+    height: 94vh !important;
+    max-width: 96vw !important;
+    max-height: 94vh !important;
+}
+
+/* ==========================================================================
+   MODAIS DE RAIO-X / DETALHES DE MEDIÇÃO
+   Abertura prioritária e garantida SOBRE o mapa em tela cheia (z-index 999999)
+   ========================================================================== */
+#recordModal,
+#detailModal,
+#detailsModal,
+#recordDetailModal,
+#targetModal,
+.modal-overlay,
+.modal-backdrop,
+div[id$="Modal"]:not(#modalRecordContent):not(#modalBody):not(#modalComponentesList) {
+    z-index: 999999 !important;
+    position: fixed !important;
+}
+
+/* ==========================================================================
+   KPI CARDS EM LINHA ÚNICA (SEM DIVIDIR EM DUAS LINHAS NO DESKTOP)
+   Todos os cards cabem em uma linha horizontal única, limpa e espaçosa
+   ========================================================================== */
+@media (min-width: 1024px) {
+    .kpis-grid {
+        grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+        gap: 0.5rem !important;
+    }
+
+    .kpis-grid .kpi-card {
+        padding: 0.65rem 0.5rem !important;
+        min-width: 0 !important;
+    }
+
+    .kpis-grid .kpi-title {
+        font-size: 0.68rem !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    .kpis-grid .kpi-value {
+        font-size: 1.25rem !important;
+        font-weight: 800 !important;
+    }
+
+    .kpis-grid .kpi-footer {
+        font-size: 0.62rem !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    /* Redução ergonômica de padding nas seções com 10 cards em Tailwind */
+    section[class*="grid-cols-10"] > div,
+    div[class*="grid-cols-10"] > div {
+        padding: 0.65rem 0.5rem !important;
+        min-width: 0 !important;
+    }
+
+    section[class*="grid-cols-10"] div.text-2xl,
+    div[class*="grid-cols-10"] div.text-2xl {
+        font-size: 1.25rem !important;
+        line-height: 1.2 !important;
+    }
+}
+
+/* ==========================================================================
+   4. TOTALIZADOR NO CENTRO DE GRÁFICOS DE ROSCA (DONUT)
+   Garante visibilidade perfeita do somatório em tema claro e escuro
+   ========================================================================== */
+.donut-center-total-sum {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.1;
+    margin-top: 2px;
+    pointer-events: none;
+    user-select: none;
+}
+
+.donut-center-total-sum .total-num {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: 'JetBrains Mono', 'Plus Jakarta Sans', monospace, sans-serif;
+    color: var(--text-primary, #0f172a);
+}
+
+html.dark .donut-center-total-sum .total-num {
+    color: #f8fafc !important;
+}
+
+.donut-center-total-sum .total-lbl {
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-secondary, #64748b);
+    margin-top: 1px;
+}
+
+html.dark .donut-center-total-sum .total-lbl {
+    color: #94a3b8 !important;
+}
+
+/* ==========================================================================
+   5. FILTROS RÁPIDOS DA LINHA DO TEMPO / EVOLUÇÃO TEMPORAL (7D, 15D, 30D, Todos)
+   ========================================================================== */
+.timeline-quick-filter-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 3px;
+    border-radius: 10px;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    user-select: none;
+}
+
+html.dark .timeline-quick-filter-group {
+    background: rgba(30, 41, 59, 0.8) !important;
+    border-color: rgba(51, 65, 85, 0.8) !important;
+}
+
+.btn-quick-timeline-filter {
+    padding: 3px 9px;
+    border-radius: 7px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #64748b;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+html.dark .btn-quick-timeline-filter {
+    color: #94a3b8;
+}
+
+.btn-quick-timeline-filter:hover {
+    color: #10b981;
+}
+
+.btn-quick-timeline-filter.active {
+    background: #059669 !important;
+    color: #ffffff !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+/* ==========================================================================
+   6. ÍCONE INFORMATIVO (i) CIRCULAR E POPOVER EXPLICATIVO
+   Conforme especificações e imagem de referência (Tema Claro & Escuro)
+   ========================================================================== */
+.btn-info-popover {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
+    padding: 0 !important;
+    margin-left: 6px !important;
+    vertical-align: middle !important;
+    border-radius: 50% !important;
+    border: none !important;
+    background: transparent !important;
+    color: #64748b !important;
+    cursor: pointer !important;
+    transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), color 0.15s ease, background 0.15s ease !important;
+    flex-shrink: 0 !important;
+    position: relative !important;
+    z-index: 5 !important;
+}
+
+html.dark .btn-info-popover {
+    color: #94a3b8;
+}
+
+.btn-info-popover:hover {
+    color: #059669;
+    background: rgba(16, 185, 129, 0.12);
+    transform: scale(1.12);
+}
+
+html.dark .btn-info-popover:hover {
+    color: #34d399;
+    background: rgba(16, 185, 129, 0.2);
+}
+
+.btn-info-popover svg {
+    width: 17px;
+    height: 17px;
+    display: block;
+}
+
+/* Overlay & Card do Popover Explicativo */
+.pitangueiras-popover-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    background: rgba(15, 23, 42, 0.55);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+}
+
+.pitangueiras-popover-overlay.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.popover-card {
+    background: #ffffff;
+    color: #0f172a;
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 540px;
+    width: 100%;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(0, 0, 0, 0.05);
+    transform: scale(0.95);
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+}
+
+html.dark .popover-card {
+    background: #0f172a !important;
+    color: #f8fafc !important;
+    border: 1px solid rgba(51, 65, 85, 0.8) !important;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.65), 0 0 0 1px rgba(255, 255, 255, 0.08) !important;
+}
+
+.pitangueiras-popover-overlay.active .popover-card {
+    transform: scale(1);
+}
+
+.popover-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+html.dark .popover-header {
+    border-bottom-color: rgba(51, 65, 85, 0.6);
+}
+
+.popover-icon-badge {
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+    background: #ecfdf5;
+    color: #059669;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+html.dark .popover-icon-badge {
+    background: rgba(16, 185, 129, 0.16);
+    color: #34d399;
+}
+
+.popover-title-area h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.3;
+}
+
+html.dark .popover-title-area h3 {
+    color: #ffffff;
+}
+
+.popover-title-area span {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #059669;
+}
+
+html.dark .popover-title-area span {
+    color: #34d399;
+}
+
+.popover-close-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+    border: none;
+    background: transparent;
+    color: #94a3b8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+}
+
+.popover-close-btn:hover {
+    background: #f1f5f9;
+    color: #0f172a;
+}
+
+html.dark .popover-close-btn:hover {
+    background: #1e293b;
+    color: #ffffff;
+}
+
+.popover-body {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.popover-section {
+    padding: 12px 14px;
+    border-radius: 14px;
+    background: #f8fafc;
+    border: 1px solid #f1f5f9;
+}
+
+html.dark .popover-section {
+    background: rgba(30, 41, 59, 0.5);
+    border-color: rgba(51, 65, 85, 0.5);
+}
+
+.popover-section.highlight {
+    background: #f0fdf4;
+    border-color: #dcfce7;
+}
+
+html.dark .popover-section.highlight {
+    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.2);
+}
+
+.popover-section-label {
+    display: block;
+    font-size: 11px;
+    font-weight: 700;
+    color: #334155;
+    margin-bottom: 4px;
+}
+
+html.dark .popover-section-label {
+    color: #cbd5e1;
+}
+
+.popover-section.highlight .popover-section-label {
+    color: #065f46;
+}
+
+html.dark .popover-section.highlight .popover-section-label {
+    color: #6ee7b7;
+}
+
+.popover-section-text {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.55;
+    color: #475569;
+}
+
+html.dark .popover-section-text {
+    color: #94a3b8;
+}
+
+.popover-section.highlight .popover-section-text {
+    color: #064e3b;
+}
+
+html.dark .popover-section.highlight .popover-section-text {
+    color: #a7f3d0;
+}
+
+.popover-footer {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid #f1f5f9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 11px;
+    color: #94a3b8;
+}
+
+html.dark .popover-footer {
+    border-top-color: rgba(51, 65, 85, 0.5);
+}
+

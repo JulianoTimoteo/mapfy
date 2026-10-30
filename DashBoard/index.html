@@ -1,0 +1,2638 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Mandala & Hub Operacional • Usina Pitangueiras 2026</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Variáveis Globais de Cores para Temas Claro e Escuro */
+        :root {
+            --bg-page: #f8fafc;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --border-color: #e2e8f0;
+            --header-bg: rgba(255, 255, 255, 0.94);
+            --kpi-bg: #f1f5f9;
+            --card-bg: #ffffff;
+            --card-hover: #f8fafc;
+            --center-hud-bg: #ffffff;
+            --center-hud-border: rgba(16, 185, 129, 0.40);
+            --center-hud-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            --orbit-ring: #cbd5e1;
+            --orbit-tick: #94a3b8;
+            --spoke-line: #cbd5e1;
+            --node-bg: #ffffff;
+            --node-border: #e2e8f0;
+            --node-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+            --node-label-bg: rgba(255, 255, 255, 0.95);
+            --node-label-border: #e2e8f0;
+            --node-label-text: #1e293b;
+            --modal-bg: #ffffff;
+            --modal-item-bg: #f8fafc;
+            --icon-main: #0f172a;
+            --icon-cutout: #ffffff;
+            --icon-accent: #059669;
+        }
+
+        html.dark {
+            --bg-page: #0f172a;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --border-color: #1e293b;
+            --header-bg: rgba(15, 23, 42, 0.94);
+            --kpi-bg: #1e293b;
+            --card-bg: #1e293b;
+            --card-hover: #334155;
+            --center-hud-bg: #0f172a;
+            --center-hud-border: rgba(16, 185, 129, 0.45);
+            --center-hud-shadow: 0 0 50px rgba(16, 185, 129, 0.25);
+            --orbit-ring: #334155;
+            --orbit-tick: #475569;
+            --spoke-line: #334155;
+            --node-bg: #1e293b;
+            --node-border: #334155;
+            --node-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+            --node-label-bg: rgba(15, 23, 42, 0.95);
+            --node-label-border: #334155;
+            --node-label-text: #e2e8f0;
+            --modal-bg: #1e293b;
+            --modal-item-bg: #0f172a;
+            --icon-main: #FFFFFF;
+            --icon-cutout: #242629;
+            --icon-accent: #10B981;
+        }
+
+        body {
+            background-color: var(--bg-page);
+            color: var(--text-primary);
+            transition: background-color 0.25s ease, color 0.25s ease;
+        }
+
+        /* --- MOTOR DE MOVIMENTO PROFISSIONAL E VIDA NA MANDALA --- */
+        @keyframes radarSweep {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        @keyframes orbitClockwise {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        @keyframes orbitCounterClockwise {
+            from { transform: rotate(360deg); }
+            to { transform: rotate(0deg); }
+        }
+        @keyframes ringBreathe {
+            0%, 100% { opacity: 0.35; stroke-width: 1.2px; }
+            50% { opacity: 0.75; stroke-width: 1.8px; }
+        }
+        @keyframes spokeFlow {
+            from { stroke-dashoffset: 20; }
+            to { stroke-dashoffset: 0; }
+        }
+        @keyframes nodeFloatHarmonic {
+            0%, 100% {
+                transform: translate(-50%, -50%) translateY(0px);
+            }
+            50% {
+                transform: translate(-50%, -50%) translateY(-3.5px);
+            }
+        }
+        @keyframes centerBeacon {
+            0% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.40), var(--center-hud-shadow);
+            }
+            60% {
+                box-shadow: 0 0 0 16px rgba(16, 185, 129, 0), var(--center-hud-shadow);
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0), var(--center-hud-shadow);
+            }
+        }
+
+        /* Classes de Movimento Contínuo da Mandala */
+        .radar-sweep-beam {
+            transform-origin: 400px 400px;
+            animation: radarSweep 22s linear infinite;
+            will-change: transform;
+        }
+        .orbit-outer-group {
+            transform-origin: 400px 400px;
+            animation: orbitClockwise 90s linear infinite;
+            will-change: transform;
+        }
+        .orbit-inner-dashed {
+            transform-origin: 400px 400px;
+            animation: orbitCounterClockwise 120s linear infinite;
+            will-change: transform;
+        }
+        .orbit-pulse-ring {
+            animation: ringBreathe 6s ease-in-out infinite;
+        }
+        .spoke-flow {
+            animation: spokeFlow 1.6s linear infinite;
+        }
+        .mandala-node {
+            animation: nodeFloatHarmonic 4.8s ease-in-out infinite;
+            will-change: transform;
+            transition: opacity 0.25s ease, filter 0.25s ease;
+        }
+        .mandala-node:hover {
+            animation-play-state: paused !important;
+            transform: translate(-50%, -50%) scale(1.15) !important;
+            z-index: 50 !important;
+        }
+        #centerHud {
+            animation: centerBeacon 4.2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        #centerHud:hover {
+            transform: scale(1.025);
+            border-color: #10b981;
+        }
+
+        /* --- FOCO CINEMÁTICO NO HOVER / INTERAÇÃO --- */
+        .mandala-container.has-focus .mandala-node:not(.is-focused) {
+            opacity: 0.32;
+            filter: grayscale(35%);
+        }
+        .mandala-container.has-focus .spoke-line:not(.is-focused) {
+            stroke-opacity: 0.12 !important;
+        }
+        .mandala-node.is-focused {
+            transform: translate(-50%, -50%) scale(1.18) !important;
+            z-index: 50 !important;
+            animation-play-state: paused !important;
+        }
+        .mandala-node.is-focused .node-disc {
+            box-shadow: 0 0 28px rgba(16, 185, 129, 0.70) !important;
+            border-color: #10b981 !important;
+        }
+
+        /* --- INTELIGÊNCIA DE ESTADOS (VISITADOS E RECENTES) --- */
+        /* 1. Relatório Já Visitado pelo Usuário */
+        .mandala-node.is-visited .node-disc {
+            border-color: #38bdf8 !important; /* Azul Safira / Céu */
+            box-shadow: 0 0 16px rgba(56, 189, 248, 0.40) !important;
+        }
+        .mandala-node.is-visited .badge-index {
+            background: rgba(56, 189, 248, 0.20) !important;
+            color: #38bdf8 !important;
+            border-color: rgba(56, 189, 248, 0.40) !important;
+        }
+        .mandala-node.is-visited .visited-badge,
+        .grid-item.is-visited .visited-badge {
+            display: inline-flex !important;
+        }
+        .grid-item.is-visited {
+            border-color: rgba(56, 189, 248, 0.50) !important;
+            box-shadow: 0 4px 18px rgba(56, 189, 248, 0.14) !important;
+        }
+
+        /* 2. Relatório com Atualização Recente na Safra */
+        .mandala-node.is-recent:not(.is-visited) .node-disc {
+            border-color: #f59e0b !important; /* Âmbar Dourado */
+        }
+
+        /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
+        .aerial-backdrop-container {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+            overflow: hidden;
+        }
+        .aerial-backdrop-img {
+            background-image: url('assets/usina_pitangueiras_bg.jpg');
+            transform: scale(1.03);
+            filter: saturate(0.90) contrast(1.05);
+        }
+        /* No tema escuro: transparência sutil e vinheta escura profunda */
+        html.dark .aerial-backdrop-img {
+            opacity: 0.18;
+        }
+        html.dark .aerial-backdrop-overlay {
+            background: radial-gradient(circle at 50% 50%, rgba(15, 23, 42, 0.40) 0%, rgba(15, 23, 42, 0.78) 65%, rgba(15, 23, 42, 0.95) 100%);
+        }
+        /* No tema claro: transparência suave e vinheta clara */
+        html:not(.dark) .aerial-backdrop-img {
+            opacity: 0.12;
+        }
+        html:not(.dark) .aerial-backdrop-overlay {
+            background: radial-gradient(circle at 50% 50%, rgba(248, 250, 252, 0.50) 0%, rgba(248, 250, 252, 0.82) 65%, rgba(248, 250, 252, 0.96) 100%);
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .radar-sweep-beam,
+            .orbit-outer-group,
+            .orbit-inner-dashed,
+            .spoke-flow,
+            .mandala-node,
+            #centerHud {
+                animation: none !important;
+            }
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-page);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #10b981;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white relative">
+
+    <!-- PLANO DE FUNDO PANORÂMICO AÉREO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) -->
+    <div class="aerial-backdrop-container" aria-hidden="true">
+        <div class="aerial-backdrop-img absolute inset-0 bg-cover bg-center bg-no-repeat transition-opacity duration-700"></div>
+        <div class="aerial-backdrop-overlay absolute inset-0 transition-colors duration-700"></div>
+    </div>
+
+    <!-- Header Superior -->
+    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
+            style="background: var(--header-bg); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+            
+            <!-- Logo Oficial da Usina Pitangueiras 51 Anos -->
+            <div class="flex items-center gap-3.5">
+                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
+                </div>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight" style="color: var(--text-primary);">Hub de Inteligência Agrícola</h1>
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">Safra 2026</span>
+                    </div>
+                    <p class="text-xs" style="color: var(--text-secondary);">Monitoramento Operacional & Qualidade de Campo</p>
+                </div>
+            </div>
+
+            <!-- KPIs Rápidos + Toggle de Tema Claro/Escuro -->
+            <div class="flex items-center gap-3 sm:gap-4 text-xs">
+                <div class="hidden sm:flex items-center gap-2 px-3 py-1.5 rounded-lg border transition-colors"
+                     style="background: var(--kpi-bg); border-color: var(--border-color);">
+                    <span class="text-emerald-500 font-bold">●</span>
+                    <span style="color: var(--text-secondary);">Total Consolidado:</span>
+                    <strong class="font-mono text-emerald-500 font-bold">21,907</strong>
+                </div>
+
+                <!-- Toggle Tema -->
+                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
+                        style="background: var(--kpi-bg); border-color: var(--border-color); color: var(--text-primary);"
+                        title="Alternar entre modo Claro e Escuro">
+                    <span id="themeIcon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Barra de Controle Central: Mandala vs Grid + Legenda Inteligente de Estados -->
+    <div class="border-b py-2.5 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
+         style="background: var(--header-bg); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-wrap items-center justify-between gap-3">
+            
+            <!-- Grupo de Alternância Centralizado -->
+            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
+                 style="background: var(--kpi-bg); border-color: var(--border-color);">
+                <button id="btnMandala" onclick="switchView('mandala')"
+                        class="px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm">
+                    Mandala Circular
+                </button>
+                <button id="btnGrid" onclick="switchView('grid')"
+                        class="px-4 py-1.5 rounded-lg transition-all"
+                        style="color: var(--text-secondary);">
+                    Grid Minimalista
+                </button>
+                <button id="btnBoth" onclick="switchView('both')"
+                        class="px-4 py-1.5 rounded-lg transition-all"
+                        style="color: var(--text-secondary);">
+                    ◈ Ambos
+                </button>
+            </div>
+
+            <!-- Indicador do Ciclo Completo e Legenda de Estados -->
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-4 text-xs font-mono" style="color: var(--text-secondary);">
+                <div class="flex items-center gap-1.5">
+                    <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-[0_0_8px_#10b981]"></span>
+                    <span class="font-bold text-emerald-600 dark:text-emerald-400">17 Painéis Ativos</span>
+                </div>
+                <span>•</span>
+                <div class="flex items-center gap-1.5" title="Sincronizados recentemente na Safra (27/10)">
+                    <span class="w-2.5 h-2.5 rounded-full bg-amber-500 animate-pulse shadow-[0_0_8px_#f59e0b]"></span>
+                    <span class="font-semibold text-amber-500">12 Recentes</span>
+                </div>
+                <span>•</span>
+                <div class="flex items-center gap-1.5" title="Relatórios consultados no seu navegador">
+                    <span class="w-2.5 h-2.5 rounded-full bg-sky-500 shadow-[0_0_8px_#38bdf8]"></span>
+                    <span class="font-semibold text-sky-500"><span id="countVisited">0</span> Visitados</span>
+                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-1 cursor-pointer" title="Zerar histórico de visitas">Limpar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conteúdo Principal com Elevação z-10 sobre o Fundo da Usina -->
+    <main class="flex-1 w-full max-w-[1920px] mx-auto px-2 sm:px-4 md:px-6 lg:px-8 py-2 sm:py-3 flex flex-col items-center justify-center relative z-10">
+
+        <!-- ======================================================== -->
+        <!-- SEÇÃO 1: MANDALA AGRONÔMICA 360° (ALTA PRECISÃO & VIDA)  -->
+        <!-- ======================================================== -->
+        <section id="mandalaSection" class="w-full flex flex-col items-center justify-center transition-all duration-300">
+
+            <!-- Mandala Visual Container Espaçoso (Aproveita 2 a 3 cm a mais verticalmente: 84vh / 920px) -->
+            <div id="mandalaContainer" class="mandala-container relative w-[min(96vw,84vh)] h-[min(96vw,84vh)] max-w-[920px] max-h-[920px] aspect-square mx-auto flex items-center justify-center p-1 sm:p-2 select-none">
+                
+                <!-- SVG de Fundo com Radar 360°, Órbitas e Fluxo de Dados -->
+                <svg viewBox="0 0 800 800" class="absolute inset-0 w-full h-full pointer-events-none">
+                    <defs>
+                        <!-- Gradiente Suave Central -->
+                        <radialGradient id="centerAura" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#10b981" stop-opacity="0.16"/>
+                            <stop offset="65%" stop-color="#10b981" stop-opacity="0.03"/>
+                            <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+                        </radialGradient>
+
+                        <!-- Gradiente do Feixe de Radar Agronômico / Scanner em Tempo Real -->
+                        <linearGradient id="radarBeamGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
+                            <stop offset="50%" stop-color="#10b981" stop-opacity="0.07"/>
+                            <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+                        </linearGradient>
+
+                        <!-- Filtro de Brilho Esmeralda -->
+                        <filter id="glowEmerald" x="-20%" y="-20%" width="140%" height="140%">
+                            <feGaussianBlur stdDeviation="2.5" result="blur"/>
+                            <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+                        </filter>
+                    </defs>
+
+                    <!-- Aura Central Suave -->
+                    <circle cx="400" cy="400" r="378" fill="url(#centerAura)"/>
+
+                    <!-- Anel Externo de Medição com Ticks de Bússola (Rotação Contínua Suave 90s) -->
+                    <g class="orbit-outer-group">
+                        <circle cx="400" cy="400" r="378" stroke="var(--orbit-ring)" stroke-width="1.2" stroke-opacity="0.6" fill="none"/>
+                        <line x1="768.0" y1="400.0" x2="779.0" y2="400.0" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="771.6" y1="432.5" x2="777.6" y2="433.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="767.3" y1="464.8" x2="773.2" y2="465.8" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="760.3" y1="496.5" x2="766.1" y2="498.1" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="750.5" y1="527.6" x2="756.1" y2="529.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="738.1" y1="557.6" x2="743.5" y2="560.2" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="718.7" y1="584.0" x2="728.2" y2="589.5" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="705.5" y1="613.9" x2="710.5" y2="617.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="685.7" y1="639.8" x2="690.3" y2="643.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="663.8" y1="663.8" x2="668.0" y2="668.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="639.8" y1="685.7" x2="643.6" y2="690.3" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="613.9" y1="705.5" x2="617.4" y2="710.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="584.0" y1="718.7" x2="589.5" y2="728.2" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="557.6" y1="738.1" x2="560.2" y2="743.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="527.6" y1="750.5" x2="529.6" y2="756.1" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="496.5" y1="760.3" x2="498.1" y2="766.1" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="464.8" y1="767.3" x2="465.8" y2="773.2" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="432.5" y1="771.6" x2="433.0" y2="777.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="400.0" y1="768.0" x2="400.0" y2="779.0" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="367.5" y1="771.6" x2="367.0" y2="777.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="335.2" y1="767.3" x2="334.2" y2="773.2" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="303.5" y1="760.3" x2="301.9" y2="766.1" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="272.4" y1="750.5" x2="270.4" y2="756.1" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="242.4" y1="738.1" x2="239.8" y2="743.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="216.0" y1="718.7" x2="210.5" y2="728.2" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="186.1" y1="705.5" x2="182.6" y2="710.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="160.2" y1="685.7" x2="156.4" y2="690.3" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="136.2" y1="663.8" x2="132.0" y2="668.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="114.3" y1="639.8" x2="109.7" y2="643.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="94.5" y1="613.9" x2="89.5" y2="617.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="81.3" y1="584.0" x2="71.8" y2="589.5" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="61.9" y1="557.6" x2="56.5" y2="560.2" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="49.5" y1="527.6" x2="43.9" y2="529.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="39.7" y1="496.5" x2="33.9" y2="498.1" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="32.7" y1="464.8" x2="26.8" y2="465.8" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="28.4" y1="432.5" x2="22.4" y2="433.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="32.0" y1="400.0" x2="21.0" y2="400.0" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="28.4" y1="367.5" x2="22.4" y2="367.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="32.7" y1="335.2" x2="26.8" y2="334.2" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="39.7" y1="303.5" x2="33.9" y2="301.9" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="49.5" y1="272.4" x2="43.9" y2="270.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="61.9" y1="242.4" x2="56.5" y2="239.8" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="81.3" y1="216.0" x2="71.8" y2="210.5" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="94.5" y1="186.1" x2="89.5" y2="182.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="114.3" y1="160.2" x2="109.7" y2="156.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="136.2" y1="136.2" x2="132.0" y2="132.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="160.2" y1="114.3" x2="156.4" y2="109.7" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="186.1" y1="94.5" x2="182.6" y2="89.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="216.0" y1="81.3" x2="210.5" y2="71.8" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="242.4" y1="61.9" x2="239.8" y2="56.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="272.4" y1="49.5" x2="270.4" y2="43.9" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="303.5" y1="39.7" x2="301.9" y2="33.9" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="335.2" y1="32.7" x2="334.2" y2="26.8" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="367.5" y1="28.4" x2="367.0" y2="22.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="400.0" y1="32.0" x2="400.0" y2="21.0" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="432.5" y1="28.4" x2="433.0" y2="22.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="464.8" y1="32.7" x2="465.8" y2="26.8" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="496.5" y1="39.7" x2="498.1" y2="33.9" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="527.6" y1="49.5" x2="529.6" y2="43.9" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="557.6" y1="61.9" x2="560.2" y2="56.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="584.0" y1="81.3" x2="589.5" y2="71.8" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="613.9" y1="94.5" x2="617.4" y2="89.5" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="639.8" y1="114.3" x2="643.6" y2="109.7" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="663.8" y1="136.2" x2="668.0" y2="132.0" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="685.7" y1="160.2" x2="690.3" y2="156.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="705.5" y1="186.1" x2="710.5" y2="182.6" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="718.7" y1="216.0" x2="728.2" y2="210.5" stroke="var(--orbit-tick)" stroke-width="2.0"/><line x1="738.1" y1="242.4" x2="743.5" y2="239.8" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="750.5" y1="272.4" x2="756.1" y2="270.4" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="760.3" y1="303.5" x2="766.1" y2="301.9" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="767.3" y1="335.2" x2="773.2" y2="334.2" stroke="var(--orbit-tick)" stroke-width="1.0"/><line x1="771.6" y1="367.5" x2="777.6" y2="367.0" stroke="var(--orbit-tick)" stroke-width="1.0"/>
+                    </g>
+
+                    <!-- Feixe de Radar / Scanner Inteligente (Varre em 360 graus suavemente a cada 22s) -->
+                    <g class="radar-sweep-beam">
+                        <path d="M 400 400 L 400 22 A 378 378 0 0 1 645 125 Z" fill="url(#radarBeamGrad)"/>
+                        <line x1="400" y1="400" x2="400" y2="22" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.85" filter="url(#glowEmerald)"/>
+                        <circle cx="400" cy="22" r="3.5" fill="#10b981"/>
+                    </g>
+
+                    <!-- Anéis Orbitais Primários e Secundários -->
+                    <circle cx="400" cy="400" r="310" stroke="var(--orbit-ring)" stroke-width="1.8" stroke-dasharray="4 6" class="orbit-inner-dashed" fill="none"/>
+                    <circle cx="400" cy="400" r="230" stroke="var(--orbit-ring)" stroke-width="1.2" stroke-dasharray="2 4" opacity="0.6" class="orbit-outer-group" fill="none"/>
+                    <circle cx="400" cy="400" r="152" stroke="#10b981" stroke-width="1.5" stroke-opacity="0.35" class="orbit-pulse-ring" fill="none"/>
+
+                    <!-- Linhas Radiais (Spokes) com Animação de Fluxo de Dados Contínuo -->
+                    
+        <line id="spoke-0" x1="400.0" y1="400.0" x2="400.0" y2="90.0"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-1" x1="400.0" y1="400.0" x2="512.0" y2="110.9"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-2" x1="400.0" y1="400.0" x2="608.8" y2="170.9"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-3" x1="400.0" y1="400.0" x2="677.5" y2="261.8"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-4" x1="400.0" y1="400.0" x2="708.7" y2="371.4"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-5" x1="400.0" y1="400.0" x2="698.2" y2="484.8"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-6" x1="400.0" y1="400.0" x2="647.4" y2="586.8"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-7" x1="400.0" y1="400.0" x2="563.2" y2="663.6"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-8" x1="400.0" y1="400.0" x2="457.0" y2="704.7"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-9" x1="400.0" y1="400.0" x2="343.0" y2="704.7"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-10" x1="400.0" y1="400.0" x2="236.8" y2="663.6"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-11" x1="400.0" y1="400.0" x2="152.6" y2="586.8"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-12" x1="400.0" y1="400.0" x2="101.8" y2="484.8"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-13" x1="400.0" y1="400.0" x2="91.3" y2="371.4"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-14" x1="400.0" y1="400.0" x2="122.5" y2="261.8"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-15" x1="400.0" y1="400.0" x2="191.2" y2="170.9"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+        <line id="spoke-16" x1="400.0" y1="400.0" x2="288.0" y2="110.9"
+              stroke="#10b981" stroke-width="1.8" stroke-dasharray="4 6" class="spoke-line spoke-flow transition-all duration-300"/>
+        
+
+                    <!-- Ponto central de ancoragem -->
+                    <circle cx="400" cy="400" r="4.5" fill="#10b981"/>
+                </svg>
+
+                <!-- NÓ CENTRAL / HUD INTERATIVO COM BATIMENTO CARDÍACO (HEARTBEAT OPERACIONAL) -->
+                <div id="centerHud"
+                     class="w-36 h-36 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-full border-2 flex flex-col items-center justify-center text-center p-2 sm:p-3 md:p-5 transition-all duration-300 z-10 relative cursor-pointer"
+                     style="background: var(--center-hud-bg); border-color: var(--center-hud-border); box-shadow: var(--center-hud-shadow); color: var(--text-primary);">
+                    
+                    <!-- Estado Padrão do Centro -->
+                    <div id="centerDefault" class="space-y-0.5 sm:space-y-1 flex flex-col items-center justify-center p-1 w-full">
+                        <div class="w-full flex items-center justify-center py-0.5">
+                            <div class="px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-xl sm:rounded-2xl bg-white shadow-sm border border-slate-200/90 flex items-center justify-center">
+                                <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos"
+                                     class="h-5 sm:h-7 md:h-9 w-auto object-contain">
+                            </div>
+                        </div>
+                        <div class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-tight font-mono text-emerald-600 dark:text-emerald-400 leading-none">21,907</div>
+                        <div class="text-[9px] sm:text-[10px] md:text-xs font-bold uppercase tracking-wider text-slate-800 dark:text-slate-200">Registros Consolidados</div>
+                        <div class="text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold">17 Fases • Safra 2026</div>
+                    </div>
+
+                    <!-- Estado Ativo no Hover/Tap (Preenchido dinamicamente via JS) -->
+                    <div id="centerActive" class="hidden space-y-0.5 sm:space-y-1 w-full">
+                        <div id="activeIconContainer" class="w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 mx-auto flex items-center justify-center"></div>
+                        <div id="activeCategory" class="text-[8px] sm:text-[9px] md:text-[10px] font-mono uppercase tracking-wider text-emerald-500 font-bold">Categoria</div>
+                        <h4 id="activeName" class="text-[11px] sm:text-xs md:text-sm font-bold line-clamp-2 px-1 leading-tight" style="color: var(--text-primary);">Nome</h4>
+                        <div class="text-xs sm:text-sm md:text-base font-mono font-extrabold text-emerald-500" id="activeRows">0 reg.</div>
+                        <div class="text-[8px] sm:text-[9px] md:text-[10px] font-mono" style="color: var(--text-secondary);" id="activeDate">Data</div>
+                        <div class="pt-0.5 sm:pt-1">
+                            <span id="activeActionLabel" class="text-[9px] sm:text-[10px] bg-emerald-500 text-white px-2.5 sm:px-3 py-0.5 sm:py-1 rounded-full font-mono font-bold shadow-sm">
+                                Abrir Painel ➜
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 17 NÓS DA MANDALA POSICIONADOS RADIALMENTE COM ÍCONES E NOMES -->
+                
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center "
+             style="left: 50.00%; top: 11.25%; animation-delay: 0.00s;"
+             data-index="0"
+             data-name="Plantio - 03.1 - Preparo de Solo - Subsolagem"
+             data-folder="Plantio - 03.1 - Preparo de Solo - Subsolagem"
+             data-cat="Preparo de Solo"
+             data-rows="367"
+             data-date="09/09/2026"
+             data-cols="18"
+             data-url="subsolagem/index.html"
+             data-recent="false"
+             onclick="handleNodeClick(0, 'subsolagem/index.html')"
+             onmouseenter="highlightNode(0)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    01
+                </span>
+                
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M8 20h48" stroke="var(--icon-main)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M12 26h10m16 0h14" stroke="var(--icon-main)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+        <path d="M26 12h12v14l-6 16h-4l-2-16V12z" fill="var(--icon-main)"/>
+        <path d="M28 42l16 12-22-2 6-10z" fill="#10B981"/>
+        <path d="M20 52l-10 4m26-2l10 4" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Subsolagem</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">367</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 64.00%; top: 13.87%; animation-delay: 0.28s;"
+             data-index="1"
+             data-name="Plantio - 03.1 - Preparo de Solo - Canteirização"
+             data-folder="Plantio - 03.1 - Preparo de Solo - Canteirização"
+             data-cat="Preparo de Solo"
+             data-rows="389"
+             data-date="27/10/2026"
+             data-cols="18"
+             data-url="canteirizacao/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(1, 'canteirizacao/index.html')"
+             onmouseenter="highlightNode(1)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    02
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M8 50h48" stroke="var(--icon-main)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M12 50l10-24h20l10 24H12z" fill="var(--icon-main)"/>
+        <path d="M22 26h20" stroke="#10B981" stroke-width="3.5" stroke-linecap="round"/>
+        <circle cx="32" cy="16" r="4" fill="#10B981"/>
+        <path d="M32 10v6m-6-3h12" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Canteirização</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">389</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 76.11%; top: 21.36%; animation-delay: 0.56s;"
+             data-index="2"
+             data-name="Plantio - 05 - Sulcação"
+             data-folder="Plantio - 05 - Sulcação"
+             data-cat="Operação de Plantio"
+             data-rows="2,820"
+             data-date="27/10/2026"
+             data-cols="16"
+             data-url="sulcacao/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(2, 'sulcacao/index.html')"
+             onmouseenter="highlightNode(2)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    03
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <ellipse cx="23" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(-15 23 28)"/>
+        <ellipse cx="41" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(15 41 28)"/>
+        <circle cx="23" cy="28" r="3" fill="var(--icon-cutout)"/>
+        <circle cx="41" cy="28" r="3" fill="var(--icon-cutout)"/>
+        <path d="M8 48c8-1 16-16 24-16s16 15 24 16" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
+        <circle cx="32" cy="50" r="3" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Sulcação</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,820</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 84.69%; top: 32.73%; animation-delay: 0.84s;"
+             data-index="3"
+             data-name="Plantio - 04 - Dosagem de Produto - Sulcação"
+             data-folder="Plantio - 04 - Dosagem de Produto - Sulcação"
+             data-cat="Operação de Plantio"
+             data-rows="1,279"
+             data-date="27/10/2026"
+             data-cols="17"
+             data-url="dosagem_sulco/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(3, 'dosagem_sulco/index.html')"
+             onmouseenter="highlightNode(3)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    04
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="27" y="8" width="10" height="20" rx="2" fill="var(--icon-main)"/>
+        <path d="M22 28h20l-6 12h-8l-6-12z" fill="var(--icon-main)"/>
+        <rect x="25" y="6" width="14" height="4" rx="1" fill="var(--icon-main)"/>
+        <path d="M32 40L14 56h36L32 40z" fill="#10B981" fill-opacity="0.25" stroke="#10B981" stroke-width="2"/>
+        <circle cx="24" cy="50" r="2" fill="#10B981"/>
+        <circle cx="32" cy="48" r="2.5" fill="#10B981"/>
+        <circle cx="40" cy="50" r="2" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Dosagem Sulco</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">1,279</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center "
+             style="left: 88.58%; top: 46.42%; animation-delay: 1.12s;"
+             data-index="4"
+             data-name="Plantio - 06 - Abertura da Asa"
+             data-folder="Plantio - 06 - Abertura da Asa"
+             data-cat="Operação de Plantio"
+             data-rows="979"
+             data-date="26/09/2026"
+             data-cols="16"
+             data-url="abertura_asa/index.html"
+             data-recent="false"
+             onclick="handleNodeClick(4, 'abertura_asa/index.html')"
+             onmouseenter="highlightNode(4)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    05
+                </span>
+                
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="30" y="8" width="4" height="38" rx="2" fill="var(--icon-main)"/>
+        <circle cx="32" cy="46" r="3" fill="var(--icon-main)"/>
+        <path d="M30 32L12 18l4-4 14 12v6z" fill="var(--icon-main)"/>
+        <path d="M34 32L52 18l-4-4-14 12v6z" fill="var(--icon-main)"/>
+        <path d="M16 36c10 8 22 8 32 0" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-dasharray="3 3"/>
+        <circle cx="16" cy="36" r="2.5" fill="#10B981"/>
+        <circle cx="48" cy="36" r="2.5" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Abertura Asa</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">979</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center "
+             style="left: 87.27%; top: 60.60%; animation-delay: 1.40s;"
+             data-index="5"
+             data-name="Plantio - 07 - Paralelismo"
+             data-folder="Plantio - 07 - Paralelismo"
+             data-cat="Agricultura de Precisão"
+             data-rows="2,453"
+             data-date="28/09/2026"
+             data-cols="16"
+             data-url="paralelismo/index.html"
+             data-recent="false"
+             onclick="handleNodeClick(5, 'paralelismo/index.html')"
+             onmouseenter="highlightNode(5)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    06
+                </span>
+                
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="18" y="16" width="5" height="42" rx="2.5" fill="var(--icon-main)"/>
+        <rect x="41" y="16" width="5" height="42" rx="2.5" fill="var(--icon-main)"/>
+        <polygon points="32,6 37,11 32,16 27,11" fill="#10B981"/>
+        <path d="M24 12a11 11 0 0 1 16 0" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M19 8a18 18 0 0 1 26 0" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M23 37h18" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+        <polygon points="23,37 27,34 27,40" fill="#10B981"/>
+        <polygon points="41,37 37,34 37,40" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Paralelismo RTK</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,453</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 80.92%; top: 73.35%; animation-delay: 1.68s;"
+             data-index="6"
+             data-name="Plantio - 08 - Qualidade da muda"
+             data-folder="Plantio - 08 - Qualidade da muda"
+             data-cat="Material Genético"
+             data-rows="2,710"
+             data-date="27/10/2026"
+             data-cols="19"
+             data-url="qualidade_muda/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(6, 'qualidade_muda/index.html')"
+             onmouseenter="highlightNode(6)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    07
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="24" y="24" width="16" height="32" rx="5" fill="var(--icon-main)"/>
+        <line x1="24" y1="40" x2="40" y2="40" stroke="var(--icon-cutout)" stroke-width="2"/>
+        <path d="M32 24c0-12-12-16-20-16 0 8 8 16 20 16z" fill="#10B981"/>
+        <path d="M32 24c0-12 12-16 20-16 0 8-8 16-20 16z" fill="#10B981"/>
+        <circle cx="32" cy="24" r="3" fill="var(--icon-main)"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Qualidade Muda</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,710</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 70.40%; top: 82.95%; animation-delay: 1.96s;"
+             data-index="7"
+             data-name="Plantio - 09 - Quantidade de Gemas"
+             data-folder="Plantio - 09 - Quantidade de Gemas"
+             data-cat="Amostragem de Campo"
+             data-rows="2,708"
+             data-date="27/10/2026"
+             data-cols="20"
+             data-url="viabilidade_gemas/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(7, 'viabilidade_gemas/index.html')"
+             onmouseenter="highlightNode(7)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    08
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="22" y="8" width="20" height="48" rx="6" fill="var(--icon-main)"/>
+        <line x1="22" y1="24" x2="42" y2="24" stroke="var(--icon-cutout)" stroke-width="2.5"/>
+        <line x1="22" y1="40" x2="42" y2="40" stroke="var(--icon-cutout)" stroke-width="2.5"/>
+        <circle cx="32" cy="16" r="3.5" fill="#10B981"/>
+        <circle cx="32" cy="32" r="3.5" fill="#10B981"/>
+        <circle cx="32" cy="48" r="3.5" fill="#10B981"/>
+        <path d="M46 16l6-3m-6 19l6-3m-6 19l6-3" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Qtd. Gemas</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,708</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 57.12%; top: 88.09%; animation-delay: 2.24s;"
+             data-index="8"
+             data-name="Plantio - 10 - Quantidade de Cana"
+             data-folder="Plantio - 10 - Quantidade de Cana"
+             data-cat="Consumo de Muda"
+             data-rows="2,579"
+             data-date="27/10/2026"
+             data-cols="19"
+             data-url="qualidade_cana/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(8, 'qualidade_cana/index.html')"
+             onmouseenter="highlightNode(8)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    09
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <circle cx="24" cy="38" r="9" fill="var(--icon-main)"/>
+        <circle cx="40" cy="38" r="9" fill="var(--icon-main)"/>
+        <circle cx="32" cy="24" r="9" fill="var(--icon-main)"/>
+        <circle cx="24" cy="38" r="4" fill="#10B981"/>
+        <circle cx="40" cy="38" r="4" fill="#10B981"/>
+        <circle cx="32" cy="24" r="4" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Qtd. Cana</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,579</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 42.88%; top: 88.09%; animation-delay: 2.52s;"
+             data-index="9"
+             data-name="Plantio - 11 - Dosagem de Produto - Cobrição"
+             data-folder="Plantio - 11 - Dosagem de Produto - Cobrição"
+             data-cat="Proteção de Cultivo"
+             data-rows="925"
+             data-date="27/10/2026"
+             data-cols="16"
+             data-url="dosagem_cobricao/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(9, 'dosagem_cobricao/index.html')"
+             onmouseenter="highlightNode(9)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    10
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M32 10l18 8v16c0 14-18 22-18 22S14 48 14 34V18l18-8z" fill="var(--icon-main)"/>
+        <path d="M32 16l12 6v12c0 9-12 15-12 15s-12-6-12-15V22l12-6z" fill="var(--icon-cutout)"/>
+        <path d="M32 24v16m-8-8h16" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Dosagem Cobr.</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">925</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 29.60%; top: 82.95%; animation-delay: 2.80s;"
+             data-index="10"
+             data-name="Plantio - 12 - Cobrição"
+             data-folder="Plantio - 12 - Cobrição"
+             data-cat="Operação de Plantio"
+             data-rows="2,020"
+             data-date="27/10/2026"
+             data-cols="16"
+             data-url="cobricao/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(10, 'cobricao/index.html')"
+             onmouseenter="highlightNode(10)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    11
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M8 44c10-6 20-6 30 0s18 4 18 4" stroke="var(--icon-main)" stroke-width="4" stroke-linecap="round"/>
+        <rect x="22" y="44" width="20" height="8" rx="2" fill="#10B981"/>
+        <path d="M32 16v18m-6-6l6 6 6-6" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="32" cy="12" r="3" fill="var(--icon-main)"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Cobrição</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,020</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 19.08%; top: 73.35%; animation-delay: 3.08s;"
+             data-index="11"
+             data-name="Plantio - 13 - Arremate e Acabamento"
+             data-folder="Plantio - 13 - Arremate e Acabamento"
+             data-cat="Acabamento Operacional"
+             data-rows="807"
+             data-date="27/10/2026"
+             data-cols="18"
+             data-url="arremate_acabamento/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(11, 'arremate_acabamento/index.html')"
+             onmouseenter="highlightNode(11)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    12
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="12" y="12" width="40" height="40" rx="8" fill="var(--icon-main)"/>
+        <rect x="18" y="18" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <rect x="34" y="18" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <rect x="18" y="34" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <rect x="34" y="34" width="12" height="12" rx="3" fill="#10B981"/>
+        <circle cx="40" cy="40" r="3" fill="var(--icon-main)"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Arremate</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">807</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center "
+             style="left: 12.73%; top: 60.60%; animation-delay: 3.36s;"
+             data-index="12"
+             data-name="Tratos - Herbicida"
+             data-folder="Tratos - Herbicida"
+             data-cat="Tratos Culturais"
+             data-rows="30"
+             data-date="20/10/2026"
+             data-cols="25"
+             data-url="herbicida/index.html"
+             data-recent="false"
+             onclick="handleNodeClick(12, 'herbicida/index.html')"
+             onmouseenter="highlightNode(12)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    13
+                </span>
+                
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="8" y="18" width="48" height="6" rx="3" fill="var(--icon-main)"/>
+        <line x1="32" y1="10" x2="32" y2="18" stroke="var(--icon-main)" stroke-width="3"/>
+        <path d="M14 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M26 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M38 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M50 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Herbicida</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">30</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center "
+             style="left: 11.42%; top: 46.42%; animation-delay: 3.64s;"
+             data-index="13"
+             data-name="Infestação de Broca - Armadilha"
+             data-folder="Infestação de Broca - Armadilha"
+             data-cat="Fitossanidade"
+             data-rows="116"
+             data-date="30/09/2026"
+             data-cols="14"
+             data-url="broca_armadilha/index.html"
+             data-recent="false"
+             onclick="handleNodeClick(13, 'broca_armadilha/index.html')"
+             onmouseenter="highlightNode(13)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    14
+                </span>
+                
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M32 10L10 50h44L32 10z" fill="var(--icon-main)"/>
+        <path d="M32 18L16 46h32L32 18z" fill="var(--icon-cutout)"/>
+        <circle cx="32" cy="32" r="5" fill="#10B981"/>
+        <ellipse cx="32" cy="34" rx="4" ry="7" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Broca Armadilha</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">116</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 15.31%; top: 32.73%; animation-delay: 3.92s;"
+             data-index="14"
+             data-name="CHECK LIST VEICULAR"
+             data-folder="CHECK LIST VEICULAR"
+             data-cat="Frotas & Logística"
+             data-rows="1,207"
+             data-date="27/10/2026"
+             data-cols="22"
+             data-url="checklist_veicular/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(14, 'checklist_veicular/index.html')"
+             onmouseenter="highlightNode(14)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    15
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <circle cx="18" cy="46" r="8" fill="var(--icon-main)"/>
+        <circle cx="46" cy="44" r="12" fill="var(--icon-main)"/>
+        <circle cx="18" cy="46" r="3" fill="var(--icon-cutout)"/>
+        <circle cx="46" cy="44" r="4" fill="var(--icon-cutout)"/>
+        <path d="M18 46h18v-8l6-14H30l-4 12h-8v10z" fill="var(--icon-main)"/>
+        <circle cx="46" cy="18" r="10" fill="#10B981"/>
+        <path d="M41 18l3 3 8-8" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Checklist Veic.</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">1,207</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 23.89%; top: 21.36%; animation-delay: 4.20s;"
+             data-index="15"
+             data-name="Check-list área de vivência _ Colheita"
+             data-folder="#Check-list área de vivência _ Colheita"
+             data-cat="SSOMA & Segurança"
+             data-rows="347"
+             data-date="27/10/2026"
+             data-cols="28"
+             data-url="area_vivencia/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(15, 'area_vivencia/index.html')"
+             onmouseenter="highlightNode(15)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    16
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <img src="assets/checklist_vivencia.png" alt="Checklist Vivência" class="w-full h-full object-contain drop-shadow rounded-xl pointer-events-none select-none">
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>Área Vivência</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">347</span>
+            </div>
+        </div>
+        
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+             style="left: 36.00%; top: 13.87%; animation-delay: 4.48s;"
+             data-index="16"
+             data-name="5S e Gestão - TPL"
+             data-folder="5S e Gestão - TPL"
+             data-cat="Gestão & Qualidade"
+             data-rows="171"
+             data-date="27/10/2026"
+             data-cols="22"
+             data-url="tpl_5s/index.html"
+             data-recent="true"
+             onclick="handleNodeClick(16, 'tpl_5s/index.html')"
+             onmouseenter="highlightNode(16)"
+             onmouseleave="resetCenter()">
+            
+            <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+                 style="background: var(--node-bg); box-shadow: var(--node-shadow);">
+                <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                    17
+                </span>
+                
+        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
+            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
+        </span>
+        
+                
+        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
+        
+                <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="12" y="12" width="40" height="46" rx="5" fill="var(--icon-main)"/>
+        <rect x="24" y="6" width="16" height="8" rx="3" fill="var(--icon-cutout)" stroke="var(--icon-main)" stroke-width="2"/>
+        <circle cx="22" cy="24" r="3.5" fill="#10B981"/>
+        <line x1="28" y1="24" x2="44" y2="24" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="22" cy="34" r="3.5" fill="#10B981"/>
+        <line x1="28" y1="34" x2="44" y2="34" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="22" cy="44" r="3.5" fill="#10B981"/>
+        <line x1="28" y1="44" x2="44" y2="44" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Nome e Contagem: Oculto no celular (hidden md:flex) para eliminar sobreposição -->
+            <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
+                 style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
+                <span>5S & Gestão</span>
+                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">171</span>
+            </div>
+        </div>
+        
+            </div>
+
+            <!-- Carrossel de Etapas para Mobile (Touch-friendly, Zero Empelotamento) -->
+            <div class="w-full md:hidden mt-3 px-2 overflow-x-auto flex items-center gap-2 py-2 no-scrollbar">
+                
+        <button id="mobile-chip-0"
+                onclick="handleNodeClick(0, 'subsolagem/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">01</span>
+            
+            <span>Subsolagem</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">367</span>
+        </button>
+        
+        <button id="mobile-chip-1"
+                onclick="handleNodeClick(1, 'canteirizacao/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">02</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Canteirização</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">389</span>
+        </button>
+        
+        <button id="mobile-chip-2"
+                onclick="handleNodeClick(2, 'sulcacao/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">03</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Sulcação</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,820</span>
+        </button>
+        
+        <button id="mobile-chip-3"
+                onclick="handleNodeClick(3, 'dosagem_sulco/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">04</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Dosagem Sulco</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">1,279</span>
+        </button>
+        
+        <button id="mobile-chip-4"
+                onclick="handleNodeClick(4, 'abertura_asa/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">05</span>
+            
+            <span>Abertura Asa</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">979</span>
+        </button>
+        
+        <button id="mobile-chip-5"
+                onclick="handleNodeClick(5, 'paralelismo/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">06</span>
+            
+            <span>Paralelismo RTK</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,453</span>
+        </button>
+        
+        <button id="mobile-chip-6"
+                onclick="handleNodeClick(6, 'qualidade_muda/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">07</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Qualidade Muda</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,710</span>
+        </button>
+        
+        <button id="mobile-chip-7"
+                onclick="handleNodeClick(7, 'viabilidade_gemas/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">08</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Qtd. Gemas</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,708</span>
+        </button>
+        
+        <button id="mobile-chip-8"
+                onclick="handleNodeClick(8, 'qualidade_cana/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">09</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Qtd. Cana</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,579</span>
+        </button>
+        
+        <button id="mobile-chip-9"
+                onclick="handleNodeClick(9, 'dosagem_cobricao/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">10</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Dosagem Cobr.</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">925</span>
+        </button>
+        
+        <button id="mobile-chip-10"
+                onclick="handleNodeClick(10, 'cobricao/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">11</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Cobrição</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,020</span>
+        </button>
+        
+        <button id="mobile-chip-11"
+                onclick="handleNodeClick(11, 'arremate_acabamento/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">12</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Arremate</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">807</span>
+        </button>
+        
+        <button id="mobile-chip-12"
+                onclick="handleNodeClick(12, 'herbicida/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">13</span>
+            
+            <span>Herbicida</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">30</span>
+        </button>
+        
+        <button id="mobile-chip-13"
+                onclick="handleNodeClick(13, 'broca_armadilha/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">14</span>
+            
+            <span>Broca Armadilha</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">116</span>
+        </button>
+        
+        <button id="mobile-chip-14"
+                onclick="handleNodeClick(14, 'checklist_veicular/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">15</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Checklist Veic.</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">1,207</span>
+        </button>
+        
+        <button id="mobile-chip-15"
+                onclick="handleNodeClick(15, 'area_vivencia/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">16</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>Área Vivência</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">347</span>
+        </button>
+        
+        <button id="mobile-chip-16"
+                onclick="handleNodeClick(16, 'tpl_5s/index.html')"
+                class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
+                style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+            <span class="font-mono text-[9px] font-bold text-emerald-500">17</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+            <span>5S & Gestão</span>
+            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">171</span>
+        </button>
+        
+            </div>
+
+            <div class="text-[10px] sm:text-xs font-mono mt-3 sm:mt-4 text-center" style="color: var(--text-secondary);">
+                Passe o mouse para inspecionar • Clique para abrir o painel executivo
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- SEÇÃO 2: GRID MINIMALISTA 4xX COM BUSCA INSTANTÂNEA      -->
+        <!-- ======================================================== -->
+        <section id="gridSection" class="w-full hidden flex flex-col space-y-4 transition-all duration-300">
+            <!-- Barra de Busca Minimalista -->
+            <div class="w-full max-w-xl mx-auto mb-2">
+                <div class="relative flex items-center">
+                    <input type="text" id="gridSearch"
+                           placeholder="Filtrar por nome da etapa ou categoria..."
+                           class="w-full px-4 py-2.5 pl-10 rounded-xl border text-xs sm:text-sm transition-all focus:outline-none focus:ring-2 focus:ring-emerald-500"
+                           style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+                    <span class="absolute left-3.5 text-slate-400 text-xs sm:text-sm">🔍</span>
+                </div>
+            </div>
+
+            <!-- Grid de Cartões -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 w-full">
+                
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 03.1 - preparo de solo - subsolagem"
+             data-cat="preparo de solo"
+             data-folder="Plantio - 03.1 - Preparo de Solo - Subsolagem"
+             data-index="0"
+             onclick="handleNodeClick(0, 'subsolagem/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">01</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M8 20h48" stroke="var(--icon-main)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M12 26h10m16 0h14" stroke="var(--icon-main)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+        <path d="M26 12h12v14l-6 16h-4l-2-16V12z" fill="var(--icon-main)"/>
+        <path d="M28 42l16 12-22-2 6-10z" fill="#10B981"/>
+        <path d="M20 52l-10 4m26-2l10 4" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 03.1 - Preparo de Solo - Subsolagem
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">367 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">09/09/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 03.1 - preparo de solo - canteirização"
+             data-cat="preparo de solo"
+             data-folder="Plantio - 03.1 - Preparo de Solo - Canteirização"
+             data-index="1"
+             onclick="handleNodeClick(1, 'canteirizacao/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">02</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M8 50h48" stroke="var(--icon-main)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M12 50l10-24h20l10 24H12z" fill="var(--icon-main)"/>
+        <path d="M22 26h20" stroke="#10B981" stroke-width="3.5" stroke-linecap="round"/>
+        <circle cx="32" cy="16" r="4" fill="#10B981"/>
+        <path d="M32 10v6m-6-3h12" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 03.1 - Preparo de Solo - Canteirização
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">389 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 05 - sulcação"
+             data-cat="operação de plantio"
+             data-folder="Plantio - 05 - Sulcação"
+             data-index="2"
+             onclick="handleNodeClick(2, 'sulcacao/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">03</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <ellipse cx="23" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(-15 23 28)"/>
+        <ellipse cx="41" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(15 41 28)"/>
+        <circle cx="23" cy="28" r="3" fill="var(--icon-cutout)"/>
+        <circle cx="41" cy="28" r="3" fill="var(--icon-cutout)"/>
+        <path d="M8 48c8-1 16-16 24-16s16 15 24 16" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
+        <circle cx="32" cy="50" r="3" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 05 - Sulcação
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,820 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 04 - dosagem de produto - sulcação"
+             data-cat="operação de plantio"
+             data-folder="Plantio - 04 - Dosagem de Produto - Sulcação"
+             data-index="3"
+             onclick="handleNodeClick(3, 'dosagem_sulco/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">04</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="27" y="8" width="10" height="20" rx="2" fill="var(--icon-main)"/>
+        <path d="M22 28h20l-6 12h-8l-6-12z" fill="var(--icon-main)"/>
+        <rect x="25" y="6" width="14" height="4" rx="1" fill="var(--icon-main)"/>
+        <path d="M32 40L14 56h36L32 40z" fill="#10B981" fill-opacity="0.25" stroke="#10B981" stroke-width="2"/>
+        <circle cx="24" cy="50" r="2" fill="#10B981"/>
+        <circle cx="32" cy="48" r="2.5" fill="#10B981"/>
+        <circle cx="40" cy="50" r="2" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 04 - Dosagem de Produto - Sulcação
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">1,279 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 06 - abertura da asa"
+             data-cat="operação de plantio"
+             data-folder="Plantio - 06 - Abertura da Asa"
+             data-index="4"
+             onclick="handleNodeClick(4, 'abertura_asa/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">05</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="30" y="8" width="4" height="38" rx="2" fill="var(--icon-main)"/>
+        <circle cx="32" cy="46" r="3" fill="var(--icon-main)"/>
+        <path d="M30 32L12 18l4-4 14 12v6z" fill="var(--icon-main)"/>
+        <path d="M34 32L52 18l-4-4-14 12v6z" fill="var(--icon-main)"/>
+        <path d="M16 36c10 8 22 8 32 0" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-dasharray="3 3"/>
+        <circle cx="16" cy="36" r="2.5" fill="#10B981"/>
+        <circle cx="48" cy="36" r="2.5" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 06 - Abertura da Asa
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">979 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">26/09/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 07 - paralelismo"
+             data-cat="agricultura de precisão"
+             data-folder="Plantio - 07 - Paralelismo"
+             data-index="5"
+             onclick="handleNodeClick(5, 'paralelismo/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">06</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="18" y="16" width="5" height="42" rx="2.5" fill="var(--icon-main)"/>
+        <rect x="41" y="16" width="5" height="42" rx="2.5" fill="var(--icon-main)"/>
+        <polygon points="32,6 37,11 32,16 27,11" fill="#10B981"/>
+        <path d="M24 12a11 11 0 0 1 16 0" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M19 8a18 18 0 0 1 26 0" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M23 37h18" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+        <polygon points="23,37 27,34 27,40" fill="#10B981"/>
+        <polygon points="41,37 37,34 37,40" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 07 - Paralelismo
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,453 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">28/09/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 08 - qualidade da muda"
+             data-cat="material genético"
+             data-folder="Plantio - 08 - Qualidade da muda"
+             data-index="6"
+             onclick="handleNodeClick(6, 'qualidade_muda/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">07</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="24" y="24" width="16" height="32" rx="5" fill="var(--icon-main)"/>
+        <line x1="24" y1="40" x2="40" y2="40" stroke="var(--icon-cutout)" stroke-width="2"/>
+        <path d="M32 24c0-12-12-16-20-16 0 8 8 16 20 16z" fill="#10B981"/>
+        <path d="M32 24c0-12 12-16 20-16 0 8-8 16-20 16z" fill="#10B981"/>
+        <circle cx="32" cy="24" r="3" fill="var(--icon-main)"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 08 - Qualidade da muda
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,710 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 09 - quantidade de gemas"
+             data-cat="amostragem de campo"
+             data-folder="Plantio - 09 - Quantidade de Gemas"
+             data-index="7"
+             onclick="handleNodeClick(7, 'viabilidade_gemas/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">08</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="22" y="8" width="20" height="48" rx="6" fill="var(--icon-main)"/>
+        <line x1="22" y1="24" x2="42" y2="24" stroke="var(--icon-cutout)" stroke-width="2.5"/>
+        <line x1="22" y1="40" x2="42" y2="40" stroke="var(--icon-cutout)" stroke-width="2.5"/>
+        <circle cx="32" cy="16" r="3.5" fill="#10B981"/>
+        <circle cx="32" cy="32" r="3.5" fill="#10B981"/>
+        <circle cx="32" cy="48" r="3.5" fill="#10B981"/>
+        <path d="M46 16l6-3m-6 19l6-3m-6 19l6-3" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 09 - Quantidade de Gemas
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,708 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 10 - quantidade de cana"
+             data-cat="consumo de muda"
+             data-folder="Plantio - 10 - Quantidade de Cana"
+             data-index="8"
+             onclick="handleNodeClick(8, 'qualidade_cana/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">09</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <circle cx="24" cy="38" r="9" fill="var(--icon-main)"/>
+        <circle cx="40" cy="38" r="9" fill="var(--icon-main)"/>
+        <circle cx="32" cy="24" r="9" fill="var(--icon-main)"/>
+        <circle cx="24" cy="38" r="4" fill="#10B981"/>
+        <circle cx="40" cy="38" r="4" fill="#10B981"/>
+        <circle cx="32" cy="24" r="4" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 10 - Quantidade de Cana
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,579 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 11 - dosagem de produto - cobrição"
+             data-cat="proteção de cultivo"
+             data-folder="Plantio - 11 - Dosagem de Produto - Cobrição"
+             data-index="9"
+             onclick="handleNodeClick(9, 'dosagem_cobricao/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">10</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M32 10l18 8v16c0 14-18 22-18 22S14 48 14 34V18l18-8z" fill="var(--icon-main)"/>
+        <path d="M32 16l12 6v12c0 9-12 15-12 15s-12-6-12-15V22l12-6z" fill="var(--icon-cutout)"/>
+        <path d="M32 24v16m-8-8h16" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 11 - Dosagem de Produto - Cobrição
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">925 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 12 - cobrição"
+             data-cat="operação de plantio"
+             data-folder="Plantio - 12 - Cobrição"
+             data-index="10"
+             onclick="handleNodeClick(10, 'cobricao/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">11</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M8 44c10-6 20-6 30 0s18 4 18 4" stroke="var(--icon-main)" stroke-width="4" stroke-linecap="round"/>
+        <rect x="22" y="44" width="20" height="8" rx="2" fill="#10B981"/>
+        <path d="M32 16v18m-6-6l6 6 6-6" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="32" cy="12" r="3" fill="var(--icon-main)"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 12 - Cobrição
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,020 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="plantio - 13 - arremate e acabamento"
+             data-cat="acabamento operacional"
+             data-folder="Plantio - 13 - Arremate e Acabamento"
+             data-index="11"
+             onclick="handleNodeClick(11, 'arremate_acabamento/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">12</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="12" y="12" width="40" height="40" rx="8" fill="var(--icon-main)"/>
+        <rect x="18" y="18" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <rect x="34" y="18" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <rect x="18" y="34" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <rect x="34" y="34" width="12" height="12" rx="3" fill="#10B981"/>
+        <circle cx="40" cy="40" r="3" fill="var(--icon-main)"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Plantio - 13 - Arremate e Acabamento
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">807 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="tratos - herbicida"
+             data-cat="tratos culturais"
+             data-folder="Tratos - Herbicida"
+             data-index="12"
+             onclick="handleNodeClick(12, 'herbicida/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">13</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="8" y="18" width="48" height="6" rx="3" fill="var(--icon-main)"/>
+        <line x1="32" y1="10" x2="32" y2="18" stroke="var(--icon-main)" stroke-width="3"/>
+        <path d="M14 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M26 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M38 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+        <path d="M50 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Tratos - Herbicida
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">30 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">20/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="infestação de broca - armadilha"
+             data-cat="fitossanidade"
+             data-folder="Infestação de Broca - Armadilha"
+             data-index="13"
+             onclick="handleNodeClick(13, 'broca_armadilha/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">14</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <path d="M32 10L10 50h44L32 10z" fill="var(--icon-main)"/>
+        <path d="M32 18L16 46h32L32 18z" fill="var(--icon-cutout)"/>
+        <circle cx="32" cy="32" r="5" fill="#10B981"/>
+        <ellipse cx="32" cy="34" rx="4" ry="7" fill="#10B981"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Infestação de Broca - Armadilha
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">116 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">30/09/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="check list veicular"
+             data-cat="frotas & logística"
+             data-folder="CHECK LIST VEICULAR"
+             data-index="14"
+             onclick="handleNodeClick(14, 'checklist_veicular/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">15</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <circle cx="18" cy="46" r="8" fill="var(--icon-main)"/>
+        <circle cx="46" cy="44" r="12" fill="var(--icon-main)"/>
+        <circle cx="18" cy="46" r="3" fill="var(--icon-cutout)"/>
+        <circle cx="46" cy="44" r="4" fill="var(--icon-cutout)"/>
+        <path d="M18 46h18v-8l6-14H30l-4 12h-8v10z" fill="var(--icon-main)"/>
+        <circle cx="46" cy="18" r="10" fill="#10B981"/>
+        <path d="M41 18l3 3 8-8" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                CHECK LIST VEICULAR
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">1,207 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="check-list área de vivência _ colheita"
+             data-cat="ssoma & segurança"
+             data-folder="#Check-list área de vivência _ Colheita"
+             data-index="15"
+             onclick="handleNodeClick(15, 'area_vivencia/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">16</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <img src="assets/checklist_vivencia.png" alt="Checklist Vivência" class="w-full h-full object-contain drop-shadow rounded-xl pointer-events-none select-none">
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                Check-list área de vivência _ Colheita
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">347 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
+             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+             data-name="5s e gestão - tpl"
+             data-cat="gestão & qualidade"
+             data-folder="5S e Gestão - TPL"
+             data-index="16"
+             onclick="handleNodeClick(16, 'tpl_5s/index.html')">
+            
+            <!-- Badges Superiores -->
+            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
+                <span class="font-mono text-emerald-500 font-semibold">17</span>
+                <div class="flex items-center gap-1.5">
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                </div>
+            </div>
+
+            <!-- Ícone Generoso Minimalista -->
+            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
+                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
+                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+        <rect x="12" y="12" width="40" height="46" rx="5" fill="var(--icon-main)"/>
+        <rect x="24" y="6" width="16" height="8" rx="3" fill="var(--icon-cutout)" stroke="var(--icon-main)" stroke-width="2"/>
+        <circle cx="22" cy="24" r="3.5" fill="#10B981"/>
+        <line x1="28" y1="24" x2="44" y2="24" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="22" cy="34" r="3.5" fill="#10B981"/>
+        <line x1="28" y1="34" x2="44" y2="34" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="22" cy="44" r="3.5" fill="#10B981"/>
+        <line x1="28" y1="44" x2="44" y2="44" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
+    </svg>
+                </div>
+            </div>
+
+            <!-- Título do Relatório -->
+            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
+                style="color: var(--text-primary);">
+                5S e Gestão - TPL
+            </h3>
+
+            <!-- Indicador Numérico em Verde -->
+            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
+                 style="border-color: var(--border-color);">
+                <span class="font-mono font-bold text-emerald-500 tracking-tight">171 reg.</span>
+                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
+            </div>
+        </div>
+        
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="border-t py-4 text-center text-xs transition-colors"
+            style="background: var(--header-bg); border-color: var(--border-color); color: var(--text-secondary);">
+        <p class="font-medium">Usina Pitangueiras • Sistema Mapfy Automático • Safra 2026</p>
+        <p class="text-[10px] font-mono mt-1 opacity-70">Dados consolidados incrementalmente em <code class="text-emerald-500">Server_MapFy/relatorios/</code></p>
+    </footer>
+
+    <!-- MODAL DE DETALHES DAS COLUNAS (PARA RELATÓRIOS SEM PAINEL ESPECÍFICO) -->
+    <div id="columnModal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
+        <div class="rounded-2xl max-w-lg w-full p-6 shadow-2xl border transition-colors flex flex-col max-h-[85vh]"
+             style="background: var(--modal-bg); border-color: var(--border-color);">
+            
+            <div class="flex items-start justify-between pb-3 border-b" style="border-color: var(--border-color);">
+                <div>
+                    <span id="modalCat" class="text-[10px] font-mono font-bold uppercase tracking-wider text-emerald-500">Categoria</span>
+                    <h3 id="modalTitle" class="text-base font-bold mt-0.5" style="color: var(--text-primary);">Nome do Formulário</h3>
+                    <p id="modalSub" class="text-xs mt-1" style="color: var(--text-secondary);">0 registros consolidados</p>
+                </div>
+                <button onclick="closeModal()" class="p-1 rounded-lg hover:bg-slate-500/10 text-slate-400 hover:text-white transition">
+                    ✕
+                </button>
+            </div>
+
+            <div class="my-4 flex-1 overflow-y-auto pr-1">
+                <div class="flex items-center justify-between text-xs font-semibold mb-2" style="color: var(--text-secondary);">
+                    <span>Colunas Mapeadas</span>
+                    <span id="modalColCount" class="font-mono text-emerald-500">0 colunas</span>
+                </div>
+                <div id="modalColumnsList" class="space-y-1.5 font-mono text-xs">
+                    <!-- Gerado via JS -->
+                </div>
+            </div>
+
+            <div class="pt-3 border-t flex items-center justify-between text-[11px]" style="border-color: var(--border-color); color: var(--text-secondary);">
+                <span id="modalFolder" class="truncate font-mono">pasta</span>
+                <button onclick="closeModal()" class="px-3 py-1.5 rounded-lg bg-emerald-600 text-white font-semibold text-xs hover:bg-emerald-500 transition">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCRIPTS DE INTERATIVIDADE -->
+    <script>
+        const formsData = [{"folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "clean_name": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "rows": 367, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Subsolagem", "Unnamed: 17"], "latest_date": "09/09/2026", "size_kb": 88.2, "category": "Preparo de Solo", "color": "#92400e", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 03.1 - Preparo de Solo - Canteirização", "clean_name": "Plantio - 03.1 - Preparo de Solo - Canteirização", "rows": 389, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Canteirização", "Unnamed: 17"], "latest_date": "27/10/2026", "size_kb": 88.4, "category": "Preparo de Solo", "color": "#b45309", "bg": "#fffbeb", "border": "#fde68a"}, {"folder": "Plantio - 05 - Sulcação", "clean_name": "Plantio - 05 - Sulcação", "rows": 2820, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Responsável", "Local (Fazenda - Talhão)", "OS", "Frente", "Profundidade do Sulco", "Unnamed: 15"], "latest_date": "27/10/2026", "size_kb": 626.9, "category": "Operação de Plantio", "color": "#65a30d", "bg": "#f7fee7", "border": "#d9f99d"}, {"folder": "Plantio - 04 - Dosagem de Produto - Sulcação", "clean_name": "Plantio - 04 - Dosagem de Produto - Sulcação", "rows": 1279, "cols_count": 17, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Produto", "Dosagem de Produto - Sulcação", "Unnamed: 16"], "latest_date": "27/10/2026", "size_kb": 293.9, "category": "Operação de Plantio", "color": "#0284c7", "bg": "#f0f9ff", "border": "#bae6fd"}, {"folder": "Plantio - 06 - Abertura da Asa", "clean_name": "Plantio - 06 - Abertura da Asa", "rows": 979, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Abertura da Asa", "Unnamed: 15"], "latest_date": "26/09/2026", "size_kb": 216.5, "category": "Operação de Plantio", "color": "#ea580c", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 07 - Paralelismo", "clean_name": "Plantio - 07 - Paralelismo", "rows": 2453, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Paralelismo", "Unnamed: 15"], "latest_date": "28/09/2026", "size_kb": 545.6, "category": "Agricultura de Precisão", "color": "#2563eb", "bg": "#eff6ff", "border": "#bfdbfe"}, {"folder": "Plantio - 08 - Qualidade da muda", "clean_name": "Plantio - 08 - Qualidade da muda", "rows": 2710, "cols_count": 19, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Qualidade da Muda", "Observações ", "Unnamed: 18"], "latest_date": "27/10/2026", "size_kb": 647.8, "category": "Material Genético", "color": "#16a34a", "bg": "#f0fdf4", "border": "#bbf7d0"}, {"folder": "Plantio - 09 - Quantidade de Gemas", "clean_name": "Plantio - 09 - Quantidade de Gemas", "rows": 2708, "cols_count": 20, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "Frente", "OS", "Responsável", "Quantidade de Gemas Total", "Quantidade de Gemas Viáveis", "Quantidade de Gemas Inviáveis", "Unnamed: 19"], "latest_date": "27/10/2026", "size_kb": 652.1, "category": "Amostragem de Campo", "color": "#15803d", "bg": "#f0fdf4", "border": "#bbf7d0"}, {"folder": "Plantio - 10 - Quantidade de Cana", "clean_name": "Plantio - 10 - Quantidade de Cana", "rows": 2579, "cols_count": 19, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Quantidade de Cana", "Observações ", "Unnamed: 18"], "latest_date": "27/10/2026", "size_kb": 614.3, "category": "Consumo de Muda", "color": "#ca8a04", "bg": "#fefce8", "border": "#fef08a"}, {"folder": "Plantio - 11 - Dosagem de Produto - Cobrição", "clean_name": "Plantio - 11 - Dosagem de Produto - Cobrição", "rows": 925, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Dosagem de Produto - Cobrição", "Unnamed: 15"], "latest_date": "27/10/2026", "size_kb": 205.4, "category": "Proteção de Cultivo", "color": "#4f46e5", "bg": "#eef2ff", "border": "#c7d2fe"}, {"folder": "Plantio - 12 - Cobrição", "clean_name": "Plantio - 12 - Cobrição", "rows": 2020, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Profundidade de Cobrição", "Unnamed: 15"], "latest_date": "27/10/2026", "size_kb": 446.8, "category": "Operação de Plantio", "color": "#78350f", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 13 - Arremate e Acabamento", "clean_name": "Plantio - 13 - Arremate e Acabamento", "rows": 807, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Arremate e Acabamento", "Unnamed: 17"], "latest_date": "27/10/2026", "size_kb": 191.9, "category": "Acabamento Operacional", "color": "#475569", "bg": "#f8fafc", "border": "#cbd5e1"}, {"folder": "Tratos - Herbicida", "clean_name": "Tratos - Herbicida", "rows": 30, "cols_count": 25, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Fazenda", "Ordem de Serviço", "Operação", "Planta ou Soca", "O responsável realizou a avaliação de qualidade antes de iniciar a operação?", "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?", "Vento", "Umidade Relativa", "Temperatura ", "Espaçamento de Bico", "Abertura do leque", "Limpeza de filtros da bomba do implemento ", "Limpeza de bicos", "Vazão", "Observações", "Unnamed: 24"], "latest_date": "20/10/2026", "size_kb": 10.6, "category": "Tratos Culturais", "color": "#0891b2", "bg": "#ecfeff", "border": "#a5f3fc"}, {"folder": "Infestação de Broca - Armadilha", "clean_name": "Infestação de Broca - Armadilha", "rows": 116, "cols_count": 14, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Responsável Lançamento", "Etapa", "Fazenda - Talhão", "Quantidade Machos", "Unnamed: 13"], "latest_date": "30/09/2026", "size_kb": 22.8, "category": "Fitossanidade", "color": "#dc2626", "bg": "#fef2f2", "border": "#fecaca"}, {"folder": "CHECK LIST VEICULAR", "clean_name": "CHECK LIST VEICULAR", "rows": 1207, "cols_count": 22, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Frota", "GESTORES", "Condutor", "Data Hora", "VIDEOTELEMTRIA", "Itens Danificados", "Estado de Criticidade Veículo", "Observacoes", "ID COLABORADOR", "ID DO AVALIADOR(A)", "Abrir Os ", "Os", "Unnamed: 21"], "latest_date": "27/10/2026", "size_kb": 392.9, "category": "Frotas & Logística", "color": "#d97706", "bg": "#fffbeb", "border": "#fde68a"}, {"folder": "#Check-list área de vivência _ Colheita", "clean_name": "Check-list área de vivência _ Colheita", "rows": 347, "cols_count": 28, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Responsável ", "Turno ", "Frente", "Local (Fazenda - Talhão)", "OBS", "Água Potável em temperatura adequada ?", "Possui água para higienização ?", "Possui papel higiênico e suporte?", "Possui papel toalha e suporte ?", "Pia e descarga funcionando ?", " Limpeza", "Possui algum item quebrado ou em falta?", " Está utilizando fita de Isolamento ", "Está utilizando  cone de Sinalização ?", "Bancos Fixos ", "Extintor ", "Unnamed: 27"], "latest_date": "27/10/2026", "size_kb": 82.3, "category": "SSOMA & Segurança", "color": "#059669", "bg": "#ecfdf5", "border": "#a7f3d0"}, {"folder": "5S e Gestão - TPL", "clean_name": "5S e Gestão - TPL", "rows": 171, "cols_count": 22, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Setor", "Fazenda", "Frente", "Responsável Vistoria", "Operação", "01-Área de vivência está em boas condições de organização e limpeza?", "03 - Não há itens faltando, quebrados ou com sinais de mal uso?", "04 - A sinalização está adequada e o acesso ao local é seguro?", "05 - Boas condições de organização, limpeza e conservação dos equipamentos?", "06 - Os colaboradores estão utilizando os EPIs adequados?", "07 - Extintor está válido e carregado?", "Observação", "Unnamed: 21"], "latest_date": "27/10/2026", "size_kb": 51.2, "category": "Gestão & Qualidade", "color": "#7c3aed", "bg": "#f5f3ff", "border": "#ddd6fe"}];
+        const activePanelsMap = {"#Check-list área de vivência _ Colheita": "area_vivencia/index.html", "Plantio - 03.1 - Preparo de Solo - Subsolagem": "subsolagem/index.html", "Plantio - 03.1 - Preparo de Solo - Canteirização": "canteirizacao/index.html", "Plantio - 04 - Dosagem de Produto - Sulcação": "dosagem_sulco/index.html", "Plantio - 05 - Sulcação": "sulcacao/index.html", "Plantio - 06 - Abertura da Asa": "abertura_asa/index.html", "Plantio - 07 - Paralelismo": "paralelismo/index.html", "Plantio - 08 - Qualidade da muda": "qualidade_muda/index.html", "Plantio - 09 - Quantidade de Gemas": "viabilidade_gemas/index.html", "Plantio - 10 - Quantidade de Cana": "qualidade_cana/index.html", "Plantio - 11 - Dosagem de Produto - Cobrição": "dosagem_cobricao/index.html", "Plantio - 12 - Cobrição": "cobricao/index.html", "Plantio - 13 - Arremate e Acabamento": "arremate_acabamento/index.html", "Tratos - Herbicida": "herbicida/index.html", "Infestação de Broca - Armadilha": "broca_armadilha/index.html", "5S e Gestão - TPL": "tpl_5s/index.html", "CHECK LIST VEICULAR": "checklist_veicular/index.html"};
+
+        function getActiveUrl(folder) {
+            return activePanelsMap[folder] || null;
+        }
+
+        // Toggle Tema Claro/Escuro
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        const html = document.documentElement;
+
+        function updateThemeIcon() {
+            if (html.classList.contains('dark')) {
+                themeIcon.innerText = '🌙';
+            } else {
+                themeIcon.innerText = '☀️';
+            }
+        }
+
+        themeToggle.addEventListener('click', () => {
+            html.classList.toggle('dark');
+            const isDark = html.classList.contains('dark');
+            localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
+            updateThemeIcon();
+        });
+
+        const savedTheme = localStorage.getItem('pitangueiras_theme') || 'dark';
+        if (savedTheme === 'light') {
+            html.classList.remove('dark');
+        } else {
+            html.classList.add('dark');
+        }
+        updateThemeIcon();
+
+        // Alternância de Visualização: Mandala vs Grid vs Ambos
+        const mandalaSection = document.getElementById('mandalaSection');
+        const gridSection = document.getElementById('gridSection');
+        const btnMandala = document.getElementById('btnMandala');
+        const btnGrid = document.getElementById('btnGrid');
+        const btnBoth = document.getElementById('btnBoth');
+
+        function switchView(view) {
+            if (view === 'mandala') {
+                mandalaSection.classList.remove('hidden');
+                gridSection.classList.add('hidden');
+                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
+                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnGrid.style.color = "var(--text-secondary)";
+                btnBoth.style.color = "var(--text-secondary)";
+                btnGrid.style.background = "";
+                btnBoth.style.background = "";
+            } else if (view === 'grid') {
+                mandalaSection.classList.add('hidden');
+                gridSection.classList.remove('hidden');
+                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
+                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnMandala.style.color = "var(--text-secondary)";
+                btnBoth.style.color = "var(--text-secondary)";
+                btnMandala.style.background = "";
+                btnBoth.style.background = "";
+            } else {
+                mandalaSection.classList.remove('hidden');
+                gridSection.classList.remove('hidden');
+                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
+                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnMandala.style.color = "var(--text-secondary)";
+                btnGrid.style.color = "var(--text-secondary)";
+                btnMandala.style.background = "";
+                btnGrid.style.background = "";
+            }
+        }
+
+        // Interação com o Centro da Mandala ao passar o mouse ou tocar no celular
+        const centerDefault = document.getElementById('centerDefault');
+        const centerActive = document.getElementById('centerActive');
+        const activeIconContainer = document.getElementById('activeIconContainer');
+        const activeCategory = document.getElementById('activeCategory');
+        const activeName = document.getElementById('activeName');
+        const activeRows = document.getElementById('activeRows');
+        const activeDate = document.getElementById('activeDate');
+        const activeActionLabel = document.getElementById('activeActionLabel');
+
+        let activeSelectedUrl = null;
+        let selectedNodeIdx = null;
+
+        function highlightNode(idx) {
+            const node = formsData[idx];
+            if (!node) return;
+
+            selectedNodeIdx = idx;
+            activeSelectedUrl = getActiveUrl(node.folder);
+
+            // Adiciona classe de foco cinemático na mandala
+            const container = document.getElementById('mandalaContainer');
+            if (container) container.classList.add('has-focus');
+
+            // Destaque nos nós
+            document.querySelectorAll('.mandala-node').forEach(n => {
+                if (parseInt(n.getAttribute('data-index')) === idx) {
+                    n.classList.add('is-focused');
+                } else {
+                    n.classList.remove('is-focused');
+                }
+            });
+
+            // Ilumina o spoke (linha radial) com brilho especial
+            document.querySelectorAll('[id^="spoke-"]').forEach(s => {
+                s.setAttribute('stroke-width', '1.0');
+                s.setAttribute('stroke-opacity', '0.15');
+            });
+            const spoke = document.getElementById(`spoke-${idx}`);
+            if (spoke) {
+                spoke.setAttribute('stroke', '#10b981');
+                spoke.setAttribute('stroke-width', '3.0');
+                spoke.setAttribute('stroke-opacity', '1.0');
+            }
+
+            // Preenche o Centro
+            centerDefault.classList.add('hidden');
+            centerActive.classList.remove('hidden');
+
+            activeCategory.innerText = `ETAPA ${String(idx+1).padStart(2, '0')} • ${node.category}`;
+            activeName.innerText = node.clean_name;
+            activeRows.innerText = `${node.rows.toLocaleString()} reg.`;
+            activeDate.innerText = `Sincronia: ${node.latest_date}`;
+
+            if (activeSelectedUrl) {
+                activeActionLabel.innerText = "🚀 Abrir Painel Executivo";
+                activeActionLabel.className = "text-[9px] sm:text-[10px] bg-emerald-600 hover:bg-emerald-500 text-white px-3 py-1 rounded-full font-mono font-bold shadow-md animate-pulse cursor-pointer inline-block";
+            } else {
+                activeActionLabel.innerText = "Ver Detalhes das Colunas";
+                activeActionLabel.className = "text-[9px] sm:text-[10px] bg-slate-600 text-white px-3 py-1 rounded-full font-mono font-bold cursor-pointer inline-block";
+            }
+
+            // Pega o ícone do próprio nó
+            const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"] svg, .mandala-node[data-index="${idx}"] img`);
+            if (nodeEl) {
+                activeIconContainer.innerHTML = nodeEl.outerHTML;
+            }
+
+            // Atualiza destaque no chip mobile
+            document.querySelectorAll('.mobile-step-chip').forEach(c => {
+                c.classList.remove('ring-2', 'ring-emerald-500', 'bg-emerald-500/15');
+            });
+            const chip = document.getElementById(`mobile-chip-${idx}`);
+            if (chip) {
+                chip.classList.add('ring-2', 'ring-emerald-500', 'bg-emerald-500/15');
+                chip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+            }
+        }
+
+        function resetCenter() {
+            const isMobile = window.innerWidth < 768;
+            if (isMobile) return; // No mobile mantém o selecionado até outro clique
+
+            const container = document.getElementById('mandalaContainer');
+            if (container) container.classList.remove('has-focus');
+
+            document.querySelectorAll('.mandala-node').forEach(n => {
+                n.classList.remove('is-focused');
+            });
+
+            centerDefault.classList.remove('hidden');
+            centerActive.classList.add('hidden');
+            selectedNodeIdx = null;
+            activeSelectedUrl = null;
+
+            // Reseta todos os spokes para a cor de tema atual
+            document.querySelectorAll('[id^="spoke-"]').forEach((sp, idx) => {
+                const node = formsData[idx];
+                const isAct = node && getActiveUrl(node.folder);
+                sp.setAttribute('stroke', isAct ? '#10b981' : 'var(--spoke-line)');
+                sp.setAttribute('stroke-width', isAct ? '1.8' : '1.0');
+                sp.setAttribute('stroke-opacity', '1.0');
+            });
+        }
+
+        // --- GERENCIAMENTO DE RELATÓRIOS VISITADOS (PERSISTÊNCIA) ---
+        function markAsVisited(folder) {
+            if (!folder) return;
+            try {
+                let visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
+                if (!visited.includes(folder)) {
+                    visited.push(folder);
+                    localStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
+                }
+                applyVisitedStates();
+            } catch (e) {
+                console.warn('Erro ao salvar visita:', e);
+            }
+        }
+
+        function applyVisitedStates() {
+            try {
+                const visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
+                document.querySelectorAll('.mandala-node, .grid-item').forEach(el => {
+                    const f = el.getAttribute('data-folder');
+                    if (f && visited.includes(f)) {
+                        el.classList.add('is-visited');
+                    } else {
+                        el.classList.remove('is-visited');
+                    }
+                });
+                const vEl = document.getElementById('countVisited');
+                if (vEl) vEl.innerText = visited.length;
+            } catch (e) {}
+        }
+
+        function clearVisitedHistory() {
+            localStorage.removeItem('pitangueiras_visited_modules');
+            applyVisitedStates();
+        }
+
+        function handleNodeClick(idx, url) {
+            const item = formsData[idx];
+            if (item && item.folder) {
+                markAsVisited(item.folder);
+            }
+
+            const isMobile = window.innerWidth < 768;
+            if (!isMobile) {
+                if (url) {
+                    window.location.href = url;
+                } else {
+                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                }
+                return;
+            }
+
+            // No celular: se já estava selecionado este nó, abre direto
+            if (selectedNodeIdx === idx) {
+                if (url) {
+                    window.location.href = url;
+                    return;
+                } else {
+                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                    return;
+                }
+            }
+
+            // Primeiro toque: seleciona e ilumina no centro
+            highlightNode(idx);
+        }
+
+        // Clique no Center HUD abre o painel selecionado
+        const centerHud = document.getElementById('centerHud');
+        if (centerHud) {
+            centerHud.addEventListener('click', () => {
+                if (activeSelectedUrl) {
+                    window.location.href = activeSelectedUrl;
+                } else if (selectedNodeIdx !== null) {
+                    const item = formsData[selectedNodeIdx];
+                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                }
+            });
+        }
+
+        // Busca no Grid Minimalista
+        const gridSearch = document.getElementById('gridSearch');
+        const gridItems = document.querySelectorAll('.grid-item');
+
+        gridSearch.addEventListener('input', (e) => {
+            const q = e.target.value.toLowerCase().trim();
+            gridItems.forEach(item => {
+                const name = item.getAttribute('data-name');
+                const cat = item.getAttribute('data-cat');
+                if (name.includes(q) || cat.includes(q)) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+
+        // Modal de Colunas para outros formulários
+        const modal = document.getElementById('columnModal');
+        const modalTitle = document.getElementById('modalTitle');
+        const modalCat = document.getElementById('modalCat');
+        const modalSub = document.getElementById('modalSub');
+        const modalColCount = document.getElementById('modalColCount');
+        const modalColumnsList = document.getElementById('modalColumnsList');
+        const modalFolder = document.getElementById('modalFolder');
+
+        function openModal(name, cat, rows, date, folder, columns) {
+            const directUrl = getActiveUrl(folder);
+            if (directUrl) {
+                markAsVisited(folder);
+                window.location.href = directUrl;
+                return;
+            }
+
+            modalTitle.innerText = name;
+            modalCat.innerText = cat;
+            modalSub.innerText = `${rows} registros consolidados • Última sincronia em ${date}`;
+            modalColCount.innerText = `${columns.length} colunas`;
+            modalFolder.innerText = `Server_MapFy/relatorios/${folder}/dados.csv`;
+
+            modalColumnsList.innerHTML = '';
+            columns.forEach((col, idx) => {
+                const item = document.createElement('div');
+                item.className = 'p-2.5 rounded-lg border flex items-center justify-between text-xs';
+                item.style.background = 'var(--modal-item-bg)';
+                item.style.borderColor = 'var(--border-color)';
+                item.innerHTML = `
+                    <span class="font-mono" style="color: var(--text-primary);">${col}</span>
+                    <span class="text-[10px] text-emerald-500 font-mono">col_${idx+1}</span>
+                `;
+                modalColumnsList.appendChild(item);
+            });
+
+            modal.classList.remove('hidden');
+        }
+
+        function closeModal() {
+            modal.classList.add('hidden');
+        }
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+
+        // Inicialização Responsiva: Em telas pequenas (< 640px), inicia no Grid Minimalista para ergonomia perfeita
+        if (window.innerWidth < 640) {
+            switchView('grid');
+        } else {
+            switchView('mandala');
+        }
+
+        // Aplica o status de visitados ao carregar a página
+        applyVisitedStates();
+    </script>
+</body>
+</html>

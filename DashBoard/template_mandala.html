@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Mandala & Hub Operacional • Usina Pitangueiras 2026</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Variáveis Globais de Cores para Temas Claro e Escuro */
+        :root {
+            --bg-page: #f8fafc;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --border-color: #e2e8f0;
+            --header-bg: rgba(255, 255, 255, 0.94);
+            --kpi-bg: #f1f5f9;
+            --card-bg: #ffffff;
+            --card-hover: #f8fafc;
+            --center-hud-bg: #ffffff;
+            --center-hud-border: rgba(16, 185, 129, 0.40);
+            --center-hud-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            --orbit-ring: #cbd5e1;
+            --orbit-tick: #94a3b8;
+            --spoke-line: #cbd5e1;
+            --node-bg: #ffffff;
+            --node-border: #e2e8f0;
+            --node-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+            --node-label-bg: rgba(255, 255, 255, 0.95);
+            --node-label-border: #e2e8f0;
+            --node-label-text: #1e293b;
+            --modal-bg: #ffffff;
+            --modal-item-bg: #f8fafc;
+            --icon-main: #0f172a;
+            --icon-cutout: #ffffff;
+            --icon-accent: #059669;
+        }
+
+        html.dark {
+            --bg-page: #0f172a;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --border-color: #1e293b;
+            --header-bg: rgba(15, 23, 42, 0.94);
+            --kpi-bg: #1e293b;
+            --card-bg: #1e293b;
+            --card-hover: #334155;
+            --center-hud-bg: #0f172a;
+            --center-hud-border: rgba(16, 185, 129, 0.45);
+            --center-hud-shadow: 0 0 50px rgba(16, 185, 129, 0.25);
+            --orbit-ring: #334155;
+            --orbit-tick: #475569;
+            --spoke-line: #334155;
+            --node-bg: #1e293b;
+            --node-border: #334155;
+            --node-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+            --node-label-bg: rgba(15, 23, 42, 0.95);
+            --node-label-border: #334155;
+            --node-label-text: #e2e8f0;
+            --modal-bg: #1e293b;
+            --modal-item-bg: #0f172a;
+            --icon-main: #FFFFFF;
+            --icon-cutout: #242629;
+            --icon-accent: #10B981;
+        }
+
+        body {
+            background-color: var(--bg-page);
+            color: var(--text-primary);
+            transition: background-color 0.25s ease, color 0.25s ease;
+        }
+
+        /* --- MOTOR DE MOVIMENTO PROFISSIONAL E VIDA NA MANDALA --- */
+        @keyframes radarSweep {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        @keyframes orbitClockwise {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        @keyframes orbitCounterClockwise {
+            from { transform: rotate(360deg); }
+            to { transform: rotate(0deg); }
+        }
+        @keyframes ringBreathe {
+            0%, 100% { opacity: 0.35; stroke-width: 1.2px; }
+            50% { opacity: 0.75; stroke-width: 1.8px; }
+        }
+        @keyframes spokeFlow {
+            from { stroke-dashoffset: 20; }
+            to { stroke-dashoffset: 0; }
+        }
+        @keyframes nodeFloatHarmonic {
+            0%, 100% {
+                transform: translate(-50%, -50%) translateY(0px);
+            }
+            50% {
+                transform: translate(-50%, -50%) translateY(-3.5px);
+            }
+        }
+        @keyframes centerBeacon {
+            0% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.40), var(--center-hud-shadow);
+            }
+            60% {
+                box-shadow: 0 0 0 16px rgba(16, 185, 129, 0), var(--center-hud-shadow);
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0), var(--center-hud-shadow);
+            }
+        }
+
+        /* Classes de Movimento Contínuo da Mandala */
+        .radar-sweep-beam {
+            transform-origin: 400px 400px;
+            animation: radarSweep 22s linear infinite;
+            will-change: transform;
+        }
+        .orbit-outer-group {
+            transform-origin: 400px 400px;
+            animation: orbitClockwise 90s linear infinite;
+            will-change: transform;
+        }
+        .orbit-inner-dashed {
+            transform-origin: 400px 400px;
+            animation: orbitCounterClockwise 120s linear infinite;
+            will-change: transform;
+        }
+        .orbit-pulse-ring {
+            animation: ringBreathe 6s ease-in-out infinite;
+        }
+        .spoke-flow {
+            animation: spokeFlow 1.6s linear infinite;
+        }
+        .mandala-node {
+            animation: nodeFloatHarmonic 4.8s ease-in-out infinite;
+            will-change: transform;
+            transition: opacity 0.25s ease, filter 0.25s ease;
+        }
+        .mandala-node:hover {
+            animation-play-state: paused !important;
+            transform: translate(-50%, -50%) scale(1.15) !important;
+            z-index: 50 !important;
+        }
+        #centerHud {
+            animation: centerBeacon 4.2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        #centerHud:hover {
+            transform: scale(1.025);
+            border-color: #10b981;
+        }
+
+        /* --- FOCO CINEMÁTICO NO HOVER / INTERAÇÃO --- */
+        .mandala-container.has-focus .mandala-node:not(.is-focused) {
+            opacity: 0.32;
+            filter: grayscale(35%);
+        }
+        .mandala-container.has-focus .spoke-line:not(.is-focused) {
+            stroke-opacity: 0.12 !important;
+        }
+        .mandala-node.is-focused {
+            transform: translate(-50%, -50%) scale(1.18) !important;
+            z-index: 50 !important;
+            animation-play-state: paused !important;
+        }
+        .mandala-node.is-focused .node-disc {
+            box-shadow: 0 0 28px rgba(16, 185, 129, 0.70) !important;
+            border-color: #10b981 !important;
+        }
+
+        /* --- INTELIGÊNCIA DE ESTADOS (VISITADOS E RECENTES) --- */
+        /* 1. Relatório Já Visitado pelo Usuário */
+        .mandala-node.is-visited .node-disc {
+            border-color: #38bdf8 !important; /* Azul Safira / Céu */
+            box-shadow: 0 0 16px rgba(56, 189, 248, 0.40) !important;
+        }
+        .mandala-node.is-visited .badge-index {
+            background: rgba(56, 189, 248, 0.20) !important;
+            color: #38bdf8 !important;
+            border-color: rgba(56, 189, 248, 0.40) !important;
+        }
+        .mandala-node.is-visited .visited-badge,
+        .grid-item.is-visited .visited-badge {
+            display: inline-flex !important;
+        }
+        .grid-item.is-visited {
+            border-color: rgba(56, 189, 248, 0.50) !important;
+            box-shadow: 0 4px 18px rgba(56, 189, 248, 0.14) !important;
+        }
+
+        /* 2. Relatório com Atualização Recente na Safra */
+        .mandala-node.is-recent:not(.is-visited) .node-disc {
+            border-color: #f59e0b !important; /* Âmbar Dourado */
+        }
+
+        /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
+        .aerial-backdrop-container {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+            overflow: hidden;
+        }
+        .aerial-backdrop-img {
+            background-image: url('assets/usina_pitangueiras_bg.jpg');
+            transform: scale(1.03);
+            filter: saturate(0.90) contrast(1.05);
+        }
+        /* No tema escuro: transparência sutil e vinheta escura profunda */
+        html.dark .aerial-backdrop-img {
+            opacity: 0.18;
+        }
+        html.dark .aerial-backdrop-overlay {
+            background: radial-gradient(circle at 50% 50%, rgba(15, 23, 42, 0.40) 0%, rgba(15, 23, 42, 0.78) 65%, rgba(15, 23, 42, 0.95) 100%);
+        }
+        /* No tema claro: transparência suave e vinheta clara */
+        html:not(.dark) .aerial-backdrop-img {
+            opacity: 0.12;
+        }
+        html:not(.dark) .aerial-backdrop-overlay {
+            background: radial-gradient(circle at 50% 50%, rgba(248, 250, 252, 0.50) 0%, rgba(248, 250, 252, 0.82) 65%, rgba(248, 250, 252, 0.96) 100%);
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .radar-sweep-beam,
+            .orbit-outer-group,
+            .orbit-inner-dashed,
+            .spoke-flow,
+            .mandala-node,
+            #centerHud {
+                animation: none !important;
+            }
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-page);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #10b981;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white relative">
+
+    <!-- PLANO DE FUNDO PANORÂMICO AÉREO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) -->
+    <div class="aerial-backdrop-container" aria-hidden="true">
+        <div class="aerial-backdrop-img absolute inset-0 bg-cover bg-center bg-no-repeat transition-opacity duration-700"></div>
+        <div class="aerial-backdrop-overlay absolute inset-0 transition-colors duration-700"></div>
+    </div>
+
+    <!-- Header Superior -->
+    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
+            style="background: var(--header-bg); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+            
+            <!-- Logo Oficial da Usina Pitangueiras 51 Anos -->
+            <div class="flex items-center gap-3.5">
+                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
+                </div>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight" style="color: var(--text-primary);">Hub de Inteligência Agrícola</h1>
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">Safra 2026</span>
+                    </div>
+                    <p class="text-xs" style="color: var(--text-secondary);">Monitoramento Operacional & Qualidade de Campo</p>
+                </div>
+            </div>
+
+            <!-- KPIs Rápidos + Toggle de Tema Claro/Escuro -->
+            <div class="flex items-center gap-3 sm:gap-4 text-xs">
+                <div class="hidden sm:flex items-center gap-2 px-3 py-1.5 rounded-lg border transition-colors"
+                     style="background: var(--kpi-bg); border-color: var(--border-color);">
+                    <span class="text-emerald-500 font-bold">●</span>
+                    <span style="color: var(--text-secondary);">Total Consolidado:</span>
+                    <strong class="font-mono text-emerald-500 font-bold">{{TOTAL_RECORDS}}</strong>
+                </div>
+
+                <!-- Toggle Tema -->
+                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
+                        style="background: var(--kpi-bg); border-color: var(--border-color); color: var(--text-primary);"
+                        title="Alternar entre modo Claro e Escuro">
+                    <span id="themeIcon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Barra de Controle Central: Mandala vs Grid + Legenda Inteligente de Estados -->
+    <div class="border-b py-2.5 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
+         style="background: var(--header-bg); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-wrap items-center justify-between gap-3">
+            
+            <!-- Grupo de Alternância Centralizado -->
+            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
+                 style="background: var(--kpi-bg); border-color: var(--border-color);">
+                <button id="btnMandala" onclick="switchView('mandala')"
+                        class="px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm">
+                    Mandala Circular
+                </button>
+                <button id="btnGrid" onclick="switchView('grid')"
+                        class="px-4 py-1.5 rounded-lg transition-all"
+                        style="color: var(--text-secondary);">
+                    Grid Minimalista
+                </button>
+                <button id="btnBoth" onclick="switchView('both')"
+                        class="px-4 py-1.5 rounded-lg transition-all"
+                        style="color: var(--text-secondary);">
+                    ◈ Ambos
+                </button>
+            </div>
+
+            <!-- Indicador do Ciclo Completo e Legenda de Estados -->
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-4 text-xs font-mono" style="color: var(--text-secondary);">
+                <div class="flex items-center gap-1.5">
+                    <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-[0_0_8px_#10b981]"></span>
+                    <span class="font-bold text-emerald-600 dark:text-emerald-400">17 Painéis Ativos</span>
+                </div>
+                <span>•</span>
+                <div class="flex items-center gap-1.5" title="Sincronizados recentemente na Safra (27/10)">
+                    <span class="w-2.5 h-2.5 rounded-full bg-amber-500 animate-pulse shadow-[0_0_8px_#f59e0b]"></span>
+                    <span class="font-semibold text-amber-500">{{RECENT_COUNT}} Recentes</span>
+                </div>
+                <span>•</span>
+                <div class="flex items-center gap-1.5" title="Relatórios consultados no seu navegador">
+                    <span class="w-2.5 h-2.5 rounded-full bg-sky-500 shadow-[0_0_8px_#38bdf8]"></span>
+                    <span class="font-semibold text-sky-500"><span id="countVisited">0</span> Visitados</span>
+                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-1 cursor-pointer" title="Zerar histórico de visitas">Limpar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conteúdo Principal com Elevação z-10 sobre o Fundo da Usina -->
+    <main class="flex-1 w-full max-w-[1920px] mx-auto px-2 sm:px-4 md:px-6 lg:px-8 py-2 sm:py-3 flex flex-col items-center justify-center relative z-10">
+
+        <!-- ======================================================== -->
+        <!-- SEÇÃO 1: MANDALA AGRONÔMICA 360° (ALTA PRECISÃO & VIDA)  -->
+        <!-- ======================================================== -->
+        <section id="mandalaSection" class="w-full flex flex-col items-center justify-center transition-all duration-300">
+
+            <!-- Mandala Visual Container Espaçoso (Aproveita 2 a 3 cm a mais verticalmente: 84vh / 920px) -->
+            <div id="mandalaContainer" class="mandala-container relative w-[min(96vw,84vh)] h-[min(96vw,84vh)] max-w-[920px] max-h-[920px] aspect-square mx-auto flex items-center justify-center p-1 sm:p-2 select-none">
+                
+                <!-- SVG de Fundo com Radar 360°, Órbitas e Fluxo de Dados -->
+                <svg viewBox="0 0 800 800" class="absolute inset-0 w-full h-full pointer-events-none">
+                    <defs>
+                        <!-- Gradiente Suave Central -->
+                        <radialGradient id="centerAura" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" stop-color="#10b981" stop-opacity="0.16"/>
+                            <stop offset="65%" stop-color="#10b981" stop-opacity="0.03"/>
+                            <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+                        </radialGradient>
+
+                        <!-- Gradiente do Feixe de Radar Agronômico / Scanner em Tempo Real -->
+                        <linearGradient id="radarBeamGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
+                            <stop offset="50%" stop-color="#10b981" stop-opacity="0.07"/>
+                            <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+                        </linearGradient>
+
+                        <!-- Filtro de Brilho Esmeralda -->
+                        <filter id="glowEmerald" x="-20%" y="-20%" width="140%" height="140%">
+                            <feGaussianBlur stdDeviation="2.5" result="blur"/>
+                            <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+                        </filter>
+                    </defs>
+
+                    <!-- Aura Central Suave -->
+                    <circle cx="400" cy="400" r="378" fill="url(#centerAura)"/>
+
+                    <!-- Anel Externo de Medição com Ticks de Bússola (Rotação Contínua Suave 90s) -->
+                    <g class="orbit-outer-group">
+                        <circle cx="400" cy="400" r="378" stroke="var(--orbit-ring)" stroke-width="1.2" stroke-opacity="0.6" fill="none"/>
+                        {{PRECISION_TICKS}}
+                    </g>
+
+                    <!-- Feixe de Radar / Scanner Inteligente (Varre em 360 graus suavemente a cada 22s) -->
+                    <g class="radar-sweep-beam">
+                        <path d="M 400 400 L 400 22 A 378 378 0 0 1 645 125 Z" fill="url(#radarBeamGrad)"/>
+                        <line x1="400" y1="400" x2="400" y2="22" stroke="#10b981" stroke-width="2" stroke-linecap="round" opacity="0.85" filter="url(#glowEmerald)"/>
+                        <circle cx="400" cy="22" r="3.5" fill="#10b981"/>
+                    </g>
+
+                    <!-- Anéis Orbitais Primários e Secundários -->
+                    <circle cx="400" cy="400" r="310" stroke="var(--orbit-ring)" stroke-width="1.8" stroke-dasharray="4 6" class="orbit-inner-dashed" fill="none"/>
+                    <circle cx="400" cy="400" r="230" stroke="var(--orbit-ring)" stroke-width="1.2" stroke-dasharray="2 4" opacity="0.6" class="orbit-outer-group" fill="none"/>
+                    <circle cx="400" cy="400" r="152" stroke="#10b981" stroke-width="1.5" stroke-opacity="0.35" class="orbit-pulse-ring" fill="none"/>
+
+                    <!-- Linhas Radiais (Spokes) com Animação de Fluxo de Dados Contínuo -->
+                    {{MANDALA_SPOKES}}
+
+                    <!-- Ponto central de ancoragem -->
+                    <circle cx="400" cy="400" r="4.5" fill="#10b981"/>
+                </svg>
+
+                <!-- NÓ CENTRAL / HUD INTERATIVO COM BATIMENTO CARDÍACO (HEARTBEAT OPERACIONAL) -->
+                <div id="centerHud"
+                     class="w-36 h-36 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-full border-2 flex flex-col items-center justify-center text-center p-2 sm:p-3 md:p-5 transition-all duration-300 z-10 relative cursor-pointer"
+                     style="background: var(--center-hud-bg); border-color: var(--center-hud-border); box-shadow: var(--center-hud-shadow); color: var(--text-primary);">
+                    
+                    <!-- Estado Padrão do Centro -->
+                    <div id="centerDefault" class="space-y-0.5 sm:space-y-1 flex flex-col items-center justify-center p-1 w-full">
+                        <div class="w-full flex items-center justify-center py-0.5">
+                            <div class="px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-xl sm:rounded-2xl bg-white shadow-sm border border-slate-200/90 flex items-center justify-center">
+                                <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos"
+                                     class="h-5 sm:h-7 md:h-9 w-auto object-contain">
+                            </div>
+                        </div>
+                        <div class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-tight font-mono text-emerald-600 dark:text-emerald-400 leading-none">{{TOTAL_RECORDS}}</div>
+                        <div class="text-[9px] sm:text-[10px] md:text-xs font-bold uppercase tracking-wider text-slate-800 dark:text-slate-200">Registros Consolidados</div>
+                        <div class="text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold">17 Fases • Safra 2026</div>
+                    </div>
+
+                    <!-- Estado Ativo no Hover/Tap (Preenchido dinamicamente via JS) -->
+                    <div id="centerActive" class="hidden space-y-0.5 sm:space-y-1 w-full">
+                        <div id="activeIconContainer" class="w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 mx-auto flex items-center justify-center"></div>
+                        <div id="activeCategory" class="text-[8px] sm:text-[9px] md:text-[10px] font-mono uppercase tracking-wider text-emerald-500 font-bold">Categoria</div>
+                        <h4 id="activeName" class="text-[11px] sm:text-xs md:text-sm font-bold line-clamp-2 px-1 leading-tight" style="color: var(--text-primary);">Nome</h4>
+                        <div class="text-xs sm:text-sm md:text-base font-mono font-extrabold text-emerald-500" id="activeRows">0 reg.</div>
+                        <div class="text-[8px] sm:text-[9px] md:text-[10px] font-mono" style="color: var(--text-secondary);" id="activeDate">Data</div>
+                        <div class="pt-0.5 sm:pt-1">
+                            <span id="activeActionLabel" class="text-[9px] sm:text-[10px] bg-emerald-500 text-white px-2.5 sm:px-3 py-0.5 sm:py-1 rounded-full font-mono font-bold shadow-sm">
+                                Abrir Painel ➜
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 17 NÓS DA MANDALA POSICIONADOS RADIALMENTE COM ÍCONES E NOMES -->
+                {{MANDALA_NODES}}
+            </div>
+
+            <!-- Carrossel de Etapas para Mobile (Touch-friendly, Zero Empelotamento) -->
+            <div class="w-full md:hidden mt-3 px-2 overflow-x-auto flex items-center gap-2 py-2 no-scrollbar">
+                {{MOBILE_CHIPS}}
+            </div>
+
+            <div class="text-[10px] sm:text-xs font-mono mt-3 sm:mt-4 text-center" style="color: var(--text-secondary);">
+                Passe o mouse para inspecionar • Clique para abrir o painel executivo
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- SEÇÃO 2: GRID MINIMALISTA 4xX COM BUSCA INSTANTÂNEA      -->
+        <!-- ======================================================== -->
+        <section id="gridSection" class="w-full hidden flex flex-col space-y-4 transition-all duration-300">
+            <!-- Barra de Busca Minimalista -->
+            <div class="w-full max-w-xl mx-auto mb-2">
+                <div class="relative flex items-center">
+                    <input type="text" id="gridSearch"
+                           placeholder="Filtrar por nome da etapa ou categoria..."
+                           class="w-full px-4 py-2.5 pl-10 rounded-xl border text-xs sm:text-sm transition-all focus:outline-none focus:ring-2 focus:ring-emerald-500"
+                           style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
+                    <span class="absolute left-3.5 text-slate-400 text-xs sm:text-sm">🔍</span>
+                </div>
+            </div>
+
+            <!-- Grid de Cartões -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 w-full">
+                {{GRID_CARDS}}
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="border-t py-4 text-center text-xs transition-colors"
+            style="background: var(--header-bg); border-color: var(--border-color); color: var(--text-secondary);">
+        <p class="font-medium">Usina Pitangueiras • Sistema Mapfy Automático • Safra 2026</p>
+        <p class="text-[10px] font-mono mt-1 opacity-70">Dados consolidados incrementalmente em <code class="text-emerald-500">Server_MapFy/relatorios/</code></p>
+    </footer>
+
+    <!-- MODAL DE DETALHES DAS COLUNAS (PARA RELATÓRIOS SEM PAINEL ESPECÍFICO) -->
+    <div id="columnModal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
+        <div class="rounded-2xl max-w-lg w-full p-6 shadow-2xl border transition-colors flex flex-col max-h-[85vh]"
+             style="background: var(--modal-bg); border-color: var(--border-color);">
+            
+            <div class="flex items-start justify-between pb-3 border-b" style="border-color: var(--border-color);">
+                <div>
+                    <span id="modalCat" class="text-[10px] font-mono font-bold uppercase tracking-wider text-emerald-500">Categoria</span>
+                    <h3 id="modalTitle" class="text-base font-bold mt-0.5" style="color: var(--text-primary);">Nome do Formulário</h3>
+                    <p id="modalSub" class="text-xs mt-1" style="color: var(--text-secondary);">0 registros consolidados</p>
+                </div>
+                <button onclick="closeModal()" class="p-1 rounded-lg hover:bg-slate-500/10 text-slate-400 hover:text-white transition">
+                    ✕
+                </button>
+            </div>
+
+            <div class="my-4 flex-1 overflow-y-auto pr-1">
+                <div class="flex items-center justify-between text-xs font-semibold mb-2" style="color: var(--text-secondary);">
+                    <span>Colunas Mapeadas</span>
+                    <span id="modalColCount" class="font-mono text-emerald-500">0 colunas</span>
+                </div>
+                <div id="modalColumnsList" class="space-y-1.5 font-mono text-xs">
+                    <!-- Gerado via JS -->
+                </div>
+            </div>
+
+            <div class="pt-3 border-t flex items-center justify-between text-[11px]" style="border-color: var(--border-color); color: var(--text-secondary);">
+                <span id="modalFolder" class="truncate font-mono">pasta</span>
+                <button onclick="closeModal()" class="px-3 py-1.5 rounded-lg bg-emerald-600 text-white font-semibold text-xs hover:bg-emerald-500 transition">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCRIPTS DE INTERATIVIDADE -->
+    <script>
+        const formsData = {{FORMS_DATA_JSON}};
+        const activePanelsMap = {{ACTIVE_PANELS_JSON}};
+
+        function getActiveUrl(folder) {
+            return activePanelsMap[folder] || null;
+        }
+
+        // Toggle Tema Claro/Escuro
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        const html = document.documentElement;
+
+        function updateThemeIcon() {
+            if (html.classList.contains('dark')) {
+                themeIcon.innerText = '🌙';
+            } else {
+                themeIcon.innerText = '☀️';
+            }
+        }
+
+        themeToggle.addEventListener('click', () => {
+            html.classList.toggle('dark');
+            const isDark = html.classList.contains('dark');
+            localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
+            updateThemeIcon();
+        });
+
+        const savedTheme = localStorage.getItem('pitangueiras_theme') || 'dark';
+        if (savedTheme === 'light') {
+            html.classList.remove('dark');
+        } else {
+            html.classList.add('dark');
+        }
+        updateThemeIcon();
+
+        // Alternância de Visualização: Mandala vs Grid vs Ambos
+        const mandalaSection = document.getElementById('mandalaSection');
+        const gridSection = document.getElementById('gridSection');
+        const btnMandala = document.getElementById('btnMandala');
+        const btnGrid = document.getElementById('btnGrid');
+        const btnBoth = document.getElementById('btnBoth');
+
+        function switchView(view) {
+            if (view === 'mandala') {
+                mandalaSection.classList.remove('hidden');
+                gridSection.classList.add('hidden');
+                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
+                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnGrid.style.color = "var(--text-secondary)";
+                btnBoth.style.color = "var(--text-secondary)";
+                btnGrid.style.background = "";
+                btnBoth.style.background = "";
+            } else if (view === 'grid') {
+                mandalaSection.classList.add('hidden');
+                gridSection.classList.remove('hidden');
+                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
+                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnMandala.style.color = "var(--text-secondary)";
+                btnBoth.style.color = "var(--text-secondary)";
+                btnMandala.style.background = "";
+                btnBoth.style.background = "";
+            } else {
+                mandalaSection.classList.remove('hidden');
+                gridSection.classList.remove('hidden');
+                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
+                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnMandala.style.color = "var(--text-secondary)";
+                btnGrid.style.color = "var(--text-secondary)";
+                btnMandala.style.background = "";
+                btnGrid.style.background = "";
+            }
+        }
+
+        // Interação com o Centro da Mandala ao passar o mouse ou tocar no celular
+        const centerDefault = document.getElementById('centerDefault');
+        const centerActive = document.getElementById('centerActive');
+        const activeIconContainer = document.getElementById('activeIconContainer');
+        const activeCategory = document.getElementById('activeCategory');
+        const activeName = document.getElementById('activeName');
+        const activeRows = document.getElementById('activeRows');
+        const activeDate = document.getElementById('activeDate');
+        const activeActionLabel = document.getElementById('activeActionLabel');
+
+        let activeSelectedUrl = null;
+        let selectedNodeIdx = null;
+
+        function highlightNode(idx) {
+            const node = formsData[idx];
+            if (!node) return;
+
+            selectedNodeIdx = idx;
+            activeSelectedUrl = getActiveUrl(node.folder);
+
+            // Adiciona classe de foco cinemático na mandala
+            const container = document.getElementById('mandalaContainer');
+            if (container) container.classList.add('has-focus');
+
+            // Destaque nos nós
+            document.querySelectorAll('.mandala-node').forEach(n => {
+                if (parseInt(n.getAttribute('data-index')) === idx) {
+                    n.classList.add('is-focused');
+                } else {
+                    n.classList.remove('is-focused');
+                }
+            });
+
+            // Ilumina o spoke (linha radial) com brilho especial
+            document.querySelectorAll('[id^="spoke-"]').forEach(s => {
+                s.setAttribute('stroke-width', '1.0');
+                s.setAttribute('stroke-opacity', '0.15');
+            });
+            const spoke = document.getElementById(`spoke-${idx}`);
+            if (spoke) {
+                spoke.setAttribute('stroke', '#10b981');
+                spoke.setAttribute('stroke-width', '3.0');
+                spoke.setAttribute('stroke-opacity', '1.0');
+            }
+
+            // Preenche o Centro
+            centerDefault.classList.add('hidden');
+            centerActive.classList.remove('hidden');
+
+            activeCategory.innerText = `ETAPA ${String(idx+1).padStart(2, '0')} • ${node.category}`;
+            activeName.innerText = node.clean_name;
+            activeRows.innerText = `${node.rows.toLocaleString()} reg.`;
+            activeDate.innerText = `Sincronia: ${node.latest_date}`;
+
+            if (activeSelectedUrl) {
+                activeActionLabel.innerText = "🚀 Abrir Painel Executivo";
+                activeActionLabel.className = "text-[9px] sm:text-[10px] bg-emerald-600 hover:bg-emerald-500 text-white px-3 py-1 rounded-full font-mono font-bold shadow-md animate-pulse cursor-pointer inline-block";
+            } else {
+                activeActionLabel.innerText = "Ver Detalhes das Colunas";
+                activeActionLabel.className = "text-[9px] sm:text-[10px] bg-slate-600 text-white px-3 py-1 rounded-full font-mono font-bold cursor-pointer inline-block";
+            }
+
+            // Pega o ícone do próprio nó
+            const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"] svg, .mandala-node[data-index="${idx}"] img`);
+            if (nodeEl) {
+                activeIconContainer.innerHTML = nodeEl.outerHTML;
+            }
+
+            // Atualiza destaque no chip mobile
+            document.querySelectorAll('.mobile-step-chip').forEach(c => {
+                c.classList.remove('ring-2', 'ring-emerald-500', 'bg-emerald-500/15');
+            });
+            const chip = document.getElementById(`mobile-chip-${idx}`);
+            if (chip) {
+                chip.classList.add('ring-2', 'ring-emerald-500', 'bg-emerald-500/15');
+                chip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+            }
+        }
+
+        function resetCenter() {
+            const isMobile = window.innerWidth < 768;
+            if (isMobile) return; // No mobile mantém o selecionado até outro clique
+
+            const container = document.getElementById('mandalaContainer');
+            if (container) container.classList.remove('has-focus');
+
+            document.querySelectorAll('.mandala-node').forEach(n => {
+                n.classList.remove('is-focused');
+            });
+
+            centerDefault.classList.remove('hidden');
+            centerActive.classList.add('hidden');
+            selectedNodeIdx = null;
+            activeSelectedUrl = null;
+
+            // Reseta todos os spokes para a cor de tema atual
+            document.querySelectorAll('[id^="spoke-"]').forEach((sp, idx) => {
+                const node = formsData[idx];
+                const isAct = node && getActiveUrl(node.folder);
+                sp.setAttribute('stroke', isAct ? '#10b981' : 'var(--spoke-line)');
+                sp.setAttribute('stroke-width', isAct ? '1.8' : '1.0');
+                sp.setAttribute('stroke-opacity', '1.0');
+            });
+        }
+
+        // --- GERENCIAMENTO DE RELATÓRIOS VISITADOS (PERSISTÊNCIA) ---
+        function markAsVisited(folder) {
+            if (!folder) return;
+            try {
+                let visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
+                if (!visited.includes(folder)) {
+                    visited.push(folder);
+                    localStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
+                }
+                applyVisitedStates();
+            } catch (e) {
+                console.warn('Erro ao salvar visita:', e);
+            }
+        }
+
+        function applyVisitedStates() {
+            try {
+                const visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
+                document.querySelectorAll('.mandala-node, .grid-item').forEach(el => {
+                    const f = el.getAttribute('data-folder');
+                    if (f && visited.includes(f)) {
+                        el.classList.add('is-visited');
+                    } else {
+                        el.classList.remove('is-visited');
+                    }
+                });
+                const vEl = document.getElementById('countVisited');
+                if (vEl) vEl.innerText = visited.length;
+            } catch (e) {}
+        }
+
+        function clearVisitedHistory() {
+            localStorage.removeItem('pitangueiras_visited_modules');
+            applyVisitedStates();
+        }
+
+        function handleNodeClick(idx, url) {
+            const item = formsData[idx];
+            if (item && item.folder) {
+                markAsVisited(item.folder);
+            }
+
+            const isMobile = window.innerWidth < 768;
+            if (!isMobile) {
+                if (url) {
+                    window.location.href = url;
+                } else {
+                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                }
+                return;
+            }
+
+            // No celular: se já estava selecionado este nó, abre direto
+            if (selectedNodeIdx === idx) {
+                if (url) {
+                    window.location.href = url;
+                    return;
+                } else {
+                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                    return;
+                }
+            }
+
+            // Primeiro toque: seleciona e ilumina no centro
+            highlightNode(idx);
+        }
+
+        // Clique no Center HUD abre o painel selecionado
+        const centerHud = document.getElementById('centerHud');
+        if (centerHud) {
+            centerHud.addEventListener('click', () => {
+                if (activeSelectedUrl) {
+                    window.location.href = activeSelectedUrl;
+                } else if (selectedNodeIdx !== null) {
+                    const item = formsData[selectedNodeIdx];
+                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                }
+            });
+        }
+
+        // Busca no Grid Minimalista
+        const gridSearch = document.getElementById('gridSearch');
+        const gridItems = document.querySelectorAll('.grid-item');
+
+        gridSearch.addEventListener('input', (e) => {
+            const q = e.target.value.toLowerCase().trim();
+            gridItems.forEach(item => {
+                const name = item.getAttribute('data-name');
+                const cat = item.getAttribute('data-cat');
+                if (name.includes(q) || cat.includes(q)) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+
+        // Modal de Colunas para outros formulários
+        const modal = document.getElementById('columnModal');
+        const modalTitle = document.getElementById('modalTitle');
+        const modalCat = document.getElementById('modalCat');
+        const modalSub = document.getElementById('modalSub');
+        const modalColCount = document.getElementById('modalColCount');
+        const modalColumnsList = document.getElementById('modalColumnsList');
+        const modalFolder = document.getElementById('modalFolder');
+
+        function openModal(name, cat, rows, date, folder, columns) {
+            const directUrl = getActiveUrl(folder);
+            if (directUrl) {
+                markAsVisited(folder);
+                window.location.href = directUrl;
+                return;
+            }
+
+            modalTitle.innerText = name;
+            modalCat.innerText = cat;
+            modalSub.innerText = `${rows} registros consolidados • Última sincronia em ${date}`;
+            modalColCount.innerText = `${columns.length} colunas`;
+            modalFolder.innerText = `Server_MapFy/relatorios/${folder}/dados.csv`;
+
+            modalColumnsList.innerHTML = '';
+            columns.forEach((col, idx) => {
+                const item = document.createElement('div');
+                item.className = 'p-2.5 rounded-lg border flex items-center justify-between text-xs';
+                item.style.background = 'var(--modal-item-bg)';
+                item.style.borderColor = 'var(--border-color)';
+                item.innerHTML = `
+                    <span class="font-mono" style="color: var(--text-primary);">${col}</span>
+                    <span class="text-[10px] text-emerald-500 font-mono">col_${idx+1}</span>
+                `;
+                modalColumnsList.appendChild(item);
+            });
+
+            modal.classList.remove('hidden');
+        }
+
+        function closeModal() {
+            modal.classList.add('hidden');
+        }
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+
+        // Inicialização Responsiva: Em telas pequenas (< 640px), inicia no Grid Minimalista para ergonomia perfeita
+        if (window.innerWidth < 640) {
+            switchView('grid');
+        } else {
+            switchView('mandala');
+        }
+
+        // Aplica o status de visitados ao carregar a página
+        applyVisitedStates();
+    </script>
+</body>
+</html>

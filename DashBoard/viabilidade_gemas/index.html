@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Quantidade e Viabilidade de Gemas • Usina Pitangueiras</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
+
+    <!-- 1. CABEÇALHO EXECUTIVO (NAVEGAÇÃO ESTRITA: APENAS RETORNO AO HUB) -->
+    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
+            style="background: var(--bg-header); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+            
+            <div class="flex items-center gap-3.5">
+                <a href="../index.html" class="p-2 rounded-xl border transition-all hover:border-emerald-500 hover:scale-105 flex items-center justify-center shadow-sm"
+                   style="background: var(--bg-card); border-color: var(--border-color);"
+                   title="Voltar para a Mandala Hub">
+                    <span class="text-sm font-bold text-emerald-500">←</span>
+                    <span class="text-xs font-semibold ml-1 hidden sm:inline text-[var(--text-secondary)]">Mandala Hub</span>
+                </a>
+                
+                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
+                </div>
+
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight text-[var(--text-primary)]">
+                            Plantio — Quantidade e Viabilidade de Gemas
+                        </h1>
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
+                            Safra 2026
+                        </span>
+                    </div>
+                    <p class="text-xs text-[var(--text-secondary)]">
+                        Monitoramento de gemas totais, viáveis e inviáveis • Auditoria de consistência matemática • Qualidade agronômica de dados
+                    </p>
+                </div>
+            </div>
+
+            <!-- Controles do Cabeçalho -->
+            <div class="flex items-center gap-2 sm:gap-2.5 text-xs flex-wrap">
+                <!-- Seletor Rápido de Período e Auditoria -->
+                <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
+                     style="background: var(--bg-kpi); border-color: var(--border-color);">
+                    <button id="btnLatestDate" onclick="setQuickPeriod('latest')"
+                            class="px-3 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm"
+                            title="Filtrar pela data mais recente observada na base">
+                        Última Data (<span id="lblLatestDate">28/10/2026</span>)
+                    </button>
+                    <button id="btnAllDates" onclick="setQuickPeriod('all')"
+                            class="px-3 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-emerald-500"
+                            title="Visualizar todo o histórico da safra">
+                        Safra Completa
+                    </button>
+                    <button id="btnInconsistencias" onclick="toggleInconsistenciasFilter()"
+                            class="px-3 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-amber-500 flex items-center gap-1"
+                            title="Filtrar apenas registros com soma divergente">
+                        <span>⚠️</span>
+                        <span>Inconsistências (<span id="lblInconsistenciasCount">49</span>)</span>
+                    </button>
+                    <button id="btnInviaveis" onclick="toggleInviaveisFilter()"
+                            class="px-3 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-rose-500 flex items-center gap-1"
+                            title="Filtrar amostras onde foram encontradas gemas inviáveis">
+                        <span>✕</span>
+                        <span>Com Inviáveis (<span id="lblInviaveisCount">666</span>)</span>
+                    </button>
+                </div>
+
+                <!-- Exportações -->
+                <div class="inline-flex items-center gap-1">
+                    <button onclick="exportToExcel()" class="px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 hover:border-emerald-500 transition-colors shadow-sm"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Exportar dados filtrados para planilha Excel (.xlsx)">
+                        <span>📊</span>
+                        <span class="hidden md:inline">Excel</span>
+                    </button>
+                    <button onclick="exportToCSV()" class="px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Exportar para arquivo CSV">
+                        <span>📄</span>
+                        <span class="hidden lg:inline">CSV</span>
+                    </button>
+                    <button onclick="window.print()" class="px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Imprimir relatório executivo / Gerar PDF">
+                        <span>🖨️</span>
+                    </button>
+                </div>
+
+                <!-- Simulador de Meta Agronômica -->
+                <button onclick="openTargetModal()" class="px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 hover:border-emerald-500 transition-colors shadow-sm"
+                        style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                        title="Simulador de Meta Agronômica e Parâmetros Técnicos">
+                    <span>🎯</span>
+                    <span class="hidden md:inline">Meta</span>
+                </button>
+
+                <!-- Toggle Tema Claro/Escuro -->
+                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
+                        style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                        title="Alternar entre modo Claro e Escuro">
+                    <span id="themeIcon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- BANNER DE INFORMAÇÃO OPERACIONAL INICIAL (CONFORME SEÇÃO 7 DO PROMPT MESTRE) -->
+    <div id="initialNoticeBanner" class="border-b py-2 px-4 transition-colors"
+         style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.25);">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-2 text-xs">
+            <div class="flex items-center gap-2 text-[var(--text-primary)]">
+                <span class="text-emerald-500 font-bold">ℹ️</span>
+                <span>
+                    Painel inicializado na data mais recente disponível: <strong id="bannerDateStr">28/10/2026</strong> (<span id="bannerCountStr">11 inspeções</span>).
+                    Para consultar todo o histórico da safra (2.708 registros), clique em:
+                </span>
+                <button onclick="setQuickPeriod('all')" class="underline font-bold text-emerald-600 dark:text-emerald-400 hover:opacity-80">
+                    [Safra Completa]
+                </button>
+            </div>
+            <button onclick="dismissBanner()" class="text-xs text-[var(--text-secondary)] hover:text-rose-500 px-2">
+                ✕ Fechar aviso
+            </button>
+        </div>
+    </div>
+
+    <!-- 2. BARRA DE FILTROS GLOBAIS AVANÇADOS -->
+    <section id="filterSection" class="border-b py-3 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
+             style="background: var(--bg-header); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2.5 items-end text-xs">
+                
+                <!-- Data Início -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Data Início</label>
+                    <input type="date" id="filterStartDate"
+                           class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                </div>
+
+                <!-- Data Fim -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Data Fim</label>
+                    <input type="date" id="filterEndDate"
+                           class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                </div>
+
+                <!-- Frente -->
+                <div class="xl:col-span-2">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Frente</label>
+                    <select id="filterFrente"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <!-- OS -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Ordem de Serviço</label>
+                    <select id="filterOS"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todas as OS</option>
+                    </select>
+                </div>
+
+                <!-- Local (Fazenda - Talhão) -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Local / Talhão</label>
+                    <select id="filterLocal"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <!-- Responsável -->
+                <div class="xl:col-span-2">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Responsável</label>
+                    <select id="filterResponsavel"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <!-- Consistência das Contagens -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Consistência</label>
+                    <select id="filterConsistencia"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500 font-bold">
+                        <option value="TODOS">Todas</option>
+                        <option value="CONSISTENTE" class="text-emerald-500">Consistente (✓)</option>
+                        <option value="INCONSISTENTE" class="text-amber-500">Inconsistente (⚠️)</option>
+                    </select>
+                </div>
+
+                <!-- Amostras com Inviáveis -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Inviáveis</label>
+                    <select id="filterInviaveis"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500 font-bold">
+                        <option value="TODOS">Todas</option>
+                        <option value="COM_INVIAVEIS" class="text-rose-500">Com Inviáveis (&gt; 0)</option>
+                        <option value="SEM_INVIAVEIS" class="text-emerald-500">100% Viáveis</option>
+                    </select>
+                </div>
+
+                <!-- Faixa de Quantidade Total -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Faixa Total</label>
+                    <select id="filterFaixaTotal"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todas</option>
+                        <option value="MENOR_55">&lt; 55 gemas</option>
+                        <option value="55_65">55 a 65 gemas</option>
+                        <option value="MAIOR_65">&gt; 65 gemas</option>
+                    </select>
+                </div>
+
+                <!-- Busca Textual Universal + Botões -->
+                <div class="xl:col-span-1 flex items-center gap-1.5">
+                    <div class="flex-1 relative">
+                        <input type="text" id="filterSearch" placeholder="Buscar..."
+                               class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500 pr-5">
+                        <span class="absolute right-1.5 top-2 text-slate-400 text-[10px]">🔍</span>
+                    </div>
+                    <button onclick="clearAllFilters()" class="p-1.5 rounded-lg border text-xs hover:border-rose-500 transition-colors bg-[var(--bg-kpi)] border-[var(--border-color)] text-[var(--text-secondary)] hover:text-rose-500"
+                            title="Limpar todos os filtros">
+                        ✕
+                    </button>
+                    <button onclick="applyFiltersAndRender()" class="p-1.5 rounded-lg border text-xs hover:border-emerald-500 transition-colors bg-emerald-600 text-white"
+                            title="Atualizar dados">
+                        ↻
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. CONTEÚDO PRINCIPAL (DASHBOARD EXECUTIVO) -->
+    <main class="flex-1 w-full max-w-[1920px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
+
+        <!-- ALERTA DE AUDITORIA: ATENÇÃO ESPECIAL AOS CAMPOS SCORE (SEÇÃO 6 DO PROMPT MESTRE) -->
+        <div class="p-4 rounded-2xl border flex flex-wrap items-center justify-between gap-4 transition-colors"
+             style="background: var(--bg-card); border-color: rgba(245, 158, 11, 0.35);">
+            <div class="flex items-start gap-3">
+                <span class="text-xl">⚠️</span>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h4 class="text-xs sm:text-sm font-bold text-amber-600 dark:text-amber-400">
+                            Diagnóstico de Score MapFy vs. Viabilidade Agronômica Real
+                        </h4>
+                        <span class="px-2 py-0.5 rounded-full text-[10px] font-mono font-bold bg-amber-500/15 text-amber-600 dark:text-amber-400 border border-amber-500/30">
+                            Auditoria 100% Ativa
+                        </span>
+                    </div>
+                    <p class="text-xs text-[var(--text-secondary)] mt-1 max-w-4xl leading-relaxed">
+                        Na base do MapFy, <strong>100% das inspeções</strong> possuem <code class="font-mono text-amber-500">Score = 0,00</code> e <code class="font-mono text-amber-500">Score desc = Baixo</code> no aplicativo de coleta, inclusive quando todas as gemas são 100% viáveis. O dashboard isola esse campo e calcula a <strong>Viabilidade Real pelas Quantidades Amostradas</strong> de forma transparente e auditável.
+                    </p>
+                </div>
+            </div>
+            <div class="flex items-center gap-3 text-xs">
+                <div class="text-right">
+                    <span class="text-[10px] block uppercase text-[var(--text-secondary)] font-mono">Score Form</span>
+                    <span class="font-mono font-bold text-rose-500">0,00 (Baixo)</span>
+                </div>
+                <div class="h-6 w-px bg-slate-300 dark:bg-slate-700"></div>
+                <div class="text-left">
+                    <span class="text-[10px] block uppercase text-[var(--text-secondary)] font-mono">Viabilidade Real</span>
+                    <span class="font-mono font-bold text-emerald-500" id="diagnosticViabReal">98,9%</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 12 CARDS EXECUTIVOS COM MÉTRICAS REAIS -->
+        <section class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-3">
+            
+            <!-- Card 1: Total Inspeções -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">Total Inspeções</span>
+                    <span>📋</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiTotal">0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono">amostras coletadas</div>
+            </div>
+
+            <!-- Card 2: Gemas Avaliadas -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">Gemas Avaliadas</span>
+                    <span>🌱</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="kpiTotalGemas">0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono">total de gemas</div>
+            </div>
+
+            <!-- Card 3: Gemas Viáveis -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] border-emerald-500/30"
+                 style="background: var(--bg-card); border-color: var(--color-viavel-border);">
+                <div class="flex items-center justify-between text-[11px] text-emerald-600 dark:text-emerald-400 font-bold">
+                    <span>Gemas Viáveis</span>
+                    <span>✓</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-600 dark:text-emerald-400 my-1" id="kpiGemasViaveis">0</div>
+                <div class="text-[10px] font-mono text-emerald-600 dark:text-emerald-400 font-bold" id="kpiPercViaveis">0.0%</div>
+            </div>
+
+            <!-- Card 4: Gemas Inviáveis -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-rose-600 dark:text-rose-400 font-bold">
+                    <span>Gemas Inviáveis</span>
+                    <span>✕</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-rose-600 dark:text-rose-400 my-1" id="kpiGemasInviaveis">0</div>
+                <div class="text-[10px] font-mono text-rose-600 dark:text-rose-400 font-bold" id="kpiPercInviaveis">0.0%</div>
+            </div>
+
+            <!-- Card 5: Viabilidade Ponderada -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] border-emerald-500/40"
+                 style="background: var(--bg-card); border-color: var(--color-viavel-border);">
+                <div class="flex items-center justify-between text-[11px] text-emerald-600 dark:text-emerald-400 font-bold">
+                    <span>Viab. Ponderada</span>
+                    <span>🎯</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-600 dark:text-emerald-400 my-1" id="kpiViabPonderada">0.0%</div>
+                <div class="text-[10px] font-mono text-emerald-600 dark:text-emerald-400">soma viáveis / total</div>
+            </div>
+
+            <!-- Card 6: Inviabilidade Ponderada -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-rose-600 dark:text-rose-400 font-bold">
+                    <span>Inviab. Ponderada</span>
+                    <span>📉</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-rose-600 dark:text-rose-400 my-1" id="kpiInviabPonderada">0.0%</div>
+                <div class="text-[10px] font-mono text-rose-600 dark:text-rose-400">soma inviáveis / total</div>
+            </div>
+
+            <!-- Card 7: Amostras com Inviáveis -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] cursor-pointer"
+                 onclick="toggleInviaveisFilter()"
+                 style="background: var(--bg-card); border-color: var(--color-inviavel-border);"
+                 title="Clique para filtrar amostras que possuem pelo menos 1 gema inviável">
+                <div class="flex items-center justify-between text-[11px] text-rose-600 dark:text-rose-400 font-bold">
+                    <span>Com Inviáveis</span>
+                    <span>⚠️</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-rose-600 dark:text-rose-400 my-1" id="kpiAmostrasInviaveis">0</div>
+                <div class="text-[10px] font-mono text-rose-600 dark:text-rose-400" id="kpiPercAmostrasInviaveis">0.0% das amostras</div>
+            </div>
+
+            <!-- Card 8: Inconsistências de Contagem -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] border-amber-500/30 cursor-pointer"
+                 onclick="toggleInconsistenciasFilter()"
+                 style="background: var(--bg-card); border-color: var(--color-inconsistente-border);"
+                 title="Clique para filtrar apenas registros com inconsistência matemática de contagem">
+                <div class="flex items-center justify-between text-[11px] text-amber-600 dark:text-amber-400 font-bold">
+                    <span>Inconsistências</span>
+                    <span>⚠️</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-amber-600 dark:text-amber-400 my-1" id="kpiInconsistentes">0</div>
+                <div class="text-[10px] font-mono text-amber-600 dark:text-amber-400 font-bold" id="kpiPercInconsistentes">0.0%</div>
+            </div>
+
+            <!-- Card 9: Média e Mediana de Gemas -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">Média Gemas</span>
+                    <span>🔢</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiMediaGemas">0.0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono" id="kpiMedianaGemas">mediana: 0</div>
+            </div>
+
+            <!-- Card 10: Frentes Monitoradas -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">Frentes</span>
+                    <span>🚜</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiFrentes">0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono">frentes ativas</div>
+            </div>
+
+            <!-- Card 11: OS Monitoradas -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">OS Distintas</span>
+                    <span>📑</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiOS">0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono">ordens de serviço</div>
+            </div>
+
+            <!-- Card 12: GPS Válido -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">GPS Válido</span>
+                    <span>🛰️</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="kpiGeorefPerc">100%</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono" id="kpiGeorefCount">0 de 0</div>
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO DE GRÁFICOS: DONUT DE VIABILIDADE PONDERADA + EVOLUÇÃO TEMPORAL -->
+        <section class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+            
+            <!-- DONUT CHART (REGRA ESTRITA: CENTRO SEMPRE EXIBE NA META E DISCRIMINAÇÃO DOS VALORES) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                
+                <div class="flex items-center justify-between mb-2">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)]">Distribuição de Viabilidade</h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Composição Ponderada das Gemas Avaliadas</p>
+                    </div>
+                    <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">
+                        Ponderado
+                    </span>
+                </div>
+
+                <!-- Gráfico Donut com HUD Central -->
+                <div class="relative w-full aspect-square max-h-[260px] mx-auto my-3 flex items-center justify-center">
+                    <canvas id="chartDonut"></canvas>
+                    
+                    <!-- HUD Central do Donut: SEMPRE exibe o que está na meta -->
+                    <div class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
+                        <span class="text-3xl font-extrabold font-mono text-emerald-600 dark:text-emerald-400 leading-none" id="donutCenterPerc">
+                            0.0%
+                        </span>
+                        <span class="text-xs font-bold uppercase tracking-wider text-[var(--text-primary)] mt-1">
+                            Viabilidade Ponderada
+                        </span>
+                        <span class="text-[11px] font-mono text-[var(--text-secondary)] mt-0.5" id="donutCenterCount">
+                            0 de 0 gemas
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Detalhamento Numérico Explícito e Barras de Progresso Proporcionais -->
+                <div class="space-y-2 pt-3 border-t text-xs" style="border-color: var(--border-color);">
+                    
+                    <!-- Gemas Viáveis -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400 font-bold">
+                                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block"></span>
+                                <span>Gemas Viáveis</span>
+                            </span>
+                            <span class="font-mono font-bold text-emerald-600 dark:text-emerald-400" id="donutValViaveis">0 (0.0%)</span>
+                        </div>
+                        <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                            <div id="donutBarViaveis" class="h-full bg-emerald-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Gemas Inviáveis -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="flex items-center gap-1.5 text-rose-600 dark:text-rose-400 font-bold">
+                                <span class="w-2.5 h-2.5 rounded-full bg-rose-500 inline-block"></span>
+                                <span>Gemas Inviáveis</span>
+                            </span>
+                            <span class="font-mono font-bold text-rose-600 dark:text-rose-400" id="donutValInviaveis">0 (0.0%)</span>
+                        </div>
+                        <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                            <div id="donutBarInviaveis" class="h-full bg-rose-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Inconsistências de Contagem -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="flex items-center gap-1.5 text-amber-600 dark:text-amber-400 font-bold">
+                                <span class="w-2.5 h-2.5 rounded-full bg-amber-500 inline-block"></span>
+                                <span>Registros Inconsistentes</span>
+                            </span>
+                            <span class="font-mono font-bold text-amber-600 dark:text-amber-400" id="donutValInconsistentes">0 (0.0%)</span>
+                        </div>
+                        <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                            <div id="donutBarInconsistentes" class="h-full bg-amber-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- EVOLUÇÃO TEMPORAL DA VIABILIDADE (COM ALTERNÂNCIA DE MODO VOLUME / PERCENTUAL) -->
+            <div class="lg:col-span-8 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                
+                <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)]">Evolução Temporal da Viabilidade</h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Acompanhamento diário das gemas e taxa ponderada</p>
+                    </div>
+
+                    <!-- Alternador de Modo: Volume vs Percentual Ponderado -->
+                    <!-- Filtros Rápidos de Janela Temporal: Todos, 15D, 7D -->
+                    <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-sm" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-sm" data-evo-range="ALL" title="Exibir todo o histórico de dias">Todos</button>
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="7D" title="Últimos 7 dias com medições">7D</button>
+                    </div>
+
+                    <div class="inline-flex p-0.5 rounded-lg border text-xs" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                        <button id="btnEvolVolume" onclick="setEvolutionMode('volume')" class="px-2.5 py-1 rounded-md text-white bg-emerald-600 font-semibold shadow-sm">
+                            Volume de Gemas
+                        </button>
+                        <button id="btnEvolPerc" onclick="setEvolutionMode('percentual')" class="px-2.5 py-1 rounded-md text-[var(--text-secondary)] font-semibold hover:text-emerald-500">
+                            Viabilidade Ponderada (%)
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Gráfico de Evolução -->
+                <div class="relative w-full h-[290px]">
+                    <canvas id="chartEvolution"></canvas>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO INTERMEDIÁRIA: COMPARATIVO FRENTE/OS + HISTOGRAMA DE QUANTIDADES + DISPERSÃO SCATTER -->
+        <section class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+            
+            <!-- Comparativo Operacional (Frentes / OS / Talhão) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)]">Comparativo Operacional</h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Taxa ponderada por agrupamento (clique para filtrar)</p>
+                    </div>
+                    <!-- Seletor de Agrupamento -->
+                    <div class="inline-flex p-0.5 rounded-lg border text-[11px]" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                        <button id="btnBreakdownFrente" onclick="setBreakdownMode('frente')" class="px-2 py-0.5 rounded-md text-white bg-emerald-600 font-semibold shadow-sm">
+                            Frentes
+                        </button>
+                        <button id="btnBreakdownOS" onclick="setBreakdownMode('os')" class="px-2 py-0.5 rounded-md text-[var(--text-secondary)] font-semibold hover:text-emerald-500">
+                            Top OS
+                        </button>
+                        <button id="btnBreakdownLocal" onclick="setBreakdownMode('local')" class="px-2 py-0.5 rounded-md text-[var(--text-secondary)] font-semibold hover:text-emerald-500">
+                            Top Locais
+                        </button>
+                    </div>
+                </div>
+                <div class="relative w-full h-[280px]">
+                    <canvas id="chartFrentes"></canvas>
+                </div>
+            </div>
+
+            <!-- Histograma de Distribuição das Quantidades Totais por Amostra (Seção 9.E) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between mb-1">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                            <span>📊</span>
+                            <span>Distribuição das Quantidades</span>
+                        </h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Gemas avaliadas por amostra e limites de Tukey (IQR)</p>
+                    </div>
+                    <span class="text-[10px] font-mono text-[var(--text-secondary)]" id="lblTukeyFences">Q1=55 • Med=58 • Q3=60</span>
+                </div>
+
+                <div class="relative w-full h-[210px] my-1">
+                    <canvas id="chartHistogram"></canvas>
+                </div>
+
+                <div class="p-2.5 rounded-xl border text-[11px] leading-relaxed flex items-center justify-between"
+                     style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-secondary);">
+                    <span>Mín: <strong id="lblStatMin" class="font-mono text-[var(--text-primary)]">48</strong> • Máx: <strong id="lblStatMax" class="font-mono text-[var(--text-primary)]">100</strong> • Limites: [47.5, 67.5]</span>
+                    <span class="text-amber-500 font-bold" id="lblOutliersCount">225 outliers estatísticos</span>
+                </div>
+            </div>
+
+            <!-- Gráfico de Dispersão (Scatter Plot): Total vs Viáveis (Seção 9.F) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between mb-1">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                            <span>🎯</span>
+                            <span>Dispersão: Total vs. Viáveis</span>
+                        </h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Diagonal $y = x$ • Clique nos pontos para detalhes</p>
+                    </div>
+                    <span class="text-[10px] font-mono px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">
+                        Scatter Plot
+                    </span>
+                </div>
+
+                <div class="relative w-full h-[210px] my-1">
+                    <canvas id="chartScatter"></canvas>
+                </div>
+
+                <div class="p-2.5 rounded-xl border text-[11px] leading-relaxed"
+                     style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-secondary);">
+                    Pontos abaixo da linha diagonal indicam presença de gemas inviáveis ou desvios de contagem (ex: ID 4006534).
+                </div>
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO ESPECÍFICA: QUALIDADE E CONFIABILIDADE DOS DADOS (SEÇÃO 12 DO PROMPT MESTRE) -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🛡️</span>
+                        <span>Qualidade e Confiabilidade dos Dados (Auditoria Rigorosa)</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Diagnóstico de integridade matemática, consistência de campos e conformidade técnica</p>
+                </div>
+                <span class="text-xs font-mono font-bold text-emerald-500 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20">
+                    Completude dos Dados: 100,0%
+                </span>
+            </div>
+
+            <!-- 8 Indicadores de Qualidade Clicáveis -->
+            <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3 text-xs">
+                
+                <!-- Q1: Total Analisado -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Registros Analisados</span>
+                    <span class="text-lg font-bold font-mono text-[var(--text-primary)] mt-1 block" id="qaTotal">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ base íntegra</span>
+                </div>
+
+                <!-- Q2: IDs Duplicados -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">IDs Duplicados</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaDuplicados">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ unicidade 100%</span>
+                </div>
+
+                <!-- Q3: Inconsistências de Contagem -->
+                <div class="p-3 rounded-xl border bg-amber-500/10 border-amber-500/30 cursor-pointer hover:scale-105 transition-transform"
+                     onclick="toggleInconsistenciasFilter()"
+                     title="Clique para filtrar apenas registros com contagem divergente">
+                    <span class="text-[10px] text-amber-600 dark:text-amber-400 uppercase block font-bold">Inconsistências (⚠️)</span>
+                    <span class="text-lg font-bold font-mono text-amber-600 dark:text-amber-400 mt-1 block" id="qaInconsistentes">49</span>
+                    <span class="text-[10px] text-amber-600 dark:text-amber-400 underline">filtrar tabela</span>
+                </div>
+
+                <!-- Q4: Campos Quantitativos Zerados/Ausentes -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Valores Ausentes</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaAusentes">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ sem nulos</span>
+                </div>
+
+                <!-- Q5: GPS Inválido -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Coordenadas Inválidas</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaCoordsInvalidas">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ 100% georref.</span>
+                </div>
+
+                <!-- Q6: Datas Inválidas -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Datas Inválidas</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaDatasInvalidas">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ cronologia OK</span>
+                </div>
+
+                <!-- Q7: Divergência de Score Mapfy -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)] cursor-pointer hover:scale-105 transition-transform"
+                     onclick="toggleScoreDivergenteFilter()"
+                     title="Clique para filtrar registros onde Score difere da viabilidade real">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Divergência Score</span>
+                    <span class="text-lg font-bold font-mono text-amber-500 mt-1 block" id="qaScoreDivergente">2.708</span>
+                    <span class="text-[10px] text-amber-500">100% Score 0</span>
+                </div>
+
+                <!-- Q8: Outliers Estatísticos -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)] cursor-pointer hover:scale-105 transition-transform"
+                     onclick="toggleOutliersFilter()"
+                     title="Clique para filtrar amostras com volume atípico de gemas (<47.5 ou >67.5)">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Outliers Gemas</span>
+                    <span class="text-lg font-bold font-mono text-indigo-500 mt-1 block" id="qaOutliers">225</span>
+                    <span class="text-[10px] text-indigo-500 underline">fora de IQR</span>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- MAPA GEOGRÁFICO DAS INSPEÇÕES -->
+        <section class="p-5 rounded-2xl border shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-3">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🛰️</span>
+                        <span>Mapeamento Georreferenciado das Inspeções</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Distribuição espacial da viabilidade e localização de inconsistências (OpenStreetMap)</p>
+                </div>
+
+                <!-- Legenda do Mapa -->
+                <div class="flex items-center gap-3 text-xs flex-wrap">
+                    <span class="flex items-center gap-1.5 font-semibold text-emerald-500">
+                        <span class="w-3 h-3 rounded-full bg-emerald-500 inline-block shadow-sm"></span>
+                        <span>Alta Viabilidade (≥ 98%)</span>
+                    </span>
+                    <span class="flex items-center gap-1.5 font-semibold text-rose-500">
+                        <span class="w-3 h-3 rounded-full bg-rose-500 inline-block shadow-sm"></span>
+                        <span>Com Inviáveis / Baixa (&lt; 95%)</span>
+                    </span>
+                    <span class="flex items-center gap-1.5 font-semibold text-amber-500">
+                        <span class="w-3 h-3 rounded-full bg-amber-500 inline-block shadow-sm"></span>
+                        <span>Registro Inconsistente</span>
+                    </span>
+                    <button onclick="resetMapBounds()" class="px-2.5 py-1 rounded-lg border text-xs font-semibold hover:border-emerald-500 transition-colors"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);">
+                        Centralizar
+                    </button>
+                </div>
+            </div>
+
+            <!-- Container do Mapa Leaflet -->
+            <div id="mapContainer" class="w-full h-[450px] rounded-xl overflow-hidden border relative z-10"
+                 style="border-color: var(--border-color);"></div>
+        </section>
+
+        <!-- TABELA ANALÍTICA COMPLETA DE INSPEÇÕES -->
+        <section class="p-5 rounded-2xl border shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📑</span>
+                        <span>Rastreabilidade Individual das Inspeções</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Detalhamento auditável dos 2.708 registros da base</p>
+                </div>
+
+                <div class="flex items-center gap-2 text-xs">
+                    <span class="text-[var(--text-secondary)]">Exibir</span>
+                    <select id="pageSizeSelect" onchange="changePageSize(this.value)"
+                            class="px-2 py-1 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)]">
+                        <option value="15">15</option>
+                        <option value="25" selected>25</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                    <span class="text-[var(--text-secondary)]">por página</span>
+                </div>
+            </div>
+
+            <!-- Tabela com Scroll Horizontal -->
+            <div class="overflow-x-auto rounded-xl border" style="border-color: var(--border-color);">
+                <table class="w-full text-xs text-left border-collapse">
+                    <thead class="font-mono text-[11px] uppercase tracking-wider border-b"
+                           style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-secondary);">
+                        <tr>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('id')">ID ↕</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('data')">Data / Hora ↕</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('gemas_total')">Total ↕</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('gemas_viaveis')">Viáveis ↕</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('gemas_inviaveis')">Inviáveis ↕</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('viabilidade_ind')">Viabilidade (%) ↕</th>
+                            <th class="p-3">Consistência</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('frente')">Frente ↕</th>
+                            <th class="p-3">OS</th>
+                            <th class="p-3">Local (Talhão)</th>
+                            <th class="p-3">Responsável</th>
+                            <th class="p-3 text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableRecordsBody" class="divide-y" style="border-color: var(--border-color); color: var(--text-primary);">
+                        <!-- Linhas geradas via JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Paginação -->
+            <div id="paginationControls" class="flex flex-wrap items-center justify-between gap-3 mt-4 text-xs">
+                <span class="text-[var(--text-secondary)]" id="paginationInfo">Mostrando 0-0 de 0</span>
+                <div class="inline-flex items-center gap-1">
+                    <button id="btnPrevPage" onclick="prevPage()" class="px-3 py-1.5 rounded-lg border text-xs font-semibold disabled:opacity-40 transition-colors"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);">
+                        Anterior
+                    </button>
+                    <span class="px-3 py-1.5 font-mono text-emerald-500 font-bold" id="pageNumber">1</span>
+                    <button id="btnNextPage" onclick="nextPage()" class="px-3 py-1.5 rounded-lg border text-xs font-semibold disabled:opacity-40 transition-colors"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);">
+                        Próxima
+                    </button>
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- RODAPÉ CORPORATIVO -->
+    <footer class="border-t py-6 text-center text-xs mt-auto transition-colors"
+            style="background: var(--bg-header); border-color: var(--border-color); color: var(--text-secondary);">
+        <p>Usina Pitangueiras • Sistema de Qualidade Agrícola • Safra 2026</p>
+        <p class="text-[11px] mt-1 font-mono opacity-80">Fonte de Dados: Server_MapFy/relatorios/Plantio - 09 - Quantidade de Gemas/dados.csv</p>
+    </footer>
+
+    <!-- MODAL DE DETALHES COMPLETOS DO REGISTRO -->
+    <div id="recordModal" class="fixed inset-0 bg-black/60 dark:bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-2xl rounded-2xl shadow-2xl flex flex-col max-h-[90vh] animate-in fade-in zoom-in-95 duration-150 border"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <div class="p-6 border-b flex items-start justify-between" style="border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center gap-2">
+                        <span id="modalConsistenciaBadge" class="px-2.5 py-0.5 rounded-full text-xs font-bold uppercase tracking-wider">Consistente</span>
+                        <span id="modalViabBadge" class="px-2.5 py-0.5 rounded-full text-xs font-bold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">100% Viável</span>
+                    </div>
+                    <h2 class="text-xl font-bold mt-2 text-[var(--text-primary)]" id="modalRecordTitle">Inspeção #0000000</h2>
+                    <p class="text-xs text-[var(--text-secondary)] font-mono mt-0.5" id="modalRecordDate">00/00/0000 00:00</p>
+                </div>
+                <button onclick="closeRecordModal()" class="p-2 rounded-lg transition-colors hover:bg-slate-100 dark:hover:bg-slate-800 text-[var(--text-secondary)]">
+                    ✕
+                </button>
+            </div>
+
+            <div class="p-6 overflow-y-auto flex-1 space-y-4 text-xs">
+                
+                <!-- Informações de Contagem de Gemas -->
+                <div class="grid grid-cols-3 gap-3">
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Total Gemas</span>
+                        <div class="font-bold text-lg mt-0.5 font-mono text-[var(--text-primary)]" id="modalTotalGemas">0</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-emerald-500/10 border-emerald-500/30">
+                        <span class="text-[10px] text-emerald-600 dark:text-emerald-400 font-semibold uppercase">Gemas Viáveis</span>
+                        <div class="font-bold text-lg mt-0.5 font-mono text-emerald-600 dark:text-emerald-400" id="modalViaveis">0</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-rose-500/10 border-rose-500/30">
+                        <span class="text-[10px] text-rose-600 dark:text-rose-400 font-semibold uppercase">Gemas Inviáveis</span>
+                        <div class="font-bold text-lg mt-0.5 font-mono text-rose-600 dark:text-rose-400" id="modalInviaveis">0</div>
+                    </div>
+                </div>
+
+                <!-- Detalhes de Auditoria da Contagem -->
+                <div class="p-3.5 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <div class="flex items-center justify-between mb-1">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase tracking-wider">
+                            Auditoria Matemática de Contagem
+                        </span>
+                        <span class="font-mono text-xs font-bold" id="modalDiffText">Diferença: 0</span>
+                    </div>
+                    <p class="text-xs font-medium text-[var(--text-primary)]" id="modalAuditExplain">
+                        Contagem consistente: Total (58) = Viáveis (58) + Inviáveis (0).
+                    </p>
+                </div>
+
+                <!-- Dados Operacionais -->
+                <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Frente</span>
+                        <div class="font-bold text-sm mt-0.5 truncate" id="modalFrente">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Ordem de Serviço</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono" id="modalOS">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Local (Talhão)</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono truncate" id="modalLocal">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Responsável</span>
+                        <div class="font-bold text-sm mt-0.5 truncate" id="modalResp">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Duração</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono" id="modalDuracao">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Score Mapfy</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono" id="modalScore">--</div>
+                    </div>
+                </div>
+
+                <!-- Coordenadas Geográficas e Google Maps -->
+                <div class="p-3.5 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)] flex items-center justify-between">
+                    <div>
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase block">Coordenadas GPS</span>
+                        <div class="font-mono text-xs mt-0.5" id="modalCoords">-00.00000, -00.00000</div>
+                    </div>
+                    <a id="modalGmapsLink" href="#" target="_blank"
+                       class="px-3 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs flex items-center gap-1 shadow-sm transition-all">
+                        <span>🗺️</span>
+                        <span>Abrir no Google Maps</span>
+                    </a>
+                </div>
+
+            </div>
+
+            <div class="p-4 border-t flex justify-end" style="border-color: var(--border-color);">
+                <button onclick="closeRecordModal()" class="px-4 py-2 rounded-xl border text-xs font-semibold hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+                        style="border-color: var(--border-color); color: var(--text-primary);">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL DE META AGRONÔMICA (SIMULADOR DE PARÂMETROS) -->
+    <div id="targetModal" class="fixed inset-0 bg-black/60 dark:bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-md rounded-2xl shadow-2xl flex flex-col border"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            <div class="p-5 border-b flex items-center justify-between" style="border-color: var(--border-color);">
+                <h3 class="font-bold text-sm flex items-center gap-2">
+                    <span>🎯</span>
+                    <span>Meta Agronômica (Simulador Técnico)</span>
+                </h3>
+                <button onclick="closeTargetModal()" class="text-sm text-[var(--text-secondary)] hover:text-rose-500">✕</button>
+            </div>
+            <div class="p-5 space-y-4 text-xs">
+                <div class="p-3 rounded-xl border bg-amber-500/10 border-amber-500/30 text-amber-600 dark:text-amber-400">
+                    <strong>Aviso Agronômico:</strong> Não há meta oficial pré-configurada na base de dados do MapFy. Este simulador permite parametrizar patamares de referência (ex: 95% ou 98%) para fins de auditoria interna.
+                </div>
+                <div>
+                    <label class="block font-semibold mb-1">Patamar Mínimo de Viabilidade Desejado (%)</label>
+                    <input type="number" id="inputTargetMin" min="50" max="100" step="0.5" value="95.0"
+                           class="w-full px-3 py-2 rounded-lg border bg-[var(--bg-kpi)] border-[var(--border-color)] font-mono font-bold text-sm">
+                </div>
+                <div class="flex items-center gap-2">
+                    <input type="checkbox" id="checkEnableTarget" class="rounded text-emerald-600">
+                    <label for="checkEnableTarget" class="font-medium">Habilitar comparação visual de meta nos gráficos</label>
+                </div>
+            </div>
+            <div class="p-4 border-t flex justify-end gap-2" style="border-color: var(--border-color);">
+                <button onclick="closeTargetModal()" class="px-3 py-1.5 rounded-lg border text-xs text-[var(--text-secondary)]">Cancelar</button>
+                <button onclick="saveTargetSettings()" class="px-4 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs shadow-sm">
+                    Salvar Parâmetros
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts de Dados, Motor Analítico e Controlador -->
+    <script src="js/data.js"></script>
+    <script src="js/viabilidade_gemas_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

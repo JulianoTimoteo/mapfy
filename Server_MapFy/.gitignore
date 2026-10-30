@@ -1,0 +1,7 @@
+.env
+session_state.json
+config_rotina.json
+mapfy_extractor.log
+__pycache__/
+*.py[cod]
+relatorios/

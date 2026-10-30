@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Dosagem de Produto na Sulcação • Usina Pitangueiras</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
+
+    <!-- 1. CABEÇALHO EXECUTIVO (SEM ATALHOS CRUZADOS) -->
+    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
+            style="background: var(--header-bg); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+            
+            <div class="flex items-center gap-3.5">
+                <a href="../index.html" class="p-2 rounded-xl border transition-all hover:border-emerald-500 hover:scale-105 flex items-center justify-center shadow-sm"
+                   style="background: var(--bg-card); border-color: var(--border-color);"
+                   title="Voltar para a Mandala Hub">
+                    <span class="text-sm font-bold text-emerald-500">←</span>
+                    <span class="text-xs font-semibold ml-1 hidden sm:inline text-[var(--text-secondary)]">Mandala Hub</span>
+                </a>
+                
+                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
+                </div>
+
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight text-[var(--text-primary)]">
+                            Plantio — Dosagem de Produto na Sulcação
+                        </h1>
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
+                            Safra 2026
+                        </span>
+                    </div>
+                    <p class="text-xs text-[var(--text-secondary)]">
+                        Monitoramento de dosagem de adubo e torta, análise de variabilidade, rastreabilidade operacional e georreferenciamento
+                    </p>
+                </div>
+            </div>
+
+            <!-- Controles do Cabeçalho -->
+            <div class="flex items-center gap-2 sm:gap-3 text-xs flex-wrap">
+                <!-- Seletor Temporal -->
+                <div class="period-segmented-group shadow-sm">
+                    <button id="btnAllDates" class="period-toggle-btn active" data-period="all">
+                        <span>🌐</span>
+                        <span>Safra Completa</span>
+                        <span class="period-badge" id="badgeAll">0</span>
+                    </button>
+                    <button id="btnLatestDate" class="period-toggle-btn" data-period="latest">
+                        <span>📅</span>
+                        <span>Última Data</span>
+                        <span class="period-badge" id="badgeLatest">-</span>
+                    </button>
+                    <button id="btnToday" class="period-toggle-btn" data-period="today">
+                        <span>📆</span>
+                        <span>Hoje</span>
+                        <span class="period-badge" id="badgeToday">0</span>
+                    </button>
+                </div>
+
+                <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all hover:border-emerald-500"
+                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-secondary);">
+                    <span>📥</span>
+                    <span class="hidden sm:inline">CSV</span>
+                </button>
+
+                <button onclick="window.print()" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all hover:border-emerald-500"
+                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-secondary);">
+                    <span>🖨️</span>
+                    <span class="hidden sm:inline">Relatório</span>
+                </button>
+
+                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
+                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+                    <span id="themeIcon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- CONTEÚDO PRINCIPAL -->
+    <main class="flex-1 w-full max-w-[1920px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
+
+        <!-- 2. SELETOR RÁPIDO DE PRODUTOS (ADUBO & TORTA SEPARADOS) -->
+        <section class="p-4 rounded-2xl border shadow-sm transition-colors flex flex-col md:flex-row items-start md:items-center justify-between gap-4"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-center gap-3">
+                <span class="text-2xl">🌱</span>
+                <div>
+                    <h2 class="text-sm font-bold text-[var(--text-primary)]">Segmentação de Insumos • Sulcação</h2>
+                    <p class="text-[11px] text-[var(--text-secondary)]">Análise agronômica isolada para evitar comparação direta de grandezas distintas</p>
+                </div>
+            </div>
+
+            <!-- Botões Segmentados de Produto -->
+            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
+                 style="background: var(--bg-page); border-color: var(--border-color);">
+                <button id="btnProdAll" class="px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5" onclick="setProductFilter('ALL')">
+                    <span>◈</span>
+                    <span>Todos os Produtos</span>
+                    <span class="px-1.5 py-0.2 rounded-full bg-black/20 text-[10px] font-mono" id="prodBadgeAll">1.279</span>
+                </button>
+                <button id="btnProdAdubo" class="px-4 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-emerald-500 flex items-center gap-1.5" onclick="setProductFilter('Adubo')">
+                    <span>🌿</span>
+                    <span>Adubo</span>
+                    <span class="px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-500 text-[10px] font-mono" id="prodBadgeAdubo">1.185</span>
+                </button>
+                <button id="btnProdTorta" class="px-4 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-amber-500 flex items-center gap-1.5" onclick="setProductFilter('Torta')">
+                    <span>🍂</span>
+                    <span>Torta</span>
+                    <span class="px-1.5 py-0.2 rounded-full bg-amber-500/20 text-amber-500 text-[10px] font-mono" id="prodBadgeTorta">94</span>
+                </button>
+            </div>
+        </section>
+
+        <!-- 3. COMPARATIVO EXECUTIVO: ADUBO VS TORTA -->
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            
+            <!-- Bloco Adubo -->
+            <div class="p-4 rounded-2xl border shadow-sm transition-all border-emerald-500/40 relative overflow-hidden"
+                 style="background: var(--bg-card);">
+                <div class="flex items-center justify-between pb-2 mb-3 border-b" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="w-3 h-3 rounded-full bg-emerald-500"></span>
+                        <h3 class="font-bold text-sm text-[var(--text-primary)]">Insumo: Adubo de Plantio</h3>
+                        <span class="text-[10px] font-mono px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-500 font-bold border border-emerald-500/30">92,6% do Volume</span>
+                    </div>
+                    <span class="font-mono text-xs text-emerald-500 font-bold" id="compAduboCount">1.185 medições</span>
+                </div>
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs">
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Média Real</span>
+                        <strong class="text-base font-mono text-emerald-500" id="compAduboMedia">3,40 kg/m</strong>
+                    </div>
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Mediana (P50)</span>
+                        <strong class="text-base font-mono text-[var(--text-primary)]" id="compAduboMediana">3,41 kg/m</strong>
+                    </div>
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Faixa Padrão</span>
+                        <strong class="text-xs font-mono text-emerald-500" id="compAduboFaixa">3,00 a 3,80 kg/m</strong>
+                    </div>
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Variabilidade</span>
+                        <strong class="text-xs font-mono text-indigo-400" id="compAduboCV">CV: 15,9% (±0,54)</strong>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bloco Torta -->
+            <div class="p-4 rounded-2xl border shadow-sm transition-all border-amber-500/40 relative overflow-hidden"
+                 style="background: var(--bg-card);">
+                <div class="flex items-center justify-between pb-2 mb-3 border-b" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="w-3 h-3 rounded-full bg-amber-500"></span>
+                        <h3 class="font-bold text-sm text-[var(--text-primary)]">Insumo: Torta de Filtro</h3>
+                        <span class="text-[10px] font-mono px-2 py-0.5 rounded-full bg-amber-500/10 text-amber-500 font-bold border border-amber-500/30">7,4% do Volume</span>
+                    </div>
+                    <span class="font-mono text-xs text-amber-500 font-bold" id="compTortaCount">94 medições</span>
+                </div>
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs">
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Média Real</span>
+                        <strong class="text-base font-mono text-amber-500" id="compTortaMedia">5,62 t/ha</strong>
+                    </div>
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Mediana (P50)</span>
+                        <strong class="text-base font-mono text-[var(--text-primary)]" id="compTortaMediana">5,65 t/ha</strong>
+                    </div>
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Faixa Padrão</span>
+                        <strong class="text-xs font-mono text-amber-500" id="compTortaFaixa">5,20 a 6,00 t/ha</strong>
+                    </div>
+                    <div>
+                        <span class="text-[10px] text-[var(--text-muted)] block uppercase font-bold">Variabilidade</span>
+                        <strong class="text-xs font-mono text-indigo-400" id="compTortaCV">CV: 6,5% (±0,37)</strong>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 4. BARRA DE FILTROS INTEGRADA -->
+        <section class="p-4 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-center justify-between gap-4 mb-3 pb-2 border-b"
+                 style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2">
+                    <span class="text-emerald-500 text-sm">⚡</span>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Filtros Operacionais</h2>
+                </div>
+                <div class="flex items-center gap-3">
+                    <span class="text-xs font-mono text-[var(--text-secondary)]">
+                        Exibindo <strong class="text-emerald-500 font-bold" id="lblFilteredCount">0</strong> de <span id="lblTotalCount">0</span> medições
+                    </span>
+                    <button id="btnClearFilters" class="text-xs font-semibold text-rose-500 hover:underline flex items-center gap-1">
+                        <span>✕</span>
+                        <span>Limpar</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 text-xs">
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente Operacional</label>
+                    <select id="filterFrente" class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as Frentes</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ordem de Serviço (OS)</label>
+                    <select id="filterOS" class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as OS</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável / Inspetor</label>
+                    <select id="filterResponsavel" class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Responsáveis</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Status Técnico</label>
+                    <select id="filterStatusTecnico" class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Registros</option>
+                        <option value="DENTRO">Dentro da Meta</option>
+                        <option value="ABAIXO">Abaixo da Meta</option>
+                        <option value="ACIMA">Acima da Meta</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Auditoria GPS</label>
+                    <select id="filterGPS" class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Registros</option>
+                        <option value="GPS_VALIDO">Com GPS Válido</option>
+                        <option value="GPS_INVALIDO">GPS Ausente/Inválido</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="mt-4 pt-3 border-t flex flex-col md:flex-row items-start md:items-center justify-between gap-3"
+                 style="border-color: var(--border-color);">
+                <div class="w-full md:w-96 relative">
+                    <input type="text" id="globalSearch" placeholder="Buscar por ID, OS, frente, responsável ou local..."
+                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- 5. 10 CARDS EXECUTIVOS INTERATIVOS -->
+        <section class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-10 xl:grid-cols-10 gap-2 sm:gap-2.5">
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Total de medições filtradas">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-[var(--text-secondary)]">Medições</span>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="cardTotalMedicoes">0</div>
+                <span class="text-[9px] text-[var(--text-muted)] font-mono">Registros</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Média aritmética das dosagens">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-emerald-500">Média</span>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="cardDosagemMedia">0,000</div>
+                <span class="text-[9px] text-emerald-500/80 font-mono" id="cardDosagemUnidade">Geral</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Mediana da dosagem (P50)">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-teal-500">Mediana</span>
+                <div class="text-2xl font-extrabold font-mono text-teal-500 my-1" id="cardDosagemMediana">0,000</div>
+                <span class="text-[9px] text-teal-500/80 font-mono">P50 Centro</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Valores extremos medidos">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-[var(--text-secondary)]">Mín • Máx</span>
+                <div class="text-sm font-extrabold font-mono text-[var(--text-primary)] my-1">
+                    <span id="cardDosagemMin">0</span> a <span id="cardDosagemMax">0</span>
+                </div>
+                <span class="text-[9px] text-[var(--text-muted)] font-mono">Extremos</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Dispersão e homogeneidade">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-indigo-400">Desvio • CV%</span>
+                <div class="text-lg font-extrabold font-mono text-indigo-400 my-1" id="cardStdDev">±0,000</div>
+                <span class="text-[9px] text-indigo-400/80 font-mono" id="cardCVPerc">CV: 0%</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between border-emerald-500/40"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Medições dentro da meta técnica">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-emerald-500">Na Meta</span>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="cardPercDentro">0%</div>
+                <span class="text-[9px] text-emerald-500 font-mono" id="cardCountDentro">0 medições</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Medições abaixo da meta mínima">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-amber-500">Abaixo</span>
+                <div class="text-2xl font-extrabold font-mono text-amber-500 my-1" id="cardPercAbaixo">0%</div>
+                <span class="text-[9px] text-amber-500/80 font-mono" id="cardCountAbaixo">0 medições</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Medições acima da meta máxima">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-purple-400">Acima</span>
+                <div class="text-2xl font-extrabold font-mono text-purple-400 my-1" id="cardPercAcima">0%</div>
+                <span class="text-[9px] text-purple-400/80 font-mono" id="cardCountAcima">0 medições</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Total de OS">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-[var(--text-secondary)]">OS</span>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="cardTotalOS">0</div>
+                <span class="text-[9px] text-[var(--text-muted)] font-mono">Distintas</span>
+            </div>
+
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);" title="Anomalias estatísticas detectadas via IQR">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-rose-500">Alertas IQR</span>
+                <div class="text-2xl font-extrabold font-mono text-rose-500 my-1" id="cardAnomalias">0</div>
+                <span class="text-[9px] text-rose-500/80 font-mono">Outliers</span>
+            </div>
+        </section>
+
+        <!-- 6. BANNER DE DIRETRIZ TÉCNICA E PARÂMETROS CONFIGURÁVEIS -->
+        <section class="p-4 rounded-2xl border flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-start gap-3">
+                <span class="text-xl">🎯</span>
+                <div>
+                    <strong class="font-bold">Diretriz Técnica Agronômica • Calibração por Produto:</strong>
+                    <p class="mt-0.5 leading-relaxed text-[var(--text-secondary)]" id="bannerTargetText">
+                        Adubo: <strong class="text-emerald-500 font-mono">3,00 a 3,80 kg/m</strong> (Alvo: 3,40) • 
+                        Torta: <strong class="text-amber-500 font-mono">5,20 a 6,00 t/ha</strong> (Alvo: 5,60).
+                        Parâmetros agronômicos auditáveis e editáveis em tempo real.
+                    </p>
+                </div>
+            </div>
+            <button id="btnOpenTargetModal" class="px-3.5 py-1.5 rounded-xl border border-emerald-500/40 bg-emerald-500/20 text-emerald-600 dark:text-emerald-300 font-bold whitespace-nowrap text-xs hover:bg-emerald-500 hover:text-white transition-all shadow-sm">
+                ⚙️ Ajustar Faixas Técnicas
+            </button>
+        </section>
+
+        <!-- 7. GRÁFICOS: EVOLUÇÃO E DONUT DE CONFORMIDADE -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            
+            <!-- Gráfico de Linha: Série Temporal com Metas -->
+            <div class="lg:col-span-2 p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 id="chartEvolutionCard">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                                <span>📈</span>
+                                <span>Evolução Temporal da Dosagem Média</span>
+                            </h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5" id="evolutionSubtitle">
+                                Médias diárias registradas ao longo da safra
+                            </p>
+                        </div>
+                        <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-sm" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-sm" data-evo-range="ALL" title="Exibir todo o histórico de dias">Todos</button>
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="7D" title="Últimos 7 dias com medições">7D</button>
+                        </div>
+                        <div class="flex items-center gap-2 text-xs font-mono">
+                            <span class="flex items-center gap-1.5 text-amber-500"><span class="w-3 h-0.5 bg-amber-500"></span> Min</span>
+                            <span class="flex items-center gap-1.5 text-purple-500"><span class="w-3 h-0.5 bg-purple-500"></span> Max</span>
+                            <span class="flex items-center gap-1.5 text-emerald-500"><span class="w-3 h-0.5 bg-emerald-500"></span> Média Real</span>
+                        </div>
+                    </div>
+                    <div class="h-64 w-full relative">
+                        <canvas id="chartEvolution"></canvas>
+                    </div>
+                </div>
+                <div class="mt-3 pt-2.5 border-t flex items-center justify-between text-[11px] text-[var(--text-muted)] font-mono" style="border-color: var(--border-color);">
+                    <span>Safra 2026 • Usina Pitangueiras</span>
+                    <span id="evolutionDaysCount">0 dias avaliados</span>
+                </div>
+            </div>
+
+            <!-- Gráfico de Rosca: Distribuição de Conformidade (SEMPRE NA META NO CENTRO) -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-3 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Distribuição de Conformidade</h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Faixa técnica agronômica</p>
+                        </div>
+                        <span class="text-xs text-[var(--text-muted)] font-mono font-semibold" id="donutScopeBadge">% da safra</span>
+                    </div>
+
+                    <!-- Rosca com Percentual e Contagem Central (SEMPRE NA META) -->
+                    <div class="relative aspect-square w-full max-w-[210px] mx-auto py-2">
+                        <canvas id="chartDonut"></canvas>
+                        <div id="donutCenterOverlay" class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
+                            <span class="text-2xl sm:text-3xl font-extrabold font-mono text-emerald-500 leading-none" id="donutCenterPerc">0%</span>
+                            <span class="text-[10px] font-bold uppercase tracking-wider text-[var(--text-secondary)] mt-1">Na Meta</span>
+                            <span class="text-[9px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold" id="donutCenterCount">0 de 0</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Detalhamento Numérico Explícito e Barras de Progresso -->
+                <div class="mt-3 pt-3 border-t space-y-2.5 text-xs" style="border-color: var(--border-color);">
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-emerald-600 dark:text-emerald-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Dentro da Meta (<span id="labelRangeDentro">Faixa Técnica</span>)
+                            </span>
+                            <span class="font-mono font-bold" id="donutValDentro">0 (0%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarDentro" class="h-full bg-emerald-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-amber-600 dark:text-amber-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Abaixo da Meta
+                            </span>
+                            <span class="font-mono font-bold" id="donutValAbaixo">0 (0%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarAbaixo" class="h-full bg-amber-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-purple-600 dark:text-purple-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-purple-500"></span> Acima da Meta
+                            </span>
+                            <span class="font-mono font-bold" id="donutValAcima">0 (0%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarAcima" class="h-full bg-purple-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 8. HISTOGRAMA DE FREQUÊNCIA E RANKING DE FRENTES -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 id="chartHistogramCard">
+                <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                     style="border-color: var(--border-color);">
+                    <div>
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                            <span>📊</span>
+                            <span>Histograma de Dosagem</span>
+                        </h2>
+                        <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Frequência das medições por classes de dosagem</p>
+                    </div>
+                    <span class="text-xs font-mono text-[var(--text-muted)]" id="histSubtitle">Classes</span>
+                </div>
+                <div class="h-64 w-full">
+                    <canvas id="chartHistogram"></canvas>
+                </div>
+            </div>
+
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                     style="border-color: var(--border-color);">
+                    <div>
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                            <span>🚜</span>
+                            <span>Média de Dosagem por Frente</span>
+                        </h2>
+                        <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Comparativo operacional entre as frentes ativas</p>
+                    </div>
+                    <span class="text-xs font-mono text-[var(--text-muted)]">Ranking</span>
+                </div>
+                <div class="h-64 w-full">
+                    <canvas id="chartFrentes"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- 9. PAINEL DE DETECÇÃO DE ANOMALIAS E OUTLIERS (IQR) -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b" style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2.5">
+                    <span class="p-2 rounded-xl bg-rose-500/15 text-rose-500 text-lg">⚠️</span>
+                    <div>
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">
+                            Auditoria Estatística de Anomalias & Inconsistências
+                        </h2>
+                        <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">
+                            Identificação de desvios (1.5x IQR), durações atípicas e dados ausentes calculados rigorosamente
+                        </p>
+                    </div>
+                </div>
+                <span class="px-2.5 py-1 rounded-full text-xs font-mono font-bold bg-rose-500/10 text-rose-500 border border-rose-500/30" id="badgeAnomaliesCount">
+                    0 anomalias encontradas
+                </span>
+            </div>
+
+            <div class="overflow-x-auto rounded-xl border max-h-60" style="border-color: var(--border-color);">
+                <table class="w-full text-left text-xs border-collapse">
+                    <thead style="background: var(--bg-page); color: var(--text-secondary);" class="sticky top-0">
+                        <tr class="border-b" style="border-color: var(--border-color);">
+                            <th class="p-2.5 font-semibold">ID</th>
+                            <th class="p-2.5 font-semibold">Data / Hora</th>
+                            <th class="p-2.5 font-semibold">Produto</th>
+                            <th class="p-2.5 font-semibold text-right">Dosagem</th>
+                            <th class="p-2.5 font-semibold">Frente</th>
+                            <th class="p-2.5 font-semibold">OS</th>
+                            <th class="p-2.5 font-semibold">Motivo do Alerta</th>
+                            <th class="p-2.5 font-semibold">Regra de Detecção</th>
+                            <th class="p-2.5 font-semibold text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableAnomaliesBody" class="divide-y" style="border-color: var(--border-color);">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- 10. MAPA GEOGRÁFICO DE PONTOS -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🗺️</span>
+                        <span>Geolocalização das Aplicações no Campo</span>
+                    </h2>
+                    <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Pontos georreferenciados com marcadores por produto e status de conformidade</p>
+                </div>
+                <div class="flex items-center gap-3 text-xs font-mono flex-wrap">
+                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-emerald-500"></span> Adubo</span>
+                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-amber-500"></span> Torta</span>
+                    <span class="px-2 py-0.5 rounded bg-[var(--bg-page)] border text-[11px]" id="mapPointsCount">0 pontos plotados</span>
+                </div>
+            </div>
+            <div id="mapDosagem" class="w-full h-96 rounded-xl border z-10" style="border-color: var(--border-color);"></div>
+        </section>
+
+        <!-- 11. ANÁLISE OPERACIONAL POR OS -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📋</span>
+                        <span>Painel Analítico por Ordem de Serviço (OS)</span>
+                    </h2>
+                    <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Variabilidade, média, desvio-padrão e produtos aplicados por OS</p>
+                </div>
+                <div class="flex items-center gap-2 text-xs">
+                    <span class="text-[var(--text-secondary)]">Ordenar por:</span>
+                    <select id="selectSortOS" class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="volume">Maior Volume de Medições</option>
+                        <option value="cv">Maior Variabilidade (CV%)</option>
+                        <option value="media_asc">Menor Média</option>
+                        <option value="media_desc">Maior Média</option>
+                        <option value="conformidade">Menor Conformidade (%)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto rounded-xl border" style="border-color: var(--border-color);">
+                <table class="w-full text-left text-xs border-collapse">
+                    <thead style="background: var(--bg-page); color: var(--text-secondary);">
+                        <tr class="border-b" style="border-color: var(--border-color);">
+                            <th class="p-3 font-semibold">OS</th>
+                            <th class="p-3 font-semibold">Frentes</th>
+                            <th class="p-3 font-semibold">Produtos</th>
+                            <th class="p-3 font-semibold text-center">Medições</th>
+                            <th class="p-3 font-semibold text-right">Média</th>
+                            <th class="p-3 font-semibold text-right">Mín / Máx</th>
+                            <th class="p-3 font-semibold text-right">Amplitude</th>
+                            <th class="p-3 font-semibold text-right">Desvio</th>
+                            <th class="p-3 font-semibold text-right">CV %</th>
+                            <th class="p-3 font-semibold text-center">Conformidade</th>
+                            <th class="p-3 font-semibold text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableOSBody" class="divide-y" style="border-color: var(--border-color);">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- 12. TABELA GERAL DE MEDIÇÕES DETALHADAS -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📑</span>
+                        <span>Registros Individuais de Dosagem</span>
+                    </h2>
+                    <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Rastreabilidade ponto a ponto com auditoria de duração e ficha de campo</p>
+                </div>
+                <div class="flex items-center gap-2 text-xs">
+                    <span class="text-[var(--text-secondary)]">Exibir:</span>
+                    <select id="pageSizeSelect" class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="15">15 registros</option>
+                        <option value="30">30 registros</option>
+                        <option value="50">50 registros</option>
+                        <option value="100">100 registros</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto rounded-xl border" style="border-color: var(--border-color);">
+                <table class="w-full text-left text-xs border-collapse">
+                    <thead style="background: var(--bg-page); color: var(--text-secondary);">
+                        <tr class="border-b" style="border-color: var(--border-color);">
+                            <th class="p-3 font-semibold">ID</th>
+                            <th class="p-3 font-semibold">Data / Hora</th>
+                            <th class="p-3 font-semibold">Produto</th>
+                            <th class="p-3 font-semibold">Frente</th>
+                            <th class="p-3 font-semibold">OS</th>
+                            <th class="p-3 font-semibold">Talhão</th>
+                            <th class="p-3 font-semibold">Responsável</th>
+                            <th class="p-3 font-semibold text-right">Dosagem</th>
+                            <th class="p-3 font-semibold text-center">Status</th>
+                            <th class="p-3 font-semibold text-center">Duração</th>
+                            <th class="p-3 font-semibold text-center">GPS</th>
+                            <th class="p-3 font-semibold text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableRecordsBody" class="divide-y" style="border-color: var(--border-color);">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Paginação -->
+            <div class="flex flex-col sm:flex-row items-center justify-between gap-4 mt-4 pt-3 border-t text-xs"
+                 style="border-color: var(--border-color);">
+                <div class="text-[var(--text-secondary)] font-mono" id="paginationInfo">
+                    Mostrando 0 de 0 registros
+                </div>
+                <div class="flex items-center gap-1.5" id="paginationControls">
+                    <!-- Gerado dinamicamente via JS -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- 13. MODAL DE AJUSTE DE FAIXAS TÉCNICAS (POR PRODUTO) -->
+    <div id="targetModal" class="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-lg rounded-2xl border shadow-2xl p-6 transition-all"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <div class="flex items-center justify-between pb-3 mb-4 border-b" style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2">
+                    <span class="text-xl">⚙️</span>
+                    <div>
+                        <h3 class="font-bold text-sm">Calibrar Parâmetros Técnicos de Dosagem</h3>
+                        <p class="text-[11px] text-[var(--text-secondary)]">Defina os limites agronômicos aceitáveis para cada insumo</p>
+                    </div>
+                </div>
+                <button id="btnCloseTargetModal" class="p-1.5 rounded-lg text-slate-400 hover:text-white hover:bg-slate-700/50">✕</button>
+            </div>
+
+            <div class="space-y-4 text-xs">
+                <!-- Seção Adubo -->
+                <div class="p-3.5 rounded-xl border border-emerald-500/30 bg-emerald-500/5 space-y-2">
+                    <strong class="text-emerald-500 font-bold block text-sm">🌿 Parâmetros para Adubo</strong>
+                    <div class="grid grid-cols-3 gap-2">
+                        <div>
+                            <label class="block font-medium mb-1 text-[var(--text-secondary)]">Mínimo:</label>
+                            <input type="number" id="targetAduboMin" step="0.05" class="w-full p-2 rounded-lg border font-mono text-xs focus:border-emerald-500" style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        </div>
+                        <div>
+                            <label class="block font-medium mb-1 text-[var(--text-secondary)]">Alvo:</label>
+                            <input type="number" id="targetAduboAlvo" step="0.05" class="w-full p-2 rounded-lg border font-mono text-xs focus:border-emerald-500" style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        </div>
+                        <div>
+                            <label class="block font-medium mb-1 text-[var(--text-secondary)]">Máximo:</label>
+                            <input type="number" id="targetAduboMax" step="0.05" class="w-full p-2 rounded-lg border font-mono text-xs focus:border-emerald-500" style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Seção Torta -->
+                <div class="p-3.5 rounded-xl border border-amber-500/30 bg-amber-500/5 space-y-2">
+                    <strong class="text-amber-500 font-bold block text-sm">🍂 Parâmetros para Torta de Filtro</strong>
+                    <div class="grid grid-cols-3 gap-2">
+                        <div>
+                            <label class="block font-medium mb-1 text-[var(--text-secondary)]">Mínimo:</label>
+                            <input type="number" id="targetTortaMin" step="0.05" class="w-full p-2 rounded-lg border font-mono text-xs focus:border-amber-500" style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        </div>
+                        <div>
+                            <label class="block font-medium mb-1 text-[var(--text-secondary)]">Alvo:</label>
+                            <input type="number" id="targetTortaAlvo" step="0.05" class="w-full p-2 rounded-lg border font-mono text-xs focus:border-amber-500" style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        </div>
+                        <div>
+                            <label class="block font-medium mb-1 text-[var(--text-secondary)]">Máximo:</label>
+                            <input type="number" id="targetTortaMax" step="0.05" class="w-full p-2 rounded-lg border font-mono text-xs focus:border-amber-500" style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pt-2 flex items-center justify-end gap-2 border-t" style="border-color: var(--border-color);">
+                    <button id="btnResetDefaultTargets" class="px-3 py-2 rounded-xl border text-slate-400 hover:text-white transition-colors">
+                        Restaurar Padrão
+                    </button>
+                    <button id="btnSaveTargets" class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold transition-all shadow-md">
+                        Salvar e Recalcular
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 14. MODAL RAIO-X INDIVIDUAL DA MEDIÇÃO -->
+    <div id="recordModal" class="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-2xl rounded-2xl border shadow-2xl p-6 transition-all max-h-[90vh] overflow-y-auto"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <div class="flex items-center justify-between pb-3 mb-4 border-b" style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2.5">
+                    <span class="p-2 rounded-xl bg-emerald-500/15 text-emerald-500 text-lg">🔍</span>
+                    <div>
+                        <div class="flex items-center gap-2">
+                            <h3 class="font-bold text-sm">Raio-X da Medição #<span id="modalRecordId">-</span></h3>
+                            <span id="modalRecordBadge" class="text-[10px] font-mono px-2 py-0.5 rounded-full border font-bold">STATUS</span>
+                        </div>
+                        <p class="text-[11px] text-[var(--text-secondary)] mt-0.5" id="modalRecordSubtitle">-</p>
+                    </div>
+                </div>
+                <button id="btnCloseRecordModal" class="p-1.5 rounded-lg text-slate-400 hover:text-white hover:bg-slate-700/50">✕</button>
+            </div>
+
+            <div id="modalRecordContent" class="space-y-4 text-xs">
+                <!-- Preenchido via JS -->
+            </div>
+
+            <div class="mt-6 pt-3 border-t flex justify-end" style="border-color: var(--border-color);">
+                <button id="btnCloseRecordModalFooter" class="px-4 py-2 rounded-xl bg-slate-700 hover:bg-slate-600 text-white font-semibold transition-colors">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCRIPTS -->
+    <script src="js/data.js"></script>
+    <script src="js/dosagem_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

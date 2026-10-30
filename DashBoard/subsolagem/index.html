@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoramento de Qualidade da Subsolagem • Usina Pitangueiras</title>
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+    <!-- Leaflet Maps CDN -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <!-- Leaflet MarkerCluster -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Estilos Customizados -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        };
+    </script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
+
+    <!-- ======================================================== -->
+    <!-- 1. CABEÇALHO EXECUTIVO (SEÇÃO 1 E 7)                      -->
+    <!-- ======================================================== -->
+    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors"
+            style="background: var(--bg-header); border-color: var(--border-color);">
+        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 py-3 flex flex-wrap items-center justify-between gap-4">
+            
+            <!-- Título e Identidade -->
+            <div class="flex items-center gap-3.5">
+                <a href="../index.html" class="p-2 rounded-xl border transition-all hover:scale-105"
+                   style="background: var(--bg-card); border-color: var(--border-color);"
+                   title="Voltar ao Hub Central da Mandala">
+                    <svg viewBox="0 0 24 24" class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" stroke-width="2.5">
+                        <path d="M19 12H5m7 7l-7-7 7-7" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </a>
+                
+                <!-- Logo Oficial da Usina Pitangueiras 51 Anos -->
+                <div class="h-10 sm:h-11 px-2 py-0.5 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
+                </div>
+
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h1 class="text-base sm:text-lg font-bold tracking-tight" style="color: var(--text-primary);">
+                            Monitoramento de Qualidade da Subsolagem
+                        </h1>
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
+                            Plantio • Fase 01
+                        </span>
+                    </div>
+                    <p class="text-xs" style="color: var(--text-secondary);">
+                        Análise de profundidade, distribuição das medições, conformidade técnica, localização geográfica e desempenho operacional.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Controles Rápidos do Cabeçalho -->
+            <div class="flex items-center gap-2 sm:gap-3 text-xs flex-wrap">
+                
+                <!-- Seletor Rápido de Período Temporal (Diferenciação Estrita do Selecionado) -->
+                <div class="period-segmented-group shadow-sm">
+                    <!-- Botão Safra Completa -->
+                    <button id="btnAllDates" class="period-toggle-btn active" data-period="all"
+                            title="Exibir todo o histórico da safra (367 medições)">
+                        <span>🌐</span>
+                        <span>Safra Completa</span>
+                        <span class="period-badge" id="badgeAll">367</span>
+                    </button>
+
+                    <!-- Botão Última Data -->
+                    <button id="btnLatestDate" class="period-toggle-btn" data-period="latest"
+                            title="Filtrar pela última data com medições registradas na base">
+                        <span>📅</span>
+                        <span>Última Data</span>
+                        <span class="period-badge" id="badgeLatest">01/10</span>
+                    </button>
+
+                    <!-- Botão Hoje -->
+                    <button id="btnToday" class="period-toggle-btn" data-period="today"
+                            title="Verificar medições registradas na data de hoje">
+                        <span>📆</span>
+                        <span>Hoje</span>
+                    </button>
+                </div>
+
+                <!-- Exportar CSV -->
+                <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm"
+                        title="Exportar medições filtradas em formato CSV">
+                    <span>📥</span>
+                    <span class="hidden sm:inline">Exportar CSV</span>
+                </button>
+
+                <!-- Imprimir Relatório -->
+                <button id="btnPrintReport" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all"
+                        style="background: var(--bg-card); border-color: var(--border-color);"
+                        title="Imprimir relatório executivo para A4/PDF">
+                    <span>🖨</span>
+                </button>
+
+                <!-- Toggle Tema Claro/Escuro -->
+                <button id="themeToggleBtn" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all"
+                        style="background: var(--bg-card); border-color: var(--border-color);"
+                        title="Alternar entre modo Claro e Escuro">
+                    <span id="themeIcon">🌙</span>
+                    <span id="themeLabel" class="hidden sm:inline">Escuro</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Barra de Contexto Ativo (Destaque do Período Selecionado) -->
+        <div class="border-t px-4 sm:px-8 py-2 text-xs flex flex-wrap items-center justify-between gap-3"
+             style="background: var(--bg-kpi); border-color: var(--border-color);">
+            <div class="flex items-center gap-2">
+                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                <span class="text-[var(--text-muted)] font-medium">Período Selecionado:</span>
+                <span id="currentDateDisplay" class="font-bold text-emerald-500 font-mono">Carregando...</span>
+                <span class="text-[var(--text-muted)]">•</span>
+                <span id="currentCountDisplay" class="font-mono text-[var(--text-secondary)] font-semibold">0 medições</span>
+            </div>
+            <div class="flex items-center gap-3 text-[var(--text-muted)] font-mono text-[11px]">
+                <div class="flex items-center gap-1.5">
+                    <span>Faixa Técnica Ativa:</span>
+                    <span id="targetRangeDisplay" class="font-bold text-emerald-500">45 a 55 cm</span>
+                </div>
+                <span>•</span>
+                <div class="flex items-center gap-1.5">
+                    <span>Último Registro:</span>
+                    <span id="lastSyncDate" class="text-[var(--text-primary)] font-semibold">-</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <main class="flex-1 w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 py-6 space-y-6">
+
+        <!-- ======================================================== -->
+        <!-- 2. BARRA DE FILTROS GLOBAIS (SEÇÃO 5)                    -->
+        <!-- ======================================================== -->
+        <section id="filterSection" class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2">
+                    <span class="text-sm">🔍</span>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Filtros Operacionais de Subsolagem</h2>
+                </div>
+                <button id="btnClearFilters" class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1">
+                    <span>↺</span> Limpar Filtros
+                </button>
+            </div>
+
+            <!-- Grid de Controles de Filtros -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3 text-xs">
+                
+                <!-- Data Específica -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Data da Medição</label>
+                    <input type="date" id="filterDate"
+                           class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                </div>
+
+                <!-- Frente -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente Operacional</label>
+                    <select id="filterFrente"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <!-- Ordem de Serviço (OS) -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ordem de Serviço (OS)</label>
+                    <select id="filterOS"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as OS</option>
+                    </select>
+                </div>
+
+                <!-- Responsável / Inspetor -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável</label>
+                    <select id="filterResponsavel"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <!-- Faixa Técnica -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Faixa Técnica</label>
+                    <select id="filterFaixa"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todas as Medições</option>
+                        <option value="DENTRO">🟢 Dentro da Meta (45 a 55 cm)</option>
+                        <option value="ABAIXO">🟡 Abaixo da Meta (&lt; 45 cm)</option>
+                        <option value="ACIMA">🟣 Acima da Meta (&gt; 55 cm)</option>
+                    </select>
+                </div>
+
+                <!-- Local (Fazenda / Talhão) -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Localidade / Talhão</label>
+                    <select id="filterLocal"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <!-- Status / Coordenadas -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Auditoria GPS</label>
+                    <select id="filterGPS"
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="ALL">Todos os Registros</option>
+                        <option value="GPS_VALIDO">Com GPS Válido</option>
+                        <option value="GPS_INVALIDO">GPS Ausente/Inválido</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Busca Textual e Tags Ativas -->
+            <div class="mt-4 pt-3 border-t flex flex-col md:flex-row items-start md:items-center justify-between gap-3"
+                 style="border-color: var(--border-color);">
+                <div class="w-full md:w-96 relative">
+                    <input type="text" id="globalSearch" placeholder="Buscar por ID, OS, frente, responsável ou localidade..."
+                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
+                </div>
+                <div id="activeFilterTags" class="flex flex-wrap gap-1.5 items-center">
+                    <!-- Preenchido via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 3. CARDS EXECUTIVOS INTERATIVOS (SEÇÃO 8)                -->
+        <!-- ======================================================== -->
+        <section class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-10 xl:grid-cols-10 gap-2 sm:gap-2.5">
+            
+            <!-- Card 1: Total de Medições -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Total de registros de medição de profundidade considerados nos filtros.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-[var(--text-secondary)]">Medições</span>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="cardTotalMedicoes">0</div>
+                <span class="text-[9px] text-[var(--text-muted)] font-mono">Registros distintos</span>
+            </div>
+
+            <!-- Card 2: Profundidade Média -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Média aritmética das profundidades medidas válidas.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-emerald-500">Média</span>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="cardProfMedia">0,0 cm</div>
+                <span class="text-[9px] text-emerald-500/80 font-mono">Aritmética</span>
+            </div>
+
+            <!-- Card 3: Profundidade Mediana -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Mediana das medições válidas (valor central que reduz a influência de extremos).">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-teal-500">Mediana</span>
+                <div class="text-2xl font-extrabold font-mono text-teal-500 my-1" id="cardProfMediana">0,0 cm</div>
+                <span class="text-[9px] text-teal-500/80 font-mono">Valor central (50%)</span>
+            </div>
+
+            <!-- Card 4: Profundidade Mínima -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Menor valor de profundidade registrado.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-amber-500">Mínimo</span>
+                <div class="text-2xl font-extrabold font-mono text-amber-500 my-1" id="cardProfMin">0,0 cm</div>
+                <span class="text-[9px] text-amber-500/80 font-mono">Menor medição</span>
+            </div>
+
+            <!-- Card 5: Profundidade Máxima -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Maior valor de profundidade registrado.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-purple-500">Máximo</span>
+                <div class="text-2xl font-extrabold font-mono text-purple-500 my-1" id="cardProfMax">0,0 cm</div>
+                <span class="text-[9px] text-purple-500/80 font-mono">Maior medição</span>
+            </div>
+
+            <!-- Card 6: Variabilidade (Desvio-Padrão) -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Desvio-padrão amostral das medições (mede a dispersão dos valores ao redor da média).">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-sky-500">Desvio-Padrão</span>
+                <div class="text-2xl font-extrabold font-mono text-sky-500 my-1" id="cardProfStdDev">±0,00</div>
+                <span class="text-[9px] text-sky-500/80 font-mono">Dispersão amostral</span>
+            </div>
+
+            <!-- Card 7: OS Avaliadas -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Quantidade de Ordens de Serviço distintas presentes nos registros filtrados.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-indigo-500">OS Ativas</span>
+                <div class="text-2xl font-extrabold font-mono text-indigo-500 my-1" id="cardTotalOS">0</div>
+                <span class="text-[9px] text-indigo-500/80 font-mono">Frentes de serviço</span>
+            </div>
+
+            <!-- Card 8: Talhões / Locais Avaliados -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Quantidade de localidades ou talhões distintos identificados com segurança.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-cyan-500">Talhões</span>
+                <div class="text-2xl font-extrabold font-mono text-cyan-500 my-1" id="cardTotalLocais">0</div>
+                <span class="text-[9px] text-cyan-500/80 font-mono">Áreas mapeadas</span>
+            </div>
+
+            <!-- Card 9: Dentro da Faixa Técnica -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Percentual e quantidade de medições situadas dentro dos limites de meta técnica configurados.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-emerald-500">Na Meta</span>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="cardDentroFaixa">0%</div>
+                <span class="text-[9px] text-emerald-500/80 font-mono" id="cardDentroFaixaSub">0 medições</span>
+            </div>
+
+            <!-- Card 10: Auditoria de Dados / Pendências -->
+            <div class="card-transition p-3.5 rounded-2xl border flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Registros com campos ausentes, coordenadas inválidas ou duração atípica.">
+                <span class="text-[10px] uppercase font-bold tracking-wider text-amber-500">Auditoria</span>
+                <div class="text-2xl font-extrabold font-mono text-amber-500 my-1" id="cardPendencias">0</div>
+                <span class="text-[9px] text-amber-500/80 font-mono">Pendências de dados</span>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 4. AUDITORIA METODOLÓGICA E METAS TÉCNICAS (SEÇÃO 9)     -->
+        <!-- ======================================================== -->
+        <section class="p-4 rounded-2xl border bg-emerald-500/10 border-emerald-500/30 flex items-start justify-between gap-4 text-xs text-emerald-600 dark:text-emerald-400">
+            <div class="flex items-start gap-3">
+                <span class="text-xl">🎯</span>
+                <div>
+                    <strong class="font-bold">Diretriz Técnica Agronômica • Operação de Subsolagem:</strong>
+                    <p class="mt-0.5 leading-relaxed text-[var(--text-secondary)]">
+                        Os dados registram medições numéricas de profundidade de escarificação. 
+                        A faixa técnica de conformidade está definida em 
+                        <strong class="text-emerald-500 font-mono" id="bannerTargetRange">45 cm a 55 cm</strong>.
+                        Medições abaixo de 45 cm são classificadas como descompactação insuficiente, e medições acima de 55 cm como consumo energético excedente.
+                    </p>
+                </div>
+            </div>
+            <button id="btnOpenTargetModal" class="px-3 py-1.5 rounded-xl border border-emerald-500/40 bg-emerald-500/20 text-emerald-600 dark:text-emerald-300 font-bold whitespace-nowrap text-xs hover:bg-emerald-500 hover:text-white transition-all shadow-sm">
+                ⚙️ Ajustar Faixa Técnica
+            </button>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 5. GRÁFICOS: DISTRIBUIÇÃO E SÉRIE TEMPORAL COM METAS     -->
+        <!-- ======================================================== -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            
+            <!-- Gráfico de Linha: Evolução Temporal com as 2 Linhas de Meta (Min e Max) -->
+            <div class="lg:col-span-2 p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 id="chartEvolutionCard">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                                <span>📈</span>
+                                <span>Evolução Temporal da Profundidade Média</span>
+                            </h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">
+                                Médias diárias registradas com as linhas de referência de Meta Mínima e Meta Máxima
+                            </p>
+                        </div>
+                        <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-sm" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-sm" data-evo-range="ALL" title="Exibir todo o histórico de dias">Todos</button>
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="7D" title="Últimos 7 dias com medições">7D</button>
+                        </div>
+                        <div class="flex items-center gap-2 text-xs font-mono">
+                            <span class="flex items-center gap-1.5 text-amber-500"><span class="w-3 h-0.5 bg-amber-500"></span> Min</span>
+                            <span class="flex items-center gap-1.5 text-purple-500"><span class="w-3 h-0.5 bg-purple-500"></span> Max</span>
+                            <span class="flex items-center gap-1.5 text-emerald-500"><span class="w-3 h-0.5 bg-emerald-500"></span> Média Real</span>
+                        </div>
+                    </div>
+                    <div class="h-64 w-full relative" id="chartEvolutionContainer">
+                        <canvas id="chartEvolution"></canvas>
+                    </div>
+                </div>
+
+                <div class="mt-3 pt-2.5 border-t flex items-center justify-between text-[11px] text-[var(--text-muted)] font-mono" style="border-color: var(--border-color);">
+                    <span>Período avaliado: Janeiro a Outubro de 2026</span>
+                    <span id="evolutionDaysCount">0 dias com medições</span>
+                </div>
+            </div>
+
+            <!-- Gráfico de Rosca: Distribuição de Conformidade Técnica (NUNCA EM BRANCO) -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-3 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Distribuição de Conformidade</h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Faixa técnica agronômica</p>
+                        </div>
+                        <span class="text-xs text-[var(--text-muted)] font-mono font-semibold" id="donutScopeBadge">% da safra</span>
+                    </div>
+
+                    <!-- Canvas da Rosca com Percentual Central em Destaque -->
+                    <div class="relative aspect-square w-full max-w-[210px] mx-auto py-2">
+                        <canvas id="chartDonut"></canvas>
+                        <div id="donutCenterOverlay" class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
+                            <span class="text-2xl sm:text-3xl font-extrabold font-mono text-emerald-500 leading-none" id="donutCenterPerc">83,7%</span>
+                            <span class="text-[10px] font-bold uppercase tracking-wider text-[var(--text-secondary)] mt-1">Na Meta</span>
+                            <span class="text-[9px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold" id="donutCenterCount">307 de 367</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Detalhamento Numérico Explicito e Barras de Progresso (SEMPRE COM DADOS) -->
+                <div class="mt-3 pt-3 border-t space-y-2.5 text-xs" style="border-color: var(--border-color);" id="donutDataContainer">
+                    <!-- 1. Dentro da Faixa -->
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-emerald-600 dark:text-emerald-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Dentro da Meta (45 a 55 cm)
+                            </span>
+                            <span class="font-mono font-bold" id="donutValDentro">307 (83,7%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarDentro" class="h-full bg-emerald-500 rounded-full transition-all duration-500" style="width: 83.7%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- 2. Abaixo da Faixa -->
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-amber-600 dark:text-amber-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Abaixo da Meta (&lt; 45 cm)
+                            </span>
+                            <span class="font-mono font-bold" id="donutValAbaixo">42 (11,4%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarAbaixo" class="h-full bg-amber-500 rounded-full transition-all duration-500" style="width: 11.4%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- 3. Acima da Faixa -->
+                    <div>
+                        <div class="flex items-center justify-between text-[11px] mb-1">
+                            <span class="flex items-center gap-1.5 font-semibold text-purple-600 dark:text-purple-400">
+                                <span class="w-2.5 h-2.5 rounded-full bg-purple-500"></span> Acima da Meta (&gt; 55 cm)
+                            </span>
+                            <span class="font-mono font-bold" id="donutValAcima">18 (4,9%)</span>
+                        </div>
+                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
+                            <div id="donutBarAcima" class="h-full bg-purple-500 rounded-full transition-all duration-500" style="width: 4.9%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Total Denominador -->
+                    <div class="pt-1.5 flex items-center justify-between text-[10px] text-[var(--text-muted)] font-mono border-t" style="border-color: var(--border-color);">
+                        <span>Total de Medições:</span>
+                        <span id="donutValTotal" class="font-bold text-[var(--text-primary)]">367 avaliadas</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ======================================================== -->
+        <!-- 6. HISTOGRAMA DE FREQUÊNCIAS E COMPARATIVO DE FRENTES    -->
+        <!-- ======================================================== -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            
+            <!-- Histograma de Frequência por Classes de Profundidade -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 id="chartHistogramCard">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Histograma de Frequências</h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Distribuição das medições em intervalos de 5 cm</p>
+                        </div>
+                        <span class="text-xs text-[var(--text-muted)] font-mono">Frequência Relativa</span>
+                    </div>
+                    <div class="h-56 w-full">
+                        <canvas id="chartHistogram"></canvas>
+                    </div>
+                </div>
+
+                <!-- Detalhes das Classes em Badges -->
+                <div id="histogramBreakdownContainer" class="mt-3 pt-3 border-t grid grid-cols-3 sm:grid-cols-6 gap-2 text-xs" style="border-color: var(--border-color);">
+                    <!-- Preenchido via JS -->
+                </div>
+            </div>
+
+            <!-- Gráfico de Médias por Frente -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <div>
+                            <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Profundidade Média por Frente</h2>
+                            <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Comparativo das frentes de operação</p>
+                        </div>
+                        <span class="text-xs text-[var(--text-muted)] font-mono">Médias em cm</span>
+                    </div>
+                    <div class="h-56 w-full">
+                        <canvas id="chartFrentes"></canvas>
+                    </div>
+                </div>
+
+                <div class="mt-3 pt-3 border-t flex items-center justify-between text-[11px] text-[var(--text-muted)] font-mono" style="border-color: var(--border-color);">
+                    <span>4 frentes registradas</span>
+                    <span>Clique na frente para filtrar o painel</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- ======================================================== -->
+        <!-- 7. DESEMPENHO DETALHADO POR FRENTE (SEÇÃO 10)            -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🚜</span>
+                        <span>Desempenho da Subsolagem por Frente Operacional</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Visão consolidada com média, mediana, desvio-padrão e conformidade técnica</p>
+                </div>
+                <span class="text-xs text-[var(--text-muted)]">Clique em uma linha para aplicar o filtro da frente</span>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-xs">
+                    <thead>
+                        <tr class="border-b text-[11px] text-[var(--text-secondary)] font-semibold" style="border-color: var(--border-color);">
+                            <th class="p-3 text-left">Frente</th>
+                            <th class="p-3 text-center">Medições</th>
+                            <th class="p-3 text-center">Média</th>
+                            <th class="p-3 text-center">Mediana</th>
+                            <th class="p-3 text-center">Mínimo</th>
+                            <th class="p-3 text-center">Máximo</th>
+                            <th class="p-3 text-center">Desvio-Padrão</th>
+                            <th class="p-3 text-center">OS</th>
+                            <th class="p-3 text-center">Talhões</th>
+                            <th class="p-3 text-center">% Na Meta</th>
+                            <th class="p-3 text-center">Última Data</th>
+                        </tr>
+                    </thead>
+                    <tbody id="frenteTableBody">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 8. CONTROLE DE QUALIDADE POR ORDEM DE SERVIÇO (SEÇÃO 11)  -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📑</span>
+                        <span>Controle de Qualidade por Ordem de Serviço (OS)</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Rastreabilidade, variabilidade e amplitude das medições por OS</p>
+                </div>
+
+                <!-- Seletor de Ordenação do Ranking de OS -->
+                <div class="flex items-center gap-2 text-xs">
+                    <span class="text-[var(--text-secondary)]">Ordenar por:</span>
+                    <select id="osSortSelect"
+                            class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500"
+                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <option value="total">Maior Quantidade de Medições</option>
+                        <option value="stdDev">Maior Variabilidade (Desvio-Padrão)</option>
+                        <option value="amplitude">Maior Amplitude (Máx - Mín)</option>
+                        <option value="mediaDesc">Maior Profundidade Média</option>
+                        <option value="mediaAsc">Menor Profundidade Média</option>
+                        <option value="percDentro">Maior Proporção na Meta</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto max-h-96">
+                <table class="w-full text-xs">
+                    <thead class="sticky top-0 bg-[var(--bg-card)] z-10">
+                        <tr class="border-b text-[11px] text-[var(--text-secondary)] font-semibold" style="border-color: var(--border-color);">
+                            <th class="p-2.5 text-left">OS</th>
+                            <th class="p-2.5 text-left">Frente</th>
+                            <th class="p-2.5 text-left">Local / Talhão</th>
+                            <th class="p-2.5 text-center">Medições</th>
+                            <th class="p-2.5 text-center">Média</th>
+                            <th class="p-2.5 text-center">Mediana</th>
+                            <th class="p-2.5 text-center">Mín / Máx</th>
+                            <th class="p-2.5 text-center">Desvio-Padrão</th>
+                            <th class="p-2.5 text-center">% Na Meta</th>
+                            <th class="p-2.5 text-center">Período Operacional</th>
+                        </tr>
+                    </thead>
+                    <tbody id="osTableBody">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 9. MAPA GEOGRÁFICO DAS MEDIÇÕES (SEÇÃO 13 & 14)          -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🗺️</span>
+                        <span>Geolocalização das Medições de Subsolagem no Campo</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Pontos mapeados por coordenadas GPS nas áreas operacionais da Usina Pitangueiras</p>
+                </div>
+                <div class="flex items-center gap-3 text-xs">
+                    <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Dentro da Meta</span>
+                    <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Abaixo da Meta</span>
+                    <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-purple-500"></span> Acima da Meta</span>
+                </div>
+            </div>
+
+            <!-- Container do Mapa Leaflet -->
+            <div id="mapContainer" class="w-full h-96 rounded-xl border z-10" style="border-color: var(--border-color);"></div>
+        </section>
+
+        <!-- ======================================================== -->
+        <!-- 10. ANÁLISE POR RESPONSÁVEL E DURAÇÃO (SEÇÃO 15 & 16)    -->
+        <!-- ======================================================== -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            
+            <!-- Tabela de Responsáveis -->
+            <div class="md:col-span-2 p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                            <span>👤</span>
+                            <span>Acompanhamento por Responsável Técnico</span>
+                        </h2>
+                        <span class="text-xs text-[var(--text-muted)]">Inspetores de Campo</span>
+                    </div>
+
+                    <div class="overflow-x-auto max-h-72">
+                        <table class="w-full text-xs">
+                            <thead class="sticky top-0 bg-[var(--bg-card)]">
+                                <tr class="border-b text-[11px] text-[var(--text-secondary)] font-semibold" style="border-color: var(--border-color);">
+                                    <th class="p-2.5 text-left">Responsável</th>
+                                    <th class="p-2.5 text-center">Medições</th>
+                                    <th class="p-2.5 text-center">Média</th>
+                                    <th class="p-2.5 text-center">Mediana</th>
+                                    <th class="p-2.5 text-center">Desvio-Padrão</th>
+                                    <th class="p-2.5 text-center">Frentes</th>
+                                    <th class="p-2.5 text-center">OS</th>
+                                </tr>
+                            </thead>
+                            <tbody id="respTableBody">
+                                <!-- Preenchido via JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card de Auditoria Temporal e Duração -->
+            <div class="p-5 rounded-2xl border shadow-sm transition-colors flex flex-col justify-between"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+                         style="border-color: var(--border-color);">
+                        <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                            <span>⏱️</span>
+                            <span>Auditoria de Duração</span>
+                        </h2>
+                        <span class="text-xs text-[var(--text-muted)] font-mono">Data Início x Fim</span>
+                    </div>
+
+                    <div class="space-y-3 text-xs">
+                        <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/50 flex items-center justify-between" style="border-color: var(--border-color);">
+                            <span class="text-[var(--text-secondary)]">Duração Média por Ponto:</span>
+                            <span class="font-mono font-bold text-emerald-500" id="statDuracaoMedia">0 min</span>
+                        </div>
+                        <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/50 flex items-center justify-between" style="border-color: var(--border-color);">
+                            <span class="text-[var(--text-secondary)]">Medições Instantâneas (&lt; 1 min):</span>
+                            <span class="font-mono font-bold text-sky-500" id="statDuracaoZero">0</span>
+                        </div>
+                        <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/50 flex items-center justify-between" style="border-color: var(--border-color);">
+                            <span class="text-[var(--text-secondary)]">Durações Atípicas (&gt; 120 min):</span>
+                            <span class="font-mono font-bold text-amber-500" id="statDuracaoAtipica">0</span>
+                        </div>
+                        <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/50 flex items-center justify-between" style="border-color: var(--border-color);">
+                            <span class="text-[var(--text-secondary)]">Coordenadas GPS Válidas:</span>
+                            <span class="font-mono font-bold text-emerald-500" id="statCoordsValidas">100%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="text-[11px] text-[var(--text-muted)] text-center pt-3 border-t font-mono" style="border-color: var(--border-color);">
+                    Validação em tempo real dos 367 registros
+                </div>
+            </div>
+        </div>
+
+        <!-- ======================================================== -->
+        <!-- 11. TABELA COMPLETA DE REGISTROS (SEÇÃO 17)              -->
+        <!-- ======================================================== -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mb-4 pb-3 border-b"
+                 style="border-color: var(--border-color);">
+                <div>
+                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📋</span>
+                        <span>Registros Detalhados de Medição</span>
+                    </h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Rastreabilidade completa com todos os 18 campos originais preservados</p>
+                </div>
+                
+                <div class="flex items-center gap-3 text-xs">
+                    <span id="paginationInfo" class="font-mono text-[var(--text-secondary)]">Exibindo 1-15 de 367</span>
+                    <div class="flex items-center gap-1" id="pageControls">
+                        <button id="btnPrevPage" class="p-1.5 rounded-lg border hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30" style="border-color: var(--border-color);">◀</button>
+                        <span id="currentPageNum" class="px-2 font-mono font-bold">1</span>
+                        <button id="btnNextPage" class="p-1.5 rounded-lg border hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30" style="border-color: var(--border-color);">▶</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-xs">
+                    <thead>
+                        <tr class="border-b text-[11px] text-[var(--text-secondary)] font-semibold" style="border-color: var(--border-color);">
+                            <th class="p-3 text-left">ID</th>
+                            <th class="p-3 text-left">Data</th>
+                            <th class="p-3 text-left">Frente</th>
+                            <th class="p-3 text-left">OS</th>
+                            <th class="p-3 text-left">Local / Talhão</th>
+                            <th class="p-3 text-left">Responsável</th>
+                            <th class="p-3 text-center">Profundidade</th>
+                            <th class="p-3 text-center">Classificação</th>
+                            <th class="p-3 text-center">Status</th>
+                            <th class="p-3 text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Preenchido via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="border-t py-6 text-center text-xs mt-auto transition-colors"
+            style="background: var(--bg-header); border-color: var(--border-color); color: var(--text-secondary);">
+        <p>Usina Pitangueiras • Sistema Mapfy Automático • Módulo de Subsolagem 2026</p>
+        <p class="text-[11px] mt-1 font-mono opacity-80">Dados auditados e normalizados a partir de Server_MapFy/relatorios/Plantio - 03.1 - Preparo de Solo - Subsolagem/</p>
+    </footer>
+
+    <!-- ======================================================== -->
+    <!-- MODAL DE DETALHAMENTO / RAIO-X INDIVIDUAL                -->
+    <!-- ======================================================== -->
+    <div id="recordModal" class="fixed inset-0 bg-black/60 dark:bg-black/75 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-3xl rounded-2xl shadow-2xl flex flex-col max-h-[90vh] animate-in fade-in zoom-in-95 duration-150 border"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <div class="p-5 border-b flex items-start justify-between" style="border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center gap-2">
+                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-500 border border-emerald-500/30">
+                            Inspeção de Subsolagem
+                        </span>
+                        <span id="modalClassificationBadge" class="text-[10px] font-mono font-bold px-2 py-0.5 rounded border">
+                            Classificação
+                        </span>
+                    </div>
+                    <h3 class="text-lg font-bold mt-1.5 flex items-center gap-2">
+                        <span>Medição ID:</span>
+                        <span id="modalRecordId" class="font-mono text-emerald-500">-</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)] font-mono" id="modalRecordDate">-</p>
+                </div>
+                <button id="modalCloseBtn" class="p-2 rounded-lg transition-colors hover:bg-slate-100 dark:hover:bg-slate-800 text-[var(--text-secondary)]">✕</button>
+            </div>
+
+            <div class="p-6 overflow-y-auto space-y-5 text-xs">
+                <!-- Informações Principais -->
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+                    <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/40" style="border-color: var(--border-color);">
+                        <span class="text-[10px] text-[var(--text-secondary)]">Profundidade Medida</span>
+                        <div class="text-xl font-bold font-mono text-emerald-500 mt-0.5" id="modalProfundidade">-</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/40" style="border-color: var(--border-color);">
+                        <span class="text-[10px] text-[var(--text-secondary)]">Ordem de Serviço (OS)</span>
+                        <div class="text-sm font-bold font-mono mt-1" id="modalOS">-</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/40" style="border-color: var(--border-color);">
+                        <span class="text-[10px] text-[var(--text-secondary)]">Frente Operacional</span>
+                        <div class="text-xs font-bold mt-1 line-clamp-2" id="modalFrente">-</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-slate-50 dark:bg-slate-800/40" style="border-color: var(--border-color);">
+                        <span class="text-[10px] text-[var(--text-secondary)]">Responsável</span>
+                        <div class="text-xs font-bold mt-1 line-clamp-2" id="modalResponsavel">-</div>
+                    </div>
+                </div>
+
+                <!-- Local e Coordenadas -->
+                <div class="p-4 rounded-xl border" style="border-color: var(--border-color);">
+                    <h4 class="font-bold text-xs uppercase tracking-wider text-[var(--text-secondary)] mb-2.5">Geolocalização & Parâmetros de Campo</h4>
+                    <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                        <div>
+                            <span class="text-[10px] text-[var(--text-muted)]">Localidade / Talhão:</span>
+                            <div class="font-mono font-semibold" id="modalLocal">-</div>
+                        </div>
+                        <div>
+                            <span class="text-[10px] text-[var(--text-muted)]">Latitude GPS:</span>
+                            <div class="font-mono font-semibold" id="modalLat">-</div>
+                        </div>
+                        <div>
+                            <span class="text-[10px] text-[var(--text-muted)]">Longitude GPS:</span>
+                            <div class="font-mono font-semibold" id="modalLng">-</div>
+                        </div>
+                        <div>
+                            <span class="text-[10px] text-[var(--text-muted)]">Data Início:</span>
+                            <div class="font-mono" id="modalDataInicio">-</div>
+                        </div>
+                        <div>
+                            <span class="text-[10px] text-[var(--text-muted)]">Data Fim:</span>
+                            <div class="font-mono" id="modalDataFim">-</div>
+                        </div>
+                        <div>
+                            <span class="text-[10px] text-[var(--text-muted)]">Duração Calculada:</span>
+                            <div class="font-mono font-semibold text-emerald-500" id="modalDuracao">-</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Auditoria e Dados Brutos -->
+                <div class="p-4 rounded-xl border bg-slate-50 dark:bg-slate-800/20" style="border-color: var(--border-color);">
+                    <h4 class="font-bold text-xs uppercase tracking-wider text-[var(--text-secondary)] mb-2.5">Auditoria e Dados de Origem Mapfy</h4>
+                    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 font-mono text-[11px]">
+                        <div><span class="text-[var(--text-muted)]">Usuário:</span> <div class="truncate font-semibold" id="modalUsuario">-</div></div>
+                        <div><span class="text-[var(--text-muted)]">Status:</span> <div class="font-semibold" id="modalStatus">-</div></div>
+                        <div><span class="text-[var(--text-muted)]">Score:</span> <div id="modalScore">-</div></div>
+                        <div><span class="text-[var(--text-muted)]">Score Desc.:</span> <div id="modalScoreDesc">-</div></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p-4 border-t flex justify-end" style="border-color: var(--border-color);">
+                <button onclick="document.getElementById('recordModal').classList.add('hidden')"
+                        class="px-4 py-2 rounded-xl border text-xs font-semibold hover:bg-slate-100 dark:hover:bg-slate-800"
+                        style="border-color: var(--border-color);">
+                    Fechar Raio-X
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ======================================================== -->
+    <!-- MODAL DE CONFIGURAÇÃO DA FAIXA TÉCNICA (SEÇÃO 9)         -->
+    <!-- (Disparado também via Ctrl + Duplo Clique no Gráfico)   -->
+    <!-- ======================================================== -->
+    <div id="targetModal" class="fixed inset-0 bg-black/60 dark:bg-black/75 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-md rounded-2xl shadow-2xl flex flex-col border p-6 animate-in fade-in zoom-in-95 duration-150"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <div class="flex items-start justify-between pb-3 border-b mb-4" style="border-color: var(--border-color);">
+                <div>
+                    <h3 class="text-base font-bold flex items-center gap-2">
+                        <span>🎯</span>
+                        <span>Configuração da Faixa Técnica</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">Parâmetros agronômicos de profundidade da subsolagem</p>
+                </div>
+                <button id="targetModalCloseBtn" class="p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 text-[var(--text-secondary)]">✕</button>
+            </div>
+
+            <div class="space-y-4 text-xs">
+                <!-- Meta Mínima -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Profundidade Mínima Aceitável (cm)</label>
+                    <input type="number" id="inputTargetMin" step="0.5" min="20" max="100" value="45"
+                           class="w-full p-2.5 rounded-xl border text-sm font-mono font-bold focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                </div>
+
+                <!-- Meta Máxima -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Profundidade Máxima Aceitável (cm)</label>
+                    <input type="number" id="inputTargetMax" step="0.5" min="20" max="100" value="55"
+                           class="w-full p-2.5 rounded-xl border text-sm font-mono font-bold focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                </div>
+
+                <!-- Unidade -->
+                <div>
+                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Unidade de Medida</label>
+                    <input type="text" id="inputTargetUnidade" value="cm"
+                           class="w-full p-2 rounded-xl border text-xs font-mono focus:outline-none focus:border-emerald-500"
+                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                </div>
+
+                <!-- Status da Regra -->
+                <div class="flex items-center gap-2 pt-1">
+                    <input type="checkbox" id="checkTargetActive" checked class="w-4 h-4 rounded text-emerald-500 focus:ring-emerald-500">
+                    <label for="checkTargetActive" class="font-semibold text-xs cursor-pointer">Ativar classificação de conformidade técnica</label>
+                </div>
+            </div>
+
+            <div class="mt-6 pt-3 border-t flex items-center justify-end gap-2" style="border-color: var(--border-color);">
+                <button id="btnCancelTarget" class="px-4 py-2 rounded-xl border text-xs font-semibold hover:bg-slate-100 dark:hover:bg-slate-800"
+                        style="border-color: var(--border-color);">
+                    Cancelar
+                </button>
+                <button id="btnSaveTarget" class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold shadow-md transition-all">
+                    Salvar Metas
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast de Notificações -->
+    <div id="toast" class="bg-slate-900 text-white border border-slate-700"></div>
+
+    <!-- Scripts da Aplicação -->
+    <script src="js/data.js"></script>
+    <script src="js/subsolagem_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

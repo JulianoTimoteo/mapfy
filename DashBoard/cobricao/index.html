@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Profundidade de Cobrição | Usina Pitangueiras</title>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Estilos Customizados -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    
+    <!-- SheetJS (Excel Export) -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body>
+    <!-- Cabeçalho Oficial com Navegação Estrita -->
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="header-brand">
+                <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo">
+                <div class="brand-text">
+                    <h1>
+                        Profundidade de Cobrição
+                        <span class="badge-tag">Operação de Plantio</span>
+                    </h1>
+                    <div class="brand-subtitle">
+                        MapFy | Usina Pitangueiras • Safra 2026 • Inteligência Operacional, Análise Estatística e Rastreabilidade Espacial
+                    </div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <a href="../index.html" class="btn-mandala" title="Retornar ao Hub Mandala Central">
+                    ← Mandala Hub
+                </a>
+                <button id="themeToggleBtn" class="btn-theme-toggle" title="Alternar tema claro/escuro">
+                    🌙
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Banner de Nota Técnica e Alinhamento Metodológico -->
+    <div class="technical-notice-banner">
+        <div class="notice-box">
+            <div class="notice-icon">ℹ️</div>
+            <div class="notice-content">
+                <div class="notice-title">Nota Técnica Operacional: Parâmetros Agronômicos e Metodologia de Medição</div>
+                <div>
+                    Os dados de campo registram valores de profundidade concentrados em <strong>6, 7, 8, 9 e 10</strong> (com mediana <strong>8,00</strong>). Para manter estrito rigor científico e respeito à governança do projeto, <strong>não foi presumida unidade arbitrária (ex: cm) nem inventada faixa de corte sem homologação oficial</strong>. As informações são apresentadas como <em>“Profundidade registrada”</em>. Dois registros atípicos superiores (13 e 17) foram identificados pelo método estatístico do <strong>Intervalo Interquartil (IQR 1,5x)</strong> para acompanhamento pela liderança agronômica, mantendo a integridade total do histórico de campo.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Painel de Filtros Reativos -->
+    <section class="filters-container">
+        <div class="filters-card">
+            <div class="filters-header">
+                <div class="filters-title">
+                    <span>🔍</span> Filtros Operacionais & Seleção de Período
+                </div>
+                <div class="filters-actions">
+                    <button id="btnVerTodoHistorico" class="btn-filter-action" title="Exibe todo o histórico de dados de 2026">
+                        📅 Ver Todo o Histórico
+                    </button>
+                    <button id="btnResetFilters" class="btn-filter-action btn-filter-reset" title="Limpar todos os filtros">
+                        🔄 Limpar Filtros
+                    </button>
+                </div>
+            </div>
+
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label class="filter-label" for="filterDateExact">Data Específica</label>
+                    <input type="text" id="filterDateExact" class="filter-input" placeholder="DD/MM/AAAA (ex: 28/10/2026)">
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterFrente">Frente Operacional</label>
+                    <select id="filterFrente" class="filter-select">
+                        <option value="all">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterOS">Ordem de Serviço (OS)</label>
+                    <select id="filterOS" class="filter-select">
+                        <option value="all">Todas as OSs</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterLocal">Talhão / Local</label>
+                    <select id="filterLocal" class="filter-select">
+                        <option value="all">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterResponsavel">Responsável</label>
+                    <select id="filterResponsavel" class="filter-select">
+                        <option value="all">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterProfundidade">Profundidade Registrada</label>
+                    <select id="filterProfundidade" class="filter-select">
+                        <option value="all">Todas as Profundidades</option>
+                        <option value="6">Profundidade 6</option>
+                        <option value="7">Profundidade 7</option>
+                        <option value="8">Profundidade 8 (Mediana)</option>
+                        <option value="9">Profundidade 9</option>
+                        <option value="10">Profundidade 10</option>
+                    </select>
+                </div>
+            </div>
+
+            <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border-color);">
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyOutliers">
+                    <span style="font-size: 0.85rem; font-weight: 600; color: var(--color-atipico);">⚠️ Apenas Valores Atípicos para Investigação (IQR &gt; 12)</span>
+                </label>
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkExcludeOutliers">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Recalcular Média e Desvio sem Atípicos</span>
+                </label>
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyCoords">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Apenas Pontos Georreferenciados</span>
+                </label>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cards de KPIs Executivos -->
+    <section class="kpis-container">
+        <div class="kpis-grid">
+            <!-- KPI 1: Total de Medições -->
+            <div class="kpi-card kpi-cobricao">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total de Medições</span>
+                    <span class="kpi-icon">📋</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTotalRegistros" class="kpi-value">2.020</span>
+                    <span class="kpi-unit">amostras</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiPeriodoAmostral">Histórico Completo</span>
+                    <span class="kpi-badge badge-info">100% IDs Únicos</span>
+                </div>
+            </div>
+
+            <!-- KPI 2: Profundidade Média -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Profundidade Média</span>
+                    <span class="kpi-icon">⚖️</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiProfMedia" class="kpi-value">8,04</span>
+                    <span class="kpi-unit">reg.</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiDesvioPadrao">Desvio: ±1,08</span>
+                    <span class="kpi-badge badge-tipico" id="kpiAmostrasValidas">2.020 válidos</span>
+                </div>
+            </div>
+
+            <!-- KPI 3: Mediana -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Mediana</span>
+                    <span class="kpi-icon">🎯</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiProfMediana" class="kpi-value">8,00</span>
+                    <span class="kpi-unit">reg.</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>50% das medições ≤ 8</span>
+                    <span class="kpi-badge badge-tipico">Robusta a extremos</span>
+                </div>
+            </div>
+
+            <!-- KPI 4: Menor Profundidade -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Menor Profundidade</span>
+                    <span class="kpi-icon">📉</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiMenorProf" class="kpi-value">6,00</span>
+                    <span class="kpi-unit">mínimo</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Q1 (25%): 7,00</span>
+                    <span class="kpi-badge badge-info">Ponto mínimo</span>
+                </div>
+            </div>
+
+            <!-- KPI 5: Maior Profundidade -->
+            <div class="kpi-card kpi-atipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Maior Profundidade</span>
+                    <span class="kpi-icon">📈</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiMaiorProf" class="kpi-value">17,00</span>
+                    <span class="kpi-unit">máximo</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Q3 (75%): 9,00</span>
+                    <span class="kpi-badge badge-atipico">Atípico isolado</span>
+                </div>
+            </div>
+
+            <!-- KPI 6: Frentes Monitoradas -->
+            <div class="kpi-card kpi-cobricao">
+                <div class="kpi-header">
+                    <span class="kpi-title">Frentes Monitoradas</span>
+                    <span class="kpi-icon">🚜</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiFrentesCount" class="kpi-value">17</span>
+                    <span class="kpi-unit">frentes</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Frente Própria lidera</span>
+                    <span class="kpi-badge badge-cobricao">Operação Total</span>
+                </div>
+            </div>
+
+            <!-- KPI 7: Talhões Monitorados -->
+            <div class="kpi-card kpi-purple">
+                <div class="kpi-header">
+                    <span class="kpi-title">Talhões & OSs</span>
+                    <span class="kpi-icon">🌾</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTalhoesOS" class="kpi-value">216 / 193</span>
+                    <span class="kpi-unit">distintos</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiResponsaveisCount">23 responsáveis</span>
+                    <span class="kpi-badge badge-info">Rastreabilidade</span>
+                </div>
+            </div>
+
+            <!-- KPI 8: Registros Pendentes / Status -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Status dos Registros</span>
+                    <span class="kpi-icon">📂</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiStatusAberto" class="kpi-value">2.020</span>
+                    <span class="kpi-unit">em aberto</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Padrão do app móvel</span>
+                    <span class="kpi-badge badge-info">Score: 0,00</span>
+                </div>
+            </div>
+
+            <!-- KPI 9: Amplitude & Dispersão -->
+            <div class="kpi-card kpi-cobricao">
+                <div class="kpi-header">
+                    <span class="kpi-title">Amplitude Observada</span>
+                    <span class="kpi-icon">📏</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiAmplitude" class="kpi-value">11,00</span>
+                    <span class="kpi-unit">dispersão</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>IQR: 2,00 (7 a 9)</span>
+                    <span class="kpi-badge badge-cobricao">99,9% típicos</span>
+                </div>
+            </div>
+
+            <!-- KPI 10: Georreferenciamento -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Georreferenciamento</span>
+                    <span class="kpi-icon">📍</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiGeorrefPerc" class="kpi-value">100%</span>
+                    <span class="kpi-unit">válido</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiGeorrefCount">2.020 / 2.020 pontos</span>
+                    <span class="kpi-badge badge-tipico">Zero Falhas</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gráficos e Seções Analíticas -->
+    <section class="analytics-container">
+        <!-- NÍVEL 1: Distribuição das Profundidades & Frequência Acumulada -->
+        <div class="charts-row-2">
+            <!-- Gráfico A: Distribuição de Profundidades -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📊</span> Gráfico A: Distribuição das Profundidades de Cobrição
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartDistribution"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico B: Frequência Acumulada -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📈</span> Gráfico B: Frequência Acumulada (% Concentração Progressiva)
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartCumulative"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Evolução Temporal com Seleção de Escala -->
+        <div class="chart-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📅</span> Gráfico C: Evolução Temporal da Profundidade de Cobrição
+                </div>
+                <div class="chart-card-tools">
+                    <div class="chart-view-toggle" id="timePeriodToggle">
+                        <button id="btnPeriodDiario" class="chart-view-btn active">Diário</button>
+                        <button id="btnPeriodSemanal" class="chart-view-btn">Semanal</button>
+                        <button id="btnPeriodMensal" class="chart-view-btn">Mensal</button>
+                    </div>
+                    <div class="chart-view-toggle" id="timeMetricToggle">
+                        <button id="btnMetricMedia" class="chart-view-btn active">Média</button>
+                        <button id="btnMetricMediana" class="chart-view-btn">Mediana</button>
+                        <button id="btnMetricVolume" class="chart-view-btn">Volume</button>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-canvas-container">
+                <canvas id="chartTimeline"></canvas>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Comparativo por Frente & Ranking por OS -->
+        <div class="charts-row-2">
+            <!-- Gráfico D: Desempenho por Frente -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🚜</span> Gráfico D: Profundidade Média e Volume por Frente de Trabalho
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartFrentes"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico E: Top 15 OSs -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📑</span> Gráfico E: Top 15 Ordens de Serviço (OS) com Mais Medições
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartOS"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Comparativo por Talhão & Análise por Responsável -->
+        <div class="charts-row-2">
+            <!-- Gráfico F: Top 15 Talhões / Locais -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🗺️</span> Gráfico F: Top 15 Talhões / Locais Avaliados
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartLocais"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico G: Análise por Responsável -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>👷</span> Gráfico G: Volume e Média por Responsável Operacional
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartResponsaveis"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Dispersão Individual & Ritmo Horário -->
+        <div class="charts-row-2">
+            <!-- Gráfico H: Dispersão Individual (Scatter Plot) -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🔬</span> Gráfico H: Dispersão Individual das 2.020 Amostras
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartScatter"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico I: Ritmo Horário -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>⏰</span> Ritmo Horário das Avaliações de Cobrição (07h às 18h)
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartHourly"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 3: Mapa Geográfico com Cores por Profundidade (100% OpenStreetMap Limpo) -->
+        <div class="map-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📍</span> Mapa Geográfico Operacional — Distribuição Espacial por Profundidade
+                </div>
+                <div style="font-size: 0.8rem; color: var(--text-secondary);">
+                    Camada Oficial OpenStreetMap • Sem Marcas d'Água • 2.020 Pontos Georreferenciados
+                </div>
+            </div>
+            
+            <div id="map-container"></div>
+
+            <!-- Barra de Legenda Cromática -->
+            <div class="map-legend-bar">
+                <span style="font-weight: 700; color: var(--text-primary); margin-right: 0.5rem;">Legenda de Profundidades:</span>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-6);"></span> Profundidade 6</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-7);"></span> Profundidade 7</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-8);"></span> Profundidade 8 (Mediana)</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-9);"></span> Profundidade 9</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-10);"></span> Profundidade 10</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-outlier);"></span> &gt; 10 (Atípicos: 13 e 17)</div>
+            </div>
+        </div>
+
+        <!-- Tabela Analítica Completa -->
+        <div class="table-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📑</span> Tabela Analítica de Medições de Profundidade
+                </div>
+            </div>
+
+            <div class="table-controls">
+                <div class="table-search-box">
+                    <span class="table-search-icon">🔍</span>
+                    <input type="text" id="tableSearchInput" class="table-search-input" placeholder="Buscar por ID, Data, Frente, OS, Talhão, Responsável, Profundidade...">
+                </div>
+
+                <div class="table-export-actions">
+                    <button id="btnExportExcel" class="btn-export" title="Exportar tabela filtrada para Excel (.xlsx)">
+                        📊 Exportar Excel
+                    </button>
+                    <button id="btnExportCSV" class="btn-export" title="Exportar tabela filtrada para CSV (.csv)">
+                        📄 Exportar CSV
+                    </button>
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table class="analytical-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="id">ID ⇕</th>
+                            <th data-sort="data">Data / Hora ⇕</th>
+                            <th data-sort="frente">Frente Operacional ⇕</th>
+                            <th data-sort="os">OS ⇕</th>
+                            <th data-sort="local">Talhão / Local ⇕</th>
+                            <th data-sort="responsavel">Responsável ⇕</th>
+                            <th data-sort="profundidade_num">Profundidade Registrada ⇕</th>
+                            <th data-sort="categoria_analitica">Diagnóstico Estatístico ⇕</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Linhas geradas dinamicamente -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-pagination">
+                <div id="tableInfo">Exibindo 0 de 0 registros</div>
+                <div class="pagination-buttons" id="paginationControls"></div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 3: Auditoria e Confiabilidade dos Dados -->
+        <div class="audit-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>🛡️</span> Auditoria e Confiabilidade dos Registros de Campo
+                </div>
+            </div>
+            <div class="audit-grid">
+                <div class="audit-item">
+                    <span class="audit-item-title">IDs Duplicados</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">100% dos 2.020 registros possuem IDs exclusivos e auditáveis.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Profundidades Ausentes / Nulas</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">Todos os registros possuem valor numérico preenchido.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Integridade Cartográfica</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">100% Válido</span>
+                    <span class="audit-item-desc">2.020 de 2.020 registros possuem coordenadas geográficas válidas.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Atípicos Estatísticos (IQR)</span>
+                    <span class="audit-item-value" style="color: var(--color-atipico);">2 Amostras</span>
+                    <span class="audit-item-desc">Valores 13 e 17 (Frente Pedrinho) isolados para investigação.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Status Aberto (Coleta)</span>
+                    <span class="audit-item-value" style="color: var(--color-info);">2.020 (100%)</span>
+                    <span class="audit-item-desc">Status original de sincronização do aplicativo MapFy.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Score Original</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">0,00 (100%)</span>
+                    <span class="audit-item-desc">Formulário de cobrição não possui pontuação de score ativa.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Coluna Unnamed: 15</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">100% Nula</span>
+                    <span class="audit-item-desc">Omitida da interface principal para preservar limpeza visual.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Responsáveis Identificados</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">23 Operadores</span>
+                    <span class="audit-item-desc">100% dos registros possuem operador e frente cadastrados.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal de Detalhes da Medição -->
+    <div id="detailsModal" class="modal-overlay">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3 id="modalTitle">Detalhes da Medição #000000</h3>
+                <button id="modalCloseBtn" class="btn-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-grid">
+                    <div class="modal-field">
+                        <span class="modal-field-label">ID da Medição</span>
+                        <span id="mId" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data e Hora</span>
+                        <span id="mData" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data Lançamento</span>
+                        <span id="mDataLanc" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Duração da Avaliação</span>
+                        <span id="mDuracao" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Frente Operacional</span>
+                        <span id="mFrente" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Ordem de Serviço (OS)</span>
+                        <span id="mOS" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Local (Fazenda - Talhão)</span>
+                        <span id="mLocal" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Responsável</span>
+                        <span id="mResp" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Usuário Coletor</span>
+                        <span id="mUser" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Status do Formulário</span>
+                        <span id="mStatus" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Profundidade Registrada</span>
+                        <span id="mProfOrig" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Classificação Estatística</span>
+                        <span id="mCategoria" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Diferença p/ Mediana Global</span>
+                        <span id="mDiffMed" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Coordenadas GPS</span>
+                        <span id="mCoords" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Score Original</span>
+                        <span id="mScore" class="modal-field-value">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rodapé Corporativo -->
+    <footer class="site-footer">
+        <div><strong>Usina Pitangueiras Açúcar e Álcool Ltda.</strong> • Sistema Integrado MapFy Safra 2026</div>
+        <div>Módulo: <em>Plantio — 12 — Profundidade de Cobrição</em> • Engenharia de Dados & Qualidade Agrícola</div>
+    </footer>
+
+    <!-- Scripts de Dados, Motor Analítico e Controlador -->
+    <script src="js/data.js"></script>
+    <script src="js/cobricao_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

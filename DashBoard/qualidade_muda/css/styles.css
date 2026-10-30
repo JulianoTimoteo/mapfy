@@ -1,0 +1,167 @@
+/**
+ * styles.css - Qualidade da Muda
+ * ==============================
+ * Estilos Corporativos, Temas Claro/Escuro, Segmented Control e Mídia A4
+ * Usina Pitangueiras • Monitoramento da Qualidade da Muda no Plantio
+ */
+
+:root {
+    --bg-page: #f8fafc;
+    --bg-header: rgba(255, 255, 255, 0.94);
+    --bg-card: #ffffff;
+    --bg-card-hover: #f1f5f9;
+    --bg-kpi: #f1f5f9;
+    --bg-subtle: #f8fafc;
+    --border-color: #e2e8f0;
+    --border-subtle: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #94a3b8;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.08);
+
+    /* Cores Semânticas de Qualidade da Muda */
+    --color-bom: #059669;
+    --color-bom-bg: #ecfdf5;
+    --color-bom-border: #a7f3d0;
+
+    --color-ruim: #e11d48;
+    --color-ruim-bg: #fff1f2;
+    --color-ruim-border: #fecdd3;
+
+    --color-broca: #d97706;
+    --color-broca-bg: #fffbeb;
+    --color-broca-border: #fde68a;
+
+    --color-divergente: #7c3aed;
+    --color-divergente-bg: #f5f3ff;
+    --color-divergente-border: #ddd6fe;
+}
+
+html.dark {
+    --bg-page: #121417;
+    --bg-header: rgba(24, 26, 30, 0.94);
+    --bg-card: #1c1e22;
+    --bg-card-hover: #23262b;
+    --bg-kpi: #17191d;
+    --bg-subtle: #24272d;
+    --border-color: #2e3238;
+    --border-subtle: #24272d;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 12px 35px rgba(0, 0, 0, 0.6);
+
+    --color-bom: #10b981;
+    --color-bom-bg: rgba(16, 185, 129, 0.12);
+    --color-bom-border: rgba(16, 185, 129, 0.28);
+
+    --color-ruim: #f43f5e;
+    --color-ruim-bg: rgba(244, 63, 94, 0.12);
+    --color-ruim-border: rgba(244, 63, 94, 0.28);
+
+    --color-broca: #f59e0b;
+    --color-broca-bg: rgba(245, 158, 11, 0.12);
+    --color-broca-border: rgba(245, 158, 11, 0.28);
+
+    --color-divergente: #a855f7;
+    --color-divergente-bg: rgba(168, 85, 247, 0.12);
+    --color-divergente-border: rgba(168, 85, 247, 0.28);
+}
+
+body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+/* Scrollbar Customizada */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: var(--bg-page);
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #10b981;
+}
+
+/* Badges Semânticos */
+.badge-bom {
+    background-color: var(--color-bom-bg);
+    color: var(--color-bom);
+    border: 1px solid var(--color-bom-border);
+}
+
+.badge-ruim {
+    background-color: var(--color-ruim-bg);
+    color: var(--color-ruim);
+    border: 1px solid var(--color-ruim-border);
+}
+
+.badge-broca {
+    background-color: var(--color-broca-bg);
+    color: var(--color-broca);
+    border: 1px solid var(--color-broca-border);
+}
+
+.badge-divergente {
+    background-color: var(--color-divergente-bg);
+    color: var(--color-divergente);
+    border: 1px solid var(--color-divergente-border);
+}
+
+/* Marcadores Leaflet Customizados */
+.custom-pin {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    transition: transform 0.2s ease;
+}
+.custom-pin:hover {
+    transform: scale(1.3);
+    z-index: 9999 !important;
+}
+
+.custom-pin-bom { background-color: #10b981; }
+.custom-pin-ruim { background-color: #f43f5e; }
+.custom-pin-broca { background-color: #f59e0b; }
+
+/* Tabela Analítica */
+.table-row-hover:hover {
+    background-color: var(--bg-card-hover) !important;
+}
+
+/* Mídia de Impressão Executiva */
+@media print {
+    body {
+        background: #ffffff !important;
+        color: #000000 !important;
+    }
+    header, #filterSection, #paginationControls, .no-print {
+        display: none !important;
+    }
+    .print-full {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+}

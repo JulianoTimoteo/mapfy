@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Arremate e Acabamento | Usina Pitangueiras</title>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Estilos Customizados -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    
+    <!-- SheetJS (Excel Export) -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+</head>
+<body>
+    <!-- Cabeçalho Oficial com Navegação Estrita -->
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="header-brand">
+                <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo">
+                <div class="brand-text">
+                    <h1>
+                        Arremate e Acabamento
+                        <span class="badge-tag">Controle de Qualidade</span>
+                    </h1>
+                    <div class="brand-subtitle">
+                        MapFy | Usina Pitangueiras • Safra 2026 • Central de Inteligência da Qualidade do Acabamento no Plantio
+                    </div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <a href="../index.html" class="btn-mandala" title="Retornar ao Hub Mandala Central">
+                    ← Mandala Hub
+                </a>
+                <button id="themeToggleBtn" class="btn-theme-toggle" title="Alternar tema claro/escuro">
+                    🌙
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Banner de Nota Técnica e Alinhamento Metodológico -->
+    <div class="technical-notice-banner">
+        <div class="notice-box">
+            <div class="notice-icon">ℹ️</div>
+            <div class="notice-content">
+                <div class="notice-title">Nota Técnica Operacional: Conformidade Registrada e Inteligência do Score</div>
+                <div>
+                    Conforme auditoria de campo em 100% dos <strong>807 registros</strong>, o parâmetro <strong>Arremate e Acabamento</strong> foi avaliado como <strong>BOM</strong> (100% de conformidade operacional). Em relação à pontuação, a investigação técnica comprovou que o aplicativo móvel teve a fórmula de pontuação ativada em <strong>Agosto/2026</strong> (registrando <strong>Score 10,00 / 100% / Bom</strong> em 84 avaliações). No período anterior (Janeiro a Maio/2026), o sistema gravava <strong>Score 0,00</strong> por inatividade da regra de cálculo móvel, mantendo idêntica aprovação qualitativa (BOM). Ambos os períodos encontram-se discriminados e auditados sem distorção dos fatos operacionais.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Painel de Filtros Reativos -->
+    <section class="filters-container">
+        <div class="filters-card">
+            <div class="filters-header">
+                <div class="filters-title">
+                    <span>🔍</span> Filtros Operacionais & Seleção de Período
+                </div>
+                <div class="filters-actions">
+                    <button id="btnVerTodoHistorico" class="btn-filter-action" title="Exibe todo o histórico de dados de 2026">
+                        📅 Ver Todo o Histórico
+                    </button>
+                    <button id="btnResetFilters" class="btn-filter-action btn-filter-reset" title="Limpar todos os filtros">
+                        🔄 Limpar Filtros
+                    </button>
+                </div>
+            </div>
+
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label class="filter-label" for="filterDateExact">Data Específica</label>
+                    <input type="text" id="filterDateExact" class="filter-input" placeholder="DD/MM/AAAA (ex: 28/10/2026)">
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterFrente">Frente Operacional</label>
+                    <select id="filterFrente" class="filter-select">
+                        <option value="all">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterOS">Ordem de Serviço (OS)</label>
+                    <select id="filterOS" class="filter-select">
+                        <option value="all">Todas as OSs</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterLocal">Talhão / Local</label>
+                    <select id="filterLocal" class="filter-select">
+                        <option value="all">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterResponsavel">Responsável</label>
+                    <select id="filterResponsavel" class="filter-select">
+                        <option value="all">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterFaseScore">Fase do Score MapFy</label>
+                    <select id="filterFaseScore" class="filter-select">
+                        <option value="all">Todas as Fases</option>
+                        <option value="ativo">Score Ativo (10,00 - 100% Bom)</option>
+                        <option value="pre">Score Pré-Ativação (0,00 - 0% Baixo)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border-color);">
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyCoords">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Apenas Pontos Georreferenciados</span>
+                </label>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cards de KPIs Executivos -->
+    <section class="kpis-container">
+        <div class="kpis-grid">
+            <!-- KPI 1: Total de Avaliações -->
+            <div class="kpi-card kpi-teal">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total de Avaliações</span>
+                    <span class="kpi-icon">📋</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTotalRegistros" class="kpi-value">807</span>
+                    <span class="kpi-unit">avaliações</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiPeriodoAmostral">Histórico Completo</span>
+                    <span class="kpi-badge badge-info">100% IDs Únicos</span>
+                </div>
+            </div>
+
+            <!-- KPI 2: Avaliações BOM -->
+            <div class="kpi-card kpi-bom">
+                <div class="kpi-header">
+                    <span class="kpi-title">Avaliações BOM</span>
+                    <span class="kpi-icon">✅</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiBomCount" class="kpi-value">807</span>
+                    <span class="kpi-unit">conformes</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>100% das amostras</span>
+                    <span class="kpi-badge badge-bom">Padrão de Campo</span>
+                </div>
+            </div>
+
+            <!-- KPI 3: Conformidade Registrada -->
+            <div class="kpi-card kpi-bom">
+                <div class="kpi-header">
+                    <span class="kpi-title">Conformidade Registrada</span>
+                    <span class="kpi-icon">🎯</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiConformidadePerc" class="kpi-value">100%</span>
+                    <span class="kpi-unit">BOM</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>BOM / Total Classificado</span>
+                    <span class="kpi-badge badge-bom">Excelente</span>
+                </div>
+            </div>
+
+            <!-- KPI 4: Outras Classificações -->
+            <div class="kpi-card kpi-teal">
+                <div class="kpi-header">
+                    <span class="kpi-title">Outras Classificações</span>
+                    <span class="kpi-icon">🔍</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiOutrasCount" class="kpi-value">0</span>
+                    <span class="kpi-unit">registros</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Sem desvios cadastrados</span>
+                    <span class="kpi-badge badge-teal">Zero Outros</span>
+                </div>
+            </div>
+
+            <!-- KPI 5: Score Médio -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Score Médio</span>
+                    <span class="kpi-icon">📊</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiScoreMedia" class="kpi-value">1,04</span>
+                    <span class="kpi-unit">pontos</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>84 avaliações com Score 10</span>
+                    <span class="kpi-badge badge-info">Fórmula Ativa</span>
+                </div>
+            </div>
+
+            <!-- KPI 6: Score Percentual Médio -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Score Perc. Médio</span>
+                    <span class="kpi-icon">📈</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiScorePercMedia" class="kpi-value">10,4%</span>
+                    <span class="kpi-unit">média global</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>100% a partir de Ago/26</span>
+                    <span class="kpi-badge badge-info">Evolução do App</span>
+                </div>
+            </div>
+
+            <!-- KPI 7: Frentes Monitoradas -->
+            <div class="kpi-card kpi-teal">
+                <div class="kpi-header">
+                    <span class="kpi-title">Frentes Monitoradas</span>
+                    <span class="kpi-icon">🚜</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiFrentesCount" class="kpi-value">13</span>
+                    <span class="kpi-unit">frentes</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Frente Própria lidera</span>
+                    <span class="kpi-badge badge-teal">Abrangência</span>
+                </div>
+            </div>
+
+            <!-- KPI 8: Talhões Monitorados -->
+            <div class="kpi-card kpi-teal">
+                <div class="kpi-header">
+                    <span class="kpi-title">Talhões & OSs</span>
+                    <span class="kpi-icon">🌾</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTalhoesOS" class="kpi-value">239 / 191</span>
+                    <span class="kpi-unit">distintos</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiResponsaveisCount">21 responsáveis</span>
+                    <span class="kpi-badge badge-info">Rastreabilidade</span>
+                </div>
+            </div>
+
+            <!-- KPI 9: Auditoria de Score -->
+            <div class="kpi-card kpi-divergente">
+                <div class="kpi-header">
+                    <span class="kpi-title">Score Pré-Ativação</span>
+                    <span class="kpi-icon">⏱️</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiScoreDivergente" class="kpi-value">723</span>
+                    <span class="kpi-unit">jan-mai</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Score 0 com Acabamento BOM</span>
+                    <span class="kpi-badge badge-divergente">Auditado</span>
+                </div>
+            </div>
+
+            <!-- KPI 10: Georreferenciamento -->
+            <div class="kpi-card kpi-bom">
+                <div class="kpi-header">
+                    <span class="kpi-title">Georreferenciamento</span>
+                    <span class="kpi-icon">📍</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiGeorrefPerc" class="kpi-value">100%</span>
+                    <span class="kpi-unit">válido</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiGeorrefCount">807 / 807 pontos</span>
+                    <span class="kpi-badge badge-bom">Zero Falhas</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gráficos e Seções Analíticas -->
+    <section class="analytics-container">
+        <!-- NÍVEL 1: Distribuição das Classificações & Rosca de Conformidade -->
+        <div class="charts-row-2">
+            <!-- Gráfico A: Rosca de Conformidade (Donut) -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🎯</span> Gráfico A: Índice de Conformidade de Arremate e Acabamento
+                    </div>
+                </div>
+                <div class="chart-canvas-container" style="display: flex; justify-content: center; align-items: center;">
+                    <canvas id="chartConformidadeDonut"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico B: Distribuição das Classificações -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📊</span> Gráfico B: Quantidade por Classificação de Qualidade
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartClassificacaoBars"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Evolução Temporal com Seleção de Escala -->
+        <div class="chart-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📅</span> Gráfico C: Evolução Temporal da Qualidade Operacional
+                </div>
+                <div class="chart-card-tools">
+                    <div class="chart-view-toggle" id="timePeriodToggle">
+                        <button id="btnPeriodDiario" class="chart-view-btn active">Diário</button>
+                        <button id="btnPeriodSemanal" class="chart-view-btn">Semanal</button>
+                        <button id="btnPeriodMensal" class="chart-view-btn">Mensal</button>
+                    </div>
+                    <div class="chart-view-toggle" id="timeMetricToggle">
+                        <button id="btnMetricConformidade" class="chart-view-btn active">% BOM</button>
+                        <button id="btnMetricVolume" class="chart-view-btn">Volume</button>
+                        <button id="btnMetricScore" class="chart-view-btn">Score Médio</button>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-canvas-container">
+                <canvas id="chartTimeline"></canvas>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Comparativo por Frente & Ranking por OS -->
+        <div class="charts-row-2">
+            <!-- Gráfico D: Qualidade por Frente -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🚜</span> Gráfico D: Volume e Conformidade por Frente de Trabalho
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartFrentes"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico E: Top 15 OSs -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📑</span> Gráfico E: Top 15 Ordens de Serviço (OS) com Mais Avaliações
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartOS"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Comparativo por Talhão & Acompanhamento por Responsável -->
+        <div class="charts-row-2">
+            <!-- Gráfico F: Top 15 Talhões / Locais -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🗺️</span> Gráfico F: Top 15 Talhões / Locais Avaliados
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartLocais"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico G: Acompanhamento de Responsáveis -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>👷</span> Gráfico G: Volume de Avaliações por Responsável de Campo
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartResponsaveis"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Ritmo Horário & Auditoria do Score -->
+        <div class="charts-row-2">
+            <!-- Gráfico H: Ritmo Horário -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>⏰</span> Gráfico H: Ritmo Horário das Avaliações (07h às 18h)
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartHourly"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico I: Inteligência do Score (Fase Ativa vs Pré-Ativação) -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>💡</span> Gráfico I: Evolução das Fases do Score MapFy
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartScorePhase"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 3: Mapa Geográfico Interativo (100% OpenStreetMap Limpo) -->
+        <div class="map-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📍</span> Mapa Geográfico Operacional — Distribuição Espacial de Arremate e Acabamento
+                </div>
+                <div style="font-size: 0.8rem; color: var(--text-secondary);">
+                    Camada Oficial OpenStreetMap • Sem Marcas d'Água • 807 Pontos Georreferenciados
+                </div>
+            </div>
+            
+            <div id="map-container"></div>
+        </div>
+
+        <!-- Tabela Analítica Completa -->
+        <div class="table-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📑</span> Tabela Analítica de Avaliações de Arremate e Acabamento
+                </div>
+            </div>
+
+            <div class="table-controls">
+                <div class="table-search-box">
+                    <span class="table-search-icon">🔍</span>
+                    <input type="text" id="tableSearchInput" class="table-search-input" placeholder="Buscar por ID, Data, Frente, OS, Talhão, Responsável...">
+                </div>
+
+                <div class="table-export-actions">
+                    <button id="btnExportExcel" class="btn-export" title="Exportar tabela filtrada para Excel (.xlsx)">
+                        📊 Exportar Excel
+                    </button>
+                    <button id="btnExportCSV" class="btn-export" title="Exportar tabela filtrada para CSV (.csv)">
+                        📄 Exportar CSV
+                    </button>
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table class="analytical-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="id">ID ⇕</th>
+                            <th data-sort="data">Data / Hora ⇕</th>
+                            <th data-sort="frente">Frente Operacional ⇕</th>
+                            <th data-sort="os">OS ⇕</th>
+                            <th data-sort="local">Talhão / Local ⇕</th>
+                            <th data-sort="responsavel">Responsável ⇕</th>
+                            <th data-sort="arremate_orig">Arremate e Acabamento ⇕</th>
+                            <th data-sort="score_num">Score ⇕</th>
+                            <th data-sort="score_desc">Classificação do Score ⇕</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Linhas geradas dinamicamente -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-pagination">
+                <div id="tableInfo">Exibindo 0 de 0 registros</div>
+                <div class="pagination-buttons" id="paginationControls"></div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 3: Auditoria e Confiabilidade dos Dados -->
+        <div class="audit-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>🛡️</span> Auditoria e Confiabilidade dos Registros de Campo
+                </div>
+            </div>
+            <div class="audit-grid">
+                <div class="audit-item">
+                    <span class="audit-item-title">IDs Duplicados</span>
+                    <span class="audit-item-value" style="color: var(--color-bom);">0 (Zero)</span>
+                    <span class="audit-item-desc">100% dos 807 registros possuem IDs exclusivos e auditáveis.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Classificações Vazias / Nulas</span>
+                    <span class="audit-item-value" style="color: var(--color-bom);">0 (Zero)</span>
+                    <span class="audit-item-desc">100% das avaliações foram registradas como BOM.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Integridade Cartográfica</span>
+                    <span class="audit-item-value" style="color: var(--color-bom);">100% Válido</span>
+                    <span class="audit-item-desc">807 de 807 registros possuem latitude e longitude válidas.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Score Ativado (Ago-Out/26)</span>
+                    <span class="audit-item-value" style="color: var(--color-bom);">84 Amostras</span>
+                    <span class="audit-item-desc">Score 10,00 (100% - Bom) após ativação da regra no MapFy.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Score Pré-Ativação (Jan-Mai/26)</span>
+                    <span class="audit-item-value" style="color: var(--color-divergente);">723 Amostras</span>
+                    <span class="audit-item-desc">Score 0,00 registrado antes da ativação do cálculo no formulário.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Status Aberto (Sincronia)</span>
+                    <span class="audit-item-value" style="color: var(--color-info);">807 (100%)</span>
+                    <span class="audit-item-desc">Status padrão de coleta móvel do sistema operacional.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Coluna Unnamed: 17</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">100% Nula</span>
+                    <span class="audit-item-desc">Omitida da interface principal para preservar limpeza visual.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Responsáveis Identificados</span>
+                    <span class="audit-item-value" style="color: var(--color-bom);">21 Operadores</span>
+                    <span class="audit-item-desc">100% dos registros possuem operador e frente cadastrados.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal de Detalhes da Avaliação -->
+    <div id="detailsModal" class="modal-overlay">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3 id="modalTitle">Detalhes da Avaliação #000000</h3>
+                <button id="modalCloseBtn" class="btn-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-grid">
+                    <div class="modal-field">
+                        <span class="modal-field-label">ID da Avaliação</span>
+                        <span id="mId" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data e Hora</span>
+                        <span id="mData" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data Lançamento</span>
+                        <span id="mDataLanc" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Duração da Avaliação</span>
+                        <span id="mDuracao" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Frente Operacional</span>
+                        <span id="mFrente" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Ordem de Serviço (OS)</span>
+                        <span id="mOS" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Local (Fazenda - Talhão)</span>
+                        <span id="mLocal" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Responsável</span>
+                        <span id="mResp" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Usuário Coletor</span>
+                        <span id="mUser" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Status do Formulário</span>
+                        <span id="mStatus" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Arremate e Acabamento</span>
+                        <span id="mArremate" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Fase do Score</span>
+                        <span id="mFaseScore" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Score / Descrição</span>
+                        <span id="mScore" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Score Percentual</span>
+                        <span id="mScorePerc" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Coordenadas GPS</span>
+                        <span id="mCoords" class="modal-field-value">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rodapé Corporativo -->
+    <footer class="site-footer">
+        <div><strong>Usina Pitangueiras Açúcar e Álcool Ltda.</strong> • Sistema Integrado MapFy Safra 2026</div>
+        <div>Módulo: <em>Plantio — 13 — Arremate e Acabamento</em> • Engenharia de Dados & Qualidade Agrícola</div>
+    </footer>
+
+    <!-- Scripts de Dados, Motor Analítico e Controlador -->
+    <script src="js/data.js"></script>
+    <script src="js/arremate_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/fullscreen_inspector.js"></script>
+</body>
+</html>

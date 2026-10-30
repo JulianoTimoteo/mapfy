@@ -1,0 +1,35 @@
+# Segredos e Credenciais de Acesso (NUNCA versionar)
+.env
+*.env
+.env.*
+!.env.example
+session_state.json
+**/session_state.json
+
+# Logs operacionais
+*.log
+*.log.*
+logs/
+Server_MapFy/*.log
+
+# Ambientes Virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Configurações de IDE e sistema
+.vscode/
+.idea/
+.kilo/
+.DS_Store
+Thumbs.db
+
+# Diretórios temporários de downloads brutos
+MapfyDownloads/
