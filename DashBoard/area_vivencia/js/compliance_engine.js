@@ -407,6 +407,9 @@
                 pendenciasInformacao: 0,
                 frentesAtencao: 0,
                 taxaConformidade: 0,
+                percConforme: 0,
+                percAtencao: 0,
+                percNaoConforme: 0,
                 frentesList: []
             };
         }
@@ -440,7 +443,10 @@
             }
         });
 
-        const taxaConformidade = Math.round((conformes / total) * 100);
+        const percConforme = total > 0 ? Number(((conformes / total) * 100).toFixed(1)) : 0;
+        const percAtencao = total > 0 ? Number(((atencao / total) * 100).toFixed(1)) : 0;
+        const percNaoConforme = total > 0 ? Number(((naoConformes / total) * 100).toFixed(1)) : 0;
+        const taxaConformidade = Math.round(percConforme);
 
         return {
             totalInspecoes: total,
@@ -453,6 +459,9 @@
             pendenciasInformacao: pendencias,
             frentesAtencao: frentesComProblemaSet.size,
             taxaConformidade,
+            percConforme,
+            percAtencao,
+            percNaoConforme,
             frentesList: Array.from(frentesSet).sort()
         };
     }

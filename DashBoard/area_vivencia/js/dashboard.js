@@ -1106,25 +1106,31 @@
             state.charts.donut.update();
         }
 
+        // Percentuais com fallback defensivo seguro
+        const tot = m.totalInspecoes || (m.inspecoesConformes + m.inspecoesAtencao + m.inspecoesNaoConformes) || 1;
+        const pConf = (m.percConforme !== undefined && !isNaN(m.percConforme)) ? m.percConforme : Number(((m.inspecoesConformes / tot) * 100).toFixed(1));
+        const pAtenc = (m.percAtencao !== undefined && !isNaN(m.percAtencao)) ? m.percAtencao : Number(((m.inspecoesAtencao / tot) * 100).toFixed(1));
+        const pNaoConf = (m.percNaoConforme !== undefined && !isNaN(m.percNaoConforme)) ? m.percNaoConforme : Number(((m.inspecoesNaoConformes / tot) * 100).toFixed(1));
+
         // Overlay Central do Donut
         const centerPercEl = document.getElementById('donutCenterPerc');
-        if (centerPercEl) centerPercEl.innerText = `${m.percConforme}%`;
+        if (centerPercEl) centerPercEl.innerText = `${pConf}%`;
 
         // Detalhamento Numérico Explicito e Barras de Progresso (SEMPRE COM DADOS, NUNCA EM BRANCO)
         const valConf = document.getElementById('donutValConforme');
         const barConf = document.getElementById('donutBarConforme');
-        if (valConf) valConf.innerText = `${m.inspecoesConformes} (${m.percConforme}%)`;
-        if (barConf) barConf.style.width = `${m.percConforme}%`;
+        if (valConf) valConf.innerText = `${m.inspecoesConformes} (${pConf}%)`;
+        if (barConf) barConf.style.width = `${pConf}%`;
 
         const valAtencao = document.getElementById('donutValAtencao');
         const barAtencao = document.getElementById('donutBarAtencao');
-        if (valAtencao) valAtencao.innerText = `${m.inspecoesAtencao} (${m.percAtencao}%)`;
-        if (barAtencao) barAtencao.style.width = `${m.percAtencao}%`;
+        if (valAtencao) valAtencao.innerText = `${m.inspecoesAtencao} (${pAtenc}%)`;
+        if (barAtencao) barAtencao.style.width = `${pAtenc}%`;
 
         const valNaoConf = document.getElementById('donutValNaoConforme');
         const barNaoConf = document.getElementById('donutBarNaoConforme');
-        if (valNaoConf) valNaoConf.innerText = `${m.inspecoesNaoConformes} (${m.percNaoConforme}%)`;
-        if (barNaoConf) barNaoConf.style.width = `${m.percNaoConforme}%`;
+        if (valNaoConf) valNaoConf.innerText = `${m.inspecoesNaoConformes} (${pNaoConf}%)`;
+        if (barNaoConf) barNaoConf.style.width = `${pNaoConf}%`;
 
         const valTotal = document.getElementById('donutValTotal');
         if (valTotal) valTotal.innerText = `${m.totalInspecoes} inspeções avaliadas`;
