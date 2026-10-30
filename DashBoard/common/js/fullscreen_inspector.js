@@ -235,25 +235,24 @@
     }
 
     function invalidateLeafletMap(mapEl) {
-        setTimeout(() => {
+        const doInvalidate = () => {
             try {
                 if (window.state && window.state.map && typeof window.state.map.invalidateSize === 'function') {
                     window.state.map.invalidateSize();
-                } else if (mapEl && mapEl._leaflet_map) {
+                }
+                if (window.dashboardState && window.dashboardState.map && typeof window.dashboardState.map.invalidateSize === 'function') {
+                    window.dashboardState.map.invalidateSize();
+                }
+                if (mapEl && mapEl._leaflet_map && typeof mapEl._leaflet_map.invalidateSize === 'function') {
                     mapEl._leaflet_map.invalidateSize();
-                } else {
-                    window.dispatchEvent(new Event('resize'));
                 }
+                window.dispatchEvent(new Event('resize'));
             } catch (err) {}
-        }, 150);
-
-        setTimeout(() => {
-            try {
-                if (window.state && window.state.map && typeof window.state.map.invalidateSize === 'function') {
-                    window.state.map.invalidateSize();
-                }
-            } catch (err) {}
-        }, 400);
+        };
+        setTimeout(doInvalidate, 50);
+        setTimeout(doInvalidate, 150);
+        setTimeout(doInvalidate, 350);
+        setTimeout(doInvalidate, 650);
     }
 
     // =========================================================================

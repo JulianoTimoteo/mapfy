@@ -19,20 +19,35 @@
     padding: 0 !important;
     border-radius: 0 !important;
     background: #0f172a !important;
-    display: flex !important;
-    flex-direction: column !important;
     overflow: hidden !important;
 }
 
-/* O elemento div do mapa preenche 100% da viewport */
+/* Esconde cabeçalho original e outros elementos do card no modo tela cheia para evitar sobreposições e corte de altura */
+.map-fullscreen-active > div.flex:not(.map-fullscreen-topbar),
+.map-fullscreen-active > .card-header,
+.map-fullscreen-active > .chart-card-header,
+.map-fullscreen-active > h2,
+.map-fullscreen-active > h3,
+.map-fullscreen-active > h4 {
+    display: none !important;
+}
+
+/* O elemento div do mapa (e qualquer container intermediário) preenche 100% da viewport */
 .map-fullscreen-active > div[id^="map"],
-.map-fullscreen-active .leaflet-container {
+.map-fullscreen-active div[id^="map"],
+.map-fullscreen-active .leaflet-container,
+.map-fullscreen-active > div:has(div[id^="map"]),
+.map-fullscreen-active > div:has(.leaflet-container) {
     position: absolute !important;
     inset: 0 !important;
-    width: 100% !important;
-    height: 100% !important;
+    width: 100vw !important;
+    height: 100vh !important;
     min-height: 100vh !important;
+    max-height: 100vh !important;
     border-radius: 0 !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
     z-index: 1 !important;
 }
 
