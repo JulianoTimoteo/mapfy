@@ -12,6 +12,9 @@
         if (typeof Chart === 'undefined' || !Chart.register) return;
         const universalDataLabelsPlugin = {
             id: 'pitangueiras_universal_datalabels_tpl5s',
+            beforeDraw(chart) {
+                chart._centerTotalDrawn = false;
+            },
             afterDatasetsDraw(chart) {
                 const chartType = chart.config.type;
                 if (chartType !== 'bar' && chartType !== 'doughnut' && chartType !== 'pie') return;
@@ -81,9 +84,15 @@
 
                 // Totalizador no Centro de Gráficos Doughnut
                 if (chartType === 'doughnut') {
+                    const pluginsList = chart.config?.plugins || [];
+                    const hasCustomCenter = pluginsList.some(p => p && (p.id === 'centerText' || p.id === 'donutCenterText' || (typeof p.id === 'string' && p.id.toLowerCase().includes('center'))));
+                    if (hasCustomCenter || chart.options?.plugins?.centerTotal === false || chart.options?.centerTotal === false) return;
+                    if (chart._centerTotalDrawn) return;
+
                     const parent = chart.canvas ? chart.canvas.parentElement : null;
                     const hasHtmlCenter = parent && parent.querySelector('#donutCenterPerc, [id*="CenterPerc"], [id*="centerPerc"], [id*="donutCenter"]');
                     if (!hasHtmlCenter && chart.chartArea) {
+                        chart._centerTotalDrawn = true;
                         let totalSum = 0;
                         chart.data.datasets.forEach(ds => {
                             if (Array.isArray(ds.data)) {

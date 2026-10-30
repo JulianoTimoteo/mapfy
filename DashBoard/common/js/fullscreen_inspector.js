@@ -429,6 +429,9 @@
 
         const universalChartPlugin = {
             id: 'pitangueiras_universal_datalabels',
+            beforeDraw(chart) {
+                chart._centerTotalDrawn = false;
+            },
             afterDatasetsDraw(chart) {
                 const chartType = chart.config.type;
                 if (chartType !== 'bar' && chartType !== 'doughnut' && chartType !== 'pie') return;
@@ -510,6 +513,17 @@
 
                 // 2. Totalizador no Centro de Gráficos Doughnut (Sem poluição nem sobreposição)
                 if (chartType === 'doughnut') {
+                    // 1. Ignora se o gráfico possui plugin customizado de centro (ex: centerText no Arremate e Acabamento)
+                    const pluginsList = chart.config?.plugins || [];
+                    const hasCustomCenter = pluginsList.some(p => p && (p.id === 'centerText' || p.id === 'donutCenterText' || (typeof p.id === 'string' && p.id.toLowerCase().includes('center'))));
+                    if (hasCustomCenter) return;
+
+                    // 2. Ignora se as opções desabilitam o total no centro
+                    if (chart.options?.plugins?.centerTotal === false || chart.options?.centerTotal === false) return;
+
+                    // 3. Prevenção definitiva contra dupla execução por múltiplos plugins no mesmo ciclo
+                    if (chart._centerTotalDrawn) return;
+
                     let totalSum = 0;
                     chart.data.datasets.forEach(ds => {
                         if (Array.isArray(ds.data)) {
@@ -527,7 +541,7 @@
                         // Se JÁ EXISTE overlay HTML no template (ex: subsolagem, abertura_asa):
                         // NUNCA cria caixas duplicadas! Atualiza o elemento de contagem para ser elegante e legível
                         const countEl = htmlCenter.querySelector('#donutCenterCount, [id*="CenterCount"], [id*="centerCount"]');
-                        if (countEl && totalSum > 0) {
+                        if (countEl && totalSum > 0 && !countEl.textContent.includes(' de ')) {
                             countEl.textContent = `${totalSum.toLocaleString('pt-BR')} Total`;
                             countEl.style.fontWeight = '700';
                             countEl.style.marginTop = '2px';
@@ -536,6 +550,7 @@
                         const extraBadge = htmlCenter.querySelector('.donut-center-total-sum');
                         if (extraBadge) extraBadge.remove();
                     } else if (chart.chartArea && totalSum > 0) {
+                        chart._centerTotalDrawn = true;
                         // Se NÃO existe overlay HTML (ex: gráfico de Planta, Soca ou Carreador de Herbicida):
                         // Desenha no centro do canvas com tipografia impecável e proporções calibradas
                         const centerX = (chart.chartArea.left + chart.chartArea.right) / 2;
