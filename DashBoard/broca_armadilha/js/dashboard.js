@@ -907,7 +907,13 @@
         const closeBtn = document.getElementById('modalCloseBtn');
         const closeBottomBtn = document.getElementById('modalCloseBottomBtn');
         const modal = document.getElementById('detailModal');
-        const closeModal = () => modal?.classList.add('hidden');
+        window.fecharModalInspecao = function () {
+            if (modal) {
+                modal.classList.add('hidden');
+                modal.style.display = 'none';
+            }
+        };
+        const closeModal = () => window.fecharModalInspecao();
         if (closeBtn) closeBtn.addEventListener('click', closeModal);
         if (closeBottomBtn) closeBottomBtn.addEventListener('click', closeModal);
         if (modal) {
@@ -915,6 +921,11 @@
                 if (e.target === modal) closeModal();
             });
         }
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && modal && modal.style.display !== 'none' && !modal.classList.contains('hidden')) {
+                window.fecharModalInspecao();
+            }
+        });
 
         const btnExcel = document.getElementById('btnExportExcel');
         const btnCsv = document.getElementById('btnExportCSV');

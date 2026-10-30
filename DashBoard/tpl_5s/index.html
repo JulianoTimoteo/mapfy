@@ -498,14 +498,14 @@
     </div>
 
     <!-- MODAL DE DETALHES DA VISTORIA -->
-    <div id="detailModal" class="fixed inset-0 z-50 hidden modal-backdrop flex items-center justify-center p-4">
+    <div id="detailModal" class="fixed inset-0 z-50 hidden modal-backdrop flex items-center justify-center p-4" onclick="if(event.target === this) window.fecharModalVistoria()">
         <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
             <div class="flex items-center justify-between p-4 border-b border-slate-200 dark:border-slate-700">
                 <div class="flex items-center gap-2">
                     <span class="w-3 h-3 rounded-full bg-emerald-500"></span>
                     <h3 class="text-base font-bold text-slate-900 dark:text-white" id="modalTitle">Vistoria 5S Detalhada</h3>
                 </div>
-                <button id="modalCloseBtn" class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-1">
+                <button id="modalCloseBtn" type="button" onclick="window.fecharModalVistoria()" class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-1 cursor-pointer">
                     <i class="fa-solid fa-xmark text-lg"></i>
                 </button>
             </div>
@@ -515,7 +515,7 @@
             </div>
             
             <div class="p-4 border-t border-slate-200 dark:border-slate-700 flex justify-end">
-                <button id="modalCloseBottomBtn" class="px-4 py-1.5 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-800 dark:text-slate-200 font-semibold text-xs transition">
+                <button id="modalCloseBottomBtn" type="button" onclick="window.fecharModalVistoria()" class="px-4 py-1.5 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-800 dark:text-slate-200 font-semibold text-xs transition cursor-pointer">
                     Fechar
                 </button>
             </div>

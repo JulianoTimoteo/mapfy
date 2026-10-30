@@ -703,19 +703,35 @@
         modal.style.zIndex = '99999';
     };
 
+    window.fecharModalVistoria = function () {
+        const modal = document.getElementById('detailModal');
+        if (modal) {
+            modal.classList.add('hidden');
+            modal.style.display = 'none';
+        }
+    };
+
     function bindEvents() {
         // Fechar Modal
         const modal = document.getElementById('detailModal');
         const btnClose = document.getElementById('modalCloseBtn');
         const btnCloseBottom = document.getElementById('modalCloseBottomBtn');
         [btnClose, btnCloseBottom].forEach(b => {
-            if (b) b.addEventListener('click', () => modal?.classList.add('hidden'));
+            if (b) b.addEventListener('click', (e) => {
+                e.stopPropagation();
+                window.fecharModalVistoria();
+            });
         });
         if (modal) {
             modal.addEventListener('click', (e) => {
-                if (e.target === modal) modal.classList.add('hidden');
+                if (e.target === modal) window.fecharModalVistoria();
             });
         }
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && modal && modal.style.display !== 'none' && !modal.classList.contains('hidden')) {
+                window.fecharModalVistoria();
+            }
+        });
 
         // Filtros
         const onFilterChange = () => {
