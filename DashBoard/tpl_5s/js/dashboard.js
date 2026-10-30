@@ -292,7 +292,7 @@
                     <div><b>Extintor:</b> <span class="font-bold ${r.q07 === 'NOK' ? 'text-red-600' : 'text-emerald-600'}">${r.q07}</span> | <b>EPIs:</b> ${r.q06}</div>
                     ${r.obs ? `<div class="pt-1 border-t text-[11px] text-amber-700 dark:text-amber-300"><b>Obs:</b> ${r.obs}</div>` : ''}
                     <div class="pt-1 text-right">
-                        <button onclick="window.abrirModalVistoria(${r.id})" class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 hover:underline">Ver vistoria completa →</button>
+                        <button type="button" onclick="event.stopPropagation(); window.abrirModalVistoria('${r.id}')" class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 hover:underline">Ver vistoria completa →</button>
                     </div>
                 </div>
             `;
@@ -612,8 +612,15 @@
 
     // --- MODAL DE DETALHES ---
     window.abrirModalVistoria = function (id) {
-        const r = state.allRecords.find(item => item.id === id);
-        if (!r) return;
+        const strId = String(id).trim();
+        let r = (state.allRecords || []).find(item => String(item.id || item.ID || '').trim() === strId);
+        if (!r && window.TPL_5S_DATA) {
+            r = window.TPL_5S_DATA.find(item => String(item.id || item.ID || '').trim() === strId);
+        }
+        if (!r) {
+            console.warn('[TPL 5S] Vistoria não encontrada:', id);
+            return;
+        }
 
         const title = document.getElementById('modalTitle');
         const body = document.getElementById('modalBody');
@@ -683,6 +690,8 @@
         `;
 
         modal.classList.remove('hidden');
+        modal.style.display = 'flex';
+        modal.style.zIndex = '99999';
     };
 
     function bindEvents() {

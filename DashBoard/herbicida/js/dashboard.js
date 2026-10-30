@@ -184,7 +184,7 @@
                     </div>
                     ${r.obs ? `<div class="pt-1 border-t text-[11px] text-amber-700 dark:text-amber-300"><b>Obs:</b> ${r.obs}</div>` : ''}
                     <div class="pt-1 text-right">
-                        <button onclick="window.abrirModalInspecao(${r.id})" class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 hover:underline">Ver ficha completa →</button>
+                        <button type="button" onclick="event.stopPropagation(); window.abrirModalInspecao('${r.id}')" class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 hover:underline">Ver ficha completa →</button>
                     </div>
                 </div>
             `;
@@ -714,7 +714,7 @@
                     </p>
                     <div class="flex items-center justify-between gap-2 mt-2">
                         <div class="flex flex-wrap gap-1">${tagsHtml}</div>
-                        <button onclick="window.abrirModalInspecao(${r.id})" class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 hover:underline">Detalhes →</button>
+                        <button type="button" onclick="event.stopPropagation(); window.abrirModalInspecao('${r.id}')" class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 hover:underline">Detalhes →</button>
                     </div>
                 </div>
             `;
@@ -889,7 +889,7 @@
             const bicoBadge = r.is_nok_bico ? `<span class="badge badge-red">NOK</span>` : (r.limpeza_bicos === 'N / A' ? `<span class="badge badge-slate">N/A</span>` : `<span class="badge badge-emerald">OK</span>`);
 
             return `
-                <tr class="cursor-pointer" onclick="window.abrirModalInspecao(${r.id})">
+                <tr class="cursor-pointer" onclick="window.abrirModalInspecao('${r.id}')">
                     <td class="font-bold text-emerald-600 dark:text-emerald-400">#${r.id}</td>
                     <td class="whitespace-nowrap">${r.data}</td>
                     <td class="font-semibold">${r.fazenda}</td>
@@ -920,8 +920,18 @@
 
     // --- MODAL DE DETALHES ---
     window.abrirModalInspecao = function (id) {
-        const r = state.allRecords.find(x => x.id === id);
-        if (!r) return;
+        const strId = String(id).trim();
+        let r = (state.allRecords || []).find(x => String(x.id || x.ID || '').trim() === strId);
+        if (!r && window.HERBICIDA_DATA) {
+            r = window.HERBICIDA_DATA.find(x => String(x.id || x.ID || '').trim() === strId);
+        }
+        if (!r && state.filteredRecords) {
+            r = state.filteredRecords.find(x => String(x.id || x.ID || '').trim() === strId);
+        }
+        if (!r) {
+            console.warn('[Herbicida] Inspeção não encontrada para ID:', id);
+            return;
+        }
 
         const modal = document.getElementById('detailModal');
         const title = document.getElementById('modalTitle');
@@ -929,9 +939,12 @@
 
         if (!modal || !title || !body) return;
 
-        title.textContent = `Inspeção #${r.id} • Fazenda ${r.fazenda}`;
+        const regId = r.id || r.ID || id;
+        const regFazenda = r.fazenda || r.Fazenda || '-';
+        title.textContent = `Inspeção #${regId} • Fazenda ${regFazenda}`;
 
-        const dtClass = HerbicidaEngine.classifyDeltaT(r.delta_t_num);
+        const dtVal = (r.delta_t_num !== undefined && r.delta_t_num !== null) ? r.delta_t_num : null;
+        const dtClass = HerbicidaEngine.classifyDeltaT(dtVal);
 
         body.innerHTML = `
             <div class="grid grid-cols-2 gap-4">
@@ -1008,6 +1021,8 @@
         `;
 
         modal.classList.remove('hidden');
+        modal.style.display = 'flex';
+        modal.style.zIndex = '99999';
     };
 
     window.filtrarPorEquipamento = function (nome) {
@@ -1144,7 +1159,11 @@
         const closeBtn = document.getElementById('modalCloseBtn');
         const closeBottomBtn = document.getElementById('modalCloseBottomBtn');
         const modal = document.getElementById('detailModal');
-        const closeModal = () => modal?.classList.add('hidden');
+        const closeModal = () => {
+            if (!modal) return;
+            modal.classList.add('hidden');
+            modal.style.display = 'none';
+        };
         if (closeBtn) closeBtn.addEventListener('click', closeModal);
         if (closeBottomBtn) closeBottomBtn.addEventListener('click', closeModal);
         if (modal) {
@@ -1152,6 +1171,11 @@
                 if (e.target === modal) closeModal();
             });
         }
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape' && modal && !modal.classList.contains('hidden')) {
+                closeModal();
+            }
+        });
 
         // Exportações
         const btnExcel = document.getElementById('btnExportExcel');

@@ -224,10 +224,33 @@ DASHBOARD_FOLDER_MAP = {
     "viabilidade_gemas": "Plantio - 09 - Quantidade de Gemas",
 }
 
+DASHBOARD_DIR = BASE_DIR.parent / "DashBoard"
+
 @app.get("/api/v1/dashboard/{report_slug}/data", tags=["Dashboard"])
 def get_dashboard_data(report_slug: str) -> dict[str, Any]:
     slug = report_slug.strip().lower()
     folder_name = DASHBOARD_FOLDER_MAP.get(slug)
+    
+    # 1. Prioridade Máxima: dataset estruturado e validado de DashBoard/<slug>/js/data.js
+    dashboard_js = DASHBOARD_DIR / slug / "js" / "data.js"
+    if dashboard_js.is_file():
+        try:
+            with open(dashboard_js, "r", encoding="utf-8") as f:
+                content = f.read()
+            match = re.search(r'=\s*(\[[\s\S]*\])\s*;?', content)
+            if match:
+                records = json.loads(match.group(1))
+                mtime = datetime.fromtimestamp(dashboard_js.stat().st_mtime).astimezone()
+                return {
+                    "status": "ok",
+                    "slug": report_slug,
+                    "folder": folder_name or slug,
+                    "updated_at": mtime.isoformat(timespec="seconds"),
+                    "total_records": len(records),
+                    "records": records
+                }
+        except Exception as e:
+            logger.warning(f"Erro ao ler data.js de {slug}: {e}")
     
     target_folder = None
     if folder_name:

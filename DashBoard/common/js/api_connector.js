@@ -129,15 +129,31 @@
             // Atualiza estado do Dashboard se compatível
             const st = window.dashboardState || window.state;
             if (st) {
-                if (Array.isArray(st.allRecords) && dataPayload.records.length > 0) {
-                    st.allRecords = dataPayload.records;
-                    if (typeof window.aplicarFiltros === 'function') {
-                        window.aplicarFiltros();
+                const currentArr = Array.isArray(st.allRecords) ? st.allRecords : (Array.isArray(st.rawRecords) ? st.rawRecords : []);
+                const incomingArr = dataPayload.records;
+                
+                let isCompatible = true;
+                if (currentArr.length > 0 && incomingArr.length > 0) {
+                    const curSample = currentArr[0];
+                    const incSample = incomingArr[0];
+                    // Se o estado atual usa 'id' minúsculo e os dados recebidos têm apenas 'ID' maiúsculo sem 'id', rejeita para não quebrar referências
+                    if ('id' in curSample && !('id' in incSample) && ('ID' in incSample)) {
+                        console.warn('[Mapfy API] Formato recebido não normalizado. Preservando dataset estruturado.');
+                        isCompatible = false;
                     }
-                } else if (Array.isArray(st.rawRecords) && dataPayload.records.length > 0) {
-                    st.rawRecords = dataPayload.records;
-                    if (typeof window.applyFiltersAndRender === 'function') {
-                        window.applyFiltersAndRender();
+                }
+
+                if (isCompatible) {
+                    if (Array.isArray(st.allRecords) && dataPayload.records.length > 0) {
+                        st.allRecords = dataPayload.records;
+                        if (typeof window.aplicarFiltros === 'function') {
+                            window.aplicarFiltros();
+                        }
+                    } else if (Array.isArray(st.rawRecords) && dataPayload.records.length > 0) {
+                        st.rawRecords = dataPayload.records;
+                        if (typeof window.applyFiltersAndRender === 'function') {
+                            window.applyFiltersAndRender();
+                        }
                     }
                 }
             }

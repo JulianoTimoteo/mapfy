@@ -245,7 +245,7 @@
                     <div><b>Responsável:</b> ${r.responsavel_display}</div>
                     <div><b>Status:</b> ${r.status} | <b>Score:</b> ${r.score}</div>
                     <div class="pt-1 text-right">
-                        <button onclick="window.abrirModalInspecao(${r.id})" class="text-[11px] font-bold text-amber-600 dark:text-amber-400 hover:underline">Ver ficha completa →</button>
+                        <button type="button" onclick="event.stopPropagation(); window.abrirModalInspecao('${r.id}')" class="text-[11px] font-bold text-amber-600 dark:text-amber-400 hover:underline">Ver ficha completa →</button>
                     </div>
                 </div>
             `;
@@ -695,7 +695,7 @@
             let gravidadeBadge = `<span class="badge" style="background-color: ${r.cor_marcador}20; color: ${r.cor_marcador};">${r.faixa_captura}</span>`;
 
             return `
-                <tr class="cursor-pointer" onclick="window.abrirModalInspecao(${r.id})">
+                <tr class="cursor-pointer" onclick="window.abrirModalInspecao('${r.id}')">
                     <td class="font-bold text-amber-600 dark:text-amber-400">#${r.id}</td>
                     <td class="whitespace-nowrap">${r.data}</td>
                     <td>${etapaBadge}</td>
@@ -718,8 +718,15 @@
 
     // --- MODAL DE DETALHES ---
     window.abrirModalInspecao = function (id) {
-        const r = state.allRecords.find(x => x.id === id);
-        if (!r) return;
+        const strId = String(id).trim();
+        let r = (state.allRecords || []).find(x => String(x.id || x.ID || '').trim() === strId);
+        if (!r && window.BROCA_ARMADILHA_DATA) {
+            r = window.BROCA_ARMADILHA_DATA.find(x => String(x.id || x.ID || '').trim() === strId);
+        }
+        if (!r) {
+            console.warn('[Broca] Armadilha não encontrada:', id);
+            return;
+        }
 
         const modal = document.getElementById('detailModal');
         const title = document.getElementById('modalTitle');
@@ -772,6 +779,8 @@
         `;
 
         modal.classList.remove('hidden');
+        modal.style.display = 'flex';
+        modal.style.zIndex = '99999';
     };
 
     window.filtrarPorResponsavel = function (nome) {
