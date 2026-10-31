@@ -1132,3 +1132,54 @@ body.dark-mode .badge-247-label,
     50% { transform: scale(1.08); filter: brightness(1.35); box-shadow: 0 0 10px rgba(16, 185, 129, 0.6); }
     100% { transform: scale(1); filter: brightness(1); }
 }
+
+
+/* ==========================================================================
+   ALTO CONTRASTE EXECUTIVO: TEXTO NO MODO CLARO É PRETO, NO MODO ESCURO É BRANCO
+   QUEBRA DE TEXTO EM VEZ DE RETICÊNCIAS (COMPUTADOR, NOTEBOOK E CELULAR)
+   ========================================================================== */
+html:not(.dark) {
+    --text-primary: #000000 !important;
+    --text-secondary: #0f172a !important;
+    --text-muted: #1e293b !important;
+}
+
+html:not(.dark) .kpi-title,
+html:not(.dark) .card-title,
+html:not(.dark) .chart-card-title,
+html:not(.dark) label,
+html:not(.dark) .text-slate-500,
+html:not(.dark) .text-slate-600,
+html:not(.dark) .text-gray-500,
+html:not(.dark) .text-gray-600 {
+    color: #0f172a !important;
+}
+
+html.dark,
+body.dark-mode,
+.dark {
+    --text-primary: #ffffff !important;
+    --text-secondary: #f8fafc !important;
+    --text-muted: #e2e8f0 !important;
+}
+
+html.dark .kpi-title,
+html.dark .card-title,
+html.dark .chart-card-title,
+html.dark label,
+html.dark .text-slate-500,
+html.dark .text-slate-400,
+html.dark .text-gray-400 {
+    color: #f8fafc !important;
+}
+
+/* Regra Mandatória: Títulos de KPIs e Cards NUNCA cortam com reticências (...) - quebram linha */
+.kpi-title,
+.card-title,
+.chart-card-title {
+    white-space: normal !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    line-height: 1.25 !important;
+    text-overflow: unset !important;
+}
