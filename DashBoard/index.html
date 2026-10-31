@@ -363,17 +363,17 @@
             <div class="flex flex-wrap items-center gap-2.5 sm:gap-4 text-xs font-mono" style="color: var(--text-secondary);">
                 <div class="flex items-center gap-1.5" title="Borda Verde: Módulo ativo / em foco no momento">
                     <span class="w-3 h-3 rounded-full border-2 border-emerald-500 bg-emerald-500/20 shadow-[0_0_8px_#10b981]"></span>
-                    <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativa (Verde)</span>
+                    <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativa</span>
                 </div>
                 <span>•</span>
                 <div class="flex items-center gap-1.5" title="Borda Laranja: Visitou recentemente ou sincronizado na safra">
                     <span class="w-3 h-3 rounded-full border-2 border-orange-500 bg-orange-500/20 shadow-[0_0_8px_#f97316]"></span>
-                    <span class="font-semibold text-orange-500">Visitou Recentemente (Laranja)</span>
+                    <span class="font-semibold text-orange-500">Visitou Recentemente</span>
                 </div>
                 <span>•</span>
                 <div class="flex items-center gap-1.5" title="Borda Azul: Módulo já visitado e consultado">
                     <span class="w-3 h-3 rounded-full border-2 border-sky-400 bg-sky-400/20 shadow-[0_0_8px_#38bdf8]"></span>
-                    <span class="font-semibold text-sky-400"><span id="countVisited">0</span> Visitadas (Azul)</span>
+                    <span class="font-semibold text-sky-400"><span id="countVisited">0</span> Visitadas</span>
                     <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-1 cursor-pointer" title="Zerar histórico local de relatórios visitados">✕ Limpar</button>
                 </div>
             </div>
@@ -496,20 +496,28 @@
 
                 <!-- NÓ CENTRAL / HUD INTERATIVO COM BATIMENTO CARDÍACO (HEARTBEAT OPERACIONAL) -->
                 <div id="centerHud"
-                     class="w-36 h-36 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-full border-2 flex flex-col items-center justify-center text-center p-2 sm:p-3 md:p-5 transition-all duration-300 z-10 relative cursor-pointer"
+                     class="w-36 h-36 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-full border-2 flex flex-col items-center justify-center text-center p-2 sm:p-3 md:p-5 transition-all duration-300 z-10 relative cursor-pointer overflow-hidden group/hud"
                      style="background: var(--center-hud-bg); border-color: var(--center-hud-border); box-shadow: var(--center-hud-shadow); color: var(--text-primary);">
                     
-                    <!-- Estado Padrão do Centro -->
-                    <div id="centerDefault" class="space-y-0.5 sm:space-y-1 flex flex-col items-center justify-center p-1 w-full">
-                        <div class="w-full flex items-center justify-center py-0.5">
-                            <div class="px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-xl sm:rounded-2xl bg-white shadow-sm border border-slate-200/90 flex items-center justify-center">
-                                <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos"
-                                     class="h-5 sm:h-7 md:h-9 w-auto object-contain">
-                            </div>
+                    <!-- Estado Padrão do Centro: Logo Usando o Círculo Total com Escritas Sobrepostas -->
+                    <div id="centerDefault" class="relative z-10 flex flex-col items-center justify-center w-full h-full p-2 select-none">
+                        <!-- Logo da Usina Usando o Círculo Total -->
+                        <div class="absolute inset-0 w-full h-full flex items-center justify-center p-3 sm:p-5 pointer-events-none -z-10 overflow-hidden rounded-full">
+                            <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos"
+                                 class="w-full h-full object-contain opacity-40 dark:opacity-40 transition-transform duration-500 group-hover/hud:scale-105 filter drop-shadow">
+                            <div class="absolute inset-0 rounded-full bg-gradient-to-b from-white/35 via-transparent to-white/45 dark:from-slate-950/45 dark:via-slate-950/20 dark:to-slate-950/60 backdrop-blur-[0.5px]"></div>
                         </div>
-                        <div class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-tight font-mono text-emerald-600 dark:text-emerald-400 leading-none">21,907</div>
-                        <div class="text-[9px] sm:text-[10px] md:text-xs font-bold uppercase tracking-wider text-slate-800 dark:text-slate-200">Registros Consolidados</div>
-                        <div class="text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold">17 Fases • Safra 2026</div>
+
+                        <!-- Escritas em Cima da Logo com Alto Contraste -->
+                        <div class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight font-mono text-emerald-600 dark:text-emerald-400 leading-none drop-shadow-[0_2px_8px_rgba(0,0,0,0.65)]">
+                            17
+                        </div>
+                        <div class="text-[9px] sm:text-[10px] md:text-xs lg:text-sm font-extrabold uppercase tracking-wider text-slate-900 dark:text-slate-100 drop-shadow-[0_2px_6px_rgba(0,0,0,0.7)] mt-0.5 sm:mt-1 px-1">
+                            Relatórios Consolidados
+                        </div>
+                        <div class="mt-1 sm:mt-1.5 px-2 sm:px-2.5 py-0.5 rounded-full bg-white/85 dark:bg-slate-900/85 border border-emerald-500/40 shadow-sm text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-700 dark:text-emerald-300 font-bold">
+                            +21k Registros - Safra 2026
+                        </div>
                     </div>
 
                     <!-- Estado Ativo no Hover/Tap (Preenchido dinamicamente via JS) -->
@@ -633,12 +641,15 @@
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <ellipse cx="23" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(-15 23 28)"/>
-        <ellipse cx="41" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(15 41 28)"/>
-        <circle cx="23" cy="28" r="3" fill="var(--icon-cutout)"/>
-        <circle cx="41" cy="28" r="3" fill="var(--icon-cutout)"/>
-        <path d="M8 48c8-1 16-16 24-16s16 15 24 16" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
-        <circle cx="32" cy="50" r="3" fill="#10B981"/>
+        <!-- Haste e Asas do Sulcador -->
+        <rect x="29" y="8" width="6" height="15" rx="2" fill="var(--icon-main)"/>
+        <path d="M20 22h24l-8 12h-8l-8-12z" fill="var(--icon-main)"/>
+        <path d="M29 32l3 7 3-7h-6z" fill="#10B981"/>
+        <!-- Perfil de Vala e Camalhão no Solo -->
+        <path d="M8 46c7-3 14-12 24-12s17 9 24 12" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round"/>
+        <path d="M12 55c6-2 12-8 20-8s14 6 20 8" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+        <line x1="32" y1="40" x2="32" y2="47" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 2"/>
+        <circle cx="32" cy="47" r="2.5" fill="#10B981"/>
     </svg>
                 </div>
             </div>
@@ -674,13 +685,18 @@
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <rect x="27" y="8" width="10" height="20" rx="2" fill="var(--icon-main)"/>
-        <path d="M22 28h20l-6 12h-8l-6-12z" fill="var(--icon-main)"/>
-        <rect x="25" y="6" width="14" height="4" rx="1" fill="var(--icon-main)"/>
-        <path d="M32 40L14 56h36L32 40z" fill="#10B981" fill-opacity="0.25" stroke="#10B981" stroke-width="2"/>
-        <circle cx="24" cy="50" r="2" fill="#10B981"/>
-        <circle cx="32" cy="48" r="2.5" fill="#10B981"/>
-        <circle cx="40" cy="50" r="2" fill="#10B981"/>
+        <!-- Corpo Técnico do Bico Pulverizador -->
+        <rect x="28" y="7" width="8" height="8" rx="2" fill="var(--icon-main)"/>
+        <path d="M24 15h16v6l-4 6h-8l-4-6v-6z" fill="var(--icon-main)"/>
+        <rect x="29" y="27" width="6" height="5" rx="1.5" fill="#10B981"/>
+        <circle cx="32" cy="30" r="1.5" fill="var(--icon-cutout)"/>
+        <!-- Leque de Aplicação Dosada -->
+        <path d="M32 32L12 54h40L32 32z" fill="#10B981" fill-opacity="0.22" stroke="#10B981" stroke-width="1.8" stroke-linejoin="round"/>
+        <circle cx="22" cy="48" r="2" fill="#10B981"/>
+        <circle cx="32" cy="44" r="2.5" fill="#10B981"/>
+        <circle cx="42" cy="48" r="2" fill="#10B981"/>
+        <circle cx="27" cy="52" r="1.5" fill="#10B981"/>
+        <circle cx="37" cy="52" r="1.5" fill="#10B981"/>
     </svg>
                 </div>
             </div>
@@ -924,9 +940,18 @@
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <path d="M32 10l18 8v16c0 14-18 22-18 22S14 48 14 34V18l18-8z" fill="var(--icon-main)"/>
-        <path d="M32 16l12 6v12c0 9-12 15-12 15s-12-6-12-15V22l12-6z" fill="var(--icon-cutout)"/>
-        <path d="M32 24v16m-8-8h16" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+        <!-- Corpo Técnico do Bico Pulverizador -->
+        <rect x="28" y="7" width="8" height="8" rx="2" fill="var(--icon-main)"/>
+        <path d="M24 15h16v6l-4 6h-8l-4-6v-6z" fill="var(--icon-main)"/>
+        <rect x="29" y="27" width="6" height="5" rx="1.5" fill="#10B981"/>
+        <circle cx="32" cy="30" r="1.5" fill="var(--icon-cutout)"/>
+        <!-- Leque de Aplicação Dosada -->
+        <path d="M32 32L12 54h40L32 32z" fill="#10B981" fill-opacity="0.22" stroke="#10B981" stroke-width="1.8" stroke-linejoin="round"/>
+        <circle cx="22" cy="48" r="2" fill="#10B981"/>
+        <circle cx="32" cy="44" r="2.5" fill="#10B981"/>
+        <circle cx="42" cy="48" r="2" fill="#10B981"/>
+        <circle cx="27" cy="52" r="1.5" fill="#10B981"/>
+        <circle cx="37" cy="52" r="1.5" fill="#10B981"/>
     </svg>
                 </div>
             </div>
@@ -1083,10 +1108,17 @@
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <path d="M32 10L10 50h44L32 10z" fill="var(--icon-main)"/>
-        <path d="M32 18L16 46h32L32 18z" fill="var(--icon-cutout)"/>
-        <circle cx="32" cy="32" r="5" fill="#10B981"/>
-        <ellipse cx="32" cy="34" rx="4" ry="7" fill="#10B981"/>
+        <!-- Gancho de Suspensão no Canavial -->
+        <path d="M32 6v8m0 0a4 4 0 01-4-4" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round"/>
+        <!-- Prisma Triangular da Armadilha Delta -->
+        <path d="M32 14L8 46h48L32 14z" fill="var(--icon-main)" fill-opacity="0.15" stroke="var(--icon-main)" stroke-width="2.5" stroke-linejoin="round"/>
+        <path d="M14 46l18-28 18 28" stroke="var(--icon-main)" stroke-width="1.5"/>
+        <path d="M8 46h48v4H8v-4z" fill="var(--icon-main)"/>
+        <!-- Mariposa da Broca Capturada -->
+        <ellipse cx="32" cy="36" rx="2.5" ry="6" fill="#10B981"/>
+        <path d="M32 34c-6-5-12-3-13 4 3 2 9 0 13-2z" fill="#10B981"/>
+        <path d="M32 34c6-5 12-3 13 4-3 2-9 0-13-2z" fill="#10B981"/>
+        <path d="M31 31c-2-3-4-4-6-4m7 4c2-3 4-4 6-4" stroke="#10B981" stroke-width="1.2" stroke-linecap="round"/>
     </svg>
                 </div>
             </div>
@@ -1122,13 +1154,24 @@
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <circle cx="18" cy="46" r="8" fill="var(--icon-main)"/>
-        <circle cx="46" cy="44" r="12" fill="var(--icon-main)"/>
-        <circle cx="18" cy="46" r="3" fill="var(--icon-cutout)"/>
-        <circle cx="46" cy="44" r="4" fill="var(--icon-cutout)"/>
-        <path d="M18 46h18v-8l6-14H30l-4 12h-8v10z" fill="var(--icon-main)"/>
-        <circle cx="46" cy="18" r="10" fill="#10B981"/>
-        <path d="M41 18l3 3 8-8" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Cabine Frontal do Veículo Pesado -->
+        <rect x="14" y="16" width="36" height="34" rx="6" fill="var(--icon-main)"/>
+        <!-- Para-brisa Técnico -->
+        <rect x="18" y="20" width="28" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <line x1="32" y1="20" x2="32" y2="32" stroke="var(--icon-main)" stroke-width="1.5"/>
+        <!-- Grade Frontal do Radiador -->
+        <path d="M22 36h20m-20 3h20m-20 3h20" stroke="var(--icon-cutout)" stroke-width="1.8" stroke-linecap="round"/>
+        <!-- Faróis de Conformidade Esmeralda -->
+        <rect x="17" y="44" width="6" height="3.5" rx="1.5" fill="#10B981"/>
+        <rect x="41" y="44" width="6" height="3.5" rx="1.5" fill="#10B981"/>
+        <!-- Retrovisores Laterais -->
+        <path d="M14 24h-4v6h4m36-6h4v6h-4" stroke="var(--icon-main)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Prancheta Superior de Auditoria / Checklist -->
+        <rect x="25" y="8" width="14" height="6" rx="2" fill="#10B981"/>
+        <circle cx="32" cy="11" r="1.5" fill="var(--icon-cutout)"/>
+        <!-- Rodas Inferiores Robustas -->
+        <rect x="12" y="48" width="5" height="4" rx="1.5" fill="var(--icon-main)"/>
+        <rect x="47" y="48" width="5" height="4" rx="1.5" fill="var(--icon-main)"/>
     </svg>
                 </div>
             </div>
@@ -1493,12 +1536,15 @@
             <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
                 <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <ellipse cx="23" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(-15 23 28)"/>
-        <ellipse cx="41" cy="28" rx="10" ry="18" fill="var(--icon-main)" transform="rotate(15 41 28)"/>
-        <circle cx="23" cy="28" r="3" fill="var(--icon-cutout)"/>
-        <circle cx="41" cy="28" r="3" fill="var(--icon-cutout)"/>
-        <path d="M8 48c8-1 16-16 24-16s16 15 24 16" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
-        <circle cx="32" cy="50" r="3" fill="#10B981"/>
+        <!-- Haste e Asas do Sulcador -->
+        <rect x="29" y="8" width="6" height="15" rx="2" fill="var(--icon-main)"/>
+        <path d="M20 22h24l-8 12h-8l-8-12z" fill="var(--icon-main)"/>
+        <path d="M29 32l3 7 3-7h-6z" fill="#10B981"/>
+        <!-- Perfil de Vala e Camalhão no Solo -->
+        <path d="M8 46c7-3 14-12 24-12s17 9 24 12" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round"/>
+        <path d="M12 55c6-2 12-8 20-8s14 6 20 8" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+        <line x1="32" y1="40" x2="32" y2="47" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 2"/>
+        <circle cx="32" cy="47" r="2.5" fill="#10B981"/>
     </svg>
                 </div>
             </div>
@@ -1537,13 +1583,18 @@
             <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
                 <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <rect x="27" y="8" width="10" height="20" rx="2" fill="var(--icon-main)"/>
-        <path d="M22 28h20l-6 12h-8l-6-12z" fill="var(--icon-main)"/>
-        <rect x="25" y="6" width="14" height="4" rx="1" fill="var(--icon-main)"/>
-        <path d="M32 40L14 56h36L32 40z" fill="#10B981" fill-opacity="0.25" stroke="#10B981" stroke-width="2"/>
-        <circle cx="24" cy="50" r="2" fill="#10B981"/>
-        <circle cx="32" cy="48" r="2.5" fill="#10B981"/>
-        <circle cx="40" cy="50" r="2" fill="#10B981"/>
+        <!-- Corpo Técnico do Bico Pulverizador -->
+        <rect x="28" y="7" width="8" height="8" rx="2" fill="var(--icon-main)"/>
+        <path d="M24 15h16v6l-4 6h-8l-4-6v-6z" fill="var(--icon-main)"/>
+        <rect x="29" y="27" width="6" height="5" rx="1.5" fill="#10B981"/>
+        <circle cx="32" cy="30" r="1.5" fill="var(--icon-cutout)"/>
+        <!-- Leque de Aplicação Dosada -->
+        <path d="M32 32L12 54h40L32 32z" fill="#10B981" fill-opacity="0.22" stroke="#10B981" stroke-width="1.8" stroke-linejoin="round"/>
+        <circle cx="22" cy="48" r="2" fill="#10B981"/>
+        <circle cx="32" cy="44" r="2.5" fill="#10B981"/>
+        <circle cx="42" cy="48" r="2" fill="#10B981"/>
+        <circle cx="27" cy="52" r="1.5" fill="#10B981"/>
+        <circle cx="37" cy="52" r="1.5" fill="#10B981"/>
     </svg>
                 </div>
             </div>
@@ -1803,9 +1854,18 @@
             <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
                 <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <path d="M32 10l18 8v16c0 14-18 22-18 22S14 48 14 34V18l18-8z" fill="var(--icon-main)"/>
-        <path d="M32 16l12 6v12c0 9-12 15-12 15s-12-6-12-15V22l12-6z" fill="var(--icon-cutout)"/>
-        <path d="M32 24v16m-8-8h16" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+        <!-- Corpo Técnico do Bico Pulverizador -->
+        <rect x="28" y="7" width="8" height="8" rx="2" fill="var(--icon-main)"/>
+        <path d="M24 15h16v6l-4 6h-8l-4-6v-6z" fill="var(--icon-main)"/>
+        <rect x="29" y="27" width="6" height="5" rx="1.5" fill="#10B981"/>
+        <circle cx="32" cy="30" r="1.5" fill="var(--icon-cutout)"/>
+        <!-- Leque de Aplicação Dosada -->
+        <path d="M32 32L12 54h40L32 32z" fill="#10B981" fill-opacity="0.22" stroke="#10B981" stroke-width="1.8" stroke-linejoin="round"/>
+        <circle cx="22" cy="48" r="2" fill="#10B981"/>
+        <circle cx="32" cy="44" r="2.5" fill="#10B981"/>
+        <circle cx="42" cy="48" r="2" fill="#10B981"/>
+        <circle cx="27" cy="52" r="1.5" fill="#10B981"/>
+        <circle cx="37" cy="52" r="1.5" fill="#10B981"/>
     </svg>
                 </div>
             </div>
@@ -1972,10 +2032,17 @@
             <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
                 <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <path d="M32 10L10 50h44L32 10z" fill="var(--icon-main)"/>
-        <path d="M32 18L16 46h32L32 18z" fill="var(--icon-cutout)"/>
-        <circle cx="32" cy="32" r="5" fill="#10B981"/>
-        <ellipse cx="32" cy="34" rx="4" ry="7" fill="#10B981"/>
+        <!-- Gancho de Suspensão no Canavial -->
+        <path d="M32 6v8m0 0a4 4 0 01-4-4" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round"/>
+        <!-- Prisma Triangular da Armadilha Delta -->
+        <path d="M32 14L8 46h48L32 14z" fill="var(--icon-main)" fill-opacity="0.15" stroke="var(--icon-main)" stroke-width="2.5" stroke-linejoin="round"/>
+        <path d="M14 46l18-28 18 28" stroke="var(--icon-main)" stroke-width="1.5"/>
+        <path d="M8 46h48v4H8v-4z" fill="var(--icon-main)"/>
+        <!-- Mariposa da Broca Capturada -->
+        <ellipse cx="32" cy="36" rx="2.5" ry="6" fill="#10B981"/>
+        <path d="M32 34c-6-5-12-3-13 4 3 2 9 0 13-2z" fill="#10B981"/>
+        <path d="M32 34c6-5 12-3 13 4-3 2-9 0-13-2z" fill="#10B981"/>
+        <path d="M31 31c-2-3-4-4-6-4m7 4c2-3 4-4 6-4" stroke="#10B981" stroke-width="1.2" stroke-linecap="round"/>
     </svg>
                 </div>
             </div>
@@ -2014,13 +2081,24 @@
             <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
                 <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
-        <circle cx="18" cy="46" r="8" fill="var(--icon-main)"/>
-        <circle cx="46" cy="44" r="12" fill="var(--icon-main)"/>
-        <circle cx="18" cy="46" r="3" fill="var(--icon-cutout)"/>
-        <circle cx="46" cy="44" r="4" fill="var(--icon-cutout)"/>
-        <path d="M18 46h18v-8l6-14H30l-4 12h-8v10z" fill="var(--icon-main)"/>
-        <circle cx="46" cy="18" r="10" fill="#10B981"/>
-        <path d="M41 18l3 3 8-8" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Cabine Frontal do Veículo Pesado -->
+        <rect x="14" y="16" width="36" height="34" rx="6" fill="var(--icon-main)"/>
+        <!-- Para-brisa Técnico -->
+        <rect x="18" y="20" width="28" height="12" rx="3" fill="var(--icon-cutout)"/>
+        <line x1="32" y1="20" x2="32" y2="32" stroke="var(--icon-main)" stroke-width="1.5"/>
+        <!-- Grade Frontal do Radiador -->
+        <path d="M22 36h20m-20 3h20m-20 3h20" stroke="var(--icon-cutout)" stroke-width="1.8" stroke-linecap="round"/>
+        <!-- Faróis de Conformidade Esmeralda -->
+        <rect x="17" y="44" width="6" height="3.5" rx="1.5" fill="#10B981"/>
+        <rect x="41" y="44" width="6" height="3.5" rx="1.5" fill="#10B981"/>
+        <!-- Retrovisores Laterais -->
+        <path d="M14 24h-4v6h4m36-6h4v6h-4" stroke="var(--icon-main)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <!-- Prancheta Superior de Auditoria / Checklist -->
+        <rect x="25" y="8" width="14" height="6" rx="2" fill="#10B981"/>
+        <circle cx="32" cy="11" r="1.5" fill="var(--icon-cutout)"/>
+        <!-- Rodas Inferiores Robustas -->
+        <rect x="12" y="48" width="5" height="4" rx="1.5" fill="var(--icon-main)"/>
+        <rect x="47" y="48" width="5" height="4" rx="1.5" fill="var(--icon-main)"/>
     </svg>
                 </div>
             </div>
