@@ -183,7 +183,7 @@
     /**
      * Inicialização no carregamento da página
      */
-    function _bootstrapApp() () => {
+    function _bootstrapApp() {
         initTheme();
         initData();
         initUI();
@@ -201,7 +201,7 @@
      * Gerenciamento de Tema (Claro / Escuro)
      */
     function initTheme() {
-        const savedTheme = localStorage.getItem('mapfy_theme') || 'dark';
+        const savedTheme = localStorage.getItem('mapfy_theme') || localStorage.getItem('pitangueiras_theme') || 'dark';
         if (savedTheme === 'light') {
             document.documentElement.classList.remove('dark');
         } else {
@@ -209,19 +209,24 @@
         }
         updateThemeBtnUI();
 
-        const btn = document.getElementById('themeToggleBtn');
-        if (btn) {
+        document.querySelectorAll('#themeToggleBtn, #themeToggleBtnToolbar, .theme-toggle-btn').forEach(btn => {
             btn.addEventListener('click', () => {
                 const isDark = document.documentElement.classList.toggle('dark');
                 localStorage.setItem('mapfy_theme', isDark ? 'dark' : 'light');
+                localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
                 updateThemeBtnUI();
                 updateChartsTheme();
             });
-        }
+        });
     }
 
     function updateThemeBtnUI() {
         const isDark = document.documentElement.classList.contains('dark');
+        const iconToolbar = document.getElementById('themeIconToolbar');
+        const labelToolbar = document.getElementById('themeLabelToolbar');
+        if (iconToolbar) iconToolbar.innerText = isDark ? '🌙' : '☀️';
+        if (labelToolbar) labelToolbar.innerText = isDark ? 'Escuro' : 'Claro';
+
         const icon = document.getElementById('themeIcon');
         const label = document.getElementById('themeLabel');
         if (icon) icon.innerText = isDark ? '🌙' : '☀️';

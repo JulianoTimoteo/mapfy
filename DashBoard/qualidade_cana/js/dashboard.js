@@ -184,7 +184,7 @@
     window.dashboardState = state;
     window.state = state;
 
-    function _bootstrapApp() () => {
+    function _bootstrapApp() {
         initTheme();
         initData();
         initDropdowns();
@@ -201,28 +201,35 @@
     }
 
     // 1. Gerenciamento de Tema
-    function initTheme() {
-        const saved = localStorage.getItem('mapfy_theme') || 'dark';
+        function initTheme() {
+        const saved = localStorage.getItem('mapfy_theme') || localStorage.getItem('pitangueiras_theme') || 'dark';
         if (saved === 'light') {
             document.documentElement.classList.remove('dark');
-            const icon = document.getElementById('themeIcon');
-            if (icon) icon.innerText = '☀️';
         } else {
             document.documentElement.classList.add('dark');
-            const icon = document.getElementById('themeIcon');
-            if (icon) icon.innerText = '🌙';
         }
+        updateThemeUI();
 
-        const themeBtn = document.getElementById('themeToggleBtn') || document.getElementById('themeToggle');
-        if (themeBtn) {
-            themeBtn.addEventListener('click', () => {
+        document.querySelectorAll('#themeToggleBtn, #themeToggleBtnToolbar, #themeToggle, .theme-toggle-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
                 const isDark = document.documentElement.classList.toggle('dark');
                 localStorage.setItem('mapfy_theme', isDark ? 'dark' : 'light');
-                const icon = document.getElementById('themeIcon');
-                if (icon) icon.innerText = isDark ? '🌙' : '☀️';
+                localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
+                updateThemeUI();
                 recreateCharts();
             });
-        }
+        });
+    }
+
+    function updateThemeUI() {
+        const isDark = document.documentElement.classList.contains('dark');
+        const iconToolbar = document.getElementById('themeIconToolbar');
+        const labelToolbar = document.getElementById('themeLabelToolbar');
+        if (iconToolbar) iconToolbar.innerText = isDark ? '🌙' : '☀️';
+        if (labelToolbar) labelToolbar.innerText = isDark ? 'Escuro' : 'Claro';
+
+        const icon = document.getElementById('themeIcon');
+        if (icon) icon.innerText = isDark ? '🌙' : '☀️';
     }
 
     // 2. Inicialização dos Dados

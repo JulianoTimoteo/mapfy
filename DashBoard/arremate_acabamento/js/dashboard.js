@@ -188,7 +188,7 @@
     /**
      * Inicialização do Sistema
      */
-    function _bootstrapApp() () => {
+    function _bootstrapApp() {
         initTheme();
         initData();
         initMap();

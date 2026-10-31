@@ -159,10 +159,17 @@
                         <span>📄</span>
                         <span class="hidden lg:inline">CSV</span>
                     </button>
-                    <button onclick="window.print()" class="px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm"
+                    <button onclick="window.print()" class="px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm whitespace-nowrap cursor-pointer"
                             style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
                             title="Imprimir relatório executivo / Gerar PDF">
                         <span>🖨️</span>
+                        <span>Imprimir</span>
+                    </button>
+                    <button id="themeToggleBtnToolbar" type="button" class="theme-toggle-btn px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm whitespace-nowrap cursor-pointer"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Alternar entre modo Claro e Escuro">
+                        <span id="themeIconToolbar">🌙</span>
+                        <span id="themeLabelToolbar">Escuro</span>
                     </button>
                 </div>
 

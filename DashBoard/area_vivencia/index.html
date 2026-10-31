@@ -116,80 +116,99 @@
         <!-- ======================================================== -->
         <section id="filterSection" class="p-5 rounded-2xl border shadow-sm transition-colors"
                  style="background: var(--bg-card); border-color: var(--border-color);">
+            
+            <!-- Cabeçalho do Card: Título e Limpar Filtros -->
             <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
                  style="border-color: var(--border-color);">
                 <div class="flex items-center gap-2">
-                    <span class="text-sm">🔍</span>
+                    <span class="text-base">🔍</span>
                     <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Filtros Globais</h2>
+                    <span class="text-[11px] font-medium text-[var(--text-muted)] hidden md:inline">• Área de Vivência • Safra 2026</span>
                 </div>
+                <button id="btnClearFilters" type="button"
+                        class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-transparent hover:border-rose-200 dark:hover:border-rose-900 cursor-pointer"
+                        title="Limpar todos os filtros aplicados e restaurar visão da safra">
+                    <span>↺</span> <span>Limpar Filtros</span>
+                </button>
+            </div>
+
+            <!-- Toolbar Executiva: Filtro Temporal (Safra, Última Data, Hoje) + Ações (CSV, Imprimir, Tema) -->
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
+                 style="background: var(--bg-kpi); border-color: var(--border-color);">
                 
-                <div class="flex flex-wrap items-center gap-2 sm:gap-3">
-                    <!-- Seletor Rápido de Período Temporal (Diferenciação Estrita do Selecionado) -->
-                <div class="period-segmented-group shadow-sm">
-                    <!-- Botão Safra Completa -->
-                    <button id="btnAllDates" class="period-toggle-btn active" data-period="all"
-                            title="Exibir todo o histórico da safra (347 inspeções)">
-                        <span>🌐</span>
-                        <span>Safra Completa</span>
-                        <span class="period-badge">347</span>
-                    </button>
+                <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
+                <div class="flex items-center gap-2">
+                    <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
+                    <div class="period-segmented-group shadow-sm">
+                        <!-- Botão Safra Completa -->
+                        <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
+                                title="Exibir todo o histórico da safra (347 inspeções)">
+                            <span>🌐</span>
+                            <span>Safra Completa</span>
+                            <span class="period-badge" id="badgeAll">347</span>
+                        </button>
 
-                    <!-- Botão Última Data -->
-                    <button id="btnLatestDate" class="period-toggle-btn" data-period="latest"
-                            title="Filtrar pela última data com inspeções registradas na base">
-                        <span>📅</span>
-                        <span>Última Data</span>
-                        <span class="period-badge" id="latestDateBadge">29/10</span>
-                    </button>
+                        <!-- Botão Última Data -->
+                        <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
+                                title="Filtrar pela última data com inspeções registradas na base">
+                            <span>📅</span>
+                            <span>Última Data</span>
+                            <span class="period-badge" id="latestDateBadge">29/10</span>
+                        </button>
 
-                    <!-- Botão Hoje -->
-                    <button id="btnToday" class="period-toggle-btn" data-period="today"
-                            title="Verificar inspeções registradas na data de hoje">
-                        <span>📆</span>
-                        <span>Hoje</span>
-                    </button>
+                        <!-- Botão Hoje -->
+                        <button id="btnToday" type="button" class="period-toggle-btn" data-period="today"
+                                title="Verificar inspeções registradas na data de hoje">
+                            <span>📆</span>
+                            <span>Hoje</span>
+                        </button>
+                    </div>
                 </div>
 
-                <!-- Exportar CSV -->
-                <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm">
-                    <span>📥</span>
-                    <span class="hidden sm:inline">Exportar CSV</span>
-                </button>
+                <!-- Bloco Direito: Ferramentas Operacionais Executivas -->
+                <div class="flex items-center gap-2 flex-wrap">
+                    <!-- Exportar CSV -->
+                    <button id="btnExportCSV" type="button"
+                            class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm whitespace-nowrap cursor-pointer"
+                            title="Exportar inspeções filtradas em formato CSV">
+                        <span>📥</span>
+                        <span>Exportar CSV</span>
+                    </button>
 
-                <!-- Imprimir Relatório -->
-                <button id="btnPrintReport" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all"
-                        style="background: var(--bg-card); border-color: var(--border-color);"
-                        title="Imprimir relatório executivo para A4/PDF">
-                    <span>🖨</span>
-                </button>
+                    <!-- Imprimir Relatório -->
+                    <button id="btnPrintReport" type="button"
+                            class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
+                            style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Imprimir relatório executivo para A4/PDF">
+                        <span>🖨️</span>
+                        <span>Imprimir</span>
+                    </button>
 
-                <!-- Toggle Tema Claro/Escuro -->
-                <button id="themeToggleBtn" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all"
-                        style="background: var(--bg-card); border-color: var(--border-color);"
-                        title="Alternar entre modo Claro e Escuro">
-                    <span id="themeIcon">🌙</span>
-                    <span id="themeLabel" class="hidden sm:inline">Escuro</span>
-                </button>
-            </div>
-        </div>
-
-        <!-- Barra de Contexto Ativo (Destaque do Período Selecionado) -->
-        <div class="border-t px-4 sm:px-8 py-2 text-xs flex flex-wrap items-center justify-between gap-3"
-             style="background: var(--bg-kpi); border-color: var(--border-color);">
-            <div class="flex items-center gap-2">
-                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
-                <span class="text-[var(--text-muted)] font-medium">Período Selecionado:</span>
-                <span id="currentDateDisplay" class="font-bold text-emerald-500 font-mono">🌐 Safra Completa (347 inspeções • 19/06/2026 a 29/10/2026)</span>
-                <span class="text-[var(--text-muted)]">•</span>
-                <span id="currentCountDisplay" class="font-mono text-[var(--text-secondary)] font-semibold">347 inspeções</span>
-            </div>
-            <div class="flex items-center gap-2 text-[var(--text-muted)] font-mono text-[11px]">
-                <span>Última Sincronização Mapfy:</span>
-                <span id="lastSyncDate" class="text-[var(--text-primary)] font-semibold">29/10/2026 08:32 (ID: 4015625)</span>
+                    <!-- Alternar Tema Claro / Escuro -->
+                    <button id="themeToggleBtnToolbar" type="button"
+                            class="theme-toggle-btn btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
+                            style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Alternar entre modo Claro e Escuro">
+                        <span id="themeIconToolbar">🌙</span>
+                        <span id="themeLabelToolbar">Escuro</span>
+                    </button>
                 </div>
-                                <button id="btnClearFilters" class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1">
-                    <span>↺</span> Limpar Filtros
-                </button>
+            </div>
+
+            <!-- Barra de Contexto Ativo (Destaque do Período Selecionado) -->
+            <div class="rounded-xl px-4 py-2 text-xs flex flex-wrap items-center justify-between gap-3 mb-4 border"
+                 style="background: var(--bg-kpi); border-color: var(--border-color);">
+                <div class="flex items-center gap-2">
+                    <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                    <span class="text-[var(--text-muted)] font-medium">Período Selecionado:</span>
+                    <span id="currentDateDisplay" class="font-bold text-emerald-500 font-mono">Carregando...</span>
+                    <span class="text-[var(--text-muted)]">•</span>
+                    <span id="currentCountDisplay" class="font-mono text-[var(--text-secondary)] font-semibold">0 inspeções</span>
+                </div>
+                <div class="flex items-center gap-2 text-[var(--text-muted)] font-mono text-[11px]">
+                    <span>Última Sincronização Mapfy:</span>
+                    <span id="lastSyncDate" class="text-[var(--text-primary)] font-semibold">-</span>
+                </div>
             </div>
 
             <!-- Grid de Controles de Filtros -->

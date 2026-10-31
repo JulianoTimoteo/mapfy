@@ -180,7 +180,7 @@
     window.state = state;
 
     // Inicialização do Sistema
-    function _bootstrapApp() () => {
+    function _bootstrapApp() {
         initTheme();
         initData();
         initFilters();
@@ -201,29 +201,41 @@
 
     // 1. Gerenciamento de Tema
     function initTheme() {
-        const savedTheme = localStorage.getItem('pitangueiras_theme') || 'dark';
+        const savedTheme = localStorage.getItem('pitangueiras_theme') || localStorage.getItem('mapfy_theme') || 'dark';
         if (savedTheme === 'light') {
             document.documentElement.classList.remove('dark');
-            (document.getElementById('themeIcon') && (document.getElementById('themeIcon').innerText = '☀️'));
         } else {
             document.documentElement.classList.add('dark');
-            (document.getElementById('themeIcon') && (document.getElementById('themeIcon').innerText = '🌙'));
         }
+        updateThemeUI();
 
-        (document.getElementById('themeToggleBtn') || document.getElementById('themeToggle'))?.addEventListener('click', () => {
-            const isDark = document.documentElement.classList.toggle('dark');
-            localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
-            (document.getElementById('themeIcon') && (document.getElementById('themeIcon').innerText = isDark ? '🌙' : '☀️'));
-            if (state.charts.evolution) {
-                state.charts.evolution.destroy();
-                state.charts.donut.destroy();
-                state.charts.histogram.destroy();
-                state.charts.frentes.destroy();
-                initCharts();
-        initEvolutionFilter();
-                updateChartsAndVisuals();
-            }
+        document.querySelectorAll('#themeToggleBtn, #themeToggleBtnToolbar, #themeToggle, .theme-toggle-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const isDark = document.documentElement.classList.toggle('dark');
+                localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
+                localStorage.setItem('mapfy_theme', isDark ? 'dark' : 'light');
+                updateThemeUI();
+                if (state.charts.evolution) {
+                    state.charts.evolution.destroy();
+                    state.charts.donut.destroy();
+                    state.charts.histogram.destroy();
+                    state.charts.frentes.destroy();
+                    initCharts();
+                    initEvolutionFilter();
+                    updateChartsAndVisuals();
+                }
+            });
         });
+    }
+
+    function updateThemeUI() {
+        const isDark = document.documentElement.classList.contains('dark');
+        const iconToolbar = document.getElementById('themeIconToolbar');
+        const labelToolbar = document.getElementById('themeLabelToolbar');
+        if (iconToolbar) iconToolbar.innerText = isDark ? '🌙' : '☀️';
+        if (labelToolbar) labelToolbar.innerText = isDark ? 'Escuro' : 'Claro';
+        const legacyIcon = document.getElementById('themeIcon');
+        if (legacyIcon) legacyIcon.innerText = isDark ? '🌙' : '☀️';
     }
 
     // 2. Inicialização dos Dados

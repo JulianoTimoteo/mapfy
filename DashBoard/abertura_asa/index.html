@@ -89,79 +89,87 @@
         <!-- 2. BARRA DE FILTROS INTEGRADA -->
         <section class="p-4 rounded-2xl border shadow-sm transition-colors"
                  style="background: var(--bg-card); border-color: var(--border-color);">
+            <!-- Cabeçalho do Card: Título e Ação Limpar -->
             <div class="flex items-center justify-between gap-4 mb-3 pb-2 border-b"
                  style="border-color: var(--border-color);">
                 <div class="flex items-center gap-2">
                     <span class="text-emerald-500 text-sm">⚡</span>
                     <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Filtros Operacionais</h2>
+                    <span class="text-[11px] font-medium text-[var(--text-muted)] hidden md:inline">• Safra 2026</span>
                 </div>
-                
-                <div class="flex flex-wrap items-center gap-2 sm:gap-3">
-                    <div class="period-segmented-group shadow-sm">
-                    <button id="btnAllDates" class="period-toggle-btn active" data-period="all"
-                            title="Exibir todo o histórico da safra">
-                        <span>🌐</span>
-                        <span>Safra Completa</span>
-                        <span class="period-badge" id="badgeAll">0</span>
-                    </button>
-
-                    <button id="btnLatestDate" class="period-toggle-btn" data-period="latest"
-                            title="Filtrar pela última data com medições registradas na base">
-                        <span>📅</span>
-                        <span>Última Data</span>
-                        <span class="period-badge" id="badgeLatest">-</span>
-                    </button>
-
-                    <button id="btnToday" class="period-toggle-btn" data-period="today"
-                            title="Filtrar medições realizadas hoje">
-                        <span>📆</span>
-                        <span>Hoje</span>
-                        <span class="period-badge" id="badgeToday">0</span>
-                    </button>
-                </div>
-
-                <!-- Exportar CSV -->
-                <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all hover:border-emerald-500"
-                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-secondary);"
-                        title="Exportar registros filtrados para planilha CSV">
-                    <span>📥</span>
-                    <span class="hidden sm:inline">CSV</span>
-                </button>
-
-                <!-- Imprimir / Relatório A4 -->
-                <button onclick="window.print()" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all hover:border-emerald-500"
-                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-secondary);"
-                        title="Imprimir relatório gerencial executivo">
-                    <span>🖨️</span>
-                    <span class="hidden sm:inline">Relatório</span>
-                </button>
-
-                <!-- Alternador de Tema Claro / Escuro -->
-                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
-                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
-                        title="Alternar entre modo Claro e Escuro">
-                    <span id="themeIcon">🌙</span>
-                </button>
-            </div>
-        </div>
-                    <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all hover:border-emerald-500"
-                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-secondary);"
-                        title="Exportar registros filtrados para planilha CSV">
-                    <span>📥</span>
-                    <span class="hidden sm:inline">CSV</span>
-                </button>
-                    <button onclick="window.print()" class="px-3 py-1.5 rounded-xl border font-semibold flex items-center gap-1.5 transition-all hover:border-emerald-500"
-                        style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-secondary);"
-                        title="Imprimir relatório gerencial executivo">
-                    <span>🖨️</span>
-                    <span class="hidden sm:inline">Relatório</span>
-                </button>
+                <div class="flex items-center gap-3">
                     <span class="text-xs font-mono text-[var(--text-secondary)]" id="filteredCountInfo">
                         Exibindo <strong class="text-emerald-500 font-bold" id="lblFilteredCount">0</strong> de <span id="lblTotalCount">0</span> registros
                     </span>
-                    <button id="btnClearFilters" class="text-xs font-semibold text-rose-500 hover:underline flex items-center gap-1">
+                    <button id="btnClearFilters" type="button"
+                            class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-transparent hover:border-rose-200 dark:hover:border-rose-900 cursor-pointer"
+                            title="Limpar todos os filtros">
                         <span>✕</span>
                         <span>Limpar</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Toolbar Executiva: Filtro Temporal (Safra, Última Data, Hoje) + Ações (CSV, Imprimir, Tema) -->
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
+                 style="background: var(--bg-kpi); border-color: var(--border-color);">
+                
+                <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
+                <div class="flex items-center gap-2">
+                    <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
+                    <div class="period-segmented-group shadow-sm">
+                        <!-- Safra Completa -->
+                        <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
+                                title="Exibir todo o histórico da safra">
+                            <span>🌐</span>
+                            <span>Safra Completa</span>
+                            <span class="period-badge" id="badgeAll">0</span>
+                        </button>
+
+                        <!-- Última Data -->
+                        <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
+                                title="Filtrar pela última data com medições registradas na base">
+                            <span>📅</span>
+                            <span>Última Data</span>
+                            <span class="period-badge" id="badgeLatest">-</span>
+                        </button>
+
+                        <!-- Hoje -->
+                        <button id="btnToday" type="button" class="period-toggle-btn" data-period="today"
+                                title="Filtrar medições realizadas hoje">
+                            <span>📆</span>
+                            <span>Hoje</span>
+                            <span class="period-badge" id="badgeToday">0</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Bloco Direito: Ferramentas Operacionais Executivas -->
+                <div class="flex items-center gap-2 flex-wrap">
+                    <!-- Exportar CSV -->
+                    <button id="btnExportCSV" type="button"
+                            class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm whitespace-nowrap cursor-pointer"
+                            title="Exportar registros filtrados para planilha CSV">
+                        <span>📥</span>
+                        <span>Exportar CSV</span>
+                    </button>
+
+                    <!-- Imprimir Relatório -->
+                    <button id="btnPrintReport" type="button" onclick="window.print()"
+                            class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
+                            style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Imprimir relatório gerencial executivo">
+                        <span>🖨️</span>
+                        <span>Imprimir</span>
+                    </button>
+
+                    <!-- Alternar Tema Claro / Escuro -->
+                    <button id="themeToggleBtnToolbar" type="button"
+                            class="theme-toggle-btn btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
+                            style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Alternar entre modo Claro e Escuro">
+                        <span id="themeIconToolbar">🌙</span>
+                        <span id="themeLabelToolbar">Escuro</span>
                     </button>
                 </div>
             </div>

@@ -181,7 +181,7 @@
     window.dashboardState = state;
     window.state = state;
 
-    function _bootstrapApp() () => {
+    function _bootstrapApp() {
         initTheme();
         initData();
         initDropdowns();
