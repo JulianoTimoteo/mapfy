@@ -184,7 +184,7 @@
     window.dashboardState = state;
     window.state = state;
 
-    document.addEventListener('DOMContentLoaded', () => {
+    function _bootstrapApp() () => {
         initTheme();
         initData();
         initDropdowns();
@@ -193,7 +193,12 @@
         initEvolutionFilter();
         initMap();
         applyFiltersAndRender();
-    });
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', _bootstrapApp);
+    } else {
+        _bootstrapApp();
+    }
 
     // 1. Gerenciamento de Tema
     function initTheme() {
@@ -208,7 +213,7 @@
             if (icon) icon.innerText = '🌙';
         }
 
-        const themeBtn = document.getElementById('themeToggle');
+        const themeBtn = document.getElementById('themeToggleBtn') || document.getElementById('themeToggle');
         if (themeBtn) {
             themeBtn.addEventListener('click', () => {
                 const isDark = document.documentElement.classList.toggle('dark');

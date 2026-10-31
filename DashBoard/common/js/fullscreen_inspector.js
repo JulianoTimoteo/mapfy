@@ -32,7 +32,7 @@
     }
 
     function initAllControls() {
-        try { setupMapFullscreen(); } catch (e) { console.warn('[Pitangueiras] setupMapFullscreen error:', e); }
+        try { init247CircularWidget(); } catch (e) {} try { setupMapFullscreen(); } catch (e) { console.warn('[Pitangueiras] setupMapFullscreen error:', e); }
         try { setupChartsFullscreen(); } catch (e) { console.warn('[Pitangueiras] setupChartsFullscreen error:', e); }
         try { setupRaioXFullscreen(); } catch (e) { console.warn('[Pitangueiras] setupRaioXFullscreen error:', e); }
         try { setupKeyboardShortcuts(); } catch (e) { console.warn('[Pitangueiras] setupKeyboardShortcuts error:', e); }
@@ -61,7 +61,7 @@
         try { setupUniversalChartsPlugin(); } catch (e) { console.warn(e); }
         try { setupTimelineQuickFilters(); } catch (e) { console.warn(e); }
         try { setupUniversalItemInfoSystem(); } catch (e) { console.warn(e); }
-        try { setupMapFullscreen(); } catch (e) { console.warn(e); }
+        try { init247CircularWidget(); } catch (e) {} try { setupMapFullscreen(); } catch (e) { console.warn(e); }
         try { setupChartsFullscreen(); } catch (e) { console.warn(e); }
         try { setupRaioXFullscreen(); } catch (e) { console.warn(e); }
         try { triggerChartsUpdate(); } catch (e) { console.warn(e); }
@@ -1092,6 +1092,44 @@
             contains: 'Dados estatísticos, agrupamentos operacionais por frente/talhão e registros rastreáveis via apontamento MapFy.',
             howToRead: 'Utilize as informações deste bloco para diagnosticar a estabilidade do processo e adotar correções preventivas caso haja desvios.'
         };
+    }
+
+
+    // =========================================================================
+    // WIDGET CIRCULAR 24/7 NO CANTINHO ESQUERDO (CICLO DE 1H DE ATUALIZAÇÃO)
+    // Preenche gradualmente em 3600s e sinaliza novo ciclo ao completar 100%
+    // =========================================================================
+    function init247CircularWidget() {
+        function updateProgress() {
+            const ring = document.getElementById('badge247ProgressRing');
+            const badge = document.getElementById('badgeStatus247');
+            if (!ring || !badge) return;
+
+            const now = new Date();
+            const minutes = now.getMinutes();
+            const seconds = now.getSeconds();
+            const secondsInHour = (minutes * 60) + seconds;
+            const progress = Math.min(100, Math.max(0, (secondsInHour / 3600) * 100));
+
+            ring.setAttribute('stroke-dasharray', `${progress.toFixed(2)}, 100`);
+
+            const remainingMinutes = 60 - minutes;
+            if (!badge.getAttribute('data-custom-title')) {
+                badge.title = `Sincronismo Contínuo 24/7 • Próxima atualização em ~${remainingMinutes} min (ao fechar o círculo)`;
+            }
+
+            // Quando fecha o círculo (primeiros 6 segundos da nova hora), pulsa com destaque
+            if (secondsInHour < 6) {
+                badge.classList.add('badge-247-cycle-complete');
+            } else {
+                badge.classList.remove('badge-247-cycle-complete');
+            }
+        }
+
+        updateProgress();
+        if (!window._timer247Widget) {
+            window._timer247Widget = setInterval(updateProgress, 1000);
+        }
     }
 
 })();

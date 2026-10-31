@@ -954,3 +954,130 @@ body.dark-mode .header-glass #themeToggleBtn i.fa-sun,
         max-height: 32px !important;
     }
 }
+
+
+/* ==========================================================================
+   WIDGET CIRCULAR 24/7 NO CANTINHO ESQUERDO (CICLO DE 1H DE ATUALIZAÇÃO)
+   Sem links clicáveis • Apenas monitoramento de ciclo com borda circular
+   ========================================================================== */
+#badgeStatus247,
+.badge-247-container {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.35rem !important;
+    padding: 0.2rem 0.55rem 0.2rem 0.35rem !important;
+    background: #ecfdf5 !important;
+    border: 1px solid #a7f3d0 !important;
+    border-radius: 9999px !important;
+    cursor: default !important;
+    user-select: none !important;
+    flex-shrink: 0 !important;
+    width: auto !important;
+    max-width: 85px !important;
+    height: 30px !important;
+    box-sizing: border-box !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04) !important;
+    transition: all 0.3s ease !important;
+}
+
+html.dark #badgeStatus247,
+body.dark-mode #badgeStatus247,
+.dark #badgeStatus247,
+html.dark .badge-247-container,
+body.dark-mode .badge-247-container,
+.dark .badge-247-container {
+    background: rgba(6, 78, 59, 0.35) !important;
+    border-color: rgba(16, 185, 129, 0.35) !important;
+}
+
+.badge-247-ring-wrap {
+    position: relative !important;
+    width: 22px !important;
+    height: 22px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-shrink: 0 !important;
+}
+
+.badge-247-svg {
+    width: 22px !important;
+    height: 22px !important;
+    transform: rotate(-90deg) !important; /* Início em 12h (topo do círculo) */
+    display: block !important;
+}
+
+.badge-247-bg {
+    fill: none !important;
+    stroke: #d1fae5 !important;
+    stroke-width: 3.5 !important;
+}
+
+html.dark .badge-247-bg,
+body.dark-mode .badge-247-bg,
+.dark .badge-247-bg {
+    stroke: rgba(6, 78, 59, 0.6) !important;
+}
+
+.badge-247-progress {
+    fill: none !important;
+    stroke: #10b981 !important;
+    stroke-width: 3.5 !important;
+    stroke-linecap: round !important;
+    stroke-dasharray: 0, 100;
+    transition: stroke-dasharray 0.6s linear, stroke 0.3s ease !important;
+}
+
+html.dark .badge-247-progress,
+body.dark-mode .badge-247-progress,
+.dark .badge-247-progress {
+    stroke: #34d399 !important;
+}
+
+.badge-247-dot {
+    position: absolute !important;
+    width: 5px !important;
+    height: 5px !important;
+    border-radius: 9999px !important;
+    background-color: #10b981 !important;
+    box-shadow: 0 0 6px #10b981 !important;
+    animation: pulse247Dot 2s ease-in-out infinite !important;
+}
+
+html.dark .badge-247-dot,
+body.dark-mode .badge-247-dot,
+.dark .badge-247-dot {
+    background-color: #34d399 !important;
+    box-shadow: 0 0 6px #34d399 !important;
+}
+
+@keyframes pulse247Dot {
+    0%, 100% { transform: scale(0.9); opacity: 0.8; }
+    50% { transform: scale(1.3); opacity: 1; }
+}
+
+.badge-247-label {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+    font-size: 0.6875rem !important;
+    font-weight: 800 !important;
+    color: #065f46 !important;
+    letter-spacing: 0.025em !important;
+    line-height: 1 !important;
+}
+
+html.dark .badge-247-label,
+body.dark-mode .badge-247-label,
+.dark .badge-247-label {
+    color: #a7f3d0 !important;
+}
+
+/* Efeito de sinalização quando o círculo completa 1h */
+.badge-247-cycle-complete {
+    animation: flash247Cycle 1.5s ease-out 2 !important;
+}
+
+@keyframes flash247Cycle {
+    0% { transform: scale(1); filter: brightness(1); }
+    50% { transform: scale(1.08); filter: brightness(1.35); box-shadow: 0 0 10px rgba(16, 185, 129, 0.6); }
+    100% { transform: scale(1); filter: brightness(1); }
+}

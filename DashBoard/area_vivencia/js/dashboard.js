@@ -183,14 +183,19 @@
     /**
      * Inicialização no carregamento da página
      */
-    document.addEventListener('DOMContentLoaded', () => {
+    function _bootstrapApp() () => {
         initTheme();
         initData();
         initUI();
         initMap();
         initCharts();
         applyFilters();
-    });
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', _bootstrapApp);
+    } else {
+        _bootstrapApp();
+    }
 
     /**
      * Gerenciamento de Tema (Claro / Escuro)

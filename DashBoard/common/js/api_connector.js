@@ -64,31 +64,35 @@
     }
 
     function createServerStatusBadge(isOnline, totalRecords, updatedAt) {
-        const headerContainer = document.querySelector('header .flex.items-center.gap-3.justify-end, header .flex.items-center.justify-end, .header-glass div:last-child');
-        if (!headerContainer) return;
+        // Remove quaisquer barras legadas antigas para evitar elementos gigantes
+        const oldBadges = document.querySelectorAll('#server-live-status-badge, #mapfy-server-live-badge');
+        oldBadges.forEach(b => b.remove());
 
-        let badge = document.getElementById('mapfy-server-live-badge');
-        if (!badge) {
-            badge = document.createElement('div');
-            badge.id = 'server-live-status-badge';
-            badge.className = 'cursor-pointer inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-semibold transition shadow-sm';
-            badge.title = 'Clique para configurar o endereço do Servidor MapFy 24/7';
-            badge.addEventListener('click', promptConfigureApiUrl);
-            headerContainer.insertBefore(badge, headerContainer.firstChild);
-        }
+        // Atualiza o widget 24/7 circular compacto fixado no cantinho esquerdo
+        const badge247 = document.getElementById('badgeStatus247');
+        const dot247 = document.getElementById('badge247Dot');
+        const ring247 = document.getElementById('badge247ProgressRing');
 
-        if (isOnline) {
-            badge.className = 'cursor-pointer inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/70 dark:hover:bg-emerald-900 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 transition shadow-sm';
-            badge.innerHTML = `
-                <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-                <span>Base Online 24/7</span>
-            `;
-        } else {
-            badge.className = 'cursor-pointer inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-semibold bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 border border-slate-300 dark:border-slate-700 transition shadow-sm';
-            badge.innerHTML = `
-                <span class="w-2 h-2 rounded-full bg-amber-500"></span>
-                <span>Base Local (Cache)</span>
-            `;
+        if (badge247) {
+            if (isOnline) {
+                badge247.title = 'Sincronismo Contínuo 24/7 • Base Online • Próxima atualização ao fechar o ciclo de 1h';
+                if (dot247) {
+                    dot247.style.backgroundColor = '#10b981';
+                    dot247.style.boxShadow = '0 0 6px #10b981';
+                }
+                if (ring247) {
+                    ring247.style.stroke = '#10b981';
+                }
+            } else {
+                badge247.title = 'Sincronismo 24/7 • Base Local (Cache) • Próxima checagem ao fechar o ciclo de 1h';
+                if (dot247) {
+                    dot247.style.backgroundColor = '#f59e0b';
+                    dot247.style.boxShadow = '0 0 6px #f59e0b';
+                }
+                if (ring247) {
+                    ring247.style.stroke = '#f59e0b';
+                }
+            }
         }
     }
 

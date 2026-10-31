@@ -180,7 +180,7 @@
     window.state = state;
 
     // Inicialização do Sistema
-    document.addEventListener('DOMContentLoaded', () => {
+    function _bootstrapApp() () => {
         initTheme();
         initData();
         initFilters();
@@ -192,23 +192,28 @@
         initTableListeners();
         applyFiltersAndRender();
         initPowerUserShortcuts();
-    });
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', _bootstrapApp);
+    } else {
+        _bootstrapApp();
+    }
 
     // 1. Gerenciamento de Tema
     function initTheme() {
         const savedTheme = localStorage.getItem('pitangueiras_theme') || 'dark';
         if (savedTheme === 'light') {
             document.documentElement.classList.remove('dark');
-            document.getElementById('themeIcon').innerText = '☀️';
+            (document.getElementById('themeIcon') && (document.getElementById('themeIcon').innerText = '☀️'));
         } else {
             document.documentElement.classList.add('dark');
-            document.getElementById('themeIcon').innerText = '🌙';
+            (document.getElementById('themeIcon') && (document.getElementById('themeIcon').innerText = '🌙'));
         }
 
-        document.getElementById('themeToggle').addEventListener('click', () => {
+        (document.getElementById('themeToggleBtn') || document.getElementById('themeToggle'))?.addEventListener('click', () => {
             const isDark = document.documentElement.classList.toggle('dark');
             localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
-            document.getElementById('themeIcon').innerText = isDark ? '🌙' : '☀️';
+            (document.getElementById('themeIcon') && (document.getElementById('themeIcon').innerText = isDark ? '🌙' : '☀️'));
             if (state.charts.evolution) {
                 state.charts.evolution.destroy();
                 state.charts.donut.destroy();
