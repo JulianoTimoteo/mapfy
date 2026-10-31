@@ -39,7 +39,8 @@
         try { setupUniversalChartsPlugin(); } catch (e) { console.warn('[Pitangueiras] setupUniversalChartsPlugin error:', e); }
         try { setupTimelineQuickFilters(); } catch (e) { console.warn('[Pitangueiras] setupTimelineQuickFilters error:', e); }
         try { setupUniversalItemInfoSystem(); } catch (e) { console.warn('[Pitangueiras] setupUniversalItemInfoSystem error:', e); }
-        try { setupAutoDismissNoticeBanners(); } catch (e) { console.warn('[Pitangueiras] setupAutoDismissNoticeBanners error:', e); }
+        try { setupAutoDismissNoticeBanners(); }
+    try { setupUniversalPWAInstaller(); } catch (e) {} catch (e) { console.warn('[Pitangueiras] setupAutoDismissNoticeBanners error:', e); }
         try { setupPwaSupport(); } catch (e) {}
         try {
             if (!window.MapfyApiConnector && !document.querySelector('script[src*="api_connector.js"]')) {
@@ -91,6 +92,107 @@
         });
 
         observer.observe(document.body, { childList: true, subtree: true });
+    }
+
+
+    // =========================================================================
+    // 10. INICIALIZAÇÃO UNIVERSAL DO PWA INSTANTÂNEO (MOBILE EM 3 SEGUNDOS)
+    // =========================================================================
+    function setupUniversalPWAInstaller() {
+        if (typeof window === 'undefined') return;
+        if (window._pitangueiras_pwa_booted) return;
+        window._pitangueiras_pwa_booted = true;
+
+        const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+        const isAlreadyInstalled = localStorage.getItem('mapfy_pwa_installed') === 'true';
+        if (isStandalone || isAlreadyInstalled) return;
+
+        let deferredPrompt = null;
+        let pwaTimer = null;
+
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            showPwaToast();
+        });
+
+        // Fallback para dispositivos móveis
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth < 768;
+        if (isMobile) {
+            setTimeout(() => {
+                if (!deferredPrompt && !isStandalone && localStorage.getItem('mapfy_pwa_installed') !== 'true') {
+                    showPwaToast();
+                }
+            }, 1500);
+        }
+
+        function showPwaToast() {
+            if (document.getElementById('mapfy-pwa-install-toast')) return;
+            if (localStorage.getItem('mapfy_pwa_installed') === 'true') return;
+
+            const isRelatorio = window.location.pathname.includes('/DashBoard/') && !window.location.pathname.endsWith('/DashBoard/') && !window.location.pathname.endsWith('/index.html');
+            const logoPath = isRelatorio ? '../assets/logo_pitangueiras.png' : 'assets/logo_pitangueiras.png';
+
+            const toast = document.createElement('div');
+            toast.id = 'mapfy-pwa-install-toast';
+            toast.style.cssText = 'position:fixed; bottom:calc(16px + env(safe-area-inset-bottom, 0px)); left:12px; right:12px; max-width:480px; margin:0 auto; z-index:99999999; background:rgba(15,23,42,0.96); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px); border:1.5px solid rgba(16,185,129,0.7); border-radius:18px; padding:10px 14px; box-shadow:0 16px 36px rgba(0,0,0,0.5), 0 0 18px rgba(16,185,129,0.3); display:flex; align-items:center; justify-content:space-between; gap:12px; color:#ffffff; font-family:Inter,system-ui,sans-serif; transition:all 0.35s cubic-bezier(0.16,1,0.3,1); transform:translateY(25px); opacity:0;';
+
+            toast.innerHTML = `
+                <div style="display:flex; align-items:center; gap:10px; min-width:0; flex:1;">
+                    <div style="width:36px; height:36px; border-radius:10px; background:#ffffff; padding:2px; display:flex; align-items:center; justify-content:center; flex-shrink:0;">
+                        <img src="${logoPath}" alt="Logo" style="width:100%; height:100%; object-fit:contain;">
+                    </div>
+                    <div style="min-width:0; flex:1;">
+                        <div style="font-size:12px; font-weight:800; color:#f8fafc; line-height:1.2; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+                            Instalar MapFy 2026
+                        </div>
+                        <div style="font-size:10px; color:#34d399; font-weight:600; font-family:monospace;">
+                            Versão Celular • 1 Clique
+                        </div>
+                    </div>
+                </div>
+                <button id="btnPwaActionInstall" type="button" style="background:linear-gradient(135deg, #10b981 0%, #059669 100%); color:#ffffff; font-size:11px; font-weight:800; padding:8px 14px; border-radius:12px; border:none; cursor:pointer; box-shadow:0 4px 12px rgba(16,185,129,0.4); display:flex; align-items:center; gap:5px; flex-shrink:0; touch-action:manipulation;">
+                    <span>📲</span>
+                    <span>Instalar</span>
+                </button>
+            `;
+
+            document.body.appendChild(toast);
+            requestAnimationFrame(() => {
+                toast.style.transform = 'translateY(0)';
+                toast.style.opacity = '1';
+            });
+
+            // Some após exatamente 3 segundos
+            pwaTimer = setTimeout(() => {
+                dismissPwa(toast);
+            }, 3000);
+
+            const btn = toast.querySelector('#btnPwaActionInstall');
+            if (btn) {
+                btn.onclick = async (e) => {
+                    e.preventDefault();
+                    if (pwaTimer) clearTimeout(pwaTimer);
+                    localStorage.setItem('mapfy_pwa_installed', 'true');
+                    btn.innerHTML = '<span>⏳</span><span>Instalando...</span>';
+                    if (deferredPrompt) {
+                        try {
+                            deferredPrompt.prompt();
+                            await deferredPrompt.userChoice;
+                            deferredPrompt = null;
+                        } catch (err) {}
+                    }
+                    dismissPwa(toast);
+                };
+            }
+        }
+
+        function dismissPwa(toast) {
+            if (!toast) return;
+            toast.style.transform = 'translateY(25px)';
+            toast.style.opacity = '0';
+            setTimeout(() => { if (toast.parentNode) toast.parentNode.removeChild(toast); }, 350);
+        }
     }
 
     // =========================================================================
@@ -443,45 +545,42 @@
             },
             afterDatasetsDraw(chart) {
                 const chartType = chart.config.type;
-                if (chartType !== 'bar' && chartType !== 'doughnut' && chartType !== 'pie') return;
-
-                // REGRA CRÍTICA: Se for gráfico de barra e o Chart.js já possuir datalabels ativo/oficial,
-                // NUNCA desenhar manualmente por cima para evitar dados duplicados!
-                if (chartType === 'bar') {
-                    const hasDatalabels = (chart.options?.plugins?.datalabels && chart.options.plugins.datalabels.display !== false);
-                    const hasGlobalPlugin = (window.ChartDataLabels && chart.options?.plugins?.datalabels?.display !== false);
-                    if (hasDatalabels || hasGlobalPlugin) {
-                        return; // O ChartDataLabels oficial já desenha os valores perfeitamente!
-                    }
+                // REGRA MANDATÓRIA ANTI-DUPLICIDADE:
+                // Gráficos de barra NUNCA desenham rótulos manuais aqui, pois cada dashboard
+                // já possui seu próprio plugin de datalabels calibrado (ChartDataLabels ou local).
+                if (chartType === 'bar' || chartType === 'line') {
+                    return;
                 }
+
+                if (chartType !== 'doughnut' && chartType !== 'pie') return;
 
                 const ctx = chart.ctx;
                 const isDark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark-theme');
                 const defaultTextColor = isDark ? '#F1F5F9' : '#1E293B';
                 const chartArea = chart.chartArea || { top: 0, bottom: chart.height, left: 0, right: chart.width };
 
-                // 1. Rótulos Numéricos nos Elementos do Gráfico
-                chart.data.datasets.forEach((dataset, datasetIdx) => {
-                    const meta = chart.getDatasetMeta(datasetIdx);
-                    if (!meta || meta.hidden) return;
+                // 1. Rótulos Numéricos nas Fatias (Apenas se o gráfico NÃO possuir plugin datalabels ativo)
+                const hasDatalabels = (chart.options?.plugins?.datalabels && chart.options.plugins.datalabels.display !== false);
+                const hasGlobalPlugin = (window.ChartDataLabels && chart.options?.plugins?.datalabels?.display !== false);
 
-                    meta.data.forEach((element, index) => {
-                        const rawVal = dataset.data ? dataset.data[index] : null;
-                        if (rawVal === undefined || rawVal === null || rawVal === '' || rawVal === 0 || rawVal === '0') return;
-                        const numVal = Number(rawVal);
-                        if (isNaN(numVal) || numVal === 0) return;
+                if (!hasDatalabels && !hasGlobalPlugin) {
+                    chart.data.datasets.forEach((dataset, datasetIdx) => {
+                        const meta = chart.getDatasetMeta(datasetIdx);
+                        if (!meta || meta.hidden) return;
 
-                        ctx.save();
-                        ctx.font = 'bold 11px Inter, sans-serif';
+                        meta.data.forEach((element, index) => {
+                            const rawVal = dataset.data ? dataset.data[index] : null;
+                            if (rawVal === undefined || rawVal === null || rawVal === '' || rawVal === 0 || rawVal === '0') return;
+                            const numVal = Number(rawVal);
+                            if (isNaN(numVal) || numVal === 0) return;
 
-                        if (chartType === 'doughnut' || chartType === 'pie') {
-                            // CÁLCULO TRIGONOMÉTRICO EXATO DO CENTRO DA FATIA
-                            // Garante que o número fique DEAD-CENTER no anel colorido e NUNCA sobreponha o miolo do donut!
+                            ctx.save();
+                            ctx.font = 'bold 11px Inter, sans-serif';
+
                             const startAngle = element.startAngle;
                             const endAngle = element.endAngle;
                             const angleSpan = endAngle - startAngle;
 
-                            // Ignora fatias minúsculas (< 0.2 radianos) para manter o visual limpo e sem poluição
                             if (angleSpan >= 0.18) {
                                 const midAngle = (startAngle + endAngle) / 2;
                                 const midRadius = (element.innerRadius + element.outerRadius) / 2;
@@ -495,52 +594,21 @@
                                 ctx.shadowBlur = 4;
                                 ctx.fillText(numVal.toLocaleString('pt-BR'), x, y);
                             }
-                        } else if (chartType === 'bar' && chart.options && chart.options.indexAxis === 'y') {
-                            const fitsOutside = (element.x + 32 <= chartArea.right);
-                            if (fitsOutside) {
-                                ctx.fillStyle = defaultTextColor;
-                                ctx.textAlign = 'left';
-                                ctx.textBaseline = 'middle';
-                                ctx.fillText(numVal.toLocaleString('pt-BR'), element.x + 6, element.y);
-                            } else {
-                                ctx.fillStyle = '#FFFFFF';
-                                ctx.textAlign = 'right';
-                                ctx.textBaseline = 'middle';
-                                ctx.shadowColor = 'rgba(0, 0, 0, 0.75)';
-                                ctx.shadowBlur = 3;
-                                ctx.fillText(numVal.toLocaleString('pt-BR'), element.x - 6, element.y);
-                            }
-                        } else if (chartType === 'bar') {
-                            const fitsOutside = (element.y - 14 >= chartArea.top);
-                            if (fitsOutside) {
-                                ctx.fillStyle = defaultTextColor;
-                                ctx.textAlign = 'center';
-                                ctx.textBaseline = 'bottom';
-                                ctx.fillText(numVal.toLocaleString('pt-BR'), element.x, element.y - 3);
-                            } else {
-                                ctx.fillStyle = '#FFFFFF';
-                                ctx.textAlign = 'center';
-                                ctx.textBaseline = 'top';
-                                ctx.shadowColor = 'rgba(0, 0, 0, 0.75)';
-                                ctx.shadowBlur = 3;
-                                ctx.fillText(numVal.toLocaleString('pt-BR'), element.x, element.y + 4);
-                            }
-                        }
-                        ctx.restore();
+                            ctx.restore();
+                        });
                     });
-                });
+                }
 
                 // 2. Totalizador no Centro de Gráficos Doughnut (Sem poluição nem sobreposição)
                 if (chartType === 'doughnut') {
-                    // 1. Ignora se o gráfico possui plugin customizado de centro (ex: centerText no Arremate e Acabamento)
-                    const pluginsList = chart.config?.plugins || [];
-                    const hasCustomCenter = pluginsList.some(p => p && (p.id === 'centerText' || p.id === 'donutCenterText' || (typeof p.id === 'string' && p.id.toLowerCase().includes('center'))));
+                    // Ignora se o gráfico possui plugin customizado de centro (ex: centerText no Arremate e Acabamento)
+                    const hasCustomCenter = chart.config.plugins && chart.config.plugins.some(p => p && (p.id === 'centerText' || p.id === 'donutCenterText' || (typeof p.id === 'string' && p.id.toLowerCase().includes('center'))));
                     if (hasCustomCenter) return;
 
-                    // 2. Ignora se as opções desabilitam o total no centro
+                    // Ignora se as opções desabilitam o total no centro
                     if (chart.options?.plugins?.centerTotal === false || chart.options?.centerTotal === false) return;
 
-                    // 3. Prevenção definitiva contra dupla execução por múltiplos plugins no mesmo ciclo
+                    // Prevenção contra dupla execução por múltiplos plugins no mesmo ciclo
                     if (chart._centerTotalDrawn) return;
 
                     let totalSum = 0;
@@ -557,21 +625,16 @@
                     const htmlCenter = parent ? parent.querySelector('#donutCenterOverlay, #donutCenterPerc, [id*="CenterPerc"], [id*="centerPerc"], [id*="donutCenter"]') : null;
 
                     if (htmlCenter) {
-                        // Se JÁ EXISTE overlay HTML no template (ex: subsolagem, abertura_asa):
-                        // NUNCA cria caixas duplicadas! Atualiza o elemento de contagem para ser elegante e legível
                         const countEl = htmlCenter.querySelector('#donutCenterCount, [id*="CenterCount"], [id*="centerCount"]');
                         if (countEl && totalSum > 0 && !countEl.textContent.includes(' de ')) {
                             countEl.textContent = `${totalSum.toLocaleString('pt-BR')} Total`;
                             countEl.style.fontWeight = '700';
                             countEl.style.marginTop = '2px';
                         }
-                        // Remove resquício de caixas antigas se houver
                         const extraBadge = htmlCenter.querySelector('.donut-center-total-sum');
                         if (extraBadge) extraBadge.remove();
                     } else if (chart.chartArea && totalSum > 0) {
                         chart._centerTotalDrawn = true;
-                        // Se NÃO existe overlay HTML (ex: gráfico de Planta, Soca ou Carreador de Herbicida):
-                        // Desenha no centro do canvas com tipografia impecável e proporções calibradas
                         const centerX = (chart.chartArea.left + chart.chartArea.right) / 2;
                         const centerY = (chart.chartArea.top + chart.chartArea.bottom) / 2;
                         const meta = chart.getDatasetMeta(0);
@@ -588,13 +651,11 @@
                         const fontSizeNum = Math.max(16, Math.min(26, Math.round(innerRadius * 0.46)));
                         const fontSizeLabel = Math.max(9, Math.min(11, Math.round(innerRadius * 0.22)));
 
-                        // Número Total Somado
                         ctx.font = `800 ${fontSizeNum}px 'JetBrains Mono', 'Plus Jakarta Sans', monospace, sans-serif`;
                         ctx.fillStyle = numColor;
                         ctx.shadowColor = 'transparent';
                         ctx.fillText(totalSum.toLocaleString('pt-BR'), centerX, centerY - (fontSizeLabel * 0.45));
 
-                        // Rótulo "TOTAL"
                         ctx.font = `700 ${fontSizeLabel}px Inter, sans-serif`;
                         ctx.fillStyle = lblColor;
                         ctx.fillText('TOTAL', centerX, centerY + (fontSizeNum * 0.52));
@@ -889,16 +950,15 @@
         // Seletor cirúrgico e abrangente cobrindo todos os títulos de blocos dos 17 relatórios
         const SELECTORS = [
             'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
-            '.kpi-title', '.chart-card-title', '.filters-title', '.card-title', '.audit-item-title', '.notice-title',
-            '.chart-card-header .chart-card-title',
-            'div.text-sm.font-bold', 'span.text-sm.font-bold'
+            '.kpi-title', '.chart-card-title', '.filters-title', '.card-title', '.audit-item-title',
+            '.chart-card-header .chart-card-title'
         ];
 
         const elements = document.querySelectorAll(SELECTORS.join(', '));
 
         elements.forEach(el => {
             // REGRA ESTRITA: NUNCA injetar dentro de miolos de gráficos donut, canvas ou botões de controle!
-            if (el.closest('#donutCenterOverlay, [id*="donutCenter"], [id*="centerPerc"], [id*="CenterPerc"], .donut-center-total-sum, canvas, .chart-canvas-container, .popover-card, .site-header, .site-footer, .header-glass, button, .btn-toggle-fullscreen, .timeline-quick-filter-group')) {
+            if (el.closest('#donutCenterOverlay, [id*="donutCenter"], [id*="centerPerc"], [id*="CenterPerc"], .donut-center-total-sum, canvas, .chart-canvas-container, .popover-card, .site-header, .site-footer, .header-glass, button, .btn-toggle-fullscreen, .timeline-quick-filter-group, #noticeBrocaBanner, [id*="notice"], [id*="Notice"], [class*="notice"], [class*="banner"], .badge-index, .node-label')) {
                 return;
             }
 

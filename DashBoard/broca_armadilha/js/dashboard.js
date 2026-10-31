@@ -38,7 +38,7 @@
     const fallbackDataLabelsPlugin = {
         id: 'pitangueiras_datalabels_fallback',
         afterDatasetsDraw(chart) {
-            if (window.ChartDataLabels) return; // Se plugin oficial estiver carregado, delega a ele
+            if (typeof window.ChartDataLabels !== 'undefined') return; // Delega estritamente ao ChartDataLabels oficial
             const ctx = chart.ctx;
             const isDark = document.documentElement.classList.contains('dark');
             const defaultTextColor = isDark ? '#F1F5F9' : '#1E293B';
@@ -266,7 +266,7 @@
 
     // --- GRÁFICOS INTERATIVOS COM EXIBIÇÃO DIRETA DE VALORES ---
     function initCharts() {
-        if (window.ChartDataLabels) {
+        if (typeof window.ChartDataLabels !== 'undefined') {
             Chart.register(ChartDataLabels);
         } else {
             Chart.register(fallbackDataLabelsPlugin);

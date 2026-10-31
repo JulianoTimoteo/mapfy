@@ -40,6 +40,12 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+    <!-- PWA e Metatags Mobile Executivas -->
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#047857">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 </head>
 <body class="min-h-screen bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-100 antialiased selection:bg-amber-500 selection:text-white">
 
@@ -214,7 +220,7 @@
 
     <!-- GRID EXECUTIVO DE 10 CARDS DE KPIS (RESPONSIVO: CELULAR, TABLET, NOTEBOOK, DESKTOP E TV) -->
     <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
-        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 xl:grid-cols-10 gap-2.5 sm:gap-3 xl:gap-3">
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 2xl:grid-cols-10 gap-2.5 sm:gap-3.5 xl:gap-3.5">
             
             <!-- Card 1: Total Capturas -->
             <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-amber-500 min-w-0">
@@ -320,7 +326,7 @@
                 </div>
                 <div class="mt-2 min-w-0">
                     <span class="kpi-value text-cyan-600 dark:text-cyan-400" id="kpiZerados">0</span>
-                    <span class="text-xs text-slate-500 block truncate" id="kpiPercZerados">0% da base</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5" id="kpiPercZerados">0% da base</span>
                 </div>
             </div>
 
