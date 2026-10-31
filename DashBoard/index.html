@@ -135,6 +135,17 @@
             }
         }
 
+                /* --- REGRA DE OURO ANTI-OVERFLOW (ZERO ROLAGEM LATERAL) --- */
+        html, body {
+            width: 100% !important;
+            max-width: 100vw !important;
+            overflow-x: hidden !important;
+            box-sizing: border-box !important;
+        }
+        *, *::before, *::after {
+            box-sizing: border-box !important;
+        }
+
         /* Classes de Movimento Contínuo da Mandala */
         .radar-sweep-beam {
             transform-origin: 400px 400px;
@@ -385,24 +396,31 @@
                 </div>
             </div>
 
-            <!-- 2. Centro: Segmented Control (Abas de Alternância) -->
-            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold shrink-0"
+            <!-- 2. Centro: Atalhos de Navegação Rápida (Desktop) -->
+            <div class="hidden md:inline-flex p-1 rounded-xl border text-xs font-semibold shrink-0"
                  style="background: var(--kpi-bg); border-color: var(--border-color);">
-                <button id="btnGrid" onclick="switchView('grid')"
-                        class="px-2.5 sm:px-3.5 py-1 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5 whitespace-nowrap">
-                    <span>⊞</span>
-                    <span class="text-[11px] sm:text-xs">Painéis Operacionais (17)</span>
-                </button>
-                <button id="btnMandala" onclick="switchView('mandala')"
-                        class="px-2.5 sm:px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap"
-                        style="color: var(--text-secondary);">
+                <button id="btnMandalaNav" onclick="scrollToSection('mandalaSection')"
+                        class="px-3.5 py-1 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5 whitespace-nowrap">
                     <span>◎</span>
-                    <span class="text-[11px] sm:text-xs">Mandala 360°</span>
+                    <span class="text-xs">Mandala 360°</span>
+                </button>
+                <button id="btnGridNav" onclick="scrollToSection('gridSection')"
+                        class="px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap"
+                        style="color: var(--text-secondary);">
+                    <span>⊞</span>
+                    <span class="text-xs">Painéis Operacionais (17)</span>
                 </button>
             </div>
 
-            <!-- 3. Direita: Legenda das Bordas + KPI Consolidado + Toggle Tema -->
-            <div class="flex items-center gap-2 sm:gap-3 shrink-0 text-xs">
+            <!-- 3. Direita: Legenda das Bordas + KPI Consolidado + Atalho Mobile + Toggle Tema -->
+            <div class="flex items-center gap-1.5 sm:gap-3 shrink-0 text-xs">
+                <!-- Atalho Mobile Rápido para os Cards -->
+                <button type="button" onclick="scrollToSection('gridSection')"
+                        class="md:hidden px-2 py-1 rounded-lg text-[10px] font-bold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30 flex items-center gap-1 shadow-xs whitespace-nowrap"
+                        title="Rolar direto para a lista de relatórios">
+                    <span>⊞</span>
+                    <span>Cards ↓</span>
+                </button>
                 
                 <!-- Legenda Inteligente Compacta de Estados das Bordas -->
                 <div class="hidden md:flex items-center gap-2 text-[11px] font-mono" style="color: var(--text-secondary);">
@@ -450,7 +468,8 @@
         <section id="mandalaSection" class="w-full flex flex-col items-center justify-center transition-all duration-300">
 
             <!-- Mandala Visual Container Espaçoso (Aproveita 2 a 3 cm a mais verticalmente: 84vh / 920px) -->
-            <div id="mandalaContainer" class="mandala-container relative w-[min(96vw,84vh)] h-[min(96vw,84vh)] max-w-[920px] max-h-[920px] aspect-square mx-auto flex items-center justify-center p-1 sm:p-2 select-none">
+            <div id="mandalaContainer"
+                     class="w-[min(90vw,350px)] h-[min(90vw,350px)] sm:w-[min(88vw,520px)] sm:h-[min(88vw,520px)] md:w-[min(88vw,76vh)] md:h-[min(88vw,76vh)] max-w-[800px] max-h-[800px] aspect-square relative flex items-center justify-center select-none group/mandala mandala-container mx-auto">
                 
                 <!-- SVG de Fundo com Radar 360°, Órbitas e Fluxo de Dados -->
                 <svg viewBox="0 0 800 800" class="absolute inset-0 w-full h-full pointer-events-none">
@@ -557,7 +576,7 @@
 
                 <!-- NÓ CENTRAL / HUD INTERATIVO COM BATIMENTO CARDÍACO (HEARTBEAT OPERACIONAL) -->
                 <div id="centerHud"
-                     class="w-36 h-36 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-full border-2 flex flex-col items-center justify-center text-center p-2 sm:p-3 md:p-5 transition-all duration-300 z-10 relative cursor-pointer overflow-hidden group/hud"
+                     class="w-32 h-32 sm:w-44 sm:h-44 md:w-56 md:h-56 lg:w-64 lg:h-64 rounded-full border-2 flex flex-col items-center justify-center text-center p-2 sm:p-3 md:p-5 transition-all duration-300 z-10 relative cursor-pointer overflow-hidden group/hud"
                      style="background: var(--center-hud-bg); border-color: var(--center-hud-border); box-shadow: var(--center-hud-shadow); color: var(--text-primary);">
                     
                     <!-- Estado Padrão do Centro: Logo Usando o Círculo Total com Escritas Sobrepostas -->
@@ -1477,7 +1496,30 @@
         <!-- ======================================================== -->
         <!-- SEÇÃO 2: GRID EXECUTIVO CATEGORIZADO (MOBILE-FIRST)     -->
         <!-- ======================================================== -->
-        <section id="gridSection" class="w-full flex flex-col space-y-4 transition-all duration-300">
+        <section id="gridSection" class="w-full max-w-[1920px] mx-auto px-2 sm:px-4 md:px-6 lg:px-8 mt-6 sm:mt-10 flex flex-col space-y-5 transition-all duration-300">
+            <!-- Cabeçalho Oficial dos Cards Minimalistas -->
+            <div class="flex items-center justify-between border-b pb-3 mb-1" style="border-color: var(--border-color);">
+                <div class="flex items-center gap-2.5">
+                    <div class="w-8 h-8 rounded-xl bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold text-sm shadow-xs">
+                        ⊞
+                    </div>
+                    <div>
+                        <h2 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white leading-tight">
+                            Painéis Operacionais Consolidados
+                        </h2>
+                        <p class="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400">
+                            17 módulos técnicos por etapa agronômica • Safra 2026
+                        </p>
+                    </div>
+                </div>
+                <button type="button" onclick="scrollToSection('mandalaSection')"
+                        class="px-2.5 py-1 rounded-lg text-xs font-semibold text-emerald-600 dark:text-emerald-400 hover:bg-emerald-500/10 border border-emerald-500/20 transition flex items-center gap-1 shadow-xs"
+                        title="Voltar ao topo da Mandala 360°">
+                    <span>◎</span>
+                    <span class="hidden sm:inline">Mandala 360° ↑</span>
+                    <span class="sm:hidden">Topo ↑</span>
+                </button>
+            </div>
             <!-- Barra de Busca Minimalista & Filtro Rápido -->
             <div class="w-full max-w-2xl mx-auto px-1 sm:px-0">
                 <div class="relative flex items-center">
@@ -2481,29 +2523,45 @@
         const btnMandala = document.getElementById('btnMandala');
         const btnGrid = document.getElementById('btnGrid');
 
-        function switchView(view) {
-            if (view === 'mandala') {
-                mandalaSection.classList.remove('hidden');
-                gridSection.classList.add('hidden');
-                btnMandala.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center justify-center gap-1.5";
+        // Navegação Fluida por Scroll Suave (Mandala primeiro, Cards minimalistas logo abaixo)
+        function scrollToSection(sectionId) {
+            const target = document.getElementById(sectionId);
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+            updateNavButtons(sectionId === 'mandalaSection' ? 'mandala' : 'grid');
+        }
+
+        function updateNavButtons(activeView) {
+            const btnMandala = document.getElementById('btnMandalaNav');
+            const btnGrid = document.getElementById('btnGridNav');
+            if (!btnMandala || !btnGrid) return;
+
+            if (activeView === 'mandala') {
+                btnMandala.className = "px-3.5 py-1 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5 whitespace-nowrap";
                 btnMandala.style.color = "#ffffff";
-                btnMandala.style.background = "";
-                btnGrid.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all flex items-center justify-center gap-1.5";
+                btnGrid.className = "px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap";
                 btnGrid.style.color = "var(--text-secondary)";
-                btnGrid.style.background = "";
-                localStorage.setItem('pitangueiras_active_view', 'mandala');
             } else {
-                mandalaSection.classList.add('hidden');
-                gridSection.classList.remove('hidden');
-                btnGrid.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center justify-center gap-1.5";
+                btnGrid.className = "px-3.5 py-1 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5 whitespace-nowrap";
                 btnGrid.style.color = "#ffffff";
-                btnGrid.style.background = "";
-                btnMandala.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all flex items-center justify-center gap-1.5";
+                btnMandala.className = "px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap";
                 btnMandala.style.color = "var(--text-secondary)";
-                btnMandala.style.background = "";
-                localStorage.setItem('pitangueiras_active_view', 'grid');
             }
         }
+
+        // Observador de Scroll para sincronizar botões do header
+        window.addEventListener('scroll', () => {
+            const gridSec = document.getElementById('gridSection');
+            if (gridSec) {
+                const rect = gridSec.getBoundingClientRect();
+                if (rect.top <= 120) {
+                    updateNavButtons('grid');
+                } else {
+                    updateNavButtons('mandala');
+                }
+            }
+        }, { passive: true });
 
         // Interação com o Centro da Mandala ao passar o mouse ou tocar no celular
         const centerDefault = document.getElementById('centerDefault');
@@ -2757,12 +2815,8 @@
             if (e.target === modal) closeModal();
         });
 
-        // Inicialização Responsiva: Em telas pequenas (< 640px), inicia no Grid Minimalista para ergonomia perfeita
-        if (window.innerWidth < 640) {
-            switchView('grid');
-        } else {
-            switchView('mandala');
-        }
+        // REGRA DE OURO: Sempre vem primeiro a Mandala 360° no topo, depois os Cards Minimalistas!
+        // Ambas as seções permanecem ativas e visíveis no fluxo natural do documento.
 
         // Aplica o status de visitados ao carregar a página
         applyVisitedStates();
