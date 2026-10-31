@@ -95,7 +95,15 @@
     // 1. MODO TELA CHEIA PARA O MAPA LEAFLET (COM DESAGRUPAMENTO COMPLETO DE PONTOS)
     // =========================================================================
     function setupMapFullscreen() {
-        const mapEl = document.querySelector('div[id^="map"], .leaflet-container');
+        // Procura especificamente containers de mapa reais, excluindo cabeçalhos e badges da API
+        const mapCandidates = document.querySelectorAll('.leaflet-container, #map, #map-container, #mapa, #mapView, div[id*="map"]');
+        let mapEl = null;
+        for (const candidate of mapCandidates) {
+            if (candidate.closest('header, .header-glass, .site-header')) continue;
+            if (candidate.id && (candidate.id.includes('mapfy') || candidate.id.includes('badge') || candidate.id.includes('live'))) continue;
+            mapEl = candidate;
+            break;
+        }
         if (!mapEl) return;
 
         const mapCard = mapEl.closest('.p-6, .app-card, .bg-\\[var\\(--card-bg\\)\\], .rounded-2xl, section, .map-section') || mapEl.parentElement;

@@ -70,7 +70,7 @@
         let badge = document.getElementById('mapfy-server-live-badge');
         if (!badge) {
             badge = document.createElement('div');
-            badge.id = 'mapfy-server-live-badge';
+            badge.id = 'server-live-status-badge';
             badge.className = 'cursor-pointer inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-semibold transition shadow-sm';
             badge.title = 'Clique para configurar o endereço do Servidor MapFy 24/7';
             badge.addEventListener('click', promptConfigureApiUrl);

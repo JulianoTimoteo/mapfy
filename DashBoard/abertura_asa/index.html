@@ -20,24 +20,25 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="../common/css/fullscreen_inspector.css">
+    <!-- FontAwesome 6.4.0 Oficial -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
 
     <!-- 1. CABEÇALHO EXECUTIVO CORPORATIVO -->
-        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
         <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
     <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
         <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
 
             <div class="flex items-center gap-4 w-full md:w-auto justify-between md:justify-start">
                 <!-- Retorno Exclusivo ao Mandala Hub Central -->
-                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border-emerald-300 dark:border-emerald-800 border transition shadow-sm" title="Retornar à Mandala Hub Principal">
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 transition shadow-sm" title="Retornar à Mandala Hub Principal">
                     <i class="fa-solid fa-arrow-left"></i>
                     <span>Mandala Hub</span>
                 </a>
 
                 <div class="flex items-center gap-3">
-                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-10 w-auto object-contain">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo h-10 w-auto object-contain">
                     <div>
                         <div class="flex items-center gap-2">
                             <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
@@ -52,12 +53,10 @@
 
             <div class="flex items-center gap-3 w-full md:w-auto justify-end">
                 <span class="badge badge-emerald text-xs">
-                    <i class="fa-solid fa-arrows-left-right mr-1"></i>
-                    Safra 2026
+                    <i class="fa-solid fa-arrows-left-right mr-1"></i> Safra 2026
                 </span>
                 <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
-                    <i class="fa-solid fa-database mr-1"></i>
-                    979 Registros Auditados
+                    <i class="fa-solid fa-database mr-1"></i> 979 Registros Auditados
                 </span>
 
                 <!-- Alternador de Tema Claro / Escuro -->
