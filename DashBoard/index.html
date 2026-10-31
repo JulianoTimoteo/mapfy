@@ -182,34 +182,56 @@
             z-index: 50 !important;
             animation-play-state: paused !important;
         }
-        .mandala-node.is-focused .node-disc {
-            box-shadow: 0 0 28px rgba(16, 185, 129, 0.70) !important;
-            border-color: #10b981 !important;
+
+        /* --- BORDAS INTELIGENTES POR ESTADO (SEM BOLINHA) --- */
+        /* Padrão (Sem visita / Inativa): Borda neutra sutil */
+        .node-disc {
+            border: 2px solid rgba(148, 163, 184, 0.35) !important;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25) !important;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        /* --- INTELIGÊNCIA DE ESTADOS (VISITADOS E RECENTES) --- */
-        /* 1. Relatório Já Visitado pelo Usuário */
-        .mandala-node.is-visited .node-disc {
-            border-color: #38bdf8 !important; /* Azul Safira / Céu */
-            box-shadow: 0 0 16px rgba(56, 189, 248, 0.40) !important;
+        /* 1. Visitada: Borda Azul Safira / Céu */
+        .mandala-node.is-visited .node-disc,
+        .grid-item.is-visited {
+            border-color: #38bdf8 !important; /* Azul */
+            box-shadow: 0 0 16px rgba(56, 189, 248, 0.45) !important;
         }
         .mandala-node.is-visited .badge-index {
             background: rgba(56, 189, 248, 0.20) !important;
             color: #38bdf8 !important;
             border-color: rgba(56, 189, 248, 0.40) !important;
         }
-        .mandala-node.is-visited .visited-badge,
-        .grid-item.is-visited .visited-badge {
-            display: inline-flex !important;
+
+        /* 2. Visitou Recentemente (ou Atualização Recente da Safra): Borda Laranja Vibrante */
+        .mandala-node.is-recent .node-disc,
+        .mandala-node.is-recent-visited .node-disc,
+        .grid-item.is-recent,
+        .grid-item.is-recent-visited {
+            border-color: #f97316 !important; /* Laranja */
+            box-shadow: 0 0 18px rgba(249, 115, 22, 0.55) !important;
         }
-        .grid-item.is-visited {
-            border-color: rgba(56, 189, 248, 0.50) !important;
-            box-shadow: 0 4px 18px rgba(56, 189, 248, 0.14) !important;
+        .mandala-node.is-recent .badge-index,
+        .mandala-node.is-recent-visited .badge-index {
+            background: rgba(249, 115, 22, 0.20) !important;
+            color: #f97316 !important;
+            border-color: rgba(249, 115, 22, 0.40) !important;
         }
 
-        /* 2. Relatório com Atualização Recente na Safra */
-        .mandala-node.is-recent:not(.is-visited) .node-disc {
-            border-color: #f59e0b !important; /* Âmbar Dourado */
+        /* 3. Ativa (Nó em Foco, Selecionado no Centro ou Hover): Borda Verde Esmeralda */
+        .mandala-node.is-focused .node-disc,
+        .mandala-node.is-active .node-disc,
+        .mandala-node:hover .node-disc,
+        .grid-item.is-focused,
+        .grid-item:hover {
+            border-color: #10b981 !important; /* Verde */
+            box-shadow: 0 0 28px rgba(16, 185, 129, 0.80) !important;
+        }
+        .mandala-node.is-focused .badge-index,
+        .mandala-node:hover .badge-index {
+            background: rgba(16, 185, 129, 0.20) !important;
+            color: #10b981 !important;
+            border-color: rgba(16, 185, 129, 0.40) !important;
         }
 
         /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
@@ -337,22 +359,22 @@
                 </button>
             </div>
 
-            <!-- Indicador do Ciclo Completo e Legenda de Estados -->
+            <!-- Indicador do Ciclo Completo e Legenda de Estados das Bordas -->
             <div class="flex flex-wrap items-center gap-2.5 sm:gap-4 text-xs font-mono" style="color: var(--text-secondary);">
-                <div class="flex items-center gap-1.5">
-                    <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-[0_0_8px_#10b981]"></span>
-                    <span class="font-bold text-emerald-600 dark:text-emerald-400">17 Painéis Ativos</span>
+                <div class="flex items-center gap-1.5" title="Borda Verde: Módulo ativo / em foco no momento">
+                    <span class="w-3 h-3 rounded-full border-2 border-emerald-500 bg-emerald-500/20 shadow-[0_0_8px_#10b981]"></span>
+                    <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativa (Verde)</span>
                 </div>
                 <span>•</span>
-                <div class="flex items-center gap-1.5" title="Sincronizados recentemente na Safra (27/10)">
-                    <span class="w-2.5 h-2.5 rounded-full bg-amber-500 animate-pulse shadow-[0_0_8px_#f59e0b]"></span>
-                    <span class="font-semibold text-amber-500">12 Recentes</span>
+                <div class="flex items-center gap-1.5" title="Borda Laranja: Visitou recentemente ou sincronizado na safra">
+                    <span class="w-3 h-3 rounded-full border-2 border-orange-500 bg-orange-500/20 shadow-[0_0_8px_#f97316]"></span>
+                    <span class="font-semibold text-orange-500">Visitou Recentemente (Laranja)</span>
                 </div>
                 <span>•</span>
-                <div class="flex items-center gap-1.5" title="Relatórios consultados no seu navegador">
-                    <span class="w-2.5 h-2.5 rounded-full bg-sky-500 shadow-[0_0_8px_#38bdf8]"></span>
-                    <span class="font-semibold text-sky-500"><span id="countVisited">0</span> Visitados</span>
-                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-1 cursor-pointer" title="Zerar histórico de visitas">Limpar</button>
+                <div class="flex items-center gap-1.5" title="Borda Azul: Módulo já visitado e consultado">
+                    <span class="w-3 h-3 rounded-full border-2 border-sky-400 bg-sky-400/20 shadow-[0_0_8px_#38bdf8]"></span>
+                    <span class="font-semibold text-sky-400"><span id="countVisited">0</span> Visitadas (Azul)</span>
+                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-1 cursor-pointer" title="Zerar histórico local de relatórios visitados">✕ Limpar</button>
                 </div>
             </div>
         </div>
@@ -523,14 +545,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     01
                 </span>
-                
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -547,7 +566,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Subsolagem</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">367</span>
             </div>
         </div>
         
@@ -567,18 +585,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     02
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -595,7 +606,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Canteirização</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">389</span>
             </div>
         </div>
         
@@ -615,18 +625,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     03
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -644,7 +647,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Sulcação</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,820</span>
             </div>
         </div>
         
@@ -664,18 +666,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     04
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -694,7 +689,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Dosagem Sulco</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">1,279</span>
             </div>
         </div>
         
@@ -714,14 +708,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     05
                 </span>
-                
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -740,7 +731,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Abertura Asa</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">979</span>
             </div>
         </div>
         
@@ -760,14 +750,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     06
                 </span>
-                
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -787,7 +774,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Paralelismo RTK</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,453</span>
             </div>
         </div>
         
@@ -807,18 +793,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     07
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -835,7 +814,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Qualidade Muda</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,710</span>
             </div>
         </div>
         
@@ -855,18 +833,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     08
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -885,7 +856,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Qtd. Gemas</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,708</span>
             </div>
         </div>
         
@@ -905,18 +875,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     09
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -934,7 +897,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Qtd. Cana</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,579</span>
             </div>
         </div>
         
@@ -954,18 +916,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     10
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -980,7 +935,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Dosagem Cobr.</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">925</span>
             </div>
         </div>
         
@@ -1000,18 +954,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     11
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -1027,7 +974,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Cobrição</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">2,020</span>
             </div>
         </div>
         
@@ -1047,18 +993,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     12
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -1076,7 +1015,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Arremate</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">807</span>
             </div>
         </div>
         
@@ -1096,14 +1034,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     13
                 </span>
-                
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -1121,7 +1056,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Herbicida</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">30</span>
             </div>
         </div>
         
@@ -1141,14 +1075,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     14
                 </span>
-                
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -1164,7 +1095,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Broca Armadilha</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">116</span>
             </div>
         </div>
         
@@ -1184,18 +1114,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     15
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -1214,7 +1137,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Checklist Veic.</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">1,207</span>
             </div>
         </div>
         
@@ -1234,18 +1156,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     16
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <img src="assets/checklist_vivencia.png" alt="Checklist Vivência" class="w-full h-full object-contain drop-shadow rounded-xl pointer-events-none select-none">
@@ -1256,7 +1171,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>Área Vivência</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">347</span>
             </div>
         </div>
         
@@ -1276,18 +1190,11 @@
              onmouseleave="resetCenter()">
             
             <!-- Disco do Ícone Flutuante com Microinterações e Indicadores de Estado -->
-            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border border-emerald-500 ring-2 ring-emerald-500/40 shadow-[0_0_18px_rgba(16,185,129,0.35)] group-hover:scale-110"
+            <div class="node-disc w-9 h-9 sm:w-11 sm:h-11 md:w-13 md:h-13 lg:w-15 lg:h-15 xl:w-16 xl:h-16 rounded-xl sm:rounded-2xl p-1 sm:p-2 md:p-2.5 transition-all duration-300 flex items-center justify-center relative border-2 group-hover:scale-110"
                  style="background: var(--node-bg); box-shadow: var(--node-shadow);">
                 <span class="badge-index absolute -top-1 -right-1 sm:-top-1.5 sm:-right-1.5 text-[8px] sm:text-[9px] font-mono font-bold px-1 sm:px-1.5 py-0.2 rounded-full bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
                     17
                 </span>
-                
-        <span class="recent-dot absolute -top-1 -left-1 w-3 h-3 rounded-full bg-amber-400 ring-2 ring-amber-400/40 shadow-[0_0_8px_rgba(245,158,11,0.85)] z-30" title="Sincronizado recentemente na Safra (27/10/2026)">
-            <span class="absolute inset-0 rounded-full bg-amber-300 animate-ping opacity-75"></span>
-        </span>
-        
-                
-        <span class="visited-badge hidden absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white items-center justify-center text-[9px] font-bold shadow-md z-30 ring-2 ring-white dark:ring-slate-900" title="Relatório já consultado por você">✓</span>
         
                 <div class="w-5 h-5 sm:w-6 sm:h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
                     <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
@@ -1307,7 +1214,6 @@
             <div class="node-label hidden md:flex mt-1 px-2.5 py-0.5 rounded-full border text-[9px] lg:text-[10px] font-semibold transition-all duration-200 whitespace-nowrap shadow-sm group-hover:scale-105 items-center gap-1.5"
                  style="background: var(--node-label-bg); border-color: var(--node-label-border); color: var(--node-label-text);">
                 <span>5S & Gestão</span>
-                <span class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">171</span>
             </div>
         </div>
         
@@ -1323,7 +1229,6 @@
             <span class="font-mono text-[9px] font-bold text-emerald-500">01</span>
             
             <span>Subsolagem</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">367</span>
         </button>
         
         <button id="mobile-chip-1"
@@ -1331,9 +1236,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">02</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Canteirização</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">389</span>
         </button>
         
         <button id="mobile-chip-2"
@@ -1341,9 +1244,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">03</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Sulcação</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,820</span>
         </button>
         
         <button id="mobile-chip-3"
@@ -1351,9 +1252,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">04</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Dosagem Sulco</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">1,279</span>
         </button>
         
         <button id="mobile-chip-4"
@@ -1363,7 +1262,6 @@
             <span class="font-mono text-[9px] font-bold text-emerald-500">05</span>
             
             <span>Abertura Asa</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">979</span>
         </button>
         
         <button id="mobile-chip-5"
@@ -1373,7 +1271,6 @@
             <span class="font-mono text-[9px] font-bold text-emerald-500">06</span>
             
             <span>Paralelismo RTK</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,453</span>
         </button>
         
         <button id="mobile-chip-6"
@@ -1381,9 +1278,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">07</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Qualidade Muda</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,710</span>
         </button>
         
         <button id="mobile-chip-7"
@@ -1391,9 +1286,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">08</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Qtd. Gemas</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,708</span>
         </button>
         
         <button id="mobile-chip-8"
@@ -1401,9 +1294,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">09</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Qtd. Cana</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,579</span>
         </button>
         
         <button id="mobile-chip-9"
@@ -1411,9 +1302,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">10</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Dosagem Cobr.</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">925</span>
         </button>
         
         <button id="mobile-chip-10"
@@ -1421,9 +1310,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">11</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Cobrição</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">2,020</span>
         </button>
         
         <button id="mobile-chip-11"
@@ -1431,9 +1318,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">12</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Arremate</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">807</span>
         </button>
         
         <button id="mobile-chip-12"
@@ -1443,7 +1328,6 @@
             <span class="font-mono text-[9px] font-bold text-emerald-500">13</span>
             
             <span>Herbicida</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">30</span>
         </button>
         
         <button id="mobile-chip-13"
@@ -1453,7 +1337,6 @@
             <span class="font-mono text-[9px] font-bold text-emerald-500">14</span>
             
             <span>Broca Armadilha</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">116</span>
         </button>
         
         <button id="mobile-chip-14"
@@ -1461,9 +1344,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">15</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Checklist Veic.</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">1,207</span>
         </button>
         
         <button id="mobile-chip-15"
@@ -1471,9 +1352,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">16</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>Área Vivência</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">347</span>
         </button>
         
         <button id="mobile-chip-16"
@@ -1481,9 +1360,7 @@
                 class="mobile-step-chip shrink-0 px-2.5 py-1.5 rounded-xl border text-[11px] font-semibold flex items-center gap-1.5 transition-all shadow-sm"
                 style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
             <span class="font-mono text-[9px] font-bold text-emerald-500">17</span>
-            <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
             <span>5S & Gestão</span>
-            <span class="font-mono text-[10px] text-emerald-600 dark:text-emerald-400 font-bold opacity-80">171</span>
         </button>
         
             </div>
@@ -1522,8 +1399,7 @@
             <!-- Badges Superiores -->
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">01</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1566,7 +1442,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">02</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1609,7 +1485,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">03</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1653,7 +1529,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">04</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1697,8 +1573,7 @@
             <!-- Badges Superiores -->
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">05</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1742,8 +1617,7 @@
             <!-- Badges Superiores -->
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">06</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1789,7 +1663,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">07</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1832,7 +1706,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">08</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1877,7 +1751,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">09</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1921,7 +1795,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">10</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -1962,7 +1836,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">11</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2004,7 +1878,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">12</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2047,8 +1921,7 @@
             <!-- Badges Superiores -->
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">13</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2091,8 +1964,7 @@
             <!-- Badges Superiores -->
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">14</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2134,7 +2006,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">15</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2179,7 +2051,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">16</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2216,7 +2088,7 @@
             <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
                 <span class="font-mono text-emerald-500 font-semibold">17</span>
                 <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="visited-badge hidden px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-sky-500/20 text-sky-400 border border-sky-500/40 items-center gap-1">✓ Visto</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
                 </div>
             </div>
 
@@ -2485,10 +2357,10 @@
             if (!folder) return;
             try {
                 let visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
-                if (!visited.includes(folder)) {
-                    visited.push(folder);
-                    localStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
-                }
+                visited = visited.filter(f => f !== folder);
+                visited.push(folder);
+                localStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
+                localStorage.setItem('pitangueiras_last_visited', folder);
                 applyVisitedStates();
             } catch (e) {
                 console.warn('Erro ao salvar visita:', e);
@@ -2498,12 +2370,21 @@
         function applyVisitedStates() {
             try {
                 const visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
+                const lastVisited = localStorage.getItem('pitangueiras_last_visited');
+                
                 document.querySelectorAll('.mandala-node, .grid-item').forEach(el => {
                     const f = el.getAttribute('data-folder');
                     if (f && visited.includes(f)) {
                         el.classList.add('is-visited');
+                        // Destaca com borda laranja o que visitou mais recentemente
+                        if (f === lastVisited) {
+                            el.classList.add('is-recent-visited');
+                        } else {
+                            el.classList.remove('is-recent-visited');
+                        }
                     } else {
                         el.classList.remove('is-visited');
+                        el.classList.remove('is-recent-visited');
                     }
                 });
                 const vEl = document.getElementById('countVisited');
@@ -2513,6 +2394,7 @@
 
         function clearVisitedHistory() {
             localStorage.removeItem('pitangueiras_visited_modules');
+            localStorage.removeItem('pitangueiras_last_visited');
             applyVisitedStates();
         }
 
