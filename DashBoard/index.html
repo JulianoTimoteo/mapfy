@@ -2,7 +2,11 @@
 <html lang="pt-BR" class="dark">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="theme-color" content="#047857">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="MapFy 2026">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <title>Mandala & Hub Operacional • Usina Pitangueiras 2026</title>
@@ -287,6 +291,71 @@
         ::-webkit-scrollbar-thumb:hover {
             background: #10b981;
         }
+
+        /* ==================================================== */
+        /* REGRAS MOBILE-FIRST EXECUTIVAS (SÊNIOR UX / ERGONOMIA) */
+        /* ==================================================== */
+        * {
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        button, a, [role="button"], .exec-card, .mandala-node {
+            touch-action: manipulation;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+
+        body {
+            padding-top: env(safe-area-inset-top);
+            padding-bottom: env(safe-area-inset-bottom);
+            padding-left: env(safe-area-inset-left);
+            padding-right: env(safe-area-inset-right);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .exec-card {
+            border-radius: 14px;
+            border: 1.5px solid var(--border-color);
+            background: var(--card-bg);
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            cursor: pointer;
+            box-shadow: var(--node-shadow);
+        }
+
+        .exec-card:active {
+            transform: scale(0.96);
+            opacity: 0.90;
+        }
+
+        /* Estados das Bordas Inteligentes no Card Executivo */
+        .exec-card.is-visited {
+            border-color: #38bdf8 !important;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.25) !important;
+        }
+
+        .exec-card.is-recent-visited {
+            border-color: #f97316 !important;
+            box-shadow: 0 0 16px rgba(249, 115, 22, 0.45) !important;
+        }
+
+        /* Bottom Drawer / Sheet para o Modal em Celulares */
+        @media (max-width: 640px) {
+            #columnModal {
+                align-items: flex-end !important;
+                padding: 0 !important;
+            }
+            #columnModal > div {
+                border-bottom-left-radius: 0 !important;
+                border-bottom-right-radius: 0 !important;
+                border-top-left-radius: 24px !important;
+                border-top-right-radius: 24px !important;
+                max-height: 85vh !important;
+                padding-bottom: calc(16px + env(safe-area-inset-bottom)) !important;
+            }
+        }
+
     </style>
 </head>
 <body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white relative">
@@ -300,81 +369,78 @@
     <!-- Header Superior -->
     <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
             style="background: var(--header-bg); border-color: var(--border-color);">
-        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
+        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex items-center justify-between gap-3">
             
             <!-- Logo Oficial da Usina Pitangueiras 51 Anos -->
-            <div class="flex items-center gap-3.5">
-                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
+            <div class="flex items-center gap-2.5 sm:gap-3.5">
+                <div class="h-9 sm:h-11 px-2 py-0.5 sm:py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm shrink-0">
                     <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
                 </div>
                 <div>
-                    <div class="flex items-center gap-2">
-                        <h1 class="text-base sm:text-lg font-bold tracking-tight" style="color: var(--text-primary);">Hub de Inteligência Agrícola</h1>
-                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">Safra 2026</span>
+                    <div class="flex items-center gap-1.5 sm:gap-2">
+                        <h1 class="text-sm sm:text-lg font-bold tracking-tight text-slate-900 dark:text-slate-100">Hub MapFy</h1>
+                        <span class="text-[9px] sm:text-[10px] font-mono font-bold uppercase tracking-wider px-1.5 sm:px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">Safra 2026</span>
                     </div>
-                    <p class="text-xs" style="color: var(--text-secondary);">Monitoramento Operacional & Qualidade de Campo</p>
+                    <p class="text-[10px] sm:text-xs text-slate-500 dark:text-slate-400 hidden xs:block">Inteligência Operacional & Qualidade Agrícola</p>
                 </div>
             </div>
 
             <!-- KPIs Rápidos + Toggle de Tema Claro/Escuro -->
-            <div class="flex items-center gap-3 sm:gap-4 text-xs">
-                <div class="hidden sm:flex items-center gap-2 px-3 py-1.5 rounded-lg border transition-colors"
+            <div class="flex items-center gap-2 sm:gap-3 text-xs">
+                <div class="flex items-center gap-1.5 px-2.5 py-1 rounded-lg border transition-colors shadow-sm"
                      style="background: var(--kpi-bg); border-color: var(--border-color);">
-                    <span class="text-emerald-500 font-bold">●</span>
-                    <span style="color: var(--text-secondary);">Total Consolidado:</span>
-                    <strong class="font-mono text-emerald-500 font-bold">21,907</strong>
+                    <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+                    <span class="hidden sm:inline" style="color: var(--text-secondary);">Consolidado:</span>
+                    <strong class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">+21k Registros</strong>
                 </div>
 
                 <!-- Toggle Tema -->
-                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
+                <button id="themeToggle" class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl border flex items-center justify-center transition-colors hover:border-emerald-500 shadow-sm"
                         style="background: var(--kpi-bg); border-color: var(--border-color); color: var(--text-primary);"
-                        title="Alternar entre modo Claro e Escuro">
+                        title="Alternar entre modo Claro e Escuro" aria-label="Alternar tema">
                     <span id="themeIcon">🌙</span>
                 </button>
             </div>
         </div>
     </header>
 
-    <!-- Barra de Controle Central: Mandala vs Grid + Legenda Inteligente de Estados -->
-    <div class="border-b py-2.5 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
+    <!-- Barra de Navegação Superior: Painéis Operacionais vs Mandala 360° -->
+    <div class="border-b py-2 sticky top-[57px] sm:top-[65px] z-30 backdrop-blur-md transition-colors"
          style="background: var(--header-bg); border-color: var(--border-color);">
-        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-wrap items-center justify-between gap-3">
+        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2.5">
             
-            <!-- Grupo de Alternância Centralizado -->
-            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
+            <!-- Grupo de Alternância: 2 Abas Modernas -->
+            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold w-full sm:w-auto justify-center"
                  style="background: var(--kpi-bg); border-color: var(--border-color);">
-                <button id="btnMandala" onclick="switchView('mandala')"
-                        class="px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm">
-                    Mandala Circular
-                </button>
                 <button id="btnGrid" onclick="switchView('grid')"
-                        class="px-4 py-1.5 rounded-lg transition-all"
-                        style="color: var(--text-secondary);">
-                    Grid Minimalista
+                        class="flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center justify-center gap-1.5">
+                    <span>⊞</span>
+                    <span>Painéis Operacionais (17)</span>
                 </button>
-                <button id="btnBoth" onclick="switchView('both')"
-                        class="px-4 py-1.5 rounded-lg transition-all"
+                <button id="btnMandala" onclick="switchView('mandala')"
+                        class="flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all flex items-center justify-center gap-1.5"
                         style="color: var(--text-secondary);">
-                    ◈ Ambos
+                    <span>◎</span>
+                    <span>Mandala 360°</span>
                 </button>
             </div>
 
-            <!-- Indicador do Ciclo Completo e Legenda de Estados das Bordas -->
-            <div class="flex flex-wrap items-center gap-2.5 sm:gap-4 text-xs font-mono" style="color: var(--text-secondary);">
-                <div class="flex items-center gap-1.5" title="Borda Verde: Módulo ativo / em foco no momento">
-                    <span class="w-3 h-3 rounded-full border-2 border-emerald-500 bg-emerald-500/20 shadow-[0_0_8px_#10b981]"></span>
-                    <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativa</span>
+            <!-- Legenda Inteligente Compacta de Estados das Bordas -->
+            <div class="flex items-center justify-center gap-2 sm:gap-3 text-[11px] font-mono" style="color: var(--text-secondary);">
+                <div class="flex items-center gap-1" title="Borda Verde: Painel Operacional Ativo">
+                    <span class="w-2.5 h-2.5 rounded-full border-2 border-emerald-500 bg-emerald-500/20 shadow-[0_0_6px_#10b981]"></span>
+                    <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativo</span>
                 </div>
                 <span>•</span>
-                <div class="flex items-center gap-1.5" title="Borda Laranja: Visitou recentemente ou sincronizado na safra">
-                    <span class="w-3 h-3 rounded-full border-2 border-orange-500 bg-orange-500/20 shadow-[0_0_8px_#f97316]"></span>
-                    <span class="font-semibold text-orange-500">Visitou Recentemente</span>
+                <div class="flex items-center gap-1" title="Borda Laranja: Visitado Recentemente">
+                    <span class="w-2.5 h-2.5 rounded-full border-2 border-orange-500 bg-orange-500/20 shadow-[0_0_6px_#f97316]"></span>
+                    <span class="font-semibold text-orange-500">Recente</span>
                 </div>
                 <span>•</span>
-                <div class="flex items-center gap-1.5" title="Borda Azul: Módulo já visitado e consultado">
-                    <span class="w-3 h-3 rounded-full border-2 border-sky-400 bg-sky-400/20 shadow-[0_0_8px_#38bdf8]"></span>
+                <div class="flex items-center gap-1" title="Borda Azul: Já Consultado">
+                    <span class="w-2.5 h-2.5 rounded-full border-2 border-sky-400 bg-sky-400/20 shadow-[0_0_6px_#38bdf8]"></span>
                     <span class="font-semibold text-sky-400"><span id="countVisited">0</span> Visitadas</span>
-                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-1 cursor-pointer" title="Zerar histórico local de relatórios visitados">✕ Limpar</button>
+                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-0.5 cursor-pointer" title="Zerar histórico">✕ Limpar</button>
                 </div>
             </div>
         </div>
@@ -1414,128 +1480,160 @@
         </section>
 
         <!-- ======================================================== -->
-        <!-- SEÇÃO 2: GRID MINIMALISTA 4xX COM BUSCA INSTANTÂNEA      -->
+        <!-- SEÇÃO 2: GRID EXECUTIVO CATEGORIZADO (MOBILE-FIRST)     -->
         <!-- ======================================================== -->
-        <section id="gridSection" class="w-full hidden flex flex-col space-y-4 transition-all duration-300">
-            <!-- Barra de Busca Minimalista -->
-            <div class="w-full max-w-xl mx-auto mb-2">
+        <section id="gridSection" class="w-full flex flex-col space-y-4 transition-all duration-300">
+            <!-- Barra de Busca Minimalista & Filtro Rápido -->
+            <div class="w-full max-w-2xl mx-auto px-1 sm:px-0">
                 <div class="relative flex items-center">
                     <input type="text" id="gridSearch"
-                           placeholder="Filtrar por nome da etapa ou categoria..."
-                           class="w-full px-4 py-2.5 pl-10 rounded-xl border text-xs sm:text-sm transition-all focus:outline-none focus:ring-2 focus:ring-emerald-500"
+                           placeholder="Buscar módulo, etapa agronômica ou palavra-chave..."
+                           class="w-full px-4 py-2.5 pl-10 rounded-xl border text-xs sm:text-sm font-medium transition-all focus:outline-none focus:ring-2 focus:ring-emerald-500 shadow-sm"
                            style="background: var(--card-bg); border-color: var(--border-color); color: var(--text-primary);">
-                    <span class="absolute left-3.5 text-slate-400 text-xs sm:text-sm">🔍</span>
+                    <span class="absolute left-3.5 text-slate-400 text-xs sm:text-sm pointer-events-none">🔍</span>
+                    <button id="clearSearchBtn" onclick="document.getElementById('gridSearch').value=''; document.getElementById('gridSearch').dispatchEvent(new Event('input'))"
+                            class="absolute right-3 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 text-xs font-bold hidden p-1">✕</button>
                 </div>
             </div>
 
-            <!-- Grid de Cartões -->
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 w-full">
-                
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 03.1 - preparo de solo - subsolagem"
-             data-cat="preparo de solo"
-             data-folder="Plantio - 03.1 - Preparo de Solo - Subsolagem"
-             data-index="0"
-             onclick="handleNodeClick(0, 'subsolagem/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">01</span>
-                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+            <!-- Categoria: 🌱 Preparo de Solo -->
+            <div class="category-block w-full" data-cat-block="preparo">
+                <div class="category-header flex items-center justify-between py-1.5 px-1 border-b mb-3" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400 font-sans">🌱 Preparo de Solo</span>
+                    </div>
+                    <span class="text-[10px] sm:text-xs font-mono font-medium text-slate-500 dark:text-slate-400">2 módulos técnicos</span>
                 </div>
-            </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5 sm:gap-3.5 w-full">
+
+                    <!-- Card 01: Subsolagem -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="subsolagem plantio - 03.1 - preparo de solo - subsolagem preparo de solo etapa 01"
+                         data-cat="preparo"
+                         data-folder="Plantio - 03.1 - Preparo de Solo - Subsolagem"
+                         data-index="0"
+                         onclick="handleNodeClick(0, 'subsolagem/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">01</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
+
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <path d="M8 20h48" stroke="var(--icon-main)" stroke-width="3" stroke-linecap="round"/>
         <path d="M12 26h10m16 0h14" stroke="var(--icon-main)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
         <path d="M26 12h12v14l-6 16h-4l-2-16V12z" fill="var(--icon-main)"/>
         <path d="M28 42l16 12-22-2 6-10z" fill="#10B981"/>
         <path d="M20 52l-10 4m26-2l10 4" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 03.1 - Preparo de Solo - Subsolagem
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 03.1 - Preparo de Solo - Subsolagem">
+                                Subsolagem
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">367 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">09/09</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">367 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">09/09/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 03.1 - preparo de solo - canteirização"
-             data-cat="preparo de solo"
-             data-folder="Plantio - 03.1 - Preparo de Solo - Canteirização"
-             data-index="1"
-             onclick="handleNodeClick(1, 'canteirizacao/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">02</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 02: Canteirização -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="canteirização plantio - 03.1 - preparo de solo - canteirização preparo de solo etapa 02"
+                         data-cat="preparo"
+                         data-folder="Plantio - 03.1 - Preparo de Solo - Canteirização"
+                         data-index="1"
+                         onclick="handleNodeClick(1, 'canteirizacao/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">02</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <path d="M8 50h48" stroke="var(--icon-main)" stroke-width="3" stroke-linecap="round"/>
         <path d="M12 50l10-24h20l10 24H12z" fill="var(--icon-main)"/>
         <path d="M22 26h20" stroke="#10B981" stroke-width="3.5" stroke-linecap="round"/>
         <circle cx="32" cy="16" r="4" fill="#10B981"/>
         <path d="M32 10v6m-6-3h12" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
     </svg>
+                            </div>
+                        </div>
+
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 03.1 - Preparo de Solo - Canteirização">
+                                Canteirização
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">389 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 03.1 - Preparo de Solo - Canteirização
-            </h3>
-
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">389 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 05 - sulcação"
-             data-cat="operação de plantio"
-             data-folder="Plantio - 05 - Sulcação"
-             data-index="2"
-             onclick="handleNodeClick(2, 'sulcacao/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">03</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+            <!-- Categoria: 🚜 Operação de Plantio & Precisão -->
+            <div class="category-block w-full" data-cat-block="plantio">
+                <div class="category-header flex items-center justify-between py-1.5 px-1 border-b mb-3" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400 font-sans">🚜 Operação de Plantio & Precisão</span>
+                    </div>
+                    <span class="text-[10px] sm:text-xs font-mono font-medium text-slate-500 dark:text-slate-400">4 módulos técnicos</span>
                 </div>
-            </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5 sm:gap-3.5 w-full">
+
+                    <!-- Card 03: Sulcação Técnica -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="sulcação técnica plantio - 05 - sulcação operação de plantio etapa 03"
+                         data-cat="plantio"
+                         data-folder="Plantio - 05 - Sulcação"
+                         data-index="2"
+                         onclick="handleNodeClick(2, 'sulcacao/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">03</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
+
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <!-- Haste e Asas do Sulcador -->
         <rect x="29" y="8" width="6" height="15" rx="2" fill="var(--icon-main)"/>
         <path d="M20 22h24l-8 12h-8l-8-12z" fill="var(--icon-main)"/>
@@ -1546,43 +1644,46 @@
         <line x1="32" y1="40" x2="32" y2="47" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 2"/>
         <circle cx="32" cy="47" r="2.5" fill="#10B981"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 05 - Sulcação
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 05 - Sulcação">
+                                Sulcação Técnica
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.820 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,820 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 04 - dosagem de produto - sulcação"
-             data-cat="operação de plantio"
-             data-folder="Plantio - 04 - Dosagem de Produto - Sulcação"
-             data-index="3"
-             onclick="handleNodeClick(3, 'dosagem_sulco/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">04</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 04: Dosagem no Sulco -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="dosagem no sulco plantio - 04 - dosagem de produto - sulcação operação de plantio etapa 04"
+                         data-cat="plantio"
+                         data-folder="Plantio - 04 - Dosagem de Produto - Sulcação"
+                         data-index="3"
+                         onclick="handleNodeClick(3, 'dosagem_sulco/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">04</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <!-- Corpo Técnico do Bico Pulverizador -->
         <rect x="28" y="7" width="8" height="8" rx="2" fill="var(--icon-main)"/>
         <path d="M24 15h16v6l-4 6h-8l-4-6v-6z" fill="var(--icon-main)"/>
@@ -1596,42 +1697,46 @@
         <circle cx="27" cy="52" r="1.5" fill="#10B981"/>
         <circle cx="37" cy="52" r="1.5" fill="#10B981"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 04 - Dosagem de Produto - Sulcação
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 04 - Dosagem de Produto - Sulcação">
+                                Dosagem no Sulco
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">1.279 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">1,279 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 06 - abertura da asa"
-             data-cat="operação de plantio"
-             data-folder="Plantio - 06 - Abertura da Asa"
-             data-index="4"
-             onclick="handleNodeClick(4, 'abertura_asa/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">05</span>
-                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 05: Abertura da Asa -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="abertura da asa plantio - 06 - abertura da asa operação de plantio etapa 05"
+                         data-cat="plantio"
+                         data-folder="Plantio - 06 - Abertura da Asa"
+                         data-index="4"
+                         onclick="handleNodeClick(4, 'abertura_asa/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">05</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="30" y="8" width="4" height="38" rx="2" fill="var(--icon-main)"/>
         <circle cx="32" cy="46" r="3" fill="var(--icon-main)"/>
         <path d="M30 32L12 18l4-4 14 12v6z" fill="var(--icon-main)"/>
@@ -1640,42 +1745,46 @@
         <circle cx="16" cy="36" r="2.5" fill="#10B981"/>
         <circle cx="48" cy="36" r="2.5" fill="#10B981"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 06 - Abertura da Asa
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 06 - Abertura da Asa">
+                                Abertura da Asa
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">979 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">26/09</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">979 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">26/09/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 07 - paralelismo"
-             data-cat="agricultura de precisão"
-             data-folder="Plantio - 07 - Paralelismo"
-             data-index="5"
-             onclick="handleNodeClick(5, 'paralelismo/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">06</span>
-                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 06: Paralelismo GNSS -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="paralelismo gnss plantio - 07 - paralelismo operação de plantio etapa 06"
+                         data-cat="plantio"
+                         data-folder="Plantio - 07 - Paralelismo"
+                         data-index="5"
+                         onclick="handleNodeClick(5, 'paralelismo/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">06</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="18" y="16" width="5" height="42" rx="2.5" fill="var(--icon-main)"/>
         <rect x="41" y="16" width="5" height="42" rx="2.5" fill="var(--icon-main)"/>
         <polygon points="32,6 37,11 32,16 27,11" fill="#10B981"/>
@@ -1685,86 +1794,106 @@
         <polygon points="23,37 27,34 27,40" fill="#10B981"/>
         <polygon points="41,37 37,34 37,40" fill="#10B981"/>
     </svg>
+                            </div>
+                        </div>
+
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 07 - Paralelismo">
+                                Paralelismo GNSS
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.453 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">28/09</span>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 07 - Paralelismo
-            </h3>
-
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,453 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">28/09/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 08 - qualidade da muda"
-             data-cat="material genético"
-             data-folder="Plantio - 08 - Qualidade da muda"
-             data-index="6"
-             onclick="handleNodeClick(6, 'qualidade_muda/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">07</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+            <!-- Categoria: 🌾 Qualidade de Muda & Cobrição -->
+            <div class="category-block w-full" data-cat-block="qualidade">
+                <div class="category-header flex items-center justify-between py-1.5 px-1 border-b mb-3" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400 font-sans">🌾 Qualidade de Muda & Cobrição</span>
+                    </div>
+                    <span class="text-[10px] sm:text-xs font-mono font-medium text-slate-500 dark:text-slate-400">6 módulos técnicos</span>
                 </div>
-            </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5 sm:gap-3.5 w-full">
+
+                    <!-- Card 07: Qualidade da Muda -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="qualidade da muda plantio - 08 - qualidade da muda qualidade & cobrição etapa 07"
+                         data-cat="qualidade"
+                         data-folder="Plantio - 08 - Qualidade da muda"
+                         data-index="6"
+                         onclick="handleNodeClick(6, 'qualidade_muda/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">07</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
+
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="24" y="24" width="16" height="32" rx="5" fill="var(--icon-main)"/>
         <line x1="24" y1="40" x2="40" y2="40" stroke="var(--icon-cutout)" stroke-width="2"/>
         <path d="M32 24c0-12-12-16-20-16 0 8 8 16 20 16z" fill="#10B981"/>
         <path d="M32 24c0-12 12-16 20-16 0 8-8 16-20 16z" fill="#10B981"/>
         <circle cx="32" cy="24" r="3" fill="var(--icon-main)"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 08 - Qualidade da muda
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 08 - Qualidade da muda">
+                                Qualidade da Muda
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.710 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,710 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 09 - quantidade de gemas"
-             data-cat="amostragem de campo"
-             data-folder="Plantio - 09 - Quantidade de Gemas"
-             data-index="7"
-             onclick="handleNodeClick(7, 'viabilidade_gemas/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">08</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 08: Viabilidade de Gemas -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="viabilidade de gemas plantio - 09 - quantidade de gemas qualidade & cobrição etapa 08"
+                         data-cat="qualidade"
+                         data-folder="Plantio - 09 - Quantidade de Gemas"
+                         data-index="7"
+                         onclick="handleNodeClick(7, 'viabilidade_gemas/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">08</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="22" y="8" width="20" height="48" rx="6" fill="var(--icon-main)"/>
         <line x1="22" y1="24" x2="42" y2="24" stroke="var(--icon-cutout)" stroke-width="2.5"/>
         <line x1="22" y1="40" x2="42" y2="40" stroke="var(--icon-cutout)" stroke-width="2.5"/>
@@ -1773,43 +1902,46 @@
         <circle cx="32" cy="48" r="3.5" fill="#10B981"/>
         <path d="M46 16l6-3m-6 19l6-3m-6 19l6-3" stroke="#10B981" stroke-width="2.5" stroke-linecap="round"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 09 - Quantidade de Gemas
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 09 - Quantidade de Gemas">
+                                Viabilidade de Gemas
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.708 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,708 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 10 - quantidade de cana"
-             data-cat="consumo de muda"
-             data-folder="Plantio - 10 - Quantidade de Cana"
-             data-index="8"
-             onclick="handleNodeClick(8, 'qualidade_cana/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">09</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 09: Quantidade de Cana -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="quantidade de cana plantio - 10 - quantidade de cana qualidade & cobrição etapa 09"
+                         data-cat="qualidade"
+                         data-folder="Plantio - 10 - Quantidade de Cana"
+                         data-index="8"
+                         onclick="handleNodeClick(8, 'qualidade_cana/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">09</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <circle cx="24" cy="38" r="9" fill="var(--icon-main)"/>
         <circle cx="40" cy="38" r="9" fill="var(--icon-main)"/>
         <circle cx="32" cy="24" r="9" fill="var(--icon-main)"/>
@@ -1817,43 +1949,46 @@
         <circle cx="40" cy="38" r="4" fill="#10B981"/>
         <circle cx="32" cy="24" r="4" fill="#10B981"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 10 - Quantidade de Cana
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 10 - Quantidade de Cana">
+                                Quantidade de Cana
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.579 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,579 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 11 - dosagem de produto - cobrição"
-             data-cat="proteção de cultivo"
-             data-folder="Plantio - 11 - Dosagem de Produto - Cobrição"
-             data-index="9"
-             onclick="handleNodeClick(9, 'dosagem_cobricao/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">10</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 10: Dosagem na Cobrição -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="dosagem na cobrição plantio - 11 - dosagem de produto - cobrição qualidade & cobrição etapa 10"
+                         data-cat="qualidade"
+                         data-folder="Plantio - 11 - Dosagem de Produto - Cobrição"
+                         data-index="9"
+                         onclick="handleNodeClick(9, 'dosagem_cobricao/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">10</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <!-- Corpo Técnico do Bico Pulverizador -->
         <rect x="28" y="7" width="8" height="8" rx="2" fill="var(--icon-main)"/>
         <path d="M24 15h16v6l-4 6h-8l-4-6v-6z" fill="var(--icon-main)"/>
@@ -1867,85 +2002,91 @@
         <circle cx="27" cy="52" r="1.5" fill="#10B981"/>
         <circle cx="37" cy="52" r="1.5" fill="#10B981"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 11 - Dosagem de Produto - Cobrição
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 11 - Dosagem de Produto - Cobrição">
+                                Dosagem na Cobrição
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">925 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">925 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 12 - cobrição"
-             data-cat="operação de plantio"
-             data-folder="Plantio - 12 - Cobrição"
-             data-index="10"
-             onclick="handleNodeClick(10, 'cobricao/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">11</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 11: Cobrição do Sulco -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="cobrição do sulco plantio - 12 - cobrição qualidade & cobrição etapa 11"
+                         data-cat="qualidade"
+                         data-folder="Plantio - 12 - Cobrição"
+                         data-index="10"
+                         onclick="handleNodeClick(10, 'cobricao/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">11</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <path d="M8 44c10-6 20-6 30 0s18 4 18 4" stroke="var(--icon-main)" stroke-width="4" stroke-linecap="round"/>
         <rect x="22" y="44" width="20" height="8" rx="2" fill="#10B981"/>
         <path d="M32 16v18m-6-6l6 6 6-6" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
         <circle cx="32" cy="12" r="3" fill="var(--icon-main)"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 12 - Cobrição
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 12 - Cobrição">
+                                Cobrição do Sulco
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.020 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">2,020 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="plantio - 13 - arremate e acabamento"
-             data-cat="acabamento operacional"
-             data-folder="Plantio - 13 - Arremate e Acabamento"
-             data-index="11"
-             onclick="handleNodeClick(11, 'arremate_acabamento/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">12</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 12: Arremate & Acabamento -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="arremate & acabamento plantio - 13 - arremate e acabamento qualidade & cobrição etapa 12"
+                         data-cat="qualidade"
+                         data-folder="Plantio - 13 - Arremate e Acabamento"
+                         data-index="11"
+                         onclick="handleNodeClick(11, 'arremate_acabamento/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">12</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="12" y="12" width="40" height="40" rx="8" fill="var(--icon-main)"/>
         <rect x="18" y="18" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
         <rect x="34" y="18" width="12" height="12" rx="3" fill="var(--icon-cutout)"/>
@@ -1953,42 +2094,60 @@
         <rect x="34" y="34" width="12" height="12" rx="3" fill="#10B981"/>
         <circle cx="40" cy="40" r="3" fill="var(--icon-main)"/>
     </svg>
+                            </div>
+                        </div>
+
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Plantio - 13 - Arremate e Acabamento">
+                                Arremate & Acabamento
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">807 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Plantio - 13 - Arremate e Acabamento
-            </h3>
-
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">807 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="tratos - herbicida"
-             data-cat="tratos culturais"
-             data-folder="Tratos - Herbicida"
-             data-index="12"
-             onclick="handleNodeClick(12, 'herbicida/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">13</span>
-                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+            <!-- Categoria: 🌿 Tratos Culturais & Fitossanidade -->
+            <div class="category-block w-full" data-cat-block="tratos">
+                <div class="category-header flex items-center justify-between py-1.5 px-1 border-b mb-3" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400 font-sans">🌿 Tratos Culturais & Fitossanidade</span>
+                    </div>
+                    <span class="text-[10px] sm:text-xs font-mono font-medium text-slate-500 dark:text-slate-400">2 módulos técnicos</span>
                 </div>
-            </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5 sm:gap-3.5 w-full">
+
+                    <!-- Card 13: Aplicação de Herbicida -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="aplicação de herbicida tratos - herbicida tratos & fitossanidade etapa 13"
+                         data-cat="tratos"
+                         data-folder="Tratos - Herbicida"
+                         data-index="12"
+                         onclick="handleNodeClick(12, 'herbicida/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">13</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
+
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="8" y="18" width="48" height="6" rx="3" fill="var(--icon-main)"/>
         <line x1="32" y1="10" x2="32" y2="18" stroke="var(--icon-main)" stroke-width="3"/>
         <path d="M14 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
@@ -1996,42 +2155,46 @@
         <path d="M38 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
         <path d="M50 28l-4 18m2-18l4 18" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Tratos - Herbicida
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Tratos - Herbicida">
+                                Aplicação de Herbicida
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">30 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">20/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">30 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">20/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="infestação de broca - armadilha"
-             data-cat="fitossanidade"
-             data-folder="Infestação de Broca - Armadilha"
-             data-index="13"
-             onclick="handleNodeClick(13, 'broca_armadilha/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">14</span>
-                <div class="flex items-center gap-1.5"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 14: Infestação de Broca -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="infestação de broca infestação de broca - armadilha tratos & fitossanidade etapa 14"
+                         data-cat="tratos"
+                         data-folder="Infestação de Broca - Armadilha"
+                         data-index="13"
+                         onclick="handleNodeClick(13, 'broca_armadilha/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">14</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <!-- Gancho de Suspensão no Canavial -->
         <path d="M32 6v8m0 0a4 4 0 01-4-4" stroke="var(--icon-main)" stroke-width="2.5" stroke-linecap="round"/>
         <!-- Prisma Triangular da Armadilha Delta -->
@@ -2044,43 +2207,60 @@
         <path d="M32 34c6-5 12-3 13 4-3 2-9 0-13-2z" fill="#10B981"/>
         <path d="M31 31c-2-3-4-4-6-4m7 4c2-3 4-4 6-4" stroke="#10B981" stroke-width="1.2" stroke-linecap="round"/>
     </svg>
+                            </div>
+                        </div>
+
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="Infestação de Broca - Armadilha">
+                                Infestação de Broca
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">116 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">30/09</span>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Infestação de Broca - Armadilha
-            </h3>
-
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">116 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">30/09/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="check list veicular"
-             data-cat="frotas & logística"
-             data-folder="CHECK LIST VEICULAR"
-             data-index="14"
-             onclick="handleNodeClick(14, 'checklist_veicular/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">15</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
+            <!-- Categoria: 🛡️ SSOMA, Frotas & Gestão Operacional -->
+            <div class="category-block w-full" data-cat-block="ssoma">
+                <div class="category-header flex items-center justify-between py-1.5 px-1 border-b mb-3" style="border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400 font-sans">🛡️ SSOMA, Frotas & Gestão Operacional</span>
+                    </div>
+                    <span class="text-[10px] sm:text-xs font-mono font-medium text-slate-500 dark:text-slate-400">3 módulos técnicos</span>
                 </div>
-            </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2.5 sm:gap-3.5 w-full">
+
+                    <!-- Card 15: Checklist Veicular -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="checklist veicular check list veicular ssoma & gestão etapa 15"
+                         data-cat="ssoma"
+                         data-folder="CHECK LIST VEICULAR"
+                         data-index="14"
+                         onclick="handleNodeClick(14, 'checklist_veicular/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">15</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
+
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <!-- Cabine Frontal do Veículo Pesado -->
         <rect x="14" y="16" width="36" height="34" rx="6" fill="var(--icon-main)"/>
         <!-- Para-brisa Técnico -->
@@ -2100,80 +2280,86 @@
         <rect x="12" y="48" width="5" height="4" rx="1.5" fill="var(--icon-main)"/>
         <rect x="47" y="48" width="5" height="4" rx="1.5" fill="var(--icon-main)"/>
     </svg>
-                </div>
-            </div>
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                CHECK LIST VEICULAR
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="CHECK LIST VEICULAR">
+                                Checklist Veicular
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">1.207 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">1,207 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="check-list área de vivência _ colheita"
-             data-cat="ssoma & segurança"
-             data-folder="#Check-list área de vivência _ Colheita"
-             data-index="15"
-             onclick="handleNodeClick(15, 'area_vivencia/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">16</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 16: Área de Vivência -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="área de vivência #check-list área de vivência _ colheita ssoma & gestão etapa 16"
+                         data-cat="ssoma"
+                         data-folder="#Check-list área de vivência _ Colheita"
+                         data-index="15"
+                         onclick="handleNodeClick(15, 'area_vivencia/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">16</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <img src="assets/checklist_vivencia.png" alt="Checklist Vivência" class="w-full h-full object-contain drop-shadow rounded-xl pointer-events-none select-none">
-                </div>
-            </div>
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <img src="assets/checklist_vivencia.png" alt="Checklist Vivência" class="w-full h-full object-contain drop-shadow rounded-xl pointer-events-none select-none">
+                            </div>
+                        </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                Check-list área de vivência _ Colheita
-            </h3>
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="#Check-list área de vivência _ Colheita">
+                                Área de Vivência
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">347 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
 
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">347 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
-        <div class="grid-item group rounded-2xl p-6 border transition-all duration-200 flex flex-col items-center text-center cursor-pointer relative hover:border-emerald-500/60 hover:shadow-lg"
-             style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
-             data-name="5s e gestão - tpl"
-             data-cat="gestão & qualidade"
-             data-folder="5S e Gestão - TPL"
-             data-index="16"
-             onclick="handleNodeClick(16, 'tpl_5s/index.html')">
-            
-            <!-- Badges Superiores -->
-            <div class="w-full flex items-center justify-between text-[11px] mb-3 px-1" style="color: var(--text-secondary);">
-                <span class="font-mono text-emerald-500 font-semibold">17</span>
-                <div class="flex items-center gap-1.5">
-                    <span class="px-1.5 py-0.5 rounded-md text-[9px] font-bold bg-amber-500/20 text-amber-500 border border-amber-500/40 flex items-center gap-1"><span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>Recente</span><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500 text-white shadow-sm flex items-center gap-1"><span>⚡</span><span>Painel Ativo</span></span>
-                </div>
-            </div>
+                    <!-- Card 17: 5S & Gestão TPL -->
+                    <div class="grid-item exec-card group rounded-xl p-3 border transition-all duration-200 flex flex-col justify-between cursor-pointer relative hover:border-emerald-500/60 hover:shadow-md active:scale-[0.97]"
+                         style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--node-shadow);"
+                         data-name="5s & gestão tpl 5s e gestão - tpl ssoma & gestão etapa 17"
+                         data-cat="ssoma"
+                         data-folder="5S e Gestão - TPL"
+                         data-index="16"
+                         onclick="handleNodeClick(16, 'tpl_5s/index.html')">
+                        
+                        <!-- Topo: Número da Etapa + Status da Borda -->
+                        <div class="w-full flex items-center justify-between text-[11px] mb-1.5" style="color: var(--text-secondary);">
+                            <span class="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">17</span>
+                            <div class="flex items-center gap-1">
+                                <span class="w-2 h-2 rounded-full border border-emerald-500 bg-emerald-500 shadow-[0_0_6px_#10b981]" title="Painel Operacional Ativo"></span>
+                            </div>
+                        </div>
 
-            <!-- Ícone Generoso Minimalista -->
-            <div class="w-18 h-18 sm:w-20 sm:h-20 p-2 my-2 flex items-center justify-center transition-transform duration-200 group-hover:scale-110">
-                <div class="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center">
-                    <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
+                        <!-- Ícone Técnico Centralizado -->
+                        <div class="w-full py-1 flex items-center justify-center transition-transform duration-200 group-hover:scale-105">
+                            <div class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center pointer-events-none select-none">
+                                <svg viewBox="0 0 64 64" fill="none" class="w-full h-full drop-shadow">
         <rect x="12" y="12" width="40" height="46" rx="5" fill="var(--icon-main)"/>
         <rect x="24" y="6" width="16" height="8" rx="3" fill="var(--icon-cutout)" stroke="var(--icon-main)" stroke-width="2"/>
         <circle cx="22" cy="24" r="3.5" fill="#10B981"/>
@@ -2183,23 +2369,33 @@
         <circle cx="22" cy="44" r="3.5" fill="#10B981"/>
         <line x1="28" y1="44" x2="44" y2="44" stroke="var(--icon-cutout)" stroke-width="3" stroke-linecap="round"/>
     </svg>
+                            </div>
+                        </div>
+
+                        <!-- Título do Módulo -->
+                        <div class="w-full mt-1.5">
+                            <h3 class="font-bold text-xs sm:text-sm leading-snug line-clamp-2 group-hover:text-emerald-500 transition-colors text-slate-800 dark:text-slate-100"
+                                title="5S e Gestão - TPL">
+                                5S & Gestão TPL
+                            </h3>
+                            
+                            <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
+                            <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
+                                 style="border-color: var(--border-color);">
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">171 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
-            <!-- Título do Relatório -->
-            <h3 class="font-semibold text-sm leading-snug mt-2 mb-1.5 transition-colors line-clamp-2 group-hover:text-emerald-500"
-                style="color: var(--text-primary);">
-                5S e Gestão - TPL
-            </h3>
-
-            <!-- Indicador Numérico em Verde -->
-            <div class="mt-auto pt-3 border-t w-full flex items-center justify-between text-xs"
-                 style="border-color: var(--border-color);">
-                <span class="font-mono font-bold text-emerald-500 tracking-tight">171 reg.</span>
-                <span class="text-[11px] font-mono" style="color: var(--text-secondary);">27/10/2026</span>
-            </div>
-        </div>
-        
+            <!-- Mensagem caso a busca não retorne nada -->
+            <div id="noResultsMsg" class="hidden py-12 text-center text-slate-400">
+                <div class="text-3xl mb-2">🔍</div>
+                <p class="text-sm font-semibold">Nenhum módulo encontrado</p>
+                <p class="text-xs mt-1">Tente buscar por outro termo ou limpe o campo de busca.</p>
             </div>
         </section>
 
@@ -2284,44 +2480,33 @@
         }
         updateThemeIcon();
 
-        // Alternância de Visualização: Mandala vs Grid vs Ambos
+        // Alternância de Visualização: Painéis Operacionais (Grid) vs Mandala 360°
         const mandalaSection = document.getElementById('mandalaSection');
         const gridSection = document.getElementById('gridSection');
         const btnMandala = document.getElementById('btnMandala');
         const btnGrid = document.getElementById('btnGrid');
-        const btnBoth = document.getElementById('btnBoth');
 
         function switchView(view) {
             if (view === 'mandala') {
                 mandalaSection.classList.remove('hidden');
                 gridSection.classList.add('hidden');
-                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
-                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all";
-                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all";
+                btnMandala.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center justify-center gap-1.5";
+                btnMandala.style.color = "#ffffff";
+                btnMandala.style.background = "";
+                btnGrid.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all flex items-center justify-center gap-1.5";
                 btnGrid.style.color = "var(--text-secondary)";
-                btnBoth.style.color = "var(--text-secondary)";
                 btnGrid.style.background = "";
-                btnBoth.style.background = "";
-            } else if (view === 'grid') {
+                localStorage.setItem('pitangueiras_active_view', 'mandala');
+            } else {
                 mandalaSection.classList.add('hidden');
                 gridSection.classList.remove('hidden');
-                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
-                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all";
-                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all";
-                btnMandala.style.color = "var(--text-secondary)";
-                btnBoth.style.color = "var(--text-secondary)";
-                btnMandala.style.background = "";
-                btnBoth.style.background = "";
-            } else {
-                mandalaSection.classList.remove('hidden');
-                gridSection.classList.remove('hidden');
-                btnBoth.className = "px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm";
-                btnMandala.className = "px-4 py-1.5 rounded-lg transition-all";
-                btnGrid.className = "px-4 py-1.5 rounded-lg transition-all";
-                btnMandala.style.color = "var(--text-secondary)";
-                btnGrid.style.color = "var(--text-secondary)";
-                btnMandala.style.background = "";
+                btnGrid.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center justify-center gap-1.5";
+                btnGrid.style.color = "#ffffff";
                 btnGrid.style.background = "";
+                btnMandala.className = "flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all flex items-center justify-center gap-1.5";
+                btnMandala.style.color = "var(--text-secondary)";
+                btnMandala.style.background = "";
+                localStorage.setItem('pitangueiras_active_view', 'grid');
             }
         }
 
@@ -2345,11 +2530,9 @@
             selectedNodeIdx = idx;
             activeSelectedUrl = getActiveUrl(node.folder);
 
-            // Adiciona classe de foco cinemático na mandala
             const container = document.getElementById('mandalaContainer');
             if (container) container.classList.add('has-focus');
 
-            // Destaque nos nós
             document.querySelectorAll('.mandala-node').forEach(n => {
                 if (parseInt(n.getAttribute('data-index')) === idx) {
                     n.classList.add('is-focused');
@@ -2358,7 +2541,6 @@
                 }
             });
 
-            // Ilumina o spoke (linha radial) com brilho especial
             document.querySelectorAll('[id^="spoke-"]').forEach(s => {
                 s.setAttribute('stroke-width', '1.0');
                 s.setAttribute('stroke-opacity', '0.15');
@@ -2370,43 +2552,33 @@
                 spoke.setAttribute('stroke-opacity', '1.0');
             }
 
-            // Preenche o Centro
-            centerDefault.classList.add('hidden');
-            centerActive.classList.remove('hidden');
+            if (centerDefault && centerActive) {
+                centerDefault.classList.add('hidden');
+                centerActive.classList.remove('hidden');
 
-            activeCategory.innerText = `ETAPA ${String(idx+1).padStart(2, '0')} • ${node.category}`;
-            activeName.innerText = node.clean_name;
-            activeRows.innerText = `${node.rows.toLocaleString()} reg.`;
-            activeDate.innerText = `Sincronia: ${node.latest_date}`;
+                activeCategory.innerText = `ETAPA ${String(idx+1).padStart(2, '0')} • ${node.category}`;
+                activeName.innerText = node.clean_name;
+                activeRows.innerText = `${node.rows.toLocaleString()} reg.`;
+                activeDate.innerText = `Sincronia: ${node.latest_date}`;
 
-            if (activeSelectedUrl) {
-                activeActionLabel.innerText = "🚀 Abrir Painel Executivo";
-                activeActionLabel.className = "text-[9px] sm:text-[10px] bg-emerald-600 hover:bg-emerald-500 text-white px-3 py-1 rounded-full font-mono font-bold shadow-md animate-pulse cursor-pointer inline-block";
-            } else {
-                activeActionLabel.innerText = "Ver Detalhes das Colunas";
-                activeActionLabel.className = "text-[9px] sm:text-[10px] bg-slate-600 text-white px-3 py-1 rounded-full font-mono font-bold cursor-pointer inline-block";
-            }
+                if (activeSelectedUrl) {
+                    activeActionLabel.innerText = "🚀 Abrir Painel Executivo";
+                    activeActionLabel.className = "text-[9px] sm:text-[10px] bg-emerald-600 hover:bg-emerald-500 text-white px-3 py-1 rounded-full font-mono font-bold shadow-md animate-pulse cursor-pointer inline-block";
+                } else {
+                    activeActionLabel.innerText = "Ver Detalhes das Colunas";
+                    activeActionLabel.className = "text-[9px] sm:text-[10px] bg-slate-600 text-white px-3 py-1 rounded-full font-mono font-bold cursor-pointer inline-block";
+                }
 
-            // Pega o ícone do próprio nó
-            const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"] svg, .mandala-node[data-index="${idx}"] img`);
-            if (nodeEl) {
-                activeIconContainer.innerHTML = nodeEl.outerHTML;
-            }
-
-            // Atualiza destaque no chip mobile
-            document.querySelectorAll('.mobile-step-chip').forEach(c => {
-                c.classList.remove('ring-2', 'ring-emerald-500', 'bg-emerald-500/15');
-            });
-            const chip = document.getElementById(`mobile-chip-${idx}`);
-            if (chip) {
-                chip.classList.add('ring-2', 'ring-emerald-500', 'bg-emerald-500/15');
-                chip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+                const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"] svg, .mandala-node[data-index="${idx}"] img`);
+                if (nodeEl) {
+                    activeIconContainer.innerHTML = nodeEl.outerHTML;
+                }
             }
         }
 
         function resetCenter() {
             const isMobile = window.innerWidth < 768;
-            if (isMobile) return; // No mobile mantém o selecionado até outro clique
+            if (isMobile) return;
 
             const container = document.getElementById('mandalaContainer');
             if (container) container.classList.remove('has-focus');
@@ -2415,12 +2587,13 @@
                 n.classList.remove('is-focused');
             });
 
-            centerDefault.classList.remove('hidden');
-            centerActive.classList.add('hidden');
+            if (centerDefault && centerActive) {
+                centerDefault.classList.remove('hidden');
+                centerActive.classList.add('hidden');
+            }
             selectedNodeIdx = null;
             activeSelectedUrl = null;
 
-            // Reseta todos os spokes para a cor de tema atual
             document.querySelectorAll('[id^="spoke-"]').forEach((sp, idx) => {
                 const node = formsData[idx];
                 const isAct = node && getActiveUrl(node.folder);
@@ -2450,11 +2623,10 @@
                 const visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
                 const lastVisited = localStorage.getItem('pitangueiras_last_visited');
                 
-                document.querySelectorAll('.mandala-node, .grid-item').forEach(el => {
+                document.querySelectorAll('.mandala-node, .grid-item, .exec-card').forEach(el => {
                     const f = el.getAttribute('data-folder');
                     if (f && visited.includes(f)) {
                         el.classList.add('is-visited');
-                        // Destaca com borda laranja o que visitou mais recentemente
                         if (f === lastVisited) {
                             el.classList.add('is-recent-visited');
                         } else {
@@ -2482,32 +2654,13 @@
                 markAsVisited(item.folder);
             }
 
-            const isMobile = window.innerWidth < 768;
-            if (!isMobile) {
-                if (url) {
-                    window.location.href = url;
-                } else {
-                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
-                }
-                return;
+            if (url) {
+                window.location.href = url;
+            } else if (item) {
+                openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
             }
-
-            // No celular: se já estava selecionado este nó, abre direto
-            if (selectedNodeIdx === idx) {
-                if (url) {
-                    window.location.href = url;
-                    return;
-                } else {
-                    if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
-                    return;
-                }
-            }
-
-            // Primeiro toque: seleciona e ilumina no centro
-            highlightNode(idx);
         }
 
-        // Clique no Center HUD abre o painel selecionado
         const centerHud = document.getElementById('centerHud');
         if (centerHud) {
             centerHud.addEventListener('click', () => {
@@ -2520,24 +2673,49 @@
             });
         }
 
-        // Busca no Grid Minimalista
+        // Busca Inteligente no Grid Executivo
         const gridSearch = document.getElementById('gridSearch');
-        const gridItems = document.querySelectorAll('.grid-item');
+        const clearSearchBtn = document.getElementById('clearSearchBtn');
+        const noResultsMsg = document.getElementById('noResultsMsg');
 
-        gridSearch.addEventListener('input', (e) => {
-            const q = e.target.value.toLowerCase().trim();
-            gridItems.forEach(item => {
-                const name = item.getAttribute('data-name');
-                const cat = item.getAttribute('data-cat');
-                if (name.includes(q) || cat.includes(q)) {
-                    item.style.display = 'flex';
-                } else {
-                    item.style.display = 'none';
+        if (gridSearch) {
+            gridSearch.addEventListener('input', (e) => {
+                const q = e.target.value.toLowerCase().trim();
+                if (clearSearchBtn) {
+                    if (q.length > 0) clearSearchBtn.classList.remove('hidden');
+                    else clearSearchBtn.classList.add('hidden');
+                }
+
+                let totalVisible = 0;
+                document.querySelectorAll('.category-block').forEach(catBlock => {
+                    let catVisibleCount = 0;
+                    const items = catBlock.querySelectorAll('.grid-item');
+                    items.forEach(item => {
+                        const name = item.getAttribute('data-name') || '';
+                        const folder = (item.getAttribute('data-folder') || '').toLowerCase();
+                        if (!q || name.includes(q) || folder.includes(q)) {
+                            item.style.display = 'flex';
+                            catVisibleCount++;
+                            totalVisible++;
+                        } else {
+                            item.style.display = 'none';
+                        }
+                    });
+                    if (catVisibleCount > 0) {
+                        catBlock.style.display = 'block';
+                    } else {
+                        catBlock.style.display = 'none';
+                    }
+                });
+
+                if (noResultsMsg) {
+                    if (totalVisible === 0) noResultsMsg.classList.remove('hidden');
+                    else noResultsMsg.classList.add('hidden');
                 }
             });
-        });
+        }
 
-        // Modal de Colunas para outros formulários
+        // Modal de Colunas// Modal de Colunas para outros formulários
         const modal = document.getElementById('columnModal');
         const modalTitle = document.getElementById('modalTitle');
         const modalCat = document.getElementById('modalCat');
