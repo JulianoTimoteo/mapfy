@@ -316,6 +316,20 @@
         html.dark .aerial-backdrop-overlay {
             background: radial-gradient(circle at 50% 50%, rgba(15, 23, 42, 0.40) 0%, rgba(15, 23, 42, 0.78) 65%, rgba(15, 23, 42, 0.95) 100%);
         }
+        .center-logo-dark {
+            display: none;
+        }
+        html.dark #centerDefault .center-logo-light {
+            display: none;
+        }
+        html.dark #centerDefault .center-logo-dark {
+            display: block;
+            filter: none;
+            opacity: 1;
+        }
+        html.dark #centerDefault .center-logo-dark + div {
+            display: none;
+        }
         /* No tema claro: transparência suave e vinheta clara */
         html:not(.dark) .aerial-backdrop-img {
             opacity: 0.12;
@@ -629,7 +643,9 @@
                         <!-- Logo da Usina Usando o Círculo Total de Fundo -->
                         <div class="absolute inset-0 w-full h-full flex items-center justify-center p-2 pointer-events-none -z-10 overflow-hidden rounded-full">
                             <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos"
-                                 class="w-full h-full object-contain opacity-45 dark:opacity-35 transition-transform duration-500 group-hover/hud:scale-105 filter drop-shadow">
+                                 class="center-logo-image center-logo-light w-full h-full object-contain opacity-45 transition-transform duration-500 group-hover/hud:scale-105 filter drop-shadow">
+                            <img src="assets/logo_pitangueiras_dark.png" alt="" aria-hidden="true"
+                                 class="center-logo-image center-logo-dark w-full h-full object-contain transition-transform duration-500 group-hover/hud:scale-105">
                             <div class="absolute inset-0 rounded-full bg-gradient-to-b from-white/40 via-white/10 to-white/50 dark:from-slate-950/60 dark:via-slate-950/25 dark:to-slate-950/70 backdrop-blur-[0.3px]"></div>
                         </div>
 
