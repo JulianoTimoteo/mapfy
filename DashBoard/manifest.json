@@ -1,0 +1,30 @@
+{
+  "name": "MapFy 2026 • Usina Pitangueiras",
+  "short_name": "MapFy 2026",
+  "description": "Central de Inteligência Agrícola e Qualidade Operacional da Usina Pitangueiras",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "assets/pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -925,33 +925,84 @@ body.dark-mode .header-glass #themeToggleBtn i.fa-sun,
     display: inline !important;
 }
 
-/* Responsividade Mobile para o Cabeçalho */
+/* Responsividade Mobile Profissional para o Cabeçalho dos 17 Relatórios */
 @media (max-width: 768px) {
     .header-glass {
-        padding: 0.5rem 0.75rem !important;
+        padding: 0.5rem 0.65rem !important;
+        overflow-x: hidden !important;
     }
     .header-glass > div {
         flex-direction: column !important;
         align-items: stretch !important;
         gap: 0.5rem !important;
+        width: 100% !important;
+        max-width: 100% !important;
     }
     .header-glass > div > div:first-child {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        align-items: center !important;
         justify-content: space-between !important;
         width: 100% !important;
+        gap: 0.4rem !important;
     }
-    .header-glass > div > div:last-child {
-        justify-content: flex-start !important;
+    /* Linha 1 no celular: Widget 24/7 e Botão Mandala Hub */
+    .header-glass #badgeStatus247,
+    .header-glass .badge-247-container {
+        order: 1 !important;
+        margin: 0 !important;
+    }
+    .header-glass .btn-mandala {
+        order: 2 !important;
+        padding: 0.35rem 0.65rem !important;
+        font-size: 0.75rem !important;
+        margin: 0 !important;
+    }
+    /* Linha 2 no celular: Logo + Identidade e Título (ocupa 100% da largura, quebrando perfeitamente) */
+    .header-glass > div > div:first-child > div:last-child {
+        order: 3 !important;
         width: 100% !important;
-        overflow-x: auto !important;
-        padding-bottom: 2px !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 0.5rem !important;
+        margin-top: 0.2rem !important;
+        min-width: 0 !important;
+        overflow: hidden !important;
+    }
+    .header-glass > div > div:first-child > div:last-child > div {
+        min-width: 0 !important;
+        flex: 1 1 auto !important;
+        overflow: hidden !important;
     }
     .header-glass h1 {
-        font-size: 0.95rem !important;
+        font-size: 0.875rem !important;
+        line-height: 1.25 !important;
+        font-weight: 800 !important;
+        word-break: break-word !important;
+        overflow-wrap: break-word !important;
+        white-space: normal !important;
+        margin-top: 0.15rem !important;
     }
     .header-glass img,
     .header-glass .header-logo {
-        height: 32px !important;
-        max-height: 32px !important;
+        height: 28px !important;
+        max-height: 28px !important;
+        width: auto !important;
+        flex-shrink: 0 !important;
+    }
+    /* Linha 3 no celular: Badges Safra, Medições e Botão Tema */
+    .header-glass > div > div:last-child {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        width: 100% !important;
+        gap: 0.4rem !important;
+        padding-top: 0.3rem !important;
+        border-top: 1px solid rgba(226, 232, 240, 0.6) !important;
+        overflow-x: auto !important;
+    }
+    html.dark .header-glass > div > div:last-child {
+        border-top-color: rgba(51, 65, 85, 0.6) !important;
     }
 }
 

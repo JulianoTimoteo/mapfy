@@ -268,8 +268,9 @@
     function initCharts() {
         if (window.ChartDataLabels) {
             Chart.register(ChartDataLabels);
+        } else {
+            Chart.register(fallbackDataLabelsPlugin);
         }
-        Chart.register(fallbackDataLabelsPlugin);
 
         const isDark = document.documentElement.classList.contains('dark');
         const textColor = isDark ? '#94A3B8' : '#64748B';

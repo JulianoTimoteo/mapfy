@@ -39,6 +39,8 @@
         try { setupUniversalChartsPlugin(); } catch (e) { console.warn('[Pitangueiras] setupUniversalChartsPlugin error:', e); }
         try { setupTimelineQuickFilters(); } catch (e) { console.warn('[Pitangueiras] setupTimelineQuickFilters error:', e); }
         try { setupUniversalItemInfoSystem(); } catch (e) { console.warn('[Pitangueiras] setupUniversalItemInfoSystem error:', e); }
+        try { setupAutoDismissNoticeBanners(); } catch (e) { console.warn('[Pitangueiras] setupAutoDismissNoticeBanners error:', e); }
+        try { setupPwaSupport(); } catch (e) {}
         try {
             if (!window.MapfyApiConnector && !document.querySelector('script[src*="api_connector.js"]')) {
                 const s = document.createElement('script');
@@ -442,6 +444,16 @@
             afterDatasetsDraw(chart) {
                 const chartType = chart.config.type;
                 if (chartType !== 'bar' && chartType !== 'doughnut' && chartType !== 'pie') return;
+
+                // REGRA CRÍTICA: Se for gráfico de barra e o Chart.js já possuir datalabels ativo/oficial,
+                // NUNCA desenhar manualmente por cima para evitar dados duplicados!
+                if (chartType === 'bar') {
+                    const hasDatalabels = (chart.options?.plugins?.datalabels && chart.options.plugins.datalabels.display !== false);
+                    const hasGlobalPlugin = (window.ChartDataLabels && chart.options?.plugins?.datalabels?.display !== false);
+                    if (hasDatalabels || hasGlobalPlugin) {
+                        return; // O ChartDataLabels oficial já desenha os valores perfeitamente!
+                    }
+                }
 
                 const ctx = chart.ctx;
                 const isDark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark-theme');
@@ -877,18 +889,9 @@
         // Seletor cirúrgico e abrangente cobrindo todos os títulos de blocos dos 17 relatórios
         const SELECTORS = [
             'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
-            '.kpi-title', '.kpi-label', '.chart-card-title', '.filters-title', '.card-title', '.audit-item-title', '.notice-title',
-            '.kpi-header > span', '.kpi-header > div',
+            '.kpi-title', '.chart-card-title', '.filters-title', '.card-title', '.audit-item-title', '.notice-title',
             '.chart-card-header .chart-card-title',
-            'div.text-xs.font-bold', 'span.text-xs.font-bold',
-            'div.text-sm.font-bold', 'span.text-sm.font-bold',
-            'span[class*="text-[10px]"][class*="uppercase"]',
-            'div[class*="text-[10px]"][class*="uppercase"]',
-            'span[class*="text-xs"][class*="uppercase"][class*="font-bold"]',
-            'div[class*="text-xs"][class*="uppercase"][class*="font-bold"]',
-            'span[class*="font-semibold"][class*="text-xs"]',
-            'div[class*="font-semibold"][class*="text-xs"]',
-            'span[class*="text-slate-500"][class*="truncate"]'
+            'div.text-sm.font-bold', 'span.text-sm.font-bold'
         ];
 
         const elements = document.querySelectorAll(SELECTORS.join(', '));
@@ -896,6 +899,12 @@
         elements.forEach(el => {
             // REGRA ESTRITA: NUNCA injetar dentro de miolos de gráficos donut, canvas ou botões de controle!
             if (el.closest('#donutCenterOverlay, [id*="donutCenter"], [id*="centerPerc"], [id*="CenterPerc"], .donut-center-total-sum, canvas, .chart-canvas-container, .popover-card, .site-header, .site-footer, .header-glass, button, .btn-toggle-fullscreen, .timeline-quick-filter-group')) {
+                return;
+            }
+
+            // REGRA: Se o card já possui um botão (i), NUNCA adicionar outro dentro do mesmo card!
+            const parentCard = el.closest('.app-card, [class*="card"]');
+            if (parentCard && parentCard.querySelector('.btn-info-popover')) {
                 return;
             }
 
@@ -1132,4 +1141,68 @@
         }
     }
 
+
+    // =========================================================================
+    // 6. AUTO-DISMISS DE BANNERS E AVISOS CONTEXTUAIS (5 SEGUNDOS)
+    // =========================================================================
+    function setupAutoDismissNoticeBanners() {
+        const banners = document.querySelectorAll('#noticeBrocaBanner, [id*="notice"], [id*="Notice"], [class*="notice-card"], .context-banner');
+        banners.forEach(banner => {
+            if (banner._dismissTimerInitialized) return;
+            banner._dismissTimerInitialized = true;
+
+            // Transição suave
+            banner.style.transition = 'all 0.6s cubic-bezier(0.4, 0, 0.2, 1)';
+
+            // Botão manual de fechar caso não exista
+            if (!banner.querySelector('.btn-dismiss-banner')) {
+                const closeBtn = document.createElement('button');
+                closeBtn.type = 'button';
+                closeBtn.className = 'btn-dismiss-banner';
+                closeBtn.title = 'Fechar aviso agora';
+                closeBtn.innerHTML = '✕';
+                closeBtn.style.cssText = 'position:absolute; top:8px; right:10px; background:transparent; border:none; color:#94a3b8; font-size:14px; font-weight:bold; cursor:pointer; padding:4px 8px; border-radius:6px;';
+                closeBtn.onclick = () => dismissBanner(banner);
+                banner.style.position = 'relative';
+                banner.appendChild(closeBtn);
+            }
+
+            // Timer automático de 5 segundos
+            setTimeout(() => {
+                dismissBanner(banner);
+            }, 5000);
+        });
+    }
+
+    function dismissBanner(banner) {
+        if (!banner) return;
+        banner.style.opacity = '0';
+        banner.style.transform = 'translateY(-10px)';
+        banner.style.maxHeight = banner.scrollHeight + 'px';
+        requestAnimationFrame(() => {
+            banner.style.maxHeight = '0px';
+            banner.style.paddingTop = '0px';
+            banner.style.paddingBottom = '0px';
+            banner.style.marginTop = '0px';
+            banner.style.marginBottom = '0px';
+            banner.style.overflow = 'hidden';
+        });
+    }
+
+    // =========================================================================
+    // 7. SUPORTE PWA AUTOMÁTICO NOS 17 DASHBOARDS
+    // =========================================================================
+    function setupPwaSupport() {
+        if (!document.querySelector('script[src*="pwa_installer.js"]')) {
+            const s = document.createElement('script');
+            s.src = '../common/js/pwa_installer.js';
+            document.head.appendChild(s);
+        }
+        if (!document.querySelector('link[rel="manifest"]')) {
+            const m = document.createElement('link');
+            m.rel = 'manifest';
+            m.href = '../manifest.json';
+            document.head.appendChild(m);
+        }
+    }
 })();
