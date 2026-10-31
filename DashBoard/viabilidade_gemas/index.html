@@ -35,39 +35,74 @@
 <body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
 
     <!-- 1. CABEÇALHO EXECUTIVO (NAVEGAÇÃO ESTRITA: APENAS RETORNO AO HUB) -->
-    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
-            style="background: var(--bg-header); border-color: var(--border-color);">
-        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
-            
-            <div class="flex items-center gap-3.5">
-                <a href="../index.html" class="p-2 rounded-xl border transition-all hover:border-emerald-500 hover:scale-105 flex items-center justify-center shadow-sm"
-                   style="background: var(--bg-card); border-color: var(--border-color);"
-                   title="Voltar para a Mandala Hub">
-                    <span class="text-sm font-bold text-emerald-500">←</span>
-                    <span class="text-xs font-semibold ml-1 hidden sm:inline text-[var(--text-secondary)]">Mandala Hub</span>
-                </a>
-                
-                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
-                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
-                </div>
+        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+    <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
 
-                <div>
-                    <div class="flex items-center gap-2">
-                        <h1 class="text-base sm:text-lg font-bold tracking-tight text-[var(--text-primary)]">
-                            Plantio — Quantidade e Viabilidade de Gemas
+            <div class="flex items-center gap-4 w-full md:w-auto justify-between md:justify-start">
+                <!-- Retorno Exclusivo ao Mandala Hub Central -->
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border-emerald-300 dark:border-emerald-800 border transition shadow-sm" title="Retornar à Mandala Hub Principal">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <span>Mandala Hub</span>
+                </a>
+
+                <div class="flex items-center gap-3">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-10 w-auto object-contain">
+                    <div>
+                        <div class="flex items-center gap-2">
+                            <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                            <span class="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">Amostragem de Campo • Brotação & Gemas</span>
+                        </div>
+                        <h1 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+                            Central de Inteligência — Viabilidade de Gemas
                         </h1>
-                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
-                            Safra 2026
-                        </span>
                     </div>
-                    <p class="text-xs text-[var(--text-secondary)]">
-                        Monitoramento de gemas totais, viáveis e inviáveis • Auditoria de consistência matemática • Qualidade agronômica de dados
-                    </p>
                 </div>
             </div>
 
-            <!-- Controles do Cabeçalho -->
-            <div class="flex items-center gap-2 sm:gap-2.5 text-xs flex-wrap">
+            <div class="flex items-center gap-3 w-full md:w-auto justify-end">
+                <span class="badge badge-emerald text-xs">
+                    <i class="fa-solid fa-circle-check mr-1"></i>
+                    Safra 2026
+                </span>
+                <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
+                    <i class="fa-solid fa-database mr-1"></i>
+                    2.708 Amostras de Gemas
+                </span>
+
+                <!-- Alternador de Tema Claro / Escuro -->
+                <button id="themeToggleBtn" type="button" class="p-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition" title="Alternar Tema Claro / Escuro">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- BANNER DE INFORMAÇÃO OPERACIONAL INICIAL (CONFORME SEÇÃO 7 DO PROMPT MESTRE) -->
+    <div id="initialNoticeBanner" class="border-b py-2 px-4 transition-colors"
+         style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.25);">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-2 text-xs">
+            <div class="flex items-center gap-2 text-[var(--text-primary)]">
+                <span class="text-emerald-500 font-bold">ℹ️</span>
+                <span>
+                    Painel inicializado na data mais recente disponível: <strong id="bannerDateStr">28/10/2026</strong> (<span id="bannerCountStr">11 inspeções</span>).
+                    Para consultar todo o histórico da safra (2.708 registros), clique em:
+                </span>
+                <button onclick="setQuickPeriod('all')" class="underline font-bold text-emerald-600 dark:text-emerald-400 hover:opacity-80">
+                    [Safra Completa]
+                </button>
+            </div>
+            <button onclick="dismissBanner()" class="text-xs text-[var(--text-secondary)] hover:text-rose-500 px-2">
+                ✕ Fechar aviso
+            </button>
+        </div>
+    </div>
+
+    <!-- 2. BARRA DE FILTROS GLOBAIS AVANÇADOS -->
+    <section id="filterSection" class="border-b py-3 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
+             style="background: var(--bg-header); border-color: var(--border-color);">
+            <div class="w-full max-w-[1920px] mx-auto px-4 py-2 flex flex-wrap items-center gap-2 sm:gap-3">
                 <!-- Seletor Rápido de Período e Auditoria -->
                 <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
                      style="background: var(--bg-kpi); border-color: var(--border-color);">
@@ -125,38 +160,8 @@
                 </button>
 
                 <!-- Toggle Tema Claro/Escuro -->
-                <button id="themeToggle" class="p-2 rounded-xl border transition-colors hover:border-emerald-500"
-                        style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
-                        title="Alternar entre modo Claro e Escuro">
-                    <span id="themeIcon">🌙</span>
-                </button>
             </div>
-        </div>
-    </header>
-
-    <!-- BANNER DE INFORMAÇÃO OPERACIONAL INICIAL (CONFORME SEÇÃO 7 DO PROMPT MESTRE) -->
-    <div id="initialNoticeBanner" class="border-b py-2 px-4 transition-colors"
-         style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.25);">
-        <div class="w-full max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-2 text-xs">
-            <div class="flex items-center gap-2 text-[var(--text-primary)]">
-                <span class="text-emerald-500 font-bold">ℹ️</span>
-                <span>
-                    Painel inicializado na data mais recente disponível: <strong id="bannerDateStr">28/10/2026</strong> (<span id="bannerCountStr">11 inspeções</span>).
-                    Para consultar todo o histórico da safra (2.708 registros), clique em:
-                </span>
-                <button onclick="setQuickPeriod('all')" class="underline font-bold text-emerald-600 dark:text-emerald-400 hover:opacity-80">
-                    [Safra Completa]
-                </button>
-            </div>
-            <button onclick="dismissBanner()" class="text-xs text-[var(--text-secondary)] hover:text-rose-500 px-2">
-                ✕ Fechar aviso
-            </button>
-        </div>
-    </div>
-
-    <!-- 2. BARRA DE FILTROS GLOBAIS AVANÇADOS -->
-    <section id="filterSection" class="border-b py-3 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
-             style="background: var(--bg-header); border-color: var(--border-color);">
+            
         <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2.5 items-end text-xs">
                 

@@ -44,44 +44,46 @@
 <body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
 
     <!-- HEADER SUPERIOR EXECUTIVO (COM RETORNO ESTRITO AO MANDALA HUB) -->
-    <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors"
-            style="background: var(--header-bg); border-color: var(--border-color);">
-        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 py-3 flex flex-wrap items-center justify-between gap-4">
-            
-            <!-- Identificação da Empresa e Módulo -->
-            <div class="flex items-center gap-3.5">
-                <a href="../index.html" class="p-2 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] hover:border-emerald-500 hover:text-emerald-500 transition-all flex items-center gap-2 text-xs font-semibold" title="Retornar à Mandala Principal">
+        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+    <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+
+            <div class="flex items-center gap-4 w-full md:w-auto justify-between md:justify-start">
+                <!-- Retorno Exclusivo ao Mandala Hub Central -->
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border-emerald-300 dark:border-emerald-800 border transition shadow-sm" title="Retornar à Mandala Hub Principal">
                     <i class="fa-solid fa-arrow-left"></i>
-                    <span class="hidden sm:inline">Hub</span>
+                    <span>Mandala Hub</span>
                 </a>
-                <div class="h-10 sm:h-11 px-2.5 py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm">
-                    <img src="../assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
-                </div>
-                <div>
-                    <div class="flex items-center gap-2">
-                        <h1 class="text-sm sm:text-base md:text-lg font-bold tracking-tight text-[var(--text-primary)]">
-                            Gestão Inteligente da Frota
+
+                <div class="flex items-center gap-3">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-10 w-auto object-contain">
+                    <div>
+                        <div class="flex items-center gap-2">
+                            <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                            <span class="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">Frotas & Logística • Manutenção Automotiva</span>
+                        </div>
+                        <h1 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+                            Central de Inteligência — Check-List Veicular
                         </h1>
-                        <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">
-                            Safra 2026
-                        </span>
                     </div>
-                    <p class="text-xs text-[var(--text-secondary)]">Inspeções Veiculares, Criticidade, Avarias, Videotelemetria & Manutenção</p>
                 </div>
             </div>
 
-            <!-- Botões de Ação Rápida e Tema -->
-            <div class="flex items-center gap-2.5 sm:gap-3">
-                <button id="btnExportExcel" class="px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs flex items-center gap-1.5 shadow-sm transition">
-                    <i class="fa-solid fa-file-excel"></i>
-                    <span class="hidden md:inline">Excel</span>
-                </button>
-                <button id="btnExportCSV" class="px-3 py-1.5 rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] hover:bg-[var(--card-hover)] text-xs font-semibold transition">
-                    <i class="fa-solid fa-file-csv"></i>
-                    <span class="hidden md:inline">CSV</span>
-                </button>
-                <button id="themeToggle" class="p-2 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] text-[var(--text-primary)] hover:border-emerald-500 transition" title="Alternar Tema Claro/Escuro">
-                    <span id="themeIcon">🌙</span>
+            <div class="flex items-center gap-3 w-full md:w-auto justify-end">
+                <span class="badge badge-emerald text-xs">
+                    <i class="fa-solid fa-truck-pickup mr-1"></i>
+                    Safra 2026
+                </span>
+                <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
+                    <i class="fa-solid fa-database mr-1"></i>
+                    1.207 Registros de Frota
+                </span>
+
+                <!-- Alternador de Tema Claro / Escuro -->
+                <button id="themeToggleBtn" type="button" class="p-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition" title="Alternar Tema Claro / Escuro">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
                 </button>
             </div>
         </div>
@@ -117,9 +119,19 @@
                     <i class="fa-solid fa-filter text-emerald-500"></i>
                     <h3 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide">Filtros Dinâmicos Globais</h3>
                 </div>
-                <button id="btnResetFilters" class="px-3 py-1 rounded-lg text-xs font-semibold border border-[var(--border-color)] hover:bg-[var(--card-hover)] transition flex items-center gap-1.5">
-                    <i class="fa-solid fa-rotate-left"></i> Limpar Filtros
-                </button>
+                                <div class="flex items-center gap-2">
+                    <button id="btnResetFilters" class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-[var(--kpi-bg)] hover:bg-[var(--card-hover)] border border-[var(--border-color)] text-[var(--text-secondary)] transition">
+                        <i class="fa-solid fa-rotate-left mr-1"></i> Limpar Filtros
+                    </button>
+                    <button id="btnExportExcel" class="px-3 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs flex items-center gap-1.5 shadow-sm transition">
+                        <i class="fa-solid fa-file-excel"></i>
+                        <span class="hidden md:inline">Excel</span>
+                    </button>
+                    <button id="btnExportCSV" class="px-3 py-1.5 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] hover:bg-[var(--card-hover)] text-xs font-semibold transition">
+                        <i class="fa-solid fa-file-csv"></i>
+                        <span class="hidden md:inline">CSV</span>
+                    </button>
+                </div>
             </div>
 
             <!-- Grade de Seletores -->
