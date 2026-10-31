@@ -706,7 +706,102 @@ def run_full_extraction(
         browser.close()
         emit("\nExecução concluída com sucesso.")
 
+        try:
+            export_dashboard_summary()
+        except Exception:
+            pass
+
     return relatorio_geral
+
+
+
+
+def export_dashboard_summary() -> Path | None:
+    """Gera/atualiza DashBoard/data_summary.json com contagem dinamica em tempo real de todos os relatorios."""
+    try:
+        root_dir = Path(__file__).resolve().parent.parent
+        dashboard_dir = root_dir / "DashBoard"
+        reports_dir = root_dir / "Server_MapFy" / "relatorios"
+        if not dashboard_dir.is_dir() or not reports_dir.is_dir():
+            return None
+
+        import csv
+        forms_catalog = [
+            {"folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "slug": "subsolagem", "name": "Subsolagem", "category": "Preparo de Solo"},
+            {"folder": "Plantio - 03.1 - Preparo de Solo - Canteirização", "slug": "canteirizacao", "name": "Canteirização", "category": "Preparo de Solo"},
+            {"folder": "Plantio - 05 - Sulcação", "slug": "sulcacao", "name": "Sulcação", "category": "Operação de Plantio"},
+            {"folder": "Plantio - 04 - Dosagem de Produto - Sulcação", "slug": "dosagem_sulco", "name": "Dosagem de Produto - Sulcação", "category": "Operação de Plantio"},
+            {"folder": "Plantio - 06 - Abertura da Asa", "slug": "abertura_asa", "name": "Abertura da Asa", "category": "Operação de Plantio"},
+            {"folder": "Plantio - 07 - Paralelismo", "slug": "paralelismo", "name": "Paralelismo", "category": "Agricultura de Precisão"},
+            {"folder": "Plantio - 08 - Qualidade da muda", "slug": "qualidade_muda", "name": "Qualidade da Muda", "category": "Material Genético"},
+            {"folder": "Plantio - 09 - Quantidade de Gemas", "slug": "viabilidade_gemas", "name": "Quantidade de Gemas", "category": "Amostragem de Campo"},
+            {"folder": "Plantio - 10 - Quantidade de Cana", "slug": "qualidade_cana", "name": "Quantidade de Cana", "category": "Consumo de Muda"},
+            {"folder": "Plantio - 11 - Dosagem de Produto - Cobrição", "slug": "dosagem_cobricao", "name": "Dosagem de Produto - Cobrição", "category": "Proteção de Cultivo"},
+            {"folder": "Plantio - 12 - Cobrição", "slug": "cobricao", "name": "Cobrição", "category": "Operação de Plantio"},
+            {"folder": "Plantio - 13 - Arremate e Acabamento", "slug": "arremate_acabamento", "name": "Arremate e Acabamento", "category": "Acabamento Operacional"},
+            {"folder": "Tratos - Herbicida", "slug": "herbicida", "name": "Tratos - Herbicida", "category": "Tratos Culturais"},
+            {"folder": "Infestação de Broca - Armadilha", "slug": "broca_armadilha", "name": "Infestação de Broca - Armadilha", "category": "Fitossanidade"},
+            {"folder": "CHECK LIST VEICULAR", "slug": "checklist_veicular", "name": "CHECK LIST VEICULAR", "category": "Frotas & Logística"},
+            {"folder": "#Check-list área de vivência _ Colheita", "slug": "area_vivencia", "name": "Check-list área de vivência _ Colheita", "category": "SSOMA & Segurança"},
+            {"folder": "5S e Gestão - TPL", "slug": "tpl_5s", "name": "5S e Gestão - TPL", "category": "Gestão & Qualidade"},
+        ]
+
+        reports_data = {}
+        total_records = 0
+
+        for item in forms_catalog:
+            csv_file = reports_dir / item["folder"] / "dados.csv"
+            rows = 0
+            latest_date = "28/10/2026"
+            if csv_file.exists():
+                with open(csv_file, "r", encoding="utf-8-sig", errors="ignore") as f:
+                    reader = csv.reader(f, delimiter=";")
+                    headers = next(reader, None)
+                    date_idx = -1
+                    if headers:
+                        for idx, h in enumerate(headers):
+                            if "data" in h.lower() and "início" not in h.lower() and "fim" not in h.lower() and "lançamento" not in h.lower():
+                                date_idx = idx
+                                break
+                        if date_idx == -1:
+                            for idx, h in enumerate(headers):
+                                if "data" in h.lower():
+                                    date_idx = idx
+                                    break
+                    for r in reader:
+                        rows += 1
+                        if date_idx != -1 and len(r) > date_idx and r[date_idx].strip():
+                            latest_date = r[date_idx].strip().split(" ")[0]
+            reports_data[item["slug"]] = {
+                "folder": item["folder"],
+                "name": item["name"],
+                "slug": item["slug"],
+                "rows": rows,
+                "latest_date": latest_date,
+                "category": item["category"],
+            }
+            total_records += rows
+
+        import json
+        summary_payload = {
+            "status": "ok",
+            "total_records": total_records,
+            "total_k": f"+{round(total_records / 1000)}k Registros",
+            "total_formatted": f"+{total_records:,} Registros".replace(",", "."),
+            "updated_at": datetime.now().isoformat(timespec="seconds"),
+            "reports": reports_data,
+        }
+
+        summary_json_path = dashboard_dir / "data_summary.json"
+        temp_path = summary_json_path.with_suffix(".tmp")
+        with open(temp_path, "w", encoding="utf-8") as f:
+            json.dump(summary_payload, f, indent=2, ensure_ascii=False)
+        temp_path.replace(summary_json_path)
+        logger.info(f"Sumário do Dashboard sincronizado com sucesso: {total_records} registros totais.")
+        return summary_json_path
+    except Exception as e:
+        logger.warning(f"Aviso ao sincronizar sumário do Dashboard: {e}")
+        return None
 
 
 def main():

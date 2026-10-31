@@ -226,6 +226,46 @@ DASHBOARD_FOLDER_MAP = {
 
 DASHBOARD_DIR = BASE_DIR.parent / "DashBoard"
 
+@app.get("/api/v1/summary", tags=["Dashboard"], dependencies=[Depends(require_api_key)])
+@app.get("/api/v1/dashboard/summary", tags=["Dashboard"], dependencies=[Depends(require_api_key)])
+def get_dashboard_summary() -> dict[str, Any]:
+    """Retorna o consolidado dinamico com contagem de registros em tempo real."""
+    catalog = get_report_catalog()
+    reports_map: dict[str, Any] = {}
+    total_records = 0
+
+    folder_to_slug = {v.casefold(): k for k, v in DASHBOARD_FOLDER_MAP.items()}
+
+    for item in catalog:
+        folder_name = item["name"]
+        slug = folder_to_slug.get(folder_name.casefold(), report_id_for(folder_name))
+        csv_path = REPORTS_DIR / folder_name / "dados.csv"
+        rows = 0
+        if csv_path.is_file():
+            try:
+                with open(csv_path, "rb") as f:
+                    rows = max(0, sum(1 for _ in f) - 1)
+            except Exception:
+                pass
+        reports_map[slug] = {
+            "id": item["id"],
+            "slug": slug,
+            "folder": folder_name,
+            "rows": rows,
+            "updated_at": item["updated_at"],
+        }
+        total_records += rows
+
+    return {
+        "status": "ok",
+        "total_records": total_records,
+        "total_k": f"+{round(total_records / 1000)}k Registros",
+        "total_formatted": f"+{total_records:,} Registros".replace(",", "."),
+        "reports": reports_map,
+        "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+    }
+
+
 @app.get("/api/v1/dashboard/{report_slug}/data", tags=["Dashboard"])
 def get_dashboard_data(report_slug: str) -> dict[str, Any]:
     slug = report_slug.strip().lower()

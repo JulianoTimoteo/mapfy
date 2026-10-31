@@ -505,7 +505,7 @@
                      style="background: var(--kpi-bg); border-color: var(--border-color);">
                     <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
                     <span class="hidden xl:inline text-[11px]" style="color: var(--text-secondary);">Consolidado:</span>
-                    <strong class="font-mono text-emerald-600 dark:text-emerald-400 font-bold text-xs">+21k Registros</strong>
+                    <strong id="headerTotalRecordsBadge" class="font-mono text-emerald-600 dark:text-emerald-400 font-bold text-xs" title="Consolidado Dinâmico de Registros Safra 2026">+22k Registros</strong>
                 </div>
 
                 <!-- Toggle Tema -->
@@ -656,8 +656,8 @@
                         <div class="text-[10px] sm:text-xs md:text-sm font-black uppercase tracking-wider text-slate-950 dark:text-white drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)] mt-0.5 sm:mt-1 px-1 text-center">
                             17 RELATÓRIOS CONSOLIDADOS
                         </div>
-                        <div class="mt-1 sm:mt-1.5 px-2.5 sm:px-3 py-0.5 rounded-full bg-white/90 dark:bg-slate-900/90 border border-emerald-500/50 shadow-sm text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-800 dark:text-emerald-300 font-bold whitespace-nowrap">
-                            +21k Registros &bull; Safra 2026
+                        <div id="mandalaCenterRecordsBadge" class="mt-1 sm:mt-1.5 px-2.5 sm:px-3 py-0.5 rounded-full bg-white/90 dark:bg-slate-900/90 border border-emerald-500/50 shadow-sm text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-800 dark:text-emerald-300 font-bold whitespace-nowrap" title="Consolidado Dinâmico da Mandala Hub">
+                            +22k Registros &bull; Safra 2026
                         </div>
                     </div>
 
@@ -2543,7 +2543,7 @@
 
     <!-- SCRIPTS DE INTERATIVIDADE -->
     <script>
-        const formsData = [{"folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "clean_name": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "rows": 367, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Subsolagem", "Unnamed: 17"], "latest_date": "09/09/2026", "size_kb": 88.2, "category": "Preparo de Solo", "color": "#92400e", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 03.1 - Preparo de Solo - Canteirização", "clean_name": "Plantio - 03.1 - Preparo de Solo - Canteirização", "rows": 389, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Canteirização", "Unnamed: 17"], "latest_date": "27/10/2026", "size_kb": 88.4, "category": "Preparo de Solo", "color": "#b45309", "bg": "#fffbeb", "border": "#fde68a"}, {"folder": "Plantio - 05 - Sulcação", "clean_name": "Plantio - 05 - Sulcação", "rows": 2820, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Responsável", "Local (Fazenda - Talhão)", "OS", "Frente", "Profundidade do Sulco", "Unnamed: 15"], "latest_date": "27/10/2026", "size_kb": 626.9, "category": "Operação de Plantio", "color": "#65a30d", "bg": "#f7fee7", "border": "#d9f99d"}, {"folder": "Plantio - 04 - Dosagem de Produto - Sulcação", "clean_name": "Plantio - 04 - Dosagem de Produto - Sulcação", "rows": 1279, "cols_count": 17, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Produto", "Dosagem de Produto - Sulcação", "Unnamed: 16"], "latest_date": "27/10/2026", "size_kb": 293.9, "category": "Operação de Plantio", "color": "#0284c7", "bg": "#f0f9ff", "border": "#bae6fd"}, {"folder": "Plantio - 06 - Abertura da Asa", "clean_name": "Plantio - 06 - Abertura da Asa", "rows": 979, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Abertura da Asa", "Unnamed: 15"], "latest_date": "26/09/2026", "size_kb": 216.5, "category": "Operação de Plantio", "color": "#ea580c", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 07 - Paralelismo", "clean_name": "Plantio - 07 - Paralelismo", "rows": 2453, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Paralelismo", "Unnamed: 15"], "latest_date": "28/09/2026", "size_kb": 545.6, "category": "Agricultura de Precisão", "color": "#2563eb", "bg": "#eff6ff", "border": "#bfdbfe"}, {"folder": "Plantio - 08 - Qualidade da muda", "clean_name": "Plantio - 08 - Qualidade da muda", "rows": 2710, "cols_count": 19, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Qualidade da Muda", "Observações ", "Unnamed: 18"], "latest_date": "27/10/2026", "size_kb": 647.8, "category": "Material Genético", "color": "#16a34a", "bg": "#f0fdf4", "border": "#bbf7d0"}, {"folder": "Plantio - 09 - Quantidade de Gemas", "clean_name": "Plantio - 09 - Quantidade de Gemas", "rows": 2708, "cols_count": 20, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "Frente", "OS", "Responsável", "Quantidade de Gemas Total", "Quantidade de Gemas Viáveis", "Quantidade de Gemas Inviáveis", "Unnamed: 19"], "latest_date": "27/10/2026", "size_kb": 652.1, "category": "Amostragem de Campo", "color": "#15803d", "bg": "#f0fdf4", "border": "#bbf7d0"}, {"folder": "Plantio - 10 - Quantidade de Cana", "clean_name": "Plantio - 10 - Quantidade de Cana", "rows": 2579, "cols_count": 19, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Quantidade de Cana", "Observações ", "Unnamed: 18"], "latest_date": "27/10/2026", "size_kb": 614.3, "category": "Consumo de Muda", "color": "#ca8a04", "bg": "#fefce8", "border": "#fef08a"}, {"folder": "Plantio - 11 - Dosagem de Produto - Cobrição", "clean_name": "Plantio - 11 - Dosagem de Produto - Cobrição", "rows": 925, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Dosagem de Produto - Cobrição", "Unnamed: 15"], "latest_date": "27/10/2026", "size_kb": 205.4, "category": "Proteção de Cultivo", "color": "#4f46e5", "bg": "#eef2ff", "border": "#c7d2fe"}, {"folder": "Plantio - 12 - Cobrição", "clean_name": "Plantio - 12 - Cobrição", "rows": 2020, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Profundidade de Cobrição", "Unnamed: 15"], "latest_date": "27/10/2026", "size_kb": 446.8, "category": "Operação de Plantio", "color": "#78350f", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 13 - Arremate e Acabamento", "clean_name": "Plantio - 13 - Arremate e Acabamento", "rows": 807, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Arremate e Acabamento", "Unnamed: 17"], "latest_date": "27/10/2026", "size_kb": 191.9, "category": "Acabamento Operacional", "color": "#475569", "bg": "#f8fafc", "border": "#cbd5e1"}, {"folder": "Tratos - Herbicida", "clean_name": "Tratos - Herbicida", "rows": 30, "cols_count": 25, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Fazenda", "Ordem de Serviço", "Operação", "Planta ou Soca", "O responsável realizou a avaliação de qualidade antes de iniciar a operação?", "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?", "Vento", "Umidade Relativa", "Temperatura ", "Espaçamento de Bico", "Abertura do leque", "Limpeza de filtros da bomba do implemento ", "Limpeza de bicos", "Vazão", "Observações", "Unnamed: 24"], "latest_date": "20/10/2026", "size_kb": 10.6, "category": "Tratos Culturais", "color": "#0891b2", "bg": "#ecfeff", "border": "#a5f3fc"}, {"folder": "Infestação de Broca - Armadilha", "clean_name": "Infestação de Broca - Armadilha", "rows": 116, "cols_count": 14, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Responsável Lançamento", "Etapa", "Fazenda - Talhão", "Quantidade Machos", "Unnamed: 13"], "latest_date": "30/09/2026", "size_kb": 22.8, "category": "Fitossanidade", "color": "#dc2626", "bg": "#fef2f2", "border": "#fecaca"}, {"folder": "CHECK LIST VEICULAR", "clean_name": "CHECK LIST VEICULAR", "rows": 1207, "cols_count": 22, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Frota", "GESTORES", "Condutor", "Data Hora", "VIDEOTELEMTRIA", "Itens Danificados", "Estado de Criticidade Veículo", "Observacoes", "ID COLABORADOR", "ID DO AVALIADOR(A)", "Abrir Os ", "Os", "Unnamed: 21"], "latest_date": "27/10/2026", "size_kb": 392.9, "category": "Frotas & Logística", "color": "#d97706", "bg": "#fffbeb", "border": "#fde68a"}, {"folder": "#Check-list área de vivência _ Colheita", "clean_name": "Check-list área de vivência _ Colheita", "rows": 347, "cols_count": 28, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Responsável ", "Turno ", "Frente", "Local (Fazenda - Talhão)", "OBS", "Água Potável em temperatura adequada ?", "Possui água para higienização ?", "Possui papel higiênico e suporte?", "Possui papel toalha e suporte ?", "Pia e descarga funcionando ?", " Limpeza", "Possui algum item quebrado ou em falta?", " Está utilizando fita de Isolamento ", "Está utilizando  cone de Sinalização ?", "Bancos Fixos ", "Extintor ", "Unnamed: 27"], "latest_date": "27/10/2026", "size_kb": 82.3, "category": "SSOMA & Segurança", "color": "#059669", "bg": "#ecfdf5", "border": "#a7f3d0"}, {"folder": "5S e Gestão - TPL", "clean_name": "5S e Gestão - TPL", "rows": 171, "cols_count": 22, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Setor", "Fazenda", "Frente", "Responsável Vistoria", "Operação", "01-Área de vivência está em boas condições de organização e limpeza?", "03 - Não há itens faltando, quebrados ou com sinais de mal uso?", "04 - A sinalização está adequada e o acesso ao local é seguro?", "05 - Boas condições de organização, limpeza e conservação dos equipamentos?", "06 - Os colaboradores estão utilizando os EPIs adequados?", "07 - Extintor está válido e carregado?", "Observação", "Unnamed: 21"], "latest_date": "27/10/2026", "size_kb": 51.2, "category": "Gestão & Qualidade", "color": "#7c3aed", "bg": "#f5f3ff", "border": "#ddd6fe"}];
+        const formsData = [{"folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "clean_name": "Plantio - 03.1 - Preparo de Solo - Subsolagem", "rows": 367, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Subsolagem", "Unnamed: 17"], "latest_date": "01/10/2026", "size_kb": 88.2, "category": "Preparo de Solo", "color": "#92400e", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 03.1 - Preparo de Solo - Canteirização", "clean_name": "Plantio - 03.1 - Preparo de Solo - Canteirização", "rows": 403, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Canteirização", "Unnamed: 17"], "latest_date": "29/10/2026", "size_kb": 88.4, "category": "Preparo de Solo", "color": "#b45309", "bg": "#fffbeb", "border": "#fde68a"}, {"folder": "Plantio - 05 - Sulcação", "clean_name": "Plantio - 05 - Sulcação", "rows": 2835, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Responsável", "Local (Fazenda - Talhão)", "OS", "Frente", "Profundidade do Sulco", "Unnamed: 15"], "latest_date": "30/10/2026", "size_kb": 626.9, "category": "Operação de Plantio", "color": "#65a30d", "bg": "#f7fee7", "border": "#d9f99d"}, {"folder": "Plantio - 04 - Dosagem de Produto - Sulcação", "clean_name": "Plantio - 04 - Dosagem de Produto - Sulcação", "rows": 1287, "cols_count": 17, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Produto", "Dosagem de Produto - Sulcação", "Unnamed: 16"], "latest_date": "29/10/2026", "size_kb": 293.9, "category": "Operação de Plantio", "color": "#0284c7", "bg": "#f0f9ff", "border": "#bae6fd"}, {"folder": "Plantio - 06 - Abertura da Asa", "clean_name": "Plantio - 06 - Abertura da Asa", "rows": 979, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Abertura da Asa", "Unnamed: 15"], "latest_date": "28/09/2026", "size_kb": 216.5, "category": "Operação de Plantio", "color": "#ea580c", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 07 - Paralelismo", "clean_name": "Plantio - 07 - Paralelismo", "rows": 2453, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Paralelismo", "Unnamed: 15"], "latest_date": "29/09/2026", "size_kb": 545.6, "category": "Agricultura de Precisão", "color": "#2563eb", "bg": "#eff6ff", "border": "#bfdbfe"}, {"folder": "Plantio - 08 - Qualidade da muda", "clean_name": "Plantio - 08 - Qualidade da muda", "rows": 2722, "cols_count": 19, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Qualidade da Muda", "Observações ", "Unnamed: 18"], "latest_date": "30/10/2026", "size_kb": 647.8, "category": "Material Genético", "color": "#16a34a", "bg": "#f0fdf4", "border": "#bbf7d0"}, {"folder": "Plantio - 09 - Quantidade de Gemas", "clean_name": "Plantio - 09 - Quantidade de Gemas", "rows": 2720, "cols_count": 20, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "Frente", "OS", "Responsável", "Quantidade de Gemas Total", "Quantidade de Gemas Viáveis", "Quantidade de Gemas Inviáveis", "Unnamed: 19"], "latest_date": "30/10/2026", "size_kb": 652.1, "category": "Amostragem de Campo", "color": "#15803d", "bg": "#f0fdf4", "border": "#bbf7d0"}, {"folder": "Plantio - 10 - Quantidade de Cana", "clean_name": "Plantio - 10 - Quantidade de Cana", "rows": 2591, "cols_count": 19, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Quantidade de Cana", "Observações ", "Unnamed: 18"], "latest_date": "30/10/2026", "size_kb": 614.3, "category": "Consumo de Muda", "color": "#ca8a04", "bg": "#fefce8", "border": "#fef08a"}, {"folder": "Plantio - 11 - Dosagem de Produto - Cobrição", "clean_name": "Plantio - 11 - Dosagem de Produto - Cobrição", "rows": 927, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Dosagem de Produto - Cobrição", "Unnamed: 15"], "latest_date": "31/10/2026", "size_kb": 205.4, "category": "Proteção de Cultivo", "color": "#4f46e5", "bg": "#eef2ff", "border": "#c7d2fe"}, {"folder": "Plantio - 12 - Cobrição", "clean_name": "Plantio - 12 - Cobrição", "rows": 2032, "cols_count": 16, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Data Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Profundidade de Cobrição", "Unnamed: 15"], "latest_date": "31/10/2026", "size_kb": 446.8, "category": "Operação de Plantio", "color": "#78350f", "bg": "#fff7ed", "border": "#fed7aa"}, {"folder": "Plantio - 13 - Arremate e Acabamento", "clean_name": "Plantio - 13 - Arremate e Acabamento", "rows": 809, "cols_count": 18, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Data e Hora do Lançamento", "Local (Fazenda - Talhão)", "OS", "Frente", "Responsável", "Arremate e Acabamento", "Unnamed: 17"], "latest_date": "30/10/2026", "size_kb": 191.9, "category": "Acabamento Operacional", "color": "#475569", "bg": "#f8fafc", "border": "#cbd5e1"}, {"folder": "Tratos - Herbicida", "clean_name": "Tratos - Herbicida", "rows": 30, "cols_count": 25, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Fazenda", "Ordem de Serviço", "Operação", "Planta ou Soca", "O responsável realizou a avaliação de qualidade antes de iniciar a operação?", "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?", "Vento", "Umidade Relativa", "Temperatura ", "Espaçamento de Bico", "Abertura do leque", "Limpeza de filtros da bomba do implemento ", "Limpeza de bicos", "Vazão", "Observações", "Unnamed: 24"], "latest_date": "26/10/2026", "size_kb": 10.6, "category": "Tratos Culturais", "color": "#0891b2", "bg": "#ecfeff", "border": "#a5f3fc"}, {"folder": "Infestação de Broca - Armadilha", "clean_name": "Infestação de Broca - Armadilha", "rows": 116, "cols_count": 14, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Responsável Lançamento", "Etapa", "Fazenda - Talhão", "Quantidade Machos", "Unnamed: 13"], "latest_date": "01/10/2026", "size_kb": 22.8, "category": "Fitossanidade", "color": "#dc2626", "bg": "#fef2f2", "border": "#fecaca"}, {"folder": "CHECK LIST VEICULAR", "clean_name": "CHECK LIST VEICULAR", "rows": 1216, "cols_count": 22, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Frota", "GESTORES", "Condutor", "Data Hora", "VIDEOTELEMTRIA", "Itens Danificados", "Estado de Criticidade Veículo", "Observacoes", "ID COLABORADOR", "ID DO AVALIADOR(A)", "Abrir Os ", "Os", "Unnamed: 21"], "latest_date": "30/10/2026", "size_kb": 392.9, "category": "Frotas & Logística", "color": "#d97706", "bg": "#fffbeb", "border": "#fde68a"}, {"folder": "#Check-list área de vivência _ Colheita", "clean_name": "Check-list área de vivência _ Colheita", "rows": 350, "cols_count": 28, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Score perc.", "Score desc.", "Responsável ", "Turno ", "Frente", "Local (Fazenda - Talhão)", "OBS", "Água Potável em temperatura adequada ?", "Possui água para higienização ?", "Possui papel higiênico e suporte?", "Possui papel toalha e suporte ?", "Pia e descarga funcionando ?", " Limpeza", "Possui algum item quebrado ou em falta?", " Está utilizando fita de Isolamento ", "Está utilizando  cone de Sinalização ?", "Bancos Fixos ", "Extintor ", "Unnamed: 27"], "latest_date": "31/10/2026", "size_kb": 82.3, "category": "SSOMA & Segurança", "color": "#059669", "bg": "#ecfdf5", "border": "#a7f3d0"}, {"folder": "5S e Gestão - TPL", "clean_name": "5S e Gestão - TPL", "rows": 171, "cols_count": 22, "columns": ["ID", "Usuário", "Data", "Latitude", "Longitude", "Data início", "Data Fim", "Status", "Score", "Setor", "Fazenda", "Frente", "Responsável Vistoria", "Operação", "01-Área de vivência está em boas condições de organização e limpeza?", "03 - Não há itens faltando, quebrados ou com sinais de mal uso?", "04 - A sinalização está adequada e o acesso ao local é seguro?", "05 - Boas condições de organização, limpeza e conservação dos equipamentos?", "06 - Os colaboradores estão utilizando os EPIs adequados?", "07 - Extintor está válido e carregado?", "Observação", "Unnamed: 21"], "latest_date": "28/10/2026", "size_kb": 51.2, "category": "Gestão & Qualidade", "color": "#7c3aed", "bg": "#f5f3ff", "border": "#ddd6fe"}];
         const activePanelsMap = {"#Check-list área de vivência _ Colheita": "area_vivencia/index.html", "Plantio - 03.1 - Preparo de Solo - Subsolagem": "subsolagem/index.html", "Plantio - 03.1 - Preparo de Solo - Canteirização": "canteirizacao/index.html", "Plantio - 04 - Dosagem de Produto - Sulcação": "dosagem_sulco/index.html", "Plantio - 05 - Sulcação": "sulcacao/index.html", "Plantio - 06 - Abertura da Asa": "abertura_asa/index.html", "Plantio - 07 - Paralelismo": "paralelismo/index.html", "Plantio - 08 - Qualidade da muda": "qualidade_muda/index.html", "Plantio - 09 - Quantidade de Gemas": "viabilidade_gemas/index.html", "Plantio - 10 - Quantidade de Cana": "qualidade_cana/index.html", "Plantio - 11 - Dosagem de Produto - Cobrição": "dosagem_cobricao/index.html", "Plantio - 12 - Cobrição": "cobricao/index.html", "Plantio - 13 - Arremate e Acabamento": "arremate_acabamento/index.html", "Tratos - Herbicida": "herbicida/index.html", "Infestação de Broca - Armadilha": "broca_armadilha/index.html", "5S e Gestão - TPL": "tpl_5s/index.html", "CHECK LIST VEICULAR": "checklist_veicular/index.html"};
 
         function getActiveUrl(folder) {
@@ -2995,7 +2995,129 @@
             setTimeout(playMandalaIntroAnimation, 120);
         }
     
-</script>
+
+        // =========================================================================
+        // SINCRONISMO DINÂMICO E CONSOLIDADO DE REGISTROS (CRESCIMENTO AUTOMÁTICO)
+        // =========================================================================
+        function computeTotalRecords() {
+            return formsData.reduce((acc, f) => acc + (Number(f.rows) || 0), 0);
+        }
+
+        function formatTotalK(total) {
+            if (!total || isNaN(total)) return '+22k Registros';
+            return `+${Math.round(total / 1000)}k Registros`;
+        }
+
+        function renderDynamicRecordsBadge(total) {
+            const t = (typeof total === 'number' && total > 0) ? total : computeTotalRecords();
+            const kFormatted = formatTotalK(t);
+            const fullFormatted = `+${t.toLocaleString('pt-BR')} Registros Auditados • Safra 2026`;
+
+            const elHeader = document.getElementById('headerTotalRecordsBadge');
+            if (elHeader) {
+                elHeader.textContent = kFormatted;
+                elHeader.title = fullFormatted;
+            }
+
+            const elMandala = document.getElementById('mandalaCenterRecordsBadge');
+            if (elMandala) {
+                elMandala.innerHTML = `${kFormatted} &bull; Safra 2026`;
+                elMandala.title = fullFormatted;
+            }
+        }
+
+        function updateUIWithLiveCounts(reportsMap, totalCount) {
+            if (!reportsMap) return;
+
+            formsData.forEach((form, idx) => {
+                let found = null;
+                for (const key in reportsMap) {
+                    const rep = reportsMap[key];
+                    if (!rep) continue;
+                    if (rep.folder === form.folder || key === form.folder || (form.folder && rep.folder && rep.folder.toLowerCase() === form.folder.toLowerCase())) {
+                        found = rep;
+                        break;
+                    }
+                }
+
+                if (found && typeof found.rows === 'number') {
+                    form.rows = found.rows;
+                    if (found.latest_date) form.latest_date = found.latest_date;
+
+                    // Atualiza nó na Mandala
+                    const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"]`);
+                    if (nodeEl) {
+                        nodeEl.setAttribute('data-rows', String(found.rows));
+                        if (found.latest_date) nodeEl.setAttribute('data-date', found.latest_date);
+                    }
+
+                    // Atualiza card no Grid Executivo
+                    const gridItem = document.querySelector(`.grid-item[data-index="${idx}"]`);
+                    if (gridItem) {
+                        gridItem.setAttribute('data-rows', String(found.rows));
+                        const spanReg = gridItem.querySelector('.tracking-tight');
+                        if (spanReg && spanReg.textContent.includes('reg.')) {
+                            spanReg.textContent = `${found.rows.toLocaleString('pt-BR')} reg.`;
+                        }
+                    }
+                }
+            });
+
+            const computedTotal = (typeof totalCount === 'number' && totalCount > 0) ? totalCount : computeTotalRecords();
+            renderDynamicRecordsBadge(computedTotal);
+        }
+
+        async function syncDynamicCounts() {
+            // 1. Inicializa imediatamente com formsData local (zero tela branca ou delay)
+            renderDynamicRecordsBadge(computeTotalRecords());
+
+            const apiUrl = localStorage.getItem('mapfy_api_url') || 'http://127.0.0.1:8000';
+            let loadedFromApi = false;
+
+            // 2. Tenta sincronizar via Gateway 24/7 online
+            try {
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 2000);
+                const res = await fetch(`${apiUrl}/api/v1/summary`, { signal: controller.signal });
+                clearTimeout(timeoutId);
+                if (res.ok) {
+                    const data = await res.json();
+                    if (data && data.reports) {
+                        updateUIWithLiveCounts(data.reports, data.total_records);
+                        loadedFromApi = true;
+                    }
+                }
+            } catch (e) {}
+
+            // 3. Fallback estático: consome data_summary.json (funciona no GitHub Pages e servidores estáticos)
+            if (!loadedFromApi) {
+                try {
+                    const controller = new AbortController();
+                    const timeoutId = setTimeout(() => controller.abort(), 2500);
+                    const res = await fetch('data_summary.json?t=' + Date.now(), { signal: controller.signal });
+                    clearTimeout(timeoutId);
+                    if (res.ok) {
+                        const data = await res.json();
+                        if (data && data.reports) {
+                            updateUIWithLiveCounts(data.reports, data.total_records);
+                        }
+                    }
+                } catch (e) {}
+            }
+        }
+
+        // Executa na inicialização e agenda polling a cada 60s
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => {
+                syncDynamicCounts();
+                setInterval(syncDynamicCounts, 60000);
+            });
+        } else {
+            syncDynamicCounts();
+            setInterval(syncDynamicCounts, 60000);
+        }
+
+    </script>
     <script src="common/js/pwa_installer.js"></script>
 </body>
 </html>

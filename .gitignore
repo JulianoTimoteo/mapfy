@@ -31,5 +31,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Diretórios temporários de downloads brutos
+# Diretórios temporários de downloads brutos e locks
 MapfyDownloads/
+*.lock
+.extraction.lock
+**/watchdog_status.json
+relatorio_noite_*.txt
+loop_verificar_noite.ps1
