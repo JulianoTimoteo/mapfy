@@ -367,35 +367,70 @@
     </div>
 
     <!-- Header Superior -->
+    <!-- Header Corporativo Unificado em Linha Única (Sticky Topo) -->
     <header class="border-b sticky top-0 z-40 backdrop-blur-md transition-colors duration-200"
             style="background: var(--header-bg); border-color: var(--border-color);">
-        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-6 lg:px-8 py-2.5 sm:py-3 flex items-center justify-between gap-3">
+        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 lg:px-6 py-2 flex items-center justify-between gap-2 sm:gap-4">
             
-            <!-- Logo Oficial da Usina Pitangueiras 51 Anos -->
-            <div class="flex items-center gap-2.5 sm:gap-3.5">
-                <div class="h-9 sm:h-11 px-2 py-0.5 sm:py-1 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm shrink-0">
+            <!-- 1. Esquerda: Logo Oficial da Usina Pitangueiras 51 Anos + Título + Badge -->
+            <div class="flex items-center gap-2 sm:gap-3 shrink-0">
+                <div class="h-8 sm:h-9 px-2 py-0.5 rounded-xl bg-white border border-slate-200 flex items-center justify-center shadow-sm shrink-0">
                     <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="h-full w-auto object-contain">
                 </div>
-                <div>
-                    <div class="flex items-center gap-1.5 sm:gap-2">
-                        <h1 class="text-sm sm:text-lg font-bold tracking-tight text-slate-900 dark:text-slate-100">Hub MapFy</h1>
-                        <span class="text-[9px] sm:text-[10px] font-mono font-bold uppercase tracking-wider px-1.5 sm:px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30">Safra 2026</span>
-                    </div>
-                    <p class="text-[10px] sm:text-xs text-slate-500 dark:text-slate-400 hidden xs:block">Inteligência Operacional & Qualidade Agrícola</p>
+                <div class="flex items-center gap-2">
+                    <h1 class="text-xs sm:text-base font-bold tracking-tight text-slate-900 dark:text-slate-100 whitespace-nowrap">Hub MapFy</h1>
+                    <span class="text-[9px] sm:text-[10px] font-mono font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30 whitespace-nowrap">Safra 2026</span>
                 </div>
             </div>
 
-            <!-- KPIs Rápidos + Toggle de Tema Claro/Escuro -->
-            <div class="flex items-center gap-2 sm:gap-3 text-xs">
-                <div class="flex items-center gap-1.5 px-2.5 py-1 rounded-lg border transition-colors shadow-sm"
+            <!-- 2. Centro: Segmented Control (Abas de Alternância) -->
+            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold shrink-0"
+                 style="background: var(--kpi-bg); border-color: var(--border-color);">
+                <button id="btnGrid" onclick="switchView('grid')"
+                        class="px-2.5 sm:px-3.5 py-1 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5 whitespace-nowrap">
+                    <span>⊞</span>
+                    <span class="text-[11px] sm:text-xs">Painéis Operacionais (17)</span>
+                </button>
+                <button id="btnMandala" onclick="switchView('mandala')"
+                        class="px-2.5 sm:px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap"
+                        style="color: var(--text-secondary);">
+                    <span>◎</span>
+                    <span class="text-[11px] sm:text-xs">Mandala 360°</span>
+                </button>
+            </div>
+
+            <!-- 3. Direita: Legenda das Bordas + KPI Consolidado + Toggle Tema -->
+            <div class="flex items-center gap-2 sm:gap-3 shrink-0 text-xs">
+                
+                <!-- Legenda Inteligente Compacta de Estados das Bordas -->
+                <div class="hidden md:flex items-center gap-2 text-[11px] font-mono" style="color: var(--text-secondary);">
+                    <div class="flex items-center gap-1" title="Borda Verde: Painel Operacional Ativo">
+                        <span class="w-2.5 h-2.5 rounded-full border-2 border-emerald-500 bg-emerald-500/20 shadow-[0_0_6px_#10b981]"></span>
+                        <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativo</span>
+                    </div>
+                    <span>•</span>
+                    <div class="flex items-center gap-1" title="Borda Laranja: Visitado Recentemente">
+                        <span class="w-2.5 h-2.5 rounded-full border-2 border-orange-500 bg-orange-500/20 shadow-[0_0_6px_#f97316]"></span>
+                        <span class="font-semibold text-orange-500">Recente</span>
+                    </div>
+                    <span>•</span>
+                    <div class="flex items-center gap-1" title="Borda Azul: Já Consultado">
+                        <span class="w-2.5 h-2.5 rounded-full border-2 border-sky-400 bg-sky-400/20 shadow-[0_0_6px_#38bdf8]"></span>
+                        <span class="font-semibold text-sky-400"><span id="countVisited">0</span> Visitadas</span>
+                        <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-0.5 cursor-pointer" title="Zerar histórico">✕ Limpar</button>
+                    </div>
+                </div>
+
+                <!-- KPI Consolidado -->
+                <div class="hidden sm:flex items-center gap-1.5 px-2.5 py-1 rounded-lg border transition-colors shadow-sm"
                      style="background: var(--kpi-bg); border-color: var(--border-color);">
                     <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-                    <span class="hidden sm:inline" style="color: var(--text-secondary);">Consolidado:</span>
-                    <strong class="font-mono text-emerald-600 dark:text-emerald-400 font-bold">+21k Registros</strong>
+                    <span class="hidden xl:inline text-[11px]" style="color: var(--text-secondary);">Consolidado:</span>
+                    <strong class="font-mono text-emerald-600 dark:text-emerald-400 font-bold text-xs">+21k Registros</strong>
                 </div>
 
                 <!-- Toggle Tema -->
-                <button id="themeToggle" class="w-9 h-9 sm:w-10 sm:h-10 rounded-xl border flex items-center justify-center transition-colors hover:border-emerald-500 shadow-sm"
+                <button id="themeToggle" class="w-8 h-8 sm:w-9 sm:h-9 rounded-xl border flex items-center justify-center transition-colors hover:border-emerald-500 shadow-sm shrink-0"
                         style="background: var(--kpi-bg); border-color: var(--border-color); color: var(--text-primary);"
                         title="Alternar entre modo Claro e Escuro" aria-label="Alternar tema">
                     <span id="themeIcon">🌙</span>
@@ -403,48 +438,6 @@
             </div>
         </div>
     </header>
-
-    <!-- Barra de Navegação Superior: Painéis Operacionais vs Mandala 360° -->
-    <div class="border-b py-2 sticky top-[57px] sm:top-[65px] z-30 backdrop-blur-md transition-colors"
-         style="background: var(--header-bg); border-color: var(--border-color);">
-        <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2.5">
-            
-            <!-- Grupo de Alternância: 2 Abas Modernas -->
-            <div class="inline-flex p-1 rounded-xl border text-xs font-semibold w-full sm:w-auto justify-center"
-                 style="background: var(--kpi-bg); border-color: var(--border-color);">
-                <button id="btnGrid" onclick="switchView('grid')"
-                        class="flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center justify-center gap-1.5">
-                    <span>⊞</span>
-                    <span>Painéis Operacionais (17)</span>
-                </button>
-                <button id="btnMandala" onclick="switchView('mandala')"
-                        class="flex-1 sm:flex-initial px-4 py-1.5 rounded-lg transition-all flex items-center justify-center gap-1.5"
-                        style="color: var(--text-secondary);">
-                    <span>◎</span>
-                    <span>Mandala 360°</span>
-                </button>
-            </div>
-
-            <!-- Legenda Inteligente Compacta de Estados das Bordas -->
-            <div class="flex items-center justify-center gap-2 sm:gap-3 text-[11px] font-mono" style="color: var(--text-secondary);">
-                <div class="flex items-center gap-1" title="Borda Verde: Painel Operacional Ativo">
-                    <span class="w-2.5 h-2.5 rounded-full border-2 border-emerald-500 bg-emerald-500/20 shadow-[0_0_6px_#10b981]"></span>
-                    <span class="font-bold text-emerald-600 dark:text-emerald-400">Ativo</span>
-                </div>
-                <span>•</span>
-                <div class="flex items-center gap-1" title="Borda Laranja: Visitado Recentemente">
-                    <span class="w-2.5 h-2.5 rounded-full border-2 border-orange-500 bg-orange-500/20 shadow-[0_0_6px_#f97316]"></span>
-                    <span class="font-semibold text-orange-500">Recente</span>
-                </div>
-                <span>•</span>
-                <div class="flex items-center gap-1" title="Borda Azul: Já Consultado">
-                    <span class="w-2.5 h-2.5 rounded-full border-2 border-sky-400 bg-sky-400/20 shadow-[0_0_6px_#38bdf8]"></span>
-                    <span class="font-semibold text-sky-400"><span id="countVisited">0</span> Visitadas</span>
-                    <button onclick="clearVisitedHistory()" class="text-[10px] text-slate-400 hover:text-sky-400 underline ml-0.5 cursor-pointer" title="Zerar histórico">✕ Limpar</button>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Conteúdo Principal com Elevação z-10 sobre o Fundo da Usina -->
     <main class="flex-1 w-full max-w-[1920px] mx-auto px-2 sm:px-4 md:px-6 lg:px-8 py-2 sm:py-3 flex flex-col items-center justify-center relative z-10">
