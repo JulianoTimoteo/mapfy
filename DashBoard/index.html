@@ -185,6 +185,51 @@
             transform: scale(1.025);
             border-color: #10b981;
         }
+        /* --- ANIMAÇÃO DE ABERTURA SUAVE DA MANDALA --- */
+        .mandala-intro-active {
+            pointer-events: none;
+        }
+
+        @keyframes mandalaCenterBloom {
+            0% {
+                transform: scale(0.35) rotate(-45deg);
+                opacity: 0;
+                box-shadow: 0 0 36px rgba(16, 185, 129, 0.45);
+            }
+            100% {
+                transform: scale(1) rotate(0deg);
+                opacity: 1;
+                box-shadow: var(--center-hud-shadow);
+            }
+        }
+
+        @keyframes mandalaPulseSynced {
+            0% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.45), var(--center-hud-shadow);
+                border-color: #34d399;
+            }
+            50% {
+                box-shadow: 0 0 0 14px rgba(16, 185, 129, 0), var(--center-hud-shadow);
+                border-color: #10b981;
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0), var(--center-hud-shadow);
+                border-color: var(--center-hud-border);
+            }
+        }
+
+        .mandala-center-bloom {
+            animation: mandalaCenterBloom 1.25s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+        }
+
+        .mandala-synced-pulse {
+            animation: mandalaPulseSynced 1.6s ease-out forwards !important;
+        }
+
+        #mandalaSection[hidden],
+        #gridSection[hidden] {
+            display: none !important;
+        }
 
         /* --- FOCO CINEMÁTICO NO HOVER / INTERAÇÃO --- */
         .mandala-container.has-focus .mandala-node:not(.is-focused) {
@@ -392,19 +437,19 @@
                 </div>
                 <div class="flex items-center gap-2">
                     <h1 class="text-xs sm:text-base font-bold tracking-tight text-slate-900 dark:text-slate-100 whitespace-nowrap">Hub MapFy</h1>
-                    <span class="text-[9px] sm:text-[10px] font-mono font-bold uppercase tracking-wider px-1.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-500 border border-emerald-500/30 whitespace-nowrap">Safra 2026</span>
+                    <button type="button" onclick="playMandalaIntroAnimation()" title="Clique para rever a animação de alocação da Mandala" class="text-[9px] sm:text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-500 border border-emerald-500/30 whitespace-nowrap transition-all hover:scale-105 active:scale-95 flex items-center gap-1 cursor-pointer"><span class="text-xs">↻</span><span>Safra 2026</span></button>
                 </div>
             </div>
 
             <!-- 2. Centro: Atalhos de Navegação Rápida (Desktop) -->
             <div class="hidden md:inline-flex p-1 rounded-xl border text-xs font-semibold shrink-0"
                  style="background: var(--kpi-bg); border-color: var(--border-color);">
-                <button id="btnMandalaNav" onclick="scrollToSection('mandalaSection')"
+                <button id="btnMandalaNav" onclick="scrollToSection('mandalaSection')" aria-pressed="true"
                         class="px-3.5 py-1 rounded-lg transition-all text-white bg-emerald-600 shadow-sm flex items-center gap-1.5 whitespace-nowrap">
                     <span>◎</span>
                     <span class="text-xs">Mandala 360°</span>
                 </button>
-                <button id="btnGridNav" onclick="scrollToSection('gridSection')"
+                <button id="btnGridNav" onclick="scrollToSection('gridSection')" aria-pressed="false"
                         class="px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap"
                         style="color: var(--text-secondary);">
                     <span>⊞</span>
@@ -415,11 +460,11 @@
             <!-- 3. Direita: Legenda das Bordas + KPI Consolidado + Atalho Mobile + Toggle Tema -->
             <div class="flex items-center gap-1.5 sm:gap-3 shrink-0 text-xs">
                 <!-- Atalho Mobile Rápido para os Cards -->
-                <button type="button" onclick="scrollToSection('gridSection')"
+                <button id="btnGridMobile" type="button" onclick="scrollToSection('gridSection')" aria-pressed="false"
                         class="md:hidden px-2 py-1 rounded-lg text-[10px] font-bold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30 flex items-center gap-1 shadow-xs whitespace-nowrap"
-                        title="Rolar direto para a lista de relatórios">
+                        title="Abrir os painéis operacionais">
                     <span>⊞</span>
-                    <span>Cards ↓</span>
+                    <span>Painéis</span>
                 </button>
                 
                 <!-- Legenda Inteligente Compacta de Estados das Bordas -->
@@ -1496,7 +1541,7 @@
         <!-- ======================================================== -->
         <!-- SEÇÃO 2: GRID EXECUTIVO CATEGORIZADO (MOBILE-FIRST)     -->
         <!-- ======================================================== -->
-        <section id="gridSection" class="w-full max-w-[1920px] mx-auto px-2 sm:px-4 md:px-6 lg:px-8 mt-6 sm:mt-10 flex flex-col space-y-5 transition-all duration-300">
+        <section id="gridSection" hidden class="w-full max-w-[1920px] mx-auto px-2 sm:px-4 md:px-6 lg:px-8 mt-6 sm:mt-10 flex flex-col space-y-5 transition-all duration-300">
             <!-- Cabeçalho Oficial dos Cards Minimalistas -->
             <div class="flex items-center justify-between border-b pb-3 mb-1" style="border-color: var(--border-color);">
                 <div class="flex items-center gap-2.5">
@@ -2517,24 +2562,22 @@
         }
         updateThemeIcon();
 
-        // Alternância de Visualização: Painéis Operacionais (Grid) vs Mandala 360°
+        // Alternância de tela entre a Mandala 360° e os Painéis Operacionais
         const mandalaSection = document.getElementById('mandalaSection');
         const gridSection = document.getElementById('gridSection');
-        const btnMandala = document.getElementById('btnMandala');
-        const btnGrid = document.getElementById('btnGrid');
 
-        // Navegação Fluida por Scroll Suave (Mandala primeiro, Cards minimalistas logo abaixo)
         function scrollToSection(sectionId) {
-            const target = document.getElementById(sectionId);
-            if (target) {
-                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-            updateNavButtons(sectionId === 'mandalaSection' ? 'mandala' : 'grid');
+            const showMandala = sectionId === 'mandalaSection';
+            mandalaSection.hidden = !showMandala;
+            gridSection.hidden = showMandala;
+            updateNavButtons(showMandala ? 'mandala' : 'grid');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         function updateNavButtons(activeView) {
             const btnMandala = document.getElementById('btnMandalaNav');
             const btnGrid = document.getElementById('btnGridNav');
+            const btnGridMobile = document.getElementById('btnGridMobile');
             if (!btnMandala || !btnGrid) return;
 
             if (activeView === 'mandala') {
@@ -2548,20 +2591,12 @@
                 btnMandala.className = "px-3.5 py-1 rounded-lg transition-all flex items-center gap-1.5 whitespace-nowrap";
                 btnMandala.style.color = "var(--text-secondary)";
             }
-        }
-
-        // Observador de Scroll para sincronizar botões do header
-        window.addEventListener('scroll', () => {
-            const gridSec = document.getElementById('gridSection');
-            if (gridSec) {
-                const rect = gridSec.getBoundingClientRect();
-                if (rect.top <= 120) {
-                    updateNavButtons('grid');
-                } else {
-                    updateNavButtons('mandala');
-                }
+            btnMandala.setAttribute('aria-pressed', String(activeView === 'mandala'));
+            btnGrid.setAttribute('aria-pressed', String(activeView === 'grid'));
+            if (btnGridMobile) {
+                btnGridMobile.setAttribute('aria-pressed', String(activeView === 'grid'));
             }
-        }, { passive: true });
+        }
 
         // Interação com o Centro da Mandala ao passar o mouse ou tocar no celular
         const centerDefault = document.getElementById('centerDefault');
@@ -2722,6 +2757,9 @@
                 } else if (selectedNodeIdx !== null) {
                     const item = formsData[selectedNodeIdx];
                     if (item) openModal(item.clean_name, item.category, item.rows.toLocaleString(), item.latest_date, item.folder, item.columns);
+                } else {
+                    // Ao clicar no centro no estado neutro, reproduz a animação especial de alocação
+                    playMandalaIntroAnimation();
                 }
             });
         }
@@ -2820,7 +2858,128 @@
 
         // Aplica o status de visitados ao carregar a página
         applyVisitedStates();
-    </script>
+    
+
+        // =========================================================================
+        // Animação de abertura da Mandala, com entrada progressiva dos 17 relatórios
+        // =========================================================================
+        function playMandalaIntroAnimation() {
+            if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                return;
+            }
+
+            const container = document.getElementById('mandalaContainer');
+            const centerHud = document.getElementById('centerHud');
+            const nodes = document.querySelectorAll('.mandala-node');
+            const spokes = document.querySelectorAll('.spoke-line');
+            if (!container || !centerHud || nodes.length === 0) return;
+
+            // Salva as posições originais de destino de cada nó
+            nodes.forEach(node => {
+                if (!node.dataset.targetLeft) {
+                    node.dataset.targetLeft = node.style.left;
+                    node.dataset.targetTop = node.style.top;
+                }
+            });
+
+            container.classList.add('mandala-intro-active');
+
+            // 1. Estado Fechado no Centro (comprimido e girado)
+            centerHud.classList.remove('mandala-center-bloom', 'mandala-synced-pulse');
+            centerHud.style.transition = 'none';
+            centerHud.style.transform = 'scale(0.35) rotate(-45deg)';
+            centerHud.style.opacity = '0';
+
+            spokes.forEach(spoke => {
+                spoke.style.transition = 'none';
+                spoke.style.opacity = '0';
+                spoke.style.strokeDasharray = '400';
+                spoke.style.strokeDashoffset = '400';
+            });
+
+            nodes.forEach(node => {
+                node.style.animation = 'none'; // Pausa flutuação harmônica durante o voo radial
+                node.style.transition = 'none';
+                node.style.left = '50%';
+                node.style.top = '50%';
+                node.style.opacity = '0';
+                node.style.transform = 'translate(-50%, -50%) scale(0.72) rotate(-35deg)';
+            });
+
+            // Força o reflow do navegador para garantir reset imediato
+            void container.offsetWidth;
+
+            // 2. Desabrocha o Centro HUD com aceleração suave
+            requestAnimationFrame(() => {
+                centerHud.classList.add('mandala-center-bloom');
+            });
+
+            // 3. Ejeção / Desabrochar dos 17 nós rodando para seus locais exatos
+            const baseDelay = 220;
+            const stepDelay = 65;
+
+            nodes.forEach((node, index) => {
+                const delay = baseDelay + (index * stepDelay);
+                setTimeout(() => {
+                    const spoke = document.getElementById(`spoke-${index}`);
+                    if (spoke) {
+                        spoke.style.transition = 'stroke-dashoffset 0.95s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.55s ease-in';
+                        spoke.style.opacity = '1';
+                        spoke.style.strokeDashoffset = '0';
+                    }
+
+                    node.style.transition = 'left 1.05s cubic-bezier(0.22, 1, 0.36, 1), top 1.05s cubic-bezier(0.22, 1, 0.36, 1), transform 1.05s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.65s ease-out';
+                    node.style.left = node.dataset.targetLeft;
+                    node.style.top = node.dataset.targetTop;
+                    node.style.opacity = '1';
+                    node.style.transform = 'translate(-50%, -50%) scale(1) rotate(0deg)';
+
+                    const disc = node.querySelector('.node-disc');
+                    if (disc) {
+                        disc.style.boxShadow = '0 0 16px rgba(16, 185, 129, 0.45)';
+                        setTimeout(() => { disc.style.boxShadow = ''; }, 650);
+                    }
+                }, delay);
+            });
+
+            // 4. Finalização sincronizada e pulso de confirmação
+            const totalTime = baseDelay + (nodes.length * stepDelay) + 1050;
+            setTimeout(() => {
+                container.classList.remove('mandala-intro-active');
+                centerHud.classList.remove('mandala-center-bloom');
+                centerHud.classList.add('mandala-synced-pulse');
+
+                nodes.forEach(node => {
+                    node.style.transition = '';
+                    node.style.transform = '';
+                    node.style.animation = ''; // Restaura animação contínua harmônica
+                });
+                spokes.forEach(spoke => {
+                    spoke.style.transition = '';
+                    spoke.style.strokeDasharray = '';
+                    spoke.style.strokeDashoffset = '';
+                    spoke.style.opacity = '';
+                });
+                centerHud.style.transition = '';
+                centerHud.style.transform = '';
+                centerHud.style.opacity = '';
+
+                setTimeout(() => {
+                    centerHud.classList.remove('mandala-synced-pulse');
+                }, 1300);
+            }, totalTime);
+        }
+
+        // Disparo automático suave da animação ao abrir
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => {
+                setTimeout(playMandalaIntroAnimation, 120);
+            });
+        } else {
+            setTimeout(playMandalaIntroAnimation, 120);
+        }
+    
+</script>
     <script src="common/js/pwa_installer.js"></script>
 </body>
 </html>

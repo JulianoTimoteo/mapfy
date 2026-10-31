@@ -38,7 +38,9 @@
     const fallbackDataLabelsPlugin = {
         id: 'pitangueiras_datalabels_fallback',
         afterDatasetsDraw(chart) {
-            if (typeof window.ChartDataLabels !== 'undefined') return; // Delega estritamente ao ChartDataLabels oficial
+            if (typeof window.ChartDataLabels !== 'undefined' || (typeof Chart !== 'undefined' && Chart.registry && Chart.registry.plugins.items['datalabels'])) {
+                return; // Delega estritamente ao ChartDataLabels oficial
+            }
             const ctx = chart.ctx;
             const isDark = document.documentElement.classList.contains('dark');
             const defaultTextColor = isDark ? '#F1F5F9' : '#1E293B';
@@ -279,6 +281,8 @@
         // 1. Fazendas (Top Fazendas com Maior Captura)
         const ctxFaz = document.getElementById('chartFazendas')?.getContext('2d');
         if (ctxFaz) {
+            const exFaz = Chart.getChart(ctxFaz.canvas);
+            if (exFaz) exFaz.destroy();
             state.charts.fazendas = new Chart(ctxFaz, {
                 type: 'bar',
                 data: {
@@ -327,6 +331,8 @@
         // 2. Talhões (Top Talhões com Maior Pressão)
         const ctxTal = document.getElementById('chartTalhoes')?.getContext('2d');
         if (ctxTal) {
+            const exTal = Chart.getChart(ctxTal.canvas);
+            if (exTal) exTal.destroy();
             state.charts.talhoes = new Chart(ctxTal, {
                 type: 'bar',
                 data: {
@@ -375,6 +381,8 @@
         // 3. Timeline (Evolução Temporal)
         const ctxTime = document.getElementById('chartTimeline')?.getContext('2d');
         if (ctxTime) {
+            const exTime = Chart.getChart(ctxTime.canvas);
+            if (exTime) exTime.destroy();
             state.charts.timeline = new Chart(ctxTime, {
                 type: 'bar',
                 data: {
@@ -443,6 +451,8 @@
         // 4. Severity Donut (Distribuição de Severidade)
         const ctxSev = document.getElementById('chartSeverity')?.getContext('2d');
         if (ctxSev) {
+            const exSev = Chart.getChart(ctxSev.canvas);
+            if (exSev) exSev.destroy();
             state.charts.severity = new Chart(ctxSev, {
                 type: 'doughnut',
                 data: {
@@ -793,8 +803,13 @@
     window.filtrarPorResponsavel = function (nome) {
         const sel = document.getElementById('filterResponsavel');
         if (sel) {
-            sel.value = nome;
-            state.activeFilters.responsavel = nome;
+            if (state.activeFilters.responsavel === nome) {
+                sel.value = 'ALL';
+                state.activeFilters.responsavel = 'ALL';
+            } else {
+                sel.value = nome;
+                state.activeFilters.responsavel = nome;
+            }
             aplicarFiltros();
         }
     };

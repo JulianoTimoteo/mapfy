@@ -12,8 +12,14 @@
     inset: 0 !important;
     width: 100vw !important;
     height: 100vh !important;
+    height: 100dvh !important;
     max-width: 100vw !important;
     max-height: 100vh !important;
+    max-height: 100dvh !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
     z-index: 99990 !important;
     margin: 0 !important;
     padding: 0 !important;
@@ -111,8 +117,14 @@
     inset: 0 !important;
     width: 100vw !important;
     height: 100vh !important;
+    height: 100dvh !important;
     max-width: 100vw !important;
     max-height: 100vh !important;
+    max-height: 100dvh !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
     z-index: 99980 !important;
     margin: 0 !important;
     padding: 24px !important;
@@ -1213,4 +1225,303 @@ html.dark [class*="text-slate-500"] {
     align-items: center !important;
     gap: 4px !important;
     min-height: 2.2rem !important;
+}
+
+/* Botão Flutuante Nativo de Tela Cheia no Mapa Leaflet */
+.btn-map-canvas-fullscreen {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 800;
+    background: rgba(15, 23, 42, 0.90);
+    backdrop-filter: blur(8px);
+    border: 1.5px solid rgba(16, 185, 129, 0.6);
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 6px 12px;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    touch-action: manipulation;
+}
+.btn-map-canvas-fullscreen:hover {
+    background: #10b981;
+    border-color: #10b981;
+    transform: scale(1.05);
+}
+.map-fullscreen-active .btn-map-canvas-fullscreen {
+    display: none !important;
+}
+
+/* Adaptação Ergonômica Mobile do Topbar do Mapa em Tela Cheia */
+@media (max-width: 639px) {
+    .map-fullscreen-topbar {
+        top: max(8px, env(safe-area-inset-top, 0px)) !important;
+        left: max(8px, env(safe-area-inset-left, 0px)) !important;
+        right: max(8px, env(safe-area-inset-right, 0px)) !important;
+        gap: 6px !important;
+    }
+    .map-fullscreen-badge {
+        font-size: 10px !important;
+        padding: 5px 8px !important;
+    }
+    .btn-exit-map-fullscreen {
+        font-size: 10px !important;
+        padding: 5px 10px !important;
+    }
+}
+
+/* Adaptação Mobile Ergonômica do Popover do 'i' (Bottom Sheet no Celular) */
+@media (max-width: 639px) {
+    .pitangueiras-popover-overlay {
+        padding: 8px !important;
+        align-items: flex-end !important;
+    }
+    .popover-card {
+        max-width: 100% !important;
+        width: 100% !important;
+        border-radius: 22px 22px 10px 10px !important;
+        padding: 16px 14px !important;
+        max-height: 82vh !important;
+        max-height: 82dvh !important;
+        margin-bottom: env(safe-area-inset-bottom, 0px) !important;
+    }
+    .popover-header {
+        padding-bottom: 10px !important;
+    }
+    .popover-title-area h3 {
+        font-size: 14px !important;
+    }
+    .popover-body {
+        margin-top: 10px !important;
+        gap: 8px !important;
+    }
+    .popover-section {
+        padding: 8px 10px !important;
+        border-radius: 10px !important;
+    }
+    .popover-section-label {
+        font-size: 10px !important;
+        margin-bottom: 2px !important;
+    }
+    .popover-section-text {
+        font-size: 11px !important;
+        line-height: 1.35 !important;
+    }
+    .popover-footer {
+        margin-top: 10px !important;
+        padding-top: 8px !important;
+        font-size: 9px !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 4px !important;
+    }
+}
+
+/* ==========================================================================
+   TOOLBAR OPERACIONAL & SELETOR DE PERÍODO 100% RESPONSIVO (MOBILE-FIRST)
+   Elimina qualquer estouro lateral em telas de smartphones de 320px a 639px
+   ========================================================================== */
+@media (max-width: 639px) {
+    /* O container pai do toolbar empilha verticalmente */
+    div:has(> div > .period-segmented-group),
+    div:has(> .period-segmented-group),
+    .toolbar-container {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        gap: 8px !important;
+        padding: 8px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        overflow: hidden !important;
+    }
+
+    /* Bloco esquerdo com o grupo segmentado */
+    div:has(> div > .period-segmented-group) > div:first-child {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* Grupo segmentado ocupa 100% da largura da tela */
+    .period-segmented-group {
+        display: flex !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        padding: 2px !important;
+        gap: 2px !important;
+        border-radius: 12px !important;
+        overflow: hidden !important;
+    }
+
+    /* Cada botão do período divide a largura igualmente (1/3) */
+    .period-toggle-btn {
+        flex: 1 1 0 !important;
+        min-width: 0 !important;
+        padding: 6px 2px !important;
+        font-size: 10px !important;
+        gap: 3px !important;
+        justify-content: center !important;
+        text-align: center !important;
+        white-space: nowrap !important;
+        border-radius: 8px !important;
+    }
+
+    .period-toggle-btn span {
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    .period-badge {
+        padding: 1px 4px !important;
+        font-size: 8.5px !important;
+        margin-left: 1px !important;
+    }
+
+    /* Ferramentas Operacionais (Exportar CSV, Imprimir, Tema) em grid equilibrado */
+    div:has(> div > .period-segmented-group) > div:last-child {
+        width: 100% !important;
+        display: grid !important;
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        gap: 4px !important;
+    }
+
+    .btn-toolbar-action {
+        width: 100% !important;
+        min-width: 0 !important;
+        padding: 6px 2px !important;
+        font-size: 10px !important;
+        justify-content: center !important;
+        gap: 3px !important;
+        border-radius: 10px !important;
+    }
+
+    .btn-toolbar-action span:last-child {
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    /* Barra de Contexto Ativo (Destaque do Período) */
+    div:has(> div > #currentDateDisplay) {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 6px !important;
+        padding: 8px 10px !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+}
+
+/* ==========================================================================
+   VISÃO RAIO-X DO APONTAMENTO NO MAPA 100% ADAPTADA AO CELULAR
+   Zero sobras laterais: o modal ajusta-se com precisão milimétrica ao dispositivo
+   ========================================================================== */
+@media (max-width: 639px) {
+    /* Remove padding do backdrop modal no mobile para evitar overflow 100vw + padding */
+    #recordModal,
+    #detailModal,
+    #detailsModal,
+    #recordDetailModal,
+    #targetModal,
+    div[id$="Modal"] {
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+        max-width: 100vw !important;
+        overflow-x: hidden !important;
+        box-sizing: border-box !important;
+    }
+
+    /* O container do Raio-X preenche a largura exata da viewport sem vazamento */
+    #recordModal > div,
+    #detailModal > div,
+    #detailsModal > div,
+    #recordDetailModal > div,
+    #targetModal > div {
+        width: 100% !important;
+        max-width: 100vw !important;
+        height: 100% !important;
+        height: 100dvh !important;
+        max-height: 100dvh !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        border: none !important;
+        padding: 0 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        box-sizing: border-box !important;
+        overflow-x: hidden !important;
+    }
+
+    /* Cabeçalho do Raio-X */
+    #recordModal > div > div:first-child,
+    #detailModal > div > div:first-child,
+    #detailsModal > div > div:first-child,
+    #recordDetailModal > div > div:first-child {
+        padding: 12px 14px !important;
+        flex-shrink: 0 !important;
+        padding-top: max(12px, env(safe-area-inset-top, 0px)) !important;
+    }
+
+    /* Corpo do Raio-X com scroll suave e largura estrita */
+    #recordModal > div > div:nth-child(2),
+    #detailModal > div > div:nth-child(2),
+    #detailsModal > div > div:nth-child(2),
+    #recordDetailModal > div > div:nth-child(2) {
+        padding: 12px !important;
+        flex: 1 1 auto !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
+        -webkit-overflow-scrolling: touch !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Grids de estatísticas e medições do Raio-X em 2 colunas */
+    #recordModal .grid,
+    #detailModal .grid,
+    #detailsModal .grid,
+    #recordDetailModal .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: 6px !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    #recordModal .grid > div,
+    #detailModal .grid > div,
+    #detailsModal .grid > div {
+        padding: 8px 10px !important;
+        min-width: 0 !important;
+        overflow: hidden !important;
+    }
+
+    /* Rodapé do Raio-X */
+    #recordModal > div > div:last-child,
+    #detailModal > div > div:last-child,
+    #detailsModal > div > div:last-child,
+    #recordDetailModal > div > div:last-child {
+        padding: 10px 14px !important;
+        flex-shrink: 0 !important;
+        padding-bottom: max(10px, env(safe-area-inset-bottom, 0px)) !important;
+    }
+
+    /* Popup do Leaflet dentro da tela do celular */
+    .leaflet-popup-content-wrapper {
+        max-width: calc(100vw - 32px) !important;
+        border-radius: 14px !important;
+        box-sizing: border-box !important;
+    }
+
+    .leaflet-popup-content {
+        margin: 10px 12px !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        word-break: break-word !important;
+    }
 }

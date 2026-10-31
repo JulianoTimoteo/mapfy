@@ -617,7 +617,10 @@
                     </h2>
                     <p class="text-xs text-[var(--text-secondary)] mt-0.5">Visão consolidada com média, mediana, desvio-padrão e conformidade técnica</p>
                 </div>
-                <span class="text-xs text-[var(--text-muted)]">Clique em uma linha para aplicar o filtro da frente</span>
+                <div class="flex items-center gap-2">
+                    <span id="frenteHintText" class="text-xs text-[var(--text-muted)]">Clique em uma linha para aplicar o filtro da frente</span>
+                    <div id="frenteFilterActiveContainer"></div>
+                </div>
             </div>
 
             <div class="overflow-x-auto">
@@ -660,7 +663,8 @@
                 </div>
 
                 <!-- Seletor de Ordenação do Ranking de OS -->
-                <div class="flex items-center gap-2 text-xs">
+                <div class="flex flex-wrap items-center gap-2 text-xs">
+                    <div id="osFilterActiveContainer"></div>
                     <span class="text-[var(--text-secondary)]">Ordenar por:</span>
                     <select id="osSortSelect"
                             class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500"

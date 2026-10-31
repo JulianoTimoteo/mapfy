@@ -582,10 +582,16 @@
                     dateKey,
                     dateBR: r.dataBR,
                     dateParsed: new Date(r.dataParsed.getFullYear(), r.dataParsed.getMonth(), r.dataParsed.getDate()),
-                    depths: []
+                    depths: [],
+                    osSet: new Set(),
+                    frentesSet: new Set(),
+                    locaisSet: new Set()
                 };
             }
             map[dateKey].depths.push(r.profundidade);
+            if (r.os && r.os !== '-' && r.os !== 'N/A') map[dateKey].osSet.add(r.os);
+            if (r.frente && r.frente !== '-' && r.frente !== 'N/A') map[dateKey].frentesSet.add(r.frente);
+            if (r.localidadeTalhao && r.localidadeTalhao !== '-' && r.localidadeTalhao !== 'N/A') map[dateKey].locaisSet.add(r.localidadeTalhao);
         });
 
         const sortedDays = Object.values(map).sort((a, b) => a.dateParsed.getTime() - b.dateParsed.getTime());
@@ -598,6 +604,9 @@
         const counts = [];
         const targetMinLine = [];
         const targetMaxLine = [];
+        const osList = [];
+        const frentesList = [];
+        const locaisList = [];
 
         sortedDays.forEach(day => {
             day.depths.sort((a, b) => a - b);
@@ -615,6 +624,15 @@
             maxs.push(max);
             counts.push(count);
 
+            const arrOS = Array.from(day.osSet).sort();
+            osList.push(arrOS.length > 0 ? (arrOS.length > 3 ? `${arrOS.slice(0, 3).join(', ')} (+${arrOS.length - 3})` : arrOS.join(', ')) : 'N/A');
+
+            const arrFrentes = Array.from(day.frentesSet).sort();
+            frentesList.push(arrFrentes.length > 0 ? arrFrentes.join(', ') : 'N/A');
+
+            const arrLocais = Array.from(day.locaisSet).sort();
+            locaisList.push(arrLocais.length > 0 ? (arrLocais.length > 3 ? `${arrLocais.slice(0, 3).join(', ')} (+${arrLocais.length - 3})` : arrLocais.join(', ')) : 'N/A');
+
             if (targetConfig && targetConfig.ativa) {
                 targetMinLine.push(targetConfig.min);
                 targetMaxLine.push(targetConfig.max);
@@ -629,7 +647,10 @@
             maxs,
             counts,
             targetMinLine,
-            targetMaxLine
+            targetMaxLine,
+            osList,
+            frentesList,
+            locaisList
         };
     };
 
