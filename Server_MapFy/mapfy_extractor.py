@@ -178,6 +178,52 @@ def find_latest_date_in_csv(filepath: Path) -> str | None:
     return None
 
 
+def safe_atomic_save_df(df: pd.DataFrame, target_path: Path, is_csv: bool = False, is_json: bool = False) -> None:
+    """
+    Salva DataFrame de forma atomica e resiliente contra locks do OneDrive (WinError 5).
+    Usa estrategia de 3 niveis:
+    1. Grava no arquivo .tmp e tenta os.replace().
+    2. Se os.replace() falhar por WinError 5 / PermissionError, remove target_path e renomeia.
+    3. Se ainda assim falhar por lock mantido pelo OneDrive, grava diretamente em target_path.
+    """
+    tmp_path = target_path.with_suffix(f"{target_path.suffix}.tmp")
+    try:
+        if is_csv:
+            df.to_csv(tmp_path, index=False, encoding="utf-8-sig")
+        elif is_json:
+            df.to_json(tmp_path, orient="records", force_ascii=False, indent=2)
+
+        try:
+            tmp_path.replace(target_path)
+        except (PermissionError, OSError):
+            time.sleep(0.1)
+            try:
+                if target_path.exists():
+                    target_path.unlink()
+                tmp_path.rename(target_path)
+            except Exception:
+                # Nivel 3: Gravacao direta de contingencia
+                if is_csv:
+                    df.to_csv(target_path, index=False, encoding="utf-8-sig")
+                elif is_json:
+                    df.to_json(target_path, orient="records", force_ascii=False, indent=2)
+                if tmp_path.exists():
+                    try:
+                        tmp_path.unlink()
+                    except Exception:
+                        pass
+    except Exception as e:
+        logger.error(f"Erro ao salvar com seguranca {target_path.name}: {e}")
+        # Ultimo fallback direto
+        try:
+            if is_csv:
+                df.to_csv(target_path, index=False, encoding="utf-8-sig")
+            elif is_json:
+                df.to_json(target_path, orient="records", force_ascii=False, indent=2)
+        except Exception as e_final:
+            logger.error(f"Falha critica definitiva ao salvar {target_path.name}: {e_final}")
+
+
 def merge_and_save_data(
     existing_csv: Path,
     new_csv: Path,
@@ -205,21 +251,17 @@ def merge_and_save_data(
         total_before = len(old_df)
         combined_df = pd.concat([old_df, new_df], ignore_index=True)
         # Deduplica pelo Id mantendo a linha mais recente
-        combined_df.drop_duplicates(subset=[id_col], keep="last", inplace=True)
+        combined_df = combined_df.drop_duplicates(subset=[id_col], keep="last")
         added = len(combined_df) - total_before
     else:
         combined_df = new_df.drop_duplicates(subset=[id_col], keep="last")
         added = len(combined_df)
 
-    # Gravação atômica do CSV consolidado (separador ';' e utf-8-sig para compatibilidade com Excel)
-    temp_csv = existing_csv.with_suffix(".tmp")
-    combined_df.to_csv(temp_csv, sep=";", index=False, encoding="utf-8-sig")
-    temp_csv.replace(existing_csv)
+    # Gravação atômica segura do CSV consolidado (com tolerância a locks do OneDrive)
+    safe_atomic_save_df(combined_df, existing_csv, is_csv=True)
 
-    # Gravação atômica do JSON para consumo ágil em dashboards / aplicações web
-    temp_json = json_path.with_suffix(".tmp")
-    combined_df.to_json(temp_json, orient="records", force_ascii=False, indent=2)
-    temp_json.replace(json_path)
+    # Gravação atômica segura do JSON para consumo ágil em dashboards
+    safe_atomic_save_df(combined_df, json_path, is_json=True)
 
     return added, len(combined_df)
 

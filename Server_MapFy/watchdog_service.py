@@ -19,6 +19,16 @@ import sys
 import time
 from pathlib import Path
 
+# Garante saída UTF-8 no Windows para evitar crash com charmap / cp1252
+if sys.platform == "win32":
+    try:
+        if hasattr(sys.stdout, "reconfigure"):
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        if hasattr(sys.stderr, "reconfigure"):
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
 BASE_DIR = Path(__file__).resolve().parent
 LOG_FILE = BASE_DIR / "watchdog.log"
 STATUS_FILE = BASE_DIR / "watchdog_status.json"
@@ -27,7 +37,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+        logging.FileHandler(LOG_FILE, encoding="utf-8", errors="replace"),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -57,9 +67,19 @@ def run_watchdog():
     logger.info("Usina Pitangueiras • Alta Disponibilidade")
     logger.info("==================================================")
 
-    python_exe = sys.executable
+    venv_python = BASE_DIR / ".venv" / "Scripts" / "python.exe"
+    python_exe = str(venv_python) if venv_python.is_file() else sys.executable
     gateway_script = BASE_DIR / "api_gateway.py"
     extractor_script = BASE_DIR / "mapfy_extractor.py"
+
+    # Sincroniza malha de talhões em DashBoard/Maps/ se necessário
+    try:
+        sync_script = BASE_DIR.parent / "DashBoard" / "Maps" / "sync_maps.py"
+        if sync_script.is_file():
+            logger.info("Verificando integridade das camadas de talhões em DashBoard/Maps...")
+            subprocess.run([str(python_exe), str(sync_script)], cwd=str(sync_script.parent), capture_output=True, timeout=30)
+    except Exception as e:
+        logger.warning(f"Aviso ao checar mapas: {e}")
 
     gateway_proc = None
     restarts = 0
@@ -96,10 +116,17 @@ def run_watchdog():
                         stdout=subprocess.PIPE,
                         stderr=subprocess.STDOUT,
                         text=True,
-                        encoding="utf-8"
+                        encoding="utf-8",
+                        errors="replace"
                     )
-                    # Não bloqueia o loop indefinidamente, monitora com timeout
-                    ext_proc.wait(timeout=1800) # até 30 min por ciclo
+                    # Lê a saída em tempo real para evitar deadlock no pipe do Windows e registrar no log
+                    if ext_proc.stdout:
+                        for line in iter(ext_proc.stdout.readline, ""):
+                            clean_line = line.strip()
+                            if clean_line:
+                                safe_line = clean_line.encode("ascii", "backslashreplace").decode("ascii")
+                                logger.info(f"[extrator] {safe_line}")
+                    ext_proc.wait(timeout=1800)
                     last_extract_str = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
                     last_extract_time = time.time()
                     logger.info(f"Ciclo de extração concluído com sucesso em {last_extract_str}")

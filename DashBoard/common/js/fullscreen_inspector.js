@@ -45,6 +45,13 @@
         try { setupUniversalPWAInstaller(); } catch (e) {}
         try { setupPwaSupport(); } catch (e) {}
         try {
+            if (!window.PitangueirasMapShapes && !document.querySelector('script[src*="map_shapes_layer.js"]')) {
+                const s = document.createElement('script');
+                s.src = '../common/js/map_shapes_layer.js';
+                document.head.appendChild(s);
+            }
+        } catch (e) {}
+        try {
             if (!window.MapfyApiConnector && !document.querySelector('script[src*="api_connector.js"]')) {
                 const s = document.createElement('script');
                 s.src = '../common/js/api_connector.js';

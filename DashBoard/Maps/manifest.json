@@ -1,0 +1,22 @@
+{
+  "status": "ready",
+  "last_updated": "2026-11-01T11:02:22-03:00",
+  "raw_source": "PITANGUEIRAS.geojson",
+  "raw_size_bytes": 26998353,
+  "optimized_file": "pitangueiras_shapes.geojson",
+  "optimized_size_bytes": 13358204,
+  "mbtiles_available": true,
+  "total_features": 6469,
+  "bbox": [
+    -48.859899137602,
+    -21.5274983622529,
+    -47.4172223867054,
+    -20.511562457939
+  ],
+  "center": [
+    -21.01953,
+    -48.13856
+  ],
+  "total_farms": 671,
+  "total_area_ha": 55470.84
+}

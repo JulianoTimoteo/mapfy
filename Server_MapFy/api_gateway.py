@@ -21,7 +21,9 @@ from dotenv import load_dotenv
 from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
+from fastapi.responses import FileResponse, Response
 import json
+import sqlite3
 
 BASE_DIR = Path(__file__).resolve().parent
 REPORTS_DIR = BASE_DIR / "relatorios"
@@ -334,6 +336,95 @@ def get_dashboard_data(report_slug: str) -> dict[str, Any]:
         "total_records": len(records),
         "records": records
     }
+
+
+
+MAPS_DIR = DASHBOARD_DIR / "Maps"
+RAW_GEOJSON = MAPS_DIR / "PITANGUEIRAS.geojson"
+OPT_GEOJSON = MAPS_DIR / "pitangueiras_shapes.geojson"
+MANIFEST_FILE = MAPS_DIR / "manifest.json"
+MBTILES_FILE = MAPS_DIR / "fields.mbtiles"
+
+
+def _ensure_maps_updated() -> None:
+    if not RAW_GEOJSON.is_file():
+        return
+    needs_update = False
+    if not OPT_GEOJSON.is_file() or not MANIFEST_FILE.is_file():
+        needs_update = True
+    elif RAW_GEOJSON.stat().st_mtime > OPT_GEOJSON.stat().st_mtime:
+        needs_update = True
+
+    if needs_update:
+        try:
+            import importlib.util
+
+            sync_script = MAPS_DIR / "sync_maps.py"
+            if sync_script.is_file():
+                spec = importlib.util.spec_from_file_location("sync_maps", str(sync_script))
+                if spec and spec.loader:
+                    mod = importlib.util.module_from_spec(spec)
+                    spec.loader.exec_module(mod)
+                    mod.process_maps(force=True)
+                    logger.info("Mapas sincronizados com sucesso via trigger da API.")
+        except Exception as e:
+            logger.error(f"Erro ao sincronizar mapas: {e}")
+
+
+@app.get("/api/v1/maps/manifest", tags=["Mapas"])
+def get_maps_manifest() -> dict[str, Any]:
+    """Retorna os metadados dos mapas e talhões agrícolas atualizados."""
+    _ensure_maps_updated()
+    if MANIFEST_FILE.is_file():
+        try:
+            with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=str(e))
+    raise HTTPException(status_code=404, detail="Manifesto de mapas não encontrado.")
+
+
+@app.get("/api/v1/maps/shapes", tags=["Mapas"])
+def get_maps_shapes():
+    """Retorna a malha otimizada de talhões em formato GeoJSON."""
+    _ensure_maps_updated()
+    if OPT_GEOJSON.is_file():
+        return FileResponse(OPT_GEOJSON, media_type="application/geo+json")
+    if RAW_GEOJSON.is_file():
+        return FileResponse(RAW_GEOJSON, media_type="application/geo+json")
+    raise HTTPException(status_code=404, detail="Shapes de talhões não encontrados.")
+
+
+@app.get("/api/v1/maps/tiles/{z}/{x}/{y}.pbf", tags=["Mapas"])
+def get_map_vector_tile(z: int, x: int, y: int):
+    """Serve tiles vetoriais diretamente do fields.mbtiles com conversão TMS."""
+    if not MBTILES_FILE.is_file():
+        raise HTTPException(status_code=404, detail="Arquivo MBTiles não encontrado.")
+    tms_y = (1 << z) - 1 - y
+    try:
+        conn = sqlite3.connect(str(MBTILES_FILE))
+        cur = conn.cursor()
+        cur.execute(
+            "SELECT tile_data FROM tiles WHERE zoom_level=? AND tile_column=? AND tile_row=?",
+            (z, x, tms_y),
+        )
+        row = cur.fetchone()
+        conn.close()
+        if not row or not row[0]:
+            raise HTTPException(status_code=404, detail="Tile não encontrado.")
+        return Response(
+            content=row[0],
+            media_type="application/x-protobuf",
+            headers={
+                "Content-Encoding": "gzip",
+                "Cache-Control": "public, max-age=86400",
+                "Access-Control-Allow-Origin": "*",
+            },
+        )
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 def _is_loopback_host(host: str) -> bool:
