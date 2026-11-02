@@ -2503,7 +2503,7 @@
     <footer class="border-t py-4 text-center text-xs transition-colors"
             style="background: var(--header-bg); border-color: var(--border-color); color: var(--text-secondary);">
         <p class="font-medium">Usina Pitangueiras • Sistema Mapfy Automático • Safra 2026</p>
-        <p class="text-[10px] font-mono mt-1 opacity-70">Dados consolidados incrementalmente em <code class="text-emerald-500">Server_MapFy/relatorios/</code></p>
+        <p class="text-[10px] font-mono mt-1 opacity-70">Dados consolidados incrementalmente em <code class="text-emerald-500">Server_MapFy/server/relatorios/</code></p>
     </footer>
 
     <!-- MODAL DE DETALHES DAS COLUNAS (PARA RELATÓRIOS SEM PAINEL ESPECÍFICO) -->
@@ -2843,7 +2843,7 @@
             modalCat.innerText = cat;
             modalSub.innerText = `${rows} registros consolidados • Última sincronia em ${date}`;
             modalColCount.innerText = `${columns.length} colunas`;
-            modalFolder.innerText = `Server_MapFy/relatorios/${folder}/dados.csv`;
+            modalFolder.innerText = `Server_MapFy/server/relatorios/${folder}/dados.csv`;
 
             modalColumnsList.innerHTML = '';
             columns.forEach((col, idx) => {
@@ -3071,38 +3071,23 @@
             // 1. Inicializa imediatamente com formsData local (zero tela branca ou delay)
             renderDynamicRecordsBadge(computeTotalRecords());
 
-            const apiUrl = localStorage.getItem('mapfy_api_url') || 'http://127.0.0.1:8000';
-            let loadedFromApi = false;
-
-            // 2. Tenta sincronizar via Gateway 24/7 online
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 10000);
             try {
-                const controller = new AbortController();
-                const timeoutId = setTimeout(() => controller.abort(), 2000);
-                const res = await fetch(`${apiUrl}/api/v1/summary`, { signal: controller.signal });
-                clearTimeout(timeoutId);
+                const res = await fetch('data_summary.json?t=' + Date.now(), {
+                    signal: controller.signal,
+                    cache: 'no-store'
+                });
                 if (res.ok) {
                     const data = await res.json();
                     if (data && data.reports) {
                         updateUIWithLiveCounts(data.reports, data.total_records);
-                        loadedFromApi = true;
                     }
                 }
-            } catch (e) {}
-
-            // 3. Fallback estático: consome data_summary.json (funciona no GitHub Pages e servidores estáticos)
-            if (!loadedFromApi) {
-                try {
-                    const controller = new AbortController();
-                    const timeoutId = setTimeout(() => controller.abort(), 2500);
-                    const res = await fetch('data_summary.json?t=' + Date.now(), { signal: controller.signal });
-                    clearTimeout(timeoutId);
-                    if (res.ok) {
-                        const data = await res.json();
-                        if (data && data.reports) {
-                            updateUIWithLiveCounts(data.reports, data.total_records);
-                        }
-                    }
-                } catch (e) {}
+            } catch (e) {
+                console.warn('[Mapfy] Não foi possível atualizar o resumo publicado.', e);
+            } finally {
+                clearTimeout(timeoutId);
             }
         }
 

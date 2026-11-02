@@ -9,7 +9,7 @@ import json
 import re
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-JSON_SOURCE = os.path.join(BASE_DIR, '..', '..', 'Server_MapFy', 'relatorios', '5S e Gestão - TPL', 'dados.json')
+JSON_SOURCE = os.path.join(BASE_DIR, '..', '..', 'Server_MapFy', 'server', 'relatorios', '5S e Gestão - TPL', 'dados.json')
 JS_DATA_FILE = os.path.join(BASE_DIR, 'js', 'data.js')
 HTML_FILE = os.path.join(BASE_DIR, 'index.html')
 DASHBOARD_JS = os.path.join(BASE_DIR, 'js', 'dashboard.js')

@@ -14,7 +14,7 @@ import re
 from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-JSON_SOURCE = os.path.join(BASE_DIR, '..', '..', 'Server_MapFy', 'relatorios', 'CHECK LIST VEICULAR', 'dados.json')
+JSON_SOURCE = os.path.join(BASE_DIR, '..', '..', 'Server_MapFy', 'server', 'relatorios', 'CHECK LIST VEICULAR', 'dados.json')
 JS_DATA_FILE = os.path.join(BASE_DIR, 'js', 'data.js')
 HTML_FILE = os.path.join(BASE_DIR, 'index.html')
 DASHBOARD_JS = os.path.join(BASE_DIR, 'js', 'dashboard.js')

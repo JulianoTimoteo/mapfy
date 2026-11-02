@@ -5,3 +5,11 @@ mapfy_extractor.log
 __pycache__/
 *.py[cod]
 relatorios/
+server/.env
+server/session_state.json
+server/config_rotina.json
+server/github_publish_state.json
+server/github_publish_state.tmp
+server/*.log
+server/MapFyServer.exe
+build/

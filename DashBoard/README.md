@@ -8,7 +8,12 @@ Esta é a pasta de trabalho dedicada ao desenvolvimento do **Painel Visual e Das
 
 O dashboard consome diretamente as bases consolidadas e atualizadas continuamente pelo módulo **`Server_MapFy`**:
 
-- **Origem dos dados:** `../Server_MapFy/relatorios/`
+- **Origem dos dados:** `../Server_MapFy/server/relatorios/`
+- **Publicação online:** arquivos consolidados são enviados ao repositório pelo servidor e
+  disponibilizados pelo GitHub Pages em HTTPS.
+- **Sincronização no navegador:** automática e sem configuração de endereço de API.
+- **Segurança:** a chave de publicação fica somente no `.env` do computador servidor; relatórios
+  enviados ao repositório público podem ser acessados publicamente.
 - **Módulo de integração:** [`data_loader.py`](data_loader.py)
 - **Formulários ativos (2026):** 17 formulários consolidados
 - **Volume total:** +22.000 registros únicos

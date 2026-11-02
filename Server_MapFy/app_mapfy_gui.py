@@ -31,6 +31,14 @@ import customtkinter as ctk
 from dotenv import set_key
 from PIL import Image, ImageDraw
 import pystray
+from runtime_paths import (
+    CONFIG_FILE,
+    ENV_FILE,
+    LEGACY_CONFIG_FILE,
+    LEGACY_ENV_FILE,
+    PROJECT_DIR,
+    REPORTS_DIR,
+)
 
 # Importa o extrator do Mapfy
 import mapfy_extractor
@@ -38,11 +46,8 @@ import mapfy_extractor
 # =============================================================================
 # DIRETÓRIOS E CONFIGURAÇÕES
 # =============================================================================
-BASE_DIR = Path(__file__).resolve().parent
-ENV_FILE = BASE_DIR / ".env"
-CONFIG_FILE = BASE_DIR / "config_rotina.json"
-RELATORIOS_DIR = BASE_DIR / "relatorios"
-SESSION_FILE = BASE_DIR / "session_state.json"
+BASE_DIR = PROJECT_DIR
+RELATORIOS_DIR = REPORTS_DIR
 
 RELATORIOS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -81,9 +86,10 @@ def load_config() -> dict[str, Any]:
 
     defaults["password"] = os.getenv("MAPFY_PASS", "")
 
-    if CONFIG_FILE.exists():
+    config_file = CONFIG_FILE if CONFIG_FILE.exists() else LEGACY_CONFIG_FILE
+    if config_file.exists():
         try:
-            with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+            with open(config_file, "r", encoding="utf-8") as f:
                 defaults.update(json.load(f))
         except Exception:
             pass
@@ -101,9 +107,10 @@ def save_config(cfg: dict[str, Any], password: str) -> None:
     with open(CONFIG_FILE, "w", encoding="utf-8") as f:
         json.dump(to_save, f, indent=2, ensure_ascii=False)
 
-    ENV_FILE.touch(exist_ok=True)
-    set_key(str(ENV_FILE), "MAPFY_USER", cfg.get("email", ""), quote_mode="always")
-    set_key(str(ENV_FILE), "MAPFY_PASS", password, quote_mode="always")
+    env_file = ENV_FILE if ENV_FILE.exists() else LEGACY_ENV_FILE
+    env_file.touch(exist_ok=True)
+    set_key(str(env_file), "MAPFY_USER", cfg.get("email", ""), quote_mode="always")
+    set_key(str(env_file), "MAPFY_PASS", password, quote_mode="always")
     os.environ["MAPFY_USER"] = cfg.get("email", "")
     os.environ["MAPFY_PASS"] = password
 

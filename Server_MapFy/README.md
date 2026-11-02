@@ -1,14 +1,26 @@
 # Mapfy — extração e gateway de relatórios
 
-O servidor preserva o extrator atual e organiza os dados em duas camadas, sem mover nem
-reprocessar os arquivos já existentes:
+O servidor organiza os dados em duas camadas:
 
-- **Brutos:** cada exportação original fica em `relatorios/<formulário>/historico/`.
+- **Brutos:** cada exportação original fica em `server/relatorios/<formulário>/historico/`.
 - **Consolidados:** `dados.csv` e `dados.json` mantêm a visão atualizada por formulário.
 - **Gateway:** a API REST expõe os consolidados em modo somente leitura e com paginação.
 
-O conteúdo de `relatorios/` continua sendo a fonte dos dados. Nenhum arquivo do Dashboard é
-alterado por este servidor.
+As exportações originais existentes em `relatorios/` devem ser copiadas para
+`server/relatorios/` ao preparar a pasta do servidor. O novo executável não apaga a pasta antiga.
+
+## Executável portátil
+
+A preparação de compilação e implantação do executável de serviço está em
+[`server/README.md`](server/README.md). O binário `server/MapFyServer.exe` inicia a API somente no
+computador local, executa a extração agendada e publica os arquivos do Dashboard no GitHub Pages.
+Os dados, configurações e logs permanecem na pasta `server/`, separados do executável.
+
+Para o Dashboard público no GitHub Pages, o executável publica os consolidados em um único commit
+no próprio repositório. Configure `MAPFY_GITHUB_TOKEN` em `server/.env` com uma chave fine-grained
+limitada ao repositório e à permissão de escrita do conteúdo. Não é preciso expor a API local à
+internet nem configurar CORS, túnel ou endereço no navegador. Os dados publicados ficam acessíveis
+publicamente, tal como o Dashboard.
 
 ## Preparação
 
@@ -27,8 +39,9 @@ Crie o arquivo local de configuração a partir do modelo:
 Copy-Item .env.example .env
 ```
 
-Preencha `MAPFY_USER` e `MAPFY_PASS` no `.env`. O arquivo contém credenciais e permanece fora
-do controle de versão. A interface também pode gravar essas credenciais nesse arquivo.
+Preencha `MAPFY_USER` e `MAPFY_PASS` no `.env` da raiz para executar o modo de desenvolvimento.
+No executável, as credenciais ficam em `server/.env`. Os arquivos contêm credenciais e permanecem
+fora do controle de versão. A interface também pode gravá-las nesse arquivo.
 
 ## Gateway REST
 
@@ -77,12 +90,14 @@ python mapfy_extractor.py --form "Nome do formulário" --headless
 python mapfy_extractor.py --force-start 01/01/2026 --headless
 ```
 
-A extração incremental reutiliza `session_state.json`, salva os arquivos originais em
-`historico/` e atualiza os consolidados por ID. O gateway lê `dados.csv`; portanto, cada
-consolidação concluída fica disponível sem integração adicional entre os processos.
+A extração incremental reutiliza `server/session_state.json`, salva os arquivos originais em
+`server/relatorios/<formulário>/historico/` e atualiza os consolidados por ID. O gateway lê
+`server/relatorios/<formulário>/dados.csv`; portanto, cada consolidação concluída fica disponível
+sem integração adicional entre os processos.
 
 ## Diretórios locais
 
-`.env`, `session_state.json`, logs e `relatorios/` podem conter credenciais, sessão autenticada
-ou dados operacionais. Não os compartilhe nem os versione. A API fica limitada ao computador
-local por padrão; exponha-a na rede somente com chave e regras de firewall apropriadas.
+`.env`, `session_state.json`, logs e `server/relatorios/` podem conter credenciais, sessão
+autenticada ou dados operacionais. Não os compartilhe nem os versione. A API fica limitada ao
+computador local por padrão; configure o acesso pela rede interna somente com chave e regras de
+firewall apropriadas. Não exponha os dados do Dashboard diretamente à internet.

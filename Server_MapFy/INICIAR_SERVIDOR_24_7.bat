@@ -15,6 +15,12 @@ echo.
 
 cd /d "%~dp0"
 
+if exist "server\MapFyServer.exe" (
+    echo [INFO] Executando o Servidor MapFy empacotado...
+    "server\MapFyServer.exe"
+    exit /b %ERRORLEVEL%
+)
+
 :: Ativa o ambiente virtual se existir
 if exist "..\.venv\Scripts\activate.bat" (
     call "..\.venv\Scripts\activate.bat"

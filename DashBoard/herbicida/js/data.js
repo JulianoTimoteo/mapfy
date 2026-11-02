@@ -1,5 +1,5 @@
 // Dataset gerado automaticamente a partir de dados reais do MapFy
-// Fonte: Server_MapFy/relatorios/Tratos - Herbicida
+// Fonte: Server_MapFy/server/relatorios/Tratos - Herbicida
 // Total de Registros: 30 | Gerado em: 30/10/2026 07:50:47
 window.HERBICIDA_DATA = [
   {

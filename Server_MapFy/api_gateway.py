@@ -24,10 +24,16 @@ from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import FileResponse, Response
 import json
 import sqlite3
+from runtime_paths import (
+    DASHBOARD_DIR,
+    ENV_FILE,
+    LEGACY_ENV_FILE,
+    PROJECT_DIR,
+    REPORTS_DIR,
+)
 
-BASE_DIR = Path(__file__).resolve().parent
-REPORTS_DIR = BASE_DIR / "relatorios"
-load_dotenv(BASE_DIR / ".env")
+BASE_DIR = PROJECT_DIR
+load_dotenv(ENV_FILE if ENV_FILE.is_file() else LEGACY_ENV_FILE)
 
 logger = logging.getLogger("mapfy.api")
 
@@ -226,10 +232,8 @@ DASHBOARD_FOLDER_MAP = {
     "viabilidade_gemas": "Plantio - 09 - Quantidade de Gemas",
 }
 
-DASHBOARD_DIR = BASE_DIR.parent / "DashBoard"
-
-@app.get("/api/v1/summary", tags=["Dashboard"], dependencies=[Depends(require_api_key)])
-@app.get("/api/v1/dashboard/summary", tags=["Dashboard"], dependencies=[Depends(require_api_key)])
+@app.get("/api/v1/summary", tags=["Dashboard"])
+@app.get("/api/v1/dashboard/summary", tags=["Dashboard"])
 def get_dashboard_summary() -> dict[str, Any]:
     """Retorna o consolidado dinamico com contagem de registros em tempo real."""
     catalog = get_report_catalog()
@@ -272,42 +276,46 @@ def get_dashboard_summary() -> dict[str, Any]:
 def get_dashboard_data(report_slug: str) -> dict[str, Any]:
     slug = report_slug.strip().lower()
     folder_name = DASHBOARD_FOLDER_MAP.get(slug)
-    
-    # 1. Prioridade Máxima: dataset estruturado e validado de DashBoard/<slug>/js/data.js
-    dashboard_js = DASHBOARD_DIR / slug / "js" / "data.js"
-    if dashboard_js.is_file():
-        try:
-            with open(dashboard_js, "r", encoding="utf-8") as f:
-                content = f.read()
-            match = re.search(r'=\s*(\[[\s\S]*\])\s*;?', content)
-            if match:
-                records = json.loads(match.group(1))
-                mtime = datetime.fromtimestamp(dashboard_js.stat().st_mtime).astimezone()
-                return {
-                    "status": "ok",
-                    "slug": report_slug,
-                    "folder": folder_name or slug,
-                    "updated_at": mtime.isoformat(timespec="seconds"),
-                    "total_records": len(records),
-                    "records": records
-                }
-        except Exception as e:
-            logger.warning(f"Erro ao ler data.js de {slug}: {e}")
-    
+
     target_folder = None
     if folder_name:
         f = REPORTS_DIR / folder_name
-        if f.is_dir():
+        if f.is_dir() and _is_inside_reports(f, REPORTS_DIR):
             target_folder = f
             
     if not target_folder:
         for f in REPORTS_DIR.iterdir():
-            if f.is_dir():
+            if f.is_dir() and _is_inside_reports(f, REPORTS_DIR):
                 clean_name = report_id_for(f.name)
                 if slug in clean_name or clean_name in slug:
                     target_folder = f
                     break
-                    
+
+    has_consolidated_data = bool(
+        target_folder
+        and any((target_folder / filename).is_file() for filename in ("dados.json", "dados.csv"))
+    )
+    if not has_consolidated_data:
+        dashboard_js = DASHBOARD_DIR / slug / "js" / "data.js"
+        if dashboard_js.is_file():
+            try:
+                with open(dashboard_js, "r", encoding="utf-8") as f:
+                    content = f.read()
+                match = re.search(r'=\s*(\[[\s\S]*\])\s*;?', content)
+                if match:
+                    records = json.loads(match.group(1))
+                    mtime = datetime.fromtimestamp(dashboard_js.stat().st_mtime).astimezone()
+                    return {
+                        "status": "ok",
+                        "slug": report_slug,
+                        "folder": folder_name or slug,
+                        "updated_at": mtime.isoformat(timespec="seconds"),
+                        "total_records": len(records),
+                        "records": records
+                    }
+            except Exception as e:
+                logger.warning(f"Erro ao ler data.js de {slug}: {e}")
+
     if not target_folder:
         raise HTTPException(status_code=404, detail=f"Relatório '{report_slug}' não encontrado.")
         

@@ -45,17 +45,24 @@ from typing import Any
 import pandas as pd
 from dotenv import load_dotenv
 from playwright.sync_api import Page, BrowserContext, sync_playwright, TimeoutError as PlaywrightTimeout
+from runtime_paths import (
+    ENV_FILE,
+    LEGACY_ENV_FILE,
+    LEGACY_SESSION_FILE,
+    PROJECT_DIR,
+    PROJECT_ROOT,
+    REPORTS_DIR,
+    SESSION_FILE,
+)
 
 # =============================================================================
 # DIRETÓRIOS E CONFIGURAÇÃO
 # =============================================================================
-BASE_DIR = Path(__file__).resolve().parent
-RELATORIOS_DIR = BASE_DIR / "relatorios"
-SESSION_FILE = BASE_DIR / "session_state.json"
-LOG_FILE = BASE_DIR / "mapfy_extractor.log"
-ENV_FILE = BASE_DIR / ".env"
+BASE_DIR = PROJECT_DIR
+RELATORIOS_DIR = REPORTS_DIR
+LOG_FILE = REPORTS_DIR.parent / "mapfy_extractor.log"
 
-load_dotenv(ENV_FILE)
+load_dotenv(ENV_FILE if ENV_FILE.is_file() else LEGACY_ENV_FILE)
 
 MAPFY_HUB_URL = "https://app.mapfy.com.br/m/FormEntry/List"
 FIRST_RUN_DATE = "01/01/2026"
@@ -634,9 +641,10 @@ def run_full_extraction(
             "viewport": {"width": 1440, "height": 900},
             "accept_downloads": True
         }
-        if SESSION_FILE.exists():
-            emit(f"Carregando sessão prévia de {SESSION_FILE.name}")
-            context_kwargs["storage_state"] = str(SESSION_FILE)
+        session_file = SESSION_FILE if SESSION_FILE.exists() else LEGACY_SESSION_FILE
+        if session_file.exists():
+            emit(f"Carregando sessão prévia de {session_file.name}")
+            context_kwargs["storage_state"] = str(session_file)
 
         context = browser.new_context(**context_kwargs)
         page = context.new_page()
@@ -761,9 +769,8 @@ def run_full_extraction(
 def export_dashboard_summary() -> Path | None:
     """Gera/atualiza DashBoard/data_summary.json com contagem dinamica em tempo real de todos os relatorios."""
     try:
-        root_dir = Path(__file__).resolve().parent.parent
-        dashboard_dir = root_dir / "DashBoard"
-        reports_dir = root_dir / "Server_MapFy" / "relatorios"
+        dashboard_dir = PROJECT_ROOT / "DashBoard"
+        reports_dir = REPORTS_DIR
         if not dashboard_dir.is_dir() or not reports_dir.is_dir():
             return None
 

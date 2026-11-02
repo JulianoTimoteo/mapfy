@@ -5,7 +5,8 @@ Processador e sincronizador universal de camadas geográficas (Shapes e Talhões
 para a Usina Pitangueiras - Safra 2026.
 
 Detecta atualizações nos arquivos brutos de DashBoard/Maps/ (ex: PITANGUEIRAS.geojson, fields.mbtiles),
-gera versão otimizada para alta performance em Leaflet Canvas (pitangueiras_shapes.geojson)
+aplica simplificação topológica inteligente (Douglas-Peucker preservativo),
+gera versão de ultra-alta performance em Leaflet Canvas (pitangueiras_shapes.geojson)
 e atualiza o manifest.json para carregamento dinâmico instantâneo nos 17 dashboards.
 """
 
@@ -16,11 +17,20 @@ import time
 from datetime import datetime
 from pathlib import Path
 
+try:
+    from shapely.geometry import shape, mapping
+    HAS_SHAPELY = True
+except ImportError:
+    HAS_SHAPELY = False
+
 MAPS_DIR = Path(__file__).resolve().parent
 RAW_GEOJSON = MAPS_DIR / "PITANGUEIRAS.geojson"
 OPT_GEOJSON = MAPS_DIR / "pitangueiras_shapes.geojson"
 MANIFEST_FILE = MAPS_DIR / "manifest.json"
 MBTILES_FILE = MAPS_DIR / "fields.mbtiles"
+
+# Tolerância em graus para simplificação Douglas-Peucker (~3.5m na latitude da usina)
+SIMPLIFY_TOLERANCE = 0.000035
 
 
 def round_coordinates(coords, precision=5):
@@ -48,8 +58,21 @@ def update_bbox(coords, bbox):
     return bbox
 
 
+def count_coords(geometry) -> int:
+    """Conta total de vértices em uma geometria."""
+    if not geometry:
+        return 0
+    t = geometry.get("type", "")
+    coords = geometry.get("coordinates", [])
+    if t == "Polygon":
+        return sum(len(ring) for ring in coords)
+    elif t == "MultiPolygon":
+        return sum(sum(len(ring) for ring in poly) for poly in coords)
+    return 0
+
+
 def process_maps(force=False) -> dict:
-    """Verifica e reprocessa os mapas se necessário."""
+    """Verifica e reprocessa os mapas com simplificação de alta performance."""
     if not RAW_GEOJSON.is_file():
         print(f"[sync_maps] Arquivo de origem {RAW_GEOJSON.name} não encontrado.")
         return {"status": "error", "message": "Raw file not found"}
@@ -80,15 +103,39 @@ def process_maps(force=False) -> dict:
     total_features = len(features)
     print(f"[sync_maps] Total de feições encontradas: {total_features}")
 
+    raw_vertices = 0
+    opt_vertices = 0
     bbox = [180.0, 90.0, -180.0, -90.0]
     farms_summary = {}
 
     for feat in features:
         geom = feat.get("geometry", {})
+        if not geom:
+            continue
+
+        raw_vertices += count_coords(geom)
+
+        # Simplificação topológica inteligente
+        feat_bbox = None
+        if HAS_SHAPELY:
+            try:
+                s_orig = shape(geom)
+                s_simp = s_orig.simplify(SIMPLIFY_TOLERANCE, preserve_topology=True)
+                geom = mapping(s_simp)
+                b = s_simp.bounds
+                feat_bbox = [round(b[0], 5), round(b[1], 5), round(b[2], 5), round(b[3], 5)]
+            except Exception:
+                geom = feat.get("geometry", {})
+
         coords = geom.get("coordinates", [])
         if coords:
             geom["coordinates"] = round_coordinates(coords, 5)
             update_bbox(coords, bbox)
+
+        opt_vertices += count_coords(geom)
+        feat["geometry"] = geom
+        if feat_bbox:
+            feat["bbox"] = feat_bbox
 
         props = feat.get("properties", {})
         fazenda_cod = str(props.get("FAZENDA", "")).strip()
@@ -121,7 +168,7 @@ def process_maps(force=False) -> dict:
     tmp_opt = OPT_GEOJSON.with_suffix(".tmp")
     with open(tmp_opt, "w", encoding="utf-8") as f:
         json.dump(data, f, separators=(",", ":"))
-    
+
     # Substituição atômica ou fallback
     try:
         tmp_opt.replace(OPT_GEOJSON)
@@ -135,13 +182,18 @@ def process_maps(force=False) -> dict:
         round((bbox[0] + bbox[2]) / 2.0, 5)
     ]
 
+    reduction_pct = round((1.0 - (opt_vertices / max(raw_vertices, 1))) * 100.0, 1)
+
     manifest = {
         "status": "ready",
         "last_updated": datetime.now().astimezone().isoformat(timespec="seconds"),
         "raw_source": RAW_GEOJSON.name,
         "raw_size_bytes": RAW_GEOJSON.stat().st_size,
+        "raw_vertices": raw_vertices,
         "optimized_file": OPT_GEOJSON.name,
         "optimized_size_bytes": OPT_GEOJSON.stat().st_size,
+        "optimized_vertices": opt_vertices,
+        "vertices_reduction_pct": reduction_pct,
         "mbtiles_available": MBTILES_FILE.is_file(),
         "total_features": total_features,
         "bbox": bbox,
@@ -153,7 +205,7 @@ def process_maps(force=False) -> dict:
     tmp_manifest = MANIFEST_FILE.with_suffix(".tmp")
     with open(tmp_manifest, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
-    
+
     try:
         tmp_manifest.replace(MANIFEST_FILE)
     except Exception:
@@ -163,7 +215,7 @@ def process_maps(force=False) -> dict:
 
     dt = time.time() - t0
     print(f"[sync_maps] Concluído em {dt:.2f}s! Arquivo otimizado: {manifest['optimized_size_bytes'] / (1024*1024):.2f} MB")
-    print(f"[sync_maps] Total de talhões: {total_features} em {manifest['total_farms']} fazendas ({manifest['total_area_ha']} ha).")
+    print(f"[sync_maps] Redução de vértices: {raw_vertices} -> {opt_vertices} (-{reduction_pct}%). Total de talhões: {total_features} ({manifest['total_area_ha']} ha).")
     return manifest
 
 

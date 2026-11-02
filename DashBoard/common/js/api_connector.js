@@ -17,9 +17,7 @@
 (function () {
     'use strict';
 
-    // Configuração de Endereço da API do Servidor 24/7
-    // Pode ser sobrescrito dinamicamente via localStorage: localStorage.setItem('mapfy_api_url', 'http://192.168.1.100:8000')
-    const DEFAULT_API_URL = window.MAPFY_API_URL || localStorage.getItem('mapfy_api_url') || 'http://127.0.0.1:8000';
+    const LIVE_DATA_URL = window.MAPFY_LIVE_DATA_URL || new URL('../live_data/', window.location.href).href;
 
     // Descobre o slug do relatório atual a partir da URL da pasta
     function detectReportSlug() {
@@ -32,34 +30,24 @@
         return pathParts.filter(Boolean).slice(-2, -1)[0] || '';
     }
 
-    async function checkServerHealth(baseUrl) {
-        try {
-            const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 2500);
-            const resp = await fetch(`${baseUrl}/api/v1/health`, {
-                method: 'GET',
-                signal: controller.signal
-            });
-            clearTimeout(timeoutId);
-            return resp.ok;
-        } catch (e) {
-            return false;
-        }
-    }
-
     async function fetchOnlineReportData(baseUrl, slug) {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 20000);
         try {
-            const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 8000);
-            const resp = await fetch(`${baseUrl}/api/v1/dashboard/${slug}/data`, {
-                method: 'GET',
-                signal: controller.signal
-            });
-            clearTimeout(timeoutId);
+            const resp = await fetch(
+                `${baseUrl}${encodeURIComponent(slug)}.json?t=${Date.now()}`,
+                {
+                    method: 'GET',
+                    signal: controller.signal,
+                    cache: 'no-store'
+                }
+            );
             if (!resp.ok) return null;
             return await resp.json();
         } catch (e) {
             return null;
+        } finally {
+            clearTimeout(timeoutId);
         }
     }
 
@@ -75,7 +63,7 @@
 
         if (badge247) {
             if (isOnline) {
-                badge247.title = 'Sincronismo Contínuo 24/7 • Base Online • Próxima atualização ao fechar o ciclo de 1h';
+                badge247.title = 'Dados publicados no GitHub Pages pelo servidor MapFy.';
                 if (dot247) {
                     dot247.style.backgroundColor = '#10b981';
                     dot247.style.boxShadow = '0 0 6px #10b981';
@@ -84,7 +72,7 @@
                     ring247.style.stroke = '#10b981';
                 }
             } else {
-                badge247.title = 'Sincronismo 24/7 • Base Local (Cache) • Próxima checagem ao fechar o ciclo de 1h';
+                badge247.title = 'Mostrando os dados integrados ao Dashboard; a última publicação não está disponível.';
                 if (dot247) {
                     dot247.style.backgroundColor = '#f59e0b';
                     dot247.style.boxShadow = '0 0 6px #f59e0b';
@@ -96,37 +84,11 @@
         }
     }
 
-    function promptConfigureApiUrl() {
-        const current = localStorage.getItem('mapfy_api_url') || DEFAULT_API_URL;
-        const input = window.prompt(
-            'Configurar endereço do Servidor MapFy 24/7:\n(Ex: http://192.168.1.100:8000 ou https://seu-tunnel.cloudflare.com)',
-            current
-        );
-        if (input !== null) {
-            const cleaned = input.trim().replace(/\/+$/, '');
-            if (cleaned) {
-                localStorage.setItem('mapfy_api_url', cleaned);
-                window.location.reload();
-            } else {
-                localStorage.removeItem('mapfy_api_url');
-                window.location.reload();
-            }
-        }
-    }
-
     async function initOnlineSync() {
         const slug = detectReportSlug();
         if (!slug) return;
 
-        const apiUrl = localStorage.getItem('mapfy_api_url') || DEFAULT_API_URL;
-        const isOnline = await checkServerHealth(apiUrl);
-
-        if (!isOnline) {
-            createServerStatusBadge(false);
-            return;
-        }
-
-        const dataPayload = await fetchOnlineReportData(apiUrl, slug);
+        const dataPayload = await fetchOnlineReportData(LIVE_DATA_URL, slug);
         if (dataPayload && dataPayload.status === 'ok' && Array.isArray(dataPayload.records)) {
             createServerStatusBadge(true, dataPayload.total_records, dataPayload.updated_at);
 
@@ -162,7 +124,7 @@
                 }
             }
         } else {
-            createServerStatusBadge(true);
+            createServerStatusBadge(false);
         }
     }
 
@@ -174,7 +136,6 @@
     }
 
     window.MapfyApiConnector = {
-        checkServerHealth,
         fetchOnlineReportData,
         initOnlineSync
     };

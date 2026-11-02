@@ -13,7 +13,7 @@ import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_JS = BASE_DIR / "js" / "data.js"
-CSV_FILE = BASE_DIR.parent.parent / "Server_MapFy" / "relatorios" / "#Check-list área de vivência _ Colheita" / "dados.csv"
+CSV_FILE = BASE_DIR.parent.parent / "Server_MapFy" / "server" / "relatorios" / "#Check-list área de vivência _ Colheita" / "dados.csv"
 
 def run_tests():
     print("=" * 60)

@@ -1,5 +1,5 @@
 // Dataset gerado automaticamente a partir de dados reais do MapFy
-// Fonte: Server_MapFy/relatorios/Infestação de Broca - Armadilha
+// Fonte: Server_MapFy/server/relatorios/Infestação de Broca - Armadilha
 // Total de Registros: 116 | Gerado em: 30/10/2026 08:17:57
 window.BROCA_ARMADILHA_DATA = [
   {

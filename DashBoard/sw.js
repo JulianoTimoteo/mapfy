@@ -2,7 +2,7 @@
  * MapFy 2026 - Service Worker Autônomo
  * Usina Pitangueiras • Safra 2026
  */
-const CACHE_NAME = 'mapfy-sw-v2026.1';
+const CACHE_NAME = 'mapfy-sw-v2026.2';
 const CORE_ASSETS = [
     './index.html',
     './manifest.json',
@@ -42,6 +42,18 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
     // Estratégia Network-First com fallback para cache se offline
     if (event.request.method !== 'GET') return;
+
+    const requestUrl = new URL(event.request.url);
+    if (
+        requestUrl.origin === self.location.origin
+        && (requestUrl.pathname.endsWith('/data_summary.json')
+            || requestUrl.pathname.includes('/live_data/'))
+    ) {
+        event.respondWith(
+            fetch(event.request, { cache: 'no-store' }).catch(() => Response.error())
+        );
+        return;
+    }
 
     event.respondWith(
         fetch(event.request)
