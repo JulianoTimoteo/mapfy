@@ -1,4 +1,6 @@
 .env
+*.env
+server.env
 session_state.json
 config_rotina.json
 mapfy_extractor.log
@@ -6,6 +8,7 @@ __pycache__/
 *.py[cod]
 relatorios/
 server/.env
+server/server.env
 server/session_state.json
 server/config_rotina.json
 server/github_publish_state.json
