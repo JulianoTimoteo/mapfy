@@ -31,7 +31,7 @@ analysis = Analysis(
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=["customtkinter", "PIL", "pystray", "tkinter", "setuptools", "distutils"],
+    excludes=["customtkinter", "PIL", "pystray", "tkinter", "setuptools", "distutils", "pkg_resources"],
     noarchive=False,
 )
 
