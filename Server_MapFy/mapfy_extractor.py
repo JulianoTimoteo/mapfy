@@ -73,6 +73,7 @@ RELATORIOS_DIR.mkdir(parents=True, exist_ok=True)
 # LOGGING
 # =============================================================================
 log = logging.getLogger("mapfy_extractor")
+logger = log
 log.setLevel(logging.INFO)
 
 fmt = logging.Formatter("%(asctime)s | %(levelname)-7s | %(message)s", "%Y-%m-%d %H:%M:%S")
