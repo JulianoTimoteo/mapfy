@@ -296,6 +296,84 @@
             border-color: rgba(16, 185, 129, 0.40) !important;
         }
 
+        /* =========================================================================
+           EFEITO COMETA VERDE DE ATUALIZAÇÃO (DELICADO E SUAVE AO REDOR DA BORDA)
+           ========================================================================= */
+        .node-comet-orbit {
+            position: absolute;
+            inset: -4px;
+            width: calc(100% + 8px);
+            height: calc(100% + 8px);
+            border-radius: inherit;
+            pointer-events: none;
+            z-index: 35;
+            overflow: visible;
+        }
+
+        .comet-svg {
+            width: 100%;
+            height: 100%;
+            overflow: visible;
+        }
+
+        .comet-track {
+            fill: none;
+            stroke: rgba(16, 185, 129, 0.20);
+            stroke-width: 1.5px;
+        }
+
+        .comet-particle {
+            fill: none;
+            stroke: #10b981;
+            stroke-width: 3.5px;
+            stroke-linecap: round;
+            stroke-dasharray: 26 313;
+            stroke-dashoffset: 0;
+            filter: drop-shadow(0 0 5px #10b981) drop-shadow(0 0 2px #a7f3d0);
+            animation: cometOrbitSpin 2.6s linear infinite;
+        }
+
+        @keyframes cometOrbitSpin {
+            from {
+                stroke-dashoffset: 0;
+            }
+            to {
+                stroke-dashoffset: -339;
+            }
+        }
+
+        /* Halo suave e delicado respirando no card atualizado */
+        .mandala-node.has-comet-update .node-disc,
+        .grid-item.has-comet-update {
+            border-color: rgba(16, 185, 129, 0.90) !important;
+            box-shadow: 0 0 22px rgba(16, 185, 129, 0.40) !important;
+        }
+
+        .mandala-node.has-comet-update .badge-index {
+            background: rgba(16, 185, 129, 0.25) !important;
+            color: #10b981 !important;
+            border-color: rgba(16, 185, 129, 0.50) !important;
+        }
+
+        /* Ponto satélite pulsante e sutil de atualização */
+        .comet-sparkle-dot {
+            position: absolute;
+            top: -2px;
+            right: -2px;
+            width: 6px;
+            height: 6px;
+            border-radius: 9999px;
+            background-color: #34d399;
+            box-shadow: 0 0 8px #10b981;
+            animation: cometPulse 1.8s ease-in-out infinite alternate;
+        }
+
+        @keyframes cometPulse {
+            from { transform: scale(0.8); opacity: 0.7; }
+            to { transform: scale(1.3); opacity: 1; box-shadow: 0 0 12px #10b981; }
+        }
+
+
         /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
         .aerial-backdrop-container {
             position: fixed;
@@ -2756,6 +2834,7 @@
             const item = formsData[idx];
             if (item && item.folder) {
                 markAsVisited(item.folder);
+                markReportAsSeen(item);
             }
 
             if (url) {
@@ -3065,6 +3144,9 @@
 
             const computedTotal = (typeof totalCount === 'number' && totalCount > 0) ? totalCount : computeTotalRecords();
             renderDynamicRecordsBadge(computedTotal);
+
+            // Verifica e ativa o Cometa Verde nos relatórios atualizados
+            checkReportsForCometUpdates(reportsMap);
         }
 
         async function syncDynamicCounts() {
@@ -3089,6 +3171,154 @@
             } finally {
                 clearTimeout(timeoutId);
             }
+        }
+
+
+        // =========================================================================
+        // GERENCIAMENTO DO INDICADOR COMETA VERDE DE ATUALIZAÇÃO
+        // =========================================================================
+        const SEEN_REPORTS_KEY = 'mapfy_reports_seen_state_v1';
+        const FOLDER_TO_SLUG = {
+            "Plantio - 03.1 - Preparo de Solo - Subsolagem": "subsolagem",
+            "Plantio - 03.1 - Preparo de Solo - Canteirização": "canteirizacao",
+            "Plantio - 05 - Sulcação": "sulcacao",
+            "Plantio - 04 - Dosagem de Produto - Sulcação": "dosagem_sulco",
+            "Plantio - 06 - Abertura da Asa": "abertura_asa",
+            "Plantio - 07 - Paralelismo": "paralelismo",
+            "Plantio - 08 - Qualidade da muda": "qualidade_muda",
+            "Plantio - 09 - Quantidade de Gemas": "viabilidade_gemas",
+            "Plantio - 10 - Quantidade de Cana": "qualidade_cana",
+            "Plantio - 11 - Dosagem de Produto - Cobrição": "dosagem_cobricao",
+            "Plantio - 12 - Cobrição": "cobricao",
+            "Plantio - 13 - Arremate e Acabamento": "arremate_acabamento",
+            "Tratos - Herbicida": "herbicida",
+            "Infestação de Broca - Armadilha": "broca_armadilha",
+            "CHECK LIST VEICULAR": "checklist_veicular",
+            "#Check-list área de vivência _ Colheita": "area_vivencia",
+            "5S e Gestão - TPL": "tpl_5s"
+        };
+
+        function getReportSlug(folder) {
+            return FOLDER_TO_SLUG[folder] || folder;
+        }
+
+        function getSeenReports() {
+            try {
+                return JSON.parse(localStorage.getItem(SEEN_REPORTS_KEY)) || {};
+            } catch (e) {
+                return {};
+            }
+        }
+
+        function setSeenReports(stateObj) {
+            try {
+                localStorage.setItem(SEEN_REPORTS_KEY, JSON.stringify(stateObj));
+            } catch (e) {}
+        }
+
+        function addCometToReport(slug, folder, idx) {
+            // Adiciona no nó circular da Mandala
+            const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"]`);
+            if (nodeEl) {
+                nodeEl.classList.add('has-comet-update');
+                const disc = nodeEl.querySelector('.node-disc');
+                if (disc && !disc.querySelector(`.node-comet-orbit[data-comet-slug="${slug}"]`)) {
+                    const cometEl = document.createElement('div');
+                    cometEl.className = 'node-comet-orbit';
+                    cometEl.setAttribute('data-comet-slug', slug);
+                    cometEl.innerHTML = `
+                        <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+                            <rect class="comet-track" x="3" y="3" width="94" height="94" rx="22" ry="22" />
+                            <rect class="comet-particle" x="3" y="3" width="94" height="94" rx="22" ry="22" />
+                        </svg>
+                        <span class="comet-sparkle-dot" title="Novos dados recebidos!"></span>
+                    `;
+                    disc.appendChild(cometEl);
+                }
+            }
+
+            // Adiciona no card do Grid Executivo se existir
+            const gridItem = document.querySelector(`.grid-item[data-index="${idx}"]`);
+            if (gridItem) {
+                gridItem.classList.add('has-comet-update');
+                if (!gridItem.querySelector(`.node-comet-orbit[data-comet-slug="${slug}"]`)) {
+                    const cometEl = document.createElement('div');
+                    cometEl.className = 'node-comet-orbit';
+                    cometEl.setAttribute('data-comet-slug', slug);
+                    cometEl.innerHTML = `
+                        <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+                            <rect class="comet-track" x="3" y="3" width="94" height="94" rx="14" ry="14" />
+                            <rect class="comet-particle" x="3" y="3" width="94" height="94" rx="14" ry="14" />
+                        </svg>
+                    `;
+                    gridItem.appendChild(cometEl);
+                }
+            }
+        }
+
+        function removeCometFromReport(slug, folder) {
+            document.querySelectorAll(`.node-comet-orbit[data-comet-slug="${slug}"]`).forEach(el => el.remove());
+            document.querySelectorAll(`.mandala-node, .grid-item`).forEach(el => {
+                if (el.getAttribute('data-folder') === folder) {
+                    el.classList.remove('has-comet-update');
+                }
+            });
+        }
+
+        function markReportAsSeen(item) {
+            if (!item) return;
+            const slug = getReportSlug(item.folder);
+            const seen = getSeenReports();
+            seen[slug] = {
+                rows: Number(item.rows) || 0,
+                date: String(item.latest_date || '')
+            };
+            setSeenReports(seen);
+            removeCometFromReport(slug, item.folder);
+        }
+
+        function checkReportsForCometUpdates(reportsMap) {
+            const seen = getSeenReports();
+            const isFirstVisitEver = (Object.keys(seen).length === 0);
+
+            formsData.forEach((form, idx) => {
+                let rep = null;
+                for (const k in reportsMap) {
+                    const r = reportsMap[k];
+                    if (r && (r.folder === form.folder || k === form.folder || (form.folder && r.folder && r.folder.toLowerCase() === form.folder.toLowerCase()))) {
+                        rep = r;
+                        break;
+                    }
+                }
+                if (!rep) return;
+                const slug = getReportSlug(form.folder);
+
+                if (isFirstVisitEver) {
+                    // Na primeira visita, se rows for maior que o baseline inicial do formsData (ex: area_vivencia com nova safra)
+                    if (rep.rows > form.rows) {
+                        addCometToReport(slug, form.folder, idx);
+                        seen[slug] = { rows: form.rows, date: form.latest_date };
+                    } else {
+                        seen[slug] = { rows: rep.rows, date: rep.latest_date };
+                    }
+                } else {
+                    const userSeen = seen[slug];
+                    if (!userSeen) {
+                        if (rep.rows > form.rows) {
+                            addCometToReport(slug, form.folder, idx);
+                        }
+                    } else {
+                        // Verifica se houve novos dados (mais linhas ou data mais recente)
+                        if (rep.rows > userSeen.rows || (rep.latest_date && rep.latest_date !== userSeen.date)) {
+                            addCometToReport(slug, form.folder, idx);
+                        } else {
+                            removeCometFromReport(slug, form.folder);
+                        }
+                    }
+                }
+            });
+
+            setSeenReports(seen);
         }
 
         // Executa na inicialização e agenda polling a cada 60s
