@@ -267,6 +267,10 @@
         // Atualiza badges numéricos do seletor rápido
         const badgeAll = document.getElementById('badgeAll');
         if (badgeAll) badgeAll.innerText = state.allRecords.length;
+        const kpiHeaderBadge = document.getElementById('kpiHeaderBadge');
+        if (kpiHeaderBadge) {
+            kpiHeaderBadge.innerHTML = '<i class="fa-solid fa-database mr-1"></i> ' + state.allRecords.length + ' Inspeções Realizadas';
+        }
 
         const badgeLatest = document.getElementById('badgeLatest');
         if (badgeLatest && state.maxAvailableDateBR) {
@@ -1522,5 +1526,15 @@
             toast.style.opacity = '0';
         }, 4000);
     }
+
+    function reloadWithRecords(rawRecords) {
+        if (!Array.isArray(rawRecords) || rawRecords.length === 0) return;
+        window.RAW_INSPECTIONS = rawRecords;
+        initData();
+        applyFilters();
+    }
+    window.reloadDashboardData = reloadWithRecords;
+    window.aplicarFiltros = applyFilters;
+    window.applyFilters = applyFilters;
 
 })();

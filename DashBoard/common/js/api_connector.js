@@ -92,35 +92,62 @@
         if (dataPayload && dataPayload.status === 'ok' && Array.isArray(dataPayload.records)) {
             createServerStatusBadge(true, dataPayload.total_records, dataPayload.updated_at);
 
-            // Atualiza estado do Dashboard se compatível
+            // 1. Prioridade: recarga dedicada do Dashboard
+            if (typeof window.reloadDashboardData === 'function') {
+                try {
+                    window.reloadDashboardData(dataPayload.records);
+                    console.log('[Mapfy API] Dados sincronizados via reloadDashboardData:', dataPayload.records.length);
+                    return;
+                } catch (e) {
+                    console.warn('[Mapfy API] Falha ao recarregar via reloadDashboardData:', e);
+                }
+            }
+
+            // 2. Normalização automática via Engine do relatório
+            let normalizedRecords = dataPayload.records;
+            const engine = window.ComplianceEngine || window.SubsolagemEngine || window.CanteirizacaoEngine || 
+                           window.SulcacaoEngine || window.DosagemEngine || window.AberturaAsaEngine || 
+                           window.ParalelismoEngine;
+            
+            if (engine && typeof engine.normalizeRecord === 'function') {
+                try {
+                    normalizedRecords = dataPayload.records.map(engine.normalizeRecord);
+                } catch (e) {
+                    console.warn('[Mapfy API] Erro ao normalizar dados com engine:', e);
+                }
+            }
+
+            // 3. Atualiza estado do Dashboard se compatível
             const st = window.dashboardState || window.state;
             if (st) {
-                const currentArr = Array.isArray(st.allRecords) ? st.allRecords : (Array.isArray(st.rawRecords) ? st.rawRecords : []);
-                const incomingArr = dataPayload.records;
-                
-                let isCompatible = true;
-                if (currentArr.length > 0 && incomingArr.length > 0) {
-                    const curSample = currentArr[0];
-                    const incSample = incomingArr[0];
-                    // Se o estado atual usa 'id' minúsculo e os dados recebidos têm apenas 'ID' maiúsculo sem 'id', rejeita para não quebrar referências
-                    if ('id' in curSample && !('id' in incSample) && ('ID' in incSample)) {
-                        console.warn('[Mapfy API] Formato recebido não normalizado. Preservando dataset estruturado.');
-                        isCompatible = false;
+                if (Array.isArray(st.allRecords) && normalizedRecords.length > 0) {
+                    st.allRecords = normalizedRecords;
+                }
+                if (Array.isArray(st.rawRecords) && dataPayload.records.length > 0) {
+                    st.rawRecords = dataPayload.records;
+                }
+
+                // Recalcula maxAvailableDate se possível
+                if (Array.isArray(st.allRecords) && st.allRecords.length > 0) {
+                    let maxRecord = null;
+                    st.allRecords.forEach(r => {
+                        const dt = r.dataParsed || (r.data_iso ? new Date(r.data_iso) : null);
+                        if (dt && (!maxRecord || dt > maxRecord.dt)) {
+                            maxRecord = { dt, r };
+                        }
+                    });
+                    if (maxRecord && maxRecord.r) {
+                        if (maxRecord.r.dataBR) st.maxAvailableDateBR = maxRecord.r.dataBR;
+                        if (maxRecord.r.isoDate) st.maxAvailableDateISO = maxRecord.r.isoDate;
                     }
                 }
 
-                if (isCompatible) {
-                    if (Array.isArray(st.allRecords) && dataPayload.records.length > 0) {
-                        st.allRecords = dataPayload.records;
-                        if (typeof window.aplicarFiltros === 'function') {
-                            window.aplicarFiltros();
-                        }
-                    } else if (Array.isArray(st.rawRecords) && dataPayload.records.length > 0) {
-                        st.rawRecords = dataPayload.records;
-                        if (typeof window.applyFiltersAndRender === 'function') {
-                            window.applyFiltersAndRender();
-                        }
-                    }
+                if (typeof window.aplicarFiltros === 'function') {
+                    window.aplicarFiltros();
+                } else if (typeof window.applyFilters === 'function') {
+                    window.applyFilters();
+                } else if (typeof window.applyFiltersAndRender === 'function') {
+                    window.applyFiltersAndRender();
                 }
             }
         } else {
