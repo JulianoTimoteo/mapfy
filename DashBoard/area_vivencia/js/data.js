@@ -1,5 +1,8 @@
-// Base de Dados de Inspeções - Área de Vivência / Colheita - Usina Pitangueiras
-// Total de registros: 353
+/**
+ * Base de Dados Consolidada - Check-list área de vivência _ Colheita
+ * Total: 353 registros reais
+ * Sincronizado automaticamente com o Servidor MapFy
+ */
 window.RAW_INSPECTIONS = [
   {
     "ID": "4011485",
@@ -10532,36 +10535,6 @@ window.RAW_INSPECTIONS = [
     "Unnamed: 27": null
   },
   {
-    "ID": "4023417",
-    "Usuário": "frente1@usinapitangueiras.com.br",
-    "Data": "03/11/2026 08:33",
-    "Latitude": "-21,18582000000000",
-    "Longitude": "-48,33675000000000",
-    "Data início": "03/11/2026 08:29",
-    "Data Fim": "03/11/2026 08:33",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Score perc.": "0",
-    "Score desc.": "Baixo",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    "Frente": "13 - FRENTE 13",
-    "Local (Fazenda - Talhão)": "269506",
-    "OBS": null,
-    "Água Potável em temperatura adequada ?": "SIM",
-    "Possui água para higienização ?": "SIM",
-    "Possui papel higiênico e suporte?": "SIM",
-    "Possui papel toalha e suporte ?": "SIM",
-    "Pia e descarga funcionando ?": "SIM",
-    " Limpeza": "BOM",
-    "Possui algum item quebrado ou em falta?": "NÃO",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 27": null
-  },
-  {
     "ID": "4022144",
     "Usuário": "frente3@usinapitangueiras.com.br",
     "Data": "01/11/2026 18:04",
@@ -10585,6 +10558,36 @@ window.RAW_INSPECTIONS = [
     "Pia e descarga funcionando ?": "SIM",
     " Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
+    " Está utilizando fita de Isolamento ": "SIM",
+    "Está utilizando  cone de Sinalização ?": "SIM",
+    "Bancos Fixos ": "SIM",
+    "Extintor ": "SIM",
+    "Unnamed: 27": null
+  },
+  {
+    "ID": "4023417",
+    "Usuário": "frente1@usinapitangueiras.com.br",
+    "Data": "03/11/2026 08:33",
+    "Latitude": "-21,18582000000000",
+    "Longitude": "-48,33675000000000",
+    "Data início": "03/11/2026 08:29",
+    "Data Fim": "03/11/2026 08:33",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Score perc.": "0",
+    "Score desc.": "Baixo",
+    "Responsável ": "Fernando fiscal ",
+    "Turno ": "A",
+    "Frente": "13 - FRENTE 13",
+    "Local (Fazenda - Talhão)": "269506",
+    "OBS": null,
+    "Água Potável em temperatura adequada ?": "SIM",
+    "Possui água para higienização ?": "SIM",
+    "Possui papel higiênico e suporte?": "SIM",
+    "Possui papel toalha e suporte ?": "SIM",
+    "Pia e descarga funcionando ?": "SIM",
+    " Limpeza": "BOM",
+    "Possui algum item quebrado ou em falta?": "NÃO",
     " Está utilizando fita de Isolamento ": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos ": "SIM",

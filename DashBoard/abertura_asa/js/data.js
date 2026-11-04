@@ -1,9 +1,8 @@
 /**
  * Base de Dados Consolidada - Abertura da Asa
- * Total: 979 medições reais
- * Usina Pitangueiras - Safra 2026
+ * Total: 979 registros reais
+ * Sincronizado automaticamente com o Servidor MapFy
  */
-
 window.ABERTURA_ASA_RAW_DATA = [
   {
     "ID": "3941341",
@@ -127,7 +126,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
   },
@@ -145,7 +144,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -163,7 +162,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -181,7 +180,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "54",
     "Unnamed: 15": null
   },
@@ -235,7 +234,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
   },
@@ -253,7 +252,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -523,7 +522,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -541,7 +540,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -883,7 +882,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -901,7 +900,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "105",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -919,7 +918,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "69",
     "Unnamed: 15": null
   },
@@ -937,7 +936,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "69",
     "Unnamed: 15": null
   },
@@ -955,7 +954,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -973,7 +972,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -991,7 +990,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1009,7 +1008,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1027,7 +1026,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1045,7 +1044,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1171,7 +1170,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -1189,7 +1188,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1207,7 +1206,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1225,7 +1224,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1279,7 +1278,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1297,7 +1296,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1315,7 +1314,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -1333,7 +1332,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -1351,7 +1350,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1369,7 +1368,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1567,7 +1566,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1585,7 +1584,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1603,7 +1602,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1621,7 +1620,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -1639,7 +1638,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1657,7 +1656,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1711,7 +1710,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1747,7 +1746,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1783,7 +1782,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1801,7 +1800,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -1927,7 +1926,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1945,7 +1944,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1963,7 +1962,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -1981,7 +1980,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -1999,7 +1998,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -2017,7 +2016,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -2035,7 +2034,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2053,7 +2052,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2071,7 +2070,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2089,7 +2088,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2107,7 +2106,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2125,7 +2124,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2215,7 +2214,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -2233,7 +2232,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -2251,7 +2250,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -2269,7 +2268,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -2287,7 +2286,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2305,7 +2304,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2323,7 +2322,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2341,7 +2340,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2359,7 +2358,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -2377,7 +2376,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -2395,7 +2394,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -2413,7 +2412,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -2431,7 +2430,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -2449,7 +2448,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -2467,7 +2466,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -2485,7 +2484,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -2503,7 +2502,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2521,7 +2520,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2539,7 +2538,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2593,7 +2592,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2683,7 +2682,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -2701,7 +2700,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -2719,7 +2718,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2737,7 +2736,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2755,7 +2754,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2773,7 +2772,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2827,7 +2826,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 46",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2845,7 +2844,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 46",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2863,7 +2862,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 46",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -2881,7 +2880,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 46",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3007,7 +3006,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -3025,7 +3024,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -3043,7 +3042,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -3061,7 +3060,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3079,7 +3078,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -3097,7 +3096,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3223,7 +3222,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211\n",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3241,7 +3240,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3331,7 +3330,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3349,7 +3348,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3367,7 +3366,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3385,7 +3384,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3475,7 +3474,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -3493,7 +3492,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -3511,7 +3510,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "62",
     "Unnamed: 15": null
   },
@@ -3529,7 +3528,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -3583,7 +3582,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -3601,7 +3600,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -3619,7 +3618,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -3637,7 +3636,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3763,7 +3762,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "62",
     "Unnamed: 15": null
   },
@@ -3781,7 +3780,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -3799,7 +3798,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -3817,7 +3816,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -3835,7 +3834,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3853,7 +3852,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3871,7 +3870,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3889,7 +3888,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -3907,7 +3906,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -3925,7 +3924,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -3943,7 +3942,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "64",
     "Unnamed: 15": null
   },
@@ -3961,7 +3960,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "62",
     "Unnamed: 15": null
   },
@@ -3979,7 +3978,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "64",
     "Unnamed: 15": null
   },
@@ -3997,7 +3996,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "64",
     "Unnamed: 15": null
   },
@@ -4266,8 +4265,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -4284,8 +4283,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -4302,8 +4301,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -4320,8 +4319,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -4555,7 +4554,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -4573,7 +4572,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -4591,7 +4590,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -4609,7 +4608,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -4735,7 +4734,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -4753,7 +4752,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -4915,7 +4914,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -4933,7 +4932,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -4951,7 +4950,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -4969,7 +4968,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5059,7 +5058,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -5077,7 +5076,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -5095,7 +5094,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -5113,7 +5112,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -5167,7 +5166,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5185,7 +5184,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5203,7 +5202,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5221,7 +5220,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5491,7 +5490,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5509,7 +5508,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5527,7 +5526,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -5545,7 +5544,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -5707,7 +5706,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -5725,7 +5724,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5815,7 +5814,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -5832,7 +5831,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -5850,7 +5849,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
@@ -5868,7 +5867,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -5886,7 +5885,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -5905,7 +5904,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -5923,7 +5922,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6049,7 +6048,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6067,7 +6066,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -6085,7 +6084,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6103,7 +6102,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6193,7 +6192,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 2",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -6211,7 +6210,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 2",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -6228,8 +6227,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -6246,8 +6245,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6265,7 +6264,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -6283,7 +6282,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6300,7 +6299,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -6318,7 +6317,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -6444,7 +6443,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
@@ -6462,7 +6461,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
@@ -6481,7 +6480,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -6499,7 +6498,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -6517,7 +6516,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -6607,7 +6606,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -6625,7 +6624,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -6643,7 +6642,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -6661,7 +6660,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -6679,7 +6678,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "61",
     "Unnamed: 15": null
   },
@@ -6697,7 +6696,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -6715,7 +6714,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
   },
@@ -6733,7 +6732,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "62",
     "Unnamed: 15": null
   },
@@ -6858,7 +6857,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
@@ -6876,7 +6875,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7111,7 +7110,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7129,7 +7128,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7147,7 +7146,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652\n",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7165,7 +7164,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7254,7 +7253,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7272,7 +7271,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
@@ -7326,7 +7325,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7344,7 +7343,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7363,7 +7362,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7381,7 +7380,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7398,7 +7397,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213403 > 1",
     "OS": "9699",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7416,7 +7415,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213403 > 1",
     "OS": "9699",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7435,7 +7434,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7453,7 +7452,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7471,7 +7470,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7489,7 +7488,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7506,8 +7505,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7524,8 +7523,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7542,8 +7541,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7560,8 +7559,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7578,7 +7577,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7596,7 +7595,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7614,7 +7613,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
@@ -7632,7 +7631,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7758,7 +7757,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7776,7 +7775,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
@@ -7795,7 +7794,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7813,7 +7812,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7831,7 +7830,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -7849,7 +7848,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -7866,7 +7865,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -7884,7 +7883,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -8046,7 +8045,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8064,7 +8063,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8227,7 +8226,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8245,7 +8244,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -8263,7 +8262,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8281,7 +8280,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -8299,7 +8298,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -8317,7 +8316,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -8335,7 +8334,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -8353,7 +8352,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -8478,7 +8477,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8496,7 +8495,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8514,7 +8513,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8532,7 +8531,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8622,7 +8621,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "25/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8640,7 +8639,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "25/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -8695,7 +8694,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8713,7 +8712,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8731,7 +8730,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8749,7 +8748,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -8767,7 +8766,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8785,7 +8784,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8803,7 +8802,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8821,7 +8820,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8875,7 +8874,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -8893,7 +8892,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8910,7 +8909,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "24/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
@@ -8928,7 +8927,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "24/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -8947,7 +8946,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -8965,7 +8964,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -8983,7 +8982,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9001,7 +9000,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9019,7 +9018,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "60",
     "Unnamed: 15": null
   },
@@ -9037,7 +9036,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -9091,7 +9090,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "66",
     "Unnamed: 15": null
   },
@@ -9109,7 +9108,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "66",
     "Unnamed: 15": null
   },
@@ -9235,7 +9234,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9253,7 +9252,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -9307,7 +9306,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 1",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9325,7 +9324,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9343,7 +9342,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9361,7 +9360,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9379,7 +9378,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224901 > 3",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9397,7 +9396,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224901 > 3",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9415,7 +9414,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9433,7 +9432,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9451,7 +9450,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -9469,7 +9468,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9487,7 +9486,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9505,7 +9504,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9631,7 +9630,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 4",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9649,7 +9648,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 4",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9739,7 +9738,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 1",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -9757,7 +9756,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 1",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -9775,7 +9774,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9793,7 +9792,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9847,7 +9846,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9865,7 +9864,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9919,7 +9918,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -9937,7 +9936,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9955,7 +9954,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -9973,7 +9972,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10009,7 +10008,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 10",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -10027,7 +10026,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10045,7 +10044,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10063,7 +10062,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -10081,7 +10080,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10171,7 +10170,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 9",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10189,7 +10188,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 9",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10207,7 +10206,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177003 > 1",
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10225,7 +10224,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177003 > 1",
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -10243,7 +10242,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 13",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10261,7 +10260,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 13",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10459,7 +10458,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10477,7 +10476,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10495,7 +10494,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10513,7 +10512,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10531,7 +10530,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10549,7 +10548,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10567,7 +10566,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10585,7 +10584,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10674,7 +10673,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -10692,7 +10691,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -10710,7 +10709,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -10728,7 +10727,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "59",
     "Unnamed: 15": null
@@ -10747,7 +10746,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10765,7 +10764,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10783,7 +10782,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -10801,7 +10800,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10818,8 +10817,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10836,8 +10835,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10854,8 +10853,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10872,8 +10871,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10891,7 +10890,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10909,7 +10908,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10927,7 +10926,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10945,7 +10944,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -10962,8 +10961,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/03/2026",
     "Local (Fazenda - Talhão)": "205302 > 2",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -10980,8 +10979,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "07/03/2026",
     "Local (Fazenda - Talhão)": "205302 > 2",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -10999,7 +10998,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11017,7 +11016,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11035,7 +11034,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11053,7 +11052,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11071,7 +11070,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11089,7 +11088,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11107,7 +11106,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9181",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11125,7 +11124,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11214,7 +11213,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41801 > 3",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -11233,7 +11232,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -11251,7 +11250,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11268,7 +11267,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -11287,7 +11286,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11305,7 +11304,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -11430,7 +11429,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -11449,7 +11448,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11485,7 +11484,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -11503,7 +11502,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11521,7 +11520,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -11593,7 +11592,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -11611,7 +11610,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -11629,7 +11628,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -11647,7 +11646,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -11664,7 +11663,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "250703 > 137",
     "OS": "9174",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -11683,7 +11682,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "54",
     "Unnamed: 15": null
   },
@@ -11701,7 +11700,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -11791,7 +11790,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11809,7 +11808,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11827,7 +11826,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11845,7 +11844,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11863,7 +11862,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - Manezão",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -11881,7 +11880,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11899,7 +11898,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11917,7 +11916,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11934,7 +11933,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "37347 > 59",
     "OS": "6133",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -11953,7 +11952,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11971,7 +11970,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -11989,7 +11988,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "54",
     "Unnamed: 15": null
   },
@@ -12007,7 +12006,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "54",
     "Unnamed: 15": null
   },
@@ -12025,7 +12024,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37340 > 49",
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -12043,7 +12042,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37340 > 49",
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -12061,7 +12060,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37341 > 3",
     "OS": "6130",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -12079,7 +12078,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37341 > 4",
     "OS": "6130",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -12097,7 +12096,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -12115,7 +12114,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -12132,7 +12131,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12150,7 +12149,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12313,7 +12312,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 2",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -12331,7 +12330,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 2",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -12348,7 +12347,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12366,7 +12365,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12384,7 +12383,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12402,7 +12401,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12421,7 +12420,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -12439,7 +12438,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -12528,7 +12527,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12546,7 +12545,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12565,7 +12564,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -12583,7 +12582,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -12601,7 +12600,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -12619,7 +12618,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -12636,7 +12635,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12654,7 +12653,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12672,7 +12671,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12690,7 +12689,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12745,7 +12744,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -12763,7 +12762,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -12889,7 +12888,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "54",
     "Unnamed: 15": null
   },
@@ -12907,7 +12906,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -12925,7 +12924,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -12943,7 +12942,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -12960,7 +12959,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12978,7 +12977,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -12996,7 +12995,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13014,7 +13013,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13032,7 +13031,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13050,7 +13049,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13068,7 +13067,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
@@ -13086,7 +13085,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13104,7 +13103,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 120",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13195,7 +13194,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -13213,7 +13212,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -13338,7 +13337,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13356,7 +13355,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13374,7 +13373,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13392,7 +13391,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13410,7 +13409,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13428,7 +13427,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13446,7 +13445,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13464,7 +13463,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -13483,7 +13482,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5963",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -13501,7 +13500,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "5963",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13519,7 +13518,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13537,7 +13536,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13555,7 +13554,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13573,7 +13572,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13591,7 +13590,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -13609,7 +13608,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "47",
     "Unnamed: 15": null
   },
@@ -13699,7 +13698,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -13717,7 +13716,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "47",
     "Unnamed: 15": null
   },
@@ -13735,7 +13734,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13753,7 +13752,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5695",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -13843,7 +13842,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -13861,7 +13860,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -13879,7 +13878,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -13897,7 +13896,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -14095,7 +14094,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14113,7 +14112,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14130,8 +14129,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14148,8 +14147,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14202,8 +14201,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14220,8 +14219,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14239,7 +14238,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -14257,7 +14256,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -14275,7 +14274,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14293,7 +14292,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14311,7 +14310,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14329,7 +14328,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14382,8 +14381,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14580,8 +14579,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14599,7 +14598,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14617,7 +14616,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14671,7 +14670,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14689,7 +14688,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14725,7 +14724,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -14743,7 +14742,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14887,7 +14886,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -14941,7 +14940,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15282,7 +15281,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15300,7 +15299,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15318,7 +15317,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15336,7 +15335,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15355,7 +15354,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15373,7 +15372,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15391,7 +15390,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15409,7 +15408,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15427,7 +15426,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "55",
     "Unnamed: 15": null
   },
@@ -15445,7 +15444,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -15463,7 +15462,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "56",
     "Unnamed: 15": null
   },
@@ -15481,7 +15480,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "54",
     "Unnamed: 15": null
   },
@@ -15499,7 +15498,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -15517,7 +15516,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15535,7 +15534,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -15553,7 +15552,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15571,7 +15570,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15589,7 +15588,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15606,7 +15605,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15624,7 +15623,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15642,7 +15641,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15660,7 +15659,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -15679,7 +15678,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15697,7 +15696,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -15715,7 +15714,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "47",
     "Unnamed: 15": null
   },
@@ -15733,7 +15732,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "48",
     "Unnamed: 15": null
   },
@@ -15751,7 +15750,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -15769,7 +15768,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "47",
     "Unnamed: 15": null
   },
@@ -15787,7 +15786,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15805,7 +15804,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15823,7 +15822,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15841,7 +15840,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -15859,7 +15858,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -15877,7 +15876,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16039,7 +16038,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -16057,7 +16056,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "48",
     "Unnamed: 15": null
   },
@@ -16075,7 +16074,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16093,7 +16092,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "47",
     "Unnamed: 15": null
   },
@@ -16110,8 +16109,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16128,8 +16127,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16146,8 +16145,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16164,8 +16163,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16183,7 +16182,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16201,7 +16200,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16219,7 +16218,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "48",
     "Unnamed: 15": null
   },
@@ -16237,7 +16236,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "48",
     "Unnamed: 15": null
   },
@@ -16255,7 +16254,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16273,7 +16272,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16291,7 +16290,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "49",
     "Unnamed: 15": null
   },
@@ -16309,7 +16308,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -16398,7 +16397,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53102 > 101",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -16416,7 +16415,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -16434,7 +16433,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -16452,7 +16451,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
@@ -16543,7 +16542,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656 - 70406",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -16561,7 +16560,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656 - 70406",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "58",
     "Unnamed: 15": null
   },
@@ -16687,7 +16686,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16705,7 +16704,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16723,7 +16722,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -16741,7 +16740,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -16939,7 +16938,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16957,7 +16956,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16975,7 +16974,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -16993,7 +16992,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17011,7 +17010,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -17065,7 +17064,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17083,7 +17082,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -17100,8 +17099,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -17118,8 +17117,8 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Abertura da Asa": "50",
     "Unnamed: 15": null
   },
@@ -17137,7 +17136,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17155,7 +17154,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17209,7 +17208,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17227,7 +17226,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17245,7 +17244,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17263,7 +17262,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17281,7 +17280,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17299,7 +17298,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17317,7 +17316,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17335,7 +17334,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17353,7 +17352,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17371,7 +17370,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "51",
     "Unnamed: 15": null
   },
@@ -17389,7 +17388,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17407,7 +17406,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17425,7 +17424,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17443,7 +17442,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17461,7 +17460,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17479,7 +17478,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17497,7 +17496,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -17515,7 +17514,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -17533,7 +17532,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17551,7 +17550,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },
@@ -17569,7 +17568,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "53",
     "Unnamed: 15": null
   },
@@ -17587,7 +17586,7 @@ window.ABERTURA_ASA_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Abertura da Asa": "52",
     "Unnamed: 15": null
   },

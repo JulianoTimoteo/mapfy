@@ -1,9 +1,8 @@
 /**
- * Base de Dados Consolidada - Paralelismo RTK
- * Total: 2453 medições reais
- * Usina Pitangueiras - Safra 2026
+ * Base de Dados Consolidada - Paralelismo
+ * Total: 2453 registros reais
+ * Sincronizado automaticamente com o Servidor MapFy
  */
-
 window.PARALELISMO_RAW_DATA = [
   {
     "ID": "3946370",
@@ -253,7 +252,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -271,7 +270,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -289,7 +288,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -451,7 +450,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -469,7 +468,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -487,7 +486,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,47",
     "Unnamed: 15": null
   },
@@ -505,7 +504,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -523,7 +522,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -541,7 +540,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -559,7 +558,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -577,7 +576,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -595,7 +594,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -613,7 +612,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -631,7 +630,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -649,7 +648,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -667,7 +666,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -685,7 +684,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -703,7 +702,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -721,7 +720,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "13 54",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -739,7 +738,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "1354",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -1387,7 +1386,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -1405,7 +1404,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -1423,7 +1422,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
   },
@@ -1639,7 +1638,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281911 > 4",
     "OS": "444",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -1657,7 +1656,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281911 > 4",
     "OS": "444",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -1711,7 +1710,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "282415 > 4",
     "OS": "263",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -1729,7 +1728,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "282415 > 4",
     "OS": "263",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -1747,7 +1746,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 12",
     "OS": "260",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -1765,7 +1764,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 11",
     "OS": "260",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -1783,7 +1782,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 14",
     "OS": "260",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -2359,7 +2358,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2377,7 +2376,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2557,7 +2556,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2593,7 +2592,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2611,7 +2610,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2647,7 +2646,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2737,7 +2736,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -2755,7 +2754,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2773,7 +2772,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2809,7 +2808,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2827,7 +2826,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2845,7 +2844,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -2989,7 +2988,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3007,7 +3006,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3025,7 +3024,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3061,7 +3060,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3097,7 +3096,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3115,7 +3114,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3133,7 +3132,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3169,7 +3168,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3187,7 +3186,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3205,7 +3204,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3241,7 +3240,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3259,7 +3258,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -3277,7 +3276,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3313,7 +3312,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3331,7 +3330,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3349,7 +3348,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3367,7 +3366,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3403,7 +3402,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "576",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3439,7 +3438,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3457,7 +3456,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3511,7 +3510,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3565,7 +3564,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3583,7 +3582,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3601,7 +3600,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3637,7 +3636,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3655,7 +3654,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3673,7 +3672,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3691,7 +3690,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3709,7 +3708,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3763,7 +3762,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3799,7 +3798,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3817,7 +3816,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3835,7 +3834,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3853,7 +3852,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3871,7 +3870,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3889,7 +3888,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3907,7 +3906,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3925,7 +3924,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3943,7 +3942,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3961,7 +3960,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3979,7 +3978,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "440",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -3997,7 +3996,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4015,7 +4014,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4033,7 +4032,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4051,7 +4050,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4069,7 +4068,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4087,7 +4086,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4105,7 +4104,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4123,7 +4122,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4141,7 +4140,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4159,7 +4158,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4177,7 +4176,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -4195,7 +4194,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4213,7 +4212,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4231,7 +4230,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -4249,7 +4248,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4267,7 +4266,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4285,7 +4284,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4321,7 +4320,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 18",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4411,7 +4410,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4447,7 +4446,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4465,7 +4464,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4483,7 +4482,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4501,7 +4500,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4555,7 +4554,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4573,7 +4572,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4717,7 +4716,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4789,7 +4788,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -4807,7 +4806,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4825,7 +4824,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "570",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4861,7 +4860,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "570",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4897,7 +4896,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4915,7 +4914,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "570",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4933,7 +4932,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4951,7 +4950,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4969,7 +4968,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -4987,7 +4986,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5023,7 +5022,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5077,7 +5076,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5113,7 +5112,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5167,7 +5166,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5203,7 +5202,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 15",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5293,7 +5292,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40201 > 1",
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5311,7 +5310,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5329,7 +5328,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40201 > 3",
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5347,7 +5346,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40201 > 3",
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5383,7 +5382,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40201 > 4",
     "OS": "503",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5401,7 +5400,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5419,7 +5418,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -5455,7 +5454,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5491,7 +5490,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5509,7 +5508,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5545,7 +5544,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5581,7 +5580,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5635,7 +5634,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5653,7 +5652,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5725,7 +5724,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5779,7 +5778,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5851,7 +5850,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5869,7 +5868,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5887,7 +5886,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5905,7 +5904,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5923,7 +5922,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5941,7 +5940,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -5959,7 +5958,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -5995,7 +5994,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6085,7 +6084,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6121,7 +6120,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6355,7 +6354,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -6391,7 +6390,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6445,7 +6444,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6463,7 +6462,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6481,7 +6480,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6499,7 +6498,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6517,7 +6516,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6553,7 +6552,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6571,7 +6570,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6607,7 +6606,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6661,7 +6660,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6679,7 +6678,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -6697,7 +6696,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6733,7 +6732,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6751,7 +6750,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6769,7 +6768,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6805,7 +6804,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6823,7 +6822,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6895,7 +6894,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "226601 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -6931,7 +6930,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "226601 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -6949,7 +6948,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -6967,7 +6966,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "226601 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -6985,7 +6984,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7075,7 +7074,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7111,7 +7110,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7147,7 +7146,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "226601 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -7165,7 +7164,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7219,7 +7218,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 2",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -7237,7 +7236,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7273,7 +7272,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 1",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -7291,7 +7290,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 1",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -7309,7 +7308,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7363,7 +7362,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7489,7 +7488,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7543,7 +7542,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7615,7 +7614,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7651,7 +7650,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7669,7 +7668,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7687,7 +7686,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7705,7 +7704,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7723,7 +7722,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 11",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -7741,7 +7740,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -7777,7 +7776,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 10",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -7795,7 +7794,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 8",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,45",
     "Unnamed: 15": null
   },
@@ -8065,7 +8064,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8083,7 +8082,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8101,7 +8100,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8119,7 +8118,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8137,7 +8136,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8155,7 +8154,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8173,7 +8172,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8191,7 +8190,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8227,7 +8226,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8281,7 +8280,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8299,7 +8298,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8317,7 +8316,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8353,7 +8352,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8371,7 +8370,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8389,7 +8388,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8407,7 +8406,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8443,7 +8442,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8461,7 +8460,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8497,7 +8496,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8551,7 +8550,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8587,7 +8586,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8641,7 +8640,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8659,7 +8658,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8677,7 +8676,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8713,7 +8712,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8749,7 +8748,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8767,7 +8766,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8821,7 +8820,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -8839,7 +8838,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117702 > 2",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -8857,7 +8856,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8893,7 +8892,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8929,7 +8928,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -8965,7 +8964,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9091,7 +9090,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -9109,7 +9108,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 24",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -9127,7 +9126,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 24",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -9145,7 +9144,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 24",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -9199,7 +9198,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -9217,7 +9216,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9361,7 +9360,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9415,7 +9414,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9451,7 +9450,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9469,7 +9468,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9559,7 +9558,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9577,7 +9576,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -9595,7 +9594,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9613,7 +9612,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9649,7 +9648,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9667,7 +9666,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9703,7 +9702,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9721,7 +9720,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9757,7 +9756,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9775,7 +9774,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9793,7 +9792,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9811,7 +9810,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9829,7 +9828,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9847,7 +9846,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -9865,7 +9864,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9883,7 +9882,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -9901,7 +9900,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -9937,7 +9936,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -9955,7 +9954,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -9973,7 +9972,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -10009,7 +10008,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10027,7 +10026,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 3",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10063,7 +10062,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10081,7 +10080,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10099,7 +10098,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 3",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10135,7 +10134,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "482",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10153,7 +10152,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253801 > 5",
     "OS": "481",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10189,7 +10188,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10243,7 +10242,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10261,7 +10260,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10279,7 +10278,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10297,7 +10296,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10333,7 +10332,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10369,7 +10368,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10405,7 +10404,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 6",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10423,7 +10422,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 3",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10477,7 +10476,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 6",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10513,7 +10512,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 5",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10531,7 +10530,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 5",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10549,7 +10548,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10567,7 +10566,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 5",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10585,7 +10584,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 5",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10603,7 +10602,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -10621,7 +10620,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10639,7 +10638,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10657,7 +10656,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 44",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
   },
@@ -10675,7 +10674,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10693,7 +10692,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -10711,7 +10710,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10729,7 +10728,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10747,7 +10746,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10765,7 +10764,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10801,7 +10800,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -10855,7 +10854,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10909,7 +10908,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -10927,7 +10926,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 22",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10963,7 +10962,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 22",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -10981,7 +10980,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "142601 > 1",
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -10999,7 +10998,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11017,7 +11016,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 22",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11053,7 +11052,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 22",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11071,7 +11070,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "142601 > 1",
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11107,7 +11106,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "142601 > 1",
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11125,7 +11124,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 22",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11161,7 +11160,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 22",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11179,7 +11178,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "142601 > 1",
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -11215,7 +11214,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "142601 > 1",
     "OS": "481",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11287,7 +11286,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11323,7 +11322,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11341,7 +11340,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11359,7 +11358,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11377,7 +11376,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11395,7 +11394,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11413,7 +11412,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11431,7 +11430,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11449,7 +11448,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11467,7 +11466,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11503,7 +11502,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11521,7 +11520,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11557,7 +11556,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11593,7 +11592,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -11611,7 +11610,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11629,7 +11628,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -11647,7 +11646,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 2",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11665,7 +11664,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 2",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -11719,7 +11718,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11773,7 +11772,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11791,7 +11790,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 1",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11845,7 +11844,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11863,7 +11862,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 1",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11881,7 +11880,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11899,7 +11898,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 1",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -11917,7 +11916,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -11935,7 +11934,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 1",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12007,7 +12006,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 2",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -12043,7 +12042,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 2",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,47",
     "Unnamed: 15": null
   },
@@ -12133,7 +12132,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 2",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -12205,7 +12204,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 2",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -12259,7 +12258,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "255302 > 2",
     "OS": "480",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -12295,7 +12294,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12331,7 +12330,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12367,7 +12366,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12385,7 +12384,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 2",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -12403,7 +12402,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 2",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -12421,7 +12420,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12439,7 +12438,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 2",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -12457,7 +12456,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12475,7 +12474,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 2",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -12493,7 +12492,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12511,7 +12510,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12529,7 +12528,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 2",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -12547,7 +12546,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12565,7 +12564,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12583,7 +12582,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12601,7 +12600,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12619,7 +12618,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12637,7 +12636,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -12655,7 +12654,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12673,7 +12672,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "440",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12709,7 +12708,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12727,7 +12726,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12763,7 +12762,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12781,7 +12780,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12871,7 +12870,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12925,7 +12924,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12943,7 +12942,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12979,7 +12978,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -12997,7 +12996,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13015,7 +13014,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13051,7 +13050,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13069,7 +13068,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13195,7 +13194,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13213,7 +13212,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13231,7 +13230,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13357,7 +13356,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13393,7 +13392,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13411,7 +13410,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13429,7 +13428,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13447,7 +13446,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13483,7 +13482,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -13519,7 +13518,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13537,7 +13536,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13555,7 +13554,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13591,7 +13590,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 1",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13609,7 +13608,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13645,7 +13644,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13735,7 +13734,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13753,7 +13752,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13771,7 +13770,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -13789,7 +13788,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -13825,7 +13824,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -13861,7 +13860,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -13915,7 +13914,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14077,7 +14076,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14095,7 +14094,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14131,7 +14130,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14167,7 +14166,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14221,7 +14220,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14257,7 +14256,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14293,7 +14292,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14365,7 +14364,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14401,7 +14400,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14419,7 +14418,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14437,7 +14436,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14455,7 +14454,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14473,7 +14472,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14491,7 +14490,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14509,7 +14508,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14527,7 +14526,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14545,7 +14544,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 3",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14563,7 +14562,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 12",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14581,7 +14580,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136101 > 2",
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,47",
     "Unnamed: 15": null
   },
@@ -14599,7 +14598,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136101 > 2",
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -14617,7 +14616,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136101 > 2",
     "OS": "269",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14635,7 +14634,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14653,7 +14652,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14671,7 +14670,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14761,7 +14760,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -14797,7 +14796,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14833,7 +14832,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14851,7 +14850,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14869,7 +14868,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14887,7 +14886,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14905,7 +14904,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14923,7 +14922,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -14941,7 +14940,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 12",
     "OS": "1111 ",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -14977,7 +14976,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -14995,7 +14994,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 14",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -15031,7 +15030,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15067,7 +15066,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15085,7 +15084,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 14",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -15157,7 +15156,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15175,7 +15174,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281401 > 14",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -15193,7 +15192,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15211,7 +15210,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15337,7 +15336,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -15355,7 +15354,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15373,7 +15372,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15445,7 +15444,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15481,7 +15480,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15499,7 +15498,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15517,7 +15516,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15535,7 +15534,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15553,7 +15552,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15571,7 +15570,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15714,8 +15713,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "201901 > 3",
     "OS": "300",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -15733,7 +15732,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "150401 > 1",
     "OS": "295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -15750,8 +15749,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "201901 > 3",
     "OS": "300",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -15786,8 +15785,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "201901 > 3",
     "OS": "300",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -15876,8 +15875,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -15894,8 +15893,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -15912,8 +15911,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -16057,7 +16056,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16075,7 +16074,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -16111,7 +16110,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16129,7 +16128,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16183,7 +16182,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16201,7 +16200,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16255,7 +16254,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16273,7 +16272,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16309,7 +16308,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16327,7 +16326,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16363,7 +16362,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -16417,7 +16416,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16453,7 +16452,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 1",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -16471,7 +16470,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 1",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16507,7 +16506,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 1",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -16579,7 +16578,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 1",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16597,7 +16596,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254701 > 12",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16651,7 +16650,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16741,7 +16740,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16777,7 +16776,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16795,7 +16794,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16813,7 +16812,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16831,7 +16830,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16849,7 +16848,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -16867,7 +16866,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16885,7 +16884,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16903,7 +16902,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -16921,7 +16920,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16939,7 +16938,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -16957,7 +16956,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -16975,7 +16974,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -16993,7 +16992,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -17011,7 +17010,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17029,7 +17028,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -17047,7 +17046,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17065,7 +17064,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17083,7 +17082,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17101,7 +17100,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17119,7 +17118,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17137,7 +17136,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17155,7 +17154,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17191,7 +17190,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17227,7 +17226,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17299,7 +17298,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17335,7 +17334,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17353,7 +17352,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17389,7 +17388,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 2",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17407,7 +17406,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17461,7 +17460,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 7",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17479,7 +17478,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 2",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17515,7 +17514,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 2",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -17569,7 +17568,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 2",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17587,7 +17586,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17605,7 +17604,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -17623,7 +17622,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -17641,7 +17640,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17659,7 +17658,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -17677,7 +17676,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17695,7 +17694,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17713,7 +17712,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17731,7 +17730,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17821,7 +17820,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17839,7 +17838,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 8",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -17983,7 +17982,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18073,7 +18072,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18109,7 +18108,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18181,7 +18180,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18235,7 +18234,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18289,7 +18288,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18343,7 +18342,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18361,7 +18360,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18541,7 +18540,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18559,7 +18558,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18577,7 +18576,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18595,7 +18594,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18739,7 +18738,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18793,7 +18792,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18811,7 +18810,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 4",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18829,7 +18828,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18847,7 +18846,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18865,7 +18864,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18883,7 +18882,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -18901,7 +18900,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18919,7 +18918,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -18973,7 +18972,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19009,7 +19008,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19027,7 +19026,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19063,7 +19062,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19135,7 +19134,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 9",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19171,7 +19170,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 9",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19207,7 +19206,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 9",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19243,7 +19242,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 9",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19297,7 +19296,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 9",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -19315,7 +19314,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 1",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19369,7 +19368,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 9",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19459,7 +19458,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19477,7 +19476,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,45",
     "Unnamed: 15": null
   },
@@ -19495,7 +19494,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -19513,7 +19512,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34802 > 22",
     "OS": "200",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,35",
     "Unnamed: 15": null
   },
@@ -20143,7 +20142,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20413,7 +20412,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 14",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20449,7 +20448,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 12",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20485,7 +20484,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -20503,7 +20502,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 12",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -20521,7 +20520,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 12",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20557,7 +20556,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -20575,7 +20574,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -20683,7 +20682,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "282415 > 4",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -20701,7 +20700,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "282415 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20719,7 +20718,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "282415 > 3",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20737,7 +20736,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20755,7 +20754,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -20773,7 +20772,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20791,7 +20790,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20809,7 +20808,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "281413 > 11",
     "OS": "1111",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -20827,7 +20826,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -20881,7 +20880,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -20899,7 +20898,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -20935,7 +20934,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21007,7 +21006,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 4",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21025,7 +21024,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21043,7 +21042,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21061,7 +21060,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "32201 > 3",
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21079,7 +21078,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "32201 > 21",
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21115,7 +21114,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21151,7 +21150,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "32201 > 21",
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -21169,7 +21168,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21187,7 +21186,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "32201 > 3",
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -21205,7 +21204,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21241,7 +21240,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "32201 > 3",
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21259,7 +21258,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 4",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21277,7 +21276,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "32201 > 3",
     "OS": "167",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
   },
@@ -21294,7 +21293,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 1",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
@@ -21312,7 +21311,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 1",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -21348,8 +21347,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -21366,8 +21365,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -21384,8 +21383,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 4",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21402,8 +21401,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 4",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -21420,8 +21419,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 4",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -21439,7 +21438,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -21457,7 +21456,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21475,7 +21474,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -21493,7 +21492,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21510,7 +21509,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 3",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -21528,7 +21527,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 3",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -21547,7 +21546,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21565,7 +21564,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21583,7 +21582,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -21619,7 +21618,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 6",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -21637,7 +21636,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 6",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -21655,7 +21654,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 6",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21673,7 +21672,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21691,7 +21690,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 6",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21709,7 +21708,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21726,7 +21725,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -21745,7 +21744,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21763,7 +21762,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 6",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -21781,7 +21780,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21799,7 +21798,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21816,7 +21815,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -21834,7 +21833,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 4",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -21852,7 +21851,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "08/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 4",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -21925,7 +21924,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -21943,7 +21942,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -21961,7 +21960,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21978,8 +21977,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -21996,8 +21995,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22068,8 +22067,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22087,7 +22086,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -22105,7 +22104,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -22123,7 +22122,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -22140,8 +22139,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22159,7 +22158,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 6",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -22195,7 +22194,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 6",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22212,8 +22211,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22231,7 +22230,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "204608 > 6",
     "OS": "33",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -22266,7 +22265,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 6",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -22285,7 +22284,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22303,7 +22302,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22320,7 +22319,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 6",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -22339,7 +22338,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22374,7 +22373,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 6",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -22393,7 +22392,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22410,7 +22409,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 6",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -22446,7 +22445,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 6",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -22465,7 +22464,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22483,7 +22482,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22501,7 +22500,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22519,7 +22518,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22572,7 +22571,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 9",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -22590,7 +22589,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 9",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -22609,7 +22608,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22627,7 +22626,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22645,7 +22644,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22698,7 +22697,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 8",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -22716,8 +22715,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 8",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -22734,7 +22733,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 8",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -22752,8 +22751,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 8",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22771,7 +22770,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1174",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -22789,7 +22788,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1174",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -22807,7 +22806,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22825,7 +22824,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22861,7 +22860,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22879,7 +22878,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22896,8 +22895,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 8",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -22914,7 +22913,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/04/2026",
     "Local (Fazenda - Talhão)": "38302 > 8",
     "OS": "128",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -22933,7 +22932,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22951,7 +22950,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -22987,7 +22986,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23005,7 +23004,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23041,7 +23040,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23077,7 +23076,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23094,7 +23093,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -23112,7 +23111,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -23257,7 +23256,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23275,7 +23274,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23293,7 +23292,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23311,7 +23310,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23329,7 +23328,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23347,7 +23346,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23365,7 +23364,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23419,7 +23418,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23437,7 +23436,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23455,7 +23454,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23473,7 +23472,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -23491,7 +23490,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -23509,7 +23508,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23527,7 +23526,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23616,7 +23615,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -23634,8 +23633,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -23652,7 +23651,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -23670,8 +23669,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -23688,8 +23687,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23706,7 +23705,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -23724,7 +23723,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "01/04/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -23743,7 +23742,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23761,7 +23760,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23779,7 +23778,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23797,7 +23796,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23814,7 +23813,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 2",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -23833,7 +23832,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23869,7 +23868,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -23886,7 +23885,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -24013,7 +24012,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -24031,7 +24030,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -24049,7 +24048,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24067,7 +24066,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24085,7 +24084,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24121,7 +24120,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24157,7 +24156,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24174,7 +24173,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -24193,7 +24192,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24210,7 +24209,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -24228,7 +24227,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -24247,7 +24246,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24264,7 +24263,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
@@ -24283,7 +24282,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24301,7 +24300,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24445,7 +24444,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24463,7 +24462,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24480,7 +24479,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2977",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -24499,7 +24498,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24516,7 +24515,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2977",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -24535,7 +24534,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24553,7 +24552,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -24571,7 +24570,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24589,7 +24588,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24607,7 +24606,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24625,7 +24624,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24661,7 +24660,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24715,7 +24714,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24733,7 +24732,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24751,7 +24750,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40301 > 1",
     "OS": "9699",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24768,8 +24767,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24786,7 +24785,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
@@ -24804,8 +24803,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24822,8 +24821,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "40301 > 1",
     "OS": "9699",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -24840,7 +24839,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -24858,8 +24857,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -24913,7 +24912,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "213403 > 1",
     "OS": "9699",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -24931,7 +24930,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "213403 > 1",
     "OS": "9699",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25002,7 +25001,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -25020,7 +25019,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -25038,7 +25037,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -25056,7 +25055,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -25075,7 +25074,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25092,7 +25091,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -25111,7 +25110,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -25128,7 +25127,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -25147,7 +25146,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -25165,7 +25164,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -25183,7 +25182,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25309,7 +25308,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25363,7 +25362,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25381,7 +25380,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25399,7 +25398,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "216301 > 5",
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -25417,7 +25416,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "216301 > 5",
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -25435,7 +25434,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "216301 > 6",
     "OS": "9616",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -25452,7 +25451,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -25489,7 +25488,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -25525,7 +25524,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25543,7 +25542,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25561,7 +25560,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25579,7 +25578,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25597,7 +25596,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25615,7 +25614,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25651,7 +25650,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25687,7 +25686,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1500",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25759,7 +25758,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1501",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25777,7 +25776,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1501",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25795,7 +25794,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25813,7 +25812,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25831,7 +25830,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25867,7 +25866,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25902,7 +25901,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 14",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
@@ -25921,7 +25920,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25939,7 +25938,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -25956,7 +25955,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 14",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
@@ -25993,7 +25992,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26029,7 +26028,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26046,7 +26045,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 14",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
@@ -26065,7 +26064,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26082,7 +26081,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 14",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
@@ -26118,7 +26117,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 14",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -26190,7 +26189,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
@@ -26208,7 +26207,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -26263,7 +26262,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2041",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26281,7 +26280,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2041",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26299,7 +26298,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26317,7 +26316,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26335,7 +26334,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26353,7 +26352,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26371,7 +26370,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26389,7 +26388,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "275502 > 6",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26407,7 +26406,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "275502 > 6",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26515,7 +26514,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26533,7 +26532,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -26551,7 +26550,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26569,7 +26568,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26586,7 +26585,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "25/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -26605,7 +26604,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26623,7 +26622,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -26677,7 +26676,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -26695,7 +26694,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -26731,7 +26730,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26767,7 +26766,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -26785,7 +26784,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26803,7 +26802,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -26821,7 +26820,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26839,7 +26838,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26857,7 +26856,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -26893,7 +26892,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26965,7 +26964,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -26983,7 +26982,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -27001,7 +27000,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27019,7 +27018,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27037,7 +27036,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27055,7 +27054,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27073,7 +27072,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27091,7 +27090,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27109,7 +27108,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27127,7 +27126,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27217,7 +27216,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9257",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27235,7 +27234,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -27253,7 +27252,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27289,7 +27288,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27325,7 +27324,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -27343,7 +27342,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -27361,7 +27360,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -27397,7 +27396,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -27433,7 +27432,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -27469,7 +27468,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27487,7 +27486,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27505,7 +27504,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27523,7 +27522,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27541,7 +27540,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27559,7 +27558,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27577,7 +27576,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27613,7 +27612,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27630,7 +27629,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "24/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -27703,7 +27702,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -27721,7 +27720,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27738,7 +27737,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "24/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -27774,7 +27773,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "24/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -27793,7 +27792,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27829,7 +27828,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -27847,7 +27846,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 6",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -27936,7 +27935,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/03/2026",
     "Local (Fazenda - Talhão)": "39101 > 1855",
     "OS": "9555",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -28008,7 +28007,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/03/2026",
     "Local (Fazenda - Talhão)": "39101 > 1856",
     "OS": "9555",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -28026,7 +28025,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/03/2026",
     "Local (Fazenda - Talhão)": "39101 > 1856",
     "OS": "9555",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -28045,7 +28044,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28063,7 +28062,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -28081,7 +28080,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28225,7 +28224,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -28243,7 +28242,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -28261,7 +28260,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28279,7 +28278,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28315,7 +28314,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28351,7 +28350,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9481",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28387,7 +28386,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28405,7 +28404,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 4",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -28423,7 +28422,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 4",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -28441,7 +28440,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 4",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -28459,7 +28458,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -28477,7 +28476,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -28495,7 +28494,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -28513,7 +28512,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28531,7 +28530,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28549,7 +28548,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28567,7 +28566,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28585,7 +28584,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28621,7 +28620,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28657,7 +28656,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28675,7 +28674,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28710,7 +28709,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
     "Unnamed: 15": null
@@ -28729,7 +28728,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28764,7 +28763,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
@@ -28783,7 +28782,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28800,7 +28799,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -28819,7 +28818,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28836,7 +28835,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -28855,7 +28854,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28873,7 +28872,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28891,7 +28890,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28927,7 +28926,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28963,7 +28962,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 10",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -28981,7 +28980,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -28999,7 +28998,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 10",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -29017,7 +29016,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29035,7 +29034,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 10",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -29071,7 +29070,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29089,7 +29088,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29107,7 +29106,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29143,7 +29142,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29179,7 +29178,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29215,7 +29214,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 2",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29251,7 +29250,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29304,7 +29303,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -29340,7 +29339,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
@@ -29394,7 +29393,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
@@ -29413,7 +29412,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29431,7 +29430,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29448,7 +29447,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
@@ -29466,7 +29465,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -29484,7 +29483,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
     "Unnamed: 15": null
@@ -29538,7 +29537,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -29556,7 +29555,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
@@ -29592,7 +29591,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 1",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -29628,7 +29627,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
     "Unnamed: 15": null
@@ -29664,7 +29663,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
@@ -29682,7 +29681,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/03/2026",
     "Local (Fazenda - Talhão)": "179002 > 3",
     "OS": "9450",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
@@ -29719,7 +29718,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29737,7 +29736,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29755,7 +29754,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29773,7 +29772,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29791,7 +29790,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29809,7 +29808,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29827,7 +29826,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29845,7 +29844,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29863,7 +29862,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29881,7 +29880,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9268",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29899,7 +29898,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -29916,7 +29915,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184501 > 1",
     "OS": "9440",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
@@ -29934,7 +29933,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184501 > 1",
     "OS": "9440",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
     "Unnamed: 15": null
@@ -29952,7 +29951,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184501 > 1",
     "OS": "9440",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -29971,7 +29970,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30007,7 +30006,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 3",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30025,7 +30024,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -30061,7 +30060,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 4",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30097,7 +30096,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 4",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30115,7 +30114,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -30133,7 +30132,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -30204,8 +30203,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -30223,7 +30222,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30259,7 +30258,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -30276,8 +30275,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -30313,7 +30312,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -30331,7 +30330,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -30366,8 +30365,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
   },
@@ -30385,7 +30384,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 3",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30403,7 +30402,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 4",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30421,7 +30420,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30439,7 +30438,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30457,7 +30456,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30475,7 +30474,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30492,7 +30491,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,58",
     "Unnamed: 15": null
@@ -30511,7 +30510,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30529,7 +30528,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30546,7 +30545,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
     "Unnamed: 15": null
@@ -30565,7 +30564,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30583,7 +30582,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30600,7 +30599,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
@@ -30619,7 +30618,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 3",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30637,7 +30636,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 3",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30654,7 +30653,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/03/2026",
     "Local (Fazenda - Talhão)": "184001 > 15",
     "OS": "9439",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
@@ -30673,7 +30672,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30691,7 +30690,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30709,7 +30708,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30727,7 +30726,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30745,7 +30744,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 2",
     "OS": "9335",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30781,7 +30780,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -30817,7 +30816,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -30835,7 +30834,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "48401 > 4",
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -30853,7 +30852,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "48401 > 4",
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30871,7 +30870,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -30889,7 +30888,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -30906,8 +30905,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30924,8 +30923,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30942,8 +30941,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30961,7 +30960,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30978,8 +30977,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -30996,8 +30995,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31015,7 +31014,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "48401 > 5",
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31033,7 +31032,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -31069,7 +31068,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "48401 > 5",
     "OS": "6115",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -31141,7 +31140,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31159,7 +31158,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31176,7 +31175,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
@@ -31194,7 +31193,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -31213,7 +31212,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31230,7 +31229,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -31249,7 +31248,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31267,7 +31266,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31285,7 +31284,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31302,7 +31301,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -31320,7 +31319,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
@@ -31339,7 +31338,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 18",
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -31357,7 +31356,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 18",
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31375,7 +31374,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 18",
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -31392,7 +31391,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -31410,7 +31409,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205302 > 2",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
@@ -31429,7 +31428,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31447,7 +31446,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31465,7 +31464,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31483,7 +31482,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31501,7 +31500,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -31519,7 +31518,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31555,7 +31554,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31573,7 +31572,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31609,7 +31608,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31627,7 +31626,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31645,7 +31644,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 18",
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31680,7 +31679,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
@@ -31698,8 +31697,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -31716,8 +31715,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31734,8 +31733,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -31752,8 +31751,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31788,8 +31787,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
     "Unnamed: 15": null
   },
@@ -31806,8 +31805,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31824,8 +31823,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31843,7 +31842,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31861,7 +31860,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31878,7 +31877,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205302 > 2",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
     "Unnamed: 15": null
@@ -31915,7 +31914,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -31950,7 +31949,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
@@ -31969,7 +31968,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32023,7 +32022,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32041,7 +32040,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -32059,7 +32058,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -32077,7 +32076,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,51",
     "Unnamed: 15": null
   },
@@ -32095,7 +32094,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -32113,7 +32112,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
     "Unnamed: 15": null
   },
@@ -32131,7 +32130,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32185,7 +32184,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
     "Unnamed: 15": null
   },
@@ -32203,7 +32202,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32257,7 +32256,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,48",
     "Unnamed: 15": null
   },
@@ -32275,7 +32274,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32293,7 +32292,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32311,7 +32310,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32328,7 +32327,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/03/2026",
     "Local (Fazenda - Talhão)": "41801 > 3",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
@@ -32365,7 +32364,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32383,7 +32382,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32400,7 +32399,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -32419,7 +32418,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32455,7 +32454,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32473,7 +32472,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32581,7 +32580,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32599,7 +32598,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32617,7 +32616,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "91",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32635,7 +32634,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32652,7 +32651,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41801 > 3",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -32671,7 +32670,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151501 > 3",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32688,7 +32687,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -32707,7 +32706,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -32724,7 +32723,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -32742,7 +32741,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -32761,7 +32760,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -32779,7 +32778,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -32832,7 +32831,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -32868,7 +32867,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
@@ -32886,7 +32885,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -32904,7 +32903,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -32923,7 +32922,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -32941,7 +32940,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41801 > 4",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -32959,7 +32958,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41801 > 4",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -32977,7 +32976,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41801 > 4",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -32995,7 +32994,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41801 > 4",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -33013,7 +33012,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41801 > 4",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33049,7 +33048,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33102,7 +33101,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -33120,7 +33119,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33138,7 +33137,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33156,7 +33155,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -33175,7 +33174,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33193,7 +33192,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33211,7 +33210,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33229,7 +33228,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33247,7 +33246,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33265,7 +33264,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33283,7 +33282,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33373,7 +33372,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33391,7 +33390,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33409,7 +33408,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33427,7 +33426,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33444,7 +33443,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "250703 > 137",
     "OS": "9174",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -33462,7 +33461,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "250703 > 137",
     "OS": "9174",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33499,7 +33498,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 9",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -33517,7 +33516,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 9",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -33535,7 +33534,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33553,7 +33552,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 9",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -33571,7 +33570,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33589,7 +33588,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33607,7 +33606,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33625,7 +33624,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33643,7 +33642,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33660,7 +33659,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33678,7 +33677,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "37347 > 59",
     "OS": "6133",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -33696,7 +33695,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "37347 > 59",
     "OS": "6133",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33714,7 +33713,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33732,7 +33731,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33750,7 +33749,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -33769,7 +33768,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33787,7 +33786,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33805,7 +33804,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 481",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33823,7 +33822,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33841,7 +33840,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33858,7 +33857,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -33877,7 +33876,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33894,7 +33893,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -33912,7 +33911,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -33931,7 +33930,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37340 > 49",
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -33949,7 +33948,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37340 > 49",
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34165,7 +34164,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34201,7 +34200,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34236,7 +34235,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34255,7 +34254,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37331 > 350",
     "OS": "6154",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -34273,7 +34272,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37331 > 350",
     "OS": "6154",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -34291,7 +34290,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37331 > 350",
     "OS": "6154",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -34309,7 +34308,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37328 > 320",
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -34327,7 +34326,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37328 > 320",
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -34345,7 +34344,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37328 > 320",
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -34362,7 +34361,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37343 > 530",
     "OS": "6157",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34381,7 +34380,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37359 > 720",
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -34398,7 +34397,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34417,7 +34416,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37359 > 720",
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34435,7 +34434,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37359 > 720",
     "OS": "6077",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -34471,7 +34470,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37328 > 320",
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -34489,7 +34488,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37328 > 320",
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34507,7 +34506,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37328 > 320",
     "OS": "6153",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,35",
     "Unnamed: 15": null
   },
@@ -34543,7 +34542,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 2",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34561,7 +34560,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 2",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34578,8 +34577,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37343 > 530",
     "OS": "6157",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -34614,8 +34613,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37343 > 530",
     "OS": "6157",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
   },
@@ -34650,8 +34649,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37343 > 530",
     "OS": "6157",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34740,7 +34739,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37345 > 550",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -34776,7 +34775,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37345 > 550",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34812,7 +34811,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "02/03/2026",
     "Local (Fazenda - Talhão)": "37345 > 550",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34830,7 +34829,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -34848,7 +34847,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -34866,7 +34865,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34884,7 +34883,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -34903,7 +34902,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "143001 > 1",
     "OS": "6116",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34921,7 +34920,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "143001 > 1",
     "OS": "6116",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -34938,7 +34937,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34974,7 +34973,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -34992,7 +34991,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35010,7 +35009,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -35029,7 +35028,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 1",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35046,7 +35045,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35064,7 +35063,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -35101,7 +35100,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 1",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35118,7 +35117,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35136,7 +35135,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35155,7 +35154,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 1",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35173,7 +35172,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "217801 > 2",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35191,7 +35190,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34706 > 41",
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35227,7 +35226,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34706 > 41",
     "OS": "6110",
     "Frente": "139 - Manezão",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35263,7 +35262,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 2",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35299,7 +35298,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "34706 > 40",
     "OS": "6110",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35317,7 +35316,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "217801 > 1",
     "OS": "6117",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35353,7 +35352,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 3",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35371,7 +35370,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 3",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35389,7 +35388,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "284701 > 3",
     "OS": "6118",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35406,7 +35405,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35424,7 +35423,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -35442,7 +35441,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 211",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35460,7 +35459,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 211",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35515,7 +35514,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35533,7 +35532,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35551,7 +35550,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35568,7 +35567,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37314 > 141",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35586,7 +35585,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37314 > 140",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35604,7 +35603,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37313 > 130",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35622,7 +35621,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37313 > 130",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -35640,7 +35639,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 5",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35659,7 +35658,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35676,7 +35675,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35695,7 +35694,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35712,7 +35711,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35730,7 +35729,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35766,7 +35765,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35856,7 +35855,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35874,7 +35873,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -35892,7 +35891,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -35910,7 +35909,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -35929,7 +35928,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35947,7 +35946,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35965,7 +35964,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -35983,7 +35982,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36001,7 +36000,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -36019,7 +36018,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36037,7 +36036,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5391",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36090,7 +36089,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36109,7 +36108,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36126,7 +36125,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36145,7 +36144,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -36162,7 +36161,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
@@ -36181,7 +36180,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -36199,7 +36198,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36217,7 +36216,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36360,7 +36359,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36378,8 +36377,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -36414,7 +36413,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -36432,8 +36431,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -36450,7 +36449,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36486,8 +36485,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -36576,7 +36575,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36594,7 +36593,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36630,7 +36629,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36648,7 +36647,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36666,7 +36665,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -36685,7 +36684,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
   },
@@ -36703,7 +36702,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
     "Unnamed: 15": null
   },
@@ -36739,7 +36738,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36811,7 +36810,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36865,7 +36864,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36900,7 +36899,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37316 > 163",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
@@ -36919,7 +36918,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36937,7 +36936,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36955,7 +36954,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -36972,7 +36971,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37316 > 160",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -36991,7 +36990,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37008,7 +37007,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37316 > 160",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -37026,7 +37025,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37316 > 160",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -37045,7 +37044,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37062,7 +37061,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -37081,7 +37080,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37099,7 +37098,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37117,7 +37116,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37135,7 +37134,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37153,7 +37152,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37189,7 +37188,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37207,7 +37206,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37225,7 +37224,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37243,7 +37242,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37261,7 +37260,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37279,7 +37278,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37297,7 +37296,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37315,7 +37314,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37333,7 +37332,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37351,7 +37350,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37369,7 +37368,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37387,7 +37386,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37423,7 +37422,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5823",
     "Frente": "139 - Manezão",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -37459,7 +37458,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5823",
     "Frente": "139 - Manezão",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -37495,7 +37494,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5823",
     "Frente": "139 - Manezão",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37603,7 +37602,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37639,7 +37638,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -37674,8 +37673,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37729,7 +37728,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -37747,7 +37746,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37764,8 +37763,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37801,7 +37800,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -37818,8 +37817,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37837,7 +37836,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37873,7 +37872,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37890,8 +37889,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37926,8 +37925,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37962,8 +37961,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37981,7 +37980,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -37998,8 +37997,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38016,8 +38015,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38035,7 +38034,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38052,8 +38051,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38071,7 +38070,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38089,7 +38088,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -38107,7 +38106,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -38125,7 +38124,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38143,7 +38142,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38160,8 +38159,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38178,8 +38177,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38196,8 +38195,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38214,8 +38213,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38250,8 +38249,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38304,8 +38303,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38521,7 +38520,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38539,7 +38538,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38557,7 +38556,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 4",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -38575,7 +38574,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38593,7 +38592,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38611,7 +38610,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38629,7 +38628,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38647,7 +38646,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38665,7 +38664,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38701,7 +38700,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38736,8 +38735,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "14/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38863,7 +38862,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38881,7 +38880,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38971,7 +38970,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -38989,7 +38988,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39007,7 +39006,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39025,7 +39024,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39043,7 +39042,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39061,7 +39060,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39079,7 +39078,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -39097,7 +39096,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39115,7 +39114,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39133,7 +39132,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -39151,7 +39150,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39169,7 +39168,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39187,7 +39186,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39205,7 +39204,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39223,7 +39222,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39241,7 +39240,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39277,7 +39276,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39331,7 +39330,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39349,7 +39348,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -39367,7 +39366,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39438,7 +39437,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39456,7 +39455,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39528,7 +39527,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39546,7 +39545,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "07/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39564,7 +39563,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39583,7 +39582,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39601,7 +39600,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39619,7 +39618,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39637,7 +39636,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39654,7 +39653,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39673,7 +39672,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
     "Unnamed: 15": null
   },
@@ -39690,7 +39689,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39709,7 +39708,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -39726,7 +39725,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39745,7 +39744,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
   },
@@ -39762,7 +39761,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39780,7 +39779,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39798,7 +39797,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39834,7 +39833,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39852,7 +39851,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -39871,7 +39870,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -39889,7 +39888,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40069,7 +40068,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40087,7 +40086,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40140,7 +40139,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -40158,7 +40157,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -40176,7 +40175,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -40212,7 +40211,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -40267,7 +40266,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5628 - 70427",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -40357,7 +40356,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40375,7 +40374,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40393,7 +40392,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40411,7 +40410,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40429,7 +40428,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40446,8 +40445,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40518,8 +40517,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40536,7 +40535,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -40572,8 +40571,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40590,8 +40589,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40608,8 +40607,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40626,8 +40625,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40644,8 +40643,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40662,8 +40661,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40680,8 +40679,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40735,7 +40734,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40789,7 +40788,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40807,7 +40806,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40915,7 +40914,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -40969,7 +40968,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41004,7 +41003,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
-    "Frente": "141- BIDU",
+    "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
@@ -41041,7 +41040,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41058,7 +41057,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
-    "Frente": "141- BIDU",
+    "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -41076,7 +41075,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -41095,7 +41094,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41112,7 +41111,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
-    "Frente": "141- BIDU",
+    "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
@@ -41131,7 +41130,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41149,7 +41148,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41185,7 +41184,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41203,7 +41202,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41221,7 +41220,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41239,7 +41238,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41257,7 +41256,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41275,7 +41274,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41293,7 +41292,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41311,7 +41310,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41329,7 +41328,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41347,7 +41346,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41365,7 +41364,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "133803 > 7",
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41382,7 +41381,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
-    "Frente": "141- BIDU",
+    "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
@@ -41401,7 +41400,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "133803 > 7",
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41418,7 +41417,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "27/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
-    "Frente": "141- BIDU",
+    "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -41437,7 +41436,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "133803 > 7",
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41455,7 +41454,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -41473,7 +41472,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "133803 > 7",
     "OS": "6928",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41491,7 +41490,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -41562,7 +41561,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
@@ -41581,7 +41580,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
     "Unnamed: 15": null
   },
@@ -41598,7 +41597,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
@@ -41616,7 +41615,7 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,36",
     "Unnamed: 15": null
@@ -41635,7 +41634,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41652,8 +41651,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41671,7 +41670,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,43",
     "Unnamed: 15": null
   },
@@ -41689,7 +41688,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
     "Unnamed: 15": null
   },
@@ -41706,8 +41705,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41743,7 +41742,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41761,7 +41760,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -41797,7 +41796,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41814,8 +41813,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41833,7 +41832,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -41869,7 +41868,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41887,7 +41886,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41904,8 +41903,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41923,7 +41922,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41940,8 +41939,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41959,7 +41958,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41976,8 +41975,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -41995,7 +41994,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42012,8 +42011,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "26/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42031,7 +42030,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42049,7 +42048,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42067,7 +42066,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42085,7 +42084,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42103,7 +42102,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42121,7 +42120,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42139,7 +42138,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42157,7 +42156,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42175,7 +42174,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42193,7 +42192,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42211,7 +42210,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42229,7 +42228,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42247,7 +42246,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 3",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42265,7 +42264,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 3",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42283,7 +42282,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 3",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,38",
     "Unnamed: 15": null
   },
@@ -42301,7 +42300,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 3",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42319,7 +42318,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42337,7 +42336,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42354,8 +42353,8 @@ window.PARALELISMO_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42373,7 +42372,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42409,7 +42408,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42445,7 +42444,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42481,7 +42480,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42499,7 +42498,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42517,7 +42516,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42535,7 +42534,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42571,7 +42570,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5461",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42589,7 +42588,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42607,7 +42606,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42625,7 +42624,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42643,7 +42642,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42661,7 +42660,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42679,7 +42678,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42697,7 +42696,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42715,7 +42714,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42733,7 +42732,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426\n",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42751,7 +42750,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42769,7 +42768,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42787,7 +42786,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42805,7 +42804,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42823,7 +42822,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5326",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42841,7 +42840,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42859,7 +42858,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42877,7 +42876,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42895,7 +42894,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42913,7 +42912,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42931,7 +42930,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42949,7 +42948,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42967,7 +42966,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -42985,7 +42984,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43003,7 +43002,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43021,7 +43020,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43039,7 +43038,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43057,7 +43056,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43075,7 +43074,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43093,7 +43092,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43111,7 +43110,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43147,7 +43146,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -43165,7 +43164,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43183,7 +43182,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43201,7 +43200,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43219,7 +43218,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43237,7 +43236,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43255,7 +43254,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43273,7 +43272,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5326",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43291,7 +43290,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43309,7 +43308,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43327,7 +43326,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43345,7 +43344,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43363,7 +43362,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43381,7 +43380,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43399,7 +43398,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43417,7 +43416,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43435,7 +43434,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43453,7 +43452,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43471,7 +43470,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43489,7 +43488,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43507,7 +43506,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43525,7 +43524,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43543,7 +43542,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43561,7 +43560,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43579,7 +43578,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43597,7 +43596,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43615,7 +43614,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43633,7 +43632,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43651,7 +43650,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43669,7 +43668,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43687,7 +43686,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43705,7 +43704,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43723,7 +43722,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43741,7 +43740,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43759,7 +43758,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43777,7 +43776,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5327",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43795,7 +43794,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43813,7 +43812,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43831,7 +43830,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43849,7 +43848,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43867,7 +43866,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43885,7 +43884,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43903,7 +43902,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },
@@ -43921,7 +43920,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
     "Unnamed: 15": null
   },
@@ -43939,7 +43938,7 @@ window.PARALELISMO_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
     "Unnamed: 15": null
   },

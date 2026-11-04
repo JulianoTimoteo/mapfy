@@ -1,9 +1,8 @@
 /**
- * Base de Dados Consolidada - Dosagem de Produto na Sulcação
- * Total: 1279 medições reais
- * Usina Pitangueiras - Safra 2026
+ * Base de Dados Consolidada - Dosagem de Produto - Sulcação
+ * Total: 1287 registros reais
+ * Sincronizado automaticamente com o Servidor MapFy
  */
-
 window.DOSAGEM_RAW_DATA = [
   {
     "ID": "4010068",
@@ -58,7 +57,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,745",
     "Unnamed: 16": null
   },
@@ -77,7 +76,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,67",
     "Unnamed: 16": null
   },
@@ -95,7 +94,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,135",
     "Unnamed: 16": null
@@ -114,7 +113,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
     "Unnamed: 16": null
@@ -133,8 +132,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,445",
     "Unnamed: 16": null
   },
@@ -152,8 +151,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70431",
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,535",
     "Unnamed: 16": null
   },
@@ -172,7 +171,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,465",
     "Unnamed: 16": null
   },
@@ -191,7 +190,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,445",
     "Unnamed: 16": null
   },
@@ -286,7 +285,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,62",
     "Unnamed: 16": null
   },
@@ -305,7 +304,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,685",
     "Unnamed: 16": null
   },
@@ -362,7 +361,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,52",
     "Unnamed: 16": null
   },
@@ -381,7 +380,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3446",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,545",
     "Unnamed: 16": null
   },
@@ -399,8 +398,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
     "Unnamed: 16": null
   },
@@ -418,8 +417,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,48",
     "Unnamed: 16": null
   },
@@ -438,7 +437,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,48",
     "Unnamed: 16": null
   },
@@ -457,7 +456,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
     "Unnamed: 16": null
   },
@@ -475,7 +474,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
     "Unnamed: 16": null
@@ -494,7 +493,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "199802",
     "OS": "3441",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
     "Unnamed: 16": null
@@ -760,7 +759,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,985",
     "Unnamed: 16": null
@@ -798,7 +797,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,805",
     "Unnamed: 16": null
@@ -817,7 +816,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
     "Unnamed: 16": null
@@ -836,7 +835,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177012",
     "OS": "3199",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
     "Unnamed: 16": null
@@ -855,7 +854,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
     "Unnamed: 16": null
@@ -874,7 +873,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151901",
     "OS": "3103",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
     "Unnamed: 16": null
@@ -893,8 +892,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
-    "Produto": "Torta",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
     "Unnamed: 16": null
   },
@@ -912,8 +911,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
-    "Produto": "Torta",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,785",
     "Unnamed: 16": null
   },
@@ -988,7 +987,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,15",
     "Unnamed: 16": null
@@ -1007,7 +1006,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,975",
     "Unnamed: 16": null
@@ -1045,8 +1044,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
-    "Produto": "Torta",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
     "Unnamed: 16": null
   },
@@ -1064,8 +1063,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "67901",
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
-    "Produto": "Torta",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,845",
     "Unnamed: 16": null
   },
@@ -1084,7 +1083,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,66",
     "Unnamed: 16": null
   },
@@ -1103,7 +1102,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3056",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,64",
     "Unnamed: 16": null
   },
@@ -1197,7 +1196,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,015",
     "Unnamed: 16": null
@@ -1216,7 +1215,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,16",
     "Unnamed: 16": null
@@ -1235,8 +1234,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,455",
     "Unnamed: 16": null
   },
@@ -1254,8 +1253,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "111201",
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,87",
     "Unnamed: 16": null
   },
@@ -1388,7 +1387,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,23",
     "Unnamed: 16": null
   },
@@ -1407,7 +1406,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2986",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,235",
     "Unnamed: 16": null
   },
@@ -1426,7 +1425,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,22",
     "Unnamed: 16": null
   },
@@ -1445,7 +1444,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2987",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,265",
     "Unnamed: 16": null
   },
@@ -1616,7 +1615,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
     "Unnamed: 16": null
   },
@@ -1635,7 +1634,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,825",
     "Unnamed: 16": null
   },
@@ -1654,7 +1653,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
     "Unnamed: 16": null
   },
@@ -1673,7 +1672,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
     "Unnamed: 16": null
   },
@@ -1729,8 +1728,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,46",
     "Unnamed: 16": null
   },
@@ -1748,8 +1747,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,61",
     "Unnamed: 16": null
   },
@@ -1768,7 +1767,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,46",
     "Unnamed: 16": null
   },
@@ -1787,7 +1786,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,61",
     "Unnamed: 16": null
   },
@@ -1805,7 +1804,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,165",
     "Unnamed: 16": null
@@ -1824,7 +1823,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
     "Unnamed: 16": null
@@ -1882,7 +1881,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
     "Unnamed: 16": null
   },
@@ -1901,7 +1900,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
     "Unnamed: 16": null
   },
@@ -1920,7 +1919,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,68",
     "Unnamed: 16": null
   },
@@ -1939,7 +1938,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,62",
     "Unnamed: 16": null
   },
@@ -2034,7 +2033,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,67",
     "Unnamed: 16": null
   },
@@ -2053,7 +2052,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
     "Unnamed: 16": null
   },
@@ -2109,8 +2108,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,4",
     "Unnamed: 16": null
   },
@@ -2128,7 +2127,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
     "Unnamed: 16": null
@@ -2147,7 +2146,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
     "Unnamed: 16": null
@@ -2166,8 +2165,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70408",
     "OS": "2707",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
     "Unnamed: 16": null
   },
@@ -2186,7 +2185,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
     "Unnamed: 16": null
   },
@@ -2205,7 +2204,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
     "Unnamed: 16": null
   },
@@ -2223,7 +2222,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
     "Unnamed: 16": null
@@ -2242,7 +2241,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
     "Unnamed: 16": null
@@ -2261,8 +2260,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
     "Unnamed: 16": null
   },
@@ -2280,8 +2279,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,56",
     "Unnamed: 16": null
   },
@@ -2338,7 +2337,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,805",
     "Unnamed: 16": null
   },
@@ -2357,7 +2356,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,73",
     "Unnamed: 16": null
   },
@@ -2413,7 +2412,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
     "Unnamed: 16": null
@@ -2432,7 +2431,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
     "Unnamed: 16": null
@@ -2452,7 +2451,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
     "Unnamed: 16": null
   },
@@ -2471,7 +2470,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
     "Unnamed: 16": null
   },
@@ -2489,8 +2488,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
     "Unnamed: 16": null
   },
@@ -2508,8 +2507,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "52501",
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
     "Unnamed: 16": null
   },
@@ -2604,7 +2603,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,715",
     "Unnamed: 16": null
   },
@@ -2623,7 +2622,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2598",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,745",
     "Unnamed: 16": null
   },
@@ -2642,7 +2641,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,78",
     "Unnamed: 16": null
   },
@@ -2661,7 +2660,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,735",
     "Unnamed: 16": null
   },
@@ -2756,7 +2755,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
     "Unnamed: 16": null
   },
@@ -2775,7 +2774,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,765",
     "Unnamed: 16": null
   },
@@ -2794,7 +2793,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
     "Unnamed: 16": null
   },
@@ -2813,7 +2812,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,605",
     "Unnamed: 16": null
   },
@@ -2908,7 +2907,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,74",
     "Unnamed: 16": null
   },
@@ -2927,7 +2926,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
     "Unnamed: 16": null
   },
@@ -2964,7 +2963,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
     "Unnamed: 16": null
@@ -3002,7 +3001,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
     "Unnamed: 16": null
@@ -3021,8 +3020,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
     "Unnamed: 16": null
   },
@@ -3040,8 +3039,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201",
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
     "Unnamed: 16": null
   },
@@ -3060,7 +3059,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
     "Unnamed: 16": null
   },
@@ -3079,7 +3078,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
     "Unnamed: 16": null
   },
@@ -3136,7 +3135,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
     "Unnamed: 16": null
   },
@@ -3155,7 +3154,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
     "Unnamed: 16": null
   },
@@ -3174,7 +3173,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
     "Unnamed: 16": null
   },
@@ -3193,7 +3192,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
     "Unnamed: 16": null
   },
@@ -3212,7 +3211,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532 ",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
     "Unnamed: 16": null
   },
@@ -3231,7 +3230,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
     "Unnamed: 16": null
   },
@@ -3364,7 +3363,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
     "Unnamed: 16": null
   },
@@ -3383,7 +3382,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2532",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
     "Unnamed: 16": null
   },
@@ -3440,7 +3439,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,41",
     "Unnamed: 16": null
   },
@@ -3459,7 +3458,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,48",
     "Unnamed: 16": null
   },
@@ -3497,7 +3496,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
     "Unnamed: 16": null
   },
@@ -3516,7 +3515,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,87",
     "Unnamed: 16": null
   },
@@ -3554,7 +3553,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2348",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,755",
     "Unnamed: 16": null
   },
@@ -3573,7 +3572,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,655",
     "Unnamed: 16": null
   },
@@ -3591,7 +3590,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,045",
     "Unnamed: 16": null
@@ -3610,7 +3609,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,17",
     "Unnamed: 16": null
@@ -3629,8 +3628,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,535",
     "Unnamed: 16": null
   },
@@ -3648,8 +3647,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70417",
     "OS": "9742",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
     "Unnamed: 16": null
   },
@@ -3668,7 +3667,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
     "Unnamed: 16": null
   },
@@ -3687,7 +3686,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,545",
     "Unnamed: 16": null
   },
@@ -3743,8 +3742,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,47",
     "Unnamed: 16": null
   },
@@ -3762,8 +3761,8 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
-    "Produto": "Torta",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,55",
     "Unnamed: 16": null
   },
@@ -3782,7 +3781,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
     "Unnamed: 16": null
   },
@@ -3801,7 +3800,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,51",
     "Unnamed: 16": null
   },
@@ -3819,7 +3818,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
     "Unnamed: 16": null
@@ -3838,7 +3837,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "70411",
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
     "Unnamed: 16": null
@@ -3896,7 +3895,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,545",
     "Unnamed: 16": null
   },
@@ -3991,7 +3990,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
     "Unnamed: 16": null
   },
@@ -4010,7 +4009,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
     "Unnamed: 16": null
   },
@@ -4029,7 +4028,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "2350",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
   },
@@ -4427,7 +4426,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -4446,7 +4445,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -4465,7 +4464,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -4484,7 +4483,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -4503,7 +4502,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -4522,7 +4521,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -4541,7 +4540,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
     "Unnamed: 16": null
@@ -4560,7 +4559,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -4579,7 +4578,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -4598,7 +4597,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 17",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -4617,7 +4616,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -4636,7 +4635,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -4655,7 +4654,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -4674,7 +4673,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -4693,7 +4692,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
     "Unnamed: 16": null
@@ -4712,7 +4711,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -4845,7 +4844,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
     "Unnamed: 16": null
@@ -4864,7 +4863,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
     "Unnamed: 16": null
@@ -4883,7 +4882,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,015",
     "Unnamed: 16": null
@@ -4902,7 +4901,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
     "Unnamed: 16": null
@@ -4959,7 +4958,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
     "Unnamed: 16": null
@@ -4978,7 +4977,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
     "Unnamed: 16": null
@@ -4997,7 +4996,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -5016,7 +5015,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 19",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,388",
     "Unnamed: 16": null
@@ -5035,7 +5034,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -5054,7 +5053,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -5092,7 +5091,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
     "Unnamed: 16": null
@@ -5111,7 +5110,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -5301,7 +5300,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40201 > 1",
     "OS": "503",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -5339,7 +5338,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,795",
     "Unnamed: 16": null
@@ -5358,7 +5357,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
     "Unnamed: 16": null
@@ -5377,7 +5376,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,87",
     "Unnamed: 16": null
@@ -5396,7 +5395,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "148101 > 1",
     "OS": "498",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
     "Unnamed: 16": null
@@ -5415,7 +5414,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -5434,7 +5433,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "521",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -5453,7 +5452,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
     "Unnamed: 16": null
@@ -5472,7 +5471,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -5605,7 +5604,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
     "Unnamed: 16": null
@@ -5624,7 +5623,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
     "Unnamed: 16": null
@@ -5643,7 +5642,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
     "Unnamed: 16": null
@@ -5662,7 +5661,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 11",
     "OS": "501",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
     "Unnamed: 16": null
@@ -5757,7 +5756,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -5776,7 +5775,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
     "Unnamed: 16": null
@@ -5795,7 +5794,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -5814,7 +5813,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
     "Unnamed: 16": null
@@ -5833,7 +5832,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
     "Unnamed: 16": null
@@ -5852,7 +5851,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -5871,7 +5870,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
     "Unnamed: 16": null
@@ -5890,7 +5889,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "102704 > 6",
     "OS": "509",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -5909,7 +5908,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
     "Unnamed: 16": null
@@ -5928,7 +5927,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 13",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -5985,7 +5984,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -6004,7 +6003,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 14",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -6061,7 +6060,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
     "Unnamed: 16": null
@@ -6080,7 +6079,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -6099,7 +6098,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -6118,7 +6117,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -6175,7 +6174,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
     "Unnamed: 16": null
@@ -6194,7 +6193,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
     "Unnamed: 16": null
@@ -6213,7 +6212,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -6232,7 +6231,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -6251,7 +6250,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
     "Unnamed: 16": null
@@ -6270,7 +6269,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "499",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
     "Unnamed: 16": null
@@ -6289,7 +6288,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
     "Unnamed: 16": null
@@ -6308,7 +6307,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
     "Unnamed: 16": null
@@ -6327,7 +6326,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
     "Unnamed: 16": null
@@ -6346,7 +6345,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,975",
     "Unnamed: 16": null
@@ -6384,7 +6383,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,92",
     "Unnamed: 16": null
@@ -6403,7 +6402,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
     "Unnamed: 16": null
@@ -6422,7 +6421,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
     "Unnamed: 16": null
@@ -6441,7 +6440,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "117701 > 1",
     "OS": "500",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
     "Unnamed: 16": null
@@ -6460,7 +6459,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -6479,7 +6478,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -6498,7 +6497,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
     "Unnamed: 16": null
@@ -6517,7 +6516,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 5",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -6555,7 +6554,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -6574,7 +6573,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
     "Unnamed: 16": null
@@ -6688,7 +6687,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
     "Unnamed: 16": null
@@ -6707,7 +6706,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "146201 > 44",
     "OS": "484",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
     "Unnamed: 16": null
@@ -6726,7 +6725,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -6745,7 +6744,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -6764,7 +6763,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -6783,7 +6782,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -6840,7 +6839,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -6859,7 +6858,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -6878,7 +6877,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 45",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -6897,7 +6896,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "47601 > 48",
     "OS": "270",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -6954,7 +6953,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -6973,7 +6972,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -7068,7 +7067,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,91",
     "Unnamed: 16": null
@@ -7087,7 +7086,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 4",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,065",
     "Unnamed: 16": null
@@ -7106,7 +7105,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
     "Unnamed: 16": null
@@ -7125,7 +7124,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "137701 > 3",
     "OS": "419",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
     "Unnamed: 16": null
@@ -7144,7 +7143,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -7163,7 +7162,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 21",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -7258,7 +7257,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -7277,7 +7276,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
     "Unnamed: 16": null
@@ -7334,7 +7333,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -7353,7 +7352,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "441",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -7448,7 +7447,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -7467,7 +7466,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -7486,7 +7485,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -7505,7 +7504,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 6",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -7600,7 +7599,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -7619,7 +7618,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
     "Unnamed: 16": null
@@ -7638,7 +7637,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
     "Unnamed: 16": null
@@ -7657,7 +7656,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -7714,7 +7713,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -7733,7 +7732,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
     "Unnamed: 16": null
@@ -7752,7 +7751,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -7771,7 +7770,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 4",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
     "Unnamed: 16": null
@@ -7904,7 +7903,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
     "Unnamed: 16": null
@@ -7923,7 +7922,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
     "Unnamed: 16": null
@@ -7942,7 +7941,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,205",
     "Unnamed: 16": null
@@ -7961,7 +7960,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 1",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
     "Unnamed: 16": null
@@ -7980,7 +7979,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -7999,7 +7998,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -8018,7 +8017,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -8037,7 +8036,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -8056,7 +8055,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
     "Unnamed: 16": null
@@ -8075,7 +8074,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "110101 > 2",
     "OS": "373",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
     "Unnamed: 16": null
@@ -8094,7 +8093,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
     "Unnamed: 16": null
@@ -8113,7 +8112,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
     "Unnamed: 16": null
@@ -8132,7 +8131,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
     "Unnamed: 16": null
@@ -8151,7 +8150,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "212901 > 2311",
     "OS": "392",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
     "Unnamed: 16": null
@@ -8435,8 +8434,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
     "Unnamed: 16": null
@@ -8454,8 +8453,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
     "Unnamed: 16": null
@@ -8473,8 +8472,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
     "Unnamed: 16": null
@@ -8492,8 +8491,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "15/04/2026",
     "Local (Fazenda - Talhão)": "227203 > 4",
     "OS": "273",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
     "Unnamed: 16": null
@@ -8588,7 +8587,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
     "Unnamed: 16": null
@@ -8607,7 +8606,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 16",
     "OS": "274",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -8778,7 +8777,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
     "Unnamed: 16": null
@@ -8797,7 +8796,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
     "Unnamed: 16": null
@@ -8816,7 +8815,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -8835,7 +8834,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "274",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -8968,7 +8967,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
     "Unnamed: 16": null
@@ -8987,7 +8986,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "287101 > 2",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -9158,7 +9157,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
     "Unnamed: 16": null
@@ -9177,7 +9176,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -9196,7 +9195,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
     "Unnamed: 16": null
@@ -9215,7 +9214,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 11",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -9310,7 +9309,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -9329,7 +9328,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -9348,7 +9347,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
     "Unnamed: 16": null
@@ -9367,7 +9366,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "212",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
     "Unnamed: 16": null
@@ -9462,7 +9461,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -9481,7 +9480,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -9500,7 +9499,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
     "Unnamed: 16": null
@@ -9519,7 +9518,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -9880,7 +9879,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 1",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -9899,7 +9898,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
     "Unnamed: 16": null
@@ -9918,7 +9917,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
     "Unnamed: 16": null
@@ -9937,7 +9936,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "40101 > 10",
     "OS": "211",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
     "Unnamed: 16": null
@@ -10032,7 +10031,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -10051,7 +10050,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "46501 > 3",
     "OS": "213",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -10146,7 +10145,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -10164,7 +10163,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -10183,7 +10182,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
@@ -10202,7 +10201,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -10221,7 +10220,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "09/04/2026",
     "Local (Fazenda - Talhão)": "34802 > 1",
     "OS": "200",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
@@ -10241,7 +10240,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -10374,7 +10373,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -10393,7 +10392,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -10412,7 +10411,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -10431,7 +10430,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "64",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -10450,7 +10449,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 5",
     "OS": "73",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -10526,7 +10525,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 2",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
     "Unnamed: 16": null
@@ -10545,7 +10544,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254602 > 2",
     "OS": "175",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
     "Unnamed: 16": null
@@ -10563,8 +10562,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9662",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -10582,8 +10581,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -10602,7 +10601,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -10621,7 +10620,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -10639,7 +10638,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
@@ -10658,7 +10657,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
@@ -10791,8 +10790,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
     "Unnamed: 16": null
@@ -10810,8 +10809,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -10830,7 +10829,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
     "Unnamed: 16": null
@@ -10849,7 +10848,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -10867,7 +10866,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
@@ -10886,7 +10885,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/04/2026",
     "Local (Fazenda - Talhão)": "144501 > 7",
     "OS": "30",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
@@ -10906,7 +10905,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,405",
     "Unnamed: 16": null
@@ -10925,7 +10924,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,41",
     "Unnamed: 16": null
@@ -10944,7 +10943,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
     "Unnamed: 16": null
@@ -10963,7 +10962,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1180",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
     "Unnamed: 16": null
@@ -11058,7 +11057,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -11077,7 +11076,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -11096,7 +11095,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -11115,7 +11114,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -11134,7 +11133,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
     "Unnamed: 16": null
@@ -11153,7 +11152,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,44",
     "Unnamed: 16": null
@@ -11172,7 +11171,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,35",
     "Unnamed: 16": null
@@ -11191,7 +11190,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "285701 > 1176",
     "OS": "43",
     "Frente": "143 - FRENTE CASSIO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,36",
     "Unnamed: 16": null
@@ -11323,7 +11322,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
@@ -11342,7 +11341,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/04/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9583",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
@@ -11552,7 +11551,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -11571,7 +11570,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
     "Unnamed: 16": null
@@ -11666,7 +11665,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
     "Unnamed: 16": null
@@ -11685,7 +11684,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
     "Unnamed: 16": null
@@ -11704,7 +11703,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -11723,7 +11722,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9652",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
     "Unnamed: 16": null
@@ -11817,7 +11816,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
@@ -11836,7 +11835,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -11893,7 +11892,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
@@ -11912,7 +11911,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "31/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
@@ -11932,7 +11931,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -11951,7 +11950,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
     "Unnamed: 16": null
@@ -12007,7 +12006,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213403 > 1",
     "OS": "9699",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
@@ -12026,7 +12025,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "213403 > 1",
     "OS": "9699",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
@@ -12046,7 +12045,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
     "Unnamed: 16": null
@@ -12065,7 +12064,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
     "Unnamed: 16": null
@@ -12084,7 +12083,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
     "Unnamed: 16": null
@@ -12103,7 +12102,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "220408 > 44",
     "OS": "9298",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
     "Unnamed: 16": null
@@ -12121,8 +12120,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -12140,8 +12139,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
     "Unnamed: 16": null
@@ -12159,7 +12158,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
@@ -12178,8 +12177,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -12197,7 +12196,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
@@ -12216,8 +12215,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
     "Unnamed: 16": null
@@ -12235,7 +12234,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
@@ -12254,7 +12253,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "30/03/2026",
     "Local (Fazenda - Talhão)": "132901 > 1",
     "OS": "9701",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
@@ -12349,7 +12348,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -12368,7 +12367,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
@@ -12388,7 +12387,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,905",
     "Unnamed: 16": null
@@ -12407,7 +12406,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,865",
     "Unnamed: 16": null
@@ -12426,7 +12425,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,97",
     "Unnamed: 16": null
@@ -12445,7 +12444,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "280401 > 1930",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,885",
     "Unnamed: 16": null
@@ -12463,7 +12462,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
@@ -12482,7 +12481,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/03/2026",
     "Local (Fazenda - Talhão)": "213402 > 2976",
     "OS": "9704",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
@@ -12616,7 +12615,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -12635,7 +12634,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -12691,7 +12690,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
@@ -12710,7 +12709,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "27/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,3",
@@ -12730,7 +12729,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -12749,7 +12748,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -12920,7 +12919,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -12939,7 +12938,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -12958,7 +12957,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
     "Unnamed: 16": null
@@ -12977,7 +12976,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "125001 > 1499",
     "OS": "9696",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
     "Unnamed: 16": null
@@ -12996,7 +12995,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
     "Unnamed: 16": null
@@ -13015,7 +13014,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9655",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -13034,7 +13033,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "\n9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
     "Unnamed: 16": null
@@ -13053,7 +13052,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "101201 > 2043",
     "OS": "9676",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
     "Unnamed: 16": null
@@ -13072,7 +13071,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
     "Unnamed: 16": null
@@ -13091,7 +13090,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "151502 > 1",
     "OS": "9652",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -13223,7 +13222,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,25",
@@ -13242,7 +13241,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
@@ -13261,7 +13260,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,24",
@@ -13280,7 +13279,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "26/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,275",
@@ -13299,7 +13298,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "25/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
@@ -13318,7 +13317,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "25/03/2026",
     "Local (Fazenda - Talhão)": "280901 > 9",
     "OS": "9650",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,26",
@@ -13376,7 +13375,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,685",
     "Unnamed: 16": null
@@ -13395,7 +13394,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,56",
     "Unnamed: 16": null
@@ -13414,7 +13413,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,66",
     "Unnamed: 16": null
@@ -13433,7 +13432,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 7",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -13452,7 +13451,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
     "Unnamed: 16": null
@@ -13471,7 +13470,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -13490,7 +13489,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
     "Unnamed: 16": null
@@ -13509,7 +13508,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
     "Unnamed: 16": null
@@ -13528,7 +13527,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
     "Unnamed: 16": null
@@ -13547,7 +13546,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "190205 > 1141",
     "OS": "9614",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "Antonio",
+    "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
     "Unnamed: 16": null
@@ -13566,7 +13565,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -13585,7 +13584,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
     "Unnamed: 16": null
@@ -13642,7 +13641,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
     "Unnamed: 16": null
@@ -13661,7 +13660,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "254401 > 7",
     "OS": "9622",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
     "Unnamed: 16": null
@@ -13680,7 +13679,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
     "Unnamed: 16": null
@@ -13699,7 +13698,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,475",
     "Unnamed: 16": null
@@ -13718,7 +13717,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -13737,7 +13736,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
     "Unnamed: 16": null
@@ -13756,7 +13755,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -13775,7 +13774,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -13794,7 +13793,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
     "Unnamed: 16": null
@@ -13813,7 +13812,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
     "Unnamed: 16": null
@@ -13889,7 +13888,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
     "Unnamed: 16": null
@@ -13908,7 +13907,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177007 > 12",
     "OS": "9508",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
     "Unnamed: 16": null
@@ -14022,7 +14021,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,43",
     "Unnamed: 16": null
@@ -14041,7 +14040,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14098,7 +14097,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,545",
     "Unnamed: 16": null
@@ -14117,7 +14116,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "957",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,69",
     "Unnamed: 16": null
@@ -14136,7 +14135,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,725",
     "Unnamed: 16": null
@@ -14155,7 +14154,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "234001 > 2",
     "OS": "9557",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,81",
     "Unnamed: 16": null
@@ -14174,7 +14173,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -14193,7 +14192,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
     "Unnamed: 16": null
@@ -14212,7 +14211,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9238",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14231,7 +14230,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224901 > 3",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,38",
     "Unnamed: 16": null
@@ -14250,7 +14249,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224901 > 3",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14269,7 +14268,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14288,7 +14287,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14307,7 +14306,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 4",
     "OS": "9338",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
     "Unnamed: 16": null
@@ -14326,7 +14325,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
     "Unnamed: 16": null
@@ -14345,7 +14344,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
     "Unnamed: 16": null
@@ -14440,7 +14439,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -14459,7 +14458,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -14516,7 +14515,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 1",
     "OS": "9281",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14535,7 +14534,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 4",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14630,7 +14629,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -14649,7 +14648,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -14668,7 +14667,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -14687,7 +14686,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -14744,7 +14743,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
     "Unnamed: 16": null
@@ -14763,7 +14762,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 16",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -14782,7 +14781,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
     "Unnamed: 16": null
@@ -14801,7 +14800,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53401 > 3",
     "OS": "9487",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
     "Unnamed: 16": null
@@ -14896,7 +14895,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -14915,7 +14914,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -14934,7 +14933,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
     "Unnamed: 16": null
@@ -14953,7 +14952,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9510",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -14972,7 +14971,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
     "Unnamed: 16": null
@@ -14991,7 +14990,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -15010,7 +15009,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
     "Unnamed: 16": null
@@ -15029,7 +15028,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
     "Unnamed: 16": null
@@ -15086,7 +15085,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177003 > 1",
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
     "Unnamed: 16": null
@@ -15105,7 +15104,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177003 > 1",
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
     "Unnamed: 16": null
@@ -15124,7 +15123,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 9",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
     "Unnamed: 16": null
@@ -15143,7 +15142,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 9",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
     "Unnamed: 16": null
@@ -15162,7 +15161,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177003 > 1",
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
     "Unnamed: 16": null
@@ -15200,7 +15199,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "177003 > 1",
     "OS": "9507",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
     "Unnamed: 16": null
@@ -15238,7 +15237,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 13",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -15257,7 +15256,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 13",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -15390,7 +15389,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -15409,7 +15408,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
     "Unnamed: 16": null
@@ -15428,7 +15427,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
     "Unnamed: 16": null
@@ -15447,7 +15446,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "39001 > 1",
     "OS": "9335",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
     "Unnamed: 16": null
@@ -15542,7 +15541,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
     "Unnamed: 16": null
@@ -15561,7 +15560,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -15580,7 +15579,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,385",
     "Unnamed: 16": null
@@ -15599,7 +15598,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
     "Unnamed: 16": null
@@ -15618,7 +15617,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -15637,7 +15636,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
     "Unnamed: 16": null
@@ -15656,7 +15655,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
     "Unnamed: 16": null
@@ -15675,7 +15674,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224905 > 2",
     "OS": "9295",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
     "Unnamed: 16": null
@@ -15770,7 +15769,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -15789,7 +15788,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
     "Unnamed: 16": null
@@ -15807,7 +15806,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
@@ -15826,7 +15825,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 1",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
@@ -15845,7 +15844,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
@@ -15864,7 +15863,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "205301 > 5",
     "OS": "9296",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
@@ -15884,7 +15883,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,695",
     "Unnamed: 16": null
@@ -15903,7 +15902,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
     "Unnamed: 16": null
@@ -15922,7 +15921,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,655",
     "Unnamed: 16": null
@@ -15941,7 +15940,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
     "Unnamed: 16": null
@@ -15959,8 +15958,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -15978,8 +15977,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -15997,8 +15996,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -16016,8 +16015,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/03/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -16036,7 +16035,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -16055,7 +16054,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -16074,7 +16073,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -16093,7 +16092,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -16111,8 +16110,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/03/2026",
     "Local (Fazenda - Talhão)": "205302 > 2",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
     "Unnamed: 16": null
@@ -16130,8 +16129,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "07/03/2026",
     "Local (Fazenda - Talhão)": "205302 > 2",
     "OS": "9297",
-    "Frente": "135 - PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "135 - PEDRINHO ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
     "Unnamed: 16": null
@@ -16150,7 +16149,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
     "Unnamed: 16": null
@@ -16169,7 +16168,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
     "Unnamed: 16": null
@@ -16188,7 +16187,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
     "Unnamed: 16": null
@@ -16207,7 +16206,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 11",
     "OS": "9294",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
     "Unnamed: 16": null
@@ -16226,7 +16225,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
     "Unnamed: 16": null
@@ -16245,7 +16244,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
     "Unnamed: 16": null
@@ -16264,7 +16263,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
     "Unnamed: 16": null
@@ -16283,7 +16282,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "224701 > 12",
     "OS": "9281",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
     "Unnamed: 16": null
@@ -16377,7 +16376,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41801 > 3",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -16396,7 +16395,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41801 > 3",
     "OS": "9183",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -16416,7 +16415,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -16435,7 +16434,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
     "Unnamed: 16": null
@@ -16453,7 +16452,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
@@ -16472,7 +16471,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/03/2026",
     "Local (Fazenda - Talhão)": "41901 > 1",
     "OS": "9184",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
@@ -16492,7 +16491,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -16511,7 +16510,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "9280",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -16643,7 +16642,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
@@ -16662,7 +16661,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "41701 > 2",
     "OS": "9185",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
@@ -16720,7 +16719,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -16739,7 +16738,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -16758,7 +16757,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
     "Unnamed: 16": null
@@ -16777,7 +16776,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 7",
     "OS": "9187",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
     "Unnamed: 16": null
@@ -16834,7 +16833,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,275",
     "Unnamed: 16": null
@@ -16853,7 +16852,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
     "Unnamed: 16": null
@@ -16872,7 +16871,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
     "Unnamed: 16": null
@@ -16891,7 +16890,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "136901 > 3",
     "OS": "9190",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,305",
     "Unnamed: 16": null
@@ -16909,7 +16908,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "250703 > 137",
     "OS": "9174",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
@@ -16928,7 +16927,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/03/2026",
     "Local (Fazenda - Talhão)": "250703 > 137",
     "OS": "9174",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
@@ -16948,7 +16947,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -16967,7 +16966,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
     "Unnamed: 16": null
@@ -17024,7 +17023,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
     "Unnamed: 16": null
@@ -17043,7 +17042,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "253611 > 2",
     "OS": "9191",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
     "Unnamed: 16": null
@@ -17062,7 +17061,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
     "Unnamed: 16": null
@@ -17081,7 +17080,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -17100,7 +17099,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
     "Unnamed: 16": null
@@ -17119,7 +17118,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
     "Unnamed: 16": null
@@ -17137,7 +17136,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "37347 > 59",
     "OS": "6133",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
@@ -17156,7 +17155,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/03/2026",
     "Local (Fazenda - Talhão)": "37347 > 59",
     "OS": "6133",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
@@ -17176,7 +17175,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -17195,7 +17194,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
     "Unnamed: 16": null
@@ -17214,7 +17213,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -17233,7 +17232,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -17252,7 +17251,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - Manezão",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
     "Unnamed: 16": null
@@ -17271,7 +17270,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "41701 > 5",
     "OS": "9186",
     "Frente": "139 - Manezão",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
     "Unnamed: 16": null
@@ -17290,7 +17289,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -17309,7 +17308,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 38",
     "OS": "9152",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
     "Unnamed: 16": null
@@ -17328,7 +17327,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37340 > 49",
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -17347,7 +17346,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37340 > 49",
     "OS": "6129",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -17365,7 +17364,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
@@ -17384,7 +17383,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
@@ -17403,7 +17402,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
@@ -17422,7 +17421,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "03/03/2026",
     "Local (Fazenda - Talhão)": "141401 > 240",
     "OS": "9175",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
@@ -17442,7 +17441,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -17461,7 +17460,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37341 > 4",
     "OS": "6130",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -17480,7 +17479,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37341 > 4",
     "OS": "6130",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -17499,7 +17498,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "37339 > 480",
     "OS": "6128",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -17670,7 +17669,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 2",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
     "Unnamed: 16": null
@@ -17689,7 +17688,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 2",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -17707,7 +17706,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
@@ -17726,7 +17725,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
@@ -17745,7 +17744,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
@@ -17764,7 +17763,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6140",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -17783,7 +17782,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
@@ -17802,7 +17801,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
@@ -17821,7 +17820,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
@@ -17840,7 +17839,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/02/2026",
     "Local (Fazenda - Talhão)": "37344 > 540",
     "OS": "6134",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -17860,7 +17859,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -17879,7 +17878,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
     "Unnamed: 16": null
@@ -17973,7 +17972,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
@@ -17992,7 +17991,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37348 > 610",
     "OS": "6071",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
@@ -18011,7 +18010,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
@@ -18030,7 +18029,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "23/02/2026",
     "Local (Fazenda - Talhão)": "37349 > 62",
     "OS": "6070",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
@@ -18050,7 +18049,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
     "Unnamed: 16": null
@@ -18069,7 +18068,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
     "Unnamed: 16": null
@@ -18088,7 +18087,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -18107,7 +18106,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "35001 > 1",
     "OS": "6141",
     "Frente": "139 - FRENTE MANEZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -18125,7 +18124,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
@@ -18144,7 +18143,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
@@ -18163,7 +18162,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
@@ -18182,7 +18181,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6034",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
@@ -18201,7 +18200,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
@@ -18220,7 +18219,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
@@ -18239,7 +18238,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
@@ -18258,7 +18257,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "21/02/2026",
     "Local (Fazenda - Talhão)": "37320 > 210",
     "OS": "6035",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
@@ -18316,7 +18315,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -18335,7 +18334,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -18467,7 +18466,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
@@ -18486,7 +18485,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
@@ -18505,7 +18504,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -18524,7 +18523,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5997",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -18543,7 +18542,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -18562,7 +18561,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -18581,7 +18580,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
@@ -18600,7 +18599,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5994",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
@@ -18619,7 +18618,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -18638,7 +18637,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -18657,7 +18656,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
@@ -18676,7 +18675,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 121",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
@@ -18696,7 +18695,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -18715,7 +18714,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -18734,7 +18733,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
     "Unnamed: 16": null
@@ -18753,7 +18752,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5847",
     "Frente": "105 - FRENTE CASSIO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
     "Unnamed: 16": null
@@ -18771,7 +18770,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,86",
@@ -18790,7 +18789,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "20/02/2026",
     "Local (Fazenda - Talhão)": "112401 > 6",
     "OS": "6017",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
@@ -18809,7 +18808,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 120",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
@@ -18828,7 +18827,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "19/02/2026",
     "Local (Fazenda - Talhão)": "37312 > 120",
     "OS": "5996",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
@@ -18924,7 +18923,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
     "Unnamed: 16": null
@@ -18943,7 +18942,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -19075,7 +19074,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -19094,7 +19093,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -19113,7 +19112,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
@@ -19132,7 +19131,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37317 > 170",
     "OS": "5969",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
@@ -19151,7 +19150,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -19170,7 +19169,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -19189,7 +19188,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
@@ -19208,7 +19207,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 8",
     "OS": "5967",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
@@ -19227,7 +19226,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -19246,7 +19245,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -19265,7 +19264,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
@@ -19284,7 +19283,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37309 > 91",
     "OS": "5968",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
@@ -19303,7 +19302,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
@@ -19322,7 +19321,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
@@ -19341,7 +19340,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
@@ -19360,7 +19359,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "18/02/2026",
     "Local (Fazenda - Talhão)": "37308 > 82",
     "OS": "5966",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
@@ -19380,7 +19379,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5963",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -19399,7 +19398,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5963",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -19418,7 +19417,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -19437,7 +19436,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -19456,7 +19455,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -19475,7 +19474,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -19494,7 +19493,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
     "Unnamed: 16": null
@@ -19513,7 +19512,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -19532,7 +19531,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -19551,7 +19550,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -19646,7 +19645,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
     "Unnamed: 16": null
@@ -19665,7 +19664,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -19684,7 +19683,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -19703,7 +19702,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5965",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -19798,7 +19797,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
     "Unnamed: 16": null
@@ -19817,7 +19816,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -19836,7 +19835,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -19855,7 +19854,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5964",
     "Frente": "133 - FRENTE MANÉZÃO",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -19873,8 +19872,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -19892,8 +19891,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "17/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -19912,7 +19911,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -19931,7 +19930,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -20178,7 +20177,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -20197,7 +20196,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5962",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -20216,7 +20215,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -20235,7 +20234,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -20254,7 +20253,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
     "Unnamed: 16": null
@@ -20273,7 +20272,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
     "Unnamed: 16": null
@@ -20292,7 +20291,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -20311,7 +20310,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
     "Unnamed: 16": null
@@ -20330,7 +20329,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -20349,7 +20348,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -20520,7 +20519,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -20538,8 +20537,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -20634,7 +20633,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
     "Unnamed: 16": null
@@ -20653,7 +20652,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,835",
     "Unnamed: 16": null
@@ -20671,8 +20670,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -20690,8 +20689,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "16/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
     "Unnamed: 16": null
@@ -20710,7 +20709,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -20729,7 +20728,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
     "Unnamed: 16": null
@@ -20748,7 +20747,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
     "Unnamed: 16": null
@@ -20767,7 +20766,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
     "Unnamed: 16": null
@@ -20786,7 +20785,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
     "Unnamed: 16": null
@@ -20805,7 +20804,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
     "Unnamed: 16": null
@@ -20938,7 +20937,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
     "Unnamed: 16": null
@@ -20957,7 +20956,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
     "Unnamed: 16": null
@@ -21052,7 +21051,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
     "Unnamed: 16": null
@@ -21090,7 +21089,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS",
+    "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -21242,7 +21241,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
     "Unnamed: 16": null
@@ -21261,7 +21260,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
     "Unnamed: 16": null
@@ -21508,7 +21507,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
     "Unnamed: 16": null
@@ -21527,7 +21526,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -21546,7 +21545,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
     "Unnamed: 16": null
@@ -21565,7 +21564,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
     "Unnamed: 16": null
@@ -21584,7 +21583,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
     "Unnamed: 16": null
@@ -21603,7 +21602,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
     "Unnamed: 16": null
@@ -21622,7 +21621,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
     "Unnamed: 16": null
@@ -21641,7 +21640,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5778",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
     "Unnamed: 16": null
@@ -21659,7 +21658,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
@@ -21678,7 +21677,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
@@ -21697,7 +21696,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
@@ -21716,7 +21715,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "06/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
@@ -21736,7 +21735,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
     "Unnamed: 16": null
@@ -21755,7 +21754,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -21774,7 +21773,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -21793,7 +21792,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
     "Unnamed: 16": null
@@ -21811,7 +21810,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "353200 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
@@ -21830,7 +21829,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
@@ -21849,7 +21848,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
@@ -21868,7 +21867,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "05/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
@@ -21888,7 +21887,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
     "Unnamed: 16": null
@@ -21907,7 +21906,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
     "Unnamed: 16": null
@@ -21926,7 +21925,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
     "Unnamed: 16": null
@@ -21945,7 +21944,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,595",
     "Unnamed: 16": null
@@ -21964,7 +21963,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
     "Unnamed: 16": null
@@ -21983,7 +21982,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5628",
     "Frente": "101 - FRENTE MECANIZADA",
-    "Responsável": "FERNANDA DE SOUZA",
+    "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,645",
     "Unnamed: 16": null
@@ -22002,7 +22001,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
     "Unnamed: 16": null
@@ -22021,7 +22020,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
     "Unnamed: 16": null
@@ -22040,7 +22039,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
     "Unnamed: 16": null
@@ -22059,7 +22058,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5656",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
     "Unnamed: 16": null
@@ -22078,7 +22077,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
     "Unnamed: 16": null
@@ -22097,7 +22096,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -22116,7 +22115,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
     "Unnamed: 16": null
@@ -22135,7 +22134,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
     "Unnamed: 16": null
@@ -22154,7 +22153,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -22173,7 +22172,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -22192,7 +22191,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566 - 70420",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
     "Unnamed: 16": null
@@ -22211,7 +22210,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5645 - 70404",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -22229,7 +22228,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
@@ -22286,7 +22285,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
@@ -22363,7 +22362,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -22420,7 +22419,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
     "Unnamed: 16": null
@@ -22458,7 +22457,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -22477,7 +22476,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -22495,8 +22494,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
     "Unnamed: 16": null
@@ -22514,8 +22513,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
     "Unnamed: 16": null
@@ -22533,8 +22532,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491- 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -22552,8 +22551,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "29/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491 - 70417",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
     "Unnamed: 16": null
@@ -22572,7 +22571,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624- 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
     "Unnamed: 16": null
@@ -22591,7 +22590,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624- 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -22610,7 +22609,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624- 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
     "Unnamed: 16": null
@@ -22629,7 +22628,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624- 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
     "Unnamed: 16": null
@@ -22647,7 +22646,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625- 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
@@ -22704,7 +22703,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625- 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
@@ -22761,7 +22760,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625- 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
@@ -22780,7 +22779,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "04/02/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625- 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
@@ -22952,7 +22951,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
     "Unnamed: 16": null
@@ -22971,7 +22970,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -22990,7 +22989,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
     "Unnamed: 16": null
@@ -23009,7 +23008,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624 - 70411",
     "Frente": "142 - FRENTE BIDU",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
     "Unnamed: 16": null
@@ -23046,7 +23045,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "28/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625 - 70411",
-    "Frente": "135 - PEDRINHO",
+    "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
@@ -23066,7 +23065,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
     "Unnamed: 16": null
@@ -23085,7 +23084,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
     "Unnamed: 16": null
@@ -23104,7 +23103,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -23123,7 +23122,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5566",
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
-    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA",
+    "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -23256,7 +23255,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
     "Unnamed: 16": null
@@ -23275,7 +23274,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
     "Unnamed: 16": null
@@ -23294,7 +23293,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
     "Unnamed: 16": null
@@ -23313,7 +23312,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "132 - FRENTE PEDRINHO",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
     "Unnamed: 16": null
@@ -23522,7 +23521,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
     "Unnamed: 16": null
@@ -23541,7 +23540,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
     "Unnamed: 16": null
@@ -23560,7 +23559,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
     "Unnamed: 16": null
@@ -23579,7 +23578,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5624",
     "Frente": "122 - Frente  Bidu",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -23636,7 +23635,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
     "Unnamed: 16": null
@@ -23655,7 +23654,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5625",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
     "Unnamed: 16": null
@@ -23673,7 +23672,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
@@ -23692,7 +23691,7 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
+    "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
@@ -23749,8 +23748,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
     "Unnamed: 16": null
@@ -23768,8 +23767,8 @@ window.DOSAGEM_RAW_DATA = [
     "Data Lançamento": "22/01/2026",
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
-    "Frente": "291 - FRENTE PRÓPRIA",
-    "Responsável": "MICHELI DE SOUZA SANTOS",
+    "Frente": "291 - FRENTE PRÓPRIA ",
+    "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
     "Unnamed: 16": null
@@ -23788,7 +23787,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
     "Unnamed: 16": null
@@ -23807,7 +23806,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
     "Unnamed: 16": null
@@ -23864,7 +23863,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
     "Unnamed: 16": null
@@ -23883,7 +23882,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
     "Unnamed: 16": null
@@ -23902,7 +23901,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
     "Unnamed: 16": null
@@ -23921,7 +23920,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5491",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
     "Unnamed: 16": null
@@ -23940,7 +23939,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
     "Unnamed: 16": null
@@ -23959,7 +23958,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
     "Unnamed: 16": null
@@ -23978,7 +23977,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
     "Unnamed: 16": null
@@ -23997,7 +23996,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 2",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
     "Unnamed: 16": null
@@ -24016,7 +24015,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
     "Unnamed: 16": null
@@ -24035,7 +24034,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
     "Unnamed: 16": null
@@ -24054,7 +24053,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
     "Unnamed: 16": null
@@ -24073,7 +24072,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5426",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
     "Unnamed: 16": null
@@ -24092,7 +24091,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
     "Unnamed: 16": null
@@ -24111,7 +24110,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
     "Unnamed: 16": null
@@ -24130,7 +24129,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -24149,7 +24148,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
     "Unnamed: 16": null
@@ -24168,7 +24167,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
     "Unnamed: 16": null
@@ -24187,7 +24186,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5327",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,225",
     "Unnamed: 16": null
@@ -24206,7 +24205,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
     "Unnamed: 16": null
@@ -24225,7 +24224,7 @@ window.DOSAGEM_RAW_DATA = [
     "Local (Fazenda - Talhão)": "53201 > 1",
     "OS": "5427",
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "278400 - Vitor Amorim Ramos",
+    "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
     "Unnamed: 16": null
@@ -24245,7 +24244,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,685",
     "Unnamed: 16": null
   },
@@ -24264,7 +24263,7 @@ window.DOSAGEM_RAW_DATA = [
     "OS": "3444",
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta",
+    "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,715",
     "Unnamed: 16": null
   },
@@ -24304,6 +24303,158 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,19",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015740",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "29/10/2026 10:15",
+    "Latitude": "-20,89317000000000",
+    "Longitude": "-48,50174000000000",
+    "Data início": "29/10/2026 10:12",
+    "Data Fim": "29/10/2026 10:15",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2,09",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015776",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "29/10/2026 10:14",
+    "Latitude": "-20,89313000000000",
+    "Longitude": "-48,50175000000000",
+    "Data início": "29/10/2026 10:12",
+    "Data Fim": "29/10/2026 10:14",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2,09",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015739",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "29/10/2026 10:12",
+    "Latitude": "-20,89317000000000",
+    "Longitude": "-48,50175000000000",
+    "Data início": "29/10/2026 10:11",
+    "Data Fim": "29/10/2026 10:12",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2,18",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015775",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "29/10/2026 10:12",
+    "Latitude": "-20,89313000000000",
+    "Longitude": "-48,50175000000000",
+    "Data início": "29/10/2026 10:11",
+    "Data Fim": "29/10/2026 10:12",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2,18",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015738",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "29/10/2026 10:02",
+    "Latitude": "-20,89317000000000",
+    "Longitude": "-48,50170000000000",
+    "Data início": "29/10/2026 09:57",
+    "Data Fim": "29/10/2026 10:01",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5,41",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015737",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "29/10/2026 10:01",
+    "Latitude": "-20,89318000000000",
+    "Longitude": "-48,50172000000000",
+    "Data início": "29/10/2026 09:57",
+    "Data Fim": "29/10/2026 09:57",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5,635",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015774",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "29/10/2026 09:57",
+    "Latitude": "-20,89321000000000",
+    "Longitude": "-48,50164000000000",
+    "Data início": "29/10/2026 09:53",
+    "Data Fim": "29/10/2026 09:57",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5,41",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4015773",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "29/10/2026 09:53",
+    "Latitude": "-20,89321000000000",
+    "Longitude": "-48,50164000000000",
+    "Data início": "29/10/2026 09:52",
+    "Data Fim": "29/10/2026 09:53",
+    "Status": "Aberto",
+    "Score": "0,00",
+    "Data Lançamento": "29/10/2026",
+    "Local (Fazenda - Talhão)": "70426",
+    "OS": "3445",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5,635",
     "Unnamed: 16": null
   }
 ];
