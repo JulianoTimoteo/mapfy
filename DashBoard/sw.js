@@ -7,7 +7,7 @@
  * e auto-atualização imediata para dispositivos móveis (Android / iOS / PWA).
  */
 
-const CACHE_NAME = 'mapfy-sw-v2026.4-live';
+const CACHE_NAME = 'mapfy-sw-v2026.5-live';
 
 const CORE_ASSETS = [
     './index.html',

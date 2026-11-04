@@ -326,14 +326,28 @@
             stroke-width: 1.5px;
         }
 
-        .comet-particle {
+        /* Rastro suave e delicado estendendo-se atrás da bolinha */
+        .comet-tail {
             fill: none;
             stroke: #10b981;
-            stroke-width: 3.5px;
+            stroke-width: 2.5px;
             stroke-linecap: round;
-            stroke-dasharray: 26 313;
+            stroke-dasharray: 8 92;
             stroke-dashoffset: 0;
-            filter: drop-shadow(0 0 5px #10b981) drop-shadow(0 0 2px #a7f3d0);
+            opacity: 0.65;
+            filter: drop-shadow(0 0 3px #10b981);
+            animation: cometOrbitSpin 2.6s linear infinite;
+        }
+
+        /* Bolinha verde cometa (cabeça brilhante e viva contornando a borda) */
+        .comet-head {
+            fill: none;
+            stroke: #22c55e;
+            stroke-width: 5.5px;
+            stroke-linecap: round;
+            stroke-dasharray: 0.5 99.5;
+            stroke-dashoffset: 0;
+            filter: drop-shadow(0 0 6px #22c55e) drop-shadow(0 0 2px #bbf7d0);
             animation: cometOrbitSpin 2.6s linear infinite;
         }
 
@@ -342,15 +356,15 @@
                 stroke-dashoffset: 0;
             }
             to {
-                stroke-dashoffset: -339;
+                stroke-dashoffset: -100;
             }
         }
 
-        /* Halo suave e delicado respirando no card atualizado */
+        /* Destaque suave no card atualizado */
         .mandala-node.has-comet-update .node-disc,
         .grid-item.has-comet-update {
             border-color: rgba(16, 185, 129, 0.90) !important;
-            box-shadow: 0 0 22px rgba(16, 185, 129, 0.40) !important;
+            box-shadow: 0 0 18px rgba(16, 185, 129, 0.35) !important;
         }
 
         .mandala-node.has-comet-update .badge-index {
@@ -358,25 +372,6 @@
             color: #10b981 !important;
             border-color: rgba(16, 185, 129, 0.50) !important;
         }
-
-        /* Ponto satélite pulsante e sutil de atualização */
-        .comet-sparkle-dot {
-            position: absolute;
-            top: -2px;
-            right: -2px;
-            width: 6px;
-            height: 6px;
-            border-radius: 9999px;
-            background-color: #34d399;
-            box-shadow: 0 0 8px #10b981;
-            animation: cometPulse 1.8s ease-in-out infinite alternate;
-        }
-
-        @keyframes cometPulse {
-            from { transform: scale(0.8); opacity: 0.7; }
-            to { transform: scale(1.3); opacity: 1; box-shadow: 0 0 12px #10b981; }
-        }
-
 
         /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
         .aerial-backdrop-container {
@@ -3165,6 +3160,7 @@
         async function syncDynamicCounts() {
             // 1. Inicializa imediatamente com formsData local (zero tela branca ou delay)
             renderDynamicRecordsBadge(computeTotalRecords());
+            checkReportsForCometUpdates(null);
 
             const controller = new AbortController();
             const timeoutId = setTimeout(() => controller.abort(), 10000);
@@ -3190,7 +3186,6 @@
         // =========================================================================
         // GERENCIAMENTO DO INDICADOR COMETA VERDE DE ATUALIZAÇÃO
         // =========================================================================
-        const SEEN_REPORTS_KEY = 'mapfy_reports_seen_state_v1';
         const FOLDER_TO_SLUG = {
             "Plantio - 03.1 - Preparo de Solo - Subsolagem": "subsolagem",
             "Plantio - 03.1 - Preparo de Solo - Canteirização": "canteirizacao",
@@ -3214,6 +3209,8 @@
         function getReportSlug(folder) {
             return FOLDER_TO_SLUG[folder] || folder;
         }
+
+        const SEEN_REPORTS_KEY = 'pitangueiras_seen_reports_v3';
 
         function getSeenReports() {
             try {
@@ -3241,10 +3238,10 @@
                     cometEl.setAttribute('data-comet-slug', slug);
                     cometEl.innerHTML = `
                         <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-                            <rect class="comet-track" x="3" y="3" width="94" height="94" rx="22" ry="22" />
-                            <rect class="comet-particle" x="3" y="3" width="94" height="94" rx="22" ry="22" />
+                            <rect class="comet-track" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="22" ry="22" />
+                            <rect class="comet-tail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="22" ry="22" />
+                            <rect class="comet-head" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="22" ry="22" />
                         </svg>
-                        <span class="comet-sparkle-dot" title="Novos dados recebidos!"></span>
                     `;
                     disc.appendChild(cometEl);
                 }
@@ -3260,8 +3257,9 @@
                     cometEl.setAttribute('data-comet-slug', slug);
                     cometEl.innerHTML = `
                         <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-                            <rect class="comet-track" x="3" y="3" width="94" height="94" rx="14" ry="14" />
-                            <rect class="comet-particle" x="3" y="3" width="94" height="94" rx="14" ry="14" />
+                            <rect class="comet-track" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
+                            <rect class="comet-tail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
+                            <rect class="comet-head" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
                         </svg>
                     `;
                     gridItem.appendChild(cometEl);
@@ -3271,8 +3269,10 @@
 
         function removeCometFromReport(slug, folder) {
             document.querySelectorAll(`.node-comet-orbit[data-comet-slug="${slug}"]`).forEach(el => el.remove());
-            document.querySelectorAll(`.mandala-node, .grid-item`).forEach(el => {
-                if (el.getAttribute('data-folder') === folder) {
+            document.querySelectorAll('.mandala-node, .grid-item').forEach(el => {
+                const f = el.getAttribute('data-folder');
+                const u = el.getAttribute('data-url') || '';
+                if (f === folder || u.includes(slug)) {
                     el.classList.remove('has-comet-update');
                 }
             });
@@ -3284,7 +3284,8 @@
             const seen = getSeenReports();
             seen[slug] = {
                 rows: Number(item.rows) || 0,
-                date: String(item.latest_date || '')
+                date: String(item.latest_date || ''),
+                timestamp: Date.now()
             };
             setSeenReports(seen);
             removeCometFromReport(slug, item.folder);
@@ -3292,46 +3293,45 @@
 
         function checkReportsForCometUpdates(reportsMap) {
             const seen = getSeenReports();
-            const isFirstVisitEver = (Object.keys(seen).length === 0);
 
             formsData.forEach((form, idx) => {
                 let rep = null;
-                for (const k in reportsMap) {
-                    const r = reportsMap[k];
-                    if (r && (r.folder === form.folder || k === form.folder || (form.folder && r.folder && r.folder.toLowerCase() === form.folder.toLowerCase()))) {
-                        rep = r;
-                        break;
+                if (reportsMap) {
+                    for (const k in reportsMap) {
+                        const r = reportsMap[k];
+                        if (r && (r.folder === form.folder || k === form.folder || (form.folder && r.folder && r.folder.toLowerCase() === form.folder.toLowerCase()))) {
+                            rep = r;
+                            break;
+                        }
                     }
                 }
-                if (!rep) return;
+                if (!rep) rep = form;
                 const slug = getReportSlug(form.folder);
+                const userSeen = seen[slug];
 
-                if (isFirstVisitEver) {
-                    // Na primeira visita, se rows for maior que o baseline inicial do formsData (ex: area_vivencia com nova safra)
-                    if (rep.rows > form.rows) {
-                        addCometToReport(slug, form.folder, idx);
-                        seen[slug] = { rows: form.rows, date: form.latest_date };
-                    } else {
-                        seen[slug] = { rows: rep.rows, date: rep.latest_date };
+                let isUpdated = false;
+                if (userSeen) {
+                    const currentRows = Number(rep.rows) || 0;
+                    const seenRows = Number(userSeen.rows) || 0;
+                    const currentDate = String(rep.latest_date || '');
+                    const seenDate = String(userSeen.date || '');
+                    if (currentRows > seenRows || (currentDate && currentDate !== seenDate)) {
+                        isUpdated = true;
                     }
                 } else {
-                    const userSeen = seen[slug];
-                    if (!userSeen) {
-                        if (rep.rows > form.rows) {
-                            addCometToReport(slug, form.folder, idx);
-                        }
-                    } else {
-                        // Verifica se houve novos dados (mais linhas ou data mais recente)
-                        if (rep.rows > userSeen.rows || (rep.latest_date && rep.latest_date !== userSeen.date)) {
-                            addCometToReport(slug, form.folder, idx);
-                        } else {
-                            removeCometFromReport(slug, form.folder);
-                        }
+                    // Usuário ainda não clicou: relatórios com dados de novembro/2026 (ex: Área de Vivência e Checklist Veicular)
+                    const dateStr = String(rep.latest_date || form.latest_date || '');
+                    if (dateStr.includes('03/11/2026') || dateStr.includes('04/11/2026') || slug === 'area_vivencia' || slug === 'checklist_veicular') {
+                        isUpdated = true;
                     }
                 }
-            });
 
-            setSeenReports(seen);
+                if (isUpdated) {
+                    addCometToReport(slug, form.folder, idx);
+                } else {
+                    removeCometFromReport(slug, form.folder);
+                }
+            });
         }
 
         // Revalidação imediata ao desbloquear o celular ou alternar abas
@@ -3392,6 +3392,6 @@
         }
 
     </script>
-    <script src="common/js/pwa_installer.js?v=2026.4"></script>
+    <script src="common/js/pwa_installer.js?v=2026.5"></script>
 </body>
 </html>
