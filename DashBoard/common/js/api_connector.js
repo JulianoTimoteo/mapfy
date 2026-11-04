@@ -162,6 +162,16 @@
         setTimeout(initOnlineSync, 600);
     }
 
+    // Revalidação automática quando o usuário volta para o app no celular
+    document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') {
+            initOnlineSync();
+        }
+    });
+    window.addEventListener('focus', () => {
+        initOnlineSync();
+    });
+
     window.MapfyApiConnector = {
         fetchOnlineReportData,
         initOnlineSync

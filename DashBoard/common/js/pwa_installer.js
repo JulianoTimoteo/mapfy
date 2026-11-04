@@ -1,43 +1,114 @@
 /**
- * MapFy 2026 - PWA Instant Installer
+ * MapFy 2026 - PWA Instant Installer & Mobile Lifecycle Controller
  * Usina Pitangueiras • Safra 2026
  *
- * Exibe convite de instalação direta em dispositivos móveis durante exatamente 3 segundos.
- * Instalação imediata com 1 clique (sem necessidade de menu de 3 pontinhos ou tutoriais manuais).
- * Se instalado ou clicado, nunca mais é exibido.
+ * Funcionalidades:
+ * 1. Auto-atualização transparente e agressiva para dispositivos móveis (Android / iOS).
+ * 2. Detecção e revalidação ao desbloquear celular ou alternar abas (visibilitychange / focus).
+ * 3. Função universal de forçar sincronização imediata (window.forceMapfyUpdate).
+ * 4. Convite de instalação direta em 1 clique (3 segundos de exibição).
  */
 (function () {
     'use strict';
 
-    // 1. Registro automático do Service Worker
+    // 1. Registro e Gerenciamento Ativo do Service Worker
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
             const swPath = window.location.pathname.includes('/DashBoard/') && !window.location.pathname.endsWith('/DashBoard/') && !window.location.pathname.endsWith('/index.html')
                 ? '../sw.js'
                 : './sw.js';
-            navigator.serviceWorker.register(swPath).catch(() => {});
+
+            navigator.serviceWorker.register(swPath).then((reg) => {
+                // Força busca imediata de novas versões no servidor
+                try { reg.update(); } catch (e) {}
+
+                reg.onupdatefound = () => {
+                    const installing = reg.installing;
+                    if (installing) {
+                        installing.onstatechange = () => {
+                            if (installing.state === 'installed' && navigator.serviceWorker.controller) {
+                                console.log('[Mapfy PWA] Nova versão disponível. Atualizando celular...');
+                                window.location.reload();
+                            }
+                        };
+                    }
+                };
+            }).catch(() => {});
+        });
+
+        let refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+            if (!refreshing) {
+                refreshing = true;
+                window.location.reload();
+            }
         });
     }
 
-    // 2. Verificação de instalação prévia
+    // 2. Revalidação Imediata ao Desbloquear o Celular ou Voltar para o App
+    function revalidateOnResume() {
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistration().then((reg) => {
+                if (reg) {
+                    try { reg.update(); } catch (e) {}
+                }
+            }).catch(() => {});
+        }
+
+        // Se estiver no Hub Mandala
+        if (typeof window.syncDynamicCounts === 'function') {
+            try { window.syncDynamicCounts(); } catch (e) {}
+        }
+
+        // Se estiver em um sub-relatório
+        if (window.MapfyApiConnector && typeof window.MapfyApiConnector.initOnlineSync === 'function') {
+            try { window.MapfyApiConnector.initOnlineSync(); } catch (e) {}
+        }
+    }
+
+    document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') {
+            revalidateOnResume();
+        }
+    });
+    window.addEventListener('focus', revalidateOnResume);
+
+    // 3. Função Universal de Forçar Limpeza de Cache no Celular
+    window.forceMapfyUpdate = async function () {
+        try {
+            if ('caches' in window) {
+                const keys = await caches.keys();
+                await Promise.all(keys.map(k => caches.delete(k)));
+            }
+            if ('serviceWorker' in navigator) {
+                const reg = await navigator.serviceWorker.getRegistration();
+                if (reg && reg.active) {
+                    reg.active.postMessage({ action: 'CLEAR_CACHE_AND_RELOAD' });
+                }
+            }
+        } catch (e) {}
+
+        const cleanUrl = window.location.pathname.split('?')[0];
+        window.location.href = cleanUrl + '?v=' + Date.now();
+    };
+
+    // 4. Verificação de Instalação PWA
     const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
     const isAlreadyInstalled = localStorage.getItem('mapfy_pwa_installed') === 'true';
 
     if (isStandalone || isAlreadyInstalled) {
-        return; // Usuário já está no aplicativo ou já realizou a instalação
+        return;
     }
 
     let deferredPrompt = null;
     let installBannerTimer = null;
 
-    // Captura o evento nativo do navegador para instalação em 1 clique
     window.addEventListener('beforeinstallprompt', (e) => {
         e.preventDefault();
         deferredPrompt = e;
         triggerAutoInstallToast();
     });
 
-    // Fallback para dispositivos móveis onde o evento possa atrasar ou em iOS
     window.addEventListener('DOMContentLoaded', () => {
         setTimeout(() => {
             if (!deferredPrompt && !isStandalone && !isAlreadyInstalled && isMobileDevice()) {
@@ -54,25 +125,8 @@
         if (document.getElementById('mapfy-pwa-install-toast')) return;
         if (localStorage.getItem('mapfy_pwa_installed') === 'true') return;
 
-        const isRelatorio = window.location.pathname.includes('/subsolagem/') ||
-                            window.location.pathname.includes('/canteirizacao/') ||
-                            window.location.pathname.includes('/sulcacao/') ||
-                            window.location.pathname.includes('/dosagem_sulco/') ||
-                            window.location.pathname.includes('/abertura_asa/') ||
-                            window.location.pathname.includes('/paralelismo/') ||
-                            window.location.pathname.includes('/qualidade_muda/') ||
-                            window.location.pathname.includes('/viabilidade_gemas/') ||
-                            window.location.pathname.includes('/qualidade_cana/') ||
-                            window.location.pathname.includes('/dosagem_cobricao/') ||
-                            window.location.pathname.includes('/cobricao/') ||
-                            window.location.pathname.includes('/arremate_acabamento/') ||
-                            window.location.pathname.includes('/herbicida/') ||
-                            window.location.pathname.includes('/broca_armadilha/') ||
-                            window.location.pathname.includes('/checklist_veicular/') ||
-                            window.location.pathname.includes('/area_vivencia/') ||
-                            window.location.pathname.includes('/tpl_5s/');
-
-        const logoPath = isRelatorio ? 'assets/logo_pitangueiras.png' : 'assets/logo_pitangueiras.png';
+        const isRelatorio = window.location.pathname.includes('/DashBoard/') && !window.location.pathname.endsWith('/DashBoard/') && !window.location.pathname.endsWith('/index.html');
+        const logoPath = isRelatorio ? '../assets/logo_pitangueiras.png' : 'assets/logo_pitangueiras.png';
 
         const toast = document.createElement('div');
         toast.id = 'mapfy-pwa-install-toast';
@@ -142,30 +196,22 @@
 
         document.body.appendChild(toast);
 
-        // Animação de entrada imediata
         requestAnimationFrame(() => {
             toast.style.transform = 'translateY(0)';
             toast.style.opacity = '1';
         });
 
-        // REGRA MANDATÓRIA: Exibir durante exatamente 3 segundos e sumir
         installBannerTimer = setTimeout(() => {
             dismissToast(toast);
         }, 3000);
 
-        // Ação imediata de instalação ao clicar
         const btnInstall = toast.querySelector('#btnPwaActionInstall');
         if (btnInstall) {
             btnInstall.addEventListener('click', async (e) => {
                 e.preventDefault();
                 e.stopPropagation();
-
-                // Cancela o timer para não fechar no meio da ação
                 if (installBannerTimer) clearTimeout(installBannerTimer);
-
-                // Marca imediatamente para NUNCA mais exibir
                 localStorage.setItem('mapfy_pwa_installed', 'true');
-
                 btnInstall.innerHTML = '<span>⏳</span><span>Instalando...</span>';
 
                 if (deferredPrompt) {
@@ -175,8 +221,6 @@
                         deferredPrompt = null;
                     } catch (err) {}
                 }
-
-                // Remove o banner com suavidade
                 dismissToast(toast);
             });
         }

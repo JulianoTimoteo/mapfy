@@ -54,8 +54,15 @@
         try {
             if (!window.MapfyApiConnector && !document.querySelector('script[src*="api_connector.js"]')) {
                 const s = document.createElement('script');
-                s.src = '../common/js/api_connector.js';
+                s.src = '../common/js/api_connector.js?v=2026.4';
                 document.head.appendChild(s);
+            }
+        } catch (e) {}
+        try {
+            if (!document.querySelector('script[src*="pwa_installer.js"]')) {
+                const sp = document.createElement('script');
+                sp.src = '../common/js/pwa_installer.js?v=2026.4';
+                document.head.appendChild(sp);
             }
         } catch (e) {}
         try { setupModalZIndexWatcher(); } catch (e) { console.warn('[Pitangueiras] setupModalZIndexWatcher error:', e); }
@@ -1383,6 +1390,25 @@
         updateProgress();
         if (!window._timer247Widget) {
             window._timer247Widget = setInterval(updateProgress, 1000);
+        }
+
+        const badge = document.getElementById('badgeStatus247');
+        if (badge && !badge._hasSyncClick) {
+            badge._hasSyncClick = true;
+            badge.style.cursor = 'pointer';
+            badge.addEventListener('click', (e) => {
+                e.preventDefault();
+                badge.style.transform = 'scale(0.92)';
+                setTimeout(() => { badge.style.transform = ''; }, 200);
+
+                if (window.MapfyApiConnector && typeof window.MapfyApiConnector.initOnlineSync === 'function') {
+                    window.MapfyApiConnector.initOnlineSync();
+                }
+                if (window.forceMapfyUpdate && typeof window.forceMapfyUpdate === 'function') {
+                    // Feedback sutil
+                    console.log('[MapFy] Sincronização forçada pelo usuário');
+                }
+            });
         }
     }
 
