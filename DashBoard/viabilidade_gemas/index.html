@@ -157,6 +157,24 @@
 
                 <!-- Exportações -->
                 <div class="inline-flex items-center gap-1">
+
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px] transition-transform duration-300"></i>
+                    </button>
+
+
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px] transition-transform duration-300"></i>
+                    </button>
+
                     <button onclick="exportToExcel()" class="px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 hover:border-emerald-500 transition-colors shadow-sm"
                             style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
                             title="Exportar dados filtrados para planilha Excel (.xlsx)">
@@ -187,6 +205,21 @@
 
                 <!-- Toggle Tema Claro/Escuro -->
             </div>
+
+            <!-- Barra de Resumo Compacta para Mobile (<= 768px) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden w-full max-w-[1920px] mx-auto px-4">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Filtros Configurados</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            </div>
+
+            <!-- Container Colapsável dos Filtros para Mobile -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
+
             
         <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2.5 items-end text-xs">
@@ -292,9 +325,43 @@
                     </button>
                 </div>
 
+            
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2 w-full max-w-[1920px] mx-auto px-4" style="border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center text-slate-400 m-0">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2 w-full max-w-[1920px] mx-auto px-4" style="border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center text-slate-400 m-0">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
             </div>
         </div>
     </section>
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
+
+    
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
 
     <!-- 3. CONTEÚDO PRINCIPAL (DASHBOARD EXECUTIVO) -->
     <main class="flex-1 w-full max-w-[1920px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">

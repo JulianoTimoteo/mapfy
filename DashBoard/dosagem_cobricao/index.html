@@ -129,13 +129,18 @@
     </div>
 
     <!-- Painel de Filtros Reativos -->
-    <section class="filters-container">
+    <section class="filters-container" id="filterSection">
         <div class="filters-card">
             <div class="filters-header">
                 <div class="filters-title">
                     <span>🔍</span> Filtros Operacionais & Seleção de Período
                 </div>
                 <div class="filters-actions">
+                    <button id="btnToggleFilterMobile" type="button" class="btn-toggle-filters-mobile md:hidden" title="Alternar filtros no celular">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px]"></i>
+                    </button>
                     <button id="btnVerTodoHistorico" class="btn-filter-action" title="Exibe todo o histórico de dados de 2026">
                         📅 Ver Todo o Histórico
                     </button>
@@ -144,7 +149,19 @@
                     </button>
                 </div>
             </div>
+            <!-- Barra de Resumo Compacta para Mobile (<= 768px) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Histórico Completo</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            </div>
 
+            <!-- Container Colapsável dos Filtros para Mobile -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
             <div class="filters-grid">
                 <div class="filter-group">
                     <label class="filter-label" for="filterDateExact">Data Específica</label>
@@ -202,8 +219,24 @@
                     <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Apenas Pontos Georreferenciados</span>
                 </label>
             </div>
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2" style="border-color: var(--border-color);">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center" style="color: var(--text-muted); margin: 0;">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            </div>
         </div>
     </section>
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
 
     <!-- Cards de KPIs Executivos -->
     <section class="kpis-container">

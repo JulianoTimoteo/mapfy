@@ -42,6 +42,7 @@
         try { setupUniversalTableFilterClearButtons(); } catch (e) { console.warn('[Pitangueiras] setupUniversalTableFilterClearButtons error:', e); }
         try { setupUniversalItemInfoSystem(); } catch (e) { console.warn('[Pitangueiras] setupUniversalItemInfoSystem error:', e); }
         try { setupAutoDismissNoticeBanners(); } catch (e) { console.warn('[Pitangueiras] setupAutoDismissNoticeBanners error:', e); }
+        try { setupUniversalMobileFilters(); } catch (e) { console.warn('[Pitangueiras] setupUniversalMobileFilters error:', e); }
         try { setupUniversalPWAInstaller(); } catch (e) {}
         try { setupPwaSupport(); } catch (e) {}
         try {
@@ -1414,50 +1415,169 @@
 
 
     // =========================================================================
-    // 6. AUTO-DISMISS DE BANNERS E AVISOS CONTEXTUAIS (5 SEGUNDOS)
+    // 6. AUTO-DISMISS DE NOTAS TÉCNICAS E BANNERS (10 SEGUNDOS COM PROGRESSO)
+    // Usina Pitangueiras • Safra 2026
     // =========================================================================
     function setupAutoDismissNoticeBanners() {
-        const banners = document.querySelectorAll('#noticeBrocaBanner, [id*="notice"], [id*="Notice"], [class*="notice-card"], .context-banner');
+        const selector = [
+            '.technical-notice-banner',
+            '.notice-box',
+            '#noticeBrocaBanner',
+            '#initialNoticeBanner',
+            '[id*="noticeBroca"]',
+            '[id*="initialNotice"]',
+            '[class*="technical-notice"]',
+            '[class*="notice-card"]',
+            '.context-banner'
+        ].join(', ');
+
+        const banners = document.querySelectorAll(selector);
         banners.forEach(banner => {
+            // Se for um container pai já sendo controlado ou filho direto de notice-box já controlado, evita duplicar
             if (banner._dismissTimerInitialized) return;
+            if (banner.classList.contains('notice-box') && banner.parentElement && banner.parentElement.classList.contains('technical-notice-banner')) {
+                return; // Trata apenas no container pai
+            }
             banner._dismissTimerInitialized = true;
 
-            // Transição suave
-            banner.style.transition = 'all 0.6s cubic-bezier(0.4, 0, 0.2, 1)';
+            // Garante posição relativa para ancorar a barra de progresso e botão fechar
+            banner.style.position = 'relative';
+            banner.style.overflow = 'hidden';
+            banner.style.boxSizing = 'border-box';
 
-            // Botão manual de fechar caso não exista
-            if (!banner.querySelector('.btn-dismiss-banner')) {
+            // Armazena altura natural antes de colapsar
+            const naturalHeight = banner.scrollHeight || 180;
+            banner.style.maxHeight = (naturalHeight + 60) + 'px';
+
+            // 1. Botão manual de fechar (✕) no canto superior direito
+            if (!banner.querySelector('.btn-dismiss-notice')) {
                 const closeBtn = document.createElement('button');
                 closeBtn.type = 'button';
-                closeBtn.className = 'btn-dismiss-banner';
-                closeBtn.title = 'Fechar aviso agora';
+                closeBtn.className = 'btn-dismiss-notice';
+                closeBtn.title = 'Fechar aviso agora (ou aguarde 10 segundos)';
                 closeBtn.innerHTML = '✕';
-                closeBtn.style.cssText = 'position:absolute; top:8px; right:10px; background:transparent; border:none; color:#94a3b8; font-size:14px; font-weight:bold; cursor:pointer; padding:4px 8px; border-radius:6px;';
-                closeBtn.onclick = () => dismissBanner(banner);
-                banner.style.position = 'relative';
+                closeBtn.onclick = (e) => {
+                    e.stopPropagation();
+                    dismissNoticeBanner(banner, true);
+                };
                 banner.appendChild(closeBtn);
             }
 
-            // Timer automático de 5 segundos
-            setTimeout(() => {
-                dismissBanner(banner);
-            }, 5000);
+            // 2. Barra de progresso visual de 10 segundos
+            let timerBar = banner.querySelector('.notice-timer-bar');
+            if (!timerBar) {
+                timerBar = document.createElement('div');
+                timerBar.className = 'notice-timer-bar';
+                banner.appendChild(timerBar);
+            }
+
+            // Inicia animação da barra de progresso (100% -> 0% em 10s)
+            requestAnimationFrame(() => {
+                timerBar.style.width = '100%';
+                setTimeout(() => {
+                    timerBar.style.width = '0%';
+                }, 50);
+            });
+
+            // 3. Controle do Timer de 10 segundos (10000ms) com Pause no Hover/Touch
+            const DURATION_MS = 10000;
+            let remainingMs = DURATION_MS;
+            let timerStartTime = Date.now();
+            let timeoutId = null;
+
+            function startTimer(ms) {
+                timerStartTime = Date.now();
+                timeoutId = setTimeout(() => {
+                    dismissNoticeBanner(banner, false);
+                }, ms);
+            }
+
+            function pauseTimer() {
+                if (timeoutId) {
+                    clearTimeout(timeoutId);
+                    timeoutId = null;
+                    const elapsed = Date.now() - timerStartTime;
+                    remainingMs = Math.max(500, remainingMs - elapsed);
+                    if (timerBar) {
+                        const currentWidth = (remainingMs / DURATION_MS) * 100;
+                        timerBar.style.transition = 'none';
+                        timerBar.style.width = currentWidth + '%';
+                        timerBar.classList.add('paused');
+                    }
+                }
+            }
+
+            function resumeTimer() {
+                if (!timeoutId && remainingMs > 0 && !banner.classList.contains('is-dismissed')) {
+                    if (timerBar) {
+                        timerBar.classList.remove('paused');
+                        timerBar.style.transition = `width ${remainingMs}ms linear`;
+                        timerBar.style.width = '0%';
+                    }
+                    startTimer(remainingMs);
+                }
+            }
+
+            banner.addEventListener('mouseenter', pauseTimer);
+            banner.addEventListener('mouseleave', resumeTimer);
+            banner.addEventListener('touchstart', pauseTimer, { passive: true });
+            banner.addEventListener('touchend', resumeTimer, { passive: true });
+
+            startTimer(DURATION_MS);
         });
     }
 
-    function dismissBanner(banner) {
+    function dismissNoticeBanner(banner, isManual) {
+        if (!banner || banner.classList.contains('is-dismissed')) return;
+        banner.classList.add('is-dismissed');
+
+        // Cria botão/pílula de reabertura para que o usuário nunca perca o acesso à nota técnica
+        createReopenNoticePill(banner);
+
+        setTimeout(() => {
+            banner.style.display = 'none';
+        }, 700);
+    }
+
+    function reopenNoticeBanner(banner, reopenPill) {
         if (!banner) return;
-        banner.style.opacity = '0';
-        banner.style.transform = 'translateY(-10px)';
-        banner.style.maxHeight = banner.scrollHeight + 'px';
-        requestAnimationFrame(() => {
-            banner.style.maxHeight = '0px';
-            banner.style.paddingTop = '0px';
-            banner.style.paddingBottom = '0px';
-            banner.style.marginTop = '0px';
-            banner.style.marginBottom = '0px';
-            banner.style.overflow = 'hidden';
-        });
+        banner.style.display = '';
+        banner.classList.remove('is-dismissed');
+        const timerBar = banner.querySelector('.notice-timer-bar');
+        if (timerBar) timerBar.style.display = 'none'; // Não auto-destrói quando o usuário reabre manualmente
+
+        const naturalHeight = banner.scrollHeight || 180;
+        banner.style.maxHeight = (naturalHeight + 60) + 'px';
+
+        if (reopenPill && reopenPill.parentElement) {
+            reopenPill.parentElement.removeChild(reopenPill);
+        }
+    }
+
+    function createReopenNoticePill(banner) {
+        if (document.querySelector('.btn-reopen-technical-notice')) return;
+
+        const pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = 'btn-reopen-technical-notice';
+        pill.innerHTML = `<span>ℹ️</span> <span>Nota Técnica Operacional</span>`;
+        pill.title = 'Reexibir a Nota Técnica Operacional e Metodologia Estatística';
+        pill.onclick = () => reopenNoticeBanner(banner, pill);
+
+        // Tenta ancorar no cabeçalho ou logo após a barra de resumo de filtros
+        const filterSection = document.getElementById('filterSection') || document.querySelector('.filters-container') || document.querySelector('section');
+        const summaryBar = document.getElementById('mobileFilterSummaryBar');
+        const header = document.querySelector('header');
+
+        if (summaryBar && summaryBar.parentElement) {
+            summaryBar.parentElement.insertBefore(pill, summaryBar.nextSibling);
+        } else if (filterSection && filterSection.parentElement) {
+            filterSection.parentElement.insertBefore(pill, filterSection);
+        } else if (header && header.parentElement) {
+            header.parentElement.insertBefore(pill, header.nextSibling);
+        } else {
+            document.body.insertBefore(pill, document.body.firstChild);
+        }
     }
 
     // =========================================================================
@@ -1476,4 +1596,258 @@
             document.head.appendChild(m);
         }
     }
+
+
+    // =========================================================================
+    // 8. GERENCIADOR UNIVERSAL DE FILTROS RETRÁTEIS PARA CELULAR (<= 768px)
+    // Garante que TODOS os 17 dashboards ocultem os filtros no mobile para
+    // priorizar mapas e KPIs, com barra de resumo, toggle e botão flutuante.
+    // Usina Pitangueiras • Safra 2026
+    // =========================================================================
+    function setupUniversalMobileFilters() {
+        // Encontra o container de filtros do dashboard atual
+        const filterSection = document.getElementById('filterSection') || 
+                              document.querySelector('.filters-container') ||
+                              document.querySelector('.filters-card') ||
+                              document.querySelector('section.p-4.rounded-2xl') ||
+                              document.querySelector('main > section:first-of-type') ||
+                              document.querySelector('div.bg-white.dark\\:bg-slate-800');
+
+        if (!filterSection) return;
+
+        // Se já foi totalmente inicializado nativamente pelo HTML do dashboard
+        const existingCollapsible = filterSection.querySelector('.filter-collapsible-body');
+        const existingToggle = filterSection.querySelector('#btnToggleFilterMobile') || filterSection.querySelector('.btn-toggle-filters-mobile');
+        const existingApply = filterSection.querySelector('#btnMobileApplyAndHide') || filterSection.querySelector('.btn-apply-filters-mobile');
+
+        // Se o dashboard já tem a estrutura completa, apenas garante a amarração de eventos caso necessário
+        if (existingCollapsible && existingToggle) {
+            bindCollapsibleEvents(filterSection, existingToggle, existingCollapsible, existingApply);
+            setupFloatingFilterButton(filterSection, existingCollapsible);
+            return;
+        }
+
+        // Caso o dashboard ainda não tenha o wrapper colapsável inserido no HTML, monta dinamicamente:
+        const header = filterSection.querySelector('.filters-header') || 
+                       filterSection.querySelector('div.flex.items-center.justify-between') ||
+                       filterSection.firstElementChild;
+
+        if (!header) return;
+
+        // 1. Cria ou reutiliza Botão Toggle no cabeçalho
+        let toggleBtn = existingToggle;
+        if (!toggleBtn) {
+            toggleBtn = document.createElement('button');
+            toggleBtn.id = 'btnToggleFilterMobile';
+            toggleBtn.type = 'button';
+            toggleBtn.className = 'btn-toggle-filters-mobile md:hidden';
+            toggleBtn.innerHTML = `<i class="fa-solid fa-sliders text-[11px]"></i> <span class="toggle-text">Ajustar Filtros</span> <i class="fa-solid fa-chevron-down chevron text-[10px]"></i>`;
+            toggleBtn.title = 'Alternar visibilidade dos filtros';
+
+            // Insere no canto direito do cabeçalho
+            const actionsDiv = header.querySelector('.filters-actions') || 
+                               header.querySelector('div.flex.items-center:last-child') || 
+                               header;
+            if (actionsDiv && actionsDiv !== header) {
+                actionsDiv.insertBefore(toggleBtn, actionsDiv.firstChild);
+            } else {
+                header.appendChild(toggleBtn);
+            }
+        }
+
+        // 2. Cria Barra de Resumo Compacta para Mobile
+        let summaryBar = filterSection.querySelector('#mobileFilterSummaryBar');
+        if (!summaryBar) {
+            summaryBar = document.createElement('div');
+            summaryBar.id = 'mobileFilterSummaryBar';
+            summaryBar.className = 'mobile-filter-summary-bar md:hidden';
+            summaryBar.innerHTML = `
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Filtros Ativos</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            `;
+            header.insertAdjacentElement('afterend', summaryBar);
+        }
+
+        // 3. Agrupa todos os elementos de filtros posteriores ao header em .filter-collapsible-body
+        let collapsibleBody = existingCollapsible;
+        if (!collapsibleBody) {
+            collapsibleBody = document.createElement('div');
+            collapsibleBody.id = 'filterCollapsibleBody';
+            collapsibleBody.className = 'filter-collapsible-body is-collapsed';
+
+            // Move todos os filhos que estavam abaixo do header (e summary bar) para dentro do collapsibleBody
+            const childrenToMove = [];
+            let nextEl = summaryBar.nextElementSibling;
+            while (nextEl) {
+                if (!nextEl.classList.contains('mobile-floating-filter-btn')) {
+                    childrenToMove.push(nextEl);
+                }
+                nextEl = nextEl.nextElementSibling;
+            }
+
+            childrenToMove.forEach(child => collapsibleBody.appendChild(child));
+            filterSection.appendChild(collapsibleBody);
+
+            // 4. Adiciona o botão de fechar e aplicar no rodapé dos filtros
+            const applyFooter = document.createElement('div');
+            applyFooter.className = 'md:hidden pt-3 border-t flex flex-col gap-2';
+            applyFooter.style.borderColor = 'var(--border-color, rgba(148, 163, 184, 0.2))';
+            applyFooter.innerHTML = `
+                <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                    <span>✓</span>
+                    <span>Aplicar e Ocultar Filtros</span>
+                </button>
+                <p class="text-[10px] text-center" style="color: var(--text-muted, #94a3b8); margin: 0;">
+                    Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                </p>
+            `;
+            collapsibleBody.appendChild(applyFooter);
+        }
+
+        const applyBtn = collapsibleBody.querySelector('#btnMobileApplyAndHide') || collapsibleBody.querySelector('.btn-apply-filters-mobile');
+        bindCollapsibleEvents(filterSection, toggleBtn, collapsibleBody, applyBtn, summaryBar);
+        setupFloatingFilterButton(filterSection, collapsibleBody);
+        setupSummarySync(filterSection);
+    }
+
+    function bindCollapsibleEvents(filterSection, toggleBtn, collapsibleBody, applyBtn, summaryBar) {
+        if (toggleBtn._hasCollapsibleListener) return;
+        toggleBtn._hasCollapsibleListener = true;
+
+        const chevron = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('.fa-chevron-down');
+        const textSpan = toggleBtn.querySelector('.toggle-text') || toggleBtn.querySelector('#toggleFilterMobileText');
+
+        function toggle(forceExpand) {
+            const isCurrentlyCollapsed = collapsibleBody.classList.contains('is-collapsed');
+            const shouldExpand = (typeof forceExpand === 'boolean') ? forceExpand : isCurrentlyCollapsed;
+
+            if (shouldExpand) {
+                collapsibleBody.classList.remove('is-collapsed');
+                collapsibleBody.classList.add('is-expanded');
+                toggleBtn.classList.add('is-expanded');
+                if (chevron) chevron.style.transform = 'rotate(180deg)';
+                if (textSpan) textSpan.textContent = 'Ocultar Filtros';
+            } else {
+                collapsibleBody.classList.add('is-collapsed');
+                collapsibleBody.classList.remove('is-expanded');
+                toggleBtn.classList.remove('is-expanded');
+                if (chevron) chevron.style.transform = 'rotate(0deg)';
+                if (textSpan) textSpan.textContent = 'Ajustar Filtros';
+            }
+        }
+
+        toggleBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            toggle();
+        });
+
+        if (summaryBar) {
+            summaryBar.addEventListener('click', (e) => {
+                e.preventDefault();
+                toggle(true);
+            });
+        }
+
+        if (applyBtn) {
+            applyBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                toggle(false);
+
+                // Rolagem suave até a seção de KPIs logo abaixo
+                setTimeout(() => {
+                    const nextSection = filterSection.nextElementSibling;
+                    if (nextSection) {
+                        nextSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                }, 100);
+            });
+        }
+
+        // Listener de resize para restaurar o estado limpo caso o usuário gire o celular ou mude para desktop
+        window.addEventListener('resize', () => {
+            if (window.innerWidth > 768) {
+                collapsibleBody.classList.remove('is-collapsed');
+                collapsibleBody.classList.remove('is-expanded');
+            } else {
+                if (!collapsibleBody.classList.contains('is-expanded')) {
+                    collapsibleBody.classList.add('is-collapsed');
+                }
+            }
+        });
+    }
+
+    function setupFloatingFilterButton(filterSection, collapsibleBody) {
+        let floatingBtn = document.getElementById('mobileFloatingFilterBtn');
+        if (!floatingBtn) {
+            floatingBtn = document.createElement('button');
+            floatingBtn.id = 'mobileFloatingFilterBtn';
+            floatingBtn.type = 'button';
+            floatingBtn.className = 'mobile-floating-filter-btn hidden-floating md:hidden';
+            floatingBtn.innerHTML = `<i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>`;
+            floatingBtn.title = 'Ajustar filtros operacionais';
+            document.body.appendChild(floatingBtn);
+        }
+
+        if (!floatingBtn._hasScrollListener) {
+            floatingBtn._hasScrollListener = true;
+
+            floatingBtn.addEventListener('click', () => {
+                // Expande os filtros e rola suavemente até o topo
+                if (collapsibleBody) {
+                    collapsibleBody.classList.remove('is-collapsed');
+                    collapsibleBody.classList.add('is-expanded');
+                }
+                const toggleBtn = filterSection.querySelector('#btnToggleFilterMobile') || filterSection.querySelector('.btn-toggle-filters-mobile');
+                if (toggleBtn) {
+                    toggleBtn.classList.add('is-expanded');
+                    const chevron = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('.fa-chevron-down');
+                    if (chevron) chevron.style.transform = 'rotate(180deg)';
+                }
+                filterSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            });
+
+            window.addEventListener('scroll', () => {
+                if (window.innerWidth > 768) {
+                    floatingBtn.classList.add('hidden-floating');
+                    return;
+                }
+                const filterRect = filterSection.getBoundingClientRect();
+                // Mostra o botão flutuante quando o usuário rolou além do painel de filtros
+                if (filterRect.bottom < 60) {
+                    floatingBtn.classList.remove('hidden-floating');
+                } else {
+                    floatingBtn.classList.add('hidden-floating');
+                }
+            }, { passive: true });
+        }
+    }
+
+    function setupSummarySync(filterSection) {
+        function updateSummary() {
+            const countEl = document.getElementById('lblFilteredCount') || 
+                            document.getElementById('lblTotalCount') ||
+                            document.getElementById('kpiTotalRegistros') ||
+                            document.getElementById('cardTotalMedicoes') ||
+                            document.getElementById('filteredCountInfo');
+            
+            const summaryCount = document.getElementById('mobileSummaryCountText');
+            if (countEl && summaryCount) {
+                const text = countEl.textContent.trim();
+                const num = text.replace(/\D+/g, '');
+                if (num) {
+                    summaryCount.textContent = `${num} medições no filtro`;
+                }
+            }
+        }
+
+        setInterval(updateSummary, 2000);
+        filterSection.addEventListener('change', () => setTimeout(updateSummary, 200));
+        filterSection.addEventListener('input', () => setTimeout(updateSummary, 200));
+    }
+
 })();

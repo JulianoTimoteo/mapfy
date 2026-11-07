@@ -1636,3 +1636,253 @@ html.dark [class*="text-slate-500"] {
         display: none !important;
     }
 }
+
+/* ==========================================================================
+   AUTO-DISMISS TECHNICAL NOTICE BANNERS (10 SEGUNDOS) + PROGRESS BAR
+   Usina Pitangueiras • Safra 2026
+   ========================================================================== */
+.technical-notice-banner,
+.notice-box,
+#noticeBrocaBanner,
+#initialNoticeBanner,
+.context-banner,
+.notice-banner,
+.technical-notice-card {
+    position: relative !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+    transition: opacity 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                max-height 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                margin 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                padding 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.65s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.technical-notice-banner.is-dismissed,
+.notice-box.is-dismissed,
+#noticeBrocaBanner.is-dismissed,
+#initialNoticeBanner.is-dismissed,
+.context-banner.is-dismissed,
+.notice-banner.is-dismissed,
+.technical-notice-card.is-dismissed {
+    opacity: 0 !important;
+    max-height: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    pointer-events: none !important;
+    border-width: 0 !important;
+    border-color: transparent !important;
+    transform: translateY(-8px) scale(0.98) !important;
+}
+
+/* Barra de progresso visual de 10s no rodapé do aviso técnico */
+.notice-timer-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #10b981, #059669);
+    width: 100%;
+    transition: width 10s linear;
+    border-radius: 0 0 8px 8px;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.notice-timer-bar.paused {
+    transition: none !important;
+}
+
+/* Botão manual de fechar no canto superior direito */
+.btn-dismiss-notice {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background: transparent;
+    border: none;
+    color: var(--text-muted, #94a3b8);
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 3px 8px;
+    border-radius: 6px;
+    line-height: 1;
+    transition: all 0.2s ease;
+    z-index: 20;
+}
+.btn-dismiss-notice:hover {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.12);
+}
+
+/* Pílula / Botão de Reabrir a Nota Técnica após o auto-dismiss */
+.btn-reopen-technical-notice {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 9999px;
+    background: rgba(16, 185, 129, 0.12);
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    color: #10b981;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.btn-reopen-technical-notice:hover {
+    background: rgba(16, 185, 129, 0.22);
+    transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   SISTEMA RETRÁTIL UNIVERSAL DE FILTROS OPERACIONAIS PARA CELULAR (<= 768px)
+   ========================================================================== */
+@media (max-width: 768px) {
+    .filter-collapsible-body {
+        transition: max-height 0.42s cubic-bezier(0.4, 0, 0.2, 1),
+                    opacity 0.32s ease,
+                    margin 0.35s ease,
+                    padding 0.35s ease !important;
+        overflow: hidden !important;
+        transform-origin: top center;
+    }
+
+    .filter-collapsible-body.is-collapsed {
+        max-height: 0 !important;
+        opacity: 0 !important;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+        pointer-events: none !important;
+        visibility: hidden !important;
+    }
+
+    .filter-collapsible-body.is-expanded {
+        max-height: 2400px !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+        visibility: visible !important;
+    }
+
+    .mobile-filter-summary-bar {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 6px 12px;
+        margin-bottom: 6px;
+        border-radius: 10px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.2);
+        font-size: 11px;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+        cursor: pointer;
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .btn-apply-filters-mobile {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        padding: 12px 16px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 13px;
+        box-shadow: 0 4px 14px rgba(16, 185, 129, 0.35);
+        border: none;
+        cursor: pointer;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .btn-apply-filters-mobile:active {
+        transform: scale(0.97);
+    }
+
+    .btn-toggle-filters-mobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 12px;
+        border-radius: 12px;
+        background: #059669;
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 12px;
+        box-shadow: 0 2px 8px rgba(5, 150, 105, 0.3);
+        border: none;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+    .btn-toggle-filters-mobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile .chevron {
+        transition: transform 0.3s ease;
+    }
+    .btn-toggle-filters-mobile.is-expanded .chevron {
+        transform: rotate(180deg);
+    }
+
+    .mobile-floating-filter-btn {
+        position: fixed;
+        bottom: 24px;
+        right: 20px;
+        z-index: 999;
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        background: #059669;
+        color: #ffffff;
+        padding: 10px 18px;
+        border-radius: 9999px;
+        font-size: 13px;
+        font-weight: 700;
+        box-shadow: 0 8px 24px rgba(5, 150, 105, 0.45);
+        border: 1.5px solid rgba(255, 255, 255, 0.25);
+        transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.25s ease;
+        backdrop-filter: blur(8px);
+        cursor: pointer;
+    }
+    .mobile-floating-filter-btn:active {
+        transform: scale(0.92);
+    }
+    .mobile-floating-filter-btn.hidden-floating {
+        transform: translateY(120px) scale(0.85);
+        opacity: 0;
+        pointer-events: none;
+    }
+}
+
+@media (min-width: 769px) {
+    .filter-collapsible-body {
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        pointer-events: auto !important;
+        transform: none !important;
+        visibility: visible !important;
+        display: block !important;
+    }
+    .mobile-filter-summary-bar {
+        display: none !important;
+    }
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+    .btn-apply-filters-mobile {
+        display: none !important;
+    }
+    .btn-toggle-filters-mobile {
+        display: none !important;
+    }
+}
