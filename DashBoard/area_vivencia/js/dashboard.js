@@ -498,7 +498,7 @@
         const floatingBtn = document.getElementById('mobileFloatingFilterBtn');
         const collapsibleBody = document.getElementById('filterCollapsibleBody');
 
-        const isMobile = window.innerWidth <= 768;
+        const isMobile = window.innerWidth <= 1024;
         if (isMobile && collapsibleBody) {
             collapsibleBody.classList.add('is-collapsed');
             collapsibleBody.classList.remove('is-expanded');
@@ -536,7 +536,7 @@
 
             let scrollTimer = null;
             window.addEventListener('scroll', () => {
-                if (window.innerWidth > 768) {
+                if (window.innerWidth > 1024) {
                     floatingBtn.classList.add('hidden-floating');
                     return;
                 }
@@ -553,7 +553,7 @@
         }
 
         window.addEventListener('resize', () => {
-            const nowMobile = window.innerWidth <= 768;
+            const nowMobile = window.innerWidth <= 1024;
             if (!nowMobile && collapsibleBody) {
                 collapsibleBody.classList.remove('is-collapsed');
                 collapsibleBody.classList.add('is-expanded');

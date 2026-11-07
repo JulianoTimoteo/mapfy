@@ -524,7 +524,7 @@
         const collapsibleBody = document.getElementById('filterCollapsibleBody');
 
         // Inicializa estado colapsado no mobile
-        const isMobile = window.innerWidth <= 768;
+        const isMobile = window.innerWidth <= 1024;
         if (isMobile && collapsibleBody) {
             collapsibleBody.classList.add('is-collapsed');
             collapsibleBody.classList.remove('is-expanded');
@@ -567,7 +567,7 @@
             // Controla visibilidade do botão flutuante com debounce no scroll
             let scrollTimer = null;
             window.addEventListener('scroll', () => {
-                if (window.innerWidth > 768) {
+                if (window.innerWidth > 1024) {
                     floatingBtn.classList.add('hidden-floating');
                     return;
                 }
@@ -586,7 +586,7 @@
 
         // 4. Trata redimensionamento de janela (troca entre celular e monitor)
         window.addEventListener('resize', () => {
-            const nowMobile = window.innerWidth <= 768;
+            const nowMobile = window.innerWidth <= 1024;
             if (!nowMobile && collapsibleBody) {
                 collapsibleBody.classList.remove('is-collapsed');
                 collapsibleBody.classList.add('is-expanded');

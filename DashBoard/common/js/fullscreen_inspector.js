@@ -1599,13 +1599,12 @@
 
 
     // =========================================================================
-    // 8. GERENCIADOR UNIVERSAL DE FILTROS RETRÁTEIS PARA CELULAR (<= 768px)
+    // 8. GERENCIADOR UNIVERSAL DE FILTROS RETRÁTEIS PARA CELULAR (<= 1024px)
     // Garante que TODOS os 17 dashboards ocultem os filtros no mobile para
     // priorizar mapas e KPIs, com barra de resumo, toggle e botão flutuante.
     // Usina Pitangueiras • Safra 2026
     // =========================================================================
     function setupUniversalMobileFilters() {
-        // Encontra o container de filtros do dashboard atual
         const filterSection = document.getElementById('filterSection') || 
                               document.querySelector('.filters-container') ||
                               document.querySelector('.filters-card') ||
@@ -1615,36 +1614,29 @@
 
         if (!filterSection) return;
 
-        // Se já foi totalmente inicializado nativamente pelo HTML do dashboard
-        const existingCollapsible = filterSection.querySelector('.filter-collapsible-body');
-        const existingToggle = filterSection.querySelector('#btnToggleFilterMobile') || filterSection.querySelector('.btn-toggle-filters-mobile');
-        const existingApply = filterSection.querySelector('#btnMobileApplyAndHide') || filterSection.querySelector('.btn-apply-filters-mobile');
+        let collapsibleBody = filterSection.querySelector('.filter-collapsible-body') || 
+                              filterSection.querySelector('#filterCollapsibleBody');
+        let toggleBtn = filterSection.querySelector('#btnToggleFilterMobile') || 
+                        filterSection.querySelector('.btn-toggle-filters-mobile');
+        let applyBtn = filterSection.querySelector('#btnMobileApplyAndHide') || 
+                       filterSection.querySelector('#btnApplyAndHideFilters') || 
+                       filterSection.querySelector('.btn-apply-filters-mobile');
+        let summaryBar = filterSection.querySelector('#mobileFilterSummaryBar') || 
+                         filterSection.querySelector('.mobile-filter-summary-bar');
 
-        // Se o dashboard já tem a estrutura completa, apenas garante a amarração de eventos caso necessário
-        if (existingCollapsible && existingToggle) {
-            bindCollapsibleEvents(filterSection, existingToggle, existingCollapsible, existingApply);
-            setupFloatingFilterButton(filterSection, existingCollapsible);
-            return;
-        }
-
-        // Caso o dashboard ainda não tenha o wrapper colapsável inserido no HTML, monta dinamicamente:
         const header = filterSection.querySelector('.filters-header') || 
                        filterSection.querySelector('div.flex.items-center.justify-between') ||
                        filterSection.firstElementChild;
 
-        if (!header) return;
-
-        // 1. Cria ou reutiliza Botão Toggle no cabeçalho
-        let toggleBtn = existingToggle;
-        if (!toggleBtn) {
+        // 1. Cria ou reutiliza Botão Toggle no cabeçalho se não existir
+        if (!toggleBtn && header) {
             toggleBtn = document.createElement('button');
             toggleBtn.id = 'btnToggleFilterMobile';
             toggleBtn.type = 'button';
-            toggleBtn.className = 'btn-toggle-filters-mobile md:hidden';
-            toggleBtn.innerHTML = `<i class="fa-solid fa-sliders text-[11px]"></i> <span class="toggle-text">Ajustar Filtros</span> <i class="fa-solid fa-chevron-down chevron text-[10px]"></i>`;
+            toggleBtn.className = 'btn-toggle-filters-mobile';
+            toggleBtn.innerHTML = '<i class="fa-solid fa-sliders text-[11px]"></i> <span class="toggle-text" id="toggleFilterMobileText">Ajustar Filtros</span> <i class="fa-solid fa-chevron-down chevron text-[10px]" id="toggleFilterChevron"></i>';
             toggleBtn.title = 'Alternar visibilidade dos filtros';
 
-            // Insere no canto direito do cabeçalho
             const actionsDiv = header.querySelector('.filters-actions') || 
                                header.querySelector('div.flex.items-center:last-child') || 
                                header;
@@ -1655,12 +1647,11 @@
             }
         }
 
-        // 2. Cria Barra de Resumo Compacta para Mobile
-        let summaryBar = filterSection.querySelector('#mobileFilterSummaryBar');
-        if (!summaryBar) {
+        // 2. Cria Barra de Resumo Compacta para Mobile se não existir
+        if (!summaryBar && header) {
             summaryBar = document.createElement('div');
             summaryBar.id = 'mobileFilterSummaryBar';
-            summaryBar.className = 'mobile-filter-summary-bar md:hidden';
+            summaryBar.className = 'mobile-filter-summary-bar';
             summaryBar.innerHTML = `
                 <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
                     <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
@@ -1673,106 +1664,132 @@
             header.insertAdjacentElement('afterend', summaryBar);
         }
 
-        // 3. Agrupa todos os elementos de filtros posteriores ao header em .filter-collapsible-body
-        let collapsibleBody = existingCollapsible;
-        if (!collapsibleBody) {
+        // 3. Cria container colapsável se não existir no HTML
+        if (!collapsibleBody && header) {
             collapsibleBody = document.createElement('div');
             collapsibleBody.id = 'filterCollapsibleBody';
             collapsibleBody.className = 'filter-collapsible-body is-collapsed';
 
-            // Move todos os filhos que estavam abaixo do header (e summary bar) para dentro do collapsibleBody
             const childrenToMove = [];
-            let nextEl = summaryBar.nextElementSibling;
-            while (nextEl) {
-                if (!nextEl.classList.contains('mobile-floating-filter-btn')) {
-                    childrenToMove.push(nextEl);
+            let sibling = (summaryBar || header).nextElementSibling;
+            while (sibling) {
+                if (sibling.id !== 'mobileFloatingFilterBtn' && !sibling.classList.contains('mobile-floating-filter-btn')) {
+                    childrenToMove.push(sibling);
                 }
-                nextEl = nextEl.nextElementSibling;
+                sibling = sibling.nextElementSibling;
             }
 
             childrenToMove.forEach(child => collapsibleBody.appendChild(child));
             filterSection.appendChild(collapsibleBody);
+        }
 
-            // 4. Adiciona o botão de fechar e aplicar no rodapé dos filtros
-            const applyFooter = document.createElement('div');
-            applyFooter.className = 'md:hidden pt-3 border-t flex flex-col gap-2';
-            applyFooter.style.borderColor = 'var(--border-color, rgba(148, 163, 184, 0.2))';
-            applyFooter.innerHTML = `
+        // 4. Cria Botão de Aplicar e Ocultar no rodapé da gaveta de filtros se não existir
+        if (!applyBtn && collapsibleBody) {
+            const applyWrapper = document.createElement('div');
+            applyWrapper.className = 'pt-3 border-t flex flex-col gap-2 mt-3';
+            applyWrapper.style.borderColor = 'var(--border-color, rgba(255,255,255,0.1))';
+            applyWrapper.innerHTML = `
                 <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
                     <span>✓</span>
                     <span>Aplicar e Ocultar Filtros</span>
                 </button>
-                <p class="text-[10px] text-center" style="color: var(--text-muted, #94a3b8); margin: 0;">
+                <p class="text-[10px] text-center text-[var(--text-muted, #94a3b8)] m-0">
                     Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
                 </p>
             `;
-            collapsibleBody.appendChild(applyFooter);
+            collapsibleBody.appendChild(applyWrapper);
+            applyBtn = applyWrapper.querySelector('#btnMobileApplyAndHide');
         }
 
-        const applyBtn = collapsibleBody.querySelector('#btnMobileApplyAndHide') || collapsibleBody.querySelector('.btn-apply-filters-mobile');
+        // 5. Inicialização do estado de acordo com a largura da tela (<= 1024px)
+        const isMobileScreen = window.innerWidth <= 1024;
+        if (isMobileScreen && collapsibleBody) {
+            collapsibleBody.classList.add('is-collapsed');
+            collapsibleBody.classList.remove('is-expanded');
+            if (toggleBtn) {
+                toggleBtn.classList.remove('is-expanded');
+                const tText = toggleBtn.querySelector('.toggle-text') || toggleBtn.querySelector('#toggleFilterMobileText');
+                if (tText) tText.textContent = 'Ajustar Filtros';
+                const chev = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('#toggleFilterChevron') || toggleBtn.querySelector('.fa-chevron-down');
+                if (chev) chev.style.transform = 'rotate(0deg)';
+            }
+        } else if (collapsibleBody) {
+            collapsibleBody.classList.remove('is-collapsed');
+            collapsibleBody.classList.add('is-expanded');
+        }
+
+        // 6. Vincula todos os eventos
         bindCollapsibleEvents(filterSection, toggleBtn, collapsibleBody, applyBtn, summaryBar);
         setupFloatingFilterButton(filterSection, collapsibleBody);
         setupSummarySync(filterSection);
     }
 
     function bindCollapsibleEvents(filterSection, toggleBtn, collapsibleBody, applyBtn, summaryBar) {
-        if (toggleBtn._hasCollapsibleListener) return;
-        toggleBtn._hasCollapsibleListener = true;
+        if (!collapsibleBody) return;
+        if (collapsibleBody._hasBoundEvents) return;
+        collapsibleBody._hasBoundEvents = true;
 
-        const chevron = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('.fa-chevron-down');
-        const textSpan = toggleBtn.querySelector('.toggle-text') || toggleBtn.querySelector('#toggleFilterMobileText');
-
-        function toggle(forceExpand) {
-            const isCurrentlyCollapsed = collapsibleBody.classList.contains('is-collapsed');
-            const shouldExpand = (typeof forceExpand === 'boolean') ? forceExpand : isCurrentlyCollapsed;
-
-            if (shouldExpand) {
+        function setExpanded(expand) {
+            if (expand) {
                 collapsibleBody.classList.remove('is-collapsed');
                 collapsibleBody.classList.add('is-expanded');
-                toggleBtn.classList.add('is-expanded');
-                if (chevron) chevron.style.transform = 'rotate(180deg)';
-                if (textSpan) textSpan.textContent = 'Ocultar Filtros';
+                if (toggleBtn) {
+                    toggleBtn.classList.add('is-expanded');
+                    const tText = toggleBtn.querySelector('.toggle-text') || toggleBtn.querySelector('#toggleFilterMobileText');
+                    if (tText) tText.textContent = 'Ocultar Filtros';
+                    const chev = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('#toggleFilterChevron') || toggleBtn.querySelector('.fa-chevron-down');
+                    if (chev) chev.style.transform = 'rotate(180deg)';
+                }
             } else {
                 collapsibleBody.classList.add('is-collapsed');
                 collapsibleBody.classList.remove('is-expanded');
-                toggleBtn.classList.remove('is-expanded');
-                if (chevron) chevron.style.transform = 'rotate(0deg)';
-                if (textSpan) textSpan.textContent = 'Ajustar Filtros';
+                if (toggleBtn) {
+                    toggleBtn.classList.remove('is-expanded');
+                    const tText = toggleBtn.querySelector('.toggle-text') || toggleBtn.querySelector('#toggleFilterMobileText');
+                    if (tText) tText.textContent = 'Ajustar Filtros';
+                    const chev = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('#toggleFilterChevron') || toggleBtn.querySelector('.fa-chevron-down');
+                    if (chev) chev.style.transform = 'rotate(0deg)';
+                }
             }
         }
 
-        toggleBtn.addEventListener('click', (e) => {
-            e.preventDefault();
-            toggle();
-        });
+        if (toggleBtn) {
+            toggleBtn.onclick = (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                const isCurrentlyCollapsed = collapsibleBody.classList.contains('is-collapsed');
+                setExpanded(isCurrentlyCollapsed);
+            };
+        }
 
         if (summaryBar) {
-            summaryBar.addEventListener('click', (e) => {
+            summaryBar.onclick = (e) => {
                 e.preventDefault();
-                toggle(true);
-            });
+                const isCurrentlyCollapsed = collapsibleBody.classList.contains('is-collapsed');
+                setExpanded(isCurrentlyCollapsed);
+            };
         }
 
         if (applyBtn) {
-            applyBtn.addEventListener('click', (e) => {
+            applyBtn.onclick = (e) => {
                 e.preventDefault();
-                toggle(false);
+                e.stopPropagation();
+                setExpanded(false);
 
-                // Rolagem suave até a seção de KPIs logo abaixo
+                // Rolagem suave até a seção de KPIs ou mapas logo abaixo
                 setTimeout(() => {
                     const nextSection = filterSection.nextElementSibling;
                     if (nextSection) {
                         nextSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
                     }
-                }, 100);
-            });
+                }, 80);
+            };
         }
 
-        // Listener de resize para restaurar o estado limpo caso o usuário gire o celular ou mude para desktop
         window.addEventListener('resize', () => {
-            if (window.innerWidth > 768) {
+            if (window.innerWidth > 1024) {
                 collapsibleBody.classList.remove('is-collapsed');
-                collapsibleBody.classList.remove('is-expanded');
+                collapsibleBody.classList.add('is-expanded');
             } else {
                 if (!collapsibleBody.classList.contains('is-expanded')) {
                     collapsibleBody.classList.add('is-collapsed');
@@ -1782,43 +1799,44 @@
     }
 
     function setupFloatingFilterButton(filterSection, collapsibleBody) {
-        let floatingBtn = document.getElementById('mobileFloatingFilterBtn');
+        let floatingBtn = document.getElementById('mobileFloatingFilterBtn') || 
+                          document.querySelector('.mobile-floating-filter-btn');
+
         if (!floatingBtn) {
             floatingBtn = document.createElement('button');
             floatingBtn.id = 'mobileFloatingFilterBtn';
             floatingBtn.type = 'button';
-            floatingBtn.className = 'mobile-floating-filter-btn hidden-floating md:hidden';
-            floatingBtn.innerHTML = `<i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>`;
+            floatingBtn.className = 'mobile-floating-filter-btn hidden-floating';
+            floatingBtn.innerHTML = '<i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>';
             floatingBtn.title = 'Ajustar filtros operacionais';
             document.body.appendChild(floatingBtn);
         }
 
-        if (!floatingBtn._hasScrollListener) {
-            floatingBtn._hasScrollListener = true;
-
-            floatingBtn.addEventListener('click', () => {
-                // Expande os filtros e rola suavemente até o topo
+        if (!floatingBtn._hasClickEvent) {
+            floatingBtn._hasClickEvent = true;
+            floatingBtn.onclick = () => {
                 if (collapsibleBody) {
                     collapsibleBody.classList.remove('is-collapsed');
                     collapsibleBody.classList.add('is-expanded');
-                }
-                const toggleBtn = filterSection.querySelector('#btnToggleFilterMobile') || filterSection.querySelector('.btn-toggle-filters-mobile');
-                if (toggleBtn) {
-                    toggleBtn.classList.add('is-expanded');
-                    const chevron = toggleBtn.querySelector('.chevron') || toggleBtn.querySelector('.fa-chevron-down');
-                    if (chevron) chevron.style.transform = 'rotate(180deg)';
+                    const toggleBtn = document.getElementById('btnToggleFilterMobile');
+                    if (toggleBtn) {
+                        toggleBtn.classList.add('is-expanded');
+                        const tText = toggleBtn.querySelector('#toggleFilterMobileText') || toggleBtn.querySelector('.toggle-text');
+                        if (tText) tText.textContent = 'Ocultar Filtros';
+                        const chev = toggleBtn.querySelector('#toggleFilterChevron') || toggleBtn.querySelector('.chevron');
+                        if (chev) chev.style.transform = 'rotate(180deg)';
+                    }
                 }
                 filterSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            });
+            };
 
             window.addEventListener('scroll', () => {
-                if (window.innerWidth > 768) {
+                if (window.innerWidth > 1024) {
                     floatingBtn.classList.add('hidden-floating');
                     return;
                 }
                 const filterRect = filterSection.getBoundingClientRect();
-                // Mostra o botão flutuante quando o usuário rolou além do painel de filtros
-                if (filterRect.bottom < 60) {
+                if (filterRect.bottom < 80) {
                     floatingBtn.classList.remove('hidden-floating');
                 } else {
                     floatingBtn.classList.add('hidden-floating');
@@ -1840,7 +1858,7 @@
                 const text = countEl.textContent.trim();
                 const num = text.replace(/\D+/g, '');
                 if (num) {
-                    summaryCount.textContent = `${num} medições no filtro`;
+                    summaryCount.textContent = `${Number(num).toLocaleString('pt-BR')} registros ativos`;
                 }
             }
         }
