@@ -291,6 +291,7 @@
         populateSelectOptions();
         setupFilterListeners();
         setupHeaderButtons();
+        setupMobileFilterControls();
         setupTableControls();
         setupModal();
     }
@@ -487,6 +488,156 @@
     }
 
     /**
+     * ========================================================
+     * UX Mobile Sênior: Componente Retrátil de Filtros & Floating Button
+     * ========================================================
+     */
+    function setupMobileFilterControls() {
+        const toggleBtn = document.getElementById('btnToggleFilterMobile');
+        const applyAndHideBtn = document.getElementById('btnApplyAndHideFilters');
+        const floatingBtn = document.getElementById('mobileFloatingFilterBtn');
+        const collapsibleBody = document.getElementById('filterCollapsibleBody');
+
+        const isMobile = window.innerWidth <= 768;
+        if (isMobile && collapsibleBody) {
+            collapsibleBody.classList.add('is-collapsed');
+            collapsibleBody.classList.remove('is-expanded');
+            updateMobileToggleBtn(false);
+        } else if (collapsibleBody) {
+            collapsibleBody.classList.remove('is-collapsed');
+            collapsibleBody.classList.add('is-expanded');
+        }
+
+        if (toggleBtn) {
+            toggleBtn.addEventListener('click', () => {
+                const isCurrentlyCollapsed = collapsibleBody.classList.contains('is-collapsed');
+                setMobileFilterExpanded(isCurrentlyCollapsed);
+            });
+        }
+
+        if (applyAndHideBtn) {
+            applyAndHideBtn.addEventListener('click', () => {
+                setMobileFilterExpanded(false);
+                const kpiCards = document.getElementById('cardTotalInspecoesContainer');
+                if (kpiCards) {
+                    kpiCards.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            });
+        }
+
+        if (floatingBtn) {
+            floatingBtn.addEventListener('click', () => {
+                const filterSection = document.getElementById('filterSection');
+                if (filterSection) {
+                    filterSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+                setMobileFilterExpanded(true);
+            });
+
+            let scrollTimer = null;
+            window.addEventListener('scroll', () => {
+                if (window.innerWidth > 768) {
+                    floatingBtn.classList.add('hidden-floating');
+                    return;
+                }
+                if (scrollTimer) cancelAnimationFrame(scrollTimer);
+                scrollTimer = requestAnimationFrame(() => {
+                    const isCollapsed = collapsibleBody && collapsibleBody.classList.contains('is-collapsed');
+                    if (window.scrollY > 280 && isCollapsed) {
+                        floatingBtn.classList.remove('hidden-floating');
+                    } else {
+                        floatingBtn.classList.add('hidden-floating');
+                    }
+                });
+            }, { passive: true });
+        }
+
+        window.addEventListener('resize', () => {
+            const nowMobile = window.innerWidth <= 768;
+            if (!nowMobile && collapsibleBody) {
+                collapsibleBody.classList.remove('is-collapsed');
+                collapsibleBody.classList.add('is-expanded');
+                if (floatingBtn) floatingBtn.classList.add('hidden-floating');
+            }
+        });
+    }
+
+    function setMobileFilterExpanded(expand) {
+        const collapsibleBody = document.getElementById('filterCollapsibleBody');
+        const floatingBtn = document.getElementById('mobileFloatingFilterBtn');
+        if (!collapsibleBody) return;
+
+        if (expand) {
+            collapsibleBody.classList.remove('is-collapsed');
+            collapsibleBody.classList.add('is-expanded');
+            updateMobileToggleBtn(true);
+            if (floatingBtn) floatingBtn.classList.add('hidden-floating');
+        } else {
+            collapsibleBody.classList.add('is-collapsed');
+            collapsibleBody.classList.remove('is-expanded');
+            updateMobileToggleBtn(false);
+            if (floatingBtn && window.scrollY > 280) {
+                floatingBtn.classList.remove('hidden-floating');
+            }
+        }
+    }
+
+    function updateMobileToggleBtn(isExpanded) {
+        const textEl = document.getElementById('toggleFilterMobileText');
+        const chevronEl = document.getElementById('toggleFilterChevron');
+        if (textEl) textEl.innerText = isExpanded ? 'Ocultar' : 'Ajustar Filtros';
+        if (chevronEl) {
+            chevronEl.style.transform = isExpanded ? 'rotate(180deg)' : 'rotate(0deg)';
+        }
+    }
+
+    function renderMobileSummary(metrics) {
+        const scopeTextEl = document.getElementById('mobileSummaryScopeText');
+        const countTextEl = document.getElementById('mobileSummaryCountText');
+        const applyCountEl = document.getElementById('mobileBtnApplyCount');
+        const activeBadgePill = document.getElementById('mobileActiveBadgePill');
+        const floatingBadge = document.getElementById('floatingFilterBadge');
+
+        let scopeStr = 'Safra Completa';
+        if (state.periodScope === 'latest') {
+            scopeStr = `Última Data (${state.maxAvailableDateBR || '28/10'})`;
+        } else if (state.periodScope === 'today') {
+            scopeStr = `Hoje (${state.todayBR})`;
+        } else if (state.activeFilters.date) {
+            scopeStr = `Data: ${state.activeFilters.date}`;
+        }
+        if (scopeTextEl) scopeTextEl.innerText = scopeStr;
+
+        const countStr = `${metrics.totalInspecoes} inspeções`;
+        if (countTextEl) countTextEl.innerText = countStr;
+        if (applyCountEl) applyCountEl.innerText = `${metrics.totalInspecoes} insp.`;
+
+        const f = state.activeFilters;
+        let activeCount = 0;
+        if (f.date) activeCount++;
+        if (f.frente !== 'ALL') activeCount++;
+        if (f.responsavel !== 'ALL') activeCount++;
+        if (f.turno !== 'ALL') activeCount++;
+        if (f.resultado !== 'ALL') activeCount++;
+        if (f.item !== 'ALL') activeCount++;
+        if (f.hasObs !== 'ALL') activeCount++;
+        if (f.search) activeCount++;
+
+        if (activeBadgePill) {
+            if (activeCount > 0) {
+                activeBadgePill.classList.remove('hidden');
+                activeBadgePill.title = `${activeCount} filtro(s) ativo(s)`;
+            } else {
+                activeBadgePill.classList.add('hidden');
+            }
+        }
+
+        if (floatingBadge) {
+            floatingBadge.innerText = activeCount > 0 ? activeCount : (state.periodScope === 'all' ? 'Safra' : '1');
+        }
+    }
+
+    /**
      * Reseta todos os filtros
      */
     function resetFilters() {
@@ -588,6 +739,7 @@
 
         // Renderiza Componentes Sincronizados
         renderHeaderContext(metrics);
+        renderMobileSummary(metrics);
         renderCards(metrics);
         renderFilterTags();
         renderAlerts(alertsList);

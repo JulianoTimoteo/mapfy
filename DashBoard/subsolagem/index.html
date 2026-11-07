@@ -124,190 +124,236 @@
         <!-- ======================================================== -->
         <!-- 2. BARRA DE FILTROS GLOBAIS (SEÇÃO 5)                    -->
         <!-- ======================================================== -->
-        <section id="filterSection" class="p-5 rounded-2xl border shadow-sm transition-colors"
+        <section id="filterSection" class="p-4 sm:p-5 rounded-2xl border shadow-sm transition-colors relative"
                  style="background: var(--bg-card); border-color: var(--border-color);">
             
-            <!-- Cabeçalho do Card: Título e Limpar Filtros -->
-            <div class="flex items-center justify-between gap-4 mb-4 pb-3 border-b"
+            <!-- Cabeçalho do Card: Título, Badge de Status, Toggle Mobile e Limpar Filtros -->
+            <div class="flex items-center justify-between gap-3 mb-2 sm:mb-4 pb-2.5 sm:pb-3 border-b"
                  style="border-color: var(--border-color);">
-                <div class="flex items-center gap-2">
-                    <span class="text-base">🔍</span>
-                    <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Filtros Operacionais de Subsolagem</h2>
-                    <span class="text-[11px] font-medium text-[var(--text-muted)] hidden md:inline">• Safra 2026</span>
-                </div>
-                <button id="btnClearFilters" type="button"
-                        class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-transparent hover:border-rose-200 dark:hover:border-rose-900 cursor-pointer"
-                        title="Limpar todos os filtros aplicados e restaurar visão da safra">
-                    <span>↺</span> <span>Limpar Filtros</span>
-                </button>
-            </div>
-
-            <!-- Toolbar Executiva: Filtro Temporal (Safra, Última Data, Hoje) + Ações (CSV, Imprimir, Tema) -->
-            <div class="flex flex-wrap items-center justify-between gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
-                 style="background: var(--bg-kpi); border-color: var(--border-color);">
-                
-                <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
-                <div class="flex items-center gap-2">
-                    <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
-                    <div class="period-segmented-group shadow-sm">
-                        <!-- Botão Safra Completa -->
-                        <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
-                                title="Exibir todo o histórico da safra (367 medições)">
-                            <span>🌐</span>
-                            <span>Safra Completa</span>
-                            <span class="period-badge" id="badgeAll">367</span>
-                        </button>
-
-                        <!-- Botão Última Data -->
-                        <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
-                                title="Filtrar pela última data com medições registradas na base">
-                            <span>📅</span>
-                            <span>Última Data</span>
-                            <span class="period-badge" id="badgeLatest">01/10</span>
-                        </button>
-
-                        <!-- Botão Hoje -->
-                        <button id="btnToday" type="button" class="period-toggle-btn" data-period="today"
-                                title="Verificar medições registradas na data de hoje">
-                            <span>📆</span>
-                            <span>Hoje</span>
-                        </button>
+                <div class="flex items-center gap-2 min-w-0">
+                    <span class="text-base flex-shrink-0">🔍</span>
+                    <div class="min-w-0">
+                        <div class="flex items-center gap-1.5 flex-wrap">
+                            <h2 class="text-xs sm:text-sm font-bold tracking-tight text-[var(--text-primary)] truncate">
+                                Filtros Operacionais de Subsolagem
+                            </h2>
+                            <span class="text-[10px] sm:text-[11px] font-medium text-[var(--text-muted)] hidden md:inline">• Safra 2026</span>
+                        </div>
                     </div>
                 </div>
 
-                <!-- Bloco Direito: Ferramentas Operacionais Executivas -->
-                <div class="flex items-center gap-2 flex-wrap">
-                    <!-- Exportar CSV -->
-                    <button id="btnExportCSV" type="button"
-                            class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm whitespace-nowrap cursor-pointer"
-                            title="Exportar medições filtradas em formato CSV">
-                        <span>📥</span>
-                        <span>Exportar CSV</span>
+                <div class="flex items-center gap-2 flex-shrink-0">
+                    <!-- Botão Toggle Mobile de Ajustar/Recolher Filtros -->
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <span id="mobileActiveBadgePill" class="hidden w-2 h-2 rounded-full bg-amber-300 animate-ping"></span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down text-[10px] transition-transform duration-300"></i>
                     </button>
 
-                    <!-- Imprimir Relatório -->
-                    <button id="btnPrintReport" type="button"
-                            class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
-                            style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
-                            title="Imprimir relatório executivo para A4/PDF">
-                        <span>🖨️</span>
-                        <span>Imprimir</span>
+                    <!-- Botão Limpar Filtros -->
+                    <button id="btnClearFilters" type="button"
+                            class="text-xs font-semibold text-rose-500 hover:text-rose-600 transition-colors flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl border border-transparent hover:border-rose-200 dark:hover:border-rose-900 cursor-pointer"
+                            title="Limpar todos os filtros aplicados e restaurar visão da safra">
+                        <span>↺</span> <span class="hidden sm:inline">Limpar Filtros</span>
                     </button>
-
-</div>
+                </div>
             </div>
 
-            <!-- Barra de Contexto Ativo (Destaque do Período Selecionado) -->
-            <div class="rounded-xl px-4 py-2 text-xs flex flex-wrap items-center justify-between gap-3 mb-4 border"
-                 style="background: var(--bg-kpi); border-color: var(--border-color);">
-                <div class="flex items-center gap-2">
-                    <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
-                    <span class="text-[var(--text-muted)] font-medium">Período Selecionado:</span>
-                    <span id="currentDateDisplay" class="font-bold text-emerald-500 font-mono">Carregando...</span>
-                    <span class="text-[var(--text-muted)]">•</span>
-                    <span id="currentCountDisplay" class="font-mono text-[var(--text-secondary)] font-semibold">0 medições</span>
-                </div>
-                <div class="flex items-center gap-3 text-[var(--text-muted)] font-mono text-[11px]">
-                    <div class="flex items-center gap-1.5">
-                        <span>Faixa Técnica Ativa:</span>
-                        <span id="targetRangeDisplay" class="font-bold text-emerald-500">45 a 55 cm</span>
+            <!-- Barra de Resumo Compacta para Mobile (Visível quando os filtros estão recolhidos) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra Completa</span>
+                </span>
+                <span class="text-[var(--text-muted)] text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-[var(--text-secondary)] font-semibold text-[11px] flex-shrink-0">Carregando...</span>
+                <span class="text-[var(--text-muted)] text-[10px] hidden sm:inline">•</span>
+                <span id="mobileSummaryFaixaText" class="text-[10px] font-mono text-emerald-500 hidden sm:inline flex-shrink-0">Meta: 45-55cm</span>
+            </div>
+
+            <!-- Container Colapsável dos Controles dos Filtros -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
+                <!-- Toolbar Executiva: Filtro Temporal (Safra, Última Data, Hoje) + Ações (CSV, Imprimir) -->
+                <div class="flex flex-wrap items-center justify-between gap-3 mb-4 p-2.5 rounded-xl border shadow-xs"
+                     style="background: var(--bg-kpi); border-color: var(--border-color);">
+                    
+                    <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
+                    <div class="flex items-center gap-2">
+                        <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
+                        <div class="period-segmented-group shadow-sm">
+                            <!-- Botão Safra Completa -->
+                            <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
+                                    title="Exibir todo o histórico da safra (367 medições)">
+                                <span>🌐</span>
+                                <span>Safra Completa</span>
+                                <span class="period-badge" id="badgeAll">367</span>
+                            </button>
+
+                            <!-- Botão Última Data -->
+                            <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
+                                    title="Filtrar pela última data com medições registradas na base">
+                                <span>📅</span>
+                                <span>Última Data</span>
+                                <span class="period-badge" id="badgeLatest">01/10</span>
+                            </button>
+
+                            <!-- Botão Hoje -->
+                            <button id="btnToday" type="button" class="period-toggle-btn" data-period="today"
+                                    title="Verificar medições registradas na data de hoje">
+                                <span>📆</span>
+                                <span>Hoje</span>
+                            </button>
+                        </div>
                     </div>
-                    <span>•</span>
-                    <div class="flex items-center gap-1.5">
-                        <span>Último Registro:</span>
-                        <span id="lastSyncDate" class="text-[var(--text-primary)] font-semibold">-</span>
+
+                    <!-- Bloco Direito: Ferramentas Operacionais Executivas -->
+                    <div class="flex items-center gap-2 flex-wrap">
+                        <!-- Exportar CSV -->
+                        <button id="btnExportCSV" type="button"
+                                class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 bg-emerald-600 hover:bg-emerald-500 text-white transition-all shadow-sm whitespace-nowrap cursor-pointer"
+                                title="Exportar medições filtradas em formato CSV">
+                            <span>📥</span>
+                            <span>Exportar CSV</span>
+                        </button>
+
+                        <!-- Imprimir Relatório -->
+                        <button id="btnPrintReport" type="button"
+                                class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
+                                style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
+                                title="Imprimir relatório executivo para A4/PDF">
+                            <span>🖨️</span>
+                            <span>Imprimir</span>
+                        </button>
                     </div>
                 </div>
-            </div>
 
-            <!-- Grid de Controles de Filtros -->
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3 text-xs">
-                
-                <!-- Data Específica -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Data da Medição</label>
-                    <input type="date" id="filterDate"
-                           class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                <!-- Barra de Contexto Ativo (Destaque do Período Selecionado) -->
+                <div class="rounded-xl px-4 py-2 text-xs flex flex-wrap items-center justify-between gap-3 mb-4 border"
+                     style="background: var(--bg-kpi); border-color: var(--border-color);">
+                    <div class="flex items-center gap-2">
+                        <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                        <span class="text-[var(--text-muted)] font-medium">Período Selecionado:</span>
+                        <span id="currentDateDisplay" class="font-bold text-emerald-500 font-mono">Carregando...</span>
+                        <span class="text-[var(--text-muted)]">•</span>
+                        <span id="currentCountDisplay" class="font-mono text-[var(--text-secondary)] font-semibold">0 medições</span>
+                    </div>
+                    <div class="flex items-center gap-3 text-[var(--text-muted)] font-mono text-[11px]">
+                        <div class="flex items-center gap-1.5">
+                            <span>Faixa Técnica Ativa:</span>
+                            <span id="targetRangeDisplay" class="font-bold text-emerald-500">45 a 55 cm</span>
+                        </div>
+                        <span>•</span>
+                        <div class="flex items-center gap-1.5">
+                            <span>Último Registro:</span>
+                            <span id="lastSyncDate" class="text-[var(--text-primary)] font-semibold">-</span>
+                        </div>
+                    </div>
                 </div>
 
-                <!-- Frente -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente Operacional</label>
-                    <select id="filterFrente"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                        <option value="ALL">Todas as Frentes</option>
-                    </select>
+                <!-- Grid de Controles de Filtros -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-3 text-xs">
+                    
+                    <!-- Data Específica -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Data da Medição</label>
+                        <input type="date" id="filterDate"
+                               class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                               style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    </div>
+
+                    <!-- Frente -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente Operacional</label>
+                        <select id="filterFrente"
+                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                                style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            <option value="ALL">Todas as Frentes</option>
+                        </select>
+                    </div>
+
+                    <!-- Ordem de Serviço (OS) -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ordem de Serviço (OS)</label>
+                        <select id="filterOS"
+                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                                style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            <option value="ALL">Todas as OS</option>
+                        </select>
+                    </div>
+
+                    <!-- Responsável / Inspetor -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável</label>
+                        <select id="filterResponsavel"
+                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                                style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            <option value="ALL">Todos os Responsáveis</option>
+                        </select>
+                    </div>
+
+                    <!-- Faixa Técnica -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Faixa Técnica</label>
+                        <select id="filterFaixa"
+                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                                style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            <option value="ALL">Todas as Medições</option>
+                            <option value="DENTRO">🟢 Dentro da Meta (45 a 55 cm)</option>
+                            <option value="ABAIXO">🟡 Abaixo da Meta (&lt; 45 cm)</option>
+                            <option value="ACIMA">🟣 Acima da Meta (&gt; 55 cm)</option>
+                        </select>
+                    </div>
+
+                    <!-- Local (Fazenda / Talhão) -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Localidade / Talhão</label>
+                        <select id="filterLocal"
+                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                                style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            <option value="ALL">Todos os Locais</option>
+                        </select>
+                    </div>
+
+                    <!-- Status / Coordenadas -->
+                    <div>
+                        <label class="block font-medium mb-1 text-[var(--text-secondary)]">Auditoria GPS</label>
+                        <select id="filterGPS"
+                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                                style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            <option value="ALL">Todos os Registros</option>
+                            <option value="GPS_VALIDO">Com GPS Válido</option>
+                            <option value="GPS_INVALIDO">GPS Ausente/Inválido</option>
+                        </select>
+                    </div>
                 </div>
 
-                <!-- Ordem de Serviço (OS) -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ordem de Serviço (OS)</label>
-                    <select id="filterOS"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                        <option value="ALL">Todas as OS</option>
-                    </select>
+                <!-- Busca Textual e Tags Ativas -->
+                <div class="mt-4 pt-3 border-t flex flex-col md:flex-row items-start md:items-center justify-between gap-3"
+                     style="border-color: var(--border-color);">
+                    <div class="w-full md:w-96 relative">
+                        <input type="text" id="globalSearch" placeholder="Buscar por ID, OS, frente, responsável ou localidade..."
+                               class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
+                               style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                        <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
+                    </div>
+                    <div id="activeFilterTags" class="flex flex-wrap gap-1.5 items-center">
+                        <!-- Preenchido via JS -->
+                    </div>
                 </div>
 
-                <!-- Responsável / Inspetor -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável</label>
-                    <select id="filterResponsavel"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                        <option value="ALL">Todos os Responsáveis</option>
-                    </select>
-                </div>
-
-                <!-- Faixa Técnica -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Faixa Técnica</label>
-                    <select id="filterFaixa"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                        <option value="ALL">Todas as Medições</option>
-                        <option value="DENTRO">🟢 Dentro da Meta (45 a 55 cm)</option>
-                        <option value="ABAIXO">🟡 Abaixo da Meta (&lt; 45 cm)</option>
-                        <option value="ACIMA">🟣 Acima da Meta (&gt; 55 cm)</option>
-                    </select>
-                </div>
-
-                <!-- Local (Fazenda / Talhão) -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Localidade / Talhão</label>
-                    <select id="filterLocal"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                        <option value="ALL">Todos os Locais</option>
-                    </select>
-                </div>
-
-                <!-- Status / Coordenadas -->
-                <div>
-                    <label class="block font-medium mb-1 text-[var(--text-secondary)]">Auditoria GPS</label>
-                    <select id="filterGPS"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                        <option value="ALL">Todos os Registros</option>
-                        <option value="GPS_VALIDO">Com GPS Válido</option>
-                        <option value="GPS_INVALIDO">GPS Ausente/Inválido</option>
-                    </select>
-                </div>
-            </div>
-
-            <!-- Busca Textual e Tags Ativas -->
-            <div class="mt-4 pt-3 border-t flex flex-col md:flex-row items-start md:items-center justify-between gap-3"
-                 style="border-color: var(--border-color);">
-                <div class="w-full md:w-96 relative">
-                    <input type="text" id="globalSearch" placeholder="Buscar por ID, OS, frente, responsável ou localidade..."
-                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
-                    <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
-                </div>
-                <div id="activeFilterTags" class="flex flex-wrap gap-1.5 items-center">
-                    <!-- Preenchido via JS -->
+                <!-- Botão Primário Mobile: Aplicar e Ocultar Filtros -->
+                <div class="mt-4 pt-3 border-t md:hidden flex flex-col gap-1.5" style="border-color: var(--border-color);">
+                    <button id="btnApplyAndHideFilters" type="button"
+                            class="w-full py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-500 active:scale-[0.98] text-white font-bold text-xs sm:text-sm shadow-md flex items-center justify-center gap-2 transition-all cursor-pointer">
+                        <i class="fa-solid fa-check"></i>
+                        <span>Aplicar e Ocultar Filtros</span>
+                        <span id="mobileBtnApplyCount" class="bg-emerald-800/80 px-2 py-0.5 rounded-full text-[11px] font-mono">0 med.</span>
+                    </button>
+                    <p class="text-[10px] text-center text-[var(--text-muted)]">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
                 </div>
             </div>
         </section>
@@ -1020,6 +1066,14 @@
             </div>
         </div>
     </div>
+
+    <!-- Botão Flutuante Mobile para Reabrir Filtros ao Rolar -->
+    <button id="mobileFloatingFilterBtn" type="button" class="mobile-floating-filter-btn hidden-floating md:hidden"
+            title="Toque para reabrir os filtros operacionais">
+        <i class="fa-solid fa-sliders"></i>
+        <span>Filtros</span>
+        <span id="floatingFilterBadge" class="bg-white/25 px-1.5 py-0.5 rounded-full text-[10px] font-mono">0</span>
+    </button>
 
     <!-- Toast de Notificações -->
     <div id="toast" class="bg-slate-900 text-white border border-slate-700"></div>
