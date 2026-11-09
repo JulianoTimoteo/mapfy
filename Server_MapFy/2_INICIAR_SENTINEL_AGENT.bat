@@ -1,9 +1,9 @@
 @echo off
-title MapFy 2026 - Agente Sentinel
+title 2 - Agente Sentinel
 color 0A
 
 echo ===============================================================================
-echo            MAPFY 2026 - AGENTE SENTINEL (TELEMETRIA)
+echo            MAPFY 2026 - 2. AGENTE SENTINEL (TELEMETRIA 60s)
 echo ===============================================================================
 echo.
 
@@ -27,6 +27,7 @@ if not defined PYTHON_EXE if exist "%SCRIPT_DIR%\.venv\Scripts\python.exe" set P
 if not defined PYTHON_EXE if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" set PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python312\python.exe
 if not defined PYTHON_EXE if exist "%LOCALAPPDATA%\Programs\Python\Python315\python.exe" set PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python315\python.exe
 if not defined PYTHON_EXE if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe" set PYTHON_EXE=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe
+if not defined PYTHON_EXE if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python315\python.exe" set PYTHON_EXE=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python315\python.exe
 if not defined PYTHON_EXE if exist "C:\Python312\python.exe" set PYTHON_EXE=C:\Python312\python.exe
 if not defined PYTHON_EXE if exist "%ProgramFiles%\Python312\python.exe" set PYTHON_EXE=%ProgramFiles%\Python312\python.exe
 

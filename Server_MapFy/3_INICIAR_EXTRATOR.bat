@@ -1,9 +1,9 @@
 @echo off
-title MapFy 2026 - Servidor 24/7
-color 0B
+title 3 - Extrator Manual
+color 0E
 
 echo ===============================================================================
-echo            MAPFY 2026 - SERVIDOR INTEGRADO 24/7 (PRODUCAO)
+echo            MAPFY 2026 - 3. EXTRATOR MANUAL DE RELATORIOS (USINA)
 echo ===============================================================================
 echo.
 
@@ -27,6 +27,7 @@ if not defined PYTHON_EXE if exist "%SCRIPT_DIR%\.venv\Scripts\python.exe" set P
 if not defined PYTHON_EXE if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" set PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python312\python.exe
 if not defined PYTHON_EXE if exist "%LOCALAPPDATA%\Programs\Python\Python315\python.exe" set PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python315\python.exe
 if not defined PYTHON_EXE if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe" set PYTHON_EXE=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe
+if not defined PYTHON_EXE if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python315\python.exe" set PYTHON_EXE=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python315\python.exe
 if not defined PYTHON_EXE if exist "C:\Python312\python.exe" set PYTHON_EXE=C:\Python312\python.exe
 if not defined PYTHON_EXE if exist "%ProgramFiles%\Python312\python.exe" set PYTHON_EXE=%ProgramFiles%\Python312\python.exe
 
@@ -35,13 +36,6 @@ if not defined PYTHON_EXE (
     if %errorlevel% equ 0 set PYTHON_EXE=py -3.12
 )
 
-if not defined PYTHON_EXE (
-    if exist "%SERVER_DIR%\MapFyServer.exe" (
-        echo [INFO] Python nao encontrado; iniciando binario autonomo compilado...
-        "%SERVER_DIR%\MapFyServer.exe"
-        goto :concluido
-    )
-)
 if not defined PYTHON_EXE (
     echo [ERRO] Python 3.10+ nao foi encontrado neste computador.
     echo Verificados: server\.venv, AppData\Programs\Python e py launcher.
@@ -56,7 +50,7 @@ echo [INFO] Runtime localizado: %PYTHON_EXE%
 echo [INFO] Executando comando no diretorio server...
 echo.
 
-"%PYTHON_EXE%" mapfy_server.py
+"%PYTHON_EXE%" mapfy_extractor.py
 
 :concluido
 set EXIT_CODE=%errorlevel%

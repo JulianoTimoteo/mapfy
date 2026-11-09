@@ -1,57 +1,51 @@
 ================================================================================
-          MAPFY 2026 - GUIA RAPIDO DE EXECUTORES DO SERVIDOR (COMPUTADOR A)
+          MAPFY 2026 - ORDEM DE EXECUCAO DO SERVIDOR (COMPUTADOR A)
                          Usina Pitangueiras - Safra 2026
 ================================================================================
 
-Esta pasta foi organizada para operacao limpa, profissional e de alta performance.
-Todos os codigos fontes, modulos, relatorios e configuracoes estao dentro da pasta:
-   [server\]
-
-Na raiz desta pasta, estao exclusivamente os executores prontos para teste:
+Esta pasta contem estritamente a subpasta [server\] e os 4 executores oficiais
+numerados em ordem recomendada de operacao e teste:
 
 --------------------------------------------------------------------------------
-1. INICIAR_SERVIDOR_24_7 (.exe ou .bat)
+1. 1_INICIAR_SERVIDOR_24_7 (.exe ou .bat)
 --------------------------------------------------------------------------------
-   - Principal executor do servidor MapFy.
-   - Inicia o servico completo em alta disponibilidade:
-       * Watchdog Guardiao (monitora e reinicia se cair)
-       * API Gateway Local (FastAPI / porta 8000)
-       * Extrator Incremental periodico de relatorios
-       * Publicador automatico no GitHub Pages
-   - Se o computador nao tiver Python instalado, ele executa automaticamente
-     o binario autonomo compilado: server\MapFyServer.exe.
-   - De dois cliques para iniciar.
+   - Inicia o servico central integrado do MapFy 2026:
+       * Watchdog Guardiao (monitora a integridade e reinicia se cair)
+       * API Gateway Local (FastAPI na porta 8000)
+       * Extrator Incremental periodico de relatorios da Usina
+       * Publicador automatico no GitHub Pages (live_data)
+   - Fallback autonomo: se este computador nao tiver Python instalado,
+     o executavel aciona automaticamente o binario compilado:
+     server\MapFyServer.exe (com runtime embutido).
+   - De dois cliques para iniciar a operacao cont?nua do servidor.
 
 --------------------------------------------------------------------------------
-2. INICIAR_SENTINEL_AGENT (.exe ou .bat)
+2. 2_INICIAR_SENTINEL_AGENT (.exe ou .bat)
 --------------------------------------------------------------------------------
-   - Inicia o agente de telemetria independente.
-   - Envia sinal de vida autenticado (heartbeat HMAC-SHA256) a cada 60s
+   - Inicia o agente de telemetria independente (Heartbeat).
+   - Envia batimentos criptografados (HMAC-SHA256) a cada 60 segundos
      para o Computador B (MapFy Sentinel).
-   - Se o servidor MapFy parar por mais de 120 minutos, o Computador B dispara
-     o alarme critico e notifica o Juliano via WhatsApp (+5516992886004).
+   - Caso o servidor MapFy fique indisponivel por mais de 120 minutos,
+     o Computador B dispara alarme critico para o Juliano via WhatsApp
+     (+5516992886004) e Telegram.
+   - De dois cliques para iniciar o monitoramento externo.
 
 --------------------------------------------------------------------------------
-3. INICIAR_EXTRATOR (.exe ou .bat)
+3. 3_INICIAR_EXTRATOR (.exe ou .bat)
 --------------------------------------------------------------------------------
-   - Executa um ciclo manual de extracao dos relatorios da Usina imediatamente.
-   - Util para forcar a atualizacao pontual das planilhas.
+   - Executa uma extracao manual avulsa dos relatorios imediatamente.
+   - Util para testar a conexao de download ou forcar a atualizacao
+     pontual das planilhas sem esperar o ciclo agendado.
 
 --------------------------------------------------------------------------------
-4. INICIAR_GATEWAY (.exe ou .bat)
+4. 4_EXECUTAR_TESTES (.exe ou .bat)
 --------------------------------------------------------------------------------
-   - Inicia apenas a API REST FastAPI na porta 8000.
-   - Util para inspecionar endpoints REST e documentacao Swagger (/docs).
+   - Executa a suite automatizada de testes unitarios em server\tests\.
+   - Valida 100% da integridade: API Gateway, Extrator, Publicador GitHub,
+     rotas de mapas de talhoes (/api/v1/maps/shapes e /api/v1/maps/manifest).
+   - Util para homologar que o ambiente esta perfeitamente operacional.
 
---------------------------------------------------------------------------------
-5. EXECUTAR_TESTES (.exe ou .bat)
---------------------------------------------------------------------------------
-   - Executa a suite com todos os 13 testes unitarios em server\tests\.
-   - Valida gateway, extrator, publicador GitHub e rotas de mapa.
-
---------------------------------------------------------------------------------
-6. CONFIGURAR_PYTHON (.exe ou .bat)
---------------------------------------------------------------------------------
-   - Configurador automatico de ambiente virtual (.venv) e dependencias.
-   - Util caso queira rodar o ambiente Python do zero em uma nova maquina.
+================================================================================
+* Ferramentas complementares estao arquivadas em: server\ferramentas\
+  (CONFIGURAR_PYTHON para setup do venv e INICIAR_GATEWAY avulso).
 ================================================================================
