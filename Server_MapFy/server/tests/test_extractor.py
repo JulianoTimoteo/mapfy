@@ -1,3 +1,8 @@
+import sys
+from pathlib import Path
+SERVER_DIR = Path(__file__).resolve().parent.parent
+if str(SERVER_DIR) not in sys.path:
+    sys.path.insert(0, str(SERVER_DIR))
 import tempfile
 import unittest
 from pathlib import Path
@@ -68,3 +73,4 @@ class ExtractorTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+

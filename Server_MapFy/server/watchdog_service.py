@@ -46,7 +46,7 @@ logger = logging.getLogger("WatchdogMapfy")
 # Intervalo padrão de extração periódica em minutos (pode ser sobrescrito por MAPFY_EXTRACT_INTERVAL_MIN)
 EXTRACT_INTERVAL_MIN = int(os.getenv("MAPFY_EXTRACT_INTERVAL_MIN", "60"))
 
-def update_status(gateway_pid: int | None, restarts: int, status: str, last_extract: str | None = None):
+def update_status(gateway_pid: int | None, restarts: int, status: str, last_extract: str | None = None, last_extract_result: str | None = None):
     try:
         data = {
             "status": status,
@@ -54,6 +54,7 @@ def update_status(gateway_pid: int | None, restarts: int, status: str, last_extr
             "restarts_count": restarts,
             "updated_at": datetime.datetime.now().isoformat(),
             "last_extract": last_extract or "Aguardando próximo ciclo",
+            "last_extract_result": last_extract_result or "OK",
             "extract_interval_min": EXTRACT_INTERVAL_MIN
         }
         with open(STATUS_FILE, "w", encoding="utf-8") as f:

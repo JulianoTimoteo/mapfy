@@ -1,0 +1,49 @@
+================================================================================
+          MAPFY 2026 • GUIA RÁPIDO DE EXECUTORES DO SERVIDOR (COMPUTADOR A)
+                         Usina Pitangueiras • Safra 2026
+================================================================================
+
+Esta pasta foi organizada para operação limpa e profissional.
+Todos os códigos fontes, módulos, relatórios e configurações estão dentro da pasta:
+   📁 server\
+
+Na raiz desta pasta, você tem apenas os executores prontos para teste:
+
+--------------------------------------------------------------------------------
+1. INICIAR_SERVIDOR_24_7 (.exe ou .bat)
+--------------------------------------------------------------------------------
+   • Principal executor do servidor.
+   • Inicia o serviço completo em alta disponibilidade:
+       - Watchdog Guardião (reinicia automaticamente se cair)
+       - API Gateway Local (FastAPI / porta 8000)
+       - Extrator Incremental periódico de relatórios
+       - Publicador automático no GitHub Pages
+   • Dê dois cliques para iniciar.
+
+--------------------------------------------------------------------------------
+2. INICIAR_SENTINEL_AGENT (.exe ou .bat)
+--------------------------------------------------------------------------------
+   • Inicia o agente de monitoramento independente.
+   • Envia sinal de vida (heartbeat criptografado HMAC-SHA256) a cada 60s
+     para o Computador B (Sentinel).
+   • Se o servidor parar por mais de 120 minutos, o Computador B notifica
+     o Juliano via WhatsApp (+5516992886004) e Telegram.
+
+--------------------------------------------------------------------------------
+3. INICIAR_EXTRATOR (.exe ou .bat)
+--------------------------------------------------------------------------------
+   • Executa um ciclo manual de extração de relatórios do MapFy imediatamente.
+   • Útil para forçar atualização pontual de planilhas.
+
+--------------------------------------------------------------------------------
+4. INICIAR_GATEWAY (.exe ou .bat)
+--------------------------------------------------------------------------------
+   • Inicia apenas o API Gateway standalone na porta 8000.
+   • Útil para testar rotas e endpoints REST da Usina.
+
+--------------------------------------------------------------------------------
+5. EXECUTAR_TESTES (.exe ou .bat)
+--------------------------------------------------------------------------------
+   • Executa a suite de testes unitários automatizados em server\tests\.
+   • Valida a integridade do gateway, extrator e publicador.
+================================================================================

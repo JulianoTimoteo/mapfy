@@ -13,24 +13,27 @@ echo [INFO] Se o processo sofrer qualquer interrupcao, ele reiniciara automatica
 echo [INFO] Para encerrar voluntariamente, feche esta janela ou pressione Ctrl+C.
 echo.
 
-cd /d "%~dp0"
+cd /d "%~dp0\server"
 
-if exist "server\MapFyServer.exe" (
+if exist "MapFyServer.exe" (
     echo [INFO] Executando o Servidor MapFy empacotado...
-    "server\MapFyServer.exe"
+    MapFyServer.exe
     exit /b %ERRORLEVEL%
 )
 
-:: Ativa o ambiente virtual se existir
-if exist "..\.venv\Scripts\activate.bat" (
-    call "..\.venv\Scripts\activate.bat"
-) else if exist ".venv\Scripts\activate.bat" (
-    call ".venv\Scripts\activate.bat"
+:: Detecta interpretador Python
+set "PYTHON_CMD="
+if exist "%~dp0\.venv\Scripts\python.exe" (
+    set "PYTHON_CMD=%~dp0\.venv\Scripts\python.exe"
+) else if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe" (
+    set "PYTHON_CMD=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe"
+) else (
+    set "PYTHON_CMD=python"
 )
 
 :loop
 echo [%date% %time%] Iniciando Watchdog Guardian do Servidor Mapfy...
-python watchdog_service.py
+"%PYTHON_CMD%" watchdog_service.py
 
 echo.
 echo [ALERTA] Processo do Watchdog foi encerrado em %date% as %time%!

@@ -61,6 +61,24 @@ from runtime_paths import (
 BASE_DIR = PROJECT_DIR
 RELATORIOS_DIR = REPORTS_DIR
 LOG_FILE = REPORTS_DIR.parent / "mapfy_extractor.log"
+EXTRACTION_LOCK_FILE = REPORTS_DIR.parent / ".extraction.lock"
+
+from contextlib import contextmanager
+
+@contextmanager
+def _extraction_lock():
+    lock_file = EXTRACTION_LOCK_FILE
+    if lock_file.exists():
+        raise RuntimeError("Já existe outra extração em andamento.")
+    try:
+        lock_file.touch()
+        yield
+    finally:
+        if lock_file.exists():
+            try:
+                lock_file.unlink()
+            except Exception:
+                pass
 
 load_dotenv(ENV_FILE if ENV_FILE.is_file() else LEGACY_ENV_FILE)
 
@@ -245,17 +263,25 @@ def merge_and_save_data(
     if new_df.empty:
         return 0, 0
 
-    # Localiza coluna de Id para deduplicação
-    id_col = None
-    for c in new_df.columns:
-        if c.strip().lower() in ["id", "código", "codigo", "id do formulário", "id_formulario"]:
-            id_col = c
-            break
-    if not id_col:
-        id_col = new_df.columns[0]
+    env_id = os.getenv("ID_COLUMN")
+    if env_id:
+        if env_id not in new_df.columns:
+            raise ValueError(f"O CSV não contém a coluna identificadora '{env_id}'.")
+        id_col = env_id
+    else:
+        # Localiza coluna de Id para deduplicação
+        id_col = None
+        for c in new_df.columns:
+            if c.strip().lower() in ["id", "código", "codigo", "id do formulário", "id_formulario"]:
+                id_col = c
+                break
+        if not id_col:
+            id_col = new_df.columns[0]
 
     if existing_csv.exists() and existing_csv.stat().st_size > 0:
         old_df = read_csv_smart(existing_csv)
+        if env_id and env_id not in old_df.columns:
+            raise ValueError(f"O CSV existente não contém a coluna identificadora '{env_id}'.")
         total_before = len(old_df)
         combined_df = pd.concat([old_df, new_df], ignore_index=True)
         # Deduplica pelo Id mantendo a linha mais recente
