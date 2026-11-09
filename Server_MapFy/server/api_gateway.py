@@ -28,6 +28,7 @@ from runtime_paths import (
     DASHBOARD_DIR,
     ENV_FILE,
     LEGACY_ENV_FILE,
+    MAPS_DIR,
     PROJECT_DIR,
     REPORTS_DIR,
 )
@@ -347,7 +348,7 @@ def get_dashboard_data(report_slug: str) -> dict[str, Any]:
 
 
 
-MAPS_DIR = DASHBOARD_DIR / "Maps"
+# MAPS_DIR e centralizado em runtime_paths com fallback portatil
 RAW_GEOJSON = MAPS_DIR / "PITANGUEIRAS.geojson"
 OPT_GEOJSON = MAPS_DIR / "pitangueiras_shapes.geojson"
 MANIFEST_FILE = MAPS_DIR / "manifest.json"

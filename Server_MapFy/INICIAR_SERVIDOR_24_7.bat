@@ -1,43 +1,69 @@
 @echo off
-chcp 65001 > nul
-title [Mapfy 2026 - Servidor 24/7 Ativo - Usina Pitangueiras]
-color 0A
+title MapFy 2026 - Servidor 24/7
+color 0B
 
-echo ==============================================================================
-echo       MAPFY 2026 - SERVIÇO EM ALTA DISPONIBILIDADE (24/7)
-echo       Usina Pitangueiras • Safra 2026
-echo ==============================================================================
-echo.
-echo [INFO] Servidor configurado para execucao ininterrupta.
-echo [INFO] Se o processo sofrer qualquer interrupcao, ele reiniciara automaticamente.
-echo [INFO] Para encerrar voluntariamente, feche esta janela ou pressione Ctrl+C.
+echo ===============================================================================
+echo            MAPFY 2026 - SERVIDOR INTEGRADO 24/7 (PRODUCAO)
+echo ===============================================================================
 echo.
 
-cd /d "%~dp0\server"
+set SCRIPT_DIR=%~dp0
+set SERVER_DIR=%~dp0server
 
-if exist "MapFyServer.exe" (
-    echo [INFO] Executando o Servidor MapFy empacotado...
-    MapFyServer.exe
-    exit /b %ERRORLEVEL%
+if not exist "%SERVER_DIR%" (
+    echo [ERRO] A pasta 'server' nao foi encontrada em: %SERVER_DIR%
+    echo Certifique-se de manter a pasta 'server' junto deste arquivo.
+    echo.
+    pause
+    exit /b 1
 )
 
-:: Detecta interpretador Python
-set "PYTHON_CMD="
-if exist "%~dp0\.venv\Scripts\python.exe" (
-    set "PYTHON_CMD=%~dp0\.venv\Scripts\python.exe"
-) else if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe" (
-    set "PYTHON_CMD=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe"
+cd /d "%SERVER_DIR%"
+
+set PYTHON_EXE=
+
+if exist "%SERVER_DIR%\.venv\Scripts\python.exe" set PYTHON_EXE=%SERVER_DIR%\.venv\Scripts\python.exe
+if not defined PYTHON_EXE if exist "%SCRIPT_DIR%\.venv\Scripts\python.exe" set PYTHON_EXE=%SCRIPT_DIR%\.venv\Scripts\python.exe
+if not defined PYTHON_EXE if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" set PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python312\python.exe
+if not defined PYTHON_EXE if exist "%LOCALAPPDATA%\Programs\Python\Python315\python.exe" set PYTHON_EXE=%LOCALAPPDATA%\Programs\Python\Python315\python.exe
+if not defined PYTHON_EXE if exist "C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe" set PYTHON_EXE=C:\Users\julianotimoteo\AppData\Local\Programs\Python\Python312\python.exe
+if not defined PYTHON_EXE if exist "C:\Python312\python.exe" set PYTHON_EXE=C:\Python312\python.exe
+if not defined PYTHON_EXE if exist "%ProgramFiles%\Python312\python.exe" set PYTHON_EXE=%ProgramFiles%\Python312\python.exe
+
+if not defined PYTHON_EXE (
+    where py.exe >nul 2>&1
+    if %errorlevel% equ 0 set PYTHON_EXE=py -3.12
+)
+
+if not defined PYTHON_EXE (
+    if exist "%SERVER_DIR%\MapFyServer.exe" (
+        echo [INFO] Python nao encontrado; iniciando binario autonomo compilado...
+        "%SERVER_DIR%\MapFyServer.exe"
+        goto :concluido
+    )
+)
+if not defined PYTHON_EXE (
+    echo [ERRO] Python 3.10+ nao foi encontrado neste computador.
+    echo Verificados: server\.venv, AppData\Programs\Python e py launcher.
+    echo.
+    echo Instale o Python 3.12 ou configure o ambiente virtual.
+    echo.
+    pause
+    exit /b 2
+)
+
+echo [INFO] Runtime localizado: %PYTHON_EXE%
+echo [INFO] Executando comando no diretorio server...
+echo.
+
+"%PYTHON_EXE%" mapfy_server.py
+
+:concluido
+set EXIT_CODE=%errorlevel%
+echo.
+if %EXIT_CODE% neq 0 (
+    echo [INFO] Processo finalizado com codigo: %EXIT_CODE%
 ) else (
-    set "PYTHON_CMD=python"
+    echo [INFO] Processo concluido com sucesso.
 )
-
-:loop
-echo [%date% %time%] Iniciando Watchdog Guardian do Servidor Mapfy...
-"%PYTHON_CMD%" watchdog_service.py
-
-echo.
-echo [ALERTA] Processo do Watchdog foi encerrado em %date% as %time%!
-echo [INFO] Reiniciando automaticamente em 5 segundos...
-echo ==============================================================================
-timeout /t 5 /nobreak > nul
-goto loop
+pause

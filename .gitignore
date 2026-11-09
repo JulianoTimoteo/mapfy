@@ -38,3 +38,8 @@ MapfyDownloads/
 **/watchdog_status.json
 relatorio_noite_*.txt
 loop_verificar_noite.ps1
+
+# Binarios pesados autonomos que excedem o limite de 100 MB do GitHub
+MapFyServer.exe
+**/MapFyServer.exe
+Server_MapFy/server/Maps/

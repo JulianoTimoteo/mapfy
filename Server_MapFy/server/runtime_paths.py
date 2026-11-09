@@ -35,3 +35,9 @@ LEGACY_SESSION_FILE = SERVER_DIR.parent / "session_state.json"
 CONFIG_FILE = SERVER_DIR / "config_rotina.json"
 LEGACY_CONFIG_FILE = SERVER_DIR.parent / "config_rotina.json"
 DASHBOARD_DIR = PROJECT_ROOT / "DashBoard"
+
+# Suporte a Mapas: procura em DashBoard/Maps e faz fallback para server/Maps se portátil
+MAPS_DIR = DASHBOARD_DIR / "Maps"
+if not MAPS_DIR.is_dir() and (SERVER_DIR / "Maps").is_dir():
+    MAPS_DIR = SERVER_DIR / "Maps"
+
