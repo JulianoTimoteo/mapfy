@@ -811,6 +811,9 @@ const ChecklistEngine = (function () {
     };
 })();
 
+if (typeof window !== 'undefined') {
+    window.ChecklistEngine = ChecklistEngine;
+}
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = ChecklistEngine;
 }

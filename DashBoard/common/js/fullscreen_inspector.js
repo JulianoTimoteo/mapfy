@@ -55,7 +55,7 @@
         try {
             if (!window.MapfyApiConnector && !document.querySelector('script[src*="api_connector.js"]')) {
                 const s = document.createElement('script');
-                s.src = '../common/js/api_connector.js?v=2026.4';
+                s.src = '../common/js/api_connector.js?v=2026.11.09_v3';
                 document.head.appendChild(s);
             }
         } catch (e) {}

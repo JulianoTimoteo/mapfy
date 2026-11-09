@@ -152,6 +152,7 @@
         map: null,
         markersLayer: null
     };
+    window.__debugMapfyState = state;
     window.dashboardState = state;
     window.state = state;
 
@@ -478,6 +479,25 @@
 
         setElText('kpiAbrirOsSim', kpis.abrirOsSim.toLocaleString('pt-BR'));
         setElText('kpiDetalheOS', `${kpis.comNumeroOs} c/ OS • ${kpis.semNumeroOs} pend.`);
+
+        // Atualização Dinâmica do Badge do Cabeçalho Superior
+        const kpiBadge = document.getElementById('kpiHeaderBadge');
+        if (kpiBadge && state.allRecords) {
+            kpiBadge.innerHTML = `<i class="fa-solid fa-database mr-1"></i> ${state.allRecords.length.toLocaleString('pt-BR')} Registros de Frota`;
+
+        const elCtxInsp = document.getElementById('contextTotalInspecoes');
+        const elCtxVeic = document.getElementById('contextTotalVeiculos');
+        const elCtxCond = document.getElementById('contextTotalCondutores');
+        const elCtxGest = document.getElementById('contextTotalGestores');
+        if (elCtxInsp && state.allRecords) {
+            const allKpis = ChecklistEngine.calculateKPIs(state.allRecords);
+            elCtxInsp.innerText = `${allKpis.totalInspecoes.toLocaleString('pt-BR')} inspeções veiculares`;
+            if (elCtxVeic) elCtxVeic.innerText = `${allKpis.veiculosDistintos.toLocaleString('pt-BR')} veículos`;
+            if (elCtxCond) elCtxCond.innerText = `${allKpis.condutoresDistintos.toLocaleString('pt-BR')} condutores`;
+            if (elCtxGest) elCtxGest.innerText = `${allKpis.gestoresDistintos.toLocaleString('pt-BR')} gestores`;
+        }
+
+        }
     }
 
     function setElText(id, text) {
@@ -1417,5 +1437,28 @@
         link.click();
         document.body.removeChild(link);
     }
+
+    // Sincronização Inteligente 24/7 com Normalização Resiliente
+    window.reloadDashboardData = function (rawRecords) {
+        if (!Array.isArray(rawRecords) || rawRecords.length === 0) return;
+        console.log('[Checklist Veicular] Recarregando e normalizando', rawRecords.length, 'registros via reloadDashboardData...');
+        const needsNorm = rawRecords.length > 0 && !rawRecords[0].frota_codigo;
+        state.allRecords = needsNorm ? rawRecords.map(ChecklistEngine.normalizeRecord) : rawRecords;
+        state.filteredRecords = [...state.allRecords];
+        
+        const kpiBadge = document.getElementById('kpiHeaderBadge');
+        if (kpiBadge) {
+            kpiBadge.innerHTML = `<i class="fa-solid fa-database mr-1"></i> ${state.allRecords.length.toLocaleString('pt-BR')} Registros de Frota`;
+        }
+        
+        initDropdowns();
+        applyFilters();
+    };
+
+    window.ChecklistEngine = ChecklistEngine;
+    window.dashboardState = state;
+    window.state = state;
+    window.applyFilters = applyFilters;
+    window.aplicarFiltros = applyFilters;
 
 })();

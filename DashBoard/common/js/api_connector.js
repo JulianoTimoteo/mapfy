@@ -105,15 +105,28 @@
 
             // 2. Normalização automática via Engine do relatório
             let normalizedRecords = dataPayload.records;
-            const engine = window.ComplianceEngine || window.SubsolagemEngine || window.CanteirizacaoEngine || 
+            const engine = window.ChecklistEngine || window.TplEngine || window.HerbicidaEngine ||
+                           window.BrocaEngine || window.CobricaoEngine || window.DosagemCobricaoEngine ||
+                           window.QualidadeMudaEngine || window.ViabilidadeGemasEngine || window.QualidadeCanaEngine ||
+                           window.ArremateEngine || window.AreaVivenciaEngine ||
+                           window.ComplianceEngine || window.SubsolagemEngine || window.CanteirizacaoEngine || 
                            window.SulcacaoEngine || window.DosagemEngine || window.AberturaAsaEngine || 
                            window.ParalelismoEngine;
             
             if (engine && typeof engine.normalizeRecord === 'function') {
                 try {
                     normalizedRecords = dataPayload.records.map(engine.normalizeRecord);
+                    console.log('[Mapfy API] Dados normalizados com sucesso via ' + (engine.name || 'Engine') + ':', normalizedRecords.length);
                 } catch (e) {
                     console.warn('[Mapfy API] Erro ao normalizar dados com engine:', e);
+                }
+            } else {
+                // Trava de segurança: se os dados recebidos forem do Mapfy RAW e não há engine, não sobrescrever st.allRecords com lixo cru
+                const first = dataPayload.records[0] || {};
+                const isRaw = first['Frota'] || first['Data início'] || first['Score desc.'] || first['Local (Fazenda - Talhão)'];
+                if (isRaw) {
+                    console.warn('[Mapfy API] Dados brutos recebidos mas nenhuma engine de normalização disponível para slug: ' + slug + '. Mantendo base estática íntegra.');
+                    return;
                 }
             }
 
