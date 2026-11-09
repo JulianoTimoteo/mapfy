@@ -1,25 +1,130 @@
 {
-  "status": "ready",
-  "last_updated": "2026-11-02T14:38:14-03:00",
-  "raw_source": "PITANGUEIRAS.geojson",
-  "raw_size_bytes": 27004829,
-  "raw_vertices": 560871,
-  "optimized_file": "pitangueiras_shapes.geojson",
-  "optimized_size_bytes": 3003294,
-  "optimized_vertices": 70956,
-  "vertices_reduction_pct": 87.3,
-  "mbtiles_available": true,
+  "engine_name": "Universal Geospatial Engine",
+  "organization": "Usina Pitangueiras Açúcar e Álcool Ltda",
+  "season": "Safra 2026",
+  "version": "2.0.0",
+  "created_at": "2026-11-09T12:05:58-03:00",
   "total_features": 6469,
-  "bbox": [
-    -48.859899137602,
-    -21.5274916989,
-    -47.417236759269294,
-    -20.511562457939
+  "total_farms": 1079,
+  "total_area_ha": 55470.84,
+  "coordinate_system": "EPSG:4326 (WGS84)",
+  "global_bbox": [
+    -48.8599,
+    -21.52749,
+    -47.41724,
+    -20.51156
   ],
   "center": [
     -21.01953,
     -48.13857
   ],
-  "total_farms": 671,
-  "total_area_ha": 55470.84
+  "levels_of_detail": {
+    "lod1": {
+      "lod": "lod1",
+      "name": "LOD 1 — Visão Geral (Overview)",
+      "target_zoom": "zoom <= 11",
+      "tolerance_degrees": 0.00018,
+      "features_count": 6469,
+      "original_vertices": 560871,
+      "optimized_vertices": 41669,
+      "vertices_reduction_pct": 92.6,
+      "generation_time_sec": 5.35,
+      "global_bbox": [
+        -48.8599,
+        -21.52749,
+        -47.41724,
+        -20.51156
+      ],
+      "file_name": "lod1_shapes.geojson",
+      "size_bytes": 2365658,
+      "size_mb": 2.26,
+      "sha256": "d9877aa6d6a74660c33012b00ceef2b9f055d70c06fc688623c4d08562fd775a"
+    },
+    "lod2": {
+      "lod": "lod2",
+      "name": "LOD 2 — Visão Intermediária",
+      "target_zoom": "zoom 12 a 14",
+      "tolerance_degrees": 6e-05,
+      "features_count": 6469,
+      "original_vertices": 560871,
+      "optimized_vertices": 57071,
+      "vertices_reduction_pct": 89.8,
+      "generation_time_sec": 3.33,
+      "global_bbox": [
+        -48.8599,
+        -21.52749,
+        -47.41724,
+        -20.51156
+      ],
+      "file_name": "lod2_shapes.geojson",
+      "size_bytes": 2701227,
+      "size_mb": 2.58,
+      "sha256": "8927bd00658b4314a5f2d4bb49dde26ce62cb19fb34754159c0bc6e91a53fe51"
+    },
+    "lod3": {
+      "lod": "lod3",
+      "name": "LOD 3 — Visão Detalhada",
+      "target_zoom": "zoom >= 15",
+      "tolerance_degrees": 2e-05,
+      "features_count": 6469,
+      "original_vertices": 560871,
+      "optimized_vertices": 92081,
+      "vertices_reduction_pct": 83.6,
+      "generation_time_sec": 2.76,
+      "global_bbox": [
+        -48.8599,
+        -21.52749,
+        -47.41722,
+        -20.51156
+      ],
+      "file_name": "lod3_shapes.geojson",
+      "size_bytes": 3463564,
+      "size_mb": 3.3,
+      "sha256": "93bf5dda494469429a7222d7158c9cea39d47a698e5d51b219104df2a610cd70"
+    }
+  },
+  "indexes": {
+    "spatial_grid": {
+      "file": "spatial_grid_40x40.json",
+      "type": "Grid 40x40",
+      "sha256": "fff83c29e19363a7b8329e4981766938cd5edab2d9664a83fc5d60db89c08fd6"
+    },
+    "alphanumeric": {
+      "file": "alphanumeric_index.json",
+      "keys_indexed": 6469,
+      "sha256": "0e6ab619710d523c55dabaaafc9c192d45cf0891dba9adf179f72e33566aa302"
+    },
+    "farms_summary": {
+      "file": "farms_summary.json",
+      "farms_count": 1079,
+      "sha256": "bd2e58e840691cbbe87938c2ff29a16130e8027f205d5b53cb9df1a7668ce8fb"
+    }
+  },
+  "vector_tiles": {
+    "available": true,
+    "file": "fields.mbtiles",
+    "size_bytes": 3112960,
+    "tiles_count": 940,
+    "min_zoom": 0,
+    "max_zoom": 14,
+    "metadata": {
+      "name": "PITANGUEIRAS",
+      "description": "PITANGUEIRAS",
+      "version": "2",
+      "minzoom": "0",
+      "maxzoom": "14",
+      "center": "-48.416748,-21.135745,14",
+      "bounds": "-48.859899,-21.527498,-47.417222,-20.511562",
+      "type": "overlay",
+      "format": "pbf",
+      "generator": "tippecanoe v1.36.0",
+      "generator_options": "tippecanoe -l fields -z14 -o fields.mbtiles -n PITANGUEIRAS PITANGUEIRAS.geojson",
+      "json": "{\"vector_layers\": [ { \"id\": \"fields\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {\"AREA_TOTAL\": \"Number\", \"CD_UNIDADE\": \"Number\", \"FAZENDA\": \"String\", \"NOME_FAZ\": \"String\", \"TALHAO\": \"Number\", \"ZONA\": \"Number\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"fields\",\"count\": 6469,\"geometry\": \"Polygon\",\"attributeCount\": 6,\"attributes\": [{\"attribute\": \"AREA_TOTAL\",\"count\": 1000,\"type\": \"number\",\"values\": [0,0.02,0.03,0.04,0.05,0.06,0.07,0.08,0.09,0.1,0.11,0.12,0.13,0.14,0.15,0.16,0.17,0.18,0.19,0.2,0.21,0.22,0.23,0.24,0.25,0.26,0.27,0.28,0.29,0.3,0.31,0.32,0.33,0.34,0.35,0.36,0.37,0.38,0.39,0.4,0.41,0.42,0.43,0.44,0.45,0.46,0.47,0.48,0.49,0.5,0.51,0.52,0.53,0.54,0.55,0.56,0.57,0.58,0.59,0.6,0.61,0.62,0.63,0.64,0.65,0.66,0.67,0.68,0.69,0.7,0.71,0.72,0.73,0.74,0.75,0.76,0.77,0.78,0.79,0.8,0.81,0.82,0.83,0.84,0.85,0.86,0.87,0.88,0.89,0.9,0.91,0.92,0.93,0.94,0.95,0.96,0.97,0.98,0.99,1],\"min\": 0,\"max\": 85.5},{\"attribute\": \"CD_UNIDADE\",\"count\": 1,\"type\": \"number\",\"values\": [50],\"min\": 50,\"max\": 50},{\"attribute\": \"FAZENDA\",\"count\": 1000,\"type\": \"string\",\"values\": [\"101201\",\"102801\",\"103404\",\"103405\",\"103406\",\"104801\",\"106001\",\"107000\",\"107701\",\"108701\",\"109302\",\"109304\",\"109305\",\"109306\",\"109701\",\"110101\",\"110301\",\"110401\",\"110450\",\"110901\",\"110903\",\"110905\",\"111201\",\"111503\",\"112401\",\"112502\",\"113701\",\"114301\",\"114708\",\"116901\",\"117601\",\"117602\",\"117603\",\"117604\",\"117701\",\"117702\",\"117703\",\"117901\",\"118001\",\"118101\",\"118601\",\"119003\",\"119004\",\"119601\",\"119701\",\"120401\",\"120501\",\"122302\",\"122501\",\"123201\",\"123301\",\"123602\",\"123901\",\"125001\",\"125301\",\"125402\",\"127101\",\"127102\",\"127103\",\"127901\",\"128201\",\"128301\",\"128401\",\"128901\",\"129101\",\"130001\",\"130004\",\"130005\",\"130102\",\"130103\",\"131401\",\"131901\",\"131902\",\"132901\",\"133201\",\"133803\",\"134301\",\"134503\",\"134701\",\"135601\",\"135901\",\"136101\",\"136201\",\"136601\",\"136602\",\"136603\",\"136604\",\"136801\",\"136901\",\"136902\",\"136903\",\"137002\",\"137501\",\"137601\",\"137602\",\"137701\",\"137702\",\"137802\",\"137901\",\"138101\"]},{\"attribute\": \"NOME_FAZ\",\"count\": 671,\"type\": \"string\",\"values\": [\"ABASTECIMENTO\",\"APTA REGIONAL COLINA\",\"ATERRADO\",\"BARRO PRETO\",\"BARROPRETO\",\"BEIRA RIO\",\"BELA VISTA\",\"BOA ESPERANÇA\",\"BORRACHARIA\",\"BREJINHO DO AGUDO\",\"CACHOEIRA DO MISAEL\",\"CARREGAMENTO DE VINHAÇA\",\"CERVO\",\"CHACARA AMORIM\",\"CHACARA AURORA\",\"CHACARA BELA VISTA\",\"CHACARA FURQUIM\",\"CHACARA MAMBELLI\",\"CHACARA OLARIA\",\"CHACARA SANTA MARIA QUIN. 4\",\"CHACARA SAO FRANCISCO\",\"CHACARA SAO JOSE\",\"CHACARA SAO SEBASTIAO\",\"CHACARA TAINHA I\",\"CONSULTA DA COLINA\",\"COOPERCITRUS RIBEIRAO PRETO\",\"CORREGO DA ONCA\",\"CORREGO DO BURRO\",\"CORREGO DOS CAVALOS\",\"EST. NOSSA APARECIDA\",\"ESTANCIA BELA FLOR\",\"ESTANCIA F.M.C. - QUINHAO 3\",\"ESTANCIA MARIA CLARA\",\"ESTANCIA MARIDA\",\"ESTANCIA MONIDENI\",\"ESTANCIA NOSSA SENHORA APARECIDA\",\"ESTANCIA NS AP\",\"ESTANCIA SANTA CLARA\",\"ESTANCIA SANTA LUCIA\",\"ESTANCIA SANTA MARIA\",\"ESTANCIA SANTA ROSA\",\"ESTANCIA SANTA TERESA\",\"ESTANCIA SANTO REIS\",\"ESTANCIA SAO JOAO\",\"ESTANCIA STA ROSA Q VII\",\"ESTANCIA VALEY\",\"ESTÂNCIA SANTA ROSA\",\"FA PRIMAVERA I\",\"FAZ  NOSSA SENHORA APARECIDA\",\"FAZ AGUA LIMPA\",\"FAZ ALPES\",\"FAZ ANGELICA\",\"FAZ APARECIDA\",\"FAZ APTA REGIONAL COLINA\",\"FAZ ARIZONA\",\"FAZ BARRO PRETO\",\"FAZ BELA VISTA\",\"FAZ BOA ESPERANÇA\",\"FAZ BOA ESPERANÇA 1\",\"FAZ BOA SORTE\",\"FAZ BOM JARDIM\",\"FAZ BREJINHO\",\"FAZ BREJO LIMPO\",\"FAZ BURITY\",\"FAZ CALIFORNIA\",\"FAZ CAMBAUVA\",\"FAZ CANADA\",\"FAZ CASSIANO\",\"FAZ CATETO\",\"FAZ CERVO\",\"FAZ CERVO (SUISSO)\",\"FAZ CONQUISTA\",\"FAZ CORREDEIRA GL-5\",\"FAZ CORREGO GRANDE\",\"FAZ DIVISAO\",\"FAZ DO LAGO\",\"FAZ DUAS BARRAS\",\"FAZ FAZENDINHA\",\"FAZ FORMOSA\",\"FAZ GENOVEVA\",\"FAZ GIRONDA\",\"FAZ GORDURA\",\"FAZ GROTAO TAPERAO\",\"FAZ GUARANI G - C\",\"FAZ GUARANI G-A\",\"FAZ IPE 3 IRMAOS\",\"FAZ JARDIM II\",\"FAZ LAGOA DA CONSULTA\",\"FAZ MARINHEIRO\",\"FAZ NOSSA S AP\",\"FAZ NOSSA SRA AP\",\"FAZ NOVA\",\"FAZ NOVO JARDIM\",\"FAZ NS APARECIDA\",\"FAZ ONÇA\",\"FAZ PALMEIRA\",\"FAZ PALMEIRAS AGRIAO\",\"FAZ PALMEIRAS DO AGRIAO\",\"FAZ PALMEIRAS DO AGRIÃO\",\"FAZ PALMITAL\"]},{\"attribute\": \"TALHAO\",\"count\": 669,\"type\": \"number\",\"values\": [1,10,100,101,102,1020,1021,1023,1024,1025,1026,103,1030,1032,1034,1037,1038,1039,104,1040,1041,105,106,107,108,109,11,110,111,1110,1111,1112,1113,1114,1115,1116,1117,1118,112,1129,113,1130,1131,1132,1133,1135,1137,1139,114,1140,1141,1142,1143,1144,1145,115,1151,116,117,1173,1174,1175,1177,1178,1179,118,1180,1181,1183,119,12,120,121,122,123,124,125,1254,1255,1256,1257,1258,126,1261,1262,1263,1265,1267,127,1270,1271,1272,128,1286,1287,1288,1289,129,1290,1291],\"min\": 1,\"max\": 3010},{\"attribute\": \"ZONA\",\"count\": 9,\"type\": \"number\",\"values\": [1,10,2,3,4,5,6,7,8],\"min\": 1,\"max\": 10}]}]}}"
+    }
+  },
+  "source": {
+    "file": "PITANGUEIRAS.geojson",
+    "size_bytes": 26998353,
+    "sha256": "bf958b7717d5bd9d2e5dd32a690b889ff55f9fc3c6ae30004e52b06f5f69a4ae"
+  }
 }
