@@ -61,24 +61,24 @@
         }
     };
 
-    // Níveis de Intensidade da Linha
+    // Níveis de Intensidade e Visibilidade da Malha Cadastral
     const INTENSITIES = {
         suave: {
-            borderOpacity: 0.36,
-            fillOpacity: 0.012,
-            baseWeight: 0.72,
+            borderOpacity: 0.75,
+            fillOpacity: 0.14,
+            baseWeight: 1.25,
             label: 'Suave (Padrão)'
         },
         media: {
-            borderOpacity: 0.58,
-            fillOpacity: 0.035,
-            baseWeight: 0.90,
+            borderOpacity: 0.88,
+            fillOpacity: 0.22,
+            baseWeight: 1.65,
             label: 'Média'
         },
         forte: {
-            borderOpacity: 0.82,
-            fillOpacity: 0.070,
-            baseWeight: 1.15,
+            borderOpacity: 0.98,
+            fillOpacity: 0.32,
+            baseWeight: 2.10,
             label: 'Forte'
         }
     };
@@ -431,44 +431,33 @@
         getFeatureStyle(feature, featureIndex, map, zoom = 11) {
             const auditedMap = this.auditedTalhoesByMap.get(map);
             const isAudited = this.highlightAudited && auditedMap && auditedMap.has(featureIndex);
+            const currentTheme = THEMES[this.currentTheme] || THEMES.esmeralda;
+            const intensity = INTENSITIES[this.currentIntensity] || INTENSITIES.suave;
 
             if (isAudited) {
                 // TALHÃO COM COLETA DE DADOS (Auditado e com Amostragens)
                 const auditInfo = auditedMap.get(featureIndex);
                 const count = auditInfo ? auditInfo.count : 1;
-                const fillAlpha = Math.min(0.35, 0.16 + (Math.log10(count + 1) * 0.08));
+                const fillAlpha = Math.min(0.60, 0.30 + (Math.log10(count + 1) * 0.12));
 
                 return {
-                    color: '#059669',       // Verde esmeralda nítido de destaque
-                    weight: zoom <= 11 ? 1.5 : 2.2,
-                    opacity: 0.98,
-                    fillColor: '#10b981',   // Preenchimento claro visível
+                    color: '#047857',       // Verde esmeralda profundo nítido
+                    weight: zoom <= 11 ? 2.2 : 3.0,
+                    opacity: 1.0,
+                    fillColor: '#10b981',   // Esmeralda vibrante
                     fillOpacity: fillAlpha,
                     dashArray: null
                 };
             } else {
-                // TALHÃO SEM DADOS COLETADOS (Restante da Usina)
-                const intensity = INTENSITIES[this.currentIntensity] || INTENSITIES.suave;
-                const baseWeight = Math.max(0.40, intensity.baseWeight * 0.70);
-                const baseOpacity = Math.max(0.12, intensity.borderOpacity * 0.45);
-
-                let weight = baseWeight;
-                let opacity = baseOpacity;
-
-                if (zoom <= 10) {
-                    weight = 0.38;
-                    opacity = 0.10;
-                } else if (zoom >= 15) {
-                    weight = 0.70;
-                    opacity = 0.25;
-                }
+                // TALHÃO CADASTRAL DA USINA PITANGUEIRAS (Toda a malha visível e elegante)
+                let weight = zoom <= 10 ? intensity.baseWeight : (zoom <= 13 ? intensity.baseWeight + 0.35 : intensity.baseWeight + 0.75);
 
                 return {
-                    color: '#64748b',       // Traço neutro cadastral discreto
+                    color: currentTheme.color || '#059669',
                     weight: weight,
-                    opacity: opacity,
-                    fillColor: '#64748b',
-                    fillOpacity: 0.0,       // 100% transparente
+                    opacity: intensity.borderOpacity,
+                    fillColor: currentTheme.fillColor || '#10b981',
+                    fillOpacity: intensity.fillOpacity,
                     dashArray: null
                 };
             }
