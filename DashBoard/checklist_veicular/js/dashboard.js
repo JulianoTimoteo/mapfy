@@ -31,7 +31,7 @@
                     ctx.save();
                     ctx.font = 'bold 11px Inter, sans-serif';
 
-                    if (chartType === 'doughnut' || chartType === 'pie') {
+                    if (chartType === 'pie') { // Em Doughnut, valores ficam no centro e não abaixo na fatia
                         const pos = element.tooltipPosition ? element.tooltipPosition() : null;
                         if (pos) {
                             ctx.fillStyle = '#FFFFFF';

@@ -29,7 +29,7 @@
                         ctx.save();
                         ctx.font = 'bold 11px Inter, sans-serif';
 
-                        if (chartType === 'doughnut' || chartType === 'pie') {
+                        if (chartType === 'pie') { // Em Doughnut, valores ficam no centro e não abaixo na fatia
                             const pos = element.tooltipPosition ? element.tooltipPosition() : null;
                             if (pos) {
                                 ctx.fillStyle = '#FFFFFF';
@@ -274,7 +274,7 @@
 
         const badgeLatest = document.getElementById('badgeLatest');
         if (badgeLatest && state.maxAvailableDateBR) {
-            badgeLatest.innerText = state.maxAvailableDateBR.substring(0, 5);
+            /* badgeLatest removido conforme diretriz */
         }
 
         const lastSyncEl = document.getElementById('lastSyncDate');

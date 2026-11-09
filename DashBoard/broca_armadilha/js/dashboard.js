@@ -58,7 +58,7 @@
                     ctx.save();
                     ctx.font = 'bold 10px Inter, sans-serif';
 
-                    if (chart.config.type === 'doughnut') {
+                    if (chart.config.type === 'pie') { // Em Doughnut, valores ficam no centro e não abaixo na fatia
                         ctx.fillStyle = '#FFFFFF';
                         ctx.textAlign = 'center';
                         ctx.textBaseline = 'middle';

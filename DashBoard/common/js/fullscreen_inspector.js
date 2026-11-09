@@ -598,7 +598,7 @@
                 const hasDatalabels = (chart.options?.plugins?.datalabels && chart.options.plugins.datalabels.display !== false);
                 const hasGlobalPlugin = (window.ChartDataLabels && chart.options?.plugins?.datalabels?.display !== false);
 
-                if (!hasDatalabels && !hasGlobalPlugin) {
+                if (chartType === 'pie' && !hasDatalabels && !hasGlobalPlugin) { // Em Doughnut, valores ficam no centro e não abaixo na fatia
                     chart.data.datasets.forEach((dataset, datasetIdx) => {
                         const meta = chart.getDatasetMeta(datasetIdx);
                         if (!meta || meta.hidden) return;
