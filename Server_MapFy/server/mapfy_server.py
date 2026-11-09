@@ -70,6 +70,12 @@ def request_shutdown(signum: int, _frame: object) -> None:
 
 
 def run_server() -> int:
+    pid_file = SERVER_DIR / "mapfy_server.pid"
+    try:
+        pid_file.write_text(str(os.getpid()), encoding="utf-8")
+    except Exception as e:
+        logger.warning("Não foi possível salvar mapfy_server.pid: %s", e)
+
     host = "127.0.0.1"
     port = int(os.getenv("MAPFY_API_PORT", "8000"))
     interval_seconds = extraction_interval_seconds()
@@ -96,6 +102,11 @@ def run_server() -> int:
         logger.error("A API MapFy não iniciou. Verifique a porta e as configurações.")
         api_server.should_exit = True
         api_thread.join(timeout=10)
+        try:
+            if pid_file.exists():
+                pid_file.unlink()
+        except Exception:
+            pass
         return 1
 
     logger.info(
@@ -112,13 +123,13 @@ def run_server() -> int:
     logger.info("Próxima extração após cada intervalo de %s minuto(s).", interval_seconds // 60)
 
     try:
-        mapfy_extractor.export_dashboard_summary()
         try:
+            mapfy_extractor.export_dashboard_summary()
             publisher.publish()
-        except Exception:
-            logger.exception(
-                "Falha ao publicar os dados iniciais no GitHub Pages; "
-                "configure MAPFY_GITHUB_TOKEN em server\\.env."
+        except Exception as pub_err:
+            logger.warning(
+                "Publicação no GitHub Pages adiada (%s). A API local continuará ativa.",
+                pub_err,
             )
 
         while not STOP_EVENT.is_set() and api_thread.is_alive():
@@ -131,12 +142,15 @@ def run_server() -> int:
 
             try:
                 mapfy_extractor.export_dashboard_summary()
-                publisher.publish()
-            except Exception:
-                logger.exception(
-                    "Falha ao atualizar o Dashboard publicado; "
-                    "os relatórios locais foram preservados."
-                )
+                try:
+                    publisher.publish()
+                except Exception as pub_err:
+                    logger.warning(
+                        "Publicação no GitHub Pages adiada (%s); relatórios locais preservados.",
+                        pub_err,
+                    )
+            except Exception as sum_err:
+                logger.warning("Aviso ao sincronizar sumário: %s", sum_err)
 
             if STOP_EVENT.wait(interval_seconds):
                 break
@@ -145,6 +159,11 @@ def run_server() -> int:
         api_thread.join(timeout=15)
         if api_thread.is_alive():
             logger.error("A API não encerrou dentro do prazo de 15 segundos.")
+        try:
+            if pid_file.exists():
+                pid_file.unlink()
+        except Exception:
+            pass
 
     return 0
 

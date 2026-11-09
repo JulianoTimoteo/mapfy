@@ -191,6 +191,12 @@ def flush_buffer():
             break
 
 def run_agent_loop():
+    pid_file = BASE_DIR / "sentinel_agent.pid"
+    try:
+        pid_file.write_text(str(os.getpid()), encoding="utf-8")
+    except Exception as e:
+        logger.warning(f"Não foi possível salvar sentinel_agent.pid: {e}")
+
     init_buffer_db()
     logger.info("==================================================")
     logger.info("  AGENTE DE HEARTBEAT MAPFY (COMPUTADOR A) ATIVO  ")

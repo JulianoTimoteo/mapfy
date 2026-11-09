@@ -1,51 +1,41 @@
-================================================================================
-          MAPFY 2026 - ORDEM DE EXECUCAO DO SERVIDOR (COMPUTADOR A)
-                         Usina Pitangueiras - Safra 2026
-================================================================================
+===============================================================================
+           MAPFY 2026 - GUIA DE EXECUTORES EM SEGUNDO PLANO
+           Usina Pitangueiras - Safra 2026
+===============================================================================
 
-Esta pasta contem estritamente a subpasta [server\] e os 4 executores oficiais
-numerados em ordem recomendada de operacao e teste:
+Esta pasta contem os executores numerados em rigorosa ordem de utilizacao.
+Cada funcao possui versao .EXE nativa e versao .BAT transparente.
 
---------------------------------------------------------------------------------
-1. 1_INICIAR_SERVIDOR_24_7 (.exe ou .bat)
---------------------------------------------------------------------------------
-   - Inicia o servico central integrado do MapFy 2026:
-       * Watchdog Guardiao (monitora a integridade e reinicia se cair)
-       * API Gateway Local (FastAPI na porta 8000)
-       * Extrator Incremental periodico de relatorios da Usina
-       * Publicador automatico no GitHub Pages (live_data)
-   - Fallback autonomo: se este computador nao tiver Python instalado,
-     o executavel aciona automaticamente o binario compilado:
-     server\MapFyServer.exe (com runtime embutido).
-   - De dois cliques para iniciar a operacao cont?nua do servidor.
+1. INICIAR O SERVIDOR 24/7 EM SEGUNDO PLANO:
+   - 1_INICIAR_SERVIDOR_24_7.exe  (ou 1_INICIAR_SERVIDOR_24_7.bat)
+   - Dispara a API FastAPI/Uvicorn na porta 8000, o agendador e o extrator
+     em processo 100% oculto (background). A janela fecha em 3 segundos.
+   - Painel local: http://127.0.0.1:8000
 
---------------------------------------------------------------------------------
-2. 2_INICIAR_SENTINEL_AGENT (.exe ou .bat)
---------------------------------------------------------------------------------
-   - Inicia o agente de telemetria independente (Heartbeat).
-   - Envia batimentos criptografados (HMAC-SHA256) a cada 60 segundos
-     para o Computador B (MapFy Sentinel).
-   - Caso o servidor MapFy fique indisponivel por mais de 120 minutos,
-     o Computador B dispara alarme critico para o Juliano via WhatsApp
-     (+5516992886004) e Telegram.
-   - De dois cliques para iniciar o monitoramento externo.
+2. INICIAR O AGENTE SENTINEL EM SEGUNDO PLANO:
+   - 2_INICIAR_SENTINEL_AGENT.exe  (ou 2_INICIAR_SENTINEL_AGENT.bat)
+   - Transmite telemetria e heartbeat autenticado a cada 60s em background.
+   - A janela fecha em 3 segundos.
 
---------------------------------------------------------------------------------
-3. 3_INICIAR_EXTRATOR (.exe ou .bat)
---------------------------------------------------------------------------------
-   - Executa uma extracao manual avulsa dos relatorios imediatamente.
-   - Util para testar a conexao de download ou forcar a atualizacao
-     pontual das planilhas sem esperar o ciclo agendado.
+3. EXTRACAO INCREMENTAL MANUAL (QUANDO QUISER FORCAR ATUALIZACAO):
+   - 3_INICIAR_EXTRATOR.exe  (ou 3_INICIAR_EXTRATOR.bat)
+   - Executa a raspagem headless no Mapfy via Playwright.
+   - Exibe o progresso de cada relatorio em tempo real na tela.
 
---------------------------------------------------------------------------------
-4. 4_EXECUTAR_TESTES (.exe ou .bat)
---------------------------------------------------------------------------------
-   - Executa a suite automatizada de testes unitarios em server\tests\.
-   - Valida 100% da integridade: API Gateway, Extrator, Publicador GitHub,
-     rotas de mapas de talhoes (/api/v1/maps/shapes e /api/v1/maps/manifest).
-   - Util para homologar que o ambiente esta perfeitamente operacional.
+4. EXECUTAR TESTES DE INTEGRACAO E SANIDADE:
+   - 4_EXECUTAR_TESTES.exe  (ou 4_EXECUTAR_TESTES.bat)
+   - Valida 100% dos 13 testes unitarios (API, Extrator, Publisher, Watchdog).
 
-================================================================================
-* Ferramentas complementares estao arquivadas em: server\ferramentas\
-  (CONFIGURAR_PYTHON para setup do venv e INICIAR_GATEWAY avulso).
-================================================================================
+5. VERIFICAR STATUS DOS SERVICOS:
+   - 5_STATUS_SERVICOS.exe  (ou 5_STATUS_SERVICOS.bat)
+   - Consulta a porta 8000, os PIDs ativos e as ultimas linhas de log.
+
+6. PARAR TODOS OS SERVICOS EM SEGUNDO PLANO:
+   - 6_PARAR_SERVICOS.exe  (ou 6_PARAR_SERVICOS.bat)
+   - Encerra com seguranca os processos em background e libera a porta 8000.
+
+===============================================================================
+NOTA IMPORTANTE:
+- Mantenha a pasta 'server' sempre junto destes arquivos executores.
+- Nenhuma janela ou navegador ficara aberto atrapalhando o uso do computador.
+===============================================================================

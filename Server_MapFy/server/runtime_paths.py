@@ -34,7 +34,14 @@ SESSION_FILE = SERVER_DIR / "session_state.json"
 LEGACY_SESSION_FILE = SERVER_DIR.parent / "session_state.json"
 CONFIG_FILE = SERVER_DIR / "config_rotina.json"
 LEGACY_CONFIG_FILE = SERVER_DIR.parent / "config_rotina.json"
-DASHBOARD_DIR = PROJECT_ROOT / "DashBoard"
+
+# Diretorio do Dashboard (com fallback portatil seguro)
+if (PROJECT_ROOT / "DashBoard").is_dir():
+    DASHBOARD_DIR = PROJECT_ROOT / "DashBoard"
+else:
+    fallback_dash = SERVER_DIR / "DashBoard"
+    fallback_dash.mkdir(parents=True, exist_ok=True)
+    DASHBOARD_DIR = fallback_dash
 
 # Suporte a Mapas: procura em DashBoard/Maps e faz fallback para server/Maps se portátil
 MAPS_DIR = DASHBOARD_DIR / "Maps"

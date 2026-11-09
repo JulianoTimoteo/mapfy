@@ -264,13 +264,16 @@ def merge_and_save_data(
         return 0, 0
 
     env_id = os.getenv("ID_COLUMN")
+    id_col = None
     if env_id:
-        if env_id not in new_df.columns:
+        for c in new_df.columns:
+            if c.strip().lower() == env_id.strip().lower():
+                id_col = c
+                break
+        if not id_col:
             raise ValueError(f"O CSV não contém a coluna identificadora '{env_id}'.")
-        id_col = env_id
     else:
         # Localiza coluna de Id para deduplicação
-        id_col = None
         for c in new_df.columns:
             if c.strip().lower() in ["id", "código", "codigo", "id do formulário", "id_formulario"]:
                 id_col = c
@@ -280,8 +283,13 @@ def merge_and_save_data(
 
     if existing_csv.exists() and existing_csv.stat().st_size > 0:
         old_df = read_csv_smart(existing_csv)
-        if env_id and env_id not in old_df.columns:
-            raise ValueError(f"O CSV existente não contém a coluna identificadora '{env_id}'.")
+        old_id_col = None
+        for c in old_df.columns:
+            if c.strip().lower() == id_col.strip().lower():
+                old_id_col = c
+                break
+        if not old_id_col:
+            raise ValueError(f"O CSV existente não contém a coluna identificadora '{id_col}'.")
         total_before = len(old_df)
         combined_df = pd.concat([old_df, new_df], ignore_index=True)
         # Deduplica pelo Id mantendo a linha mais recente
@@ -355,57 +363,91 @@ def ensure_authenticated(
     """
     log.info(f"Navegando para a central de formulários: {MAPFY_HUB_URL}")
     try:
-        page.goto(MAPFY_HUB_URL, timeout=45000)
+        page.goto(MAPFY_HUB_URL, timeout=45000, wait_until="domcontentloaded")
     except Exception as e:
         log.warning(f"Aviso na navegação inicial: {e}")
 
     # 1. Verifica se já está na tela principal de formulários
     try:
-        page.wait_for_selector(".gm-vc, p:has-text('Escolha um formulário')", timeout=10000)
+        page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=15000)
         log.info("[AUTENTICAÇÃO] Sessão ativa e autenticada.")
         context.storage_state(path=str(SESSION_FILE))
         return
     except PlaywrightTimeout:
         pass
 
-    log.info("Sessão não autenticada. Iniciando fluxo automático de login SSO...")
+    log.info(f"Sessão não autenticada. URL atual: {page.url}")
+    log.info("Iniciando fluxo automático de login...")
 
-    # 2. Clica no botão Azure AD na página da Gatec
+    # 2. Se estiver na tela da Gatec, tenta Azure AD ou login direto por formulário
+    if "gatec.com.br" in page.url or "login" in page.url.lower():
+        try:
+            # Tenta clicar no botao Azure AD primeiro
+            btn_aad = page.query_selector("a.box-auth-aad, a:has-text('Sign in with Azure AD')")
+            if btn_aad:
+                log.info("Clicando no botão de autenticação Azure AD...")
+                btn_aad.click()
+                page.wait_for_timeout(3000)
+            else:
+                # Se não houver Azure AD, tenta preencher campos nativos da Gatec
+                user_gatec = page.query_selector("input#Username, input[name='Username']")
+                pass_gatec = page.query_selector("input#Password, input[name='Password']")
+                if user_gatec and pass_gatec:
+                    log.info("Preenchendo credenciais no formulário nativo Gatec...")
+                    user_gatec.fill(username)
+                    pass_gatec.fill(password)
+                    btn_login = page.query_selector("button.button-login, button:has-text('Entrar')")
+                    if btn_login:
+                        btn_login.click()
+                    else:
+                        page.keyboard.press("Enter")
+                    page.wait_for_timeout(4000)
+        except Exception as e:
+            log.warning(f"Aviso na etapa inicial da Gatec: {e}")
+
+    # 3. Se redirecionou para Microsoft Azure AD (login.microsoftonline.com)
+    if "microsoftonline.com" in page.url or "live.com" in page.url:
+        log.info("Detectada tela de autenticação Microsoft Azure AD...")
+        try:
+            email_inp = page.wait_for_selector("input[name='loginfmt'], input[type='email']", timeout=12000)
+            if email_inp:
+                email_inp.fill(username)
+                page.locator("input[type='submit'], button[type='submit']").click()
+                page.wait_for_timeout(2000)
+        except Exception:
+            pass
+
+        try:
+            pass_inp = page.wait_for_selector("input[name='passwd'], input[type='password']", timeout=12000)
+            if pass_inp:
+                pass_inp.fill(password)
+                page.locator("input[type='submit'], button[type='submit']").click()
+                page.wait_for_timeout(2000)
+        except Exception:
+            pass
+
+        try:
+            btn_kmsi = page.wait_for_selector("#idSIButton9, input[value='Yes'], input[value='Sim']", timeout=10000)
+            if btn_kmsi:
+                btn_kmsi.click()
+        except Exception:
+            pass
+
+    # 4. Aguarda chegada na tela de formulários do Mapfy
+    log.info("Aguardando confirmação de acesso na central Mapfy...")
     try:
-        btn_aad = page.wait_for_selector("a.box-auth-aad, a:has-text('Sign in with Azure AD')", timeout=15000)
-        btn_aad.click()
-    except Exception as e:
-        log.warning(f"Botão Azure AD não encontrado imediatamente: {e}")
-
-    # 3. Preenche e submete email se solicitado
-    try:
-        email_inp = page.wait_for_selector("input[name='loginfmt'], input[type='email']", timeout=12000)
-        email_inp.fill(username)
-        page.locator("input[type='submit']").click()
-    except Exception:
-        pass
-
-    # 4. Preenche e submete senha se solicitada
-    try:
-        pass_inp = page.wait_for_selector("input[name='passwd'], input[type='password']", timeout=12000)
-        pass_inp.fill(password)
-        page.locator("input[type='submit']").click()
-    except Exception:
-        pass
-
-    # 5. Confirma 'Stay signed in' / 'Continuar conectado'
-    try:
-        btn_kmsi = page.wait_for_selector("#idSIButton9, input[value='Yes'], input[value='Sim']", timeout=12000)
-        btn_kmsi.click()
-    except Exception:
-        pass
-
-    # 6. Aguarda chegada na tela de formulários do Mapfy
-    log.info("Aguardando carregamento da central de formulários do Mapfy...")
-    page.wait_for_selector(".gm-vc, p:has-text('Escolha um formulário')", timeout=45000)
-    log.info("[SUCESSO] Login concluído e formulários carregados!")
-    context.storage_state(path=str(SESSION_FILE))
-    log.info(f"[OK] Sessão salva em {SESSION_FILE.name}")
+        page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=45000)
+        log.info("[SUCESSO] Login concluído e formulários carregados!")
+        context.storage_state(path=str(SESSION_FILE))
+        log.info(f"[OK] Sessão salva em {SESSION_FILE.name}")
+    except Exception as exc:
+        diag_path = REPORTS_DIR / "login_diagnostico.png"
+        try:
+            page.screenshot(path=str(diag_path))
+            log.warning(f"Screenshot de diagnóstico salvo em: {diag_path}")
+        except Exception:
+            pass
+        raise exc
 
 
 def extract_form_data(
@@ -442,10 +484,10 @@ def extract_form_data(
     # Garante que a página principal está na lista
     if "FormEntry/List" not in page.url:
         page.goto(MAPFY_HUB_URL)
-        page.wait_for_selector(".gm-vc", timeout=15000)
+        page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=15000)
 
     # Localiza o card pelo nome
-    card = page.locator(".gm-vc").filter(has_text=form_name).first
+    card = page.locator(".gm-zr, .gm-vc").filter(has_text=form_name).first
     if card.count() == 0:
         msg = f"Card com título '{form_name}' não encontrado na página."
         log.error(msg)
@@ -454,7 +496,7 @@ def extract_form_data(
         return result
 
     card.scroll_into_view_if_needed()
-    btn_visualizar = card.locator(".gm-vi, button:has-text('Visualizar')").first
+    btn_visualizar = card.locator(".gm-zv, .gm-vi, button:has-text('Visualizar')").first
 
     # Clique em 'Visualizar' observando se abre em nova aba ou na mesma
     detail_page: Page = page
@@ -602,7 +644,7 @@ def extract_form_data(
         else:
             try:
                 page.goto(MAPFY_HUB_URL)
-                page.wait_for_selector(".gm-vc", timeout=15000)
+                page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=15000)
             except Exception:
                 pass
 
@@ -656,11 +698,22 @@ def run_full_extraction(
     relatorio_geral: list[dict[str, Any]] = []
 
     with sync_playwright() as pw:
-        # Lança o Microsoft Edge
+        # Lança o Microsoft Edge em modo 100% silencioso / background
+        launch_args = [
+            "--disable-gpu",
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+            "--mute-audio"
+        ]
+        if headless:
+            launch_args.append("--headless=new")
+        else:
+            launch_args.append("--start-maximized")
+
         browser = pw.chromium.launch(
             channel="msedge",
             headless=headless,
-            args=["--start-maximized"]
+            args=launch_args
         )
 
         context_kwargs = {
@@ -687,28 +740,29 @@ def run_full_extraction(
         # Obtém lista de formulários disponíveis na tela filtrando por atividade em 2026
         emit("Identificando formulários disponíveis no painel...")
         try:
-            page.wait_for_selector(".gm-vc", timeout=15000)
+            page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=25000)
+            page.wait_for_timeout(3000)  # Garante preenchimento de cards assíncronos
         except Exception as e:
             emit(f"Erro ao carregar cards de formulários: {e}", "ERROR")
             browser.close()
             return relatorio_geral
 
-        cards = page.locator(".gm-vc")
+        cards = page.locator(".gm-zr, .gm-vc")
         total_cards = cards.count()
 
         form_names: list[str] = []
         for i in range(total_cards):
             card = cards.nth(i)
-            title_elem = card.locator(".gm-vf")
+            title_elem = card.locator(".gm-zs, .gm-vf, p, h5")
             if title_elem.count() == 0:
                 continue
 
-            name = title_elem.inner_text().strip()
+            name = title_elem.first.inner_text().strip()
             if not name:
                 continue
 
             # Inspeciona data da última sincronia no card
-            subtitles = card.locator(".gm-vg").all_inner_texts()
+            subtitles = card.locator(".gm-zt, .gm-vg, p").all_inner_texts()
             sub_text = " ".join(subtitles)
             years = [int(y) for y in re.findall(r"\b\d{2}/\d{2}/(\d{4})\b", sub_text)]
             latest_year = max(years) if years else None
@@ -796,9 +850,11 @@ def run_full_extraction(
 def export_dashboard_summary() -> Path | None:
     """Gera/atualiza DashBoard/data_summary.json com contagem dinamica em tempo real de todos os relatorios."""
     try:
-        dashboard_dir = PROJECT_ROOT / "DashBoard"
+        from runtime_paths import DASHBOARD_DIR, SERVER_DIR
+        dashboard_dir = DASHBOARD_DIR if DASHBOARD_DIR.is_dir() else (SERVER_DIR / "DashBoard")
+        dashboard_dir.mkdir(parents=True, exist_ok=True)
         reports_dir = REPORTS_DIR
-        if not dashboard_dir.is_dir() or not reports_dir.is_dir():
+        if not reports_dir.is_dir():
             return None
 
         import csv
@@ -873,6 +929,16 @@ def export_dashboard_summary() -> Path | None:
         with open(temp_path, "w", encoding="utf-8") as f:
             json.dump(summary_payload, f, indent=2, ensure_ascii=False)
         temp_path.replace(summary_json_path)
+
+        # Copia de redundancia direta em SERVER_DIR para compatibilidade universal
+        try:
+            backup_path = SERVER_DIR / "data_summary.json"
+            if backup_path != summary_json_path:
+                with open(backup_path, "w", encoding="utf-8") as f:
+                    json.dump(summary_payload, f, indent=2, ensure_ascii=False)
+        except Exception:
+            pass
+
         logger.info(f"Sumário do Dashboard sincronizado com sucesso: {total_records} registros totais.")
         return summary_json_path
     except Exception as e:
@@ -883,12 +949,16 @@ def export_dashboard_summary() -> Path | None:
 def main():
     parser = argparse.ArgumentParser(description="Extração automatizada dos formulários Mapfy.")
     parser.add_argument("--form", type=str, default="", help="Nome exato de um formulário para executar apenas ele.")
-    parser.add_argument("--headless", action="store_true", help="Executa o navegador em segundo plano.")
+    parser.add_argument("--visible", action="store_true", help="Executa o navegador com janela visível.")
+    parser.add_argument("--headless", action="store_true", help="Executa o navegador em segundo plano (padrão).")
     parser.add_argument("--force-start", type=str, default="", help="Força data inicial customizada (DD/MM/YYYY).")
     args = parser.parse_args()
 
+    # O padrão profissional é SEMPRE segundo plano (headless=True)
+    is_headless = not args.visible
+
     run_full_extraction(
-        headless=args.headless,
+        headless=is_headless,
         target_form=args.form,
         force_start=args.force_start
     )

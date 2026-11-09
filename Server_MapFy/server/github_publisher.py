@@ -91,7 +91,21 @@ class GitHubDashboardPublisher:
 
         summary_path = DASHBOARD_DIR / "data_summary.json"
         if not summary_path.is_file():
-            raise FileNotFoundError(f"Resumo do Dashboard não encontrado: {summary_path}")
+            fallback_path = SERVER_DIR / "data_summary.json"
+            if fallback_path.is_file():
+                summary_path = fallback_path
+            else:
+                try:
+                    from mapfy_extractor import export_dashboard_summary
+                    gen = export_dashboard_summary()
+                    if gen and gen.is_file():
+                        summary_path = gen
+                    else:
+                        summary_path = SERVER_DIR / "data_summary.json"
+                        summary_path.write_text(json.dumps({"status": "ok", "total_records": 0, "reports": {}}), encoding="utf-8")
+                except Exception:
+                    summary_path = SERVER_DIR / "data_summary.json"
+                    summary_path.write_text(json.dumps({"status": "ok", "total_records": 0, "reports": {}}), encoding="utf-8")
 
         summary = json.loads(summary_path.read_text(encoding="utf-8"))
         if not isinstance(summary, dict):

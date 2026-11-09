@@ -15,4 +15,7 @@ server/github_publish_state.json
 server/github_publish_state.tmp
 server/*.log
 server/MapFyServer.exe
+*.log
+*.pid
+server/*.pid
 build/
