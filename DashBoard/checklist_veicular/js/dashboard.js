@@ -402,9 +402,19 @@
             if (f.frota !== 'TODAS' && r.frota_codigo !== f.frota) return false;
             if (f.gestor !== 'TODOS' && f.gestor !== 'TODAS' && r.gestor !== f.gestor) return false;
             if (f.condutor !== 'TODOS' && f.condutor !== 'TODAS' && r.condutor !== f.condutor) return false;
-            if (f.criticidade !== 'TODAS' && r.criticidade !== f.criticidade) return false;
-            if (f.videotelemetria !== 'TODAS' && r.videotelemetria !== f.videotelemetria) return false;
-            if (f.abrirOs !== 'TODAS' && r.abrir_os !== f.abrirOs) return false;
+            if (f.criticidade && f.criticidade !== 'TODAS') {
+                if (!r.criticidade || !r.criticidade.toLowerCase().startsWith(f.criticidade.toLowerCase())) return false;
+            }
+            if (f.videotelemetria && f.videotelemetria !== 'TODAS') {
+                const wantSim = f.videotelemetria.toUpperCase().includes('SIM');
+                const isSim = (r.videotelemetria || '').toUpperCase().includes('SIM');
+                if (wantSim !== isSim) return false;
+            }
+            if (f.abrirOs && f.abrirOs !== 'TODAS') {
+                const wantSim = f.abrirOs.toUpperCase().includes('SIM');
+                const isSim = (r.abrir_os || '').toUpperCase().includes('SIM');
+                if (wantSim !== isSim) return false;
+            }
 
             if (f.componente !== 'TODOS' && f.componente !== 'TODAS') {
                 const hasComp = (r.componentes || []).some(c => c.nome === f.componente);
@@ -480,7 +490,7 @@
         const isDark = document.documentElement.classList.contains('dark');
         const textColor = isDark ? '#94A3B8' : '#64748B';
 
-        // 1. Donut Criticidade
+        // 1. Donut Criticidade (com Cross-Filtering interativo)
         const ctxCrit = document.getElementById('chartCriticidade')?.getContext('2d');
         if (ctxCrit) {
             state.charts.criticidade = new Chart(ctxCrit, {
@@ -496,6 +506,20 @@
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
+                    onHover: (e, active) => {
+                        e.native.target.style.cursor = active.length ? 'pointer' : 'default';
+                    },
+                    onClick: (evt, activeElements) => {
+                        if (!activeElements || activeElements.length === 0) return;
+                        const index = activeElements[0].index;
+                        const mapCrit = ['Leve', 'Moderado', 'TODAS'];
+                        const selected = mapCrit[index] || 'TODAS';
+                        state.filters.criticidade = (state.filters.criticidade === selected) ? 'TODAS' : selected;
+                        const sel = document.getElementById('filterCriticidade');
+                        if (sel) sel.value = state.filters.criticidade;
+                        state.pagination.page = 1;
+                        applyFilters();
+                    },
                     plugins: {
                         legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } }
                     },
@@ -504,7 +528,7 @@
             });
         }
 
-        // 2. Donut Videotelemetria
+        // 2. Donut Videotelemetria (com Cross-Filtering interativo)
         const ctxVideo = document.getElementById('chartVideotelemetria')?.getContext('2d');
         if (ctxVideo) {
             state.charts.video = new Chart(ctxVideo, {
@@ -520,6 +544,19 @@
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
+                    onHover: (e, active) => {
+                        e.native.target.style.cursor = active.length ? 'pointer' : 'default';
+                    },
+                    onClick: (evt, activeElements) => {
+                        if (!activeElements || activeElements.length === 0) return;
+                        const index = activeElements[0].index;
+                        const selected = index === 0 ? 'SIM' : 'NÃO';
+                        state.filters.videotelemetria = (state.filters.videotelemetria === selected) ? 'TODAS' : selected;
+                        const sel = document.getElementById('filterVideo');
+                        if (sel) sel.value = state.filters.videotelemetria;
+                        state.pagination.page = 1;
+                        applyFilters();
+                    },
                     plugins: {
                         legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } }
                     },
@@ -528,7 +565,7 @@
             });
         }
 
-        // 3. Donut Ordens de Serviço
+        // 3. Donut Ordens de Serviço (com Cross-Filtering interativo)
         const ctxOS = document.getElementById('chartManutencaoOS')?.getContext('2d');
         if (ctxOS) {
             state.charts.os = new Chart(ctxOS, {
@@ -544,6 +581,20 @@
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
+                    onHover: (e, active) => {
+                        e.native.target.style.cursor = active.length ? 'pointer' : 'default';
+                    },
+                    onClick: (evt, activeElements) => {
+                        if (!activeElements || activeElements.length === 0) return;
+                        const index = activeElements[0].index;
+                        // Se index 3 (Sem Solicitação), filtra 'NÃO'. Se 0, 1 ou 2, filtra 'SIM'.
+                        const selected = index === 3 ? 'NÃO' : 'SIM';
+                        state.filters.abrirOs = (state.filters.abrirOs === selected) ? 'TODAS' : selected;
+                        const sel = document.getElementById('filterAbrirOs');
+                        if (sel) sel.value = state.filters.abrirOs;
+                        state.pagination.page = 1;
+                        applyFilters();
+                    },
                     plugins: {
                         legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } }
                     },
@@ -570,6 +621,21 @@
                     indexAxis: 'y',
                     responsive: true,
                     maintainAspectRatio: false,
+                    onHover: (e, active) => {
+                        e.native.target.style.cursor = active.length ? 'pointer' : 'default';
+                    },
+                    onClick: (evt, activeElements) => {
+                        if (!activeElements || activeElements.length === 0) return;
+                        const index = activeElements[0].index;
+                        const compNome = state.charts.componentes?.data?.labels[index];
+                        if (compNome) {
+                            state.filters.componente = (state.filters.componente === compNome) ? 'TODOS' : compNome;
+                            const sel = document.getElementById('filterComponente');
+                            if (sel) sel.value = state.filters.componente;
+                            state.pagination.page = 1;
+                            applyFilters();
+                        }
+                    },
                     plugins: { legend: { display: false } },
                     scales: {
                         x: { ticks: { color: textColor }, grid: { color: isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)' } },
