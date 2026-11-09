@@ -11,6 +11,66 @@
     const QualidadeCanaEngine = {};
 
     /**
+     * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+     */
+    QualidadeCanaEngine.normalizeRecord = function (r) {
+        if (!r) return null;
+        const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+        const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+        const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
+        const scorePercNum = parseFloat(String(r['Score perc.'] || r.score_perc || '').replace(',', '.')) || 0;
+        const dataStr = String(r['Data'] || r.data || '').trim();
+        const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+        let dataIso = '';
+        if (dataDia.includes('/')) {
+            const parts = dataDia.split('/');
+            if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+        }
+
+        const qtdCanaOrig = String(r['Quantidade de Cana'] || r.quantidade_cana || 'BOM').trim();
+        const qtdCanaNorm = qtdCanaOrig.toUpperCase();
+        const isBom = qtdCanaNorm === 'BOM';
+        const obs = String(r['Observações '] || r['Observações'] || r.observacoes || '').trim();
+        const hasObsRelevante = obs.length > 0 && !['bom', 'ok', 'conforme', '-'].includes(obs.toLowerCase());
+        const scoreDivergente = isBom && scoreNum < 1.0;
+        const hasCoords = !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0;
+
+        return {
+            id: String(r['ID'] || r.id || ''),
+            usuario: r['Usuário'] || r.usuario || '',
+            data: dataStr,
+            data_dia: dataDia,
+            data_iso: dataIso,
+            data_inicio: r['Data início'] || r.data_inicio || '',
+            data_fim: r['Data Fim'] || r.data_fim || '',
+            status: r['Status'] || r.status || 'Aberto',
+            score: r['Score'] || r.score || '0,00',
+            score_num: scoreNum,
+            score_perc: r['Score perc.'] || '100',
+            score_perc_num: scorePercNum,
+            score_desc: r['Score desc.'] || 'Bom',
+            local: r['Local (Fazenda - Talhão)'] || r.local || '',
+            os: String(r['OS'] || r.os || ''),
+            frente: r['Frente'] || r.frente || '',
+            responsavel: r['Responsável'] || r.responsavel || '',
+            quantidade_cana_orig: qtdCanaOrig,
+            quantidade_cana_norm: qtdCanaNorm,
+            is_bom: isBom,
+            observacoes: obs,
+            has_obs_relevante: hasObsRelevante,
+            score_divergente: scoreDivergente,
+            duracao_min: 1,
+            lat: hasCoords ? lat : null,
+            lng: hasCoords ? lon : null,
+            lon: hasCoords ? lon : null,
+            has_valid_coords: hasCoords,
+            _raw: r
+        };
+    };
+
+
+    /**
      * Calcula métricas agregadas e KPIs operacionais
      */
     QualidadeCanaEngine.calculateMetrics = function (records) {

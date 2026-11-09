@@ -240,7 +240,10 @@
 
     // 2. Inicialização dos Dados
     function initData() {
-        state.allRecords = window.VIABILIDADE_GEMAS_DATA || [];
+        const raw = window.VIABILIDADE_GEMAS_DATA || [];
+        state.allRecords = (window.ViabilidadeGemasEngine && typeof window.ViabilidadeGemasEngine.normalizeRecord === 'function')
+            ? raw.map(window.ViabilidadeGemasEngine.normalizeRecord)
+            : raw;
         state.targetConfig = window.ViabilidadeGemasEngine.getTargetConfig();
 
         if (state.allRecords.length > 0) {

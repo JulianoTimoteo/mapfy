@@ -10,6 +10,51 @@
 
     const DosagemCobricaoEngine = {
         /**
+         * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+         */
+        normalizeRecord: function (r) {
+            if (!r) return null;
+            const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+            const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+            const dataStr = String(r['Data'] || r.data || '').trim();
+            const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+            let dataIso = '';
+            if (dataDia.includes('/')) {
+                const parts = dataDia.split('/');
+                if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+            }
+
+            const dosagemOrig = String(r['Dosagem de Produto - Cobrição'] || r.dosagem_orig || r.dosagem || '').trim();
+            const dosagemNum = parseFloat(dosagemOrig.replace(',', '.'));
+            const isValidDos = !isNaN(dosagemNum) && dosagemNum > 0;
+
+            return {
+                id: String(r['ID'] || r.id || ''),
+                usuario: r['Usuário'] || r.usuario || '',
+                data: dataStr,
+                data_dia: dataDia,
+                data_iso: dataIso,
+                data_inicio: r['Data início'] || r.data_inicio || '',
+                data_fim: r['Data Fim'] || r.data_fim || '',
+                status: r['Status'] || r.status || 'Aberto',
+                score: r['Score'] || r.score || '0,00',
+                local: r['Local (Fazenda - Talhão)'] || r.local || '',
+                os: String(r['OS'] || r.os || ''),
+                frente: r['Frente'] || r.frente || '',
+                responsavel: r['Responsável'] || r.responsavel || '',
+                dosagem_orig: dosagemOrig,
+                dosagem_num: isValidDos ? dosagemNum : null,
+                is_valid_dos: isValidDos,
+                is_outlier: isValidDos && (dosagemNum < 0.975 || dosagemNum > 1.175),
+                lat: isNaN(lat) ? null : lat,
+                lon: isNaN(lon) ? null : lon,
+                has_coords: !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0,
+                _raw: r
+            };
+        },
+
+        /**
          * Formata número para o padrão brasileiro (ex: 1,10 ou 1.234)
          */
         formatNumberBR: function (val, decimals = 2) {

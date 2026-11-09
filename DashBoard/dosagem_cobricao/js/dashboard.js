@@ -240,8 +240,16 @@
      */
     function initData() {
         if (window.DOSAGEM_COBRICAO_DATA && Array.isArray(window.DOSAGEM_COBRICAO_DATA)) {
-            state.rawData = [...window.DOSAGEM_COBRICAO_DATA];
+            state.rawData = window.DOSAGEM_COBRICAO_DATA.map(r => {
+                return (window.DosagemCobricaoEngine && typeof window.DosagemCobricaoEngine.normalizeRecord === 'function')
+                    ? window.DosagemCobricaoEngine.normalizeRecord(r)
+                    : r;
+            });
         } else {
+            state.rawData = [];
+            console.warn('Dataset DOSAGEM_COBRICAO_DATA não encontrado.');
+        }
+    } else {
             state.rawData = [];
             console.warn('Dataset DOSAGEM_COBRICAO_DATA não encontrado.');
         }

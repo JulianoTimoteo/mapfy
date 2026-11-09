@@ -8,6 +8,71 @@
     'use strict';
 
     const BrocaEngine = {
+
+        /**
+         * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+         */
+        normalizeRecord: function (r) {
+            if (!r) return null;
+            const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+            const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+            const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
+            const dataStr = String(r['Data'] || r.data || '').trim();
+            const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+            let dataIso = '';
+            if (dataDia.includes('/')) {
+                const parts = dataDia.split('/');
+                if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+            }
+
+            const machosNum = parseInt(String(r['Quantidade Machos'] || r.machos || '0').replace(/\D/g, ''), 10) || 0;
+            const etapaRaw = String(r['Etapa'] || r.etapa || '').trim().toUpperCase();
+            const isInstalacao = etapaRaw.includes('INSTAL') || etapaRaw.includes('INSTALAÇÃO');
+            const isRecolhimento = etapaRaw.includes('RECOLH') || etapaRaw.includes('RECOLHIMENTO');
+
+            const localOrig = String(r['Fazenda - Talhão'] || r.local_orig || r.local || '').trim();
+            let fazenda = localOrig;
+            let talhao = '';
+            if (localOrig.includes('>')) {
+                const parts = localOrig.split('>');
+                fazenda = parts[0].trim();
+                talhao = parts.slice(1).join('>').trim();
+            } else if (localOrig.includes('-')) {
+                const parts = localOrig.split('-');
+                fazenda = parts[0].trim();
+                talhao = parts.slice(1).join('-').trim();
+            }
+
+            const respNome = String(r['Responsável Lançamento'] || r.responsavel_nome || r.responsavel || 'NÃO INFORMADO').trim();
+            const hasCoords = !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0;
+
+            return {
+                id: String(r['ID'] || r.id || ''),
+                usuario: r['Usuário'] || r.usuario || '',
+                data: dataStr,
+                data_dia: dataDia,
+                data_iso: dataIso,
+                data_inicio: r['Data início'] || r.data_inicio || '',
+                data_fim: r['Data Fim'] || r.data_fim || '',
+                status: r['Status'] || r.status || 'Aberto',
+                score: r['Score'] || r.score || '0,00',
+                score_num: scoreNum,
+                responsavel_nome: respNome,
+                etapa: etapaRaw,
+                is_instalacao: isInstalacao,
+                is_recolhimento: isRecolhimento,
+                local_orig: localOrig,
+                fazenda: fazenda,
+                talhao: talhao,
+                machos: machosNum,
+                lat: hasCoords ? lat : null,
+                lon: hasCoords ? lon : null,
+                has_coords: hasCoords,
+                _raw: r
+            };
+        },
+
         /**
          * Calcula todos os KPIs executivos da base filtrada
          */

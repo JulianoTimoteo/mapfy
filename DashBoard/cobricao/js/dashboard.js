@@ -243,22 +243,14 @@
      */
     function initData() {
         if (window.COBRICAO_DATA && Array.isArray(window.COBRICAO_DATA)) {
-            state.rawData = [...window.COBRICAO_DATA];
+            state.rawData = window.COBRICAO_DATA.map(r => {
+                return (window.CobricaoEngine && typeof window.CobricaoEngine.normalizeRecord === 'function')
+                    ? window.CobricaoEngine.normalizeRecord(r)
+                    : r;
+            });
         } else {
             state.rawData = [];
             console.warn('Dataset COBRICAO_DATA não encontrado.');
-        }
-
-        // Definir filtro inicial padrão na data mais recente disponível (28/10/2026)
-        if (state.rawData.length > 0) {
-            const latest = state.rawData[0];
-            if (latest && latest.data_dia) {
-                state.filters.dateExact = latest.data_dia;
-                const inputDate = document.getElementById('filterDateExact');
-                if (inputDate) {
-                    inputDate.value = latest.data_dia;
-                }
-            }
         }
     }
 

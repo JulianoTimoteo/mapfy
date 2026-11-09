@@ -150,8 +150,16 @@
 (function () {
     'use strict';
 
+    function getNormalizedRecords() {
+        const raw = window.TPL_5S_DATA || [];
+        if (window.Tpl5sEngine && typeof window.Tpl5sEngine.normalizeRecord === 'function') {
+            return raw.map(window.Tpl5sEngine.normalizeRecord);
+        }
+        return raw;
+    }
+
     const state = {
-        allRecords: window.TPL_5S_DATA || [],
+        allRecords: getNormalizedRecords(),
         filteredRecords: [],
         activeFilters: {
             dataInicio: '',
@@ -179,6 +187,9 @@
     document.addEventListener('DOMContentLoaded', init);
 
     function init() {
+        if (!state.allRecords || state.allRecords.length === 0 || !state.allRecords[0]?.q01) {
+            state.allRecords = getNormalizedRecords();
+        }
         state.filteredRecords = [...state.allRecords];
         initTheme();
         initFilters();

@@ -11,6 +11,80 @@
     const QualidadeMudaEngine = {};
 
     /**
+     * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+     */
+    QualidadeMudaEngine.normalizeRecord = function (r) {
+        if (!r) return null;
+        const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+        const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+        const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
+        const scorePercNum = parseFloat(String(r['Score perc.'] || r.score_perc || '').replace(',', '.')) || 0;
+        const dataStr = String(r['Data'] || r.data || '').trim();
+        const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+        let dataIso = '';
+        if (dataDia.includes('/')) {
+            const parts = dataDia.split('/');
+            if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+        }
+
+        const qualMudaOrig = String(r['Qualidade da Muda'] || r.qualidade_muda || 'BOM').trim();
+        const qualMudaNorm = qualMudaOrig.toUpperCase();
+        const isBom = qualMudaNorm === 'BOM';
+        const isRuim = qualMudaNorm === 'RUIM';
+        const obs = String(r['Observações '] || r['Observações'] || r.observacoes || '').trim();
+        const obsLower = obs.toLowerCase();
+        const hasBroca = obsLower.includes('broca');
+
+        let brocaQtd = null;
+        let brocaTipo = null;
+        if (hasBroca) {
+            brocaTipo = obsLower.includes('plano') ? 'Plano de Ação (Broca)' : 'Broca Identificada';
+            const numMatch = obs.match(/\b(\d+)\b/);
+            if (numMatch) brocaQtd = parseInt(numMatch[1], 10);
+        }
+
+        const isDivergenteScore = (isBom && scorePercNum === 0) || (isRuim && scorePercNum === 100);
+        const hasCoords = !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0;
+
+        return {
+            id: String(r['ID'] || r.id || ''),
+            usuario: r['Usuário'] || r.usuario || '',
+            data: dataStr,
+            data_dia: dataDia,
+            data_iso: dataIso,
+            data_inicio: r['Data início'] || r.data_inicio || '',
+            data_fim: r['Data Fim'] || r.data_fim || '',
+            status: r['Status'] || r.status || 'Aberto',
+            score: r['Score'] || r.score || '0,00',
+            score_num: scoreNum,
+            score_perc: scorePercNum,
+            score_desc: r['Score desc.'] || (scorePercNum >= 100 ? 'Bom' : 'Baixo'),
+            local: r['Local (Fazenda - Talhão)'] || r.local || '',
+            os: String(r['OS'] || r.os || ''),
+            frente: r['Frente'] || r.frente || '',
+            responsavel: r['Responsável'] || r.responsavel || '',
+            qualidade_muda: qualMudaNorm,
+            qualidade_muda_orig: qualMudaOrig,
+            is_bom: isBom,
+            is_ruim: isRuim,
+            observacoes: obs,
+            has_broca: hasBroca,
+            broca_qtd: brocaQtd,
+            broca_tipo: brocaTipo,
+            is_divergente_score: isDivergenteScore,
+            duracao_min: 1,
+            lat: hasCoords ? lat : 0,
+            lon: hasCoords ? lon : 0,
+            lng: hasCoords ? lon : 0,
+            has_coords: hasCoords,
+            has_valid_coords: hasCoords,
+            _raw: r
+        };
+    };
+
+
+    /**
      * Calcula métricas executivas globais para o conjunto filtrado
      */
     QualidadeMudaEngine.calculateMetrics = function (records) {

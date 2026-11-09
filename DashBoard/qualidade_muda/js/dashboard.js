@@ -225,7 +225,10 @@
 
     // 2. Inicialização dos Dados
     function initData() {
-        state.allRecords = window.QUALIDADE_MUDA_DATA || [];
+        const raw = window.QUALIDADE_MUDA_DATA || [];
+        state.allRecords = (window.QualidadeMudaEngine && typeof window.QualidadeMudaEngine.normalizeRecord === 'function')
+            ? raw.map(window.QualidadeMudaEngine.normalizeRecord)
+            : raw;
         if (state.allRecords.length > 0) {
             state.latestDateStr = state.allRecords[0].data_dia || '';
             const lbl = document.getElementById('lblLatestDate');

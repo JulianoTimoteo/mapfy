@@ -247,22 +247,14 @@
      */
     function initData() {
         if (window.ARREMATE_DATA && Array.isArray(window.ARREMATE_DATA)) {
-            state.rawData = [...window.ARREMATE_DATA];
+            state.rawData = window.ARREMATE_DATA.map(r => {
+                return (window.ArremateEngine && typeof window.ArremateEngine.normalizeRecord === 'function')
+                    ? window.ArremateEngine.normalizeRecord(r)
+                    : r;
+            });
         } else {
             state.rawData = [];
             console.warn('Dataset ARREMATE_DATA não encontrado.');
-        }
-
-        // Definir filtro inicial padrão na data mais recente disponível (28/10/2026)
-        if (state.rawData.length > 0) {
-            const latest = state.rawData[0];
-            if (latest && latest.data_dia) {
-                state.filters.dateExact = latest.data_dia;
-                const inputDate = document.getElementById('filterDateExact');
-                if (inputDate) {
-                    inputDate.value = latest.data_dia;
-                }
-            }
         }
     }
 

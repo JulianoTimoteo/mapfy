@@ -114,9 +114,17 @@
         Chart.register(universalDataLabelsPlugin);
     }
 
+    function getNormalizedRecords() {
+        const raw = typeof CHECKLIST_DATA !== 'undefined' ? CHECKLIST_DATA : (window.CHECKLIST_DATA || []);
+        if (typeof ChecklistEngine !== 'undefined' && typeof ChecklistEngine.normalizeRecord === 'function') {
+            return raw.map(ChecklistEngine.normalizeRecord);
+        }
+        return raw;
+    }
+
     // Estado da Aplicação
     const state = {
-        allRecords: typeof CHECKLIST_DATA !== 'undefined' ? CHECKLIST_DATA : [],
+        allRecords: getNormalizedRecords(),
         filteredRecords: [],
         filters: {
             dataInicio: '',
@@ -191,6 +199,9 @@
 
     // 2. Inicialização do Estado
     function initState() {
+        if (!state.allRecords || state.allRecords.length === 0 || !state.allRecords[0]?.frota_codigo) {
+            state.allRecords = getNormalizedRecords();
+        }
         state.filteredRecords = [...state.allRecords];
         // Selecionar primeiro veículo com avarias para prontuário padrão
         const reinc = ChecklistEngine.buildReincidenciaIntelligence(state.allRecords);

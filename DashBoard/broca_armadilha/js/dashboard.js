@@ -8,7 +8,9 @@
     'use strict';
 
     const state = {
-        allRecords: window.BROCA_ARMADILHA_DATA || [],
+        allRecords: (window.BrocaEngine && typeof window.BrocaEngine.normalizeRecord === 'function')
+            ? (window.BROCA_ARMADILHA_DATA || []).map(r => window.BrocaEngine.normalizeRecord(r))
+            : (window.BROCA_ARMADILHA_DATA || []),
         filteredRecords: [],
         activeFilters: {
             dataInicio: '',
@@ -135,6 +137,12 @@
     document.addEventListener('DOMContentLoaded', init);
 
     function init() {
+        if (!state.allRecords || state.allRecords.length === 0 || !state.allRecords[0]?.etapa) {
+            const raw = window.BROCA_ARMADILHA_DATA || [];
+            state.allRecords = (window.BrocaEngine && typeof window.BrocaEngine.normalizeRecord === 'function')
+                ? raw.map(r => window.BrocaEngine.normalizeRecord(r))
+                : raw;
+        }
         state.filteredRecords = [...state.allRecords];
         initTheme();
         initFilters();

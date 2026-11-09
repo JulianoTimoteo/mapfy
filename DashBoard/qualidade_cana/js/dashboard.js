@@ -234,7 +234,10 @@
 
     // 2. Inicialização dos Dados
     function initData() {
-        state.allRecords = window.QUALIDADE_CANA_DATA || [];
+        const raw = window.QUALIDADE_CANA_DATA || [];
+        state.allRecords = (window.QualidadeCanaEngine && typeof window.QualidadeCanaEngine.normalizeRecord === 'function')
+            ? raw.map(window.QualidadeCanaEngine.normalizeRecord)
+            : raw;
 
         if (state.allRecords.length > 0) {
             state.latestDateStr = state.allRecords[0].data_dia || '28/10/2026';

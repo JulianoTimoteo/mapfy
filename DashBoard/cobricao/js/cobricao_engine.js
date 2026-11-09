@@ -10,6 +10,58 @@
 
     const CobricaoEngine = {
         /**
+         * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+         */
+        normalizeRecord: function (r) {
+            if (!r) return null;
+            const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+            const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+            const dataStr = String(r['Data'] || r.data || '').trim();
+            const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+            let dataIso = '';
+            if (dataDia.includes('/')) {
+                const parts = dataDia.split('/');
+                if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+            }
+
+            const profOrig = String(r['Profundidade de Cobrição'] || r.profundidade_orig || r.profundidade || '').trim();
+            const profNum = parseFloat(profOrig.replace(',', '.'));
+            const isValidProf = !isNaN(profNum) && profNum > 0;
+
+            let catAnalitica = 'Padrão (8cm)';
+            if (isValidProf) {
+                if (profNum < 8) catAnalitica = 'Rasa (< 8cm)';
+                else if (profNum > 8) catAnalitica = 'Profunda (> 8cm)';
+            }
+
+            return {
+                id: String(r['ID'] || r.id || ''),
+                usuario: r['Usuário'] || r.usuario || '',
+                data: dataStr,
+                data_dia: dataDia,
+                data_iso: dataIso,
+                data_inicio: r['Data início'] || r.data_inicio || '',
+                data_fim: r['Data Fim'] || r.data_fim || '',
+                status: r['Status'] || r.status || 'Aberto',
+                score: r['Score'] || r.score || '0,00',
+                local: r['Local (Fazenda - Talhão)'] || r.local || '',
+                os: String(r['OS'] || r.os || ''),
+                frente: r['Frente'] || r.frente || '',
+                responsavel: r['Responsável'] || r.responsavel || '',
+                profundidade_orig: profOrig,
+                profundidade_num: isValidProf ? profNum : null,
+                is_valid_prof: isValidProf,
+                is_outlier: isValidProf && (profNum < 4 || profNum > 12),
+                categoria_analitica: catAnalitica,
+                lat: isNaN(lat) ? null : lat,
+                lon: isNaN(lon) ? null : lon,
+                has_coords: !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0,
+                _raw: r
+            };
+        },
+
+        /**
          * Formata número para o padrão brasileiro (ex: 8,04 ou 2.020)
          */
         formatNumberBR: function (val, decimals = 2) {

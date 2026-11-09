@@ -29405,3 +29405,7 @@ const CHECKLIST_DATA = [
     "Unnamed: 21": null
   }
 ];
+
+if (typeof window !== 'undefined') {
+  window.CHECKLIST_DATA = CHECKLIST_DATA;
+}

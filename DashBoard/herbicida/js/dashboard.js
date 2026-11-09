@@ -8,7 +8,9 @@
     'use strict';
 
     const state = {
-        allRecords: window.HERBICIDA_DATA || [],
+        allRecords: (window.HerbicidaEngine && typeof window.HerbicidaEngine.normalizeRecord === 'function')
+            ? (window.HERBICIDA_DATA || []).map(r => window.HerbicidaEngine.normalizeRecord(r))
+            : (window.HERBICIDA_DATA || []),
         filteredRecords: [],
         activeFilters: {
             dataInicio: '',
@@ -41,6 +43,12 @@
     document.addEventListener('DOMContentLoaded', init);
 
     function init() {
+        if (!state.allRecords || state.allRecords.length === 0 || !state.allRecords[0]?.q01) {
+            const raw = window.HERBICIDA_DATA || [];
+            state.allRecords = (window.HerbicidaEngine && typeof window.HerbicidaEngine.normalizeRecord === 'function')
+                ? raw.map(r => window.HerbicidaEngine.normalizeRecord(r))
+                : raw;
+        }
         state.filteredRecords = [...state.allRecords];
         initTheme();
         initFilters();

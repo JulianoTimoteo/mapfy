@@ -10,6 +10,62 @@
 
     const ArremateEngine = {
         /**
+         * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+         */
+        normalizeRecord: function (r) {
+            if (!r) return null;
+            const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+            const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+            const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
+            const scorePercNum = parseFloat(String(r['Score perc.'] || r.score_perc || '').replace(',', '.')) || (scoreNum >= 10 ? 100 : 0);
+            const dataStr = String(r['Data'] || r.data || '').trim();
+            const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+            let dataIso = '';
+            if (dataDia.includes('/')) {
+                const parts = dataDia.split('/');
+                if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+            }
+
+            const scoreDesc = r['Score desc.'] || (scoreNum >= 10 ? 'Bom' : 'Baixo');
+            const faseScore = scoreNum >= 10 ? 'Score Ativo (10,00 - 100% Bom)' : 'Score Pré-Ativação (0,00 - 0% Baixo)';
+            const arremateOrig = String(r['Arremate e Acabamento'] || r.arremate_orig || 'BOM').trim();
+            const arremateNorm = arremateOrig.toUpperCase();
+            const isBom = arremateNorm === 'BOM';
+            const isScoreDivergente = scoreNum < 10.0;
+
+            return {
+                id: String(r['ID'] || r.id || ''),
+                usuario: r['Usuário'] || r.usuario || '',
+                data: dataStr,
+                data_dia: dataDia,
+                data_iso: dataIso,
+                data_inicio: r['Data início'] || r.data_inicio || '',
+                data_fim: r['Data Fim'] || r.data_fim || '',
+                data_lancamento: r['Data e Hora do Lançamento'] || r['Data início'] || dataStr,
+                status: r['Status'] || r.status || 'Aberto',
+                score: r['Score'] || r.score || '0,00',
+                score_num: scoreNum,
+                score_perc: String(scorePercNum),
+                score_perc_num: scorePercNum,
+                score_desc: scoreDesc,
+                fase_score: faseScore,
+                is_score_divergente: isScoreDivergente,
+                local: r['Local (Fazenda - Talhão)'] || r.local || '',
+                os: String(r['OS'] || r.os || ''),
+                frente: r['Frente'] || r.frente || '',
+                responsavel: r['Responsável'] || r.responsavel || '',
+                arremate_orig: arremateOrig,
+                arremate_norm: arremateNorm,
+                is_bom: isBom,
+                lat: isNaN(lat) ? null : lat,
+                lon: isNaN(lon) ? null : lon,
+                has_coords: !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0,
+                _raw: r
+            };
+        },
+
+        /**
          * Formata número para o padrão brasileiro
          */
         formatNumberBR: function (val, decimals = 1) {

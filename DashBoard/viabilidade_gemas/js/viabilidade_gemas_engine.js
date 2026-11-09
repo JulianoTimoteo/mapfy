@@ -10,6 +10,67 @@
 
     const ViabilidadeGemasEngine = {};
 
+    /**
+     * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+     */
+    ViabilidadeGemasEngine.normalizeRecord = function (r) {
+        if (!r) return null;
+        const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+        const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+        const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
+        const scorePercNum = parseFloat(String(r['Score perc.'] || r.score_perc || '').replace(',', '.')) || 0;
+        const dataStr = String(r['Data'] || r.data || '').trim();
+        const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+        let dataIso = '';
+        if (dataDia.includes('/')) {
+            const parts = dataDia.split('/');
+            if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+        }
+
+        const gTotal = parseInt(String(r['Quantidade de Gemas Total'] || r.gemas_total || '0').replace(/\D/g, ''), 10) || 0;
+        const gViaveis = parseInt(String(r['Quantidade de Gemas Viáveis'] || r.gemas_viaveis || '0').replace(/\D/g, ''), 10) || 0;
+        const gInviaveis = parseInt(String(r['Quantidade de Gemas Inviáveis'] || r.gemas_inviaveis || '0').replace(/\D/g, ''), 10) || 0;
+
+        const isConsistente = (gViaveis + gInviaveis) === gTotal && gTotal > 0;
+        const percViaveis = gTotal > 0 ? (gViaveis / gTotal) * 100 : 0;
+        const percInviaveis = gTotal > 0 ? (gInviaveis / gTotal) * 100 : 0;
+        const hasCoords = !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0;
+
+        return {
+            id: String(r['ID'] || r.id || ''),
+            usuario: r['Usuário'] || r.usuario || '',
+            data: dataStr,
+            data_dia: dataDia,
+            data_iso: dataIso,
+            data_inicio: r['Data início'] || r.data_inicio || '',
+            data_fim: r['Data Fim'] || r.data_fim || '',
+            status: r['Status'] || r.status || 'Aberto',
+            score: r['Score'] || r.score || '0,00',
+            score_num: scoreNum,
+            score_perc: scorePercNum,
+            score_desc: r['Score desc.'] || 'Bom',
+            local: r['Local (Fazenda - Talhão)'] || r.local || '',
+            os: String(r['OS'] || r.os || ''),
+            frente: r['Frente'] || r.frente || '',
+            responsavel: r['Responsável'] || r.responsavel || '',
+            gemas_total: gTotal,
+            gemas_viaveis: gViaveis,
+            gemas_inviaveis: gInviaveis,
+            is_consistente: isConsistente,
+            perc_viaveis: percViaveis,
+            perc_inviaveis: percInviaveis,
+            duracao_min: 2,
+            lat: hasCoords ? lat : null,
+            lng: hasCoords ? lon : null,
+            lon: hasCoords ? lon : null,
+            has_valid_coords: hasCoords,
+            has_coords: hasCoords,
+            _raw: r
+        };
+    };
+
+
     const DEFAULT_CONFIG = {
         metaMinima: 95.0,
         configurada: false,

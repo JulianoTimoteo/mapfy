@@ -694,6 +694,106 @@ const ChecklistEngine = (function () {
             .sort((a, b) => b.moderados - a.moderados || b.compsDanificados - a.compsDanificados);
     }
 
+    /**
+     * Normaliza registro bruto do MapFy para a estrutura analítica padrão da frota
+     */
+    function normalizeRecord(r) {
+        if (!r) return null;
+        const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+        const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+        const dataStr = String(r['Data'] || r.data || '').trim();
+        const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+        // Parse frota
+        const frotaRaw = String(r['Frota'] || r.frota || '').trim();
+        let frotaCodigo = 'NÃO_IDENTIFICADA';
+        let frotaModelo = frotaRaw;
+        let frotaPlaca = '';
+
+        if (frotaRaw.includes('-')) {
+            const parts = frotaRaw.split('-');
+            frotaCodigo = parts[0].trim();
+            frotaModelo = parts.slice(1).join('-').trim();
+        }
+        const placaMatch = frotaRaw.match(/\(([^)]+)\)/);
+        if (placaMatch) {
+            frotaPlaca = placaMatch[1].trim();
+        }
+
+        // Criticidade
+        const critRaw = String(r['Estado de Criticidade Veículo'] || r.criticidade || '').trim();
+        let criticidade = 'Outros';
+        if (critRaw.toLowerCase().startsWith('leve')) criticidade = 'Leve';
+        else if (critRaw.toLowerCase().startsWith('moderado')) criticidade = 'Moderado';
+
+        // Videotelemetria
+        const videoRaw = String(r['VIDEOTELEMTRIA'] || r.videotelemetria || '').trim().toUpperCase();
+        const videotelemetria = videoRaw === 'SIM' ? 'SIM' : 'NÃO';
+
+        // Abrir OS
+        const abrirOsRaw = String(r['Abrir Os '] || r['Abrir Os'] || r.abrir_os || '').trim().toUpperCase();
+        const abrirOs = abrirOsRaw === 'SIM' ? 'SIM' : 'NÃO';
+        const osNumero = r['Os'] || r.os_numero || '';
+
+        // Itens Danificados
+        const itensDanificadosRaw = r['Itens Danificados'] || r.itens_danificados || '';
+        let componentes = [];
+        if (itensDanificadosRaw && itensDanificadosRaw !== '-' && itensDanificadosRaw.trim() !== '') {
+            const parts = itensDanificadosRaw.split(/[;,]/).map(c => c.trim()).filter(Boolean);
+            componentes = parts.map(p => {
+                let nome = p;
+                let codigo = '';
+                const match = p.match(/^([^(]+)(?:\(([^)]+)\))?/);
+                if (match) {
+                    nome = match[1].trim();
+                    codigo = match[2] ? match[2].trim() : '';
+                }
+                const nomeSemNum = nome.replace(/^\d+[\.\-\s]\s*/, '').trim();
+                const categoria = COMPONENT_CATEGORIES[nomeSemNum] || COMPONENT_CATEGORIES[nome] || "Outros Componentes";
+                return {
+                    nome: nomeSemNum || nome,
+                    nomeOriginal: p,
+                    codigo: codigo,
+                    categoria: categoria
+                };
+            });
+        }
+        const temAvaria = componentes.length > 0;
+
+        return {
+            id: String(r['ID'] || r.id || ''),
+            usuario: r['Usuário'] || r.usuario || '',
+            data: dataStr,
+            data_dia: dataDia,
+            data_inicio: r['Data início'] || r.data_inicio || '',
+            data_fim: r['Data Fim'] || r.data_fim || '',
+            status: r['Status'] || r.status || 'Aberto',
+            score: r['Score'] || r.score || '0,00',
+            frota_raw: frotaRaw,
+            frota_codigo: frotaCodigo,
+            frota_modelo: frotaModelo,
+            frota_placa: frotaPlaca,
+            gestor: String(r['GESTORES'] || r.gestor || 'NÃO INFORMADO').trim(),
+            condutor: String(r['Condutor'] || r.condutor || 'NÃO INFORMADO').trim(),
+            criticidade: criticidade,
+            criticidade_raw: critRaw,
+            videotelemetria: videotelemetria,
+            abrir_os: abrirOs,
+            os_numero: osNumero,
+            itens_danificados: itensDanificadosRaw,
+            componentes: componentes,
+            qtd_componentes: componentes.length,
+            tem_avaria: temAvaria,
+            observacoes: r['Observacoes'] || r.observacoes || '',
+            id_colaborador: r['ID COLABORADOR'] || '',
+            id_avaliador: r['ID DO AVALIADOR(A)'] || '',
+            lat: isNaN(lat) ? null : lat,
+            lon: isNaN(lon) ? null : lon,
+            has_coords: !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0,
+            _raw: r
+        };
+    }
+
     return {
         COMPONENT_CATEGORIES,
         calculateKPIs,
@@ -706,7 +806,8 @@ const ChecklistEngine = (function () {
         buildGestoresAnalysis,
         buildCondutoresAnalysis,
         buildTimeSeries,
-        buildVeiculosAtencaoPrioritaria
+        buildVeiculosAtencaoPrioritaria,
+        normalizeRecord
     };
 })();
 

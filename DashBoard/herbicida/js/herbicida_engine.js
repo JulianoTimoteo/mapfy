@@ -8,6 +8,96 @@
     'use strict';
 
     const HerbicidaEngine = {
+
+        /**
+         * Normaliza registro bruto do MapFy para a estrutura analítica padrão
+         */
+        normalizeRecord: function (r) {
+            if (!r) return null;
+            const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+            const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+            const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
+            const dataStr = String(r['Data'] || r.data || '').trim();
+            const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+            let dataIso = '';
+            if (dataDia.includes('/')) {
+                const parts = dataDia.split('/');
+                if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
+            }
+
+            const ventoNum = parseFloat(String(r['Vento'] || r.vento || '').replace(',', '.'));
+            const urNum = parseFloat(String(r['Umidade Relativa'] || r.ur || '').replace(',', '.'));
+            const tempNum = parseFloat(String(r['Temperatura '] || r['Temperatura'] || r.temp || '').replace(',', '.'));
+            const espacamentoBicoNum = parseFloat(String(r['Espaçamento de Bico'] || r.espacamento || '').replace(',', '.'));
+            const vazaoNum = parseFloat(String(r['Vazão'] || r.vazao || '').replace(',', '.'));
+
+            const hasWeather = !isNaN(tempNum) && !isNaN(urNum) && !isNaN(ventoNum);
+            let deltaTNum = null;
+            let deltaTClasse = 'Sem Dados';
+            if (!isNaN(tempNum) && !isNaN(urNum)) {
+                deltaTNum = HerbicidaEngine.calculateDeltaT(tempNum, urNum);
+                const dtClassObj = HerbicidaEngine.classifyDeltaT(deltaTNum);
+                deltaTClasse = dtClassObj.classe;
+            }
+
+            const normAns = (v) => {
+                if (!v) return 'N/A';
+                const s = String(v).trim().toUpperCase();
+                if (s === 'OK') return 'OK';
+                if (s === 'NOK' || s === 'NÃO' || s === 'NAO') return 'NOK';
+                return 'N/A';
+            };
+
+            const q01 = normAns(r['O responsável realizou a avaliação de qualidade antes de iniciar a operação?'] || r.q01);
+            const q02 = normAns(r['O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?'] || r.q02);
+            const q03 = normAns(r['Abertura do leque'] || r.q03);
+            const q04 = normAns(r['Limpeza de filtros da bomba do implemento '] || r['Limpeza de filtros da bomba do implemento'] || r.q04);
+            const q05 = normAns(r['Limpeza de bicos'] || r.q05);
+
+            const temNok = [q01, q02, q03, q04, q05].some(q => q === 'NOK');
+            const obs = String(r['Observações'] || r.observacoes || '').trim();
+            const isParadaClima = obs.toLowerCase().includes('parada') || obs.toLowerCase().includes('climáticas') || obs.toLowerCase().includes('climaticas');
+            const isClima = deltaTClasse.includes('Crítico') || isParadaClima;
+            const temOcorrencia = temNok || isClima || obs.length > 0;
+            const hasCoords = !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0;
+
+            return {
+                id: String(r['ID'] || r.id || ''),
+                usuario: r['Usuário'] || r.usuario || '',
+                data: dataStr,
+                data_dia: dataDia,
+                data_iso: dataIso,
+                data_inicio: r['Data início'] || r.data_inicio || '',
+                data_fim: r['Data Fim'] || r.data_fim || '',
+                status: r['Status'] || r.status || 'Aberto',
+                score: r['Score'] || r.score || '0,00',
+                score_num: scoreNum,
+                fazenda: r['Fazenda'] || r.fazenda || '',
+                os: String(r['Ordem de Serviço'] || r.os || ''),
+                operacao: r['Operação'] || r.operacao || '',
+                planta_soca: r['Planta ou Soca'] || r.planta_soca || '',
+                q01, q02, q03, q04, q05,
+                vento_num: isNaN(ventoNum) ? null : ventoNum,
+                ur_num: isNaN(urNum) ? null : urNum,
+                temp_num: isNaN(tempNum) ? null : tempNum,
+                espacamento_bico_num: isNaN(espacamentoBicoNum) ? null : espacamentoBicoNum,
+                vazao_num: isNaN(vazaoNum) ? null : vazaoNum,
+                has_weather: hasWeather,
+                delta_t_num: deltaTNum,
+                delta_t_classe: deltaTClasse,
+                observacoes: obs,
+                tem_nok_estruturado: temNok,
+                is_parada_clima: isParadaClima,
+                is_clima: isClima,
+                tem_ocorrencia: temOcorrencia,
+                lat: hasCoords ? lat : null,
+                lon: hasCoords ? lon : null,
+                has_coords: hasCoords,
+                _raw: r
+            };
+        },
+
         /**
          * Calcula a temperatura de bulbo úmido usando a equação de Stull (2011)
          * @param {number} t Temperatura de bulbo seco em °C

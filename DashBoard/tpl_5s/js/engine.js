@@ -272,6 +272,77 @@ window.Tpl5sEngine = (function () {
         return { avg, median, min, max, count: durs.length };
     }
 
+    function normalizeRecord(r) {
+        if (!r) return null;
+        const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
+        const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
+        const dataStr = String(r['Data'] || r.data || '').trim();
+        const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+
+        const normAns = (v) => {
+            if (!v) return 'N/A';
+            const s = String(v).trim().toUpperCase();
+            if (s === 'OK') return 'OK';
+            if (s === 'NOK' || s === 'NÃO' || s === 'NAO') return 'NOK';
+            return 'N/A';
+        };
+
+        const q01 = normAns(r['01-Área de vivência está em boas condições de organização e limpeza?'] || r.q01);
+        const q03 = normAns(r['03 - Não há itens faltando, quebrados ou com sinais de mal uso?'] || r.q03);
+        const q04 = normAns(r['04 - A sinalização está adequada e o acesso ao local é seguro?'] || r.q04);
+        const q05 = normAns(r['05 - Boas condições de organização, limpeza e conservação dos equipamentos?'] || r.q05);
+        const q06 = normAns(r['06 - Os colaboradores estão utilizando os EPIs adequados?'] || r.q06);
+        const q07 = normAns(r['07 - Extintor está válido e carregado?'] || r.q07);
+
+        const questions = [q01, q03, q04, q05, q06, q07];
+        const totalAvaliados = questions.filter(q => q === 'OK' || q === 'NOK').length;
+        const totalOk = questions.filter(q => q === 'OK').length;
+        const totalNok = questions.filter(q => q === 'NOK').length;
+        const temNok = totalNok > 0;
+        const percConformidade = totalAvaliados > 0 ? Number(((totalOk / totalAvaliados) * 100).toFixed(1)) : 100.0;
+
+        let pinColor = '#10B981'; // Verde padrão
+        if (q07 === 'NOK' || q06 === 'NOK') {
+            pinColor = '#EF4444'; // Vermelho crítico (extintor ou EPI)
+        } else if (temNok) {
+            pinColor = '#F59E0B'; // Âmbar
+        }
+
+        return {
+            id: String(r['ID'] || r.id || ''),
+            usuario: r['Usuário'] || r.usuario || '',
+            data: dataStr,
+            data_dia: dataDia,
+            data_inicio: r['Data início'] || r.data_inicio || '',
+            data_fim: r['Data Fim'] || r.data_fim || '',
+            duracao_min: 5,
+            status: r['Status'] || r.status || 'Aberto',
+            score: r['Score'] || r.score || '0,00',
+            setor: r['Setor'] || r.setor || 'OUTROS',
+            fazenda: r['Fazenda'] || r.fazenda || '',
+            frente: r['Frente'] || r.frente || 'NÃO INFORMADA',
+            responsavel: r['Responsável Vistoria'] || r['Responsável'] || r.responsavel || 'NÃO INFORMADO',
+            operacao: r['Operação'] || r.operacao || '',
+            q01,
+            q03,
+            q04,
+            q05,
+            q06,
+            q07,
+            total_avaliados: totalAvaliados,
+            total_ok: totalOk,
+            total_nok: totalNok,
+            tem_nok: temNok,
+            perc_conformidade: percConformidade,
+            pin_color: pinColor,
+            obs: r['Observação'] || r.obs || '',
+            lat: isNaN(lat) ? null : lat,
+            lon: isNaN(lon) ? null : lon,
+            has_coords: !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0,
+            _raw: r
+        };
+    }
+
     return {
         QUESTION_METADATA,
         computeKPIs,
@@ -280,6 +351,7 @@ window.Tpl5sEngine = (function () {
         computeFrenteRanking,
         computeResponsavelRanking,
         computeTemporalData,
-        computeDurationStats
+        computeDurationStats,
+        normalizeRecord
     };
 })();
