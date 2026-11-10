@@ -1,41 +1,44 @@
 ===============================================================================
-           MAPFY 2026 - GUIA DE EXECUTORES EM SEGUNDO PLANO
-           Usina Pitangueiras - Safra 2026
+           MAPFY 2026 - GUIA DE EXECUTORES PORTATEIS (100% AUTONOMO)
 ===============================================================================
 
-Esta pasta contem os executores numerados em rigorosa ordem de utilizacao.
-Cada funcao possui versao .EXE nativa e versao .BAT transparente.
+ESTRUTURA DE ARQUIVOS (RAIZ DA PASTA OU DO PENDRIVE):
+Fora da pasta 'server', ficam APENAS os 6 executores e este guia.
+Voce pode usar tanto a versao executavel (.exe) quanto em lote (.bat):
 
-1. INICIAR O SERVIDOR 24/7 EM SEGUNDO PLANO:
-   - 1_INICIAR_SERVIDOR_24_7.exe  (ou 1_INICIAR_SERVIDOR_24_7.bat)
-   - Dispara a API FastAPI/Uvicorn na porta 8000, o agendador e o extrator
-     em processo 100% oculto (background). A janela fecha em 3 segundos.
-   - Painel local: http://127.0.0.1:8000
+  [1] 1_INICIAR_SERVIDOR_24_7.exe  (ou .bat)
+      Inicia a API FastAPI e o agendador incremental em SEGUNDO PLANO invisivel.
+      Abre a porta 8000 (http://127.0.0.1:8000) e publica no GitHub Pages.
+      A janela fecha automaticamente em 3 segundos apos a inicializacao.
 
-2. INICIAR O AGENTE SENTINEL EM SEGUNDO PLANO:
-   - 2_INICIAR_SENTINEL_AGENT.exe  (ou 2_INICIAR_SENTINEL_AGENT.bat)
-   - Transmite telemetria e heartbeat autenticado a cada 60s em background.
-   - A janela fecha em 3 segundos.
+  [2] 2_INICIAR_SENTINEL_AGENT.exe (ou .bat)
+      Inicia o Agente de Telemetria e Monitoramento Sentinel em SEGUNDO PLANO.
+      Envia heartbeats criptografados e com token HMAC a cada 60s para o Sentinel.
+      A janela fecha automaticamente em 3 segundos apos a inicializacao.
 
-3. EXTRACAO INCREMENTAL MANUAL (QUANDO QUISER FORCAR ATUALIZACAO):
-   - 3_INICIAR_EXTRATOR.exe  (ou 3_INICIAR_EXTRATOR.bat)
-   - Executa a raspagem headless no Mapfy via Playwright.
-   - Exibe o progresso de cada relatorio em tempo real na tela.
+  [3] 3_INICIAR_EXTRATOR.exe       (ou .bat)
+      Dispara um ciclo de extracao manual completo em janela de console visivel.
+      Utiliza Playwright automatizado em segundo plano e consolida os dados.
 
-4. EXECUTAR TESTES DE INTEGRACAO E SANIDADE:
-   - 4_EXECUTAR_TESTES.exe  (ou 4_EXECUTAR_TESTES.bat)
-   - Valida 100% dos 13 testes unitarios (API, Extrator, Publisher, Watchdog).
+  [4] 4_EXECUTAR_TESTES.exe        (ou .bat)
+      Executa a bateria de 14 testes automatizados de integridade, API,
+      telemetria, mapas geoespaciais e extrator com relatorio na tela.
 
-5. VERIFICAR STATUS DOS SERVICOS:
-   - 5_STATUS_SERVICOS.exe  (ou 5_STATUS_SERVICOS.bat)
-   - Consulta a porta 8000, os PIDs ativos e as ultimas linhas de log.
+  [5] 5_STATUS_SERVICOS.exe        (ou .bat)
+      Exibe o painel de saude do servidor e do Sentinel, verificando se a porta 8000
+      esta respondendo OK, se os processos estao ativos e as ultimas linhas de log.
 
-6. PARAR TODOS OS SERVICOS EM SEGUNDO PLANO:
-   - 6_PARAR_SERVICOS.exe  (ou 6_PARAR_SERVICOS.bat)
-   - Encerra com seguranca os processos em background e libera a porta 8000.
+  [6] 6_PARAR_SERVICOS.exe         (ou .bat)
+      Encerra imediatamente todos os servicos do MapFy e do Sentinel em segundo
+      plano, liberando a porta 8000 e finalizando processos orfaos.
 
 ===============================================================================
-NOTA IMPORTANTE:
-- Mantenha a pasta 'server' sempre junto destes arquivos executores.
-- Nenhuma janela ou navegador ficara aberto atrapalhando o uso do computador.
+FUNCIONAMENTO EM COMPUTADORES SEM PYTHON INSTALADO:
+===============================================================================
+- Este pacote contem um Runtime Python 3.12 Portatil completo integrado dentro
+  da pasta 'server\runtime\'.
+- Nao e necessario instalar Python, Git, nem configurar variaveis de ambiente
+  no computador onde o MapFy for executado.
+- Os executores (.exe e .bat) detectam automaticamente o runtime embutido e
+  executam 100% de forma isolada, autonoma e transparente.
 ===============================================================================
