@@ -38,9 +38,6 @@ import sys
 import time
 import zipfile
 
-# Limite conservador de heap para o processo Node.js interno do Playwright (evita AlignedAlloc Allocation failed)
-os.environ.setdefault("NODE_OPTIONS", "--max-old-space-size=512 --no-warnings")
-
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
@@ -66,6 +63,12 @@ BASE_DIR = PROJECT_DIR
 RELATORIOS_DIR = REPORTS_DIR
 LOG_FILE = REPORTS_DIR.parent / "mapfy_extractor.log"
 EXTRACTION_LOCK_FILE = REPORTS_DIR.parent / ".extraction.lock"
+
+# Garante uso do Chromium 64-bit autônomo embutido no pendrive
+EMBEDDED_BROWSERS_DIR = BASE_DIR / "runtime" / "ms-playwright"
+if EMBEDDED_BROWSERS_DIR.is_dir():
+    os.environ["PLAYWRIGHT_BROWSERS_PATH"] = str(EMBEDDED_BROWSERS_DIR)
+
 
 from contextlib import contextmanager
 
@@ -786,31 +789,37 @@ def run_full_extraction(
             launch_args.append("--start-maximized")
 
         browser = None
-        channels_to_try = ["chrome", "msedge"]
         last_browser_err = None
 
-        for ch in channels_to_try:
-            try:
-                emit(f"Inicializando navegador (canal: {ch})...")
-                browser = pw.chromium.launch(
-                    channel=ch,
-                    headless=headless,
-                    args=launch_args
-                )
-                emit(f"[OK] Navegador ativo via canal '{ch}'.")
-                break
-            except Exception as e:
-                last_browser_err = e
-                emit(f"Canal '{ch}' indisponível, tentando próximo...", "WARNING")
+        # 1. Tenta inicializar o Chromium autônomo embutido no runtime do pendrive
+        try:
+            emit("Inicializando Chromium autônomo embutido no pendrive...")
+            browser = pw.chromium.launch(
+                headless=headless,
+                args=launch_args
+            )
+            emit("[OK] Chromium autônomo embutido ativo.")
+        except Exception as e_embed:
+            last_browser_err = e_embed
+            emit(f"Chromium embutido indisponível ({e_embed}), testando navegadores do sistema...", "WARNING")
+
+            # 2. Fallback para navegadores instalados no sistema operacional (Chrome / Edge)
+            for ch in ["chrome", "msedge"]:
+                try:
+                    emit(f"Tentando canal '{ch}' do sistema...")
+                    browser = pw.chromium.launch(
+                        channel=ch,
+                        headless=headless,
+                        args=launch_args
+                    )
+                    emit(f"[OK] Navegador ativo via canal '{ch}'.")
+                    break
+                except Exception as e_chan:
+                    last_browser_err = e_chan
 
         if browser is None:
-            try:
-                emit("Tentando inicializar com Chromium padrão...")
-                browser = pw.chromium.launch(headless=headless, args=launch_args)
-                emit("[OK] Navegador ativo via Chromium padrão.")
-            except Exception as e:
-                emit(f"Erro fatal ao inicializar navegador: {e}", "ERROR")
-                raise RuntimeError(f"Nenhum navegador suportado pôde ser iniciado: {e}") from last_browser_err
+            emit("Erro fatal: nenhum navegador autônomo ou de sistema pôde ser iniciado.", "ERROR")
+            raise RuntimeError(f"Nenhum navegador suportado pôde ser iniciado: {last_browser_err}") from last_browser_err
 
         context_kwargs = {
             "locale": "pt-BR",

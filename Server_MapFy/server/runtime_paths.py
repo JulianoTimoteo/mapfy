@@ -48,3 +48,10 @@ MAPS_DIR = DASHBOARD_DIR / "Maps"
 if not MAPS_DIR.is_dir() and (SERVER_DIR / "Maps").is_dir():
     MAPS_DIR = SERVER_DIR / "Maps"
 
+# Garante que o Playwright localize o Chromium portátil embutido em runtime/ms-playwright
+import os
+EMBEDDED_BROWSERS_DIR = SERVER_DIR / "runtime" / "ms-playwright"
+if EMBEDDED_BROWSERS_DIR.is_dir():
+    os.environ["PLAYWRIGHT_BROWSERS_PATH"] = str(EMBEDDED_BROWSERS_DIR)
+
+
