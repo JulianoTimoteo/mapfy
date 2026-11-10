@@ -37,6 +37,10 @@ import re
 import sys
 import time
 import zipfile
+
+# Limite conservador de heap para o processo Node.js interno do Playwright (evita AlignedAlloc Allocation failed)
+os.environ.setdefault("NODE_OPTIONS", "--max-old-space-size=512 --no-warnings")
+
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
@@ -450,6 +454,13 @@ def ensure_authenticated(
 
     # 3. Se redirecionou para Microsoft Azure AD (login.microsoftonline.com)
     if "microsoftonline.com" in page.url or "live.com" in page.url:
+        if "logout" in page.url.lower():
+            log.info("Detectada tela de encerramento de sessão anterior (logout). Navegando para central Mapfy...")
+            try:
+                page.goto(MAPFY_HUB_URL, timeout=30000, wait_until="domcontentloaded")
+                page.wait_for_timeout(3000)
+            except Exception:
+                pass
         log.info("Detectada tela de autenticação Microsoft Azure AD...")
         try:
             email_inp = page.wait_for_selector("input[name='loginfmt'], input[type='email']", timeout=12000)
@@ -811,7 +822,15 @@ def run_full_extraction(
             emit(f"Carregando sessão prévia de {session_file.name}")
             context_kwargs["storage_state"] = str(session_file)
 
-        context = browser.new_context(**context_kwargs)
+        try:
+            context = browser.new_context(**context_kwargs)
+        except Exception as e:
+            if "storage_state" in context_kwargs:
+                emit(f"Aviso ao inicializar sessão com cache ({e}). Tentando contexto limpo...", "WARNING")
+                del context_kwargs["storage_state"]
+                context = browser.new_context(**context_kwargs)
+            else:
+                raise e
         page = context.new_page()
 
         # Garante autenticação
