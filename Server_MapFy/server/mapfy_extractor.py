@@ -760,23 +760,46 @@ def run_full_extraction(
     relatorio_geral: list[dict[str, Any]] = []
 
     with sync_playwright() as pw:
-        # Lança o Microsoft Edge em modo 100% silencioso / background
+        # Inicializa o navegador priorizando Google Chrome 64-bit para evitar VirtualAlloc failed de navegadores 32-bit
         launch_args = [
-            "--disable-gpu",
             "--no-sandbox",
+            "--mute-audio",
             "--disable-dev-shm-usage",
-            "--mute-audio"
+            "--disable-background-timer-throttling",
+            "--disable-backgrounding-occluded-windows",
+            "--disable-renderer-backgrounding",
         ]
         if headless:
             launch_args.append("--headless=new")
         else:
             launch_args.append("--start-maximized")
 
-        browser = pw.chromium.launch(
-            channel="msedge",
-            headless=headless,
-            args=launch_args
-        )
+        browser = None
+        channels_to_try = ["chrome", "msedge"]
+        last_browser_err = None
+
+        for ch in channels_to_try:
+            try:
+                emit(f"Inicializando navegador (canal: {ch})...")
+                browser = pw.chromium.launch(
+                    channel=ch,
+                    headless=headless,
+                    args=launch_args
+                )
+                emit(f"[OK] Navegador ativo via canal '{ch}'.")
+                break
+            except Exception as e:
+                last_browser_err = e
+                emit(f"Canal '{ch}' indisponível, tentando próximo...", "WARNING")
+
+        if browser is None:
+            try:
+                emit("Tentando inicializar com Chromium padrão...")
+                browser = pw.chromium.launch(headless=headless, args=launch_args)
+                emit("[OK] Navegador ativo via Chromium padrão.")
+            except Exception as e:
+                emit(f"Erro fatal ao inicializar navegador: {e}", "ERROR")
+                raise RuntimeError(f"Nenhum navegador suportado pôde ser iniciado: {e}") from last_browser_err
 
         context_kwargs = {
             "locale": "pt-BR",
