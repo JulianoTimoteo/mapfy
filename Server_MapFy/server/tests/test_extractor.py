@@ -12,6 +12,25 @@ import mapfy_extractor
 
 
 class ExtractorTests(unittest.TestCase):
+    def test_authentication_failure_is_reported_to_the_caller(self) -> None:
+        with patch("mapfy_extractor.sync_playwright") as playwright_factory:
+            browser = playwright_factory.return_value.__enter__.return_value.chromium.launch.return_value
+            context = browser.new_context.return_value
+            page = context.new_page.return_value
+
+            with patch.object(
+                mapfy_extractor,
+                "ensure_authenticated",
+                side_effect=RuntimeError("login failed"),
+            ):
+                with self.assertRaisesRegex(RuntimeError, "Falha de autenticação: login failed"):
+                    mapfy_extractor.run_full_extraction(
+                        username="test-user",
+                        password="test-password",
+                    )
+
+            browser.close.assert_called_once()
+
     def test_merge_updates_existing_ids_and_adds_new_records(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -73,4 +92,3 @@ class ExtractorTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

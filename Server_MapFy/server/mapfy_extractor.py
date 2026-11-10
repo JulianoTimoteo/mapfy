@@ -735,7 +735,7 @@ def run_full_extraction(
         except Exception as e:
             emit(f"Falha de autenticação: {e}", "ERROR")
             browser.close()
-            return relatorio_geral
+            raise RuntimeError(f"Falha de autenticação: {e}") from e
 
         # Obtém lista de formulários disponíveis na tela filtrando por atividade em 2026
         emit("Identificando formulários disponíveis no painel...")
@@ -745,7 +745,7 @@ def run_full_extraction(
         except Exception as e:
             emit(f"Erro ao carregar cards de formulários: {e}", "ERROR")
             browser.close()
-            return relatorio_geral
+            raise RuntimeError(f"Erro ao carregar cards de formulários: {e}") from e
 
         cards = page.locator(".gm-zr, .gm-vc")
         total_cards = cards.count()

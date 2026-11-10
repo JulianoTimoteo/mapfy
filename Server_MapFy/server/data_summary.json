@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "total_records": 22297,
+  "total_records": 22306,
   "total_k": "+22k Registros",
-  "total_formatted": "+22.297 Registros",
-  "updated_at": "2026-11-09T16:57:46",
+  "total_formatted": "+22.306 Registros",
+  "updated_at": "2026-11-10T06:31:14",
   "reports": {
     "subsolagem": {
       "folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem",
@@ -89,7 +89,7 @@
       "folder": "Plantio - 12 - Cobrição",
       "name": "Cobrição",
       "slug": "cobricao",
-      "rows": 2033,
+      "rows": 2042,
       "latest_date": "4020652,qualidade3@usinapitangueiras.com.br,31/10/2026",
       "category": "Operação de Plantio"
     },
@@ -130,7 +130,7 @@
       "name": "Check-list área de vivência _ Colheita",
       "slug": "area_vivencia",
       "rows": 362,
-      "latest_date": "4019897,frente1@usinapitangueiras.com.br,31/10/2026",
+      "latest_date": "4035053,frente1@usinapitangueiras.com.br,09/11/2026",
       "category": "SSOMA & Segurança"
     },
     "tpl_5s": {

@@ -43,3 +43,4 @@ loop_verificar_noite.ps1
 MapFyServer.exe
 **/MapFyServer.exe
 Server_MapFy/server/Maps/
+Server_MapFy/server/runtime/

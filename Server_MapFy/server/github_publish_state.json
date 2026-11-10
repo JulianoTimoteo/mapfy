@@ -3,22 +3,22 @@
   "branch": "main",
   "files": {
     "DashBoard/live_data/abertura_asa.json": "30c651cbab95ba3045d58cd375ba1fb2ce45b81d0e2e2332eaa731669a9d333d",
-    "DashBoard/live_data/area_vivencia.json": "5f584dfc09f03ead0f8401cf268309cbfea6d763b631de7ad61573a21de8024f",
+    "DashBoard/live_data/area_vivencia.json": "fb345f9866d8cb38519f4d307310f81c0f9ef156f74417cb5e709159becec2cd",
     "DashBoard/live_data/arremate_acabamento.json": "5123c6e3f3b6a23e8dbf6f0cae6fc22aa5516b5c2f8196ade8552f9574203d5b",
-    "DashBoard/live_data/broca_armadilha.json": "7d3f0988b2c750b8e52a74c46c68e5e115283bc8de830f0718dc1eff2545b7fd",
+    "DashBoard/live_data/broca_armadilha.json": "02ef4767f8491fcc806ceffa4d503e85124c238a4717ebf8cbd94afa7f2ba396",
     "DashBoard/live_data/canteirizacao.json": "6b1829bd579c8a62931f116b889878ce91f0a7d788c219f5c3c52b630d0970d1",
     "DashBoard/live_data/checklist_veicular.json": "67ab3b9752d093a8ce72683df0bffac13844104e08e1bf4c455acdfe9c348f29",
-    "DashBoard/live_data/cobricao.json": "3f8542af4c4ca9c91ba56a25924f6e43c03ab3d4b34501c69e70af4146616853",
+    "DashBoard/live_data/cobricao.json": "92f13c500e381b05db7c8b13b95a03abdbeab013fa1c8306ad95de425f754b9a",
     "DashBoard/live_data/dosagem_cobricao.json": "488544baaac7ca92f7dd51dfaa3a86d48cfaedbd245a6c222c2816cfddbbf9d5",
     "DashBoard/live_data/dosagem_sulco.json": "d4aff92b0d2822ed4103b20df995d5ce398cdc5bc2a41c7390e91488d94efe82",
     "DashBoard/live_data/herbicida.json": "47c15d127e0f95e68ec1152ab8a14f7d8a542ad321bfd65b272d111b8e0ac3c3",
-    "DashBoard/live_data/paralelismo.json": "569d327872059ba225c8fc3ff25b959820e0ddde1ac5d4be8d620a471e3dc5fe",
+    "DashBoard/live_data/paralelismo.json": "9067c941027dbfe04f2dd88f103955feac06a816dbb6c6d1e8e9afa1fb78ba47",
     "DashBoard/live_data/qualidade_cana.json": "8b688576f0fa84a5676b6f000a4e60e47579d4a04e6cc7548e945572be11485e",
     "DashBoard/live_data/qualidade_muda.json": "352dd3849ac9a017282d02f719b9edd18004625e682de486fbaaea5fd7ba957c",
-    "DashBoard/live_data/subsolagem.json": "2582245faaa550b7bc9bfba83c87112e857e9b9ee7d0ad8a17e0e9a65620cd49",
+    "DashBoard/live_data/subsolagem.json": "7dfa18d9ab5e35683d9abe09ead2ef6681f21b7dcaaf23288751dbc653e62ea8",
     "DashBoard/live_data/sulcacao.json": "1eef17895328580c3ac29870a91ae239d2eefd94065509895b74cfabc50506f2",
     "DashBoard/live_data/tpl_5s.json": "de2dd923e0fdf7b41a076c492d4fb7cc3f0c8fcf2565fa3db5aca59a1b5cbeda",
     "DashBoard/live_data/viabilidade_gemas.json": "94685f057fecee993fbb8337dfbfbcc07b88d25a911509d0e7bda990c7196274",
-    "DashBoard/data_summary.json": "88db46dc38356e5556d1160e3391bc21cb1337d7d4a007ef03a07cbb27d77dc7"
+    "DashBoard/data_summary.json": "e1fb06c7501f04618ba8877afb4900a122ecebe33f2087162ece25048f68df49"
   }
 }
