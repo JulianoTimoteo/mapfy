@@ -84,6 +84,49 @@ load_dotenv(ENV_FILE if ENV_FILE.is_file() else LEGACY_ENV_FILE)
 
 MAPFY_HUB_URL = "https://app.mapfy.com.br/m/FormEntry/List"
 FIRST_RUN_DATE = "01/01/2026"
+FORM_IDS_FILE = BASE_DIR / "form_ids.json"
+
+KNOWN_ACTIVE_FORMS_2026 = [
+    "#Check-list área de vivência / Colheita",
+    "5S e Gestão - TPL",
+    "CHECK LIST VEICULAR",
+    "Infestação de Broca - Armadilha",
+    "Plantio - 03.1 - Preparo de Solo - Canteirização",
+    "Plantio - 03.1 - Preparo de Solo - Subsolagem",
+    "Plantio - 04 - Dosagem de Produto - Sulcação",
+    "Plantio - 05 - Sulcação",
+    "Plantio - 06 - Abertura da Asa",
+    "Plantio - 07 - Paralelismo",
+    "Plantio - 08 - Qualidade da muda",
+    "Plantio - 09 - Quantidade de Gemas",
+    "Plantio - 10 - Quantidade de Cana",
+    "Plantio - 11 - Dosagem de Produto - Cobrição",
+    "Plantio - 12 - Cobrição",
+    "Plantio - 13 - Arremate e Acabamento",
+    "Tratos - Herbicida",
+]
+
+
+def load_form_ids() -> dict[str, int]:
+    if FORM_IDS_FILE.exists():
+        try:
+            with open(FORM_IDS_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+    return {}
+
+
+def save_form_id(form_name: str, form_id: int) -> None:
+    try:
+        data = load_form_ids()
+        data[form_name] = int(form_id)
+        with open(FORM_IDS_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        log.info(f"[CACHE] FormId {form_id} memorizado para '{form_name}'.")
+    except Exception as e:
+        log.warning(f"Aviso ao salvar form_id para '{form_name}': {e}")
+
 
 RELATORIOS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -460,12 +503,13 @@ def extract_form_data(
 ) -> dict[str, Any]:
     """
     Executa o fluxo completo de extração para um formulário específico:
-    1. Clica em 'Visualizar'.
-    2. Clica em 'CSV'.
-    3. Configura o filtro de datas.
-    4. Clica em 'Download'.
-    5. Trata a resposta (count=0 vs download do blob).
-    6. Atualiza o banco de dados local consolidado.
+    1. Se o formId for conhecido, navega diretamente via URL (https://app.mapfy.com.br/FormEntry?formId=...).
+    2. Caso contrário, busca na central via campo de pesquisa, clica em 'Visualizar' e memoriza o formId.
+    3. Clica em 'CSV'.
+    4. Configura o filtro de datas.
+    5. Clica em 'Download'.
+    6. Trata a resposta de forma assíncrona e resiliente (download vs count=0).
+    7. Atualiza o banco de dados local consolidado.
     """
     result = {
         "form": form_name,
@@ -481,39 +525,77 @@ def extract_form_data(
     log.info(f"PROCESSANDO FORMULÁRIO: {form_name}")
     log.info(f"Intervalo solicitado: {start_date} até {finish_date}")
 
-    # Garante que a página principal está na lista
-    if "FormEntry/List" not in page.url:
-        page.goto(MAPFY_HUB_URL)
-        page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=15000)
+    form_ids = load_form_ids()
+    form_id = form_ids.get(form_name)
 
-    # Localiza o card pelo nome
-    card = page.locator(".gm-zr, .gm-vc").filter(has_text=form_name).first
-    if card.count() == 0:
-        msg = f"Card com título '{form_name}' não encontrado na página."
-        log.error(msg)
-        result["status"] = "ERRO"
-        result["mensagem"] = msg
-        return result
-
-    card.scroll_into_view_if_needed()
-    btn_visualizar = card.locator(".gm-zv, .gm-vi, button:has-text('Visualizar')").first
-
-    # Clique em 'Visualizar' observando se abre em nova aba ou na mesma
     detail_page: Page = page
     is_new_tab = False
-    try:
-        with context.expect_page(timeout=4000) as new_page_info:
-            btn_visualizar.click()
-        detail_page = new_page_info.value
-        is_new_tab = True
-        log.info("Página de detalhes aberta em nova aba.")
-    except Exception:
-        # Se navegou na mesma aba
-        detail_page = page
-        is_new_tab = False
-        log.info("Página de detalhes aberta na mesma aba.")
 
     try:
+        if form_id:
+            target_url = f"https://app.mapfy.com.br/FormEntry?formId={form_id}"
+            log.info(f"Navegando diretamente via FormId ({form_id}): {target_url}")
+            detail_page.goto(target_url, wait_until="domcontentloaded", timeout=35000)
+        else:
+            log.info(f"FormId não memorizado para '{form_name}'. Localizando na central de formulários...")
+            if "FormEntry/List" not in page.url:
+                page.goto(MAPFY_HUB_URL, wait_until="domcontentloaded", timeout=35000)
+
+            # Aguarda a tela carregar
+            page.wait_for_selector(".gm-w8, input[placeholder='Pesquisar']", timeout=15000)
+
+            # Digita no campo de pesquisa
+            search_input = page.locator(".gm-w8, input[placeholder='Pesquisar']").first
+            search_input.fill("")
+            time.sleep(0.3)
+            search_input.fill(form_name)
+            time.sleep(1)
+
+            card = page.locator(".gm-zr, .gm-vc").filter(has_text=form_name).first
+            try:
+                card.wait_for(state="visible", timeout=12000)
+            except Exception:
+                # Tenta palavra-chave se nome longo não achar
+                keywords = [w for w in form_name.split() if len(w) > 3 and not w.startswith("#")]
+                found = False
+                for kw in keywords:
+                    search_input.fill(kw)
+                    time.sleep(1)
+                    card = page.locator(".gm-zr, .gm-vc").filter(has_text=form_name).first
+                    if card.count() > 0:
+                        found = True
+                        break
+                if not found:
+                    msg = f"Card com título '{form_name}' não encontrado na página de pesquisa."
+                    log.error(msg)
+                    result["status"] = "ERRO"
+                    result["mensagem"] = msg
+                    return result
+
+            card.scroll_into_view_if_needed()
+            btn_visualizar = card.locator(".gm-zv, .gm-vi, button:has-text('Visualizar')").first
+
+            try:
+                with context.expect_page(timeout=5000) as new_page_info:
+                    btn_visualizar.click()
+                detail_page = new_page_info.value
+                is_new_tab = True
+                log.info("Página de detalhes aberta em nova aba.")
+            except Exception:
+                detail_page = page
+                is_new_tab = False
+                log.info("Página de detalhes aberta na mesma aba.")
+
+            # Aguarda navegação e detecta o formId
+            try:
+                detail_page.wait_for_url(lambda u: "formId=" in u or "FormEntry" in u, timeout=15000)
+                url_match = re.search(r"formId=(\d+)", detail_page.url)
+                if url_match:
+                    detected_id = int(url_match.group(1))
+                    save_form_id(form_name, detected_id)
+            except Exception:
+                pass
+
         # Aguarda carregamento da página de detalhes (botão CSV visível)
         btn_csv = detail_page.locator('[data-testid="formentry-button-csv"], #csv, button:has-text("CSV")').first
         btn_csv.wait_for(state="visible", timeout=25000)
@@ -550,7 +632,7 @@ def extract_form_data(
             downloads.append(dl)
 
         detail_page.on("response", on_response)
-        detail_page.on("download", on_download)
+        context.on("download", on_download)
 
         # Clica no botão 'Download' (#btnConfirm)
         log.info("Acionando botão '#btnConfirm' (Download)...")
@@ -558,7 +640,7 @@ def extract_form_data(
 
         # Aguarda desfecho (download ou count=0)
         start_wait = time.time()
-        max_download_wait = 90
+        max_download_wait = 35  # Timeout seguro de 35s sem chamadas bloqueantes de DOM
         has_new_records = True
 
         while time.time() - start_wait < max_download_wait:
@@ -573,19 +655,12 @@ def extract_form_data(
                     log.warning(f"Limite de registros excedido ({can_export_info['count']}).")
                     break
 
-            # Verifica toastr de aviso
-            toastr_warnings = detail_page.locator(".toast-message, .toastr-warning").all_text_contents()
-            if any("Nenhum lançamento" in t for t in toastr_warnings):
-                has_new_records = False
-                log.info(f"[AVISO TOASTR] Nenhum lançamento encontrado para '{form_name}'.")
-                break
-
             time.sleep(0.5)
 
         # Remove listeners para evitar vazamento
         try:
             detail_page.remove_listener("response", on_response)
-            detail_page.remove_listener("download", on_download)
+            context.remove_listener("download", on_download)
         except Exception:
             pass
 
@@ -617,13 +692,6 @@ def extract_form_data(
             result["total"] = total
             result["mensagem"] = "Nenhum novo registro no período."
             log.info(f"[INFO] Formulário '{form_name}' já está atualizado.")
-            # Se for formulário sem dados em 2026, não mantém pasta vazia
-            if not dados_csv.exists() or dados_csv.stat().st_size == 0:
-                try:
-                    import shutil
-                    shutil.rmtree(form_folder, ignore_errors=True)
-                except Exception:
-                    pass
         else:
             total = len(read_csv_smart(dados_csv)) if dados_csv.exists() else 0
             result["status"] = "TIMEOUT"
@@ -635,16 +703,10 @@ def extract_form_data(
         result["status"] = "ERRO"
         result["mensagem"] = str(exc)
     finally:
-        # Limpeza e retorno à página principal
+        # Limpeza e fechamento de aba se aplicável
         if is_new_tab:
             try:
                 detail_page.close()
-            except Exception:
-                pass
-        else:
-            try:
-                page.goto(MAPFY_HUB_URL)
-                page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=15000)
             except Exception:
                 pass
 
@@ -739,40 +801,43 @@ def run_full_extraction(
 
         # Obtém lista de formulários disponíveis na tela filtrando por atividade em 2026
         emit("Identificando formulários disponíveis no painel...")
+        form_names: list[str] = []
         try:
             page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=25000)
-            page.wait_for_timeout(3000)  # Garante preenchimento de cards assíncronos
+            page.wait_for_timeout(2000)  # Breve pausa para estabilização de cards
+            cards = page.locator(".gm-zr, .gm-vc")
+            total_cards = cards.count()
+
+            for i in range(total_cards):
+                card = cards.nth(i)
+                title_elem = card.locator(".gm-zs, .gm-vf, p, h5")
+                if title_elem.count() == 0:
+                    continue
+
+                name = title_elem.first.inner_text().strip()
+                if not name:
+                    continue
+
+                # Inspeciona data da última sincronia no card
+                subtitles = card.locator(".gm-zt, .gm-vg, p").all_inner_texts()
+                sub_text = " ".join(subtitles)
+                years = [int(y) for y in re.findall(r"\b\d{2}/\d{2}/(\d{4})\b", sub_text)]
+                latest_year = max(years) if years else None
+
+                # Regra: Se a última sincronia for anterior a 2026, ignora
+                if latest_year is not None and latest_year < 2026:
+                    emit(f"  [IGNORADO] {name} (Última sincronia em {latest_year}, sem movimentação em 2026)")
+                    continue
+
+                if name not in form_names:
+                    form_names.append(name)
         except Exception as e:
-            emit(f"Erro ao carregar cards de formulários: {e}", "ERROR")
-            browser.close()
-            raise RuntimeError(f"Erro ao carregar cards de formulários: {e}") from e
+            emit(f"Aviso ao ler cards da tela: {e}", "WARNING")
 
-        cards = page.locator(".gm-zr, .gm-vc")
-        total_cards = cards.count()
-
-        form_names: list[str] = []
-        for i in range(total_cards):
-            card = cards.nth(i)
-            title_elem = card.locator(".gm-zs, .gm-vf, p, h5")
-            if title_elem.count() == 0:
-                continue
-
-            name = title_elem.first.inner_text().strip()
-            if not name:
-                continue
-
-            # Inspeciona data da última sincronia no card
-            subtitles = card.locator(".gm-zt, .gm-vg, p").all_inner_texts()
-            sub_text = " ".join(subtitles)
-            years = [int(y) for y in re.findall(r"\b\d{2}/\d{2}/(\d{4})\b", sub_text)]
-            latest_year = max(years) if years else None
-
-            # Regra: Se a última sincronia for anterior a 2026 ou dados zerados antigos, ignora
-            if latest_year is not None and latest_year < 2026:
-                emit(f"  [IGNORADO] {name} (Última sincronia em {latest_year}, sem movimentação em 2026)")
-                continue
-
-            form_names.append(name)
+        # Garante que todos os formulários operacionais de 2026 estejam na lista de execução
+        for known_form in KNOWN_ACTIVE_FORMS_2026:
+            if known_form not in form_names:
+                form_names.append(known_form)
 
         emit(f"\nTotal de formulários aptos com movimentação em 2026: {len(form_names)}")
         for idx, name in enumerate(form_names, start=1):
