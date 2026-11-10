@@ -42,10 +42,11 @@ if not defined PYTHON_EXE (
 )
 
 echo [INFO] Encerrando servicos em segundo plano...
-if exist "%SERVER_DIR%\mapfy_server.pid" (
-    for /f %%i in (%SERVER_DIR%\mapfy_server.pid) do taskkill /f /pid %%i 2>nul
-    del /f /q "%SERVER_DIR%\mapfy_server.pid" 2>nul
-)
+echo [INFO] Solicitando encerramento gracioso do servidor MapFy...
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$accepted=$false; try { Invoke-RestMethod -Uri 'http://127.0.0.1:8000/api/v1/admin/shutdown' -Method Post -TimeoutSec 5 | Out-Null; $accepted=$true } catch {}; if($accepted) { $deadline=(Get-Date).AddMinutes(5); do { Start-Sleep -Seconds 1; $running=Get-CimInstance Win32_Process | Where-Object { $_.CommandLine -like '*mapfy_server.py*' -or $_.Name -eq 'MapFyServer.exe' } } while($running -and (Get-Date) -lt $deadline); if($running) { $running | ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue } } }"
+if exist "%SERVER_DIR%\mapfy_server.pid" (
+    del /f /q "%SERVER_DIR%\mapfy_server.pid" 2>nul
+)
 if exist "%SERVER_DIR%\sentinel_agent.pid" (
     for /f %%i in (%SERVER_DIR%\sentinel_agent.pid) do taskkill /f /pid %%i 2>nul
     del /f /q "%SERVER_DIR%\sentinel_agent.pid" 2>nul

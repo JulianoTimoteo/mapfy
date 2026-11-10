@@ -8,6 +8,7 @@ import os
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import Mock
 
 import httpx
 
@@ -21,6 +22,7 @@ class GatewayApiTests(unittest.TestCase):
         self.original_dashboard_dir = api_gateway.DASHBOARD_DIR
         self.original_dashboard_folder_map = api_gateway.DASHBOARD_FOLDER_MAP.copy()
         self.original_api_key = os.environ.pop("MAPFY_API_KEY", None)
+        self.original_shutdown_callback = api_gateway.shutdown_callback
         api_gateway.REPORTS_DIR = Path(self.temp_dir.name)
         api_gateway.DASHBOARD_DIR = Path(self.temp_dir.name) / "dashboard"
         api_gateway.DASHBOARD_FOLDER_MAP = {
@@ -42,12 +44,19 @@ class GatewayApiTests(unittest.TestCase):
         )
         self.report_id = api_gateway.report_id_for(report_dir.name)
 
-    def request(self, method: str, url: str, **kwargs: object) -> httpx.Response:
+    def request(
+        self,
+        method: str,
+        url: str,
+        *,
+        base_url: str = "http://testserver",
+        **kwargs: object,
+    ) -> httpx.Response:
         async def send_request() -> httpx.Response:
             transport = httpx.ASGITransport(app=api_gateway.app)
             async with httpx.AsyncClient(
                 transport=transport,
-                base_url="http://testserver",
+                base_url=base_url,
             ) as client:
                 return await client.request(method, url, **kwargs)
 
@@ -57,6 +66,7 @@ class GatewayApiTests(unittest.TestCase):
         api_gateway.REPORTS_DIR = self.original_reports_dir
         api_gateway.DASHBOARD_DIR = self.original_dashboard_dir
         api_gateway.DASHBOARD_FOLDER_MAP = self.original_dashboard_folder_map
+        api_gateway.shutdown_callback = self.original_shutdown_callback
         if self.original_api_key is not None:
             os.environ["MAPFY_API_KEY"] = self.original_api_key
         else:
@@ -71,6 +81,34 @@ class GatewayApiTests(unittest.TestCase):
         self.assertEqual(payload["total"], 1)
         self.assertEqual(payload["items"][0]["id"], self.report_id)
         self.assertNotIn("path", payload["items"][0])
+
+    def test_local_shutdown_endpoint_requests_graceful_stop(self) -> None:
+        callback = Mock()
+        api_gateway.set_shutdown_callback(callback)
+
+        response = self.request(
+            "POST",
+            "/api/v1/admin/shutdown",
+            base_url="http://127.0.0.1",
+        )
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.json(), {"status": "shutdown_requested"})
+        callback.assert_called_once_with()
+
+    def test_shutdown_endpoint_rejects_browser_origin(self) -> None:
+        callback = Mock()
+        api_gateway.set_shutdown_callback(callback)
+
+        response = self.request(
+            "POST",
+            "/api/v1/admin/shutdown",
+            base_url="http://127.0.0.1",
+            headers={"Origin": "https://example.com"},
+        )
+
+        self.assertEqual(response.status_code, 403)
+        callback.assert_not_called()
 
     def test_records_are_paginated_from_consolidated_csv(self) -> None:
         response = self.request(
@@ -132,4 +170,3 @@ class GatewayApiTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

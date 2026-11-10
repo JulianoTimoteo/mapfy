@@ -7,6 +7,7 @@ from __future__ import annotations
 import csv
 import hashlib
 import hmac
+import ipaddress
 import io
 import logging
 import os
@@ -18,12 +19,13 @@ from typing import Any
 
 import uvicorn
 from dotenv import load_dotenv
-from fastapi import Depends, FastAPI, Header, HTTPException, Query
+from fastapi import Depends, FastAPI, Header, HTTPException, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import FileResponse, Response
 import json
 import sqlite3
+from collections.abc import Callable
 from runtime_paths import (
     DASHBOARD_DIR,
     ENV_FILE,
@@ -37,6 +39,7 @@ BASE_DIR = PROJECT_DIR
 load_dotenv(ENV_FILE if ENV_FILE.is_file() else LEGACY_ENV_FILE)
 
 logger = logging.getLogger("mapfy.api")
+shutdown_callback: Callable[[], None] | None = None
 
 DEFAULT_CORS_ORIGINS = [
     "*",
@@ -54,6 +57,12 @@ app = FastAPI(
     description="Gateway somente de leitura para os relatórios consolidados do Mapfy.",
     version="1.0.0",
 )
+
+
+def set_shutdown_callback(callback: Callable[[], None]) -> None:
+    global shutdown_callback
+    shutdown_callback = callback
+
 
 configured_origins = os.getenv("MAPFY_CORS_ORIGINS", "").strip()
 app.add_middleware(GZipMiddleware, minimum_size=1000)
@@ -173,6 +182,23 @@ def health() -> dict[str, Any]:
         "status": "ok",
         "reports_available": len(get_report_catalog()),
     }
+
+
+@app.post("/api/v1/admin/shutdown", tags=["Sistema"], include_in_schema=False)
+def shutdown_server(request: Request) -> dict[str, str]:
+    client_host = request.client.host if request.client else ""
+    try:
+        is_local = ipaddress.ip_address(client_host).is_loopback
+    except ValueError:
+        is_local = False
+    if not is_local or request.headers.get("origin"):
+        raise HTTPException(status_code=403, detail="Ação permitida somente localmente.")
+    if shutdown_callback is None:
+        raise HTTPException(status_code=503, detail="Encerramento indisponível.")
+
+    logger.info("Encerramento do servidor solicitado localmente.")
+    shutdown_callback()
+    return {"status": "shutdown_requested"}
 
 
 @app.get("/api/v1/reports", tags=["Relatórios"], dependencies=[Depends(require_api_key)])

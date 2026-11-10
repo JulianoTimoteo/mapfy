@@ -22,6 +22,7 @@ from runtime_paths import CONFIG_FILE, LEGACY_CONFIG_FILE, REPORTS_DIR, SERVER_D
 import api_gateway
 from github_publisher import GitHubDashboardPublisher
 import mapfy_extractor
+from server_notifications import TelegramLogHandler, create_telegram_handler
 import uvicorn
 
 STOP_EVENT = threading.Event()
@@ -32,13 +33,26 @@ def configure_logging() -> None:
     SERVER_DIR.mkdir(parents=True, exist_ok=True)
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     log_path = SERVER_DIR / "mapfy_server.log"
+    handlers: list[logging.Handler] = [
+        logging.FileHandler(log_path, encoding="utf-8"),
+        logging.StreamHandler(sys.stdout),
+    ]
+    try:
+        telegram_handler = create_telegram_handler()
+    except ValueError as exc:
+        raise ValueError(f"Configuração de notificações inválida: {exc}") from exc
+    if telegram_handler is not None:
+        telegram_handler.setFormatter(
+            logging.Formatter(
+                "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+            )
+        )
+        handlers.append(telegram_handler)
+
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s | %(levelname)-8s | %(message)s",
-        handlers=[
-            logging.FileHandler(log_path, encoding="utf-8"),
-            logging.StreamHandler(sys.stdout),
-        ],
+        handlers=handlers,
         force=True,
     )
 
@@ -83,6 +97,7 @@ def run_server() -> int:
     api_server = uvicorn.Server(
         uvicorn.Config(api_gateway.app, host=host, port=port, log_level="info")
     )
+    api_gateway.set_shutdown_callback(STOP_EVENT.set)
     api_thread = threading.Thread(
         target=api_server.run,
         name="mapfy-api",
@@ -110,7 +125,7 @@ def run_server() -> int:
         return 1
 
     logger.info(
-        "API local disponível em http://%s:%s; relatórios em %s.",
+        "Servidor MapFy iniciado. API local disponível em http://%s:%s; relatórios em %s.",
         host,
         port,
         REPORTS_DIR,
@@ -159,6 +174,10 @@ def run_server() -> int:
         api_thread.join(timeout=15)
         if api_thread.is_alive():
             logger.error("A API não encerrou dentro do prazo de 15 segundos.")
+        logger.info("Servidor MapFy encerrado.")
+        for handler in logging.getLogger().handlers:
+            if hasattr(handler, "flush"):
+                handler.flush()
         try:
             if pid_file.exists():
                 pid_file.unlink()
@@ -175,9 +194,29 @@ def main() -> int:
         action="store_true",
         help="Valida os diretórios e as configurações sem iniciar os serviços.",
     )
+    parser.add_argument(
+        "--test-notification",
+        action="store_true",
+        help="Envia uma mensagem de teste ao Telegram configurado.",
+    )
     args = parser.parse_args()
 
     configure_logging()
+    if args.test_notification:
+        if not any(
+            isinstance(handler, TelegramLogHandler)
+            for handler in logging.getLogger().handlers
+        ):
+            logger.error(
+                "Notificação não enviada: configure MAPFY_TELEGRAM_BOT_TOKEN e "
+                "MAPFY_TELEGRAM_CHAT_ID em server\\.env."
+            )
+            return 2
+        logger.info("Testando envio do servidor MapFy.")
+        for handler in logging.getLogger().handlers:
+            handler.flush()
+        return 0
+
     if args.check:
         interval = extraction_interval_seconds()
         logger.info("Validação concluída. Relatórios: %s", REPORTS_DIR)
