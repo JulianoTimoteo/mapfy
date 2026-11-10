@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="light">
+<head>
+    <meta charset="UTF-8">
+    <!-- Prevenção de Cache Estático no Celular / PWA -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Central de Inteligência — Infestação de Broca (Armadilha) | Usina Pitangueiras</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        emerald: { 50: '#ECFDF5', 500: '#10B981', 600: '#059669', 700: '#047857' },
+                        amber: { 50: '#FFFBEB', 500: '#F59E0B', 600: '#D97706', 700: '#B45309' }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- FontAwesome & Google Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet & MarkerCluster -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    
+    <!-- SheetJS para Exportação Excel -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
+    <!-- PWA e Metatags Mobile Executivas -->
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#047857">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<style id="mapfyMobileFilterEngine">
+/* ======================================================== */
+/* MAPFY 2026 - SISTEMA DE FILTROS RETRÁTEIS MOBILE/TABLET  */
+/* Arquitetura Profissional de Alta Performance (<= 1024px) */
+/* ======================================================== */
+@media (max-width: 1024px) {
+    #filterCollapsibleBody.is-collapsed,
+    .filter-collapsible-body.is-collapsed {
+        display: none !important;
+        max-height: 0 !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        pointer-events: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+    }
+    #filterCollapsibleBody.is-expanded,
+    .filter-collapsible-body.is-expanded {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        animation: mapfyFilterFadeIn 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    #filterSection input,
+    #filterSection select,
+    .filter-collapsible-body input,
+    .filter-collapsible-body select {
+        min-height: 44px !important;
+        font-size: 14px !important;
+    }
+    .mobile-filter-summary-bar {
+        display: flex !important;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        margin-top: 6px;
+        margin-bottom: 8px;
+        border-radius: 12px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.22);
+        cursor: pointer;
+        user-select: none;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+    .btn-toggle-filters-mobile,
+    #btnToggleFilterMobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 14px;
+        border-radius: 12px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 12px !important;
+        border: none !important;
+        cursor: pointer !important;
+        box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3) !important;
+        transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+    .btn-toggle-filters-mobile:active,
+    #btnToggleFilterMobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile.is-expanded,
+    #btnToggleFilterMobile.is-expanded {
+        background: linear-gradient(135deg, #475569 0%, #334155 100%) !important;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+    }
+    .btn-apply-filters-mobile,
+    #btnMobileApplyAndHide {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px 16px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3) !important;
+        border: none !important;
+        cursor: pointer !important;
+        transition: transform 0.15s ease, filter 0.15s ease;
+    }
+    .btn-apply-filters-mobile:active,
+    #btnMobileApplyAndHide:active {
+        transform: scale(0.98);
+        filter: brightness(0.95);
+    }
+    .mobile-floating-filter-btn,
+    #mobileFloatingFilterBtn {
+        position: fixed !important;
+        bottom: 20px !important;
+        right: 18px !important;
+        z-index: 9999 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important;
+        padding: 12px 18px !important;
+        border-radius: 9999px !important;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 6px 20px rgba(5, 150, 105, 0.45), 0 2px 6px rgba(0,0,0,0.2) !important;
+        border: 1px solid rgba(255, 255, 255, 0.25) !important;
+        cursor: pointer !important;
+        transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease !important;
+    }
+    .mobile-floating-filter-btn:active,
+    #mobileFloatingFilterBtn:active {
+        transform: scale(0.92) !important;
+    }
+    .mobile-floating-filter-btn.hidden-floating,
+    #mobileFloatingFilterBtn.hidden-floating {
+        opacity: 0 !important;
+        pointer-events: none !important;
+        transform: translateY(20px) scale(0.8) !important;
+    }
+}
+@media (min-width: 1025px) {
+    #filterCollapsibleBody,
+    .filter-collapsible-body {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        margin: inherit !important;
+        padding: inherit !important;
+    }
+    #btnToggleFilterMobile,
+    .btn-toggle-filters-mobile,
+    #mobileFilterSummaryBar,
+    .mobile-filter-summary-bar,
+    #btnMobileApplyAndHide,
+    .btn-apply-filters-mobile,
+    #mobileFloatingFilterBtn,
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+}
+@keyframes mapfyFilterFadeIn {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body class="min-h-screen bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-100 antialiased selection:bg-amber-500 selection:text-white">
+
+    <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+    <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-3 w-full md:w-auto justify-between md:justify-start">
+                <!-- Widget 24/7 Circular no Cantinho Esquerdo (Ciclo de 1h) -->
+                <div id="badgeStatus247" class="badge-247-container" title="Sincronismo Contínuo 24/7 • Próxima atualização ao fechar o ciclo de 1h">
+                    <div class="badge-247-ring-wrap">
+                        <svg class="badge-247-svg" width="22" height="22" viewBox="0 0 36 36">
+                            <path class="badge-247-bg"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                            <path id="badge247ProgressRing" class="badge-247-progress"
+                                  stroke-dasharray="0, 100"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                        </svg>
+                        <span id="badge247Dot" class="badge-247-dot"></span>
+                    </div>
+                    <span class="badge-247-label">24/7</span>
+                </div>
+
+                <!-- Retorno Exclusivo ao Mandala Hub Central -->
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 transition shadow-sm" title="Retornar à Mandala Hub Principal">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <span>Mandala Hub</span>
+                </a>
+
+                <div class="flex items-center gap-2.5 sm:gap-3 min-w-0 w-full md:w-auto mt-1 md:mt-0">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo h-10 w-auto object-contain">
+                    <div class="min-w-0 flex-1">
+                        <div class="flex items-center gap-2">
+                            <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                            <span class="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">Entomologia • Monitoramento Biológico</span>
+                        </div>
+                        <h1 class="text-sm sm:text-base md:text-xl font-extrabold text-slate-900 dark:text-white tracking-tight break-words leading-snug">
+                            Central de Inteligência — Infestação de Broca (Armadilha)
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-3 w-full md:w-auto justify-end">
+                <span class="badge badge-amber text-xs">
+                    <i class="fa-solid fa-bug mr-1"></i> Diatraea saccharalis
+                </span>
+                <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
+                    <i class="fa-solid fa-database mr-1"></i> 116 Lançamentos Auditados
+                </span>
+
+                <!-- Alternador de Tema Claro / Escuro -->
+                <button id="themeToggleBtn" type="button" class="p-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition" title="Alternar Tema Claro / Escuro">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- NOTIFICAÇÃO E CONTEXTO AGRONÔMICO (AUTO-DISMISS EM 5 SEGUNDOS COM TRANSIÇÃO SUAVE) -->
+    <div id="noticeBrocaBanner" class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5 transition-all duration-700 ease-in-out">
+        <div class="p-4 rounded-xl border border-amber-200 dark:border-amber-900/60 bg-gradient-to-r from-amber-50/90 via-white to-orange-50/80 dark:from-slate-800 dark:via-slate-800 dark:to-amber-950/30 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 shadow-sm relative">
+            <div class="flex items-start gap-3 min-w-0 flex-1 pr-6 md:pr-0">
+                <div class="w-10 h-10 rounded-lg bg-amber-600 text-white flex items-center justify-center shrink-0 mt-0.5 shadow-sm">
+                    <i class="fa-solid fa-dna text-lg"></i>
+                </div>
+                <div class="min-w-0 flex-1">
+                    <h2 class="text-sm font-bold text-slate-900 dark:text-white">Rede de Monitoramento de Broca com Feromônio Sintético</h2>
+                    <p class="text-xs text-slate-800 dark:text-slate-200 mt-1 leading-relaxed">
+                        Painel operacional integrando os dois momentos do ciclo: <strong class="text-slate-900 dark:text-white">Instalação</strong> (início do monitoramento, 0 capturas esperadas) e <strong class="text-slate-900 dark:text-white">Recolhimento</strong> (leitura efetiva da contagem de brocas capturadas). Total de <strong class="text-amber-600 dark:text-amber-400">906 brocas</strong> capturadas em 57 recolhimentos distribuídos por 41 fazendas e 59 talhões.
+                    </p>
+                </div>
+            </div>
+            <div class="flex items-center gap-2.5 self-end md:self-auto shrink-0">
+                <span class="text-xs font-bold px-3 py-1.5 rounded-lg bg-amber-100 text-amber-900 dark:bg-amber-950/80 dark:text-amber-300 border border-amber-300 dark:border-amber-800 shadow-xs">
+                    Ciclo Médio: ~15 Dias
+                </span>
+                <button type="button" onclick="const b = document.getElementById('noticeBrocaBanner'); if(b){b.style.opacity='0'; b.style.maxHeight='0'; b.style.overflow='hidden'; setTimeout(()=>b.remove(),600);}"
+                        class="text-slate-500 hover:text-slate-900 dark:text-slate-400 dark:hover:text-white p-1.5 rounded-lg transition" title="Fechar este aviso">✕</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- PAINEL DE FILTROS GLOBAIS REATIVOS -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="app-card p-4 lg:p-5" id="filterSection">
+            <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-4">
+                <div class="flex items-center gap-2">
+                    <i class="fa-solid fa-filter text-amber-600 dark:text-amber-400"></i>
+                    <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide">Filtros Dinâmicos Globais</h3>
+                </div>
+                <div class="flex items-center gap-2">
+                    <button type="button" onclick="location.reload()" class="px-2.5 py-1 text-xs font-semibold text-amber-700 dark:text-amber-300 bg-amber-100 dark:bg-amber-950/60 hover:bg-amber-200 rounded-md transition" title="Reexibir aviso de diretriz">
+                        Diretriz
+                    </button>
+
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px] transition-transform duration-300"></i>
+                    </button>
+                    <button id="btnResetFilters" type="button" class="px-3 py-1 text-xs font-semibold text-slate-600 dark:text-slate-300 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 rounded-md transition">
+                        <i class="fa-solid fa-rotate-left mr-1"></i> Limpar Filtros
+                    </button>
+                    <button id="btnExportExcel" type="button" class="px-3 py-1 text-xs font-semibold text-white bg-emerald-600 hover:bg-emerald-700 rounded-md transition shadow-sm">
+                        <i class="fa-solid fa-file-excel mr-1"></i> Excel (.xlsx)
+                    </button>
+                    <button id="btnExportCSV" type="button" class="px-3 py-1 text-xs font-semibold text-slate-700 dark:text-slate-200 bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 rounded-md transition">
+                        <i class="fa-solid fa-file-csv mr-1"></i> CSV
+                    </button>
+                </div>
+
+            <!-- Barra de Resumo Compacta para Mobile (<= 768px) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Filtros Configurados</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            </div>
+
+            <!-- Container Colapsável dos Filtros para Mobile -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+                <!-- Data Início -->
+                <div>
+                    <label class="block text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">Data Início</label>
+                    <input type="date" id="filterDataInicio" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-amber-500 focus:outline-none">
+                </div>
+
+                <!-- Data Fim -->
+                <div>
+                    <label class="block text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">Data Fim</label>
+                    <input type="date" id="filterDataFim" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-amber-500 focus:outline-none">
+                </div>
+
+                <!-- Fazenda -->
+                <div>
+                    <label class="block text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">Fazenda</label>
+                    <select id="filterFazenda" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-amber-500 focus:outline-none">
+                        <option value="TODAS">Todas as Fazendas</option>
+                    </select>
+                </div>
+
+                <!-- Etapa (Instalação vs Recolhimento) -->
+                <div>
+                    <label class="block text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">Etapa Operacional</label>
+                    <select id="filterEtapa" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-amber-500 focus:outline-none">
+                        <option value="TODAS">Todas as Etapas</option>
+                        <option value="RECOLHIMENTO">Apenas Recolhimento (Leituras)</option>
+                        <option value="INSTALAÇÃO">Apenas Instalação (Armadilhas Novas)</option>
+                    </select>
+                </div>
+
+                <!-- Responsável Técnico -->
+                <div>
+                    <label class="block text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">Responsável Lançamento</label>
+                    <select id="filterResponsavel" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-amber-500 focus:outline-none">
+                        <option value="TODOS">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <!-- Busca Textual Global -->
+                <div>
+                    <label class="block text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">Busca por Termo</label>
+                    <input type="text" id="searchInput" placeholder="ID, Fazenda, Talhão..." class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-amber-500 focus:outline-none">
+                </div>
+            </div>
+
+            <!-- Checkboxes de Filtros Especiais -->
+            <div class="flex flex-wrap items-center gap-4 mt-3 pt-3 border-t border-slate-200 dark:border-slate-700/60 text-xs">
+                <label class="inline-flex items-center gap-1.5 cursor-pointer">
+                    <input type="checkbox" id="chkSomentePositivos" class="rounded text-amber-600 focus:ring-amber-500">
+                    <span class="font-medium text-slate-700 dark:text-slate-300">Apenas Capturas Positivas (> 0 Brocas)</span>
+                </label>
+                <label class="inline-flex items-center gap-1.5 cursor-pointer">
+                    <input type="checkbox" id="chkSomenteRecolhimento" class="rounded text-amber-600 focus:ring-amber-500">
+                    <span class="font-medium text-slate-700 dark:text-slate-300">Apenas Etapa de Recolhimento</span>
+                </label>
+                <label class="inline-flex items-center gap-1.5 cursor-pointer">
+                    <input type="checkbox" id="chkSomenteCoords" checked class="rounded text-amber-600 focus:ring-amber-500">
+                    <span class="font-medium text-slate-700 dark:text-slate-300">Apenas Georreferenciados (100%)</span>
+                </label>
+            </div>
+        
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2" style="border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center text-slate-400 m-0">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
+
+    <!-- GRID EXECUTIVO DE 10 CARDS DE KPIS (RESPONSIVO: CELULAR, TABLET, NOTEBOOK, DESKTOP E TV) -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 2xl:grid-cols-10 gap-2.5 sm:gap-3.5 xl:gap-3.5">
+            
+            <!-- Card 1: Total Capturas -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-amber-500 min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Total Capturas">Total Capturas</span>
+                    <i class="fa-solid fa-bug text-amber-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-amber-600 dark:text-amber-400" id="kpiTotalCapturas">0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Brocas</span>
+                </div>
+            </div>
+
+            <!-- Card 2: Total Lançamentos -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Lançamentos">Lançamentos</span>
+                    <i class="fa-solid fa-clipboard-check text-slate-400 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-slate-900 dark:text-white" id="kpiTotalLancamentos">0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Registros MapFy</span>
+                </div>
+            </div>
+
+            <!-- Card 3: Armadilhas Instaladas -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Instalações">Instalações</span>
+                    <i class="fa-solid fa-map-pin text-emerald-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-emerald-600 dark:text-emerald-400" id="kpiInstalacoes">0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Armadilhas novas</span>
+                </div>
+            </div>
+
+            <!-- Card 4: Armadilhas Recolhidas -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Recolhidas">Recolhidas</span>
+                    <i class="fa-solid fa-box-open text-blue-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-blue-600 dark:text-blue-400" id="kpiRecolhimentos">0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Lidas e contadas</span>
+                </div>
+            </div>
+
+            <!-- Card 5: Média Geral -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Média Geral">Média Geral</span>
+                    <i class="fa-solid fa-chart-simple text-slate-400 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-slate-800 dark:text-slate-100" id="kpiMediaGeral">0.0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Brocas/Lançam.</span>
+                </div>
+            </div>
+
+            <!-- Card 6: Média por Recolhimento -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-orange-500 min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Média Leitura">Média Leitura</span>
+                    <i class="fa-solid fa-calculator text-orange-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-orange-600 dark:text-orange-400" id="kpiMediaRecolhimento">0.0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Brocas/Recolhida</span>
+                </div>
+            </div>
+
+            <!-- Card 7: Média dos Positivos -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Média Posit.">Média Posit.</span>
+                    <i class="fa-solid fa-arrow-trend-up text-red-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-red-600 dark:text-red-400" id="kpiMediaPositivos">0.0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Em armadilhas >0</span>
+                </div>
+            </div>
+
+            <!-- Card 8: Maior Captura Individual -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Pico Máximo">Pico Máximo</span>
+                    <i class="fa-solid fa-circle-exclamation text-rose-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-rose-600 dark:text-rose-400" id="kpiMaiorCaptura">0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Brocas no talhão</span>
+                </div>
+            </div>
+
+            <!-- Card 9: Zerados -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Zerados">Zerados</span>
+                    <i class="fa-solid fa-circle-check text-cyan-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-cyan-600 dark:text-cyan-400" id="kpiZerados">0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5" id="kpiPercZerados">0% da base</span>
+                </div>
+            </div>
+
+            <!-- Card 10: Locais Monitorados -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="kpi-title font-bold text-[11px] sm:text-xs uppercase tracking-tight text-slate-900 dark:text-white leading-tight break-words whitespace-normal line-clamp-2" title="Fazendas e Talhões Cobertos">Faz. / Talhões</span>
+                    <i class="fa-solid fa-tractor text-teal-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="kpi-value text-teal-600 dark:text-teal-400" id="kpiLocaisMonitorados">0/0</span>
+                    <span class="text-[11px] sm:text-xs text-slate-800 dark:text-slate-200 font-semibold block leading-tight mt-0.5">Cobertura</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- SEÇÃO: RANKINGS TERRITORIAIS (FAZENDAS & TALHÕES) -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+            
+            <!-- Bloco 1: Ranking por Fazenda -->
+            <div class="app-card p-5">
+                <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-3">
+                    <div class="flex items-center gap-2">
+                        <i class="fa-solid fa-tree text-emerald-500"></i>
+                        <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide">
+                            Top Fazendas com Maior Captura
+                        </h3>
+                    </div>
+                    <span class="badge badge-emerald text-xs">Territorial</span>
+                </div>
+
+                <div class="h-64 mb-4">
+                    <canvas id="chartFazendas"></canvas>
+                </div>
+
+                <div class="overflow-x-auto max-h-60 overflow-y-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead class="sticky top-0 bg-white dark:bg-slate-800 border-b border-slate-200 dark:border-slate-700 text-slate-500">
+                            <tr>
+                                <th class="pb-2">Fazenda</th>
+                                <th class="pb-2 text-center">Talhões</th>
+                                <th class="pb-2 text-center">Lançamentos</th>
+                                <th class="pb-2 text-center">Capturas</th>
+                                <th class="pb-2 text-right">Partic. %</th>
+                            </tr>
+                        </thead>
+                        <tbody id="rankingFazendasBody" class="divide-y divide-slate-100 dark:divide-slate-800">
+                            <!-- Inserido dinamicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Bloco 2: Ranking por Talhão (Identificação de Focos) -->
+            <div class="app-card p-5">
+                <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-3">
+                    <div class="flex items-center gap-2">
+                        <i class="fa-solid fa-crosshairs text-rose-500"></i>
+                        <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide">
+                            Top Talhões com Maior Pressão de Infestação
+                        </h3>
+                    </div>
+                    <span class="badge badge-red text-xs">Focos Críticos</span>
+                </div>
+
+                <div class="h-64 mb-4">
+                    <canvas id="chartTalhoes"></canvas>
+                </div>
+
+                <div class="overflow-x-auto max-h-60 overflow-y-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead class="sticky top-0 bg-white dark:bg-slate-800 border-b border-slate-200 dark:border-slate-700 text-slate-500">
+                            <tr>
+                                <th class="pb-2">Local (Fazenda > Talhão)</th>
+                                <th class="pb-2 text-center">Capturas</th>
+                                <th class="pb-2 text-center">Média/Recolh.</th>
+                                <th class="pb-2 text-right">Classificação</th>
+                            </tr>
+                        </thead>
+                        <tbody id="rankingTalhoesBody" class="divide-y divide-slate-100 dark:divide-slate-800">
+                            <!-- Inserido dinamicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- SEÇÃO: EVOLUÇÃO TEMPORAL & DISTRIBUIÇÃO DE GRAVIDADE -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-5">
+            
+            <!-- Linha do Tempo -->
+            <div class="app-card p-5 lg:col-span-2">
+                <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-3">
+                    <div class="flex items-center gap-2">
+                        <i class="fa-solid fa-chart-line text-amber-500"></i>
+                        <h4 class="text-xs font-bold text-slate-700 dark:text-slate-200 uppercase tracking-wide">
+                            Evolução Temporal: Capturas e Lançamentos por Data
+                        </h4>
+                    </div>
+                    <div class="flex items-center gap-1 text-xs">
+                        <button id="btnTimelineDia" class="px-2 py-0.5 rounded font-semibold bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300">Diário</button>
+                        <button id="btnTimelineMes" class="px-2 py-0.5 rounded font-semibold text-slate-500 hover:text-slate-800">Mensal</button>
+                    </div>
+                </div>
+                <div class="h-64">
+                    <canvas id="chartTimeline"></canvas>
+                </div>
+            </div>
+
+            <!-- Distribuição por Faixa de Gravidade -->
+            <div class="app-card p-5">
+                <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-3">
+                    <div class="flex items-center gap-2">
+                        <i class="fa-solid fa-chart-pie text-purple-500"></i>
+                        <h4 class="text-xs font-bold text-slate-700 dark:text-slate-200 uppercase tracking-wide">
+                            Faixas de Captura por Armadilha
+                        </h4>
+                    </div>
+                </div>
+                <div class="h-64">
+                    <canvas id="chartSeverity"></canvas>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- SEÇÃO: MAPA GEOESPACIAL DE INFESTAÇÃO (ZERO CARTO, ZERO WATERMARKS) -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="app-card p-5">
+            <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 pb-3 border-b border-slate-200 dark:border-slate-700">
+                <div>
+                    <div class="flex items-center gap-2">
+                        <i class="fa-solid fa-map-location-dot text-amber-600 dark:text-amber-400"></i>
+                        <h3 class="text-base font-bold text-slate-900 dark:text-white uppercase tracking-wide">
+                            Mapa Geoespacial de Armadilhas e Focos de Broca
+                        </h3>
+                    </div>
+                    <p class="text-xs text-slate-500 mt-0.5">
+                        Camada base oficial OpenStreetMap livre de taxas e marcas d'água. 100% das 116 armadilhas georreferenciadas na Usina Pitangueiras.
+                    </p>
+                </div>
+                
+                <!-- Alternador de Modos do Mapa -->
+                <div class="flex flex-wrap items-center gap-1.5 text-xs bg-slate-100 dark:bg-slate-800 p-1 rounded-lg border border-slate-200 dark:border-slate-700">
+                    <button id="btnMapAll" class="px-2.5 py-1 rounded-md font-semibold bg-white dark:bg-slate-700 shadow-xs text-slate-800 dark:text-white transition">Todas (116)</button>
+                    <button id="btnMapCriticos" class="px-2.5 py-1 rounded-md font-semibold text-slate-600 dark:text-slate-300 hover:text-slate-900 transition">Focos Críticos (>25)</button>
+                    <button id="btnMapPositivos" class="px-2.5 py-1 rounded-md font-semibold text-slate-600 dark:text-slate-300 hover:text-slate-900 transition">Positivos (>0)</button>
+                    <button id="btnMapZerados" class="px-2.5 py-1 rounded-md font-semibold text-slate-600 dark:text-slate-300 hover:text-slate-900 transition">Zerados / Instalação</button>
+                </div>
+            </div>
+
+            <!-- Legenda do Mapa -->
+            <div class="flex flex-wrap items-center gap-4 py-2 text-xs border-b border-slate-100 dark:border-slate-800 text-slate-600 dark:text-slate-300">
+                <span class="font-semibold text-slate-700 dark:text-slate-200">Legenda de Cores:</span>
+                <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-emerald-500"></span> Instalação (0)</span>
+                <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-cyan-500"></span> Recolhimento Zerado (0)</span>
+                <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-yellow-500"></span> Baixa Captura (1-10)</span>
+                <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-amber-500"></span> Média Captura (11-25)</span>
+                <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-red-500"></span> Foco Crítico (>25)</span>
+            </div>
+
+            <!-- Container do Mapa Leaflet -->
+            <div id="mapContainer" class="w-full h-[450px] rounded-lg mt-3 z-0"></div>
+        </div>
+    </div>
+
+    <!-- SEÇÃO: ANÁLISE POR RESPONSÁVEL TÉCNICO -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="app-card p-5">
+            <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-4">
+                <div class="flex items-center gap-2">
+                    <i class="fa-solid fa-users-viewfinder text-indigo-500"></i>
+                    <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide">
+                        Acompanhamento da Equipe Técnica de Monitoramento
+                    </h3>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4" id="containerResponsaveis">
+                <!-- Cards de responsáveis inseridos via JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- SEÇÃO: TABELA ANALÍTICA DE ARMADILHAS -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="app-card p-5">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 pb-3 border-b border-slate-200 dark:border-slate-700 mb-4">
+                <div>
+                    <h3 class="text-sm font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide">
+                        Histórico Analítico de Inspeções de Armadilha
+                    </h3>
+                    <p class="text-xs text-slate-500 mt-0.5" id="tableRecordCount">Mostrando 116 de 116 registros</p>
+                </div>
+            </div>
+
+            <!-- Tabela com scroll horizontal -->
+            <div class="data-table-container">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Data</th>
+                            <th>Etapa</th>
+                            <th>Fazenda</th>
+                            <th>Talhão</th>
+                            <th>Local Completo</th>
+                            <th>Qtd. Brocas</th>
+                            <th>Faixa Gravidade</th>
+                            <th>Responsável Lançamento</th>
+                            <th>Status</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tabelaBroca">
+                        <!-- Linhas geradas dinamicamente via dashboard.js -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Paginação -->
+            <div class="flex items-center justify-between mt-4 pt-3 border-t border-slate-200 dark:border-slate-700 text-xs">
+                <span id="pageInfo" class="text-slate-500 font-medium">Página 1 de 1</span>
+                <div class="flex items-center gap-1.5">
+                    <button id="prevPage" class="px-2.5 py-1.5 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-200 disabled:opacity-40 transition">Anterior</button>
+                    <button id="nextPage" class="px-2.5 py-1.5 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-200 disabled:opacity-40 transition">Próxima</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- SEÇÃO: AUDITORIA E CONFIABILIDADE DA BASE DE DADOS -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5 mb-10">
+        <div class="app-card p-5 border-l-4 border-l-amber-500">
+            <h3 class="text-sm font-bold text-slate-900 dark:text-white uppercase tracking-wide flex items-center gap-2">
+                <i class="fa-solid fa-magnifying-glass-chart text-amber-500"></i> Auditoria da Base MapFy e Regras de Negócio de Broca
+            </h3>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4 text-xs">
+                
+                <div class="p-3.5 rounded-lg bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+                    <span class="font-bold text-slate-800 dark:text-slate-200 block mb-1">
+                        <i class="fa-solid fa-circle-nodes text-emerald-500 mr-1"></i> Ciclo de Armadilha: Instalação vs Recolhimento
+                    </span>
+                    <p class="text-slate-600 dark:text-slate-400 leading-relaxed">
+                        A armadilha com feromônio atrai mariposas adultas durante o ciclo de campo. Nos 59 registros de <b>INSTALAÇÃO</b>, a contagem de capturas é naturalmente <b>0</b>. As <b>906 brocas</b> capturadas resultam exclusivamente dos 57 <b>RECOLHIMENTOS</b>.
+                    </p>
+                </div>
+
+                <div class="p-3.5 rounded-lg bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+                    <span class="font-bold text-slate-800 dark:text-slate-200 block mb-1">
+                        <i class="fa-solid fa-calculator text-amber-500 mr-1"></i> Investigação do Score = 0,00
+                    </span>
+                    <p class="text-slate-600 dark:text-slate-400 leading-relaxed">
+                        100% dos 116 registros apresentam <code>Score = 0,00</code>. A pontuação automática não se aplica a monitoramento entomológico por armadilha, que opera com valores contínuos de brocas capturadas.
+                    </p>
+                </div>
+
+                <div class="p-3.5 rounded-lg bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+                    <span class="font-bold text-slate-800 dark:text-slate-200 block mb-1">
+                        <i class="fa-solid fa-shield-check text-blue-500 mr-1"></i> Integridade dos Talhões e GPS
+                    </span>
+                    <p class="text-slate-600 dark:text-slate-400 leading-relaxed">
+                        100% dos registros possuem pares Fazenda > Talhão auditados e coordenadas geográficas válidas dentro dos limites territoriais da Usina Pitangueiras.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL DE DETALHES DO LANÇAMENTO -->
+    <div id="detailModal" class="fixed inset-0 z-50 hidden modal-backdrop flex items-center justify-center p-4">
+        <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl shadow-2xl max-w-xl w-full max-h-[90vh] overflow-y-auto">
+            <div class="flex items-center justify-between p-4 border-b border-slate-200 dark:border-slate-700">
+                <div class="flex items-center gap-2">
+                    <span class="w-3 h-3 rounded-full bg-amber-500"></span>
+                    <h3 class="text-base font-bold text-slate-900 dark:text-white" id="modalTitle">Armadilha Detalhada</h3>
+                </div>
+                <button id="modalCloseBtn" class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 p-1">
+                    <i class="fa-solid fa-xmark text-lg"></i>
+                </button>
+            </div>
+            
+            <div class="p-5 space-y-4 text-xs" id="modalBody">
+                <!-- Conteúdo gerado dinamicamente -->
+            </div>
+            
+            <div class="p-4 border-t border-slate-200 dark:border-slate-700 flex justify-end">
+                <button id="modalCloseBottomBtn" class="px-4 py-1.5 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-800 dark:text-slate-200 font-semibold text-xs transition">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCRIPTS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="js/data.js?v=2026.5"></script>
+    <script src="js/broca_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/map_shapes_layer.js"></script>
+    <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
+</body>
+</html>

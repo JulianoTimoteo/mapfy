@@ -25,6 +25,28 @@ O envio ocorre em segundo plano para não atrasar o extrator. Se a entrega falha
 registrado no console/log local. O executor `6_PARAR_SERVICOS.bat` solicita o encerramento
 gracioso do servidor para que a notificação de parada seja enviada.
 
+Os executores `1_INICIAR_SERVIDOR_24_7.bat`, `2_INICIAR_SENTINEL_AGENT.bat` e
+`3_INICIAR_EXTRATOR.bat` iniciam o mesmo supervisor em segundo plano e são seguros para
+executar mais de uma vez. O supervisor mantém uma única instância do servidor e do Sentinel;
+o próprio servidor executa a extração imediatamente e depois no intervalo configurado. Não é
+necessário iniciar um extrator separado.
+O executor `4_EXECUTAR_TESTES.bat` roda cada arquivo de testes em um processo isolado.
+
+O supervisor usa `runtime\pythonw.exe` e uma tarefa oculta do Agendador de Tarefas chamada
+`MapFyBackground`, acionada quando esta conta do Windows entra. A conta precisa estar conectada;
+não é um serviço pré-logon. Os logs do supervisor e da instalação ficam em
+`mapfy_background.log` e `mapfy_background_install.log`. A tarefa pode ser desativada e os
+serviços parados com `6_PARAR_SERVICOS.bat`.
+
+O agente Sentinel só é iniciado quando `MAPFY_SENTINEL_URL` está configurado em `server\.env`.
+Sem um receptor configurado, o supervisor registra um aviso e não acumula heartbeats offline
+indefinidamente.
+
+Se a sessão Microsoft expirar ou exigir MFA, a autenticação automatizada pode falhar até que
+uma pessoa conclua a verificação interativa. O modo silencioso não contorna MFA: faça a
+autenticação manual pelo fluxo visível do extrator e então retome os executores em segundo
+plano. O navegador permanece oculto durante as execuções automatizadas normais.
+
 Para validar a entrega depois de configurar o bot, execute no diretório `server`:
 
 ```powershell
@@ -41,13 +63,15 @@ O comando envia a mensagem `Testando envio do servidor MapFy.` e termina sem ini
 3. Configure `MAPFY_USER`, `MAPFY_PASS` e `MAPFY_GITHUB_TOKEN` em `server\.env`. A chave do
    GitHub é confidencial; não a envie pelo chat, não a coloque no Dashboard e não compartilhe
    o `.env`.
-4. Execute `Iniciar_MapFy_Server.bat`. Para iniciar após a entrada da conta no Windows, execute
-   `INSTALAR_INICIALIZACAO.bat` uma vez.
+4. Execute `..\1_INICIAR_SERVIDOR_24_7.bat`. Isso instala e inicia o supervisor em segundo
+   plano; os executores 2 e 3 apontam para o mesmo supervisor e não devem criar processos
+   adicionais.
 
 A conta do Windows precisa permanecer conectada para a tarefa de inicialização automática
-funcionar. Para a primeira autenticação, abra o navegador do servidor e confirme o acesso à
-conta Mapfy. Os arquivos `session_state.json` e `.env` contêm dados sensíveis e devem ser
-protegidos.
+funcionar. Para a primeira autenticação ou quando o Microsoft exigir MFA novamente, conclua
+o login interativo antes de retomar a operação silenciosa. O modo em segundo plano não ignora
+verificações de identidade. Os arquivos `session_state.json` e `.env` contêm dados sensíveis
+e devem ser protegidos.
 
 ## Configuração do GitHub
 

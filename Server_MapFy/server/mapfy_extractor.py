@@ -37,6 +37,7 @@ import re
 import sys
 import time
 import zipfile
+from urllib.parse import urlsplit, urlunsplit
 
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
@@ -55,6 +56,22 @@ from runtime_paths import (
     REPORTS_DIR,
     SESSION_FILE,
 )
+from server_notifications import TelegramLogHandler, create_telegram_handler
+
+# Integração segura com o MapFy Telegram Monitor (desacoplada e resiliente)
+_monitor_reporter = None
+try:
+    _monitor_dir = PROJECT_ROOT / "MapFy_Telegram_Monitor"
+    if _monitor_dir.is_dir() and str(_monitor_dir) not in sys.path:
+        sys.path.insert(0, str(_monitor_dir))
+    from integration.notifier_client import ExtractionReporter
+    from integration.logging_handler import TelegramMonitorLoggingHandler
+    _monitor_reporter = ExtractionReporter(
+        base_url="http://127.0.0.1:8765",
+        auto_heartbeat=True
+    )
+except Exception:
+    _monitor_reporter = None
 
 # =============================================================================
 # DIRETÓRIOS E CONFIGURAÇÃO
@@ -404,7 +421,8 @@ def ensure_authenticated(
     page: Page,
     context: BrowserContext,
     username: str,
-    password: str
+    password: str,
+    allow_manual_login: bool = False,
 ) -> None:
     """
     Garante que a sessão está autenticada.
@@ -426,7 +444,7 @@ def ensure_authenticated(
     except PlaywrightTimeout:
         pass
 
-    log.info(f"Sessão não autenticada. URL atual: {page.url}")
+    log.info(f"Sessão não autenticada. Página atual: {_safe_auth_location(page.url)}")
     log.info("Iniciando fluxo automático de login...")
 
     # 2. Se estiver na tela da Gatec, tenta Azure AD ou login direto por formulário
@@ -465,30 +483,35 @@ def ensure_authenticated(
             except Exception:
                 pass
         log.info("Detectada tela de autenticação Microsoft Azure AD...")
+        if _select_saved_microsoft_account(page, username):
+            log.info("Conta Microsoft salva selecionada.")
         try:
             email_inp = page.wait_for_selector("input[name='loginfmt'], input[type='email']", timeout=12000)
             if email_inp:
                 email_inp.fill(username)
-                page.locator("input[type='submit'], button[type='submit']").click()
+                page.locator("input[type='submit'], button[type='submit']").first.click()
                 page.wait_for_timeout(2000)
-        except Exception:
-            pass
+        except PlaywrightTimeout:
+            log.info("Campo de e-mail não exibido; aguardando a próxima etapa do SSO.")
 
         try:
             pass_inp = page.wait_for_selector("input[name='passwd'], input[type='password']", timeout=12000)
             if pass_inp:
                 pass_inp.fill(password)
-                page.locator("input[type='submit'], button[type='submit']").click()
+                page.locator("input[type='submit'], button[type='submit']").first.click()
                 page.wait_for_timeout(2000)
-        except Exception:
-            pass
+        except PlaywrightTimeout:
+            log.info("Campo de senha não exibido; o SSO pode exigir confirmação adicional.")
 
         try:
             btn_kmsi = page.wait_for_selector("#idSIButton9, input[value='Yes'], input[value='Sim']", timeout=10000)
             if btn_kmsi:
                 btn_kmsi.click()
-        except Exception:
+        except PlaywrightTimeout:
             pass
+
+    # O SSO pode sempre redirecionar à página inicial da aplicação; volte à rota de formulários.
+    _navigate_to_forms_hub(page)
 
     # 4. Aguarda chegada na tela de formulários do Mapfy
     log.info("Aguardando confirmação de acesso na central Mapfy...")
@@ -497,14 +520,68 @@ def ensure_authenticated(
         log.info("[SUCESSO] Login concluído e formulários carregados!")
         context.storage_state(path=str(SESSION_FILE))
         log.info(f"[OK] Sessão salva em {SESSION_FILE.name}")
-    except Exception as exc:
+    except PlaywrightTimeout as exc:
+        if allow_manual_login:
+            log.warning(
+                "O login automático não terminou. Conclua a conta, a senha ou a verificação "
+                "adicional na janela do navegador; aguardando até 120 segundos."
+            )
+            try:
+                page.wait_for_url("https://app.mapfy.com.br/**", timeout=120000)
+                _navigate_to_forms_hub(page)
+                page.wait_for_selector(
+                    ".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')",
+                    timeout=45000,
+                )
+                log.info("[SUCESSO] Acesso confirmado manualmente; salvando a sessão.")
+                context.storage_state(path=str(SESSION_FILE))
+                log.info(f"[OK] Sessão salva em {SESSION_FILE.name}")
+                return
+            except PlaywrightTimeout as manual_exc:
+                exc = manual_exc
+
         diag_path = REPORTS_DIR / "login_diagnostico.png"
         try:
             page.screenshot(path=str(diag_path))
             log.warning(f"Screenshot de diagnóstico salvo em: {diag_path}")
         except Exception:
             pass
-        raise exc
+        safe_location = _safe_auth_location(page.url)
+        try:
+            page_title = page.title()
+        except Exception:
+            page_title = "(indisponível)"
+        raise RuntimeError(
+            "A autenticação não chegou à lista de formulários. "
+            f"Página atual: {safe_location}; título: {page_title}. "
+            "Verifique a conta selecionada, a senha e eventuais solicitações de MFA."
+        ) from exc
+
+
+def _safe_auth_location(url: str) -> str:
+    parts = urlsplit(url)
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
+
+
+def _navigate_to_forms_hub(page: Page) -> None:
+    current = urlsplit(page.url)
+    target = urlsplit(MAPFY_HUB_URL)
+    if current.netloc.casefold() != target.netloc.casefold():
+        return
+    if current.path.rstrip("/").casefold() == target.path.rstrip("/").casefold():
+        return
+
+    log.info("A sessão retornou à página inicial; abrindo a central de formulários.")
+    page.goto(MAPFY_HUB_URL, timeout=45000, wait_until="domcontentloaded")
+
+
+def _select_saved_microsoft_account(page: Page, username: str) -> bool:
+    account = page.get_by_text(username, exact=True).first
+    if not account.count() or not account.is_visible():
+        return False
+    account.click(timeout=5000)
+    page.wait_for_timeout(1500)
+    return True
 
 
 def extract_form_data(
@@ -751,7 +828,8 @@ def run_full_extraction(
             "Credenciais ausentes. Configure MAPFY_USER e MAPFY_PASS no arquivo .env."
         )
 
-    today_str = datetime.now().strftime("%d/%m/%Y")
+    start_exec_dt = datetime.now()
+    today_str = start_exec_dt.strftime("%d/%m/%Y")
 
     def emit(message: str, level: str = "INFO"):
         if level == "ERROR":
@@ -844,7 +922,13 @@ def run_full_extraction(
 
         # Garante autenticação
         try:
-            ensure_authenticated(page, context, username, password)
+            ensure_authenticated(
+                page,
+                context,
+                username,
+                password,
+                allow_manual_login=not headless,
+            )
         except Exception as e:
             emit(f"Falha de autenticação: {e}", "ERROR")
             browser.close()
@@ -957,6 +1041,14 @@ def run_full_extraction(
             export_dashboard_summary()
         except Exception:
             pass
+
+        # Dispara resumo oficial do Sentinel para o Telegram
+        try:
+            from server_notifications import send_sentinel_summary
+            duration = (datetime.now() - start_exec_dt).total_seconds()
+            send_sentinel_summary(relatorio_geral, duration_seconds=duration)
+        except Exception as e:
+            log.warning("Aviso ao enviar resumo do Sentinel ao Telegram: %s", e)
 
     return relatorio_geral
 
@@ -1072,12 +1164,63 @@ def main():
 
     # O padrão profissional é SEMPRE segundo plano (headless=True)
     is_headless = not args.visible
+    telegram_handler = create_telegram_handler()
+    if telegram_handler is None:
+        log.warning(
+            "Notificações Telegram desativadas: configure MAPFY_TELEGRAM_BOT_TOKEN e "
+            "MAPFY_TELEGRAM_CHAT_ID em server\\.env."
+        )
+    else:
+        telegram_handler.setFormatter(fmt)
+        log.addHandler(telegram_handler)
 
-    run_full_extraction(
-        headless=is_headless,
-        target_form=args.form,
-        force_start=args.force_start
-    )
+    # Inicia observabilidade com o MapFy Telegram Monitor se configurado
+    monitor_logging_handler = None
+    if _monitor_reporter is not None:
+        try:
+            _monitor_reporter.start()
+            monitor_logging_handler = TelegramMonitorLoggingHandler(_monitor_reporter)
+            log.addHandler(monitor_logging_handler)
+        except Exception:
+            pass
+
+    log.info("Extração manual do MapFy iniciada.")
+    try:
+        run_full_extraction(
+            headless=is_headless,
+            target_form=args.form,
+            force_start=args.force_start
+        )
+    except Exception as exc:
+        log.exception("Extração manual do MapFy encerrada com falha.")
+        if _monitor_reporter is not None:
+            try:
+                _monitor_reporter.event(
+                    level="ERROR",
+                    origin="mapfy_extractor",
+                    message=str(exc) or "Falha durante a extração"
+                )
+                _monitor_reporter.finish(status="FAILED")
+            except Exception:
+                pass
+        raise
+    else:
+        log.info("Extração manual do MapFy encerrada com sucesso.")
+        if _monitor_reporter is not None:
+            try:
+                _monitor_reporter.finish(status="COMPLETED")
+            except Exception:
+                pass
+    finally:
+        if monitor_logging_handler is not None:
+            try:
+                log.removeHandler(monitor_logging_handler)
+            except Exception:
+                pass
+        if telegram_handler is not None:
+            telegram_handler.flush()
+            log.removeHandler(telegram_handler)
+            telegram_handler.close()
 
 
 if __name__ == "__main__":

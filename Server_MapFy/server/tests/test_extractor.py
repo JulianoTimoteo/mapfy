@@ -6,12 +6,81 @@ if str(SERVER_DIR) not in sys.path:
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 
 import mapfy_extractor
 
 
 class ExtractorTests(unittest.TestCase):
+    def test_auth_location_omits_oauth_query_and_fragment(self) -> None:
+        location = mapfy_extractor._safe_auth_location(
+            "https://login.microsoftonline.com/common/oauth2?"
+            "state=private-state&nonce=private-nonce#token"
+        )
+
+        self.assertEqual(
+            location,
+            "https://login.microsoftonline.com/common/oauth2",
+        )
+
+    def test_authenticated_home_redirects_to_forms_hub(self) -> None:
+        page = Mock()
+        page.url = "https://app.mapfy.com.br/"
+
+        mapfy_extractor._navigate_to_forms_hub(page)
+
+        page.goto.assert_called_once_with(
+            mapfy_extractor.MAPFY_HUB_URL,
+            timeout=45000,
+            wait_until="domcontentloaded",
+        )
+
+    def test_forms_hub_is_not_navigated_twice(self) -> None:
+        page = Mock()
+        page.url = mapfy_extractor.MAPFY_HUB_URL
+
+        mapfy_extractor._navigate_to_forms_hub(page)
+
+        page.goto.assert_not_called()
+
+    def test_external_login_page_is_not_redirected_to_forms(self) -> None:
+        page = Mock()
+        page.url = "https://auth.gatec.com.br/Account/Login"
+
+        mapfy_extractor._navigate_to_forms_hub(page)
+
+        page.goto.assert_not_called()
+
+    def test_saved_microsoft_account_is_selected_by_configured_username(self) -> None:
+        page = Mock()
+        account = page.get_by_text.return_value.first
+        account.count.return_value = 1
+        account.is_visible.return_value = True
+
+        selected = mapfy_extractor._select_saved_microsoft_account(
+            page,
+            "user@example.com",
+        )
+
+        self.assertTrue(selected)
+        page.get_by_text.assert_called_once_with("user@example.com", exact=True)
+        account.click.assert_called_once_with(timeout=5000)
+        page.wait_for_timeout.assert_called_once_with(1500)
+
+    def test_saved_microsoft_account_is_not_clicked_when_not_visible(self) -> None:
+        page = Mock()
+        account = page.get_by_text.return_value.first
+        account.count.return_value = 1
+        account.is_visible.return_value = False
+
+        selected = mapfy_extractor._select_saved_microsoft_account(
+            page,
+            "user@example.com",
+        )
+
+        self.assertFalse(selected)
+        account.click.assert_not_called()
+
     def test_authentication_failure_is_reported_to_the_caller(self) -> None:
         with patch("mapfy_extractor.sync_playwright") as playwright_factory:
             browser = playwright_factory.return_value.__enter__.return_value.chromium.launch.return_value

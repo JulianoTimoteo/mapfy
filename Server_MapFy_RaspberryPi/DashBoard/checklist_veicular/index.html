@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <!-- Prevenção de Cache Estático no Celular / PWA -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão Inteligente da Frota • Inspeções, Avarias & Manutenção • Usina Pitangueiras 2026</title>
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome 6 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Chart.js & Datalabels -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+    <!-- Leaflet Map -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- SheetJS (Excel) -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+
+    <!-- Estilos Customizados -->
+    <link rel="stylesheet" href="css/styles.css">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
+    <!-- PWA e Metatags Mobile Executivas -->
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#047857">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<style id="mapfyMobileFilterEngine">
+/* ======================================================== */
+/* MAPFY 2026 - SISTEMA DE FILTROS RETRÁTEIS MOBILE/TABLET  */
+/* Arquitetura Profissional de Alta Performance (<= 1024px) */
+/* ======================================================== */
+@media (max-width: 1024px) {
+    #filterCollapsibleBody.is-collapsed,
+    .filter-collapsible-body.is-collapsed {
+        display: none !important;
+        max-height: 0 !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        pointer-events: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+    }
+    #filterCollapsibleBody.is-expanded,
+    .filter-collapsible-body.is-expanded {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        animation: mapfyFilterFadeIn 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    #filterSection input,
+    #filterSection select,
+    .filter-collapsible-body input,
+    .filter-collapsible-body select {
+        min-height: 44px !important;
+        font-size: 14px !important;
+    }
+    .mobile-filter-summary-bar {
+        display: flex !important;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        margin-top: 6px;
+        margin-bottom: 8px;
+        border-radius: 12px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.22);
+        cursor: pointer;
+        user-select: none;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+    .btn-toggle-filters-mobile,
+    #btnToggleFilterMobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 14px;
+        border-radius: 12px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 12px !important;
+        border: none !important;
+        cursor: pointer !important;
+        box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3) !important;
+        transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+    .btn-toggle-filters-mobile:active,
+    #btnToggleFilterMobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile.is-expanded,
+    #btnToggleFilterMobile.is-expanded {
+        background: linear-gradient(135deg, #475569 0%, #334155 100%) !important;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+    }
+    .btn-apply-filters-mobile,
+    #btnMobileApplyAndHide {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px 16px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3) !important;
+        border: none !important;
+        cursor: pointer !important;
+        transition: transform 0.15s ease, filter 0.15s ease;
+    }
+    .btn-apply-filters-mobile:active,
+    #btnMobileApplyAndHide:active {
+        transform: scale(0.98);
+        filter: brightness(0.95);
+    }
+    .mobile-floating-filter-btn,
+    #mobileFloatingFilterBtn {
+        position: fixed !important;
+        bottom: 20px !important;
+        right: 18px !important;
+        z-index: 9999 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important;
+        padding: 12px 18px !important;
+        border-radius: 9999px !important;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 6px 20px rgba(5, 150, 105, 0.45), 0 2px 6px rgba(0,0,0,0.2) !important;
+        border: 1px solid rgba(255, 255, 255, 0.25) !important;
+        cursor: pointer !important;
+        transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease !important;
+    }
+    .mobile-floating-filter-btn:active,
+    #mobileFloatingFilterBtn:active {
+        transform: scale(0.92) !important;
+    }
+    .mobile-floating-filter-btn.hidden-floating,
+    #mobileFloatingFilterBtn.hidden-floating {
+        opacity: 0 !important;
+        pointer-events: none !important;
+        transform: translateY(20px) scale(0.8) !important;
+    }
+}
+@media (min-width: 1025px) {
+    #filterCollapsibleBody,
+    .filter-collapsible-body {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        margin: inherit !important;
+        padding: inherit !important;
+    }
+    #btnToggleFilterMobile,
+    .btn-toggle-filters-mobile,
+    #mobileFilterSummaryBar,
+    .mobile-filter-summary-bar,
+    #btnMobileApplyAndHide,
+    .btn-apply-filters-mobile,
+    #mobileFloatingFilterBtn,
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+}
+@keyframes mapfyFilterFadeIn {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
+
+    <!-- HEADER SUPERIOR EXECUTIVO (COM RETORNO ESTRITO AO MANDALA HUB) -->
+        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+    <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-3 w-full md:w-auto justify-between md:justify-start">
+                <!-- Widget 24/7 Circular no Cantinho Esquerdo (Ciclo de 1h) -->
+                <div id="badgeStatus247" class="badge-247-container" title="Sincronismo Contínuo 24/7 • Próxima atualização ao fechar o ciclo de 1h">
+                    <div class="badge-247-ring-wrap">
+                        <svg class="badge-247-svg" width="22" height="22" viewBox="0 0 36 36">
+                            <path class="badge-247-bg"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                            <path id="badge247ProgressRing" class="badge-247-progress"
+                                  stroke-dasharray="0, 100"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                        </svg>
+                        <span id="badge247Dot" class="badge-247-dot"></span>
+                    </div>
+                    <span class="badge-247-label">24/7</span>
+                </div>
+
+                <!-- Retorno Exclusivo ao Mandala Hub Central -->
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 transition shadow-sm" title="Retornar à Mandala Hub Principal">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <span>Mandala Hub</span>
+                </a>
+
+                <div class="flex items-center gap-2.5 sm:gap-3 min-w-0 w-full md:w-auto mt-1 md:mt-0">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo h-10 w-auto object-contain">
+                    <div class="min-w-0 flex-1">
+                        <div class="flex items-center gap-2">
+                            <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                            <span class="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">Frotas & Logística • Manutenção Automotiva</span>
+                        </div>
+                        <h1 class="text-sm sm:text-base md:text-xl font-extrabold text-slate-900 dark:text-white tracking-tight break-words leading-snug">
+                            Central de Inteligência — Check-List Veicular
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-3 w-full md:w-auto justify-end">
+                <span class="badge badge-emerald text-xs">
+                    <i class="fa-solid fa-truck-pickup mr-1"></i> Safra 2026
+                </span>
+                <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
+                    <i class="fa-solid fa-database mr-1"></i> 1.238 Registros de Frota
+                </span>
+
+                <!-- Alternador de Tema Claro / Escuro -->
+                <button id="themeToggleBtn" type="button" class="p-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition" title="Alternar Tema Claro / Escuro">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- NOTIFICAÇÃO E CONTEXTO OPERACIONAL -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 mt-4">
+        <div class="p-4 rounded-2xl border border-emerald-500/30 bg-emerald-500/5 flex flex-col md:flex-row items-start md:items-center justify-between gap-3 shadow-sm">
+            <div class="flex items-start gap-3">
+                <div class="w-10 h-10 rounded-xl bg-emerald-500 text-white flex items-center justify-center shrink-0 mt-0.5 shadow-sm">
+                    <i class="fa-solid fa-truck-pickup text-lg"></i>
+                </div>
+                <div>
+                    <h2 class="text-sm font-bold text-[var(--text-primary)]">Central de Inteligência Operacional de Frota</h2>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">
+                        Painel gerencial consolidando <strong id="contextTotalInspecoes">1.238 inspeções veiculares</strong>, <strong id="contextTotalVeiculos">84 veículos</strong>, <strong id="contextTotalCondutores">271 condutores</strong> e <strong id="contextTotalGestores">24 gestores</strong>. Rastreabilidade integrada de criticidade oficial, avarias por componente, videotelemetria e ordens de serviço.
+                    </p>
+                </div>
+            </div>
+            <div class="flex items-center gap-2 self-end md:self-auto shrink-0 text-xs font-mono text-[var(--text-secondary)]">
+                <span class="px-3 py-1.5 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)]">
+                    Pátio Operacional • Pitangueiras
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <!-- PAINEL DE FILTROS GLOBAIS REATIVOS -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 mt-4">
+        <div class="app-card p-4 sm:p-5" id="filterSection">
+            <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                <div class="flex items-center gap-2">
+                    <i class="fa-solid fa-filter text-emerald-500"></i>
+                    <h3 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide">Filtros Dinâmicos Globais</h3>
+                </div>
+                                <div class="flex items-center gap-2">
+
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px] transition-transform duration-300"></i>
+                    </button>
+                    <button id="btnResetFilters" class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-[var(--kpi-bg)] hover:bg-[var(--card-hover)] border border-[var(--border-color)] text-[var(--text-secondary)] transition">
+                        <i class="fa-solid fa-rotate-left mr-1"></i> Limpar Filtros
+                    </button>
+                    <button id="btnExportExcel" class="px-3 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs flex items-center gap-1.5 shadow-sm transition">
+                        <i class="fa-solid fa-file-excel"></i>
+                        <span class="hidden md:inline">Excel</span>
+                    </button>
+                    <button id="btnExportCSV" class="px-3 py-1.5 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] hover:bg-[var(--card-hover)] text-xs font-semibold transition">
+                        <i class="fa-solid fa-file-csv"></i>
+                        <span class="hidden md:inline">CSV</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Grade de Seletores -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 text-xs">
+                <div>
+                    <label class="block font-semibold text-[var(--text-secondary)] mb-1">Frota do Veículo</label>
+                    <select id="filterFrota" class="w-full rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] px-2.5 py-1.5 text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="TODAS">Todas as Frotas</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-semibold text-[var(--text-secondary)] mb-1">Gestor Responsável</label>
+                    <select id="filterGestor" class="w-full rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] px-2.5 py-1.5 text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="TODOS">Todos os Gestores</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-semibold text-[var(--text-secondary)] mb-1">Condutor</label>
+                    <select id="filterCondutor" class="w-full rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] px-2.5 py-1.5 text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="TODOS">Todos os Condutores</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-semibold text-[var(--text-secondary)] mb-1">Criticidade</label>
+                    <select id="filterCriticidade" class="w-full rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] px-2.5 py-1.5 text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="TODAS">Todas as Classificações</option>
+                        <option value="Leve">Leve (Liberado)</option>
+                        <option value="Moderado">Moderado (Condutor notificado)</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-semibold text-[var(--text-secondary)] mb-1">Componente Danificado</label>
+                    <select id="filterComponente" class="w-full rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] px-2.5 py-1.5 text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="TODOS">Todos os Componentes</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block font-semibold text-[var(--text-secondary)] mb-1">Videotelemetria</label>
+                    <select id="filterVideo" class="w-full rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] px-2.5 py-1.5 text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="TODAS">Todas as Situações</option>
+                        <option value="SIM">SIM (Com Vídeo)</option>
+                        <option value="NÃO">NÃO (Sem Vídeo)</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Busca Textual e Checkboxes Especiais -->
+            <div class="flex flex-col md:flex-row items-center justify-between gap-3 mt-3 pt-3 border-t border-[var(--border-color)] text-xs">
+                <div class="flex flex-wrap items-center gap-4">
+                    <label class="inline-flex items-center gap-1.5 cursor-pointer">
+                        <input type="checkbox" id="chkSomenteComAvaria" class="rounded text-emerald-500 focus:ring-emerald-500">
+                        <span class="font-medium text-[var(--text-primary)]">Apenas com Avarias Registradas</span>
+                    </label>
+                    <label class="inline-flex items-center gap-1.5 cursor-pointer">
+                        <input type="checkbox" id="chkSomenteComOS" class="rounded text-emerald-500 focus:ring-emerald-500">
+                        <span class="font-medium text-[var(--text-primary)]">Apenas com Ordem de Serviço</span>
+                    </label>
+                    <label class="inline-flex items-center gap-1.5 cursor-pointer">
+                        <input type="checkbox" id="chkSomenteReincidentes" class="rounded text-emerald-500 focus:ring-emerald-500">
+                        <span class="font-medium text-[var(--text-primary)]">Apenas Veículos com Reincidência</span>
+                    </label>
+                </div>
+
+                <div class="w-full md:w-80 relative">
+                    <input type="text" id="searchInput" placeholder="Buscar por Frota, Placa, Condutor, Gestor..."
+                           class="w-full rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] px-3 py-1.5 pl-8 text-xs text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                    <i class="fa-solid fa-magnifying-glass absolute left-2.5 top-2.5 text-[var(--text-muted)] text-xs"></i>
+                </div>
+            </div>
+        
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2" style="border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center text-slate-400 m-0">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
+
+    <!-- GRADE RESPONSIVA DOS 10 CARDS DE KPIS EXECUTIVOS -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 mt-4">
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 2xl:grid-cols-10 gap-2 sm:gap-2.5">
+            
+            <!-- KPI 1: Total Inspeções -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-emerald-500 min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Total de Inspeções">Total Inspeções</span>
+                    <i class="fa-solid fa-clipboard-check text-emerald-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-[var(--text-primary)]" id="kpiTotalInspecoes">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate">100% Auditadas</span>
+                </div>
+            </div>
+
+            <!-- KPI 2: Veículos Distintos -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Veículos Distintos">Veículos Distintos</span>
+                    <i class="fa-solid fa-truck text-slate-400 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-emerald-600 dark:text-emerald-400" id="kpiVeiculosDistintos">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate">Frotas ativas</span>
+                </div>
+            </div>
+
+            <!-- KPI 3: Condutores -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Condutores Mapeados">Condutores</span>
+                    <i class="fa-solid fa-id-card text-sky-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-sky-600 dark:text-sky-400" id="kpiCondutoresDistintos">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate">Colaboradores</span>
+                </div>
+            </div>
+
+            <!-- KPI 4: Gestores -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Gestores Responsáveis">Gestores</span>
+                    <i class="fa-solid fa-user-tie text-purple-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-purple-600 dark:text-purple-400" id="kpiGestoresDistintos">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate">Lideranças</span>
+                </div>
+            </div>
+
+            <!-- KPI 5: Criticidade Leve -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-emerald-500 min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Leve (Liberado)">Leve (Liberado)</span>
+                    <i class="fa-solid fa-circle-check text-emerald-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-emerald-500" id="kpiCriticidadeLeve">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate" id="kpiPercLeve">0%</span>
+                </div>
+            </div>
+
+            <!-- KPI 6: Criticidade Moderada -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-amber-500 min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Moderado (Notificado)">Moderado</span>
+                    <i class="fa-solid fa-triangle-exclamation text-amber-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-amber-500" id="kpiCriticidadeModerado">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate" id="kpiPercModerado">0%</span>
+                </div>
+            </div>
+
+            <!-- KPI 7: Com Avarias -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Inspeções com Avarias">Com Avarias</span>
+                    <i class="fa-solid fa-car-burst text-rose-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-rose-500" id="kpiInspecoesComAvarias">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate" id="kpiPercComAvarias">0%</span>
+                </div>
+            </div>
+
+            <!-- KPI 8: Componentes Danificados -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Total de Componentes">Componentes</span>
+                    <i class="fa-solid fa-screwdriver-wrench text-orange-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-orange-500" id="kpiTotalComponentes">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate">17 tipos mapeados</span>
+                </div>
+            </div>
+
+            <!-- KPI 9: Videotelemetria -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Videotelemetria Ativa">Videotelemetria</span>
+                    <i class="fa-solid fa-video text-cyan-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-cyan-500" id="kpiVideoSim">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate" id="kpiPercVideoSim">0%</span>
+                </div>
+            </div>
+
+            <!-- KPI 10: Ordens de Serviço -->
+            <div class="app-card p-3 sm:p-3.5 flex flex-col justify-between border-l-4 border-l-blue-500 min-w-0">
+                <div class="flex items-center justify-between gap-1.5 min-w-0">
+                    <span class="text-xs font-semibold text-[var(--text-secondary)] truncate" title="Ordens de Serviço">Ordens Serviço</span>
+                    <i class="fa-solid fa-file-invoice text-blue-500 shrink-0 text-xs sm:text-sm"></i>
+                </div>
+                <div class="mt-2 min-w-0">
+                    <span class="text-xl sm:text-2xl font-bold font-mono text-blue-500" id="kpiAbrirOsSim">0</span>
+                    <span class="text-[11px] text-[var(--text-muted)] block truncate" id="kpiDetalheOS">0 com número</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- BARRA DE NAVEGAÇÃO DE ABAS / TELAS ANALÍTICAS (10 TELAS) -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 mt-5">
+        <div class="border-b border-[var(--border-color)] flex overflow-x-auto no-scrollbar gap-1 text-xs font-semibold select-none">
+            <button class="nav-tab-btn active px-4 py-2.5 text-emerald-500 border-b-2 border-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="visao_executiva">
+                <i class="fa-solid fa-chart-pie"></i> Visão Executiva
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="prontuario">
+                <i class="fa-solid fa-address-card text-emerald-500"></i> Prontuário Digital do Veículo
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="reincidencia">
+                <i class="fa-solid fa-arrows-rotate text-rose-500"></i> Reincidência de Avarias
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="criticidade">
+                <i class="fa-solid fa-triangle-exclamation text-amber-500"></i> Criticidade da Frota
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="componentes">
+                <i class="fa-solid fa-wrench text-orange-500"></i> Avarias & Componentes
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="gestores_condutores">
+                <i class="fa-solid fa-users text-purple-500"></i> Gestores & Condutores
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="videotelemetria">
+                <i class="fa-solid fa-video text-cyan-500"></i> Videotelemetria
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="manutencao">
+                <i class="fa-solid fa-file-invoice text-blue-500"></i> Manutenção & OS
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="mapa">
+                <i class="fa-solid fa-location-dot text-emerald-500"></i> Mapa de Inspeções
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="auditoria">
+                <i class="fa-solid fa-shield-halved text-amber-500"></i> Auditoria de Dados
+            </button>
+            <button class="nav-tab-btn px-4 py-2.5 text-[var(--text-secondary)] hover:text-emerald-500 whitespace-nowrap flex items-center gap-1.5" data-tab="tabela">
+                <i class="fa-solid fa-table-list"></i> Tabela Analítica
+            </button>
+        </div>
+    </div>
+
+    <!-- ÁREA DE CONTEÚDO PRINCIPAL (10 SEÇÕES DE ABAS) -->
+    <main class="flex-1 w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 py-5">
+
+        <!-- ========================================== -->
+        <!-- ABA 1: VISÃO EXECUTIVA                     -->
+        <!-- ========================================== -->
+        <section id="tabSection_visao_executiva" class="tab-content-section space-y-5">
+            <!-- 3 Gráficos de Donuts com Totalizador no Centro -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+                <!-- Donut 1: Criticidade -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide">
+                            <i class="fa-solid fa-gauge text-emerald-500 mr-1.5"></i> Estado de Criticidade
+                        </h4>
+                        <span class="text-[10px] font-mono text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/40 px-1.5 py-0.5 rounded border border-emerald-200 dark:border-emerald-800" title="Clique em qualquer fatia para filtrar o painel">💡 Filtrável</span>
+                    </div>
+                    <div class="h-60 relative flex items-center justify-center">
+                        <canvas id="chartCriticidade"></canvas>
+                    </div>
+                </div>
+
+                <!-- Donut 2: Videotelemetria -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide">
+                            <i class="fa-solid fa-video text-cyan-500 mr-1.5"></i> Videotelemetria
+                        </h4>
+                        <span class="text-[10px] font-mono text-cyan-600 dark:text-cyan-400 bg-cyan-50 dark:bg-cyan-950/40 px-1.5 py-0.5 rounded border border-cyan-200 dark:border-cyan-800" title="Clique em qualquer fatia para filtrar o painel">💡 Filtrável</span>
+                    </div>
+                    <div class="h-60 relative flex items-center justify-center">
+                        <canvas id="chartVideotelemetria"></canvas>
+                    </div>
+                </div>
+
+                <!-- Donut 3: Ordens de Serviço -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide">
+                            <i class="fa-solid fa-file-invoice text-blue-500 mr-1.5"></i> Ordens de Serviço
+                        </h4>
+                        <span class="text-[10px] font-mono text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-950/40 px-1.5 py-0.5 rounded border border-blue-200 dark:border-blue-800" title="Clique em qualquer fatia para filtrar o painel">💡 Filtrável</span>
+                    </div>
+                    <div class="h-60 relative flex items-center justify-center">
+                        <canvas id="chartManutencaoOS"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Evolução Temporal Diária com Filtros Rápidos (Todos, 15D, 7D) -->
+            <div class="app-card p-5">
+                <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-color)] mb-4">
+                    <div>
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                            <i class="fa-solid fa-chart-line text-emerald-500"></i>
+                            Evolução Temporal das Inspeções e Criticidade
+                        </h4>
+                        <p class="text-xs text-[var(--text-secondary)] mt-0.5">Acompanhamento diário de inspeções realizadas, classificações e avarias declaradas</p>
+                    </div>
+                    <!-- Botões Rápidos -->
+                    <div class="inline-flex p-1 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] text-xs font-semibold">
+                        <button class="btn-evo-filter px-3 py-1 rounded-lg transition active text-white bg-emerald-600 shadow-sm" data-evo-range="ALL">
+                            Todos
+                        </button>
+                        <button class="btn-evo-filter px-3 py-1 rounded-lg transition text-[var(--text-secondary)]" data-evo-range="15D">
+                            15D
+                        </button>
+                        <button class="btn-evo-filter px-3 py-1 rounded-lg transition text-[var(--text-secondary)]" data-evo-range="7D">
+                            7D
+                        </button>
+                    </div>
+                </div>
+                <div class="h-72">
+                    <canvas id="chartEvolucaoTemporal"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 2: PRONTUÁRIO DIGITAL (DIFERENCIAL 1)  -->
+        <!-- ========================================== -->
+        <section id="tabSection_prontuario" class="tab-content-section hidden space-y-5">
+            <div class="app-card">
+                <!-- Seletor do Veículo para Prontuário -->
+                <div class="p-4 border-b border-[var(--border-color)] flex flex-col md:flex-row items-start md:items-center justify-between gap-3 bg-[var(--kpi-bg)] rounded-t-2xl">
+                    <div class="flex items-center gap-2">
+                        <i class="fa-solid fa-id-card text-emerald-500 text-lg"></i>
+                        <div>
+                            <h3 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide">Prontuário Digital Individual do Veículo</h3>
+                            <p class="text-[11px] text-[var(--text-secondary)]">Selecione o código de frota para inspecionar a ficha técnica, histórico e reincidências</p>
+                        </div>
+                    </div>
+                    <div class="w-full md:w-96">
+                        <select id="selectProntuarioFrota" class="w-full rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] px-3 py-2 text-xs font-semibold text-[var(--text-primary)] focus:ring-2 focus:ring-emerald-500 focus:outline-none shadow-sm">
+                            <!-- Preenchido dinamicamente via JS -->
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Conteúdo Dinâmico do Prontuário -->
+                <div id="prontuarioContent">
+                    <!-- Renderizado dinamicamente -->
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 3: REINCIDÊNCIA DE AVARIAS (DIF. 2)    -->
+        <!-- ========================================== -->
+        <section id="tabSection_reincidencia" class="tab-content-section hidden space-y-5">
+            <div class="app-card" id="reincidenciaContent">
+                <!-- Renderizado dinamicamente via engine.js -->
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 4: CRITICIDADE DA FROTA               -->
+        <!-- ========================================== -->
+        <section id="tabSection_criticidade" class="tab-content-section hidden space-y-5">
+            <!-- Tabela de Veículos com Atenção Prioritária -->
+            <div class="app-card p-5">
+                <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-4">
+                    <div>
+                        <h4 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                            <i class="fa-solid fa-triangle-exclamation text-amber-500"></i>
+                            Lista de Atenção Prioritária da Frota
+                        </h4>
+                        <p class="text-xs text-[var(--text-secondary)] mt-0.5">Veículos com maior incidência de criticidade moderada ou componentes danificados</p>
+                    </div>
+                    <span class="text-xs font-mono font-bold text-amber-500 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30">
+                        Inspeção Contínua
+                    </span>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead>
+                            <tr class="text-[var(--text-secondary)] border-b border-[var(--border-color)]">
+                                <th class="pb-2">Frota</th>
+                                <th class="pb-2">Modelo / Placa</th>
+                                <th class="pb-2 text-center">Inspeções</th>
+                                <th class="pb-2 text-center text-amber-500 font-bold">Moderado</th>
+                                <th class="pb-2 text-center text-rose-500 font-bold">Comps Danificados</th>
+                                <th class="pb-2 text-center">Ordens Serviço</th>
+                                <th class="pb-2 text-right">Ficha</th>
+                            </tr>
+                        </thead>
+                        <tbody id="atencaoPrioritariaBody" class="divide-y divide-[var(--border-color)]">
+                            <!-- Preenchido via JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 5: AVARIAS & COMPONENTES               -->
+        <!-- ========================================== -->
+        <section id="tabSection_componentes" class="tab-content-section hidden space-y-5">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+                <!-- Ranking dos 17 Componentes -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide">
+                            <i class="fa-solid fa-wrench text-rose-500 mr-1.5"></i> Componentes Mais Danificados
+                        </h4>
+                        <span class="text-[10px] font-mono text-[var(--text-muted)]">Ocorrências Declaradas</span>
+                    </div>
+                    <div class="h-80">
+                        <canvas id="chartComponentes"></canvas>
+                    </div>
+                </div>
+
+                <!-- Agrupamento por Categoria -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide">
+                            <i class="fa-solid fa-layer-group text-blue-500 mr-1.5"></i> Ocorrências por Categoria
+                        </h4>
+                        <span class="text-[10px] font-mono text-[var(--text-muted)]">Sistemas Veiculares</span>
+                    </div>
+                    <div class="h-80">
+                        <canvas id="chartCategoriasComponentes"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 6: GESTORES & CONDUTORES               -->
+        <!-- ========================================== -->
+        <section id="tabSection_gestores_condutores" class="tab-content-section hidden space-y-5">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+                <!-- Painel Gestores -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-1.5">
+                            <i class="fa-solid fa-user-tie text-purple-500"></i> Inspeções por Gestor
+                        </h4>
+                        <span class="text-[10px] font-mono text-[var(--text-muted)]">Volume & Avarias</span>
+                    </div>
+                    <div class="overflow-x-auto max-h-96 overflow-y-auto">
+                        <table class="w-full text-xs text-left">
+                            <thead class="sticky top-0 bg-[var(--table-header-bg)] border-b border-[var(--border-color)] text-[var(--text-secondary)]">
+                                <tr>
+                                    <th class="pb-2">Gestor</th>
+                                    <th class="pb-2 text-center">Frotas</th>
+                                    <th class="pb-2 text-center">Inspeções</th>
+                                    <th class="pb-2 text-center">C/ Avaria</th>
+                                    <th class="pb-2 text-center">Comps</th>
+                                    <th class="pb-2 text-right">Taxa %</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rankingGestoresBody" class="divide-y divide-[var(--border-color)]">
+                                <!-- Preenchido via JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Painel Condutores -->
+                <div class="app-card p-5">
+                    <div class="flex items-center justify-between pb-3 border-b border-[var(--border-color)] mb-3">
+                        <h4 class="text-xs font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-1.5">
+                            <i class="fa-solid fa-id-card text-sky-500"></i> Condutores Associados às Inspeções
+                        </h4>
+                        <span class="text-[10px] font-mono text-[var(--text-muted)]">Rastreabilidade Operacional</span>
+                    </div>
+                    <div class="overflow-x-auto max-h-96 overflow-y-auto">
+                        <table class="w-full text-xs text-left">
+                            <thead class="sticky top-0 bg-[var(--table-header-bg)] border-b border-[var(--border-color)] text-[var(--text-secondary)]">
+                                <tr>
+                                    <th class="pb-2">Condutor</th>
+                                    <th class="pb-2 text-center">Frotas</th>
+                                    <th class="pb-2 text-center">Inspeções</th>
+                                    <th class="pb-2 text-center">C/ Avaria</th>
+                                    <th class="pb-2 text-right">Último Lançamento</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rankingCondutoresBody" class="divide-y divide-[var(--border-color)]">
+                                <!-- Preenchido via JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 7: VIDEOTELEMETRIA (DIFERENCIAL 3)     -->
+        <!-- ========================================== -->
+        <section id="tabSection_videotelemetria" class="tab-content-section hidden space-y-5">
+            <div class="app-card p-5">
+                <div class="pb-3 border-b border-[var(--border-color)] mb-4">
+                    <h4 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-video text-cyan-500"></i>
+                        Matriz de Rastreabilidade: Videotelemetria x Avarias
+                    </h4>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">
+                        Cruzamento analítico entre a indicação de videotelemetria e a existência de avarias no veículo.
+                    </p>
+                </div>
+
+                <!-- Matriz 2x2 -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <!-- Quadrante 1: SIM + Com Avaria -->
+                    <div class="p-4 rounded-xl border border-cyan-500/30 bg-cyan-500/10">
+                        <div class="text-[10px] font-bold text-cyan-600 dark:text-cyan-400 uppercase">Videotelemetria SIM + Com Avaria</div>
+                        <div class="text-2xl font-bold font-mono text-[var(--text-primary)] mt-1" id="videoMatSimAvaria">0</div>
+                        <p class="text-xs text-[var(--text-secondary)] mt-1">Avarias com telemetria ativa para conferência de gravação.</p>
+                    </div>
+
+                    <!-- Quadrante 2: SIM + Sem Avaria -->
+                    <div class="p-4 rounded-xl border border-emerald-500/30 bg-emerald-500/10">
+                        <div class="text-[10px] font-bold text-emerald-600 dark:text-emerald-400 uppercase">Videotelemetria SIM + Sem Avaria</div>
+                        <div class="text-2xl font-bold font-mono text-[var(--text-primary)] mt-1" id="videoMatSimSemAvaria">0</div>
+                        <p class="text-xs text-[var(--text-secondary)] mt-1">Veículos liberados sob monitoramento operacional preventivo.</p>
+                    </div>
+
+                    <!-- Quadrante 3: NÃO + Com Avaria -->
+                    <div class="p-4 rounded-xl border border-amber-500/30 bg-amber-500/10">
+                        <div class="text-[10px] font-bold text-amber-600 dark:text-amber-400 uppercase">Videotelemetria NÃO + Com Avaria</div>
+                        <div class="text-2xl font-bold font-mono text-[var(--text-primary)] mt-1" id="videoMatNaoAvaria">0</div>
+                        <p class="text-xs text-[var(--text-secondary)] mt-1">Avarias sem indicação de videotelemetria registrada.</p>
+                    </div>
+
+                    <!-- Quadrante 4: NÃO + Sem Avaria -->
+                    <div class="p-4 rounded-xl border border-slate-500/30 bg-slate-500/10">
+                        <div class="text-[10px] font-bold text-slate-500 uppercase">Videotelemetria NÃO + Sem Avaria</div>
+                        <div class="text-2xl font-bold font-mono text-[var(--text-primary)] mt-1" id="videoMatNaoSemAvaria">0</div>
+                        <p class="text-xs text-[var(--text-secondary)] mt-1">Inspeções liberadas sem indicação de videotelemetria.</p>
+                    </div>
+                </div>
+
+                <div class="mt-4 p-3 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] text-xs text-[var(--text-secondary)]">
+                    <i class="fa-solid fa-circle-info text-cyan-500 mr-1.5"></i>
+                    <strong>Nota Metodológica:</strong> O valor "SIM" indica que o veículo dispõe de sistema de videotelemetria registrado na inspeção, não comprovando por si só que o vídeo já tenha sido visualizado ou periciado pela equipe técnica.
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 8: MANUTENÇÃO & ORDENS DE SERVIÇO     -->
+        <!-- ========================================== -->
+        <section id="tabSection_manutencao" class="tab-content-section hidden space-y-5">
+            <div class="app-card p-5">
+                <div class="pb-3 border-b border-[var(--border-color)] mb-4">
+                    <h4 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-file-invoice text-blue-500"></i>
+                        Rastreabilidade de Ordens de Serviço (OS) de Manutenção
+                    </h4>
+                    <p class="text-xs text-[var(--text-secondary)] mt-0.5">
+                        Relação das ordens de serviço geradas e vinculadas aos registros de inspeção da frota.
+                    </p>
+                </div>
+
+                <div class="overflow-x-auto max-h-96 overflow-y-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead class="sticky top-0 bg-[var(--table-header-bg)] border-b border-[var(--border-color)] text-[var(--text-secondary)]">
+                            <tr>
+                                <th class="pb-2">Número OS</th>
+                                <th class="pb-2">Frota</th>
+                                <th class="pb-2">Modelo Veículo</th>
+                                <th class="pb-2">Data Lançamento</th>
+                                <th class="pb-2">Componente Danificado</th>
+                                <th class="pb-2">Observações</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tabelaOSBody" class="divide-y divide-[var(--border-color)]">
+                            <!-- Preenchido via JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 9: MAPA GEOPROCESSADO DE INSPEÇÕES    -->
+        <!-- ========================================== -->
+        <section id="tabSection_mapa" class="tab-content-section hidden space-y-5">
+            <div class="app-card p-5">
+                <div class="pb-3 border-b border-[var(--border-color)] mb-3 flex flex-wrap items-center justify-between gap-3">
+                    <div>
+                        <h4 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                            <i class="fa-solid fa-location-dot text-emerald-500"></i>
+                            Mapa de Georreferenciamento das Inspeções Veiculares
+                        </h4>
+                        <p class="text-xs text-[var(--text-secondary)] mt-0.5">
+                            Coordenadas registradas no ato da inspeção no pátio e nas bases da Usina Pitangueiras.
+                        </p>
+                    </div>
+                    <div class="flex items-center gap-3 text-xs font-mono">
+                        <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block"></span> Leve (Liberado)</span>
+                        <span class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-amber-500 inline-block"></span> Moderado (Notificado)</span>
+                    </div>
+                </div>
+
+                <div id="mapContainer" class="w-full h-[520px] rounded-xl border border-[var(--border-color)]"></div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 10: AUDITORIA DE QUALIDADE DOS DADOS  -->
+        <!-- ========================================== -->
+        <section id="tabSection_auditoria" class="tab-content-section hidden space-y-5">
+            <div class="app-card p-5">
+                <div class="pb-3 border-b border-[var(--border-color)] mb-4 flex items-center justify-between">
+                    <div>
+                        <h4 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                            <i class="fa-solid fa-shield-halved text-amber-500"></i>
+                            Painel de Auditoria e Integridade dos Dados de Entrada
+                        </h4>
+                        <p class="text-xs text-[var(--text-secondary)] mt-0.5">Identificação de frotas em observações, inconsistências de duração e campos vazios</p>
+                    </div>
+                    <span class="px-3 py-1 rounded-full text-xs font-mono font-bold bg-amber-500/10 text-amber-500 border border-amber-500/30">
+                        <span id="auditTotalInconsistencias">0</span> Pontos Auditados
+                    </span>
+                </div>
+
+                <div class="overflow-x-auto max-h-96 overflow-y-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead class="sticky top-0 bg-[var(--table-header-bg)] border-b border-[var(--border-color)] text-[var(--text-secondary)]">
+                            <tr>
+                                <th class="pb-2">ID Inspeção</th>
+                                <th class="pb-2">Frota</th>
+                                <th class="pb-2">Data</th>
+                                <th class="pb-2">Inconsistências Identificadas</th>
+                                <th class="pb-2 text-right">Ação</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tabelaAuditoriaBody" class="divide-y divide-[var(--border-color)]">
+                            <!-- Preenchido via JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- ABA 11: TABELA ANALÍTICA DE INSPEÇÕES      -->
+        <!-- ========================================== -->
+        <section id="tabSection_tabela" class="tab-content-section hidden space-y-5">
+            <div class="app-card p-5">
+                <div class="pb-3 border-b border-[var(--border-color)] mb-3 flex items-center justify-between">
+                    <h4 class="text-xs sm:text-sm font-bold text-[var(--text-primary)] uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-table-list text-emerald-500"></i> Tabela Analítica Completa de Lançamentos
+                    </h4>
+                    <span id="tablePaginationInfo" class="text-xs font-mono text-[var(--text-secondary)]">Mostrando 0 de 0</span>
+                </div>
+
+                <div class="overflow-x-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead>
+                            <tr class="text-[var(--text-secondary)] border-b border-[var(--border-color)] bg-[var(--kpi-bg)]">
+                                <th class="p-3">ID</th>
+                                <th class="p-3">Data</th>
+                                <th class="p-3">Frota / Veículo</th>
+                                <th class="p-3">Placa</th>
+                                <th class="p-3">Gestor</th>
+                                <th class="p-3">Condutor</th>
+                                <th class="p-3 text-center">Criticidade</th>
+                                <th class="p-3 text-center">Vídeo</th>
+                                <th class="p-3 text-center">OS</th>
+                                <th class="p-3 text-right">Ação</th>
+                            </tr>
+                        </thead>
+                        <tbody id="inspecoesTableBody">
+                            <!-- Preenchido via JS -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Paginação -->
+                <div class="flex items-center justify-between pt-4 mt-3 border-t border-[var(--border-color)] text-xs">
+                    <button id="btnTablePrev" class="px-3 py-1.5 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] hover:bg-[var(--card-hover)] font-semibold transition disabled:opacity-40">
+                        <i class="fa-solid fa-chevron-left mr-1"></i> Anterior
+                    </button>
+                    <button id="btnTableNext" class="px-3 py-1.5 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] hover:bg-[var(--card-hover)] font-semibold transition disabled:opacity-40">
+                        Próxima <i class="fa-solid fa-chevron-right ml-1"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- RODAPÉ EXECUTIVO -->
+    <footer class="border-t py-6 text-center text-xs mt-auto transition-colors"
+            style="background: var(--header-bg); border-color: var(--border-color); color: var(--text-secondary);">
+        <p>Usina Pitangueiras • Sistema Mapfy Automático • Safra 2026</p>
+        <p class="text-[11px] mt-1 font-mono opacity-80">Dados consolidados de Server_MapFy/server/relatorios/CHECK LIST VEICULAR/</p>
+    </footer>
+
+    <!-- MODAL DE DETALHAMENTO COMPLETO DA INSPEÇÃO (22 CAMPOS) -->
+    <div id="recordDetailModal" class="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 hidden flex items-center justify-center p-3 sm:p-4">
+        <div class="app-card w-full max-w-2xl max-h-[90vh] flex flex-col shadow-2xl animate-in fade-in zoom-in-95 duration-150 border border-[var(--border-color)] overflow-hidden">
+            <!-- Topo Modal -->
+            <div class="p-5 border-b border-[var(--border-color)] flex items-center justify-between bg-[var(--kpi-bg)]">
+                <div>
+                    <span class="text-[10px] font-mono font-bold uppercase tracking-wider text-emerald-500 px-2 py-0.5 rounded bg-emerald-500/10 border border-emerald-500/20">Ficha de Inspeção</span>
+                    <h3 class="text-base font-bold text-[var(--text-primary)] mt-1 flex items-center gap-2">
+                        <span>Inspeção</span> <span id="modalRecordId" class="text-emerald-500 font-mono">#0</span>
+                    </h3>
+                </div>
+                <button onclick="closeRecordModal()" class="p-2 rounded-lg hover:bg-[var(--card-hover)] text-[var(--text-secondary)] transition text-base">
+                    ✕
+                </button>
+            </div>
+
+            <!-- Corpo Modal -->
+            <div class="p-5 overflow-y-auto flex-1 space-y-4 text-xs">
+                <!-- Informações do Veículo -->
+                <div class="p-3 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] space-y-1.5">
+                    <div class="font-bold text-emerald-500 uppercase text-[11px]">Identificação do Veículo</div>
+            <!-- Barra de Resumo Compacta para Mobile (<= 768px) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Filtros Configurados</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            </div>
+
+            <!-- Container Colapsável dos Filtros para Mobile -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
+            <div class="grid grid-cols-2 gap-2 text-[var(--text-primary)]">
+                        <div><strong>Frota:</strong> <span id="modalFrotaCodigo" class="font-mono">--</span></div>
+                        <div><strong>Placa:</strong> <span id="modalFrotaPlaca" class="font-mono">--</span></div>
+                        <div><strong>Modelo:</strong> <span id="modalFrotaModelo">--</span></div>
+                        <div><strong>Tipo:</strong> <span id="modalFrotaTipo">--</span></div>
+                    </div>
+                </div>
+
+                <!-- Detalhes Operacionais -->
+                <div class="grid grid-cols-2 gap-3">
+                    <div class="p-3 rounded-xl border border-[var(--border-color)] space-y-1">
+                        <div class="font-bold text-[var(--text-secondary)] text-[11px]">Condutor & Gestor</div>
+                        <div><strong>Condutor:</strong> <span id="modalCondutor">--</span></div>
+                        <div><strong>Gestor:</strong> <span id="modalGestor">--</span></div>
+                        <div><strong>Lançador:</strong> <span id="modalUsuario" class="truncate block">--</span></div>
+                    </div>
+                    <div class="p-3 rounded-xl border border-[var(--border-color)] space-y-1">
+                        <div class="font-bold text-[var(--text-secondary)] text-[11px]">Classificação & Telemetria</div>
+                        <div><strong>Criticidade:</strong> <span id="modalCriticidade" class="font-bold text-amber-500">--</span></div>
+                        <div><strong>Videotelemetria:</strong> <span id="modalVideo" class="font-mono">--</span></div>
+                        <div><strong>Data:</strong> <span id="modalData" class="font-mono">--</span></div>
+                    </div>
+                </div>
+
+                <!-- Manutenção / OS -->
+                <div class="p-3 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] flex items-center justify-between">
+                    <div>
+                        <span class="font-semibold text-[var(--text-secondary)]">Solicitação de OS:</span>
+                        <strong id="modalAbrirOs" class="ml-1 text-[var(--text-primary)]">--</strong>
+                    </div>
+                    <div>
+                        <span class="font-semibold text-[var(--text-secondary)]">Número da OS:</span>
+                        <strong id="modalOsNumero" class="ml-1 font-mono text-blue-500">--</strong>
+                    </div>
+                    <div>
+                        <span class="font-semibold text-[var(--text-secondary)]">Duração:</span>
+                        <strong id="modalDuracao" class="ml-1 font-mono">--</strong>
+                    </div>
+                </div>
+
+                <!-- Componentes Danificados -->
+                <div>
+                    <div class="font-bold text-[var(--text-primary)] mb-1.5">Componentes Danificados Declarados:</div>
+                    <div id="modalComponentesList" class="flex flex-wrap gap-1.5">
+                        <!-- Preenchido via JS -->
+                    </div>
+                </div>
+
+                <!-- Observações -->
+                <div>
+                    <div class="font-bold text-[var(--text-primary)] mb-1">Observações da Inspeção:</div>
+                    <div id="modalObs" class="p-3 rounded-xl border border-[var(--border-color)] bg-[var(--kpi-bg)] text-[var(--text-secondary)] italic">
+                        --
+                    </div>
+                </div>
+
+                <!-- Coordenadas -->
+                <div class="text-[11px] font-mono text-[var(--text-muted)] flex items-center justify-between pt-2 border-t border-[var(--border-color)]">
+                    <span>GPS Pátio Usina: <span id="modalCoords">--</span></span>
+                    <span>Pitangueiras • Safra 2026</span>
+                </div>
+            </div>
+
+            <!-- Rodapé Modal -->
+            <div class="p-4 border-t border-[var(--border-color)] flex justify-end bg-[var(--kpi-bg)]">
+                <button onclick="closeRecordModal()" class="px-4 py-2 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-xs transition shadow-sm">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCRIPTS DA APLICAÇÃO -->
+    <script src="js/data.js?v=2026.11.09_v3"></script>
+    <script src="js/engine.js?v=2026.11.09_v3"></script>
+    <script src="js/dashboard.js?v=2026.11.09_v3"></script>
+    <script src="../common/js/map_shapes_layer.js"></script>
+    <script src="../common/js/fullscreen_inspector.js?v=2026.11.09_v3"></script>
+</body>
+</html>

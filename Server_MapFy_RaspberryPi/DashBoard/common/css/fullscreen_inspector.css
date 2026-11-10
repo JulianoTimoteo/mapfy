@@ -1,0 +1,2092 @@
+/**
+ * fullscreen_inspector.css
+ * ========================
+ * Estilos para visualização em Tela Inteira de Mapas Leaflet, Gráficos Chart.js
+ * e Adaptação Ergonômica Imersiva do Raio-X em Smartphones e Desktops.
+ * Usina Pitangueiras • Safra 2026
+ */
+
+/* --- 1. MODO TELA CHEIA PARA O MAPA OPERACIONAL --- */
+.map-fullscreen-active {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    height: 100dvh !important;
+    max-width: 100vw !important;
+    max-height: 100vh !important;
+    max-height: 100dvh !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    z-index: 99990 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    background: #0f172a !important;
+    overflow: hidden !important;
+}
+
+/* Esconde cabeçalho original e outros elementos do card no modo tela cheia para evitar sobreposições e corte de altura */
+.map-fullscreen-active > div.flex:not(.map-fullscreen-topbar),
+.map-fullscreen-active > .card-header,
+.map-fullscreen-active > .chart-card-header,
+.map-fullscreen-active > h2,
+.map-fullscreen-active > h3,
+.map-fullscreen-active > h4 {
+    display: none !important;
+}
+
+/* O elemento div do mapa (e qualquer container intermediário) preenche 100% da viewport */
+.map-fullscreen-active > div[id^="map"],
+.map-fullscreen-active div[id^="map"],
+.map-fullscreen-active .leaflet-container,
+.map-fullscreen-active > div:has(div[id^="map"]),
+.map-fullscreen-active > div:has(.leaflet-container) {
+    position: absolute !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    min-height: 100vh !important;
+    max-height: 100vh !important;
+    border-radius: 0 !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    z-index: 1 !important;
+}
+
+/* Barra de Controle Flutuante no Topo do Mapa em Tela Cheia */
+.map-fullscreen-topbar {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    right: 14px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+    gap: 10px;
+}
+
+.map-fullscreen-topbar > * {
+    pointer-events: auto;
+}
+
+.map-fullscreen-badge {
+    background: rgba(15, 23, 42, 0.88);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #f8fafc;
+    padding: 8px 14px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-exit-map-fullscreen {
+    background: #10b981;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 12px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 4px 14px rgba(16, 185, 129, 0.45);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border: none;
+}
+
+.btn-exit-map-fullscreen:hover {
+    background: #059669;
+    transform: scale(1.03);
+}
+
+/* --- 2. MODO TELA CHEIA PARA GRÁFICOS (CHART.JS) --- */
+.chart-fullscreen-active {
+    position: fixed !important;
+    inset: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    height: 100dvh !important;
+    max-width: 100vw !important;
+    max-height: 100vh !important;
+    max-height: 100dvh !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    z-index: 99980 !important;
+    margin: 0 !important;
+    padding: 24px !important;
+    border-radius: 0 !important;
+    background: #ffffff !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: none !important;
+    overflow: hidden !important;
+}
+
+html.dark .chart-fullscreen-active {
+    background: #0f172a !important;
+    color: #f8fafc !important;
+}
+
+.chart-fullscreen-active .chart-container-inner,
+.chart-fullscreen-active > div:has(canvas),
+.chart-fullscreen-active canvas {
+    flex: 1 1 0% !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-height: calc(100vh - 80px) !important;
+}
+
+/* Botão Universal de Tela Cheia nos Cards */
+.btn-toggle-fullscreen {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-secondary, #64748b);
+    border: 1px solid var(--border-color, #e2e8f0);
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.btn-toggle-fullscreen:hover {
+    color: #10b981;
+    border-color: #10b981;
+    background: rgba(16, 185, 129, 0.08);
+}
+
+/* --- 3. RAIO-X PERFEITO NO CELULAR (< 640px) --- */
+@media (max-width: 639px) {
+    /* O modal passa a ocupar 100% da tela do celular sem quebras laterais */
+    #recordModal > div,
+    #detailModal > div,
+    #detailsModal > div,
+    #recordDetailModal > div {
+        width: 100vw !important;
+        height: 100vh !important;
+        max-width: 100vw !important;
+        max-height: 100vh !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        padding: 16px 14px 24px 14px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        border: none !important;
+    }
+
+    #recordModal,
+    #detailModal,
+    #detailsModal,
+    #recordDetailModal {
+        padding: 0 !important;
+    }
+
+    /* Conteúdo interno com scroll suave e toque ergonômico */
+    #modalRecordContent,
+    #modalBody,
+    #modalComponentesList,
+    .modal-scroll-area {
+        flex: 1 1 0% !important;
+        overflow-y: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+        padding-bottom: 24px !important;
+    }
+
+    /* Ajuste de grids internas do Raio-X para coluna única ou 2 colunas equilibradas no celular */
+    #modalRecordContent .grid,
+    #modalBody .grid {
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+        gap: 8px !important;
+    }
+
+    /* Textos maiores e sem corte */
+    #recordModal h3,
+    #detailModal h3,
+    #detailsModal h3,
+    #recordDetailModal h3 {
+        font-size: 14px !important;
+    }
+
+    /* Botão fechar mais acessível para toque do polegar */
+    #btnCloseRecordModal,
+    #btnCloseDetailModal,
+    #btnCloseModal,
+    #btnCloseRecordDetailModal {
+        min-width: 36px;
+        min-height: 36px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+    }
+}
+
+/* Modo Tela Cheia Expandido para Raio-X no Computador/Desktop */
+.raiox-modal-fullscreen {
+    width: 96vw !important;
+    height: 94vh !important;
+    max-width: 96vw !important;
+    max-height: 94vh !important;
+}
+
+/* ==========================================================================
+   MODAIS DE RAIO-X / DETALHES DE MEDIÇÃO
+   Abertura prioritária e garantida SOBRE o mapa em tela cheia (z-index 999999)
+   ========================================================================== */
+#recordModal,
+#detailModal,
+#detailsModal,
+#recordDetailModal,
+#targetModal,
+.modal-overlay,
+.modal-backdrop,
+div[id$="Modal"]:not(#modalRecordContent):not(#modalBody):not(#modalComponentesList) {
+    z-index: 999999 !important;
+    position: fixed !important;
+}
+
+/* ==========================================================================
+   KPI CARDS EM LINHA ÚNICA (SEM DIVIDIR EM DUAS LINHAS NO DESKTOP)
+   Todos os cards cabem em uma linha horizontal única, limpa e espaçosa
+   ========================================================================== */
+@media (min-width: 1024px) {
+    .kpis-grid {
+        grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+        gap: 0.5rem !important;
+    }
+
+    .kpis-grid .kpi-card {
+        padding: 0.65rem 0.5rem !important;
+        min-width: 0 !important;
+    }
+
+    .kpis-grid .kpi-title {
+        font-size: 0.68rem !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    .kpis-grid .kpi-value {
+        font-size: 1.25rem !important;
+        font-weight: 800 !important;
+    }
+
+    .kpis-grid .kpi-footer {
+        font-size: 0.62rem !important;
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    /* Redução ergonômica de padding nas seções com 10 cards em Tailwind */
+    section[class*="grid-cols-10"] > div,
+    div[class*="grid-cols-10"] > div {
+        padding: 0.65rem 0.5rem !important;
+        min-width: 0 !important;
+    }
+
+    section[class*="grid-cols-10"] div.text-2xl,
+    div[class*="grid-cols-10"] div.text-2xl {
+        font-size: 1.25rem !important;
+        line-height: 1.2 !important;
+    }
+}
+
+/* ==========================================================================
+   4. TOTALIZADOR NO CENTRO DE GRÁFICOS DE ROSCA (DONUT)
+   Garante visibilidade perfeita do somatório em tema claro e escuro
+   ========================================================================== */
+.donut-center-total-sum {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.1;
+    margin-top: 2px;
+    pointer-events: none;
+    user-select: none;
+}
+
+.donut-center-total-sum .total-num {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: 'JetBrains Mono', 'Plus Jakarta Sans', monospace, sans-serif;
+    color: var(--text-primary, #0f172a);
+}
+
+html.dark .donut-center-total-sum .total-num {
+    color: #f8fafc !important;
+}
+
+.donut-center-total-sum .total-lbl {
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-secondary, #64748b);
+    margin-top: 1px;
+}
+
+html.dark .donut-center-total-sum .total-lbl {
+    color: #94a3b8 !important;
+}
+
+/* ==========================================================================
+   5. FILTROS RÁPIDOS DA LINHA DO TEMPO / EVOLUÇÃO TEMPORAL (7D, 15D, 30D, Todos)
+   ========================================================================== */
+.timeline-quick-filter-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 3px;
+    border-radius: 10px;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    user-select: none;
+}
+
+html.dark .timeline-quick-filter-group {
+    background: rgba(30, 41, 59, 0.8) !important;
+    border-color: rgba(51, 65, 85, 0.8) !important;
+}
+
+.btn-quick-timeline-filter {
+    padding: 3px 9px;
+    border-radius: 7px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #64748b;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+html.dark .btn-quick-timeline-filter {
+    color: #94a3b8;
+}
+
+.btn-quick-timeline-filter:hover {
+    color: #10b981;
+}
+
+.btn-quick-timeline-filter.active {
+    background: #059669 !important;
+    color: #ffffff !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+/* ==========================================================================
+   6. ÍCONE INFORMATIVO (i) CIRCULAR E POPOVER EXPLICATIVO
+   Conforme especificações e imagem de referência (Tema Claro & Escuro)
+   ========================================================================== */
+.btn-info-popover {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
+    padding: 0 !important;
+    margin-left: 6px !important;
+    vertical-align: middle !important;
+    border-radius: 50% !important;
+    border: none !important;
+    background: transparent !important;
+    color: #64748b !important;
+    cursor: pointer !important;
+    transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), color 0.15s ease, background 0.15s ease !important;
+    flex-shrink: 0 !important;
+    position: relative !important;
+    z-index: 5 !important;
+}
+
+html.dark .btn-info-popover {
+    color: #94a3b8;
+}
+
+.btn-info-popover:hover {
+    color: #059669;
+    background: rgba(16, 185, 129, 0.12);
+    transform: scale(1.12);
+}
+
+html.dark .btn-info-popover:hover {
+    color: #34d399;
+    background: rgba(16, 185, 129, 0.2);
+}
+
+.btn-info-popover svg {
+    width: 17px;
+    height: 17px;
+    display: block;
+}
+
+/* Overlay & Card do Popover Explicativo */
+.pitangueiras-popover-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    background: rgba(15, 23, 42, 0.55);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+}
+
+.pitangueiras-popover-overlay.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.popover-card {
+    background: #ffffff;
+    color: #0f172a;
+    border-radius: 20px;
+    padding: 24px;
+    max-width: 540px;
+    width: 100%;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(0, 0, 0, 0.05);
+    transform: scale(0.95);
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+}
+
+html.dark .popover-card {
+    background: #0f172a !important;
+    color: #f8fafc !important;
+    border: 1px solid rgba(51, 65, 85, 0.8) !important;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.65), 0 0 0 1px rgba(255, 255, 255, 0.08) !important;
+}
+
+.pitangueiras-popover-overlay.active .popover-card {
+    transform: scale(1);
+}
+
+.popover-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+html.dark .popover-header {
+    border-bottom-color: rgba(51, 65, 85, 0.6);
+}
+
+.popover-icon-badge {
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+    background: #ecfdf5;
+    color: #059669;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+html.dark .popover-icon-badge {
+    background: rgba(16, 185, 129, 0.16);
+    color: #34d399;
+}
+
+.popover-title-area h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.3;
+}
+
+html.dark .popover-title-area h3 {
+    color: #ffffff;
+}
+
+.popover-title-area span {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #059669;
+}
+
+html.dark .popover-title-area span {
+    color: #34d399;
+}
+
+.popover-close-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+    border: none;
+    background: transparent;
+    color: #94a3b8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+}
+
+.popover-close-btn:hover {
+    background: #f1f5f9;
+    color: #0f172a;
+}
+
+html.dark .popover-close-btn:hover {
+    background: #1e293b;
+    color: #ffffff;
+}
+
+.popover-body {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.popover-section {
+    padding: 12px 14px;
+    border-radius: 14px;
+    background: #f8fafc;
+    border: 1px solid #f1f5f9;
+}
+
+html.dark .popover-section {
+    background: rgba(30, 41, 59, 0.5);
+    border-color: rgba(51, 65, 85, 0.5);
+}
+
+.popover-section.highlight {
+    background: #f0fdf4;
+    border-color: #dcfce7;
+}
+
+html.dark .popover-section.highlight {
+    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.2);
+}
+
+.popover-section-label {
+    display: block;
+    font-size: 11px;
+    font-weight: 700;
+    color: #334155;
+    margin-bottom: 4px;
+}
+
+html.dark .popover-section-label {
+    color: #cbd5e1;
+}
+
+.popover-section.highlight .popover-section-label {
+    color: #065f46;
+}
+
+html.dark .popover-section.highlight .popover-section-label {
+    color: #6ee7b7;
+}
+
+.popover-section-text {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.55;
+    color: #475569;
+}
+
+html.dark .popover-section-text {
+    color: #94a3b8;
+}
+
+.popover-section.highlight .popover-section-text {
+    color: #064e3b;
+}
+
+html.dark .popover-section.highlight .popover-section-text {
+    color: #a7f3d0;
+}
+
+.popover-footer {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid #f1f5f9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 11px;
+    color: #94a3b8;
+}
+
+html.dark .popover-footer {
+    border-top-color: rgba(51, 65, 85, 0.5);
+}
+
+
+/* ==========================================================================
+   CABEÇALHO CORPORATIVO UNIFICADO (100% IDÊNTICO NOS 17 RELATÓRIOS MAPFY)
+   Usina Pitangueiras • Safra 2026 • Navegação Estrita Mandala Hub
+   ========================================================================== */
+
+/* Barra de Navegação Superior Vitrificada */
+header.header-glass,
+.header-glass {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1000 !important;
+    background: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border-bottom: 1px solid #e2e8f0 !important;
+    padding: 0.65rem 1.25rem !important;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05) !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    transition: background-color 0.2s ease, border-color 0.2s ease !important;
+}
+
+html.dark header.header-glass,
+body.dark-mode header.header-glass,
+.dark header.header-glass {
+    background: rgba(15, 23, 42, 0.95) !important;
+    border-bottom-color: #334155 !important;
+}
+
+/* Container Central Flexível com limite máx de 1920px */
+.header-glass > div {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    max-width: 1920px !important;
+    margin: 0 auto !important;
+    gap: 1rem !important;
+    box-sizing: border-box !important;
+}
+
+/* Lado Esquerdo: Botão Retorno Mandala + Logotipo + Títulos */
+.header-glass > div > div:first-child {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: 1rem !important;
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+}
+
+.header-glass > div > div:first-child > div.flex,
+.header-glass > div > div:first-child > div:not(a) {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: 0.75rem !important;
+}
+
+/* Logotipo Oficial Usina Pitangueiras (Bloqueio estrito de redimensionamento gigante) */
+.header-glass img,
+.header-glass .header-logo,
+header.header-glass img {
+    height: 40px !important;
+    max-height: 40px !important;
+    width: auto !important;
+    max-width: 220px !important;
+    object-fit: contain !important;
+    display: inline-block !important;
+    flex-shrink: 0 !important;
+}
+
+/* Tipografia Corporativa do Título e Categoria */
+.header-glass h1 {
+    font-size: 1.125rem !important;
+    font-weight: 800 !important;
+    color: #0f172a !important;
+    letter-spacing: -0.025em !important;
+    line-height: 1.25 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    white-space: nowrap !important;
+}
+
+html.dark .header-glass h1,
+body.dark-mode .header-glass h1,
+.dark .header-glass h1 {
+    color: #f8fafc !important;
+}
+
+.header-glass span.uppercase,
+.header-glass .uppercase {
+    font-size: 0.6875rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    line-height: 1 !important;
+}
+
+/* Lado Direito: Badges, Status Online e Alternador de Tema */
+.header-glass > div > div:last-child {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    gap: 0.65rem !important;
+    flex: 0 0 auto !important;
+}
+
+/* Botão Corporativo de Retorno Mandala Hub */
+.header-glass a.btn-mandala,
+a.btn-mandala {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
+    padding: 0.35rem 0.85rem !important;
+    border-radius: 0.5rem !important;
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    background: #ecfdf5 !important;
+    color: #065f46 !important;
+    border: 1px solid #a7f3d0 !important;
+    transition: all 0.2s ease !important;
+    white-space: nowrap !important;
+    line-height: 1.25 !important;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05) !important;
+    flex-shrink: 0 !important;
+}
+
+.header-glass a.btn-mandala:hover,
+a.btn-mandala:hover {
+    background: #d1fae5 !important;
+    border-color: #10b981 !important;
+    color: #047857 !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08) !important;
+}
+
+html.dark .header-glass a.btn-mandala,
+body.dark-mode .header-glass a.btn-mandala,
+.dark .header-glass a.btn-mandala,
+html.dark a.btn-mandala,
+body.dark-mode a.btn-mandala,
+.dark a.btn-mandala {
+    background: rgba(6, 78, 59, 0.5) !important;
+    color: #6ee7b7 !important;
+    border-color: #047857 !important;
+}
+
+html.dark .header-glass a.btn-mandala:hover,
+body.dark-mode .header-glass a.btn-mandala:hover,
+.dark .header-glass a.btn-mandala:hover {
+    background: rgba(6, 78, 59, 0.8) !important;
+    border-color: #10b981 !important;
+}
+
+/* Badges Corporativos (Safra, Contagem, Status) */
+.header-glass .badge,
+.badge {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.35rem !important;
+    padding: 0.25rem 0.65rem !important;
+    border-radius: 9999px !important;
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    line-height: 1.25 !important;
+    white-space: nowrap !important;
+    box-sizing: border-box !important;
+    flex-shrink: 0 !important;
+}
+
+.badge-emerald {
+    background: #ecfdf5 !important;
+    color: #047857 !important;
+    border: 1px solid #a7f3d0 !important;
+}
+html.dark .badge-emerald,
+body.dark-mode .badge-emerald,
+.dark .badge-emerald {
+    background: rgba(5, 150, 105, 0.2) !important;
+    color: #34d399 !important;
+    border-color: rgba(5, 150, 105, 0.4) !important;
+}
+
+.badge-amber {
+    background: #fffbeb !important;
+    color: #b45309 !important;
+    border: 1px solid #fde68a !important;
+}
+html.dark .badge-amber,
+body.dark-mode .badge-amber,
+.dark .badge-amber {
+    background: rgba(217, 119, 6, 0.2) !important;
+    color: #fbbf24 !important;
+    border-color: rgba(217, 119, 6, 0.4) !important;
+}
+
+.badge-slate {
+    background: #f1f5f9 !important;
+    color: #475569 !important;
+    border: 1px solid #cbd5e1 !important;
+}
+html.dark .badge-slate,
+body.dark-mode .badge-slate,
+.dark .badge-slate {
+    background: rgba(71, 85, 105, 0.2) !important;
+    color: #94a3b8 !important;
+    border-color: rgba(71, 85, 105, 0.4) !important;
+}
+
+/* Badge do Servidor MapFy Online 24/7 */
+#server-live-status-badge,
+#mapfy-server-live-badge {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.375rem !important;
+    padding: 0.25rem 0.65rem !important;
+    border-radius: 0.5rem !important;
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    white-space: nowrap !important;
+    cursor: pointer !important;
+    flex-shrink: 0 !important;
+    line-height: 1.25 !important;
+}
+
+/* Botão Alternador de Tema */
+.header-glass #themeToggleBtn,
+#themeToggleBtn {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 32px !important;
+    height: 32px !important;
+    border-radius: 0.5rem !important;
+    border: 1px solid #cbd5e1 !important;
+    background: #f1f5f9 !important;
+    color: #475569 !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    padding: 0 !important;
+    font-size: 0.875rem !important;
+    flex-shrink: 0 !important;
+}
+
+.header-glass #themeToggleBtn:hover,
+#themeToggleBtn:hover {
+    background: #e2e8f0 !important;
+    color: #1e293b !important;
+}
+
+html.dark .header-glass #themeToggleBtn,
+body.dark-mode .header-glass #themeToggleBtn,
+.dark .header-glass #themeToggleBtn,
+html.dark #themeToggleBtn,
+body.dark-mode #themeToggleBtn,
+.dark #themeToggleBtn {
+    background: #334155 !important;
+    border-color: #475569 !important;
+    color: #e2e8f0 !important;
+}
+
+html.dark .header-glass #themeToggleBtn:hover,
+body.dark-mode .header-glass #themeToggleBtn:hover,
+.dark .header-glass #themeToggleBtn:hover {
+    background: #475569 !important;
+    color: #ffffff !important;
+}
+
+/* Alternância automática dos ícones fa-moon e fa-sun */
+html.dark .header-glass #themeToggleBtn i.fa-moon,
+body.dark-mode .header-glass #themeToggleBtn i.fa-moon,
+.dark .header-glass #themeToggleBtn i.fa-moon {
+    display: none !important;
+}
+html.dark .header-glass #themeToggleBtn i.fa-sun,
+body.dark-mode .header-glass #themeToggleBtn i.fa-sun,
+.dark .header-glass #themeToggleBtn i.fa-sun {
+    display: inline !important;
+}
+
+/* Responsividade Mobile Profissional para o Cabeçalho dos 17 Relatórios */
+@media (max-width: 768px) {
+    .header-glass {
+        padding: 0.5rem 0.65rem !important;
+        overflow-x: hidden !important;
+    }
+    .header-glass > div {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        gap: 0.5rem !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    .header-glass > div > div:first-child {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        width: 100% !important;
+        gap: 0.4rem !important;
+    }
+    /* Linha 1 no celular: Widget 24/7 e Botão Mandala Hub */
+    .header-glass #badgeStatus247,
+    .header-glass .badge-247-container {
+        order: 1 !important;
+        margin: 0 !important;
+    }
+    .header-glass .btn-mandala {
+        order: 2 !important;
+        padding: 0.35rem 0.65rem !important;
+        font-size: 0.75rem !important;
+        margin: 0 !important;
+    }
+    /* Linha 2 no celular: Logo + Identidade e Título (ocupa 100% da largura, quebrando perfeitamente) */
+    .header-glass > div > div:first-child > div:last-child {
+        order: 3 !important;
+        width: 100% !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 0.5rem !important;
+        margin-top: 0.2rem !important;
+        min-width: 0 !important;
+        overflow: hidden !important;
+    }
+    .header-glass > div > div:first-child > div:last-child > div {
+        min-width: 0 !important;
+        flex: 1 1 auto !important;
+        overflow: hidden !important;
+    }
+    .header-glass h1 {
+        font-size: 0.875rem !important;
+        line-height: 1.25 !important;
+        font-weight: 800 !important;
+        word-break: break-word !important;
+        overflow-wrap: break-word !important;
+        white-space: normal !important;
+        margin-top: 0.15rem !important;
+    }
+    .header-glass img,
+    .header-glass .header-logo {
+        height: 28px !important;
+        max-height: 28px !important;
+        width: auto !important;
+        flex-shrink: 0 !important;
+    }
+    /* Linha 3 no celular: Badges Safra, Medições e Botão Tema */
+    .header-glass > div > div:last-child {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        width: 100% !important;
+        gap: 0.4rem !important;
+        padding-top: 0.3rem !important;
+        border-top: 1px solid rgba(226, 232, 240, 0.6) !important;
+        overflow-x: auto !important;
+    }
+    html.dark .header-glass > div > div:last-child {
+        border-top-color: rgba(51, 65, 85, 0.6) !important;
+    }
+}
+
+
+/* ==========================================================================
+   WIDGET CIRCULAR 24/7 NO CANTINHO ESQUERDO (CICLO DE 1H DE ATUALIZAÇÃO)
+   Sem links clicáveis • Apenas monitoramento de ciclo com borda circular
+   ========================================================================== */
+#badgeStatus247,
+.badge-247-container {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.35rem !important;
+    padding: 0.2rem 0.55rem 0.2rem 0.35rem !important;
+    background: #ecfdf5 !important;
+    border: 1px solid #a7f3d0 !important;
+    border-radius: 9999px !important;
+    cursor: default !important;
+    user-select: none !important;
+    flex-shrink: 0 !important;
+    width: auto !important;
+    max-width: 85px !important;
+    height: 30px !important;
+    box-sizing: border-box !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04) !important;
+    transition: all 0.3s ease !important;
+}
+
+html.dark #badgeStatus247,
+body.dark-mode #badgeStatus247,
+.dark #badgeStatus247,
+html.dark .badge-247-container,
+body.dark-mode .badge-247-container,
+.dark .badge-247-container {
+    background: rgba(6, 78, 59, 0.35) !important;
+    border-color: rgba(16, 185, 129, 0.35) !important;
+}
+
+.badge-247-ring-wrap {
+    position: relative !important;
+    width: 22px !important;
+    height: 22px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-shrink: 0 !important;
+}
+
+.badge-247-svg {
+    width: 22px !important;
+    height: 22px !important;
+    transform: rotate(-90deg) !important; /* Início em 12h (topo do círculo) */
+    display: block !important;
+}
+
+.badge-247-bg {
+    fill: none !important;
+    stroke: #d1fae5 !important;
+    stroke-width: 3.5 !important;
+}
+
+html.dark .badge-247-bg,
+body.dark-mode .badge-247-bg,
+.dark .badge-247-bg {
+    stroke: rgba(6, 78, 59, 0.6) !important;
+}
+
+.badge-247-progress {
+    fill: none !important;
+    stroke: #10b981 !important;
+    stroke-width: 3.5 !important;
+    stroke-linecap: round !important;
+    stroke-dasharray: 0, 100;
+    transition: stroke-dasharray 0.6s linear, stroke 0.3s ease !important;
+}
+
+html.dark .badge-247-progress,
+body.dark-mode .badge-247-progress,
+.dark .badge-247-progress {
+    stroke: #34d399 !important;
+}
+
+.badge-247-dot {
+    position: absolute !important;
+    width: 5px !important;
+    height: 5px !important;
+    border-radius: 9999px !important;
+    background-color: #10b981 !important;
+    box-shadow: 0 0 6px #10b981 !important;
+    animation: pulse247Dot 2s ease-in-out infinite !important;
+}
+
+html.dark .badge-247-dot,
+body.dark-mode .badge-247-dot,
+.dark .badge-247-dot {
+    background-color: #34d399 !important;
+    box-shadow: 0 0 6px #34d399 !important;
+}
+
+@keyframes pulse247Dot {
+    0%, 100% { transform: scale(0.9); opacity: 0.8; }
+    50% { transform: scale(1.3); opacity: 1; }
+}
+
+.badge-247-label {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+    font-size: 0.6875rem !important;
+    font-weight: 800 !important;
+    color: #065f46 !important;
+    letter-spacing: 0.025em !important;
+    line-height: 1 !important;
+}
+
+html.dark .badge-247-label,
+body.dark-mode .badge-247-label,
+.dark .badge-247-label {
+    color: #a7f3d0 !important;
+}
+
+/* Efeito de sinalização quando o círculo completa 1h */
+.badge-247-cycle-complete {
+    animation: flash247Cycle 1.5s ease-out 2 !important;
+}
+
+@keyframes flash247Cycle {
+    0% { transform: scale(1); filter: brightness(1); }
+    50% { transform: scale(1.08); filter: brightness(1.35); box-shadow: 0 0 10px rgba(16, 185, 129, 0.6); }
+    100% { transform: scale(1); filter: brightness(1); }
+}
+
+
+/* ==========================================================================
+   ALTO CONTRASTE EXECUTIVO: TEXTO NO MODO CLARO É PRETO, NO MODO ESCURO É BRANCO
+   QUEBRA DE TEXTO EM VEZ DE RETICÊNCIAS (COMPUTADOR, NOTEBOOK E CELULAR)
+   ========================================================================== */
+html:not(.dark) {
+    --text-primary: #000000 !important;
+    --text-secondary: #0f172a !important;
+    --text-muted: #1e293b !important;
+    color: #0f172a !important;
+}
+
+html:not(.dark) .kpi-title,
+html:not(.dark) .card-title,
+html:not(.dark) .chart-card-title,
+html:not(.dark) label,
+html:not(.dark) p,
+html:not(.dark) span.text-slate-400,
+html:not(.dark) span.text-slate-500,
+html:not(.dark) span.text-slate-600,
+html:not(.dark) div.text-slate-400,
+html:not(.dark) div.text-slate-500,
+html:not(.dark) div.text-slate-600,
+html:not(.dark) .text-gray-400,
+html:not(.dark) .text-gray-500,
+html:not(.dark) .text-gray-600,
+html:not(.dark) .text-zinc-500,
+html:not(.dark) [class*="text-slate-500"],
+html:not(.dark) [class*="text-slate-600"] {
+    color: #0f172a !important;
+}
+
+html.dark,
+body.dark-mode,
+.dark {
+    --text-primary: #ffffff !important;
+    --text-secondary: #f8fafc !important;
+    --text-muted: #e2e8f0 !important;
+    color: #f8fafc !important;
+}
+
+html.dark .kpi-title,
+html.dark .card-title,
+html.dark .chart-card-title,
+html.dark label,
+html.dark p,
+html.dark span.text-slate-400,
+html.dark span.text-slate-500,
+html.dark div.text-slate-400,
+html.dark div.text-slate-500,
+html.dark .text-gray-400,
+html.dark .text-zinc-400,
+html.dark [class*="text-slate-400"],
+html.dark [class*="text-slate-500"] {
+    color: #f8fafc !important;
+}
+
+/* Regra Mandatória: Títulos de KPIs e Cards NUNCA cortam com reticências (...) - quebram linha */
+.kpi-title,
+.card-title,
+.chart-card-title,
+.app-card .kpi-title,
+.app-card span.truncate,
+.app-card div.truncate,
+[class*="card"] .kpi-title,
+[class*="card"] span.truncate {
+    white-space: normal !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    line-height: 1.25 !important;
+    text-overflow: unset !important;
+    overflow: visible !important;
+}
+
+/* Altura mínima elegante para alinhamento horizontal nos grids de cards */
+.kpi-title {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+    min-height: 2.2rem !important;
+}
+
+/* Botão Flutuante Nativo de Tela Cheia no Mapa Leaflet */
+.btn-map-canvas-fullscreen {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 800;
+    background: rgba(15, 23, 42, 0.90);
+    backdrop-filter: blur(8px);
+    border: 1.5px solid rgba(16, 185, 129, 0.6);
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 6px 12px;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    touch-action: manipulation;
+}
+.btn-map-canvas-fullscreen:hover {
+    background: #10b981;
+    border-color: #10b981;
+    transform: scale(1.05);
+}
+.map-fullscreen-active .btn-map-canvas-fullscreen {
+    display: none !important;
+}
+
+/* Adaptação Ergonômica Mobile do Topbar do Mapa em Tela Cheia */
+@media (max-width: 639px) {
+    .map-fullscreen-topbar {
+        top: max(8px, env(safe-area-inset-top, 0px)) !important;
+        left: max(8px, env(safe-area-inset-left, 0px)) !important;
+        right: max(8px, env(safe-area-inset-right, 0px)) !important;
+        gap: 6px !important;
+    }
+    .map-fullscreen-badge {
+        font-size: 10px !important;
+        padding: 5px 8px !important;
+    }
+    .btn-exit-map-fullscreen {
+        font-size: 10px !important;
+        padding: 5px 10px !important;
+    }
+}
+
+/* Adaptação Mobile Ergonômica do Popover do 'i' (Bottom Sheet no Celular) */
+@media (max-width: 639px) {
+    .pitangueiras-popover-overlay {
+        padding: 8px !important;
+        align-items: flex-end !important;
+    }
+    .popover-card {
+        max-width: 100% !important;
+        width: 100% !important;
+        border-radius: 22px 22px 10px 10px !important;
+        padding: 16px 14px !important;
+        max-height: 82vh !important;
+        max-height: 82dvh !important;
+        margin-bottom: env(safe-area-inset-bottom, 0px) !important;
+    }
+    .popover-header {
+        padding-bottom: 10px !important;
+    }
+    .popover-title-area h3 {
+        font-size: 14px !important;
+    }
+    .popover-body {
+        margin-top: 10px !important;
+        gap: 8px !important;
+    }
+    .popover-section {
+        padding: 8px 10px !important;
+        border-radius: 10px !important;
+    }
+    .popover-section-label {
+        font-size: 10px !important;
+        margin-bottom: 2px !important;
+    }
+    .popover-section-text {
+        font-size: 11px !important;
+        line-height: 1.35 !important;
+    }
+    .popover-footer {
+        margin-top: 10px !important;
+        padding-top: 8px !important;
+        font-size: 9px !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 4px !important;
+    }
+}
+
+/* ==========================================================================
+   TOOLBAR OPERACIONAL & SELETOR DE PERÍODO 100% RESPONSIVO (MOBILE-FIRST)
+   Elimina qualquer estouro lateral em telas de smartphones de 320px a 639px
+   ========================================================================== */
+@media (max-width: 639px) {
+    /* O container pai do toolbar empilha verticalmente */
+    div:has(> div > .period-segmented-group),
+    div:has(> .period-segmented-group),
+    .toolbar-container {
+        flex-direction: column !important;
+        align-items: stretch !important;
+        gap: 8px !important;
+        padding: 8px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        overflow: hidden !important;
+    }
+
+    /* Bloco esquerdo com o grupo segmentado */
+    div:has(> div > .period-segmented-group) > div:first-child {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* Grupo segmentado ocupa 100% da largura da tela */
+    .period-segmented-group {
+        display: flex !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        padding: 2px !important;
+        gap: 2px !important;
+        border-radius: 12px !important;
+        overflow: hidden !important;
+    }
+
+    /* Cada botão do período divide a largura igualmente (1/3) */
+    .period-toggle-btn {
+        flex: 1 1 0 !important;
+        min-width: 0 !important;
+        padding: 6px 2px !important;
+        font-size: 10px !important;
+        gap: 3px !important;
+        justify-content: center !important;
+        text-align: center !important;
+        white-space: nowrap !important;
+        border-radius: 8px !important;
+    }
+
+    .period-toggle-btn span {
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    .period-badge {
+        padding: 1px 4px !important;
+        font-size: 8.5px !important;
+        margin-left: 1px !important;
+    }
+
+    /* Ferramentas Operacionais (Exportar CSV, Imprimir, Tema) em grid equilibrado */
+    div:has(> div > .period-segmented-group) > div:last-child {
+        width: 100% !important;
+        display: grid !important;
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        gap: 4px !important;
+    }
+
+    .btn-toolbar-action {
+        width: 100% !important;
+        min-width: 0 !important;
+        padding: 6px 2px !important;
+        font-size: 10px !important;
+        justify-content: center !important;
+        gap: 3px !important;
+        border-radius: 10px !important;
+    }
+
+    .btn-toolbar-action span:last-child {
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    /* Barra de Contexto Ativo (Destaque do Período) */
+    div:has(> div > #currentDateDisplay) {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 6px !important;
+        padding: 8px 10px !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+}
+
+/* ==========================================================================
+   VISÃO RAIO-X DO APONTAMENTO NO MAPA 100% ADAPTADA AO CELULAR
+   Zero sobras laterais: o modal ajusta-se com precisão milimétrica ao dispositivo
+   ========================================================================== */
+@media (max-width: 639px) {
+    /* Remove padding do backdrop modal no mobile para evitar overflow 100vw + padding */
+    #recordModal,
+    #detailModal,
+    #detailsModal,
+    #recordDetailModal,
+    #targetModal,
+    div[id$="Modal"] {
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+        max-width: 100vw !important;
+        overflow-x: hidden !important;
+        box-sizing: border-box !important;
+    }
+
+    /* O container do Raio-X preenche a largura exata da viewport sem vazamento */
+    #recordModal > div,
+    #detailModal > div,
+    #detailsModal > div,
+    #recordDetailModal > div,
+    #targetModal > div {
+        width: 100% !important;
+        max-width: 100vw !important;
+        height: 100% !important;
+        height: 100dvh !important;
+        max-height: 100dvh !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        border: none !important;
+        padding: 0 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        box-sizing: border-box !important;
+        overflow-x: hidden !important;
+    }
+
+    /* Cabeçalho do Raio-X */
+    #recordModal > div > div:first-child,
+    #detailModal > div > div:first-child,
+    #detailsModal > div > div:first-child,
+    #recordDetailModal > div > div:first-child {
+        padding: 12px 14px !important;
+        flex-shrink: 0 !important;
+        padding-top: max(12px, env(safe-area-inset-top, 0px)) !important;
+    }
+
+    /* Corpo do Raio-X com scroll suave e largura estrita */
+    #recordModal > div > div:nth-child(2),
+    #detailModal > div > div:nth-child(2),
+    #detailsModal > div > div:nth-child(2),
+    #recordDetailModal > div > div:nth-child(2) {
+        padding: 12px !important;
+        flex: 1 1 auto !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
+        -webkit-overflow-scrolling: touch !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Grids de estatísticas e medições do Raio-X em 2 colunas */
+    #recordModal .grid,
+    #detailModal .grid,
+    #detailsModal .grid,
+    #recordDetailModal .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: 6px !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    #recordModal .grid > div,
+    #detailModal .grid > div,
+    #detailsModal .grid > div {
+        padding: 8px 10px !important;
+        min-width: 0 !important;
+        overflow: hidden !important;
+    }
+
+    /* Rodapé do Raio-X */
+    #recordModal > div > div:last-child,
+    #detailModal > div > div:last-child,
+    #detailsModal > div > div:last-child,
+    #recordDetailModal > div > div:last-child {
+        padding: 10px 14px !important;
+        flex-shrink: 0 !important;
+        padding-bottom: max(10px, env(safe-area-inset-bottom, 0px)) !important;
+    }
+
+    /* Popup do Leaflet dentro da tela do celular */
+    .leaflet-popup-content-wrapper {
+        max-width: calc(100vw - 32px) !important;
+        border-radius: 14px !important;
+        box-sizing: border-box !important;
+    }
+
+    .leaflet-popup-content {
+        margin: 10px 12px !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        word-break: break-word !important;
+    }
+}
+
+/* ======================================================== */
+/* COMPONENTE RETRÁTIL DE FILTROS MOBILE (MAPFY MOBILE UX)  */
+/* Padrão Corporativo para os 17 Dashboards Operacionais     */
+/* ======================================================== */
+@media (max-width: 768px) {
+    #filterSection input,
+    #filterSection select {
+        min-height: 42px;
+        font-size: 13px !important;
+    }
+
+    .period-toggle-btn {
+        padding: 8px 12px;
+        font-size: 12px;
+    }
+
+    .filter-collapsible-body {
+        transition: max-height 0.38s cubic-bezier(0.4, 0, 0.2, 1), 
+                    opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                    transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+        will-change: max-height, opacity, transform;
+        transform-origin: top center;
+    }
+
+    .filter-collapsible-body.is-collapsed {
+        max-height: 0 !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        pointer-events: none !important;
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        transform: scaleY(0.96) translateY(-8px);
+        visibility: hidden;
+    }
+
+    .filter-collapsible-body.is-expanded {
+        max-height: 3500px !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        pointer-events: auto !important;
+        transform: scaleY(1) translateY(0);
+        visibility: visible;
+    }
+
+    .mobile-filter-summary-bar {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        border-radius: 12px;
+        background: var(--bg-kpi, rgba(255, 255, 255, 0.05));
+        border: 1px solid var(--border-color, rgba(255, 255, 255, 0.1));
+        font-size: 12px;
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        margin-bottom: 8px;
+    }
+
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .mobile-floating-filter-btn {
+        position: fixed;
+        bottom: 24px;
+        right: 20px;
+        z-index: 999;
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        background: #059669;
+        color: #ffffff;
+        padding: 10px 18px;
+        border-radius: 9999px;
+        font-size: 13px;
+        font-weight: 700;
+        box-shadow: 0 8px 24px rgba(5, 150, 105, 0.45);
+        border: 1.5px solid rgba(255, 255, 255, 0.25);
+        transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.25s ease;
+        backdrop-filter: blur(8px);
+        cursor: pointer;
+    }
+    .mobile-floating-filter-btn:active {
+        transform: scale(0.92);
+    }
+    .mobile-floating-filter-btn.hidden-floating {
+        transform: translateY(120px) scale(0.85);
+        opacity: 0;
+        pointer-events: none;
+    }
+}
+
+@media (min-width: 769px) {
+    .filter-collapsible-body {
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        pointer-events: auto !important;
+        transform: none !important;
+        visibility: visible !important;
+        display: block !important;
+    }
+    .mobile-filter-summary-bar {
+        display: none !important;
+    }
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+}
+
+/* ==========================================================================
+   AUTO-DISMISS TECHNICAL NOTICE BANNERS (10 SEGUNDOS) + PROGRESS BAR
+   Usina Pitangueiras • Safra 2026
+   ========================================================================== */
+.technical-notice-banner,
+.notice-box,
+#noticeBrocaBanner,
+#initialNoticeBanner,
+.context-banner,
+.notice-banner,
+.technical-notice-card {
+    position: relative !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+    transition: opacity 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                max-height 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                margin 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                padding 0.65s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.65s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.technical-notice-banner.is-dismissed,
+.notice-box.is-dismissed,
+#noticeBrocaBanner.is-dismissed,
+#initialNoticeBanner.is-dismissed,
+.context-banner.is-dismissed,
+.notice-banner.is-dismissed,
+.technical-notice-card.is-dismissed {
+    opacity: 0 !important;
+    max-height: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    pointer-events: none !important;
+    border-width: 0 !important;
+    border-color: transparent !important;
+    transform: translateY(-8px) scale(0.98) !important;
+}
+
+/* Barra de progresso visual de 10s no rodapé do aviso técnico */
+.notice-timer-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #10b981, #059669);
+    width: 100%;
+    transition: width 10s linear;
+    border-radius: 0 0 8px 8px;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.notice-timer-bar.paused {
+    transition: none !important;
+}
+
+/* Botão manual de fechar no canto superior direito */
+.btn-dismiss-notice {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background: transparent;
+    border: none;
+    color: var(--text-muted, #94a3b8);
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 3px 8px;
+    border-radius: 6px;
+    line-height: 1;
+    transition: all 0.2s ease;
+    z-index: 20;
+}
+.btn-dismiss-notice:hover {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.12);
+}
+
+/* Pílula / Botão de Reabrir a Nota Técnica após o auto-dismiss */
+.btn-reopen-technical-notice {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 9999px;
+    background: rgba(16, 185, 129, 0.12);
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    color: #10b981;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.btn-reopen-technical-notice:hover {
+    background: rgba(16, 185, 129, 0.22);
+    transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   SISTEMA RETRÁTIL UNIVERSAL DE FILTROS OPERACIONAIS PARA CELULAR (<= 768px)
+   ========================================================================== */
+@media (max-width: 768px) {
+    .filter-collapsible-body {
+        transition: max-height 0.42s cubic-bezier(0.4, 0, 0.2, 1),
+                    opacity 0.32s ease,
+                    margin 0.35s ease,
+                    padding 0.35s ease !important;
+        overflow: hidden !important;
+        transform-origin: top center;
+    }
+
+    .filter-collapsible-body.is-collapsed {
+        max-height: 0 !important;
+        opacity: 0 !important;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+        pointer-events: none !important;
+        visibility: hidden !important;
+    }
+
+    .filter-collapsible-body.is-expanded {
+        max-height: 2400px !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+        visibility: visible !important;
+    }
+
+    .mobile-filter-summary-bar {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 6px 12px;
+        margin-bottom: 6px;
+        border-radius: 10px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.2);
+        font-size: 11px;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+        cursor: pointer;
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .btn-apply-filters-mobile {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        padding: 12px 16px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 13px;
+        box-shadow: 0 4px 14px rgba(16, 185, 129, 0.35);
+        border: none;
+        cursor: pointer;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .btn-apply-filters-mobile:active {
+        transform: scale(0.97);
+    }
+
+    .btn-toggle-filters-mobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 12px;
+        border-radius: 12px;
+        background: #059669;
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 12px;
+        box-shadow: 0 2px 8px rgba(5, 150, 105, 0.3);
+        border: none;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+    .btn-toggle-filters-mobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile .chevron {
+        transition: transform 0.3s ease;
+    }
+    .btn-toggle-filters-mobile.is-expanded .chevron {
+        transform: rotate(180deg);
+    }
+
+    .mobile-floating-filter-btn {
+        position: fixed;
+        bottom: 24px;
+        right: 20px;
+        z-index: 999;
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        background: #059669;
+        color: #ffffff;
+        padding: 10px 18px;
+        border-radius: 9999px;
+        font-size: 13px;
+        font-weight: 700;
+        box-shadow: 0 8px 24px rgba(5, 150, 105, 0.45);
+        border: 1.5px solid rgba(255, 255, 255, 0.25);
+        transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.25s ease;
+        backdrop-filter: blur(8px);
+        cursor: pointer;
+    }
+    .mobile-floating-filter-btn:active {
+        transform: scale(0.92);
+    }
+    .mobile-floating-filter-btn.hidden-floating {
+        transform: translateY(120px) scale(0.85);
+        opacity: 0;
+        pointer-events: none;
+    }
+}
+
+@media (min-width: 769px) {
+    .filter-collapsible-body {
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        pointer-events: auto !important;
+        transform: none !important;
+        visibility: visible !important;
+        display: block !important;
+    }
+    .mobile-filter-summary-bar {
+        display: none !important;
+    }
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+    .btn-apply-filters-mobile {
+        display: none !important;
+    }
+    .btn-toggle-filters-mobile {
+        display: none !important;
+    }
+}
+
+
+/* ======================================================== */
+/* COMPONENTE RETRÁTIL DE FILTROS MOBILE (MAPFY MASTER UX)  */
+/* Padrão Executivo de Alta Performance para os 17 Dashboards */
+/* Suporta Smartphones (Retrato/Paisagem) e Tablets (<= 1024px) */
+/* ======================================================== */
+@media (max-width: 1024px) {
+    #filterSection input,
+    #filterSection select,
+    .filter-collapsible-body input,
+    .filter-collapsible-body select {
+        min-height: 44px !important;
+        font-size: 14px !important;
+    }
+
+    .period-toggle-btn {
+        padding: 8px 12px;
+        font-size: 12px;
+    }
+
+    /* ESTADO COLAPSADO NO MOBILE: Ocultação Total e Zero Ocupação de Tela */
+    .filter-collapsible-body.is-collapsed,
+    #filterCollapsibleBody.is-collapsed {
+        display: none !important;
+        max-height: 0 !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        pointer-events: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+        visibility: hidden !important;
+    }
+
+    /* ESTADO EXPANDIDO NO MOBILE: Revelação com Animação Suave */
+    .filter-collapsible-body.is-expanded,
+    #filterCollapsibleBody.is-expanded {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        pointer-events: auto !important;
+        visibility: visible !important;
+        animation: mapfyFilterSlideDown 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    .mobile-filter-summary-bar {
+        display: flex !important;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        border-radius: 12px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.22);
+        cursor: pointer;
+        user-select: none;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+        margin-top: 6px;
+        margin-bottom: 8px;
+        transition: background 0.2s ease, transform 0.15s ease;
+    }
+    .mobile-filter-summary-bar:active {
+        transform: scale(0.99);
+        background: rgba(16, 185, 129, 0.14);
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .btn-apply-filters-mobile,
+    #btnMobileApplyAndHide {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px 18px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 4px 14px rgba(16, 185, 129, 0.35) !important;
+        border: none !important;
+        cursor: pointer !important;
+        transition: transform 0.15s ease, filter 0.15s ease !important;
+    }
+    .btn-apply-filters-mobile:active,
+    #btnMobileApplyAndHide:active {
+        transform: scale(0.98);
+        filter: brightness(0.92);
+    }
+
+    .btn-toggle-filters-mobile,
+    #btnToggleFilterMobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 12px !important;
+        padding: 7px 14px !important;
+        border-radius: 12px !important;
+        box-shadow: 0 2px 8px rgba(5, 150, 105, 0.3) !important;
+        border: none !important;
+        cursor: pointer !important;
+        transition: all 0.2s ease !important;
+    }
+    .btn-toggle-filters-mobile:active,
+    #btnToggleFilterMobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile .chevron,
+    #btnToggleFilterMobile .chevron {
+        transition: transform 0.3s ease;
+    }
+    .btn-toggle-filters-mobile.is-expanded,
+    #btnToggleFilterMobile.is-expanded {
+        background: linear-gradient(135deg, #475569 0%, #334155 100%) !important;
+    }
+    .btn-toggle-filters-mobile.is-expanded .chevron,
+    #btnToggleFilterMobile.is-expanded .chevron {
+        transform: rotate(180deg);
+    }
+
+    .mobile-floating-filter-btn,
+    #mobileFloatingFilterBtn {
+        position: fixed !important;
+        bottom: 24px !important;
+        right: 20px !important;
+        z-index: 9999 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        padding: 12px 20px !important;
+        border-radius: 9999px !important;
+        font-size: 13px !important;
+        font-weight: 700 !important;
+        box-shadow: 0 8px 24px rgba(5, 150, 105, 0.45) !important;
+        border: 1.5px solid rgba(255, 255, 255, 0.25) !important;
+        transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.25s ease !important;
+        backdrop-filter: blur(8px) !important;
+        cursor: pointer !important;
+    }
+    .mobile-floating-filter-btn:active,
+    #mobileFloatingFilterBtn:active {
+        transform: scale(0.92) !important;
+    }
+    .mobile-floating-filter-btn.hidden-floating,
+    #mobileFloatingFilterBtn.hidden-floating {
+        transform: translateY(120px) scale(0.85) !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+    }
+}
+
+/* Telas Grandes e Desktop (> 1024px): Grade Aberta e Fixa Preservada */
+@media (min-width: 1025px) {
+    .filter-collapsible-body,
+    #filterCollapsibleBody {
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        pointer-events: auto !important;
+        transform: none !important;
+        visibility: visible !important;
+        display: block !important;
+        margin: inherit !important;
+        padding: inherit !important;
+    }
+    .mobile-filter-summary-bar,
+    #mobileFilterSummaryBar {
+        display: none !important;
+    }
+    .mobile-floating-filter-btn,
+    #mobileFloatingFilterBtn {
+        display: none !important;
+    }
+    .btn-apply-filters-mobile,
+    #btnMobileApplyAndHide {
+        display: none !important;
+    }
+    .btn-toggle-filters-mobile,
+    #btnToggleFilterMobile {
+        display: none !important;
+    }
+}
+
+@keyframes mapfyFilterSlideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

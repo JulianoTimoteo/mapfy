@@ -1,0 +1,1179 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <!-- Prevenção de Cache Estático no Celular / PWA -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Qualidade da Cana • Usina Pitangueiras</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        mono: ['"JetBrains Mono"', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
+    <!-- FontAwesome 6.4.0 Oficial -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- PWA e Metatags Mobile Executivas -->
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#047857">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<style id="mapfyMobileFilterEngine">
+/* ======================================================== */
+/* MAPFY 2026 - SISTEMA DE FILTROS RETRÁTEIS MOBILE/TABLET  */
+/* Arquitetura Profissional de Alta Performance (<= 1024px) */
+/* ======================================================== */
+@media (max-width: 1024px) {
+    #filterCollapsibleBody.is-collapsed,
+    .filter-collapsible-body.is-collapsed {
+        display: none !important;
+        max-height: 0 !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        pointer-events: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+    }
+    #filterCollapsibleBody.is-expanded,
+    .filter-collapsible-body.is-expanded {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        animation: mapfyFilterFadeIn 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    #filterSection input,
+    #filterSection select,
+    .filter-collapsible-body input,
+    .filter-collapsible-body select {
+        min-height: 44px !important;
+        font-size: 14px !important;
+    }
+    .mobile-filter-summary-bar {
+        display: flex !important;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        margin-top: 6px;
+        margin-bottom: 8px;
+        border-radius: 12px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.22);
+        cursor: pointer;
+        user-select: none;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+    .btn-toggle-filters-mobile,
+    #btnToggleFilterMobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 14px;
+        border-radius: 12px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 12px !important;
+        border: none !important;
+        cursor: pointer !important;
+        box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3) !important;
+        transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+    .btn-toggle-filters-mobile:active,
+    #btnToggleFilterMobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile.is-expanded,
+    #btnToggleFilterMobile.is-expanded {
+        background: linear-gradient(135deg, #475569 0%, #334155 100%) !important;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+    }
+    .btn-apply-filters-mobile,
+    #btnMobileApplyAndHide {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px 16px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3) !important;
+        border: none !important;
+        cursor: pointer !important;
+        transition: transform 0.15s ease, filter 0.15s ease;
+    }
+    .btn-apply-filters-mobile:active,
+    #btnMobileApplyAndHide:active {
+        transform: scale(0.98);
+        filter: brightness(0.95);
+    }
+    .mobile-floating-filter-btn,
+    #mobileFloatingFilterBtn {
+        position: fixed !important;
+        bottom: 20px !important;
+        right: 18px !important;
+        z-index: 9999 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important;
+        padding: 12px 18px !important;
+        border-radius: 9999px !important;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 6px 20px rgba(5, 150, 105, 0.45), 0 2px 6px rgba(0,0,0,0.2) !important;
+        border: 1px solid rgba(255, 255, 255, 0.25) !important;
+        cursor: pointer !important;
+        transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease !important;
+    }
+    .mobile-floating-filter-btn:active,
+    #mobileFloatingFilterBtn:active {
+        transform: scale(0.92) !important;
+    }
+    .mobile-floating-filter-btn.hidden-floating,
+    #mobileFloatingFilterBtn.hidden-floating {
+        opacity: 0 !important;
+        pointer-events: none !important;
+        transform: translateY(20px) scale(0.8) !important;
+    }
+}
+@media (min-width: 1025px) {
+    #filterCollapsibleBody,
+    .filter-collapsible-body {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        margin: inherit !important;
+        padding: inherit !important;
+    }
+    #btnToggleFilterMobile,
+    .btn-toggle-filters-mobile,
+    #mobileFilterSummaryBar,
+    .mobile-filter-summary-bar,
+    #btnMobileApplyAndHide,
+    .btn-apply-filters-mobile,
+    #mobileFloatingFilterBtn,
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+}
+@keyframes mapfyFilterFadeIn {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
+
+    <!-- 1. CABEÇALHO EXECUTIVO (NAVEGAÇÃO ESTRITA: APENAS RETORNO AO HUB) -->
+        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+    <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-3 w-full md:w-auto justify-between md:justify-start">
+                <!-- Widget 24/7 Circular no Cantinho Esquerdo (Ciclo de 1h) -->
+                <div id="badgeStatus247" class="badge-247-container" title="Sincronismo Contínuo 24/7 • Próxima atualização ao fechar o ciclo de 1h">
+                    <div class="badge-247-ring-wrap">
+                        <svg class="badge-247-svg" width="22" height="22" viewBox="0 0 36 36">
+                            <path class="badge-247-bg"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                            <path id="badge247ProgressRing" class="badge-247-progress"
+                                  stroke-dasharray="0, 100"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                        </svg>
+                        <span id="badge247Dot" class="badge-247-dot"></span>
+                    </div>
+                    <span class="badge-247-label">24/7</span>
+                </div>
+
+                <!-- Retorno Exclusivo ao Mandala Hub Central -->
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 transition shadow-sm" title="Retornar à Mandala Hub Principal">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <span>Mandala Hub</span>
+                </a>
+
+                <div class="flex items-center gap-2.5 sm:gap-3 min-w-0 w-full md:w-auto mt-1 md:mt-0">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo h-10 w-auto object-contain">
+                    <div class="min-w-0 flex-1">
+                        <div class="flex items-center gap-2">
+                            <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                            <span class="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">Consumo de Muda • Distribuição de Colmos</span>
+                        </div>
+                        <h1 class="text-sm sm:text-base md:text-xl font-extrabold text-slate-900 dark:text-white tracking-tight break-words leading-snug">
+                            Central de Inteligência — Qualidade da Cana
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-3 w-full md:w-auto justify-end">
+                <span class="badge badge-emerald text-xs">
+                    <i class="fa-solid fa-cubes-stacked mr-1"></i> Safra 2026
+                </span>
+                <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
+                    <i class="fa-solid fa-database mr-1"></i> 2.579 Avaliações Auditadas
+                </span>
+
+                <!-- Alternador de Tema Claro / Escuro -->
+                <button id="themeToggleBtn" type="button" class="p-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition" title="Alternar Tema Claro / Escuro">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- BANNER DE INFORMAÇÃO OPERACIONAL INICIAL (CONFORME SEÇÃO 7 DO PROMPT MESTRE) -->
+    <div id="initialNoticeBanner" class="border-b py-2 px-4 transition-colors"
+         style="background: rgba(16, 185, 129, 0.08); border-color: rgba(16, 185, 129, 0.25);">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-2 text-xs">
+            <div class="flex items-center gap-2 text-[var(--text-primary)]">
+                <span class="text-emerald-500 font-bold">ℹ️</span>
+                <span>
+                    Painel inicializado na data mais recente disponível: <strong id="bannerDateStr">28/10/2026</strong> (<span id="bannerCountStr">11 inspeções</span>).
+                    Para consultar todo o histórico da safra (2.579 registros), clique em:
+                </span>
+                <button onclick="setQuickPeriod('all')" class="underline font-bold text-emerald-600 dark:text-emerald-400 hover:opacity-80">
+                    [Safra Completa]
+                </button>
+            </div>
+            <button onclick="dismissBanner()" class="text-xs text-[var(--text-secondary)] hover:text-rose-500 px-2">
+                ✕ Fechar aviso
+            </button>
+        </div>
+    </div>
+
+    <!-- 2. BARRA DE FILTROS GLOBAIS AVANÇADOS -->
+    <section id="filterSection" class="border-b py-3 sticky top-[65px] z-30 backdrop-blur-md transition-colors"
+             style="background: var(--bg-header); border-color: var(--border-color);">
+            <div class="w-full max-w-[1920px] mx-auto px-4 py-2 flex flex-wrap items-center gap-2 sm:gap-3">
+                <!-- Seletor Rápido de Período e Auditoria -->
+                <div class="inline-flex p-1 rounded-xl border text-xs font-semibold"
+                     style="background: var(--bg-kpi); border-color: var(--border-color);">
+                    <button id="btnLatestDate" onclick="setQuickPeriod('latest')"
+                            class="px-3 py-1.5 rounded-lg transition-all text-white bg-emerald-600 shadow-sm"
+                            title="Filtrar pela data mais recente observada na base">
+                        Última Data
+                    </button>
+                    <button id="btnAllDates" onclick="setQuickPeriod('all')"
+                            class="px-3 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-emerald-500"
+                            title="Visualizar todo o histórico da safra">
+                        Safra Completa
+                    </button>
+                    <button id="btnDivergentes" onclick="toggleScoreDivergenteFilter()"
+                            class="px-3 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-amber-500 flex items-center gap-1"
+                            title="Filtrar 23 inspeções com Score = 0,00 e Baixo">
+                        <span>⚠️</span>
+                        <span>Score Divergente (<span id="lblScoreDivergenteCount">23</span>)</span>
+                    </button>
+                    <button id="btnObsRelevantes" onclick="toggleObsRelevantesFilter()"
+                            class="px-3 py-1.5 rounded-lg transition-all text-[var(--text-secondary)] hover:text-sky-500 flex items-center gap-1"
+                            title="Filtrar amostras com observações descritivas relevantes">
+                        <span>📝</span>
+                        <span>Obs. Relevantes (<span id="lblObsRelevantesCount">20</span>)</span>
+                    </button>
+                </div>
+
+                <!-- Exportações -->
+                <div class="inline-flex items-center gap-1">
+
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px] transition-transform duration-300"></i>
+                    </button>
+
+
+                    <button id="btnToggleFilterMobile" type="button"
+                            class="md:hidden flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
+                            title="Alternar visibilidade dos filtros">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px] transition-transform duration-300"></i>
+                    </button>
+
+                    <button onclick="exportToExcel()" class="px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 hover:border-emerald-500 transition-colors shadow-sm"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Exportar dados filtrados para planilha Excel (.xlsx)">
+                        <span>📊</span>
+                        <span class="hidden md:inline">Excel</span>
+                    </button>
+                    <button onclick="exportToCSV()" class="px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Exportar para arquivo CSV">
+                        <span>📄</span>
+                        <span class="hidden lg:inline">CSV</span>
+                    </button>
+                    <button onclick="window.print()" class="px-2.5 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1 hover:border-emerald-500 transition-colors shadow-sm whitespace-nowrap cursor-pointer"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);"
+                            title="Imprimir relatório executivo / Gerar PDF">
+                        <span>🖨️</span>
+                        <span>Imprimir</span>
+                    </button>
+</div>
+
+                <!-- Toggle Tema Claro/Escuro -->
+            </div>
+
+            <!-- Barra de Resumo Compacta para Mobile (<= 768px) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden w-full max-w-[1920px] mx-auto px-4">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Filtros Configurados</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            </div>
+
+            <!-- Container Colapsável dos Filtros para Mobile -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
+
+            
+        <div class="w-full max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2.5 items-end text-xs">
+                
+                <!-- Data Início -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Data Início</label>
+                    <input type="date" id="filterStartDate"
+                           class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                </div>
+
+                <!-- Data Fim -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Data Fim</label>
+                    <input type="date" id="filterEndDate"
+                           class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                </div>
+
+                <!-- Frente -->
+                <div class="xl:col-span-2">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Frente</label>
+                    <select id="filterFrente"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <!-- OS -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">OS</label>
+                    <select id="filterOS"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todas as OS</option>
+                    </select>
+                </div>
+
+                <!-- Local (Fazenda - Talhão) -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Local / Talhão</label>
+                    <select id="filterLocal"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <!-- Responsável -->
+                <div class="xl:col-span-2">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Responsável</label>
+                    <select id="filterResponsavel"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <!-- Classificação da Qualidade -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Classificação</label>
+                    <select id="filterClassificacao"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500 font-bold">
+                        <option value="TODOS">Todas</option>
+                        <option value="BOM" class="text-emerald-500">Apenas BOM (100%)</option>
+                        <option value="OUTROS" class="text-rose-500">Outras Respostas</option>
+                    </select>
+                </div>
+
+                <!-- Tipo de Observação -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Observações</label>
+                    <select id="filterObs"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todas</option>
+                        <option value="DESCRITIVO">📝 Descritiva (20)</option>
+                        <option value="PONTO">⚠️ Ponto "." (15)</option>
+                        <option value="PADRAO">Padrão "Bom" (139)</option>
+                        <option value="VAZIO">Sem Observação</option>
+                    </select>
+                </div>
+
+                <!-- Divergência de Score -->
+                <div class="xl:col-span-1">
+                    <label class="block text-[11px] font-semibold mb-1 text-[var(--text-secondary)]">Score MapFy</label>
+                    <select id="filterScoreDivergente"
+                            class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500">
+                        <option value="TODOS">Todos</option>
+                        <option value="DIVERGENTE" class="text-amber-500">Score 0 / Baixo (23)</option>
+                    </select>
+                </div>
+
+                <!-- Busca Textual Universal + Botões -->
+                <div class="xl:col-span-1 flex items-center gap-1.5">
+                    <div class="flex-1 relative">
+                        <input type="text" id="filterSearch" placeholder="Buscar..."
+                               class="w-full px-2 py-1.5 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)] focus:outline-none focus:border-emerald-500 pr-5">
+                        <span class="absolute right-1.5 top-2 text-slate-400 text-[10px]">🔍</span>
+                    </div>
+                    <button onclick="clearAllFilters()" class="p-1.5 rounded-lg border text-xs hover:border-rose-500 transition-colors bg-[var(--bg-kpi)] border-[var(--border-color)] text-[var(--text-secondary)] hover:text-rose-500"
+                            title="Limpar todos os filtros">
+                        ✕
+                    </button>
+                    <button onclick="applyFiltersAndRender()" class="p-1.5 rounded-lg border text-xs hover:border-emerald-500 transition-colors bg-emerald-600 text-white"
+                            title="Atualizar dados">
+                        ↻
+                    </button>
+                </div>
+
+            
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2 w-full max-w-[1920px] mx-auto px-4" style="border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center text-slate-400 m-0">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2 w-full max-w-[1920px] mx-auto px-4" style="border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center text-slate-400 m-0">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
+
+    
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
+
+    <!-- 3. CONTEÚDO PRINCIPAL (DASHBOARD EXECUTIVO) -->
+    <main class="flex-1 w-full max-w-[1920px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
+
+        <!-- ALERTA DE AUDITORIA: ATENÇÃO ESPECIAL AOS CAMPOS QUANTIDADE DE CANA E SCORE (SEÇÃO 4 E 6) -->
+        <div class="p-4 rounded-2xl border flex flex-wrap items-center justify-between gap-4 transition-colors"
+             style="background: var(--bg-card); border-color: rgba(16, 185, 129, 0.35);">
+            <div class="flex items-start gap-3">
+                <span class="text-xl">🌱</span>
+                <div>
+                    <div class="flex items-center gap-2">
+                        <h4 class="text-xs sm:text-sm font-bold text-emerald-600 dark:text-emerald-400">
+                            Semântica Operacional do Campo: "Quantidade de Cana"
+                        </h4>
+                        <span class="px-2 py-0.5 rounded-full text-[10px] font-mono font-bold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">
+                            Classificação Qualitativa
+                        </span>
+                    </div>
+                    <p class="text-xs text-[var(--text-secondary)] mt-1 max-w-4xl leading-relaxed">
+                        No formulário do MapFy, o campo <strong>Quantidade de Cana</strong> não registra contagens numéricas ou pesagens físicas em toneladas, mas sim uma <strong>avaliação qualitativa de conformidade da distribuição de toletes no sulco</strong> (100% dos 2.579 registros foram classificados como <code class="font-mono text-emerald-500 font-bold">BOM</code>).
+                        Em datas específicas como <strong>19/05, 03/02, 22/04 e 27/01</strong>, 23 registros tiveram <code class="font-mono text-amber-500">Score = 0,00</code> e <code class="font-mono text-amber-500">Score desc = Baixo</code> no aplicativo de coleta por anomalia de sincronismo, mesmo com cana classificada como BOM.
+                    </p>
+                </div>
+            </div>
+            <div class="flex items-center gap-3 text-xs">
+                <div class="text-right">
+                    <span class="text-[10px] block uppercase text-[var(--text-secondary)] font-mono">Conformidade Cana</span>
+                    <span class="font-mono font-bold text-emerald-500">100% BOM (2.579)</span>
+                </div>
+                <div class="h-6 w-px bg-slate-300 dark:bg-slate-700"></div>
+                <div class="text-left">
+                    <span class="text-[10px] block uppercase text-[var(--text-secondary)] font-mono">Score Divergente</span>
+                    <span class="font-mono font-bold text-amber-500">23 registros (Score 0,00)</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 8 CARDS EXECUTIVOS PRINCIPAIS COM TOOLTIPS E DETALHES AUDITÁVEIS -->
+        <section class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3">
+            
+            <!-- KPI 1: Total Avaliações -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Total de registros de avaliação no conjunto selecionado, com unicidade estrita de ID.">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">Total Avaliações</span>
+                    <span>📋</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiTotal">0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono">inspeções realizadas</div>
+            </div>
+
+            <!-- KPI 2: Classificadas como BOM -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] border-emerald-500/30"
+                 style="background: var(--bg-card); border-color: var(--color-bom-border);"
+                 title="Quantidade e percentual de avaliações classificadas como BOM após normalização textual.">
+                <div class="flex items-center justify-between text-[11px] text-emerald-600 dark:text-emerald-400 font-bold">
+                    <span>Classificadas BOM</span>
+                    <span>✓</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-600 dark:text-emerald-400 my-1" id="kpiBom">0</div>
+                <div class="text-[10px] font-mono text-emerald-600 dark:text-emerald-400 font-bold" id="kpiPercBom">100%</div>
+            </div>
+
+            <!-- KPI 3: Outras Classificações -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Quantidade de avaliações que receberam respostas diferentes de BOM.">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)] font-bold">
+                    <span>Outras Respostas</span>
+                    <span>✕</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiOutros">0</div>
+                <div class="text-[10px] font-mono text-[var(--text-secondary)]" id="kpiPercOutros">0.0%</div>
+            </div>
+
+            <!-- KPI 4: Sem Classificação -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Registros vazios, incompletos ou não reconhecidos pelas regras de análise.">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)] font-bold">
+                    <span>Sem Classif.</span>
+                    <span>⚪</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="kpiSemClass">0</div>
+                <div class="text-[10px] font-mono text-emerald-500">100% preenchidos</div>
+            </div>
+
+            <!-- KPI 5: Observações Relevantes -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] cursor-pointer"
+                 onclick="toggleObsRelevantesFilter()"
+                 style="background: var(--bg-card); border-color: rgba(2, 132, 199, 0.35);"
+                 title="Registros com conteúdo textual descritivo relevante que merece leitura (clique para filtrar).">
+                <div class="flex items-center justify-between text-[11px] text-sky-600 dark:text-sky-400 font-bold">
+                    <span>Obs. Relevantes</span>
+                    <span>📝</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-sky-600 dark:text-sky-400 my-1" id="kpiObsRelevantes">0</div>
+                <div class="text-[10px] font-mono text-sky-600 dark:text-sky-400">textos descritivos</div>
+            </div>
+
+            <!-- KPI 6: Score Divergente -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02] border-amber-500/30 cursor-pointer"
+                 onclick="toggleScoreDivergenteFilter()"
+                 style="background: var(--bg-card); border-color: var(--color-divergente-border);"
+                 title="Inspeções em que Score = 0,00 e Baixo mesmo com Cana classificada como BOM (clique para filtrar).">
+                <div class="flex items-center justify-between text-[11px] text-amber-600 dark:text-amber-400 font-bold">
+                    <span>Score Divergente</span>
+                    <span>⚠️</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-amber-600 dark:text-amber-400 my-1" id="kpiScoreDivergente">0</div>
+                <div class="text-[10px] font-mono text-amber-600 dark:text-amber-400" id="kpiPercScoreDivergente">auditar 19/05</div>
+            </div>
+
+            <!-- KPI 7: Talhões Avaliados -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Quantidade de locais e talhões distintos identificados na base filtrada.">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">Talhões</span>
+                    <span>📍</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-[var(--text-primary)] my-1" id="kpiTalhoes">0</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono">locais distintos</div>
+            </div>
+
+            <!-- KPI 8: GPS Válido -->
+            <div class="p-3.5 rounded-2xl border flex flex-col justify-between shadow-sm transition-all hover:scale-[1.02]"
+                 style="background: var(--bg-card); border-color: var(--border-color);"
+                 title="Percentual de avaliações com coordenadas geográficas válidas para plotagem cartográfica.">
+                <div class="flex items-center justify-between text-[11px] text-[var(--text-secondary)]">
+                    <span class="font-bold">GPS Válido</span>
+                    <span>🛰️</span>
+                </div>
+                <div class="text-2xl font-extrabold font-mono text-emerald-500 my-1" id="kpiGeorefPerc">100%</div>
+                <div class="text-[10px] text-[var(--text-secondary)] font-mono" id="kpiGeorefCount">0 de 0</div>
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO DE GRÁFICOS: DONUT DE CLASSIFICAÇÃO + EVOLUÇÃO TEMPORAL -->
+        <section class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+            
+            <!-- DONUT CHART (REGRA ESTRITA: CENTRO SEMPRE EXIBE NA META E DISCRIMINAÇÃO DOS VALORES) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                
+                <div class="flex items-center justify-between mb-2">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)]">Distribuição das Classificações</h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Conformidade da cana distribuída no sulco</p>
+                    </div>
+                    <span class="text-[10px] font-mono font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">
+                        100% BOM
+                    </span>
+                </div>
+
+                <!-- Gráfico Donut com HUD Central -->
+                <div class="relative w-full aspect-square max-h-[260px] mx-auto my-3 flex items-center justify-center">
+                    <canvas id="chartDonut"></canvas>
+                    
+                    <!-- HUD Central do Donut: SEMPRE exibe o que está na meta -->
+                    <div class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
+                        <span class="text-3xl font-extrabold font-mono text-emerald-600 dark:text-emerald-400 leading-none" id="donutCenterPerc">
+                            100%
+                        </span>
+                        <span class="text-xs font-bold uppercase tracking-wider text-[var(--text-primary)] mt-1">
+                            Classificação BOM
+                        </span>
+                        <span class="text-[11px] font-mono text-[var(--text-secondary)] mt-0.5" id="donutCenterCount">
+                            0 de 0 avaliações
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Detalhamento Numérico Explícito e Barras de Progresso Proporcionais -->
+                <div class="space-y-2 pt-3 border-t text-xs" style="border-color: var(--border-color);">
+                    
+                    <!-- Classificação BOM -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400 font-bold">
+                                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block"></span>
+                                <span>Classificadas como BOM</span>
+                            </span>
+                            <span class="font-mono font-bold text-emerald-600 dark:text-emerald-400" id="donutValBom">0 (100%)</span>
+                        </div>
+                        <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                            <div id="donutBarBom" class="h-full bg-emerald-500 rounded-full transition-all duration-500" style="width: 100%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Score Divergente (Auditoria) -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="flex items-center gap-1.5 text-amber-600 dark:text-amber-400 font-bold">
+                                <span class="w-2.5 h-2.5 rounded-full bg-amber-500 inline-block"></span>
+                                <span>Score Divergente (0,00)</span>
+                            </span>
+                            <span class="font-mono font-bold text-amber-600 dark:text-amber-400" id="donutValDivergente">0 (0.0%)</span>
+                        </div>
+                        <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                            <div id="donutBarDivergente" class="h-full bg-amber-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Outras Classificações -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="flex items-center gap-1.5 text-[var(--text-secondary)] font-bold">
+                                <span class="w-2.5 h-2.5 rounded-full bg-slate-400 inline-block"></span>
+                                <span>Outras Respostas</span>
+                            </span>
+                            <span class="font-mono font-bold text-[var(--text-secondary)]" id="donutValOutros">0 (0.0%)</span>
+                        </div>
+                        <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+                            <div id="donutBarOutros" class="h-full bg-slate-400 rounded-full transition-all duration-500" style="width: 0%;"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- EVOLUÇÃO TEMPORAL DIÁRIA DAS AVALIAÇÕES (GRÁFICO B) -->
+            <div class="lg:col-span-8 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                
+                <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)]">Evolução Temporal das Avaliações</h3>
+                    <!-- Filtros Rápidos de Janela Temporal: Todos, 15D, 7D -->
+                    <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-sm" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-sm" data-evo-range="ALL" title="Exibir todo o histórico de dias">Todos</button>
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="7D" title="Últimos 7 dias com medições">7D</button>
+                    </div>
+                        <p class="text-xs text-[var(--text-secondary)]">Acompanhamento diário das inspeções de qualidade de cana na safra 2026</p>
+                    </div>
+
+                    <div class="text-xs font-mono text-[var(--text-secondary)]" id="lblEvolRange">
+                        Janeiro a Outubro de 2026
+                    </div>
+                </div>
+
+                <!-- Gráfico de Evolução -->
+                <div class="relative w-full h-[290px]">
+                    <canvas id="chartEvolution"></canvas>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO INTERMEDIÁRIA: COMPARATIVO OPERACIONAL + HORÁRIO + ANÁLISE DE OBSERVAÇÕES -->
+        <section class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+            
+            <!-- Comparativo Operacional (Frentes / OS / Talhões - Gráfico C e D) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)]">Comparativo Operacional</h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Avaliações por agrupamento (clique para filtrar)</p>
+                    </div>
+                    <!-- Seletor de Agrupamento -->
+                    <div class="inline-flex p-0.5 rounded-lg border text-[11px]" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                        <button id="btnBreakdownFrente" onclick="setBreakdownMode('frente')" class="px-2 py-0.5 rounded-md text-white bg-emerald-600 font-semibold shadow-sm">
+                            Frentes
+                        </button>
+                        <button id="btnBreakdownOS" onclick="setBreakdownMode('os')" class="px-2 py-0.5 rounded-md text-[var(--text-secondary)] font-semibold hover:text-emerald-500">
+                            Top OS
+                        </button>
+                        <button id="btnBreakdownLocal" onclick="setBreakdownMode('local')" class="px-2 py-0.5 rounded-md text-[var(--text-secondary)] font-semibold hover:text-emerald-500">
+                            Top Locais
+                        </button>
+                    </div>
+                </div>
+                <div class="relative w-full h-[280px]">
+                    <canvas id="chartBreakdown"></canvas>
+                </div>
+            </div>
+
+            <!-- Distribuição Temporal por Horário das Inspeções (Gráfico F) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between mb-1">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                            <span>⏰</span>
+                            <span>Distribuição por Horário</span>
+                        </h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Frequência das avaliações das 06:00 às 18:00</p>
+                    </div>
+                    <span class="text-[10px] font-mono text-[var(--text-secondary)]">Ritmo de Campo</span>
+                </div>
+
+                <div class="relative w-full h-[210px] my-1">
+                    <canvas id="chartHourly"></canvas>
+                </div>
+
+                <div class="p-2.5 rounded-xl border text-[11px] leading-relaxed"
+                     style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-secondary);">
+                    Maior concentração de avaliações ocorre entre 08:00 e 15:00, acompanhando os turnos de plantio mecanizado.
+                </div>
+            </div>
+
+            <!-- Análise das Observações Textuais (Gráfico G) -->
+            <div class="lg:col-span-4 p-5 rounded-2xl border flex flex-col justify-between shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+                <div class="flex items-center justify-between mb-1">
+                    <div>
+                        <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                            <span>📝</span>
+                            <span>Categorias de Observação</span>
+                        </h3>
+                        <p class="text-xs text-[var(--text-secondary)]">Auditoria de conteúdo dos textos de campo</p>
+                    </div>
+                    <span class="text-[10px] font-mono px-2 py-0.5 rounded-full bg-sky-500/10 text-sky-500 border border-sky-500/20">
+                        20 Descritivas
+                    </span>
+                </div>
+
+                <div class="relative w-full h-[210px] my-1">
+                    <canvas id="chartObs"></canvas>
+                </div>
+
+                <div class="p-2.5 rounded-xl border text-[11px] leading-relaxed"
+                     style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-secondary);">
+                    Identificadas 15 avaliações com ponto "." mecânico e 20 anotações descritivas da distribuição de toletes.
+                </div>
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO CENTRAL DE OBSERVAÇÕES E OCORRÊNCIAS (SEÇÃO 12 DO PROMPT MESTRE) -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🔍</span>
+                        <span>Central de Observações e Ocorrências em Campo</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Investigação de termos, observações livres e anotações descritivas registradas pelas equipes</p>
+                </div>
+                
+                <div class="flex items-center gap-2 text-xs">
+                    <input type="text" id="obsSearchInput" oninput="filterObservations(this.value)" placeholder="Pesquisar termo nas observações (ex: distribuída)..."
+                           class="px-3 py-1.5 rounded-lg border text-xs bg-[var(--bg-kpi)] border-[var(--border-color)] text-[var(--text-primary)] w-64 focus:outline-none focus:border-emerald-500">
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3" id="obsCardsContainer">
+                <!-- Preenchido via JavaScript -->
+            </div>
+        </section>
+
+        <!-- SEÇÃO ESPECÍFICA: QUALIDADE E CONFIABILIDADE DOS DADOS (SEÇÃO 13 DO PROMPT MESTRE) -->
+        <section class="p-5 rounded-2xl border shadow-sm transition-colors"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🛡️</span>
+                        <span>Qualidade e Confiabilidade dos Dados (Auditoria Rigorosa)</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Diagnóstico de integridade cadastral, sincronismo de Score e conformidade de preenchimento</p>
+                </div>
+                <span class="text-xs font-mono font-bold text-emerald-500 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20">
+                    Completude dos Dados: 100,0%
+                </span>
+            </div>
+
+            <!-- 8 Indicadores de Qualidade Clicáveis -->
+            <div class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3 text-xs">
+                
+                <!-- Q1: Total Analisado -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Avaliações Totais</span>
+                    <span class="text-lg font-bold font-mono text-[var(--text-primary)] mt-1 block" id="qaTotal">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ base íntegra</span>
+                </div>
+
+                <!-- Q2: IDs Duplicados -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">IDs Duplicados</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaDuplicados">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ unicidade 100%</span>
+                </div>
+
+                <!-- Q3: Sem Classificação -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Sem Classificação</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaSemClass">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ 100% classificadas</span>
+                </div>
+
+                <!-- Q4: GPS Inválido -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Coordenadas Inválidas</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaCoordsInvalidas">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ 100% georref.</span>
+                </div>
+
+                <!-- Q5: Datas Inválidas -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Datas Inválidas</span>
+                    <span class="text-lg font-bold font-mono text-emerald-500 mt-1 block" id="qaDatasInvalidas">0</span>
+                    <span class="text-[10px] text-emerald-500">✓ cronologia OK</span>
+                </div>
+
+                <!-- Q6: Divergência de Score Mapfy -->
+                <div class="p-3 rounded-xl border bg-amber-500/10 border-amber-500/30 cursor-pointer hover:scale-105 transition-transform"
+                     onclick="toggleScoreDivergenteFilter()"
+                     title="Clique para filtrar registros onde Score é 0,00 mesmo com Cana BOM">
+                    <span class="text-[10px] text-amber-600 dark:text-amber-400 uppercase block font-bold">Divergência Score</span>
+                    <span class="text-lg font-bold font-mono text-amber-600 dark:text-amber-400 mt-1 block" id="qaScoreDivergente">23</span>
+                    <span class="text-[10px] text-amber-600 dark:text-amber-400 underline">auditar 19/05</span>
+                </div>
+
+                <!-- Q7: Ponto Isolado "." -->
+                <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)] cursor-pointer hover:scale-105 transition-transform"
+                     onclick="setObsFilterDirect('PONTO')"
+                     title="Clique para filtrar avaliações com ponto mecânico '.'">
+                    <span class="text-[10px] text-[var(--text-secondary)] uppercase block font-semibold">Ponto Mecânico "."</span>
+                    <span class="text-lg font-bold font-mono text-rose-500 mt-1 block" id="qaObsPonto">15</span>
+                    <span class="text-[10px] text-rose-500 underline">revisar preenchimento</span>
+                </div>
+
+                <!-- Q8: Obs. Descritivas Relevantes -->
+                <div class="p-3 rounded-xl border bg-sky-500/10 border-sky-500/30 cursor-pointer hover:scale-105 transition-transform"
+                     onclick="setObsFilterDirect('DESCRITIVO')"
+                     title="Clique para filtrar anotações descritivas textuais de campo">
+                    <span class="text-[10px] text-sky-600 dark:text-sky-400 uppercase block font-bold">Obs. Descritivas</span>
+                    <span class="text-lg font-bold font-mono text-sky-600 dark:text-sky-400 mt-1 block" id="qaObsDesc">20</span>
+                    <span class="text-[10px] text-sky-600 dark:text-sky-400 underline">ler anotações</span>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- MAPA GEOGRÁFICO DAS AVALIAÇÕES (OPENSTREETMAP SEM MARCAS D'ÁGUA) -->
+        <section class="p-5 rounded-2xl border shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-3">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>🛰️</span>
+                        <span>Mapeamento Georreferenciado das Avaliações</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Distribuição espacial da qualidade da cana no sulco (OpenStreetMap Livre)</p>
+                </div>
+
+                <!-- Legenda do Mapa -->
+                <div class="flex items-center gap-3 text-xs flex-wrap">
+                    <span class="flex items-center gap-1.5 font-semibold text-emerald-500">
+                        <span class="w-3 h-3 rounded-full bg-emerald-500 inline-block shadow-sm"></span>
+                        <span>Qualidade BOM (Conforme)</span>
+                    </span>
+                    <span class="flex items-center gap-1.5 font-semibold text-amber-500">
+                        <span class="w-3 h-3 rounded-full bg-amber-500 inline-block shadow-sm"></span>
+                        <span>Score Divergente (0,00)</span>
+                    </span>
+                    <span class="flex items-center gap-1.5 font-semibold text-sky-500">
+                        <span class="w-3 h-3 rounded-full bg-sky-500 inline-block shadow-sm"></span>
+                        <span>Com Obs. Descritiva</span>
+                    </span>
+                    <button onclick="resetMapBounds()" class="px-2.5 py-1 rounded-lg border text-xs font-semibold hover:border-emerald-500 transition-colors"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);">
+                        Centralizar
+                    </button>
+                </div>
+            </div>
+
+            <!-- Container do Mapa Leaflet -->
+            <div id="mapContainer" class="w-full h-[450px] rounded-xl overflow-hidden border relative z-10"
+                 style="border-color: var(--border-color);"></div>
+        </section>
+
+        <!-- TABELA ANALÍTICA COMPLETA DE AVALIAÇÕES -->
+        <section class="p-5 rounded-2xl border shadow-sm"
+                 style="background: var(--bg-card); border-color: var(--border-color);">
+            
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div>
+                    <h3 class="text-sm font-bold text-[var(--text-primary)] flex items-center gap-2">
+                        <span>📑</span>
+                        <span>Rastreabilidade Individual das Avaliações</span>
+                    </h3>
+                    <p class="text-xs text-[var(--text-secondary)]">Detalhamento dos 2.579 registros com auditoria de observações e status de Score</p>
+                </div>
+
+                <div class="flex items-center gap-2 text-xs">
+                    <span class="text-[var(--text-secondary)]">Exibir</span>
+                    <select id="pageSizeSelect" onchange="changePageSize(this.value)"
+                            class="px-2 py-1 rounded-lg border text-xs bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)]">
+                        <option value="15">15</option>
+                        <option value="25" selected>25</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                    <span class="text-[var(--text-secondary)]">por página</span>
+                </div>
+            </div>
+
+            <!-- Tabela com Scroll Horizontal -->
+            <div class="overflow-x-auto rounded-xl border" style="border-color: var(--border-color);">
+                <table class="w-full text-xs text-left border-collapse">
+                    <thead class="font-mono text-[11px] uppercase tracking-wider border-b"
+                           style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-secondary);">
+                        <tr>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('id')">ID ↕</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('data')">Data / Hora ↕</th>
+                            <th class="p-3">Classificação</th>
+                            <th class="p-3">Observações</th>
+                            <th class="p-3">Score MapFy</th>
+                            <th class="p-3 cursor-pointer hover:text-emerald-500" onclick="sortTable('frente')">Frente ↕</th>
+                            <th class="p-3">OS</th>
+                            <th class="p-3">Local (Talhão)</th>
+                            <th class="p-3">Responsável</th>
+                            <th class="p-3">Status</th>
+                            <th class="p-3 text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableRecordsBody" class="divide-y" style="border-color: var(--border-color); color: var(--text-primary);">
+                        <!-- Linhas geradas via JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Paginação -->
+            <div id="paginationControls" class="flex flex-wrap items-center justify-between gap-3 mt-4 text-xs">
+                <span class="text-[var(--text-secondary)]" id="paginationInfo">Mostrando 0-0 de 0</span>
+                <div class="inline-flex items-center gap-1">
+                    <button id="btnPrevPage" onclick="prevPage()" class="px-3 py-1.5 rounded-lg border text-xs font-semibold disabled:opacity-40 transition-colors"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);">
+                        Anterior
+                    </button>
+                    <span class="px-3 py-1.5 font-mono text-emerald-500 font-bold" id="pageNumber">1</span>
+                    <button id="btnNextPage" onclick="nextPage()" class="px-3 py-1.5 rounded-lg border text-xs font-semibold disabled:opacity-40 transition-colors"
+                            style="background: var(--bg-kpi); border-color: var(--border-color); color: var(--text-primary);">
+                        Próxima
+                    </button>
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- RODAPÉ CORPORATIVO -->
+    <footer class="border-t py-6 text-center text-xs mt-auto transition-colors"
+            style="background: var(--bg-header); border-color: var(--border-color); color: var(--text-secondary);">
+        <p>Usina Pitangueiras • Sistema de Qualidade Agrícola • Safra 2026</p>
+        <p class="text-[11px] mt-1 font-mono opacity-80">Fonte de Dados: Server_MapFy/server/relatorios/Plantio - 10 - Quantidade de Cana/dados.json</p>
+    </footer>
+
+    <!-- MODAL DE DETALHES COMPLETOS DO REGISTRO -->
+    <div id="recordModal" class="fixed inset-0 bg-black/60 dark:bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="w-full max-w-2xl rounded-2xl shadow-2xl flex flex-col max-h-[90vh] animate-in fade-in zoom-in-95 duration-150 border"
+             style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);">
+            
+            <div class="p-6 border-b flex items-start justify-between" style="border-color: var(--border-color);">
+                <div>
+                    <div class="flex items-center gap-2">
+                        <span id="modalClassBadge" class="px-2.5 py-0.5 rounded-full text-xs font-bold uppercase tracking-wider badge-bom">Classificação: BOM</span>
+                        <span id="modalScoreBadge" class="px-2.5 py-0.5 rounded-full text-xs font-bold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/30">Score 100%</span>
+                    </div>
+                    <h2 class="text-xl font-bold mt-2 text-[var(--text-primary)]" id="modalRecordTitle">Avaliação #0000000</h2>
+                    <p class="text-xs text-[var(--text-secondary)] font-mono mt-0.5" id="modalRecordDate">00/00/0000 00:00</p>
+                </div>
+                <button onclick="closeRecordModal()" class="p-2 rounded-lg transition-colors hover:bg-slate-100 dark:hover:bg-slate-800 text-[var(--text-secondary)]">
+                    ✕
+                </button>
+            </div>
+
+            <div class="p-6 overflow-y-auto flex-1 space-y-4 text-xs">
+                
+                <!-- Dados de Qualidade e Observações -->
+                <div class="grid grid-cols-2 gap-3">
+                    <div class="p-3 rounded-xl border bg-emerald-500/10 border-emerald-500/30">
+                        <span class="text-[10px] text-emerald-600 dark:text-emerald-400 font-semibold uppercase">Campo "Quantidade de Cana"</span>
+                        <div class="font-bold text-lg mt-0.5 font-mono text-emerald-600 dark:text-emerald-400" id="modalQtdCana">BOM</div>
+                        <span class="text-[10px] text-emerald-600 dark:text-emerald-400 block mt-1">Conformidade qualitativa do sulco</span>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Score Registrado</span>
+                        <div class="font-bold text-lg mt-0.5 font-mono" id="modalScoreVal">1,00 (100% - Bom)</div>
+                        <span class="text-[10px] text-[var(--text-secondary)] block mt-1" id="modalScoreAuditDesc">Score conforme formulário</span>
+                    </div>
+                </div>
+
+                <!-- Observação Textual Completa -->
+                <div class="p-3.5 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                    <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase tracking-wider block mb-1">
+                        Observações de Campo
+                    </span>
+                    <p class="text-xs font-medium text-[var(--text-primary)] whitespace-pre-wrap leading-relaxed" id="modalObservacoes">
+                        Nenhuma observação registrada.
+                    </p>
+                </div>
+
+                <!-- Dados Operacionais -->
+                <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Frente</span>
+                        <div class="font-bold text-sm mt-0.5 truncate" id="modalFrente">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Ordem de Serviço</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono" id="modalOS">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Local (Talhão)</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono truncate" id="modalLocal">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Responsável</span>
+                        <div class="font-bold text-sm mt-0.5 truncate" id="modalResp">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Duração</span>
+                        <div class="font-bold text-sm mt-0.5 font-mono" id="modalDuracao">--</div>
+                    </div>
+                    <div class="p-3 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)]">
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase">Usuário / Coletor</span>
+                        <div class="font-bold text-sm mt-0.5 truncate" id="modalUser">--</div>
+                    </div>
+                </div>
+
+                <!-- Coordenadas Geográficas e Google Maps -->
+                <div class="p-3.5 rounded-xl border bg-[var(--bg-kpi)] border-[var(--border-color)] flex items-center justify-between">
+                    <div>
+                        <span class="text-[10px] text-[var(--text-secondary)] font-semibold uppercase block">Coordenadas GPS</span>
+                        <div class="font-mono text-xs mt-0.5" id="modalCoords">-00.00000, -00.00000</div>
+                    </div>
+                    <a id="modalGmapsLink" href="#" target="_blank"
+                       class="px-3 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs flex items-center gap-1 shadow-sm transition-all">
+                        <span>🗺️</span>
+                        <span>Abrir no Google Maps</span>
+                    </a>
+                </div>
+
+            </div>
+
+            <div class="p-4 border-t flex justify-end" style="border-color: var(--border-color);">
+                <button onclick="closeRecordModal()" class="px-4 py-2 rounded-xl border text-xs font-semibold hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+                        style="border-color: var(--border-color); color: var(--text-primary);">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts de Dados, Motor Analítico e Controlador -->
+    <script src="js/data.js?v=2026.5"></script>
+    <script src="js/qualidade_cana_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/map_shapes_layer.js"></script>
+    <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
+</body>
+</html>

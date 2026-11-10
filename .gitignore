@@ -42,5 +42,22 @@ loop_verificar_noite.ps1
 # Binarios pesados autonomos que excedem o limite de 100 MB do GitHub
 MapFyServer.exe
 **/MapFyServer.exe
+MapFy_Telegram_Monitor.exe
+**/MapFy_Telegram_Monitor.exe
 Server_MapFy/server/Maps/
 Server_MapFy/server/runtime/
+
+# Builds e temporarios do PyInstaller
+build/
+dist/
+*.spec.bak
+**/build/
+**/dist/
+
+# Bancos SQLite temporarios e locais
+*.db
+*.db-wal
+*.db-shm
+**/data/*.db
+**/data/*.db-wal
+**/data/*.db-shm

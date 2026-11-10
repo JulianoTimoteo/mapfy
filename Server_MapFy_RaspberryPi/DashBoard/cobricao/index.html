@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <!-- Prevenção de Cache Estático no Celular / PWA -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantio — Profundidade de Cobrição | Usina Pitangueiras</title>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Estilos Customizados -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    
+    <!-- SheetJS (Excel Export) -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
+    <!-- FontAwesome 6.4.0 Oficial -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Tailwind CSS Oficial & Configuração Dark Mode -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        emerald: { 50: '#ECFDF5', 500: '#10B981', 600: '#059669', 700: '#047857' },
+                        amber: { 50: '#FFFBEB', 500: '#F59E0B', 600: '#D97706', 700: '#B45309' }
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- PWA e Metatags Mobile Executivas -->
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#047857">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<style id="mapfyMobileFilterEngine">
+/* ======================================================== */
+/* MAPFY 2026 - SISTEMA DE FILTROS RETRÁTEIS MOBILE/TABLET  */
+/* Arquitetura Profissional de Alta Performance (<= 1024px) */
+/* ======================================================== */
+@media (max-width: 1024px) {
+    #filterCollapsibleBody.is-collapsed,
+    .filter-collapsible-body.is-collapsed {
+        display: none !important;
+        max-height: 0 !important;
+        opacity: 0 !important;
+        overflow: hidden !important;
+        visibility: hidden !important;
+        pointer-events: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+    }
+    #filterCollapsibleBody.is-expanded,
+    .filter-collapsible-body.is-expanded {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        animation: mapfyFilterFadeIn 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    #filterSection input,
+    #filterSection select,
+    .filter-collapsible-body input,
+    .filter-collapsible-body select {
+        min-height: 44px !important;
+        font-size: 14px !important;
+    }
+    .mobile-filter-summary-bar {
+        display: flex !important;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        margin-top: 6px;
+        margin-bottom: 8px;
+        border-radius: 12px;
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.22);
+        cursor: pointer;
+        user-select: none;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+    }
+    .mobile-filter-summary-bar::-webkit-scrollbar {
+        display: none;
+    }
+    .btn-toggle-filters-mobile,
+    #btnToggleFilterMobile {
+        display: inline-flex !important;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 14px;
+        border-radius: 12px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 12px !important;
+        border: none !important;
+        cursor: pointer !important;
+        box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3) !important;
+        transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+    .btn-toggle-filters-mobile:active,
+    #btnToggleFilterMobile:active {
+        transform: scale(0.95);
+    }
+    .btn-toggle-filters-mobile.is-expanded,
+    #btnToggleFilterMobile.is-expanded {
+        background: linear-gradient(135deg, #475569 0%, #334155 100%) !important;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+    }
+    .btn-apply-filters-mobile,
+    #btnMobileApplyAndHide {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: 100%;
+        padding: 12px 16px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3) !important;
+        border: none !important;
+        cursor: pointer !important;
+        transition: transform 0.15s ease, filter 0.15s ease;
+    }
+    .btn-apply-filters-mobile:active,
+    #btnMobileApplyAndHide:active {
+        transform: scale(0.98);
+        filter: brightness(0.95);
+    }
+    .mobile-floating-filter-btn,
+    #mobileFloatingFilterBtn {
+        position: fixed !important;
+        bottom: 20px !important;
+        right: 18px !important;
+        z-index: 9999 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important;
+        padding: 12px 18px !important;
+        border-radius: 9999px !important;
+        background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        box-shadow: 0 6px 20px rgba(5, 150, 105, 0.45), 0 2px 6px rgba(0,0,0,0.2) !important;
+        border: 1px solid rgba(255, 255, 255, 0.25) !important;
+        cursor: pointer !important;
+        transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease !important;
+    }
+    .mobile-floating-filter-btn:active,
+    #mobileFloatingFilterBtn:active {
+        transform: scale(0.92) !important;
+    }
+    .mobile-floating-filter-btn.hidden-floating,
+    #mobileFloatingFilterBtn.hidden-floating {
+        opacity: 0 !important;
+        pointer-events: none !important;
+        transform: translateY(20px) scale(0.8) !important;
+    }
+}
+@media (min-width: 1025px) {
+    #filterCollapsibleBody,
+    .filter-collapsible-body {
+        display: block !important;
+        max-height: none !important;
+        opacity: 1 !important;
+        overflow: visible !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        margin: inherit !important;
+        padding: inherit !important;
+    }
+    #btnToggleFilterMobile,
+    .btn-toggle-filters-mobile,
+    #mobileFilterSummaryBar,
+    .mobile-filter-summary-bar,
+    #btnMobileApplyAndHide,
+    .btn-apply-filters-mobile,
+    #mobileFloatingFilterBtn,
+    .mobile-floating-filter-btn {
+        display: none !important;
+    }
+}
+@keyframes mapfyFilterFadeIn {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body>
+    <!-- Cabeçalho Oficial com Navegação Estrita -->
+        <!-- CABEÇALHO CORPORATIVO (REGRA DE NAVEGAÇÃO ESTRITA: APENAS RETORNO AO MANDALA HUB) -->
+    <header class="header-glass sticky top-0 z-40 px-3 sm:px-4 md:px-6 lg:px-8 py-3.5 shadow-sm">
+        <div class="w-full max-w-[1920px] mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-3 w-full md:w-auto justify-between md:justify-start">
+                <!-- Widget 24/7 Circular no Cantinho Esquerdo (Ciclo de 1h) -->
+                <div id="badgeStatus247" class="badge-247-container" title="Sincronismo Contínuo 24/7 • Próxima atualização ao fechar o ciclo de 1h">
+                    <div class="badge-247-ring-wrap">
+                        <svg class="badge-247-svg" width="22" height="22" viewBox="0 0 36 36">
+                            <path class="badge-247-bg"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                            <path id="badge247ProgressRing" class="badge-247-progress"
+                                  stroke-dasharray="0, 100"
+                                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                        </svg>
+                        <span id="badge247Dot" class="badge-247-dot"></span>
+                    </div>
+                    <span class="badge-247-label">24/7</span>
+                </div>
+
+                <!-- Retorno Exclusivo ao Mandala Hub Central -->
+                <a href="../index.html" class="btn-mandala inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-emerald-100 hover:bg-emerald-200 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 transition shadow-sm" title="Retornar à Mandala Hub Principal">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <span>Mandala Hub</span>
+                </a>
+
+                <div class="flex items-center gap-2.5 sm:gap-3 min-w-0 w-full md:w-auto mt-1 md:mt-0">
+                    <img src="assets/logo_pitangueiras.png" alt="Usina Pitangueiras 51 Anos" class="header-logo h-10 w-auto object-contain">
+                    <div class="min-w-0 flex-1">
+                        <div class="flex items-center gap-2">
+                            <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                            <span class="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">Operação de Plantio • Cobrição de Soqueira</span>
+                        </div>
+                        <h1 class="text-sm sm:text-base md:text-xl font-extrabold text-slate-900 dark:text-white tracking-tight break-words leading-snug">
+                            Central de Inteligência — Profundidade de Cobrição
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-3 w-full md:w-auto justify-end">
+                <span class="badge badge-emerald text-xs">
+                    <i class="fa-solid fa-seedling mr-1"></i> Safra 2026
+                </span>
+                <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
+                    <i class="fa-solid fa-database mr-1"></i> 2.020 Medições de Cobrição
+                </span>
+
+                <!-- Alternador de Tema Claro / Escuro -->
+                <button id="themeToggleBtn" type="button" class="p-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:bg-slate-300 dark:hover:bg-slate-600 text-slate-700 dark:text-slate-200 transition" title="Alternar Tema Claro / Escuro">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Banner de Nota Técnica e Alinhamento Metodológico -->
+    <div class="technical-notice-banner">
+        <div class="notice-box">
+            <div class="notice-icon">ℹ️</div>
+            <div class="notice-content">
+                <div class="notice-title">Nota Técnica Operacional: Parâmetros Agronômicos e Metodologia de Medição</div>
+                <div>
+                    Os dados de campo registram valores de profundidade concentrados em <strong>6, 7, 8, 9 e 10</strong> (com mediana <strong>8,00</strong>). Para manter estrito rigor científico e respeito à governança do projeto, <strong>não foi presumida unidade arbitrária (ex: cm) nem inventada faixa de corte sem homologação oficial</strong>. As informações são apresentadas como <em>“Profundidade registrada”</em>. Dois registros atípicos superiores (13 e 17) foram identificados pelo método estatístico do <strong>Intervalo Interquartil (IQR 1,5x)</strong> para acompanhamento pela liderança agronômica, mantendo a integridade total do histórico de campo.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Painel de Filtros Reativos -->
+    <section class="filters-container" id="filterSection">
+        <div class="filters-card">
+            <div class="filters-header">
+                <div class="filters-title">
+                    <span>🔍</span> Filtros Operacionais & Seleção de Período
+                </div>
+                <div class="filters-actions">
+                    <button id="btnToggleFilterMobile" type="button" class="btn-toggle-filters-mobile md:hidden" title="Alternar filtros no celular">
+                        <i class="fa-solid fa-sliders text-[11px]"></i>
+                        <span id="toggleFilterMobileText">Ajustar Filtros</span>
+                        <i id="toggleFilterChevron" class="fa-solid fa-chevron-down chevron text-[10px]"></i>
+                    </button>
+                    <button id="btnVerTodoHistorico" class="btn-filter-action" title="Exibe todo o histórico de dados de 2026">
+                        📅 Ver Todo o Histórico
+                    </button>
+                    <button id="btnResetFilters" class="btn-filter-action btn-filter-reset" title="Limpar todos os filtros">
+                        🔄 Limpar Filtros
+                    </button>
+                </div>
+            </div>
+            <!-- Barra de Resumo Compacta para Mobile (<= 768px) -->
+            <div id="mobileFilterSummaryBar" class="mobile-filter-summary-bar md:hidden">
+                <span class="font-bold text-emerald-600 dark:text-emerald-400 text-[11px] flex items-center gap-1 flex-shrink-0">
+                    <i class="fa-solid fa-filter text-[10px]"></i> <span id="mobileSummaryScopeText">Safra 2026</span>
+                </span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span id="mobileSummaryCountText" class="font-mono text-slate-600 dark:text-slate-300 font-semibold text-[11px] flex-shrink-0">Histórico Completo</span>
+                <span class="text-slate-400 text-[10px]">•</span>
+                <span class="text-[10px] font-semibold text-emerald-500 flex-shrink-0">Toque para ajustar</span>
+            </div>
+
+            <!-- Container Colapsável dos Filtros para Mobile -->
+            <div id="filterCollapsibleBody" class="filter-collapsible-body is-collapsed">
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label class="filter-label" for="filterDateExact">Data Específica</label>
+                    <input type="text" id="filterDateExact" class="filter-input" placeholder="DD/MM/AAAA (ex: 28/10/2026)">
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterFrente">Frente Operacional</label>
+                    <select id="filterFrente" class="filter-select">
+                        <option value="all">Todas as Frentes</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterOS">Ordem de Serviço (OS)</label>
+                    <select id="filterOS" class="filter-select">
+                        <option value="all">Todas as OSs</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterLocal">Talhão / Local</label>
+                    <select id="filterLocal" class="filter-select">
+                        <option value="all">Todos os Locais</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterResponsavel">Responsável</label>
+                    <select id="filterResponsavel" class="filter-select">
+                        <option value="all">Todos os Responsáveis</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="filterProfundidade">Profundidade Registrada</label>
+                    <select id="filterProfundidade" class="filter-select">
+                        <option value="all">Todas as Profundidades</option>
+                        <option value="6">Profundidade 6</option>
+                        <option value="7">Profundidade 7</option>
+                        <option value="8">Profundidade 8 (Mediana)</option>
+                        <option value="9">Profundidade 9</option>
+                        <option value="10">Profundidade 10</option>
+                    </select>
+                </div>
+            </div>
+
+            <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border-color);">
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyOutliers">
+                    <span style="font-size: 0.85rem; font-weight: 600; color: var(--color-atipico);">⚠️ Apenas Valores Atípicos para Investigação (IQR &gt; 12)</span>
+                </label>
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkExcludeOutliers">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Recalcular Média e Desvio sem Atípicos</span>
+                </label>
+                <label class="filter-checkbox-group">
+                    <input type="checkbox" id="chkOnlyCoords">
+                    <span style="font-size: 0.85rem; font-weight: 500; color: var(--text-secondary);">Apenas Pontos Georreferenciados</span>
+                </label>
+            </div>
+                <!-- Botão de Aplicar e Ocultar no Mobile -->
+                <div class="md:hidden pt-3 border-t flex flex-col gap-2" style="border-color: var(--border-color);">
+                    <button id="btnMobileApplyAndHide" type="button" class="btn-apply-filters-mobile">
+                        <span>✓</span>
+                        <span>Aplicar e Ocultar Filtros</span>
+                    </button>
+                    <p class="text-[10px] text-center" style="color: var(--text-muted); margin: 0;">
+                        Toque para recolher os filtros e liberar a tela para os indicadores e mapa.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Botão Flutuante de Filtros no Celular -->
+    <button id="mobileFloatingFilterBtn" class="mobile-floating-filter-btn hidden-floating md:hidden" type="button" title="Ajustar filtros">
+        <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
+    </button>
+
+    <!-- Cards de KPIs Executivos -->
+    <section class="kpis-container">
+        <div class="kpis-grid">
+            <!-- KPI 1: Total de Medições -->
+            <div class="kpi-card kpi-cobricao">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total de Medições</span>
+                    <span class="kpi-icon">📋</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTotalRegistros" class="kpi-value">2.020</span>
+                    <span class="kpi-unit">amostras</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiPeriodoAmostral">Histórico Completo</span>
+                    <span class="kpi-badge badge-info">100% IDs Únicos</span>
+                </div>
+            </div>
+
+            <!-- KPI 2: Profundidade Média -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Profundidade Média</span>
+                    <span class="kpi-icon">⚖️</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiProfMedia" class="kpi-value">8,04</span>
+                    <span class="kpi-unit">reg.</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiDesvioPadrao">Desvio: ±1,08</span>
+                    <span class="kpi-badge badge-tipico" id="kpiAmostrasValidas">2.020 válidos</span>
+                </div>
+            </div>
+
+            <!-- KPI 3: Mediana -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Mediana</span>
+                    <span class="kpi-icon">🎯</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiProfMediana" class="kpi-value">8,00</span>
+                    <span class="kpi-unit">reg.</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>50% das medições ≤ 8</span>
+                    <span class="kpi-badge badge-tipico">Robusta a extremos</span>
+                </div>
+            </div>
+
+            <!-- KPI 4: Menor Profundidade -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Menor Profundidade</span>
+                    <span class="kpi-icon">📉</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiMenorProf" class="kpi-value">6,00</span>
+                    <span class="kpi-unit">mínimo</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Q1 (25%): 7,00</span>
+                    <span class="kpi-badge badge-info">Ponto mínimo</span>
+                </div>
+            </div>
+
+            <!-- KPI 5: Maior Profundidade -->
+            <div class="kpi-card kpi-atipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Maior Profundidade</span>
+                    <span class="kpi-icon">📈</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiMaiorProf" class="kpi-value">17,00</span>
+                    <span class="kpi-unit">máximo</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Q3 (75%): 9,00</span>
+                    <span class="kpi-badge badge-atipico">Atípico isolado</span>
+                </div>
+            </div>
+
+            <!-- KPI 6: Frentes Monitoradas -->
+            <div class="kpi-card kpi-cobricao">
+                <div class="kpi-header">
+                    <span class="kpi-title">Frentes Monitoradas</span>
+                    <span class="kpi-icon">🚜</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiFrentesCount" class="kpi-value">17</span>
+                    <span class="kpi-unit">frentes</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Frente Própria lidera</span>
+                    <span class="kpi-badge badge-cobricao">Operação Total</span>
+                </div>
+            </div>
+
+            <!-- KPI 7: Talhões Monitorados -->
+            <div class="kpi-card kpi-purple">
+                <div class="kpi-header">
+                    <span class="kpi-title">Talhões & OSs</span>
+                    <span class="kpi-icon">🌾</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiTalhoesOS" class="kpi-value">216 / 193</span>
+                    <span class="kpi-unit">distintos</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiResponsaveisCount">23 responsáveis</span>
+                    <span class="kpi-badge badge-info">Rastreabilidade</span>
+                </div>
+            </div>
+
+            <!-- KPI 8: Registros Pendentes / Status -->
+            <div class="kpi-card kpi-info">
+                <div class="kpi-header">
+                    <span class="kpi-title">Status dos Registros</span>
+                    <span class="kpi-icon">📂</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiStatusAberto" class="kpi-value">2.020</span>
+                    <span class="kpi-unit">em aberto</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>Padrão do app móvel</span>
+                    <span class="kpi-badge badge-info">Score: 0,00</span>
+                </div>
+            </div>
+
+            <!-- KPI 9: Amplitude & Dispersão -->
+            <div class="kpi-card kpi-cobricao">
+                <div class="kpi-header">
+                    <span class="kpi-title">Amplitude Observada</span>
+                    <span class="kpi-icon">📏</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiAmplitude" class="kpi-value">11,00</span>
+                    <span class="kpi-unit">dispersão</span>
+                </div>
+                <div class="kpi-footer">
+                    <span>IQR: 2,00 (7 a 9)</span>
+                    <span class="kpi-badge badge-cobricao">99,9% típicos</span>
+                </div>
+            </div>
+
+            <!-- KPI 10: Georreferenciamento -->
+            <div class="kpi-card kpi-tipico">
+                <div class="kpi-header">
+                    <span class="kpi-title">Georreferenciamento</span>
+                    <span class="kpi-icon">📍</span>
+                </div>
+                <div class="kpi-value-container">
+                    <span id="kpiGeorrefPerc" class="kpi-value">100%</span>
+                    <span class="kpi-unit">válido</span>
+                </div>
+                <div class="kpi-footer">
+                    <span id="kpiGeorrefCount">2.020 / 2.020 pontos</span>
+                    <span class="kpi-badge badge-tipico">Zero Falhas</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gráficos e Seções Analíticas -->
+    <section class="analytics-container">
+        <!-- NÍVEL 1: Distribuição das Profundidades & Frequência Acumulada -->
+        <div class="charts-row-2">
+            <!-- Gráfico A: Distribuição de Profundidades -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📊</span> Gráfico A: Distribuição das Profundidades de Cobrição
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartDistribution"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico B: Frequência Acumulada -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📈</span> Gráfico B: Frequência Acumulada (% Concentração Progressiva)
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartCumulative"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Evolução Temporal com Seleção de Escala -->
+        <div class="chart-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📅</span> Gráfico C: Evolução Temporal da Profundidade de Cobrição
+                </div>
+                <div class="chart-card-tools">
+                    <div class="chart-view-toggle" id="timePeriodToggle">
+                        <button id="btnPeriodDiario" class="chart-view-btn active">Diário</button>
+                        <button id="btnPeriodSemanal" class="chart-view-btn">Semanal</button>
+                        <button id="btnPeriodMensal" class="chart-view-btn">Mensal</button>
+                    </div>
+                    <div class="chart-view-toggle" id="timeMetricToggle">
+                        <button id="btnMetricMedia" class="chart-view-btn active">Média</button>
+                        <button id="btnMetricMediana" class="chart-view-btn">Mediana</button>
+                        <button id="btnMetricVolume" class="chart-view-btn">Volume</button>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-canvas-container">
+                <canvas id="chartTimeline"></canvas>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Comparativo por Frente & Ranking por OS -->
+        <div class="charts-row-2">
+            <!-- Gráfico D: Desempenho por Frente -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🚜</span> Gráfico D: Profundidade Média e Volume por Frente de Trabalho
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartFrentes"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico E: Top 15 OSs -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>📑</span> Gráfico E: Top 15 Ordens de Serviço (OS) com Mais Medições
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartOS"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Comparativo por Talhão & Análise por Responsável -->
+        <div class="charts-row-2">
+            <!-- Gráfico F: Top 15 Talhões / Locais -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🗺️</span> Gráfico F: Top 15 Talhões / Locais Avaliados
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartLocais"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico G: Análise por Responsável -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>👷</span> Gráfico G: Volume e Média por Responsável Operacional
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartResponsaveis"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 2: Dispersão Individual & Ritmo Horário -->
+        <div class="charts-row-2">
+            <!-- Gráfico H: Dispersão Individual (Scatter Plot) -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>🔬</span> Gráfico H: Dispersão Individual das 2.020 Amostras
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartScatter"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfico I: Ritmo Horário -->
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <div class="chart-card-title">
+                        <span>⏰</span> Ritmo Horário das Avaliações de Cobrição (07h às 18h)
+                    </div>
+                </div>
+                <div class="chart-canvas-container">
+                    <canvas id="chartHourly"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 3: Mapa Geográfico com Cores por Profundidade (100% OpenStreetMap Limpo) -->
+        <div class="map-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📍</span> Mapa Geográfico Operacional — Distribuição Espacial por Profundidade
+                </div>
+                <div style="font-size: 0.8rem; color: var(--text-secondary);">
+                    Camada Oficial OpenStreetMap • Sem Marcas d'Água • 2.020 Pontos Georreferenciados
+                </div>
+            </div>
+            
+            <div id="map-container"></div>
+
+            <!-- Barra de Legenda Cromática -->
+            <div class="map-legend-bar">
+                <span style="font-weight: 700; color: var(--text-primary); margin-right: 0.5rem;">Legenda de Profundidades:</span>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-6);"></span> Profundidade 6</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-7);"></span> Profundidade 7</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-8);"></span> Profundidade 8 (Mediana)</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-9);"></span> Profundidade 9</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-10);"></span> Profundidade 10</div>
+                <div class="legend-item"><span class="legend-dot" style="background: var(--depth-outlier);"></span> &gt; 10 (Atípicos: 13 e 17)</div>
+            </div>
+        </div>
+
+        <!-- Tabela Analítica Completa -->
+        <div class="table-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>📑</span> Tabela Analítica de Medições de Profundidade
+                </div>
+            </div>
+
+            <div class="table-controls">
+                <div class="table-search-box">
+                    <span class="table-search-icon">🔍</span>
+                    <input type="text" id="tableSearchInput" class="table-search-input" placeholder="Buscar por ID, Data, Frente, OS, Talhão, Responsável, Profundidade...">
+                </div>
+
+                <div class="table-export-actions">
+                    <button id="btnExportExcel" class="btn-export" title="Exportar tabela filtrada para Excel (.xlsx)">
+                        📊 Exportar Excel
+                    </button>
+                    <button id="btnExportCSV" class="btn-export" title="Exportar tabela filtrada para CSV (.csv)">
+                        📄 Exportar CSV
+                    </button>
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table class="analytical-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="id">ID ⇕</th>
+                            <th data-sort="data">Data / Hora ⇕</th>
+                            <th data-sort="frente">Frente Operacional ⇕</th>
+                            <th data-sort="os">OS ⇕</th>
+                            <th data-sort="local">Talhão / Local ⇕</th>
+                            <th data-sort="responsavel">Responsável ⇕</th>
+                            <th data-sort="profundidade_num">Profundidade Registrada ⇕</th>
+                            <th data-sort="categoria_analitica">Diagnóstico Estatístico ⇕</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <!-- Linhas geradas dinamicamente -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-pagination">
+                <div id="tableInfo">Exibindo 0 de 0 registros</div>
+                <div class="pagination-buttons" id="paginationControls"></div>
+            </div>
+        </div>
+
+        <!-- NÍVEL 3: Auditoria e Confiabilidade dos Dados -->
+        <div class="audit-card">
+            <div class="chart-card-header">
+                <div class="chart-card-title">
+                    <span>🛡️</span> Auditoria e Confiabilidade dos Registros de Campo
+                </div>
+            </div>
+            <div class="audit-grid">
+                <div class="audit-item">
+                    <span class="audit-item-title">IDs Duplicados</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">100% dos 2.020 registros possuem IDs exclusivos e auditáveis.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Profundidades Ausentes / Nulas</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">0 (Zero)</span>
+                    <span class="audit-item-desc">Todos os registros possuem valor numérico preenchido.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Integridade Cartográfica</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">100% Válido</span>
+                    <span class="audit-item-desc">2.020 de 2.020 registros possuem coordenadas geográficas válidas.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Atípicos Estatísticos (IQR)</span>
+                    <span class="audit-item-value" style="color: var(--color-atipico);">2 Amostras</span>
+                    <span class="audit-item-desc">Valores 13 e 17 (Frente Pedrinho) isolados para investigação.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Status Aberto (Coleta)</span>
+                    <span class="audit-item-value" style="color: var(--color-info);">2.020 (100%)</span>
+                    <span class="audit-item-desc">Status original de sincronização do aplicativo MapFy.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Score Original</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">0,00 (100%)</span>
+                    <span class="audit-item-desc">Formulário de cobrição não possui pontuação de score ativa.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Coluna Unnamed: 15</span>
+                    <span class="audit-item-value" style="color: var(--text-secondary);">100% Nula</span>
+                    <span class="audit-item-desc">Omitida da interface principal para preservar limpeza visual.</span>
+                </div>
+                <div class="audit-item">
+                    <span class="audit-item-title">Responsáveis Identificados</span>
+                    <span class="audit-item-value" style="color: var(--color-tipico);">23 Operadores</span>
+                    <span class="audit-item-desc">100% dos registros possuem operador e frente cadastrados.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal de Detalhes da Medição -->
+    <div id="detailsModal" class="modal-overlay">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3 id="modalTitle">Detalhes da Medição #000000</h3>
+                <button id="modalCloseBtn" class="btn-modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-grid">
+                    <div class="modal-field">
+                        <span class="modal-field-label">ID da Medição</span>
+                        <span id="mId" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data e Hora</span>
+                        <span id="mData" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Data Lançamento</span>
+                        <span id="mDataLanc" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Duração da Avaliação</span>
+                        <span id="mDuracao" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Frente Operacional</span>
+                        <span id="mFrente" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Ordem de Serviço (OS)</span>
+                        <span id="mOS" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Local (Fazenda - Talhão)</span>
+                        <span id="mLocal" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Responsável</span>
+                        <span id="mResp" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Usuário Coletor</span>
+                        <span id="mUser" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Status do Formulário</span>
+                        <span id="mStatus" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Profundidade Registrada</span>
+                        <span id="mProfOrig" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Classificação Estatística</span>
+                        <span id="mCategoria" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Diferença p/ Mediana Global</span>
+                        <span id="mDiffMed" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Coordenadas GPS</span>
+                        <span id="mCoords" class="modal-field-value">-</span>
+                    </div>
+                    <div class="modal-field">
+                        <span class="modal-field-label">Score Original</span>
+                        <span id="mScore" class="modal-field-value">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rodapé Corporativo -->
+    <footer class="site-footer">
+        <div><strong>Usina Pitangueiras Açúcar e Álcool Ltda.</strong> • Sistema Integrado MapFy Safra 2026</div>
+        <div>Módulo: <em>Plantio — 12 — Profundidade de Cobrição</em> • Engenharia de Dados & Qualidade Agrícola</div>
+    </footer>
+
+    <!-- Scripts de Dados, Motor Analítico e Controlador -->
+    <script src="js/data.js?v=2026.5"></script>
+    <script src="js/cobricao_engine.js"></script>
+    <script src="js/dashboard.js"></script>
+    <script src="../common/js/map_shapes_layer.js"></script>
+    <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
+</body>
+</html>

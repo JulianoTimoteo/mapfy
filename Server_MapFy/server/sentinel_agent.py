@@ -19,10 +19,12 @@ import logging
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
+from pathlib import Path
 from typing import Dict, Any, Optional
 
 # Configuração de Logs Locais do Agente
 AGENT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = Path(AGENT_DIR)
 LOG_FILE = os.path.join(AGENT_DIR, "heartbeat_agent.log")
 
 logging.basicConfig(
