@@ -253,15 +253,19 @@
                     ctx.save();
                     ctx.font = 'bold 11px Inter, sans-serif';
 
-                    if (chartType === 'pie') { // Em Doughnut, valores ficam no centro e não abaixo na fatia
-                        const pos = element.tooltipPosition ? element.tooltipPosition() : null;
-                        if (pos) {
-                            ctx.fillStyle = '#FFFFFF';
-                            ctx.textAlign = 'center';
-                            ctx.textBaseline = 'middle';
-                            ctx.shadowColor = 'rgba(0, 0, 0, 0.7)';
-                            ctx.shadowBlur = 4;
-                            ctx.fillText(String(val), pos.x, pos.y);
+                    if (chartType === 'pie' || chartType === 'doughnut') {
+                        const angleSpan = element.endAngle - element.startAngle;
+                        if (angleSpan >= 0.18) {
+                            const pos = element.tooltipPosition ? element.tooltipPosition() : null;
+                            if (pos) {
+                                ctx.fillStyle = '#FFFFFF';
+                                ctx.textAlign = 'center';
+                                ctx.textBaseline = 'middle';
+                                ctx.font = 'bold 12px Inter, sans-serif';
+                                ctx.shadowColor = 'rgba(0, 0, 0, 0.85)';
+                                ctx.shadowBlur = 4;
+                                ctx.fillText(String(val), pos.x, pos.y);
+                            }
                         }
                     } else if (chartType === 'bar' && chart.options.indexAxis === 'y') {
                         ctx.fillStyle = defaultTextColor;
@@ -332,6 +336,43 @@
         }
     };
 
+    // --- CONFIGURAÇÃO DE LEGENDA RICA PARA DONUTS (VALOR + PORCENTAGEM) ---
+    function createDonutLegendConfig(textColor, position = 'right') {
+        return {
+            position: position,
+            labels: {
+                boxWidth: 10,
+                boxHeight: 10,
+                color: textColor,
+                padding: 8,
+                font: { size: 10, weight: '600' },
+                generateLabels: function (chart) {
+                    const data = chart.data;
+                    if (data.labels && data.labels.length && data.datasets && data.datasets.length) {
+                        const dataset = data.datasets[0];
+                        const total = (dataset.data || []).reduce((acc, v) => acc + (Number(v) || 0), 0);
+                        return data.labels.map((label, i) => {
+                            const val = dataset.data && dataset.data[i] !== undefined ? dataset.data[i] : 0;
+                            const pct = total > 0 ? Math.round((val / total) * 100) : 0;
+                            const bg = Array.isArray(dataset.backgroundColor) ? dataset.backgroundColor[i] : dataset.backgroundColor;
+                            const meta = chart.getDatasetMeta(0);
+                            const isHidden = meta && meta.data && meta.data[i] ? meta.data[i].hidden : false;
+                            return {
+                                text: `${label}: ${val} (${pct}%)`,
+                                fillStyle: bg,
+                                strokeStyle: bg,
+                                lineWidth: 0,
+                                hidden: isHidden,
+                                index: i
+                            };
+                        });
+                    }
+                    return [];
+                }
+            }
+        };
+    }
+
     // --- GRÁFICOS INTERATIVOS VIA CHART.JS ---
     function initCharts() {
         if (typeof Chart !== 'undefined' && Chart.register) {
@@ -396,7 +437,16 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'right', labels: { boxWidth: 10, color: textColor } }
+                        legend: createDonutLegendConfig(textColor, 'right'),
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => {
+                                    const total = ctx.dataset.data.reduce((a, b) => a + (Number(b) || 0), 0);
+                                    const pct = total > 0 ? Math.round((ctx.raw / total) * 100) : 0;
+                                    return ` ${ctx.label}: ${ctx.raw} (${pct}%)`;
+                                }
+                            }
+                        }
                     },
                     cutout: '65%'
                 }
@@ -420,7 +470,16 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'right', labels: { boxWidth: 10, color: textColor } }
+                        legend: createDonutLegendConfig(textColor, 'right'),
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => {
+                                    const total = ctx.dataset.data.reduce((a, b) => a + (Number(b) || 0), 0);
+                                    const pct = total > 0 ? Math.round((ctx.raw / total) * 100) : 0;
+                                    return ` ${ctx.label}: ${ctx.raw} (${pct}%)`;
+                                }
+                            }
+                        }
                     },
                     cutout: '65%'
                 }
@@ -525,7 +584,16 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } }
+                        legend: createDonutLegendConfig(textColor, 'bottom'),
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => {
+                                    const total = ctx.dataset.data.reduce((a, b) => a + (Number(b) || 0), 0);
+                                    const pct = total > 0 ? Math.round((ctx.raw / total) * 100) : 0;
+                                    return ` ${ctx.label}: ${ctx.raw} (${pct}%)`;
+                                }
+                            }
+                        }
                     },
                     cutout: '60%'
                 }
@@ -891,11 +959,20 @@
 
         // 7. Planta ou Soca
         if (state.charts.plantaSoca) {
-            state.charts.plantaSoca.data.labels = plantSoca.map(p => p.tipo);
+            const sortedPlantaSoca = [...plantSoca].sort((a, b) => b.total - a.total);
+            state.charts.plantaSoca.data.labels = sortedPlantaSoca.map(p => p.tipo);
+            const colorMap = {
+                'Soca': '#10B981',
+                'Planta': '#06B6D4',
+                'Carreador': '#F59E0B',
+                'Não informado': '#94A3B8'
+            };
+            const bgColors = sortedPlantaSoca.map((p, idx) => colorMap[p.tipo] || ['#10B981', '#06B6D4', '#F59E0B', '#94A3B8', '#8B5CF6'][idx % 5]);
             if (!state.charts.plantaSoca.data.datasets || state.charts.plantaSoca.data.datasets.length === 0) {
-                state.charts.plantaSoca.data.datasets = [{ data: [] }];
+                state.charts.plantaSoca.data.datasets = [{ data: [], backgroundColor: bgColors, borderWidth: 0 }];
             }
-            state.charts.plantaSoca.data.datasets[0].data = plantSoca.map(p => p.total);
+            state.charts.plantaSoca.data.datasets[0].data = sortedPlantaSoca.map(p => p.total);
+            state.charts.plantaSoca.data.datasets[0].backgroundColor = bgColors;
             state.charts.plantaSoca.update();
         }
 
@@ -1163,9 +1240,15 @@
 
         const regId = r.id || r.ID || id;
         const regFazenda = r.fazenda || r.Fazenda || '-';
+        const dataRealizacao = r.data || r.data_fim || r.data_inicio || 'Data N/I';
+        const horaRealizacao = r.hora || (dataRealizacao.includes(' ') ? dataRealizacao.split(' ')[1] : '12:00');
+
         title.textContent = `Dossiê Meteorológico • Inspeção #${regId}`;
+        const elDataRealizacao = document.getElementById('modalDataRealizacao');
+        if (elDataRealizacao) elDataRealizacao.textContent = dataRealizacao;
+
         if (subtitle) {
-            subtitle.textContent = `Fazenda ${regFazenda} • OS ${r.os || '-'} • Operação: ${r.operacao || '-'}`;
+            subtitle.innerHTML = `<span class="inline-flex items-center gap-1 font-bold text-emerald-600 dark:text-emerald-400 mr-2"><i class="fa-solid fa-calendar-day"></i> Realização: ${dataRealizacao}</span> • Fazenda ${regFazenda} • OS ${r.os || '-'} • Operação: ${r.operacao || '-'}`;
         }
 
         // Obtém dados da Trilha B (Open-Meteo ERA5)
@@ -1197,6 +1280,36 @@
         const soloRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('pre_emergentes_solo', dtRef, ventoRef) : null;
 
         body.innerHTML = `
+            <!-- Faixa Oficial de Realização e Identificação Operacional -->
+            <div class="p-3.5 rounded-xl bg-gradient-to-r from-emerald-500/10 via-teal-500/10 to-blue-500/10 border border-emerald-500/20 dark:border-emerald-500/30 flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-xl bg-emerald-600 text-white flex items-center justify-center font-black shadow-sm">
+                        <i class="fa-solid fa-calendar-check text-lg"></i>
+                    </div>
+                    <div>
+                        <span class="text-[10px] font-bold uppercase tracking-wider text-emerald-800 dark:text-emerald-300">Data e Hora da Realização</span>
+                        <div class="text-sm font-black text-slate-900 dark:text-white flex items-center gap-2">
+                            <span>${dataRealizacao}</span>
+                            <span class="text-[11px] font-medium text-slate-500">(${horaRealizacao})</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-wrap items-center gap-2 text-xs">
+                    <div class="px-2.5 py-1 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                        <span class="text-slate-400 block text-[10px]">Duração</span>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${r.duracao_min || 0} min</span>
+                    </div>
+                    <div class="px-2.5 py-1 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                        <span class="text-slate-400 block text-[10px]">Trator / Frota</span>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${r.equipamento_trator || r.trator || 'Não informado'}</span>
+                    </div>
+                    <div class="px-2.5 py-1 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                        <span class="text-slate-400 block text-[10px]">Responsável</span>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${r.usuario || r.responsavel || 'Operador'}</span>
+                    </div>
+                </div>
+            </div>
+
             <!-- Bloco 1: Auditoria Comparativa Lado a Lado (Trilha A vs Trilha B) -->
             <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
                 <div class="flex items-center justify-between pb-2 mb-3 border-b border-slate-200 dark:border-slate-600">
@@ -1355,6 +1468,29 @@
             sel.value = nome;
             state.activeFilters.equipamento = nome;
             aplicarFiltros();
+        }
+    };
+
+    // --- EXPANSÃO UNIVERSAL DE GRÁFICOS EM TELA CHEIA ---
+    window.toggleCardFullscreen = function (triggerEl) {
+        if (!triggerEl) return;
+        const card = (typeof triggerEl.closest === 'function') ? triggerEl.closest('.chart-card, .app-card') : (triggerEl.parentElement || triggerEl);
+        if (!card) return;
+        const canvas = card.querySelector ? card.querySelector('canvas') : null;
+        const isFs = card.classList.toggle('chart-fullscreen-active');
+        if (document.body) document.body.style.overflow = isFs ? 'hidden' : '';
+        const btn = card.querySelector ? card.querySelector('.btn-chart-fullscreen') : null;
+        if (btn) {
+            btn.innerHTML = isFs
+                ? `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M4 14h6v6M20 10h-6V4M14 10l7-7M3 21l7-7"/></svg>`
+                : `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>`;
+            btn.title = isFs ? 'Restaurar Tamanho Original' : 'Visualizar Gráfico em Tela Cheia';
+        }
+        if (canvas && typeof Chart !== 'undefined' && typeof Chart.getChart === 'function') {
+            const chart = Chart.getChart(canvas);
+            if (chart) {
+                setTimeout(() => chart.resize(), 60);
+            }
         }
     };
 

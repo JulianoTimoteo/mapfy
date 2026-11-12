@@ -580,12 +580,6 @@
 
         </div>
     </div>
-                    <span class="text-xs text-slate-500 block">Distintas</span>
-                </div>
-            </div>
-
-        </div>
-    </div>
 
     <!-- SEÇÃO PRINCIPAL: INTELIGÊNCIA METEOROLÓGICA & DELTA T -->
     <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
@@ -711,40 +705,55 @@
             <!-- GRÁFICOS METEOROLÓGICOS E AUDITORIA CLIMÁTICA -->
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-5 mt-5">
                 <!-- Gráfico A: Comparativo Pareado de Delta T (Campo vs API ERA5) -->
-                <div class="p-4 rounded-lg bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
+                <div class="app-card chart-card p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
                     <div class="flex items-center justify-between mb-2">
                         <h4 class="text-xs font-bold text-slate-700 dark:text-slate-200 uppercase tracking-wide">
                             <i class="fa-solid fa-code-compare text-emerald-500 mr-1"></i> Confronto ΔT: Campo vs Modelo ERA5
                         </h4>
-                        <span class="text-[10px] text-slate-400 font-medium">Tolerância ±2.0°C</span>
+                        <div class="flex items-center gap-2">
+                            <span class="text-[10px] text-slate-400 font-medium">Tolerância ±2.0°C</span>
+                            <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                            </button>
+                        </div>
                     </div>
-                    <div class="h-60">
+                    <div class="h-60 chart-container-inner">
                         <canvas id="chartAuditComparison"></canvas>
                     </div>
                 </div>
 
                 <!-- Gráfico B: Distribuição da Auditoria Climática (Donut) -->
-                <div class="p-4 rounded-lg bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
+                <div class="app-card chart-card p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
                     <div class="flex items-center justify-between mb-2">
                         <h4 class="text-xs font-bold text-slate-700 dark:text-slate-200 uppercase tracking-wide">
                             <i class="fa-solid fa-shield-check text-blue-500 mr-1"></i> Auditoria de Conformidade Climática
                         </h4>
-                        <span class="text-[10px] text-slate-400 font-medium">Trilha A × Trilha B</span>
+                        <div class="flex items-center gap-2">
+                            <span class="text-[10px] text-slate-400 font-medium">Trilha A × Trilha B</span>
+                            <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                            </button>
+                        </div>
                     </div>
-                    <div class="h-60">
+                    <div class="h-60 chart-container-inner">
                         <canvas id="chartAuditDistribution"></canvas>
                     </div>
                 </div>
 
                 <!-- Gráfico C: Distribuição do Delta T por Classe -->
-                <div class="p-4 rounded-lg bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
+                <div class="app-card chart-card p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
                     <div class="flex items-center justify-between mb-2">
                         <h4 class="text-xs font-bold text-slate-700 dark:text-slate-200 uppercase tracking-wide">
                             <i class="fa-solid fa-chart-pie text-purple-500 mr-1"></i> Distribuição das Classes Delta T
                         </h4>
-                        <span class="text-[10px] text-slate-400 font-medium">Semáforo Agronômico</span>
+                        <div class="flex items-center gap-2">
+                            <span class="text-[10px] text-slate-400 font-medium">Semáforo Agronômico</span>
+                            <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                            </button>
+                        </div>
                     </div>
-                    <div class="h-60">
+                    <div class="h-60 chart-container-inner">
                         <canvas id="chartDeltaTClasses"></canvas>
                     </div>
                 </div>
@@ -1280,11 +1289,14 @@
                         <i class="fa-solid fa-file-contract text-base"></i>
                     </div>
                     <div>
-                        <div class="flex items-center gap-2">
+                        <div class="flex flex-wrap items-center gap-2">
                             <h3 class="text-base font-extrabold text-slate-900 dark:text-white" id="modalTitle">Dossiê Meteorológico Individual</h3>
                             <span id="modalAuditBadge" class="badge badge-emerald text-[11px]">Compatível</span>
+                            <span id="modalDataBadge" class="badge badge-slate text-[11px] font-bold text-slate-700 dark:text-slate-200 border border-slate-300 dark:border-slate-600 bg-slate-100 dark:bg-slate-700/60 flex items-center">
+                                <i class="fa-solid fa-calendar-check text-emerald-500 mr-1.5"></i><span id="modalDataRealizacao">--/--/---- --:--</span>
+                            </span>
                         </div>
-                        <p class="text-xs text-slate-500 dark:text-slate-400" id="modalSubtitle">Auditoria comparativa: Trilha A (Apontamento MapFy) × Trilha B (Reanálise Open-Meteo ERA5)</p>
+                        <p class="text-xs text-slate-500 dark:text-slate-400 mt-0.5" id="modalSubtitle">Auditoria comparativa: Trilha A (Apontamento MapFy) × Trilha B (Reanálise Open-Meteo ERA5)</p>
                     </div>
                 </div>
                 <button id="modalCloseBtn" class="p-2 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition">
