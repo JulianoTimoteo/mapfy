@@ -71,7 +71,7 @@ MapFy_Telegram_Monitor/
 ## 3. Configuração do Bot do Telegram
 
 1. Acesse o **BotFather** no Telegram e crie seu bot (ou use o bot existente `@MapfySentinelBot`).
-2. Obtenha o token gerado (ex: `9201062822:AAE9oZcB4QyHQE8kz9ZNUk_kSZNMCk4HnWU`).
+2. Obtenha o token gerado (ex: `1234567890:ABCdefGHIjklMNOpqrsTUVwxyz123456789`).
 3. Abra uma conversa com o bot no Telegram (`https://t.me/MapfySentinelBot`) e envie a mensagem `/start`.
 4. Configure as variáveis no arquivo `.env`:
    ```env

@@ -56,10 +56,10 @@ load_dotenv()
 class Config:
     """Configurações centralizadas do MapFy Telegram Monitor."""
     
-    # Identidade do Bot Telegram (com credenciais de produção como fallback seguro)
+    # Identidade do Bot Telegram (lidos exclusivamente via .env)
     TELEGRAM_BOT_USERNAME: str = os.getenv("TELEGRAM_BOT_USERNAME", "MapfySentinelBot")
-    TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "9201062822:AAE9oZcB4QyHQE8kz9ZNUk_kSZNMCk4HnWU").strip()
-    TELEGRAM_CHAT_ID: str = os.getenv("TELEGRAM_CHAT_ID", "5222686657").strip()
+    TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+    TELEGRAM_CHAT_ID: str = os.getenv("TELEGRAM_CHAT_ID", "").strip()
 
     # Servidor REST
     MONITOR_HOST: str = os.getenv("MONITOR_HOST", "127.0.0.1")
@@ -80,8 +80,8 @@ class Config:
         """Recarrega as configurações a partir do arquivo .env."""
         load_dotenv(dotenv_path)
         cls.TELEGRAM_BOT_USERNAME = os.getenv("TELEGRAM_BOT_USERNAME", "MapfySentinelBot")
-        cls.TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "9201062822:AAE9oZcB4QyHQE8kz9ZNUk_kSZNMCk4HnWU").strip()
-        cls.TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "5222686657").strip()
+        cls.TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+        cls.TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "").strip()
         cls.MONITOR_HOST = os.getenv("MONITOR_HOST", "127.0.0.1")
         cls.MONITOR_PORT = int(os.getenv("MONITOR_PORT", "8765"))
         cls.MONITOR_API_KEY = os.getenv("MONITOR_API_KEY", "mapfy_monitor_secret_key_2026").strip()
