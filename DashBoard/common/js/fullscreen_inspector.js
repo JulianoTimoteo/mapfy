@@ -922,7 +922,8 @@
 
         ['frente', 'os', 'responsavel', 'fazenda'].forEach(key => {
             const val = activeFilters[key];
-            if (val && val !== 'ALL' && val !== 'all' && val !== '') {
+            const isAll = !val || val === 'ALL' || val === 'all' || val === 'TODAS' || val === 'todas' || val === 'TODOS' || val === 'todos' || val === '';
+            if (!isAll) {
                 const tables = document.querySelectorAll('table');
                 tables.forEach(table => {
                     const sec = table.closest('section, .app-card, div.rounded-2xl');

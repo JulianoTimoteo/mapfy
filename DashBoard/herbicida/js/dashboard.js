@@ -73,7 +73,7 @@
 
     // --- GERENCIAMENTO DE TEMA (CLARO/ESCURO) ---
     function initTheme() {
-        const savedTheme = localStorage.getItem('pitangueiras_theme') || 'light';
+        const savedTheme = localStorage.getItem('pitangueiras_theme') || (document.documentElement.classList.contains('dark') ? 'dark' : 'light');
         if (savedTheme === 'dark') {
             document.documentElement.classList.add('dark');
         } else {
@@ -109,18 +109,42 @@
         const ordens = new Set();
         const operacoes = new Set();
         const plantasSocas = new Set();
+        const dateCounts = new Map();
 
         state.allRecords.forEach(r => {
             if (r.fazenda) fazendas.add(r.fazenda);
             if (r.os) ordens.add(r.os);
             if (r.operacao) operacoes.add(r.operacao);
             if (r.planta_soca) plantasSocas.add(r.planta_soca);
+            if (r.data_iso) {
+                dateCounts.set(r.data_iso, (dateCounts.get(r.data_iso) || 0) + 1);
+            }
         });
+
+        // Filtro Global de Datas: Popula dinamicamente SOMENTE datas com relatórios
+        const sortedDates = Array.from(dateCounts.keys()).sort();
+        populateDateSelect('filterDataInicio', sortedDates, dateCounts, 'Todas as Datas com Relatórios');
+        populateDateSelect('filterDataFim', sortedDates, dateCounts, 'Todas as Datas com Relatórios');
 
         populateSelect('filterFazenda', Array.from(fazendas).sort(), 'Todas as Fazendas');
         populateSelect('filterOS', Array.from(ordens).sort(), 'Todas as OS');
         populateSelect('filterOperacao', Array.from(operacoes).sort(), 'Todas as Operações');
         populateSelect('filterPlantaSoca', Array.from(plantasSocas).sort(), 'Todas');
+    }
+
+    function populateDateSelect(id, sortedDates, dateCounts, defaultLabel) {
+        const sel = document.getElementById(id);
+        if (!sel) return;
+        sel.innerHTML = `<option value="">${defaultLabel}</option>`;
+        sortedDates.forEach(isoDate => {
+            const count = dateCounts.get(isoDate) || 0;
+            const parts = isoDate.split('-');
+            const brDate = parts.length === 3 ? `${parts[2]}/${parts[1]}/${parts[0]}` : isoDate;
+            const opt = document.createElement('option');
+            opt.value = isoDate;
+            opt.textContent = `${brDate} (${count} ${count === 1 ? 'relatório' : 'relatórios'})`;
+            sel.appendChild(opt);
+        });
     }
 
     function populateSelect(id, items, defaultLabel) {
@@ -240,7 +264,7 @@
             if (chartType !== 'bar' && chartType !== 'doughnut' && chartType !== 'pie') return;
 
             const isDark = document.documentElement.classList.contains('dark');
-            const defaultTextColor = isDark ? '#F1F5F9' : '#1E293B';
+            const defaultTextColor = isDark ? '#FFFFFF' : '#0F172A';
 
             chart.data.datasets.forEach((dataset, datasetIdx) => {
                 const meta = chart.getDatasetMeta(datasetIdx);
@@ -325,8 +349,8 @@
                         ctx.fillText(Number.isInteger(totalSum) ? totalSum.toLocaleString('pt-BR') : totalSum.toFixed(1), centerX, centerY - (fontSizeLabel * 0.55));
 
                         // Rótulo "TOTAL"
-                        ctx.font = `600 ${fontSizeLabel}px 'Plus Jakarta Sans', sans-serif`;
-                        ctx.fillStyle = isDark ? '#94A3B8' : '#64748B';
+                        ctx.font = `700 ${fontSizeLabel}px 'Plus Jakarta Sans', sans-serif`;
+                        ctx.fillStyle = isDark ? '#E2E8F0' : '#475569';
                         ctx.fillText('TOTAL', centerX, centerY + (fontSizeNum * 0.55));
 
                         ctx.restore();
@@ -338,19 +362,22 @@
 
     // --- CONFIGURAÇÃO DE LEGENDA RICA PARA DONUTS (VALOR + PORCENTAGEM) ---
     function createDonutLegendConfig(textColor, position = 'right') {
+        const isDark = document.documentElement.classList.contains('dark');
+        const activeTextColor = isDark ? '#FFFFFF' : '#0F172A';
         return {
             position: position,
             labels: {
-                boxWidth: 10,
-                boxHeight: 10,
-                color: textColor,
-                padding: 8,
-                font: { size: 10, weight: '600' },
+                boxWidth: 12,
+                boxHeight: 12,
+                color: activeTextColor,
+                padding: 10,
+                font: { size: 11, weight: '700' },
                 generateLabels: function (chart) {
                     const data = chart.data;
                     if (data.labels && data.labels.length && data.datasets && data.datasets.length) {
                         const dataset = data.datasets[0];
                         const total = (dataset.data || []).reduce((acc, v) => acc + (Number(v) || 0), 0);
+                        const darkNow = document.documentElement.classList.contains('dark');
                         return data.labels.map((label, i) => {
                             const val = dataset.data && dataset.data[i] !== undefined ? dataset.data[i] : 0;
                             const pct = total > 0 ? Math.round((val / total) * 100) : 0;
@@ -363,7 +390,8 @@
                                 strokeStyle: bg,
                                 lineWidth: 0,
                                 hidden: isHidden,
-                                index: i
+                                index: i,
+                                fontColor: darkNow ? '#FFFFFF' : '#0F172A'
                             };
                         });
                     }
@@ -380,8 +408,9 @@
         }
 
         const isDark = document.documentElement.classList.contains('dark');
-        const textColor = isDark ? '#94A3B8' : '#64748B';
-        const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+        const textColor = isDark ? '#FFFFFF' : '#0F172A';
+        const tickColor = isDark ? '#F1F5F9' : '#1E293B';
+        const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)';
 
         // 1. Gráfico Pareado: Delta T Campo vs Modelo ERA5
         const ctxAuditComp = document.getElementById('chartAuditComparison')?.getContext('2d');
@@ -399,13 +428,13 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     scales: {
-                        x: { grid: { display: false }, ticks: { color: textColor, font: { size: 9 }, maxRotation: 45 } },
+                        x: { grid: { display: false }, ticks: { color: tickColor, font: { size: 10, weight: '600' }, maxRotation: 45 } },
                         y: {
                             beginAtZero: true,
                             grace: '15%',
                             grid: { color: gridColor },
-                            ticks: { color: textColor, precision: 1 },
-                            title: { display: true, text: 'Delta T (°C)', color: textColor }
+                            ticks: { color: tickColor, font: { weight: '600' }, precision: 1 },
+                            title: { display: true, text: 'Delta T (°C)', color: textColor, font: { weight: '700' } }
                         }
                     },
                     plugins: {
@@ -629,25 +658,28 @@
 
     function updateChartThemes() {
         const isDark = document.documentElement.classList.contains('dark');
-        const textColor = isDark ? '#94A3B8' : '#64748B';
-        const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+        const textColor = isDark ? '#FFFFFF' : '#0F172A';
+        const tickColor = isDark ? '#F1F5F9' : '#1E293B';
+        const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)';
 
         Object.values(state.charts).forEach(c => {
             if (!c) return;
             if (c.options.scales) {
                 if (c.options.scales.x) {
-                    if (c.options.scales.x.ticks) c.options.scales.x.ticks.color = textColor;
+                    if (c.options.scales.x.ticks) c.options.scales.x.ticks.color = tickColor;
                     if (c.options.scales.x.grid) c.options.scales.x.grid.color = gridColor;
                     if (c.options.scales.x.title) c.options.scales.x.title.color = textColor;
                 }
                 if (c.options.scales.y) {
-                    if (c.options.scales.y.ticks) c.options.scales.y.ticks.color = textColor;
+                    if (c.options.scales.y.ticks) c.options.scales.y.ticks.color = tickColor;
                     if (c.options.scales.y.grid) c.options.scales.y.grid.color = gridColor;
                     if (c.options.scales.y.title) c.options.scales.y.title.color = textColor;
                 }
             }
             if (c.options.plugins && c.options.plugins.legend) {
-                c.options.plugins.legend.labels.color = textColor;
+                if (c.options.plugins.legend.labels) {
+                    c.options.plugins.legend.labels.color = textColor;
+                }
             }
             c.update();
         });
@@ -1046,6 +1078,39 @@
                 auditBadge = `<span class="badge ${auditComp.badgeClass}" title="${auditComp.desc}"><i class="fa-solid ${icon} mr-1"></i>${auditComp.status}</span>`;
             }
 
+            // Exibição Lado a Lado: Telemetria de Campo vs Reconstrução ERA5
+            const campoVento = (r.vento !== null && r.vento !== undefined)
+                ? `<span class="font-bold text-slate-800 dark:text-slate-100">${r.vento} km/h</span>`
+                : `<span class="text-slate-400 text-[11px] italic">Sem Telemetria</span>`;
+            const era5Vento = (apiData && apiData.vento !== null && apiData.vento !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-semibold block mt-0.5"><i class="fa-solid fa-cloud-sun mr-0.5 text-[10px]"></i>ERA5: ${apiData.vento} km/h</span>`
+                : '';
+
+            const campoUr = (r.ur !== null && r.ur !== undefined)
+                ? `<span class="font-bold text-slate-800 dark:text-slate-100">${r.ur}%</span>`
+                : `<span class="text-slate-400 text-[11px] italic">Sem Telemetria</span>`;
+            const era5Ur = (apiData && apiData.ur !== null && apiData.ur !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-semibold block mt-0.5"><i class="fa-solid fa-droplet mr-0.5 text-[10px]"></i>ERA5: ${apiData.ur}%</span>`
+                : '';
+
+            const campoTemp = (r.temp !== null && r.temp !== undefined)
+                ? `<span class="font-bold text-slate-800 dark:text-slate-100">${r.temp}°C</span>`
+                : `<span class="text-slate-400 text-[11px] italic">Sem Telemetria</span>`;
+            const era5Temp = (apiData && apiData.temp !== null && apiData.temp !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-semibold block mt-0.5"><i class="fa-solid fa-temperature-half mr-0.5 text-[10px]"></i>ERA5: ${apiData.temp}°C</span>`
+                : '';
+
+            const campoDt = r.delta_t_num !== null
+                ? dtBadge
+                : `<span class="badge badge-slate text-[11px]">Sem Telemetria</span>`;
+            const era5Dt = (apiData && apiData.deltaT !== null && apiData.deltaT !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-bold block mt-0.5"><i class="fa-solid fa-gauge-high mr-0.5 text-[10px]"></i>ERA5: ${apiData.deltaT}°C</span>`
+                : '';
+
+            const diffLabel = (auditComp && auditComp.diffDeltaT !== null && auditComp.diffDeltaT !== undefined)
+                ? `<span class="text-[11px] text-slate-600 dark:text-slate-300 block font-mono font-bold mt-0.5">Δ = ${auditComp.diffDeltaT > 0 ? '+' : ''}${auditComp.diffDeltaT.toFixed(1)}°C</span>`
+                : (auditComp && auditComp.statusKey === 'reconstruido' ? `<span class="text-[10px] text-sky-500 dark:text-sky-400 block font-semibold mt-0.5">Reconstruído ERA5</span>` : '');
+
             return `
                 <tr class="cursor-pointer" onclick="window.abrirModalInspecao('${r.id}')">
                     <td class="font-bold text-emerald-600 dark:text-emerald-400">#${r.id}</td>
@@ -1054,16 +1119,16 @@
                     <td>${r.os}</td>
                     <td class="max-w-[140px] truncate" title="${r.operacao}">${r.operacao}</td>
                     <td>${r.planta_soca}</td>
-                    <td>${r.vento ? r.vento + ' km/h' : '-'}</td>
-                    <td>${r.ur ? r.ur + '%' : '-'}</td>
-                    <td>${r.temp ? r.temp + '°C' : '-'}</td>
-                    <td>${dtBadge}</td>
+                    <td>${campoVento}${era5Vento}</td>
+                    <td>${campoUr}${era5Ur}</td>
+                    <td>${campoTemp}${era5Temp}</td>
+                    <td>${campoDt}${era5Dt}</td>
                     <td>${r.esp_orig}</td>
                     <td>${filtroBadge}</td>
                     <td>${bicoBadge}</td>
                     <td>${r.vazao_orig}</td>
                     <td><span class="badge ${r.status === 'Fechado' ? 'badge-emerald' : 'badge-blue'}">${r.status}</span></td>
-                    <td>${auditBadge}</td>
+                    <td>${auditBadge}${diffLabel}</td>
                     <td class="max-w-[180px] truncate text-[11px] text-slate-600 dark:text-slate-300" title="${r.obs}">
                         ${r.equipamentos_nomes?.length ? `<b>[${r.equipamentos_nomes.join(', ')}]</b> ` : ''}${r.obs || '—'}
                     </td>

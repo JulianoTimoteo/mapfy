@@ -337,16 +337,20 @@
             </div>
 
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
-                <!-- Data Início -->
+                <!-- Data Início (Apenas datas com relatórios) -->
                 <div>
                     <label class="block text-xs font-semibold text-slate-500 dark:text-slate-400 mb-1">Data Início</label>
-                    <input type="date" id="filterDataInicio" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                    <select id="filterDataInicio" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="">Todas as Datas com Relatórios</option>
+                    </select>
                 </div>
 
-                <!-- Data Fim -->
+                <!-- Data Fim (Apenas datas com relatórios) -->
                 <div>
                     <label class="block text-xs font-semibold text-slate-500 dark:text-slate-400 mb-1">Data Fim</label>
-                    <input type="date" id="filterDataFim" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                    <select id="filterDataFim" class="w-full text-xs rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 px-2.5 py-1.5 text-slate-800 dark:text-slate-100 focus:ring-2 focus:ring-emerald-500 focus:outline-none">
+                        <option value="">Todas as Datas com Relatórios</option>
+                    </select>
                 </div>
 
                 <!-- Fazenda -->
@@ -711,7 +715,7 @@
                             <i class="fa-solid fa-code-compare text-emerald-500 mr-1"></i> Confronto ΔT: Campo vs Modelo ERA5
                         </h4>
                         <div class="flex items-center gap-2">
-                            <span class="text-[10px] text-slate-400 font-medium">Tolerância ±2.0°C</span>
+                            <span class="text-[11px] text-slate-600 dark:text-slate-200 font-semibold px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">Tolerância ±2.0°C</span>
                             <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
                                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
                             </button>
@@ -729,7 +733,7 @@
                             <i class="fa-solid fa-shield-check text-blue-500 mr-1"></i> Auditoria de Conformidade Climática
                         </h4>
                         <div class="flex items-center gap-2">
-                            <span class="text-[10px] text-slate-400 font-medium">Trilha A × Trilha B</span>
+                            <span class="text-[11px] text-slate-600 dark:text-slate-200 font-semibold px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">Trilha A × Trilha B</span>
                             <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
                                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
                             </button>
@@ -747,7 +751,7 @@
                             <i class="fa-solid fa-chart-pie text-purple-500 mr-1"></i> Distribuição das Classes Delta T
                         </h4>
                         <div class="flex items-center gap-2">
-                            <span class="text-[10px] text-slate-400 font-medium">Semáforo Agronômico</span>
+                            <span class="text-[11px] text-slate-600 dark:text-slate-200 font-semibold px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">Semáforo Agronômico</span>
                             <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
                                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
                             </button>
@@ -1052,11 +1056,17 @@
             </div>
 
             <!-- Gráfico Planta ou Soca -->
-            <div class="app-card p-5">
+            <div class="app-card chart-card p-5">
                 <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-700 mb-3">
                     <h4 class="text-xs font-bold text-slate-700 dark:text-slate-200 uppercase tracking-wide">
                         <i class="fa-solid fa-seedling text-teal-500 mr-1"></i> Planta, Soca ou Carreador
                     </h4>
+                    <div class="flex items-center gap-2">
+                        <span class="text-[11px] text-slate-600 dark:text-slate-200 font-semibold px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">Distribuição Operacional</span>
+                        <button type="button" class="btn-toggle-fullscreen btn-chart-fullscreen" title="Visualizar Gráfico em Tela Cheia" onclick="window.toggleCardFullscreen(this)">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                        </button>
+                    </div>
                 </div>
                 <div class="h-64">
                     <canvas id="chartPlantaSoca"></canvas>
@@ -1207,10 +1217,10 @@
                             <th>OS</th>
                             <th>Operação</th>
                             <th>Planta/Soca</th>
-                            <th>Vento</th>
-                            <th>UR%</th>
-                            <th>Temp</th>
-                            <th>Delta T</th>
+                            <th>Vento (Campo / ERA5)</th>
+                            <th>UR% (Campo / ERA5)</th>
+                            <th>Temp (Campo / ERA5)</th>
+                            <th>Delta T (Campo / ERA5)</th>
                             <th>Espaçamento</th>
                             <th>Filtro</th>
                             <th>Bicos</th>
