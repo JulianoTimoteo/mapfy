@@ -44,20 +44,20 @@
 
     // Paletas de Cor Cadastrais Agronômicas Suaves (Anti-Saturação)
     const THEMES = {
+        branco: {
+            name: 'Branco Translúcido (Padrão Satélite)',
+            color: 'rgba(255, 255, 255, 0.75)',    // Borda branca suave
+            fillColor: '#ffffff'                   // Branco translúcido no satélite
+        },
         esmeralda: {
             name: 'Esmeralda Suave',
-            color: '#059669',       // Verde florestal sóbrio e elegante
+            color: '#059669',
             fillColor: '#10b981'
         },
         neutro: {
             name: 'Ardósia Neutro',
-            color: '#334155',       // Grafite/ardósia cadastral neutro
+            color: '#334155',
             fillColor: '#64748b'
-        },
-        satelite: {
-            name: 'Satélite Contraste',
-            color: '#34d399',       // Menta claro para imagens de satélite escuras
-            fillColor: '#059669'
         }
     };
 
@@ -93,7 +93,7 @@
         activeControls: new Map(),        // mapInstance -> HTMLElement wrap do controle
         auditedTalhoesByMap: new Map(),   // mapInstance -> Map<featureIndex, { count, records, firstRecord, lastRecord }>
         lastRecordsCache: new Map(),      // mapInstance -> { hash, count }
-        currentTheme: localStorage.getItem(CONFIG.themeKey) || 'esmeralda',
+        currentTheme: localStorage.getItem(CONFIG.themeKey) || 'branco',
         currentIntensity: localStorage.getItem(CONFIG.intensityKey) || 'suave',
         highlightAudited: localStorage.getItem(CONFIG.highlightAuditedKey) !== 'false',
 
@@ -431,33 +431,28 @@
         getFeatureStyle(feature, featureIndex, map, zoom = 11) {
             const auditedMap = this.auditedTalhoesByMap.get(map);
             const isAudited = this.highlightAudited && auditedMap && auditedMap.has(featureIndex);
-            const currentTheme = THEMES[this.currentTheme] || THEMES.esmeralda;
+            const currentTheme = THEMES[this.currentTheme] || THEMES.branco;
             const intensity = INTENSITIES[this.currentIntensity] || INTENSITIES.suave;
 
             if (isAudited) {
-                // TALHÃO COM COLETA DE DADOS (Auditado e com Amostragens)
-                const auditInfo = auditedMap.get(featureIndex);
-                const count = auditInfo ? auditInfo.count : 1;
-                const fillAlpha = Math.min(0.60, 0.30 + (Math.log10(count + 1) * 0.12));
-
+                // TALHÃO COM COLETA DE DADOS: mantém fundo translúcido limpo, apenas borda esmeralda sutil
                 return {
-                    color: '#047857',       // Verde esmeralda profundo nítido
-                    weight: zoom <= 11 ? 2.2 : 3.0,
-                    opacity: 1.0,
-                    fillColor: '#10b981',   // Esmeralda vibrante
-                    fillOpacity: fillAlpha,
+                    color: '#10b981',       // Verde esmeralda fino e nítido
+                    weight: zoom <= 11 ? 1.8 : 2.4,
+                    opacity: 0.95,
+                    fillColor: '#ffffff',   // Branco translúcido limpo
+                    fillOpacity: 0.22,
                     dashArray: null
                 };
             } else {
-                // TALHÃO CADASTRAL DA USINA PITANGUEIRAS (Toda a malha visível e elegante)
-                let weight = zoom <= 10 ? intensity.baseWeight : (zoom <= 13 ? intensity.baseWeight + 0.35 : intensity.baseWeight + 0.75);
-
+                // TALHÃO CADASTRAL PADRÃO: Branco quase transparente sobre o satélite
+                let weight = zoom <= 11 ? 1.0 : (zoom <= 14 ? 1.3 : 1.6);
                 return {
-                    color: currentTheme.color || '#059669',
+                    color: currentTheme.color || 'rgba(255, 255, 255, 0.75)',
                     weight: weight,
-                    opacity: intensity.borderOpacity,
-                    fillColor: currentTheme.fillColor || '#10b981',
-                    fillOpacity: intensity.fillOpacity,
+                    opacity: 0.75,
+                    fillColor: currentTheme.fillColor || '#ffffff',
+                    fillOpacity: 0.16,      // Branco quase transparente
                     dashArray: null
                 };
             }
@@ -484,11 +479,39 @@
         },
 
         async loadShapesData() {
+            // 1. Checagem imediata em memória global (Script pitangueiras_shapes_data.js)
+            if (window.PITANGUEIRAS_SHAPES_DATA) {
+                this.geojsonData = window.PITANGUEIRAS_SHAPES_DATA;
+                window[CONFIG.cacheKey] = this.geojsonData;
+                console.info(`[MapShapes] ${this.geojsonData.features.length} talhões carregados via dados embarcados locais (Zero CORS).`);
+                return this.geojsonData;
+            }
+
             if (window[CONFIG.cacheKey]) {
                 this.geojsonData = window[CONFIG.cacheKey];
                 return this.geojsonData;
             }
 
+            // 2. Tentar injeção dinâmica síncrona do script JS local
+            if (typeof document !== 'undefined') {
+                try {
+                    await new Promise((resolve) => {
+                        const s = document.createElement('script');
+                        s.src = '../Maps/pitangueiras_shapes_data.js';
+                        s.onload = () => resolve();
+                        s.onerror = () => resolve();
+                        document.head.appendChild(s);
+                    });
+                    if (window.PITANGUEIRAS_SHAPES_DATA) {
+                        this.geojsonData = window.PITANGUEIRAS_SHAPES_DATA;
+                        window[CONFIG.cacheKey] = this.geojsonData;
+                        console.info(`[MapShapes] Injetado pitangueiras_shapes_data.js (${this.geojsonData.features.length} talhões).`);
+                        return this.geojsonData;
+                    }
+                } catch (e) {}
+            }
+
+            // 3. Fallback via fetch se estiver sob servidor HTTP
             if (this.isLoading) {
                 while (this.isLoading) {
                     await new Promise(r => setTimeout(r, 80));
@@ -498,14 +521,7 @@
 
             this.isLoading = true;
             try {
-                const manifest = await this.fetchManifest();
-                const version = manifest && manifest.last_updated ? encodeURIComponent(manifest.last_updated) : Date.now();
-
-                const urls = [
-                    `${CONFIG.shapesUrl}?v=${version}`,
-                    `${CONFIG.apiShapesUrl}?v=${version}`
-                ];
-
+                const urls = [CONFIG.shapesUrl, CONFIG.apiShapesUrl];
                 for (const u of urls) {
                     try {
                         const resp = await fetch(u);
@@ -514,14 +530,14 @@
                             if (data && data.features && data.features.length > 0) {
                                 this.geojsonData = data;
                                 window[CONFIG.cacheKey] = data;
-                                console.info(`[MapShapes] Carregados ${data.features.length} talhões otimizados (Douglas-Peucker 60 FPS).`);
+                                console.info(`[MapShapes] Carregados ${data.features.length} talhões via fetch.`);
                                 return this.geojsonData;
                             }
                         }
                     } catch (err) {}
                 }
             } catch (err) {
-                console.error('[MapShapes] Falha ao carregar shapes de talhões:', err);
+                console.warn('[MapShapes] Falha ao carregar shapes via fetch:', err);
             } finally {
                 this.isLoading = false;
             }
@@ -894,24 +910,14 @@
                             const auditInfo = self.highlightAudited && auditedMap ? auditedMap.get(currentIndex) : null;
                             const isAudited = Boolean(auditInfo && auditInfo.count > 0);
 
-                            // Estilo de realce diferenciado no hover
-                            if (isAudited) {
-                                l.setStyle({
-                                    color: '#f59e0b',
-                                    weight: 2.8,
-                                    opacity: 1.0,
-                                    fillColor: '#f59e0b',
-                                    fillOpacity: 0.35
-                                });
-                            } else {
-                                l.setStyle({
-                                    color: '#38bdf8',
-                                    weight: 1.8,
-                                    opacity: 0.85,
-                                    fillColor: '#38bdf8',
-                                    fillOpacity: 0.10
-                                });
-                            }
+                            // Borda escura destacada no hover (conforme solicitado pelo usuário)
+                            l.setStyle({
+                                color: '#0f172a',       // Borda escura nítida
+                                weight: 3.2,
+                                opacity: 1.0,
+                                fillColor: '#ffffff',
+                                fillOpacity: 0.35       // Levemente mais visível
+                            });
 
                             const areaVal = Number(props.area || 0).toFixed(2);
                             const nomeFaz = props.nome_faz || ('Fazenda ' + (props.fazenda || ''));
@@ -948,21 +954,33 @@
                                 `;
                             }
 
+                            const fazCompleta = (props.fazenda ? props.fazenda + ' - ' : '') + nomeFaz;
                             const tooltipHtml = `
-                                <div style="font-family: Inter, system-ui, sans-serif; font-size: 11px; line-height: 1.4; color: #1e293b; padding: 5px 8px;">
-                                    <div style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 4px; border-bottom: 1px solid #e2e8f0; padding-bottom: 3px;">
-                                        <span style="font-weight: 800; font-size: 12px; color: ${isAudited ? '#047857' : '#334155'};">
-                                            🌱 ${nomeFaz}
-                                        </span>
+                                <div style="font-family: 'Plus Jakarta Sans', system-ui, sans-serif; min-width: 220px; padding: 9px 12px; background: #ffffff; color: #0f172a; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.25); border: 1px solid #cbd5e1;">
+                                    <div style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px; padding-bottom: 5px; border-bottom: 1px solid #e2e8f0;">
+                                        <div style="font-weight: 800; font-size: 12px; color: #0f172a; display: flex; align-items: center; gap: 5px;">
+                                            <span>🌱</span>
+                                            <span>Informações do Talhão</span>
+                                        </div>
                                         ${auditBadgeHtml}
                                     </div>
-                                    <div style="display: flex; justify-content: space-between; gap: 12px;">
-                                        <span>Cód. Faz: <b>${props.fazenda || '-'}</b></span>
-                                        <span>Talhão: <b>${props.talhao || '-'}</b></span>
+                                    <div style="margin-bottom: 4px;">
+                                        <span style="font-size: 9.5px; font-weight: 700; color: #64748b; text-transform: uppercase;">Fazenda</span>
+                                        <div style="font-size: 11px; font-weight: 800; color: #0f172a; line-height: 1.2;">${fazCompleta}</div>
                                     </div>
-                                    <div style="display: flex; justify-content: space-between; gap: 12px; margin-top: 2px;">
-                                        <span>Área: <b>${areaVal} ha</b></span>
-                                        <span>Zona: <b>${props.zona || 1}</b></span>
+                                    <div style="display: flex; gap: 12px; margin-bottom: 4px; margin-top: 5px;">
+                                        <div>
+                                            <span style="font-size: 9.5px; font-weight: 700; color: #64748b; text-transform: uppercase;">Zona</span>
+                                            <div style="font-size: 11.5px; font-weight: 800; color: #0f172a;">${props.zona || 1}</div>
+                                        </div>
+                                        <div>
+                                            <span style="font-size: 9.5px; font-weight: 700; color: #64748b; text-transform: uppercase;">Talhão</span>
+                                            <div style="font-size: 11.5px; font-weight: 800; color: #0f172a;">${props.talhao || '-'}</div>
+                                        </div>
+                                        <div>
+                                            <span style="font-size: 9.5px; font-weight: 700; color: #64748b; text-transform: uppercase;">Área Total</span>
+                                            <div style="font-size: 11.5px; font-weight: 800; color: #0f172a;">${areaVal} ha</div>
+                                        </div>
                                     </div>
                                     ${extraDetailsHtml}
                                 </div>

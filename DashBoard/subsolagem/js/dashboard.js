@@ -1471,12 +1471,34 @@
         const mapContainer = document.getElementById('mapContainer');
         if (!mapContainer || typeof L === 'undefined') return;
 
-        state.map = L.map('mapContainer').setView([-21.05, -48.33], 10);
+        // Camadas de Satélite de Alta Resolução e Vetoriais
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
+        });
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors',
-            maxZoom: 18
-        }).addTo(state.map);
+            maxZoom: 19
+        });
+
+        state.map = L.map('mapContainer', {
+            center: [-21.05, -48.33],
+            zoom: 11,
+            layers: [sateliteGoogle] // Satélite é o padrão!
+        });
+
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markerCluster = L.markerClusterGroup ? L.markerClusterGroup() : L.layerGroup();
         state.map.addLayer(state.markerCluster);
@@ -1838,11 +1860,11 @@
                 const range = btn.getAttribute('data-evo-range') || '7D';
                 state.evolutionRange = range;
                 buttons.forEach(b => {
-                    b.classList.remove('active', 'bg-emerald-600', 'shadow-xs');
-                    b.classList.add('hover:text-emerald-400');
+                    b.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                    b.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
                 });
-                btn.classList.add('active', 'bg-emerald-600', 'shadow-xs');
-                btn.classList.remove('hover:text-emerald-400');
+                btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
                 if (!state.syncWithGlobalFilter && syncText) {
                     syncText.innerText = `Filtro Local (${range})`;
                 }
