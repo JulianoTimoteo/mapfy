@@ -242,7 +242,7 @@
                     <i class="fa-solid fa-layer-group mr-1"></i> Safra 2026
                 </span>
                 <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
-                    <i class="fa-solid fa-database mr-1"></i> 389 Medições de Canteiro
+                    <i class="fa-solid fa-database mr-1"></i> 403 Medições de Canteiro
                 </span>
 
                 <!-- Alternador de Tema Claro / Escuro -->
@@ -309,30 +309,31 @@
                 <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
                 <div class="flex items-center gap-2">
                     <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
-                    <div class="period-segmented-group shadow-sm">
-                        <!-- Safra Completa -->
-                        <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
-                                title="Exibir todo o histórico da safra">
-                            <span>🌐</span>
-                            <span>Safra Completa</span>
-                            <span class="period-badge" id="badgeAll">0</span>
-                        </button>
+                    <div class="flex items-center gap-2 flex-wrap">
+                        <div class="period-segmented-group shadow-sm">
+                            <!-- Safra Completa -->
+                            <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
+                                    title="Exibir todo o histórico da safra">
+                                <span>🌐</span>
+                                <span>Safra Completa</span>
+                                <span class="period-badge" id="badgeAll">403</span>
+                            </button>
 
-                        <!-- Última Data -->
-                        <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
-                                title="Filtrar pela última data com medições registradas na base">
-                            <span>📅</span>
-                            <span>Última Data</span>
-                            
-                        </button>
+                            <!-- Última Data -->
+                            <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
+                                    title="Filtrar pela última data com medições registradas na base">
+                                <span>📅</span>
+                                <span>Última Data</span>
+                            </button>
+                        </div>
 
-                        <!-- Hoje -->
-                        <button id="btnToday" type="button" class="period-toggle-btn" data-period="today"
-                                title="Filtrar medições realizadas hoje">
-                            <span>📆</span>
-                            <span>Hoje</span>
-                            <span class="period-badge" id="badgeToday">0</span>
-                        </button>
+                        <!-- Dropdown Dinâmico: Apenas Datas com Relatórios Reais -->
+                        <div class="flex items-center gap-1.5 bg-slate-100 dark:bg-slate-800/90 border border-slate-300 dark:border-slate-700 px-2.5 py-1 rounded-xl shadow-xs">
+                            <span class="text-[11px] text-slate-600 dark:text-slate-300">📅</span>
+                            <select id="filterDateSelect" class="bg-transparent text-[11px] font-bold text-slate-800 dark:text-white focus:outline-none cursor-pointer">
+                                <option value="ALL">Todas as Datas com Dados</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -581,10 +582,19 @@
                                 Médias diárias registradas com as linhas de referência de Meta Mínima e Meta Máxima
                             </p>
                         </div>
-                        <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-sm" style="background: var(--bg-kpi); border-color: var(--border-color);">
-                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-sm" data-evo-range="ALL" title="Exibir todo o histórico de dias">Todos</button>
-                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
-                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="7D" title="Últimos 7 dias com medições">7D</button>
+                        <div class="flex items-center gap-2 flex-wrap">
+                            <!-- Botão Filtro Local vs Global -->
+                            <button type="button" id="btnToggleSyncFilter" class="px-2.5 py-1 rounded-lg text-[11px] font-bold transition-all flex items-center gap-1.5 text-slate-800 dark:text-white bg-slate-100 dark:bg-slate-800/80 border border-slate-300 dark:border-slate-700 hover:border-emerald-500" title="Alternar entre filtro local da evolução ou filtro global">
+                                <span id="syncIcon">🔓</span>
+                                <span id="syncText">Filtro Local (7D)</span>
+                            </button>
+
+                            <!-- Botões de Período Local: Todos, 15D, 7D (Padrão 7D) -->
+                            <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                                <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500" data-evo-range="ALL" title="Exibir todo o histórico da safra">Todos</button>
+                                <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
+                                <button type="button" class="btn-evo-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs" data-evo-range="7D" title="Últimos 7 dias com medições (Padrão)">7D</button>
+                            </div>
                         </div>
                         <div class="flex items-center gap-2 text-xs font-mono">
                             <span class="flex items-center gap-1.5 text-amber-500"><span class="w-3 h-0.5 bg-amber-500"></span> Min</span>
@@ -616,16 +626,56 @@
                         <span class="text-xs text-[var(--text-muted)] font-mono font-semibold" id="donutScopeBadge">% da safra</span>
                     </div>
 
-                    <!-- Canvas da Rosca com Percentual e Total Central em Destaque (SEMPRE NA META) -->
-                    <div class="relative aspect-square w-full max-w-[210px] mx-auto py-2">
+                    <!-- Canvas da Rosca com Percentual Central em Destaque (Expandido e Centralizado) -->
+                    <div class="relative aspect-square w-full max-w-[280px] sm:max-w-[310px] mx-auto my-2">
                         <canvas id="chartDonut"></canvas>
-                        <div id="donutCenterOverlay" class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
-                            <span class="text-2xl sm:text-3xl font-extrabold font-mono text-emerald-500 leading-none" id="donutCenterPerc">0%</span>
-                            <span class="text-[10px] font-bold uppercase tracking-wider text-[var(--text-secondary)] mt-1">Na Meta</span>
-                            <span class="text-[9px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold" id="donutCenterCount">0 de 0</span>
+                        <div id="donutCenterOverlay" class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center pointer-events-none text-center">
+                            <span class="text-3xl sm:text-4xl font-black font-mono text-emerald-500 dark:text-emerald-400 leading-none" id="donutCenterPerc">80,1%</span>
+                            <span class="text-[11px] font-extrabold uppercase tracking-wider text-slate-800 dark:text-white mt-1">Na Meta</span>
+                            <span class="text-[10px] font-mono text-slate-700 dark:text-white font-bold" id="donutCenterCount">323 de 403</span>
                         </div>
                     </div>
                 </div>
+
+                <!-- Legenda Horizontal Lado a Lado com Cores e Valores (Zero Cinza, Legibilidade Máxima) -->
+                <div class="mt-4 pt-3 border-t grid grid-cols-3 gap-2 text-center" style="border-color: var(--border-color);" id="donutDataContainer">
+                    <!-- 1. Dentro da Faixa -->
+                    <div class="p-2 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex flex-col items-center justify-center">
+                        <div class="flex items-center gap-1.5 text-[11px] font-bold text-emerald-600 dark:text-emerald-400">
+                            <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 shrink-0"></span>
+                            <span>Dentro</span>
+                        </div>
+                        <span class="text-[9px] text-slate-600 dark:text-slate-300 font-mono mt-0.5">(45 a 55 cm)</span>
+                        <span class="font-mono font-black text-xs sm:text-sm text-slate-900 dark:text-white mt-1" id="donutValDentro">323 (80,1%)</span>
+                    </div>
+
+                    <!-- 2. Abaixo da Faixa -->
+                    <div class="p-2 rounded-xl bg-amber-500/10 border border-amber-500/30 flex flex-col items-center justify-center">
+                        <div class="flex items-center gap-1.5 text-[11px] font-bold text-amber-600 dark:text-amber-400">
+                            <span class="w-2.5 h-2.5 rounded-full bg-amber-500 shrink-0"></span>
+                            <span>Abaixo</span>
+                        </div>
+                        <span class="text-[9px] text-slate-600 dark:text-slate-300 font-mono mt-0.5">(&lt; 45 cm)</span>
+                        <span class="font-mono font-black text-xs sm:text-sm text-slate-900 dark:text-white mt-1" id="donutValAbaixo">63 (15,6%)</span>
+                    </div>
+
+                    <!-- 3. Acima da Faixa -->
+                    <div class="p-2 rounded-xl bg-purple-500/10 border border-purple-500/30 flex flex-col items-center justify-center">
+                        <div class="flex items-center gap-1.5 text-[11px] font-bold text-purple-600 dark:text-purple-400">
+                            <span class="w-2.5 h-2.5 rounded-full bg-purple-500 shrink-0"></span>
+                            <span>Acima</span>
+                        </div>
+                        <span class="text-[9px] text-slate-600 dark:text-slate-300 font-mono mt-0.5">(&gt; 55 cm)</span>
+                        <span class="font-mono font-black text-xs sm:text-sm text-slate-900 dark:text-white mt-1" id="donutValAcima">17 (4,2%)</span>
+                    </div>
+                </div>
+
+                <!-- Total Denominador -->
+                <div class="mt-3 pt-2 flex items-center justify-between text-xs font-mono border-t" style="border-color: var(--border-color);">
+                    <span class="text-slate-800 dark:text-white font-bold">Total de Medições:</span>
+                    <span id="donutValTotal" class="font-extrabold text-emerald-600 dark:text-emerald-400 text-sm">403 avaliadas</span>
+                </div>
+            </div>
 
                 <!-- Detalhamento Numérico Explícito e Barras de Progresso (VALORES E % DE CADA FATIA) -->
                 <div class="mt-3 pt-3 border-t space-y-2.5 text-xs" style="border-color: var(--border-color);" id="donutDataContainer">

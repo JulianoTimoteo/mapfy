@@ -150,7 +150,8 @@
         filteredRecords: [],
         targetConfig: null,
         activePeriod: 'all',
-        evolutionRange: 'ALL', // 'all', 'latest', 'today'
+        evolutionRange: '7D',
+        syncWithGlobalFilter: false, // 'all', 'latest', 'today'
         latestDateStr: '',
         todayDateStr: '',
         filters: {
@@ -256,7 +257,9 @@
         if (validDates.length > 0) {
             state.latestDateStr = validDates[0].str;
             const badgeLatest = document.getElementById('badgeLatest');
-            if (badgeLatest) /* badgeLatest removido conforme diretriz */
+            if (badgeLatest) {
+                badgeLatest.innerText = validDates.filter(v => v.str === state.latestDateStr).length;
+            }
         }
 
         const now = new Date();
@@ -368,25 +371,60 @@
         sel.value = currentVal;
     }
 
-    // 4. Seletor Temporal Segmentado
+    // 4. Seletor Temporal Segmentado com Dropdown Inteligente de Datas Reais
     function initPeriodSelector() {
         const btnAll = document.getElementById('btnAllDates');
         const btnLatest = document.getElementById('btnLatestDate');
-        const btnToday = document.getElementById('btnToday');
+        const dateSelect = document.getElementById('filterDateSelect');
 
-        function setPeriod(period) {
+        function setPeriod(period, customDate = null) {
             state.activePeriod = period;
-            [btnAll, btnLatest, btnToday].forEach(b => b && b.classList.remove('active'));
-            if (period === 'all' && btnAll) btnAll.classList.add('active');
-            if (period === 'latest' && btnLatest) btnLatest.classList.add('active');
-            if (period === 'today' && btnToday) btnToday.classList.add('active');
+            state.selectedCustomDate = customDate;
+            [btnAll, btnLatest].forEach(b => b && b.classList.remove('active'));
+
+            if (period === 'all' && btnAll) {
+                btnAll.classList.add('active');
+                if (dateSelect) dateSelect.value = 'ALL';
+            }
+            if (period === 'latest' && btnLatest) {
+                btnLatest.classList.add('active');
+                if (dateSelect && state.latestDateStr) dateSelect.value = state.latestDateStr;
+            }
+            if (period === 'custom_date' && dateSelect && customDate) {
+                dateSelect.value = customDate;
+            }
+
             state.pagination.currentPage = 1;
             applyFiltersAndRender();
         }
 
         if (btnAll) btnAll.addEventListener('click', () => setPeriod('all'));
         if (btnLatest) btnLatest.addEventListener('click', () => setPeriod('latest'));
-        if (btnToday) btnToday.addEventListener('click', () => setPeriod('today'));
+
+        if (dateSelect) {
+            dateSelect.innerHTML = '<option value="ALL">Todas as Datas com Dados</option>';
+            const uniqueDates = [...new Set(state.normalizedRecords.map(r => r.dataBR).filter(Boolean))];
+            uniqueDates.sort((a, b) => {
+                const partsA = a.split('/').map(Number);
+                const partsB = b.split('/').map(Number);
+                return new Date(partsB[2], partsB[1] - 1, partsB[0]).getTime() - new Date(partsA[2], partsA[1] - 1, partsA[0]).getTime();
+            });
+            uniqueDates.forEach(d => {
+                const count = state.normalizedRecords.filter(r => r.dataBR === d).length;
+                const opt = document.createElement('option');
+                opt.value = d;
+                opt.innerText = `${d} (${count} medições)`;
+                dateSelect.appendChild(opt);
+            });
+            dateSelect.addEventListener('change', () => {
+                const val = dateSelect.value;
+                if (val === 'ALL') {
+                    setPeriod('all');
+                } else {
+                    setPeriod('custom_date', val);
+                }
+            });
+        }
     }
 
     // 5. Aplicação dos Filtros
@@ -396,6 +434,8 @@
         // Filtro Temporal
         if (state.activePeriod === 'latest' && state.latestDateStr) {
             list = list.filter(r => r.dataBR === state.latestDateStr);
+        } else if (state.activePeriod === 'custom_date' && state.selectedCustomDate) {
+            list = list.filter(r => r.dataBR === state.selectedCustomDate);
         } else if (state.activePeriod === 'today') {
             list = list.filter(r => r.dataBR === state.todayDateStr);
         }
@@ -498,17 +538,21 @@
         const textColor = isDark ? '#94a3b8' : '#475569';
         const gridColor = isDark ? '#2e3238' : '#e2e8f0';
 
-        // 1. Donut: Distribuição de Conformidade
+        // 1. Donut: Distribuição de Conformidade com Datalabels dentro das fatias
         const ctxDonut = document.getElementById('chartDonut');
         if (ctxDonut) {
+            const donutPlugins = (typeof ChartDataLabels !== 'undefined') ? [ChartDataLabels] : [];
             state.charts.donut = new Chart(ctxDonut, {
                 type: 'doughnut',
+                plugins: donutPlugins,
                 data: {
                     labels: ['Dentro da Meta', 'Abaixo da Meta', 'Acima da Meta'],
                     datasets: [{
                         data: [0, 0, 0],
                         backgroundColor: ['#10b981', '#f59e0b', '#a855f7'],
-                        borderWidth: 0
+                        borderWidth: 2,
+                        borderColor: isDark ? '#1c1e22' : '#ffffff',
+                        hoverOffset: 6
                     }]
                 },
                 options: {
@@ -525,9 +569,25 @@
                                     return ` ${ctx.label}: ${val} medições (${perc}%)`;
                                 }
                             }
+                        },
+                        datalabels: {
+                            display: true,
+                            color: '#ffffff',
+                            font: {
+                                family: 'Plus Jakarta Sans',
+                                weight: 'bold',
+                                size: 14
+                            },
+                            formatter: function(value, ctx) {
+                                if (!value || value <= 0) return '';
+                                const total = ctx.dataset.data.reduce((a, b) => a + b, 0);
+                                const pct = total > 0 ? ((value / total) * 100).toFixed(0) : 0;
+                                return `${value}\n(${pct}%)`;
+                            },
+                            textAlign: 'center'
                         }
                     },
-                    cutout: '72%'
+                    cutout: '66%'
                 }
             });
         }
@@ -682,6 +742,8 @@
         const barAcima = document.getElementById('donutBarAcima');
         if (barAcima) barAcima.style.width = `${m.percAcima}%`;
 
+        setElText('donutValTotal', `${m.totalMedicoes} avaliadas`);
+
                 // 2. Evolução Temporal com Filtro Rápido (Todos, 15D, 7D)
         if (state.charts.evolution) {
             let labels = timeSeries.labels;
@@ -721,17 +783,35 @@
     // 8. Mapa Geográfico Leaflet
     function initMap() {
         const mapContainer = document.getElementById('mapSubsolagem');
-        if (!mapContainer) return;
+        if (!mapContainer || typeof L === 'undefined') return;
 
-        state.map = L.map('mapSubsolagem', {
-            center: [-20.85, -48.55],
-            zoom: 11
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
         });
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap | Usina Pitangueiras 2026',
-            maxZoom: 18
-        }).addTo(state.map);
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        });
+
+        state.map = L.map('mapContainer' in window ? 'mapContainer' : 'mapSubsolagem', {
+            center: [-20.85, -48.55],
+            zoom: 11,
+            layers: [sateliteGoogle] // Satélite é o padrão!
+        });
+
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markersLayer = L.layerGroup().addTo(state.map);
     }
@@ -1001,19 +1081,44 @@
 
     // Recurso Oculto: Ctrl + Double Click nos gráficos para calibrar metas
     
-    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D)
+    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D) com Toggle Local/Global
     function initEvolutionFilter() {
         const buttons = document.querySelectorAll('.btn-evo-filter');
+        const btnToggle = document.getElementById('btnToggleSyncFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+
+        if (btnToggle) {
+            btnToggle.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                if (state.syncWithGlobalFilter) {
+                    if (syncIcon) syncIcon.innerText = '🔒';
+                    if (syncText) syncText.innerText = 'Filtro Global Ativo';
+                    btnToggle.classList.add('bg-emerald-500/15', 'border-emerald-500/40', 'text-emerald-600', 'dark:text-emerald-400');
+                    btnToggle.classList.remove('bg-slate-100', 'dark:bg-slate-800/80', 'border-slate-300', 'dark:border-slate-700');
+                } else {
+                    if (syncIcon) syncIcon.innerText = '🔓';
+                    if (syncText) syncText.innerText = `Filtro Local (${state.evolutionRange || '7D'})`;
+                    btnToggle.classList.remove('bg-emerald-500/15', 'border-emerald-500/40', 'text-emerald-600', 'dark:text-emerald-400');
+                    btnToggle.classList.add('bg-slate-100', 'dark:bg-slate-800/80', 'border-slate-300', 'dark:border-slate-700');
+                }
+                updateChartsAndVisuals();
+            });
+        }
+
         buttons.forEach(btn => {
             btn.addEventListener('click', () => {
-                const range = btn.getAttribute('data-evo-range') || 'ALL';
+                const range = btn.getAttribute('data-evo-range') || '7D';
                 state.evolutionRange = range;
                 buttons.forEach(b => {
-                    b.classList.remove('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                    b.classList.add('text-[var(--text-secondary)]');
+                    b.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                    b.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
                 });
-                btn.classList.add('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                btn.classList.remove('text-[var(--text-secondary)]');
+                btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                if (!state.syncWithGlobalFilter && syncText) {
+                    syncText.innerText = `Filtro Local (${range})`;
+                }
                 updateChartsAndVisuals();
             });
         });
