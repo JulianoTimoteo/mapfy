@@ -7,6 +7,9 @@
 (function () {
     'use strict';
 
+    const HerbicidaEngine = window.HerbicidaEngine || {};
+    const OpenMeteoService = window.OpenMeteoService || {};
+
     const state = {
         allRecords: (window.HerbicidaEngine && typeof window.HerbicidaEngine.normalizeRecord === 'function')
             ? (window.HERBICIDA_DATA || []).map(r => window.HerbicidaEngine.normalizeRecord(r))
@@ -54,7 +57,9 @@
         }
         state.filteredRecords = [...state.allRecords];
         if (window.OpenMeteoService) {
-            state.weatherSyncMap = window.OpenMeteoService.syncRecords(state.allRecords);
+            state.weatherSyncMap = (typeof window.OpenMeteoService.syncRecordsSync === 'function')
+                ? window.OpenMeteoService.syncRecordsSync(state.allRecords)
+                : new Map();
             state.auditStats = window.OpenMeteoService.auditDataset(state.allRecords, state.weatherSyncMap);
         }
         initTheme();
@@ -796,11 +801,21 @@
         if (state.charts.auditComparison) {
             const sampleRecords = records.slice(0, 15);
             state.charts.auditComparison.data.labels = sampleRecords.map(r => `#${r.id} ${r.fazenda.substring(0, 8)}`);
-            state.charts.auditComparison.data.datasets[0].data = sampleRecords.map(r => r.delta_t_num !== null ? r.delta_t_num : 0);
-            state.charts.auditComparison.data.datasets[1].data = sampleRecords.map(r => {
-                const api = state.weatherSyncMap ? state.weatherSyncMap.get(r.id) : null;
+            const fieldData = sampleRecords.map(r => r.delta_t_num !== null ? r.delta_t_num : 0);
+            const era5Data = sampleRecords.map(r => {
+                const api = (state.weatherSyncMap && typeof state.weatherSyncMap.get === 'function')
+                    ? state.weatherSyncMap.get(r.id) : null;
                 return (api && api.deltaT !== null) ? api.deltaT : 0;
             });
+            if (!state.charts.auditComparison.data.datasets || state.charts.auditComparison.data.datasets.length < 2) {
+                state.charts.auditComparison.data.datasets = [
+                    { label: 'Delta T Campo (°C)', data: fieldData, backgroundColor: '#10B981', borderRadius: 4 },
+                    { label: 'Delta T ERA5 (°C)', data: era5Data, backgroundColor: '#0284C7', borderRadius: 4 }
+                ];
+            } else {
+                state.charts.auditComparison.data.datasets[0].data = fieldData;
+                state.charts.auditComparison.data.datasets[1].data = era5Data;
+            }
             state.charts.auditComparison.update();
         }
 
@@ -810,6 +825,9 @@
                 ? window.OpenMeteoService.auditDataset(records, state.weatherSyncMap)
                 : state.auditStats;
             if (localAudit) {
+                if (!state.charts.auditDistribution.data.datasets || state.charts.auditDistribution.data.datasets.length === 0) {
+                    state.charts.auditDistribution.data.datasets = [{ data: [0,0,0,0], backgroundColor: ['#10B981', '#F59E0B', '#EF4444', '#3B82F6'], borderWidth: 0 }];
+                }
                 state.charts.auditDistribution.data.datasets[0].data = [
                     localAudit.compativeis || 0,
                     localAudit.divModerada || 0,
@@ -823,6 +841,9 @@
         // 3. Delta T Donut
         if (state.charts.deltaT) {
             const dtC = weather.deltaT.classes;
+            if (!state.charts.deltaT.data.datasets || state.charts.deltaT.data.datasets.length === 0) {
+                state.charts.deltaT.data.datasets = [{ data: [0,0,0,0] }];
+            }
             state.charts.deltaT.data.datasets[0].data = [
                 dtC['Ideal (2-8°C)'] || 0,
                 dtC['Atenção (8-10°C)'] || 0,
@@ -834,6 +855,12 @@
 
         // 4. Limpeza
         if (state.charts.limpeza) {
+            if (!state.charts.limpeza.data.datasets || state.charts.limpeza.data.datasets.length < 2) {
+                state.charts.limpeza.data.datasets = [
+                    { label: 'Conforme (OK)', data: [0,0], backgroundColor: '#10B981' },
+                    { label: 'Irregular (NOK)', data: [0,0], backgroundColor: '#EF4444' }
+                ];
+            }
             state.charts.limpeza.data.datasets[0].data = [equipCondition.filtros.ok, equipCondition.bicos.ok];
             state.charts.limpeza.data.datasets[1].data = [equipCondition.filtros.nok, equipCondition.bicos.nok];
             state.charts.limpeza.update();
@@ -845,6 +872,9 @@
             const v150 = equipCondition.vazoes['150 L/ha'] || 0;
             const v300 = equipCondition.vazoes['300 L/ha'] || 0;
             const vOutros = equipCondition.vazoes['Não Informado'] || 0;
+            if (!state.charts.vazao.data.datasets || state.charts.vazao.data.datasets.length === 0) {
+                state.charts.vazao.data.datasets = [{ data: [0,0,0,0] }];
+            }
             state.charts.vazao.data.datasets[0].data = [v200, v150, v300, vOutros];
             state.charts.vazao.update();
         }
@@ -852,6 +882,9 @@
         // 6. Operações
         if (state.charts.operacoes) {
             state.charts.operacoes.data.labels = operations.map(o => o.nome.substring(0, 22) + (o.nome.length > 22 ? '...' : ''));
+            if (!state.charts.operacoes.data.datasets || state.charts.operacoes.data.datasets.length === 0) {
+                state.charts.operacoes.data.datasets = [{ data: [] }];
+            }
             state.charts.operacoes.data.datasets[0].data = operations.map(o => o.total);
             state.charts.operacoes.update();
         }
@@ -859,16 +892,28 @@
         // 7. Planta ou Soca
         if (state.charts.plantaSoca) {
             state.charts.plantaSoca.data.labels = plantSoca.map(p => p.tipo);
+            if (!state.charts.plantaSoca.data.datasets || state.charts.plantaSoca.data.datasets.length === 0) {
+                state.charts.plantaSoca.data.datasets = [{ data: [] }];
+            }
             state.charts.plantaSoca.data.datasets[0].data = plantSoca.map(p => p.total);
             state.charts.plantaSoca.update();
         }
 
         // 8. Timeline
         if (state.charts.timeline) {
-            const timelineData = HerbicidaEngine.computeTemporalData(records, state.timelineMode);
+            const timelineData = (typeof HerbicidaEngine.computeTemporalData === 'function')
+                ? HerbicidaEngine.computeTemporalData(records, state.timelineMode)
+                : [];
             state.charts.timeline.data.labels = timelineData.map(t => t.label);
-            state.charts.timeline.data.datasets[0].data = timelineData.map(t => t.total);
-            state.charts.timeline.data.datasets[1].data = timelineData.map(t => t.ocorrencias);
+            if (!state.charts.timeline.data.datasets || state.charts.timeline.data.datasets.length < 2) {
+                state.charts.timeline.data.datasets = [
+                    { label: 'Total Inspeções', data: timelineData.map(t => t.total), backgroundColor: '#10B981', borderRadius: 4 },
+                    { label: 'Ocorrências / Riscos', data: timelineData.map(t => t.ocorrencias), backgroundColor: '#EF4444', borderRadius: 4 }
+                ];
+            } else {
+                state.charts.timeline.data.datasets[0].data = timelineData.map(t => t.total);
+                state.charts.timeline.data.datasets[1].data = timelineData.map(t => t.ocorrencias);
+            }
             state.charts.timeline.update();
         }
     }
@@ -953,6 +998,144 @@
                 </tr>
             `;
         }).join('');
+    }
+
+    // --- GRÁFICO DIURNO DO MODAL (06h às 18h) ---
+    let modalTimelineChartInstance = null;
+
+    function renderModalTimelineChart(r, apiData) {
+        const canvas = document.getElementById('chartModalTimeline');
+        if (!canvas) return;
+
+        if (modalTimelineChartInstance) {
+            modalTimelineChartInstance.destroy();
+            modalTimelineChartInstance = null;
+        }
+
+        // Recupera dados horários do cache ERA5
+        let hourly = null;
+        if (window.OpenMeteoService && r.lat && r.lon && r.data_iso) {
+            const cached = window.OpenMeteoService.getFromCache(r.lat, r.lon, r.data_iso);
+            if (cached && cached.hourly) {
+                hourly = cached.hourly;
+            }
+        }
+
+        if (!hourly || !hourly.time || hourly.time.length === 0) {
+            canvas.classList.add('hidden');
+            return;
+        }
+
+        // Filtra janela de aplicação das 06:00 às 18:00
+        const labels = [];
+        const dataTemp = [];
+        const dataUr = [];
+        const dataVento = [];
+        const dataDeltaT = [];
+
+        for (let i = 0; i < hourly.time.length; i++) {
+            const timeStr = hourly.time[i];
+            const hourPart = timeStr.includes('T') ? timeStr.split('T')[1].substring(0, 5) : timeStr;
+            const hourNum = parseInt(hourPart.split(':')[0], 10);
+            if (hourNum >= 6 && hourNum <= 18) {
+                labels.push(hourPart);
+                const t = hourly.temperature_2m ? hourly.temperature_2m[i] : 0;
+                const rh = hourly.relative_humidity_2m ? hourly.relative_humidity_2m[i] : 0;
+                const v = hourly.wind_speed_10m ? hourly.wind_speed_10m[i] : 0;
+                const dt = (window.HerbicidaEngine && typeof window.HerbicidaEngine.calculateDeltaT === 'function')
+                    ? window.HerbicidaEngine.calculateDeltaT(t, rh)
+                    : 0;
+
+                dataTemp.push(t);
+                dataUr.push(rh);
+                dataVento.push(v);
+                dataDeltaT.push(dt);
+            }
+        }
+
+        canvas.classList.remove('hidden');
+        const ctx = canvas.getContext('2d');
+        const isDark = document.documentElement.classList.contains('dark');
+        const textColor = isDark ? '#94A3B8' : '#64748B';
+        const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+
+        modalTimelineChartInstance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'Delta T (°C)',
+                        data: dataDeltaT,
+                        borderColor: '#10B981',
+                        backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                        borderWidth: 2.5,
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Temperatura (°C)',
+                        data: dataTemp,
+                        borderColor: '#EF4444',
+                        borderWidth: 1.5,
+                        borderDash: [4, 4],
+                        pointRadius: 2,
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Vento (km/h)',
+                        data: dataVento,
+                        borderColor: '#0284C7',
+                        borderWidth: 1.5,
+                        pointRadius: 2,
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Umidade Relativa (%)',
+                        data: dataUr,
+                        borderColor: '#8B5CF6',
+                        borderWidth: 1.5,
+                        borderDash: [2, 2],
+                        pointRadius: 2,
+                        tension: 0.3,
+                        yAxisID: 'y1'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: { mode: 'index', intersect: false },
+                scales: {
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: textColor, font: { size: 9 } }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: gridColor },
+                        ticks: { color: textColor, font: { size: 9 } },
+                        title: { display: true, text: '°C / km/h', color: textColor, font: { size: 9 } }
+                    },
+                    y1: {
+                        position: 'right',
+                        beginAtZero: true,
+                        max: 100,
+                        grid: { display: false },
+                        ticks: { color: textColor, font: { size: 9 } },
+                        title: { display: true, text: 'UR %', color: textColor, font: { size: 9 } }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { boxWidth: 8, font: { size: 9 }, color: textColor }
+                    }
+                }
+            }
+        });
     }
 
     // --- MODAL DE DETALHES ---

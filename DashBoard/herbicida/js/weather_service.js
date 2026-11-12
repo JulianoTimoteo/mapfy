@@ -401,7 +401,9 @@
             let sumDeltaTApi = 0, countDeltaTApi = 0;
             let sumDiffAbsDeltaT = 0, countDiffDeltaT = 0;
 
-            records.forEach(r => {
+            const isMapValid = weatherMap && typeof weatherMap.get === 'function';
+
+            (records || []).forEach(r => {
                 if (!r.has_coords) semCoords++;
                 if (r.has_weather) {
                     comTelemetria++;
@@ -413,7 +415,7 @@
                     semTelemetria++;
                 }
 
-                const apiData = weatherMap ? weatherMap.get(r.id) : null;
+                const apiData = isMapValid ? weatherMap.get(r.id) : null;
                 if (apiData) {
                     if (apiData.deltaT !== null) {
                         sumDeltaTApi += apiData.deltaT;
@@ -454,7 +456,28 @@
         },
 
         /**
-         * Sincroniza em lote a lista de inspeções
+         * Sincronização Síncrona Instantânea a partir do cache pré-carregado
+         */
+        syncRecordsSync: function (records) {
+            const results = new Map();
+            if (!Array.isArray(records)) return results;
+
+            for (const r of records) {
+                if (!r.lat || !r.lon || !r.data_iso) continue;
+                const cached = this.getFromCache(r.lat, r.lon, r.data_iso);
+                if (cached) {
+                    const hourStr = (r.data && r.data.includes(' ')) ? r.data.split(' ')[1] : '12:00';
+                    const apiData = this.extractHourData(cached, hourStr, r.lat, r.lon, r.data_iso, true);
+                    if (apiData) {
+                        results.set(r.id, apiData);
+                    }
+                }
+            }
+            return results;
+        },
+
+        /**
+         * Sincroniza em lote a lista de inspeções (Assíncrono com fallback online)
          */
         syncRecords: async function (records, onProgress) {
             const results = new Map();

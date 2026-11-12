@@ -937,6 +937,41 @@
                 min: durations[0],
                 max: durations[durations.length - 1]
             };
+        },
+
+        /**
+         * Agrupamento Temporal para Gráfico de Linha do Tempo (Dia ou Mês)
+         */
+        computeTemporalData: function (records, mode) {
+            const map = {};
+            (records || []).forEach(r => {
+                if (!r.data) return;
+                const part = r.data.split(' ')[0] || '';
+                const dmy = part.split('/');
+                if (dmy.length !== 3) return;
+
+                let key = '';
+                if (mode === 'mes') {
+                    key = `${dmy[1]}/${dmy[2]}`;
+                } else {
+                    key = part; // dd/mm/aaaa
+                }
+
+                if (!map[key]) {
+                    map[key] = {
+                        label: key,
+                        total: 0,
+                        ocorrencias: 0,
+                        sortKey: `${dmy[2]}${dmy[1]}${dmy[0]}`
+                    };
+                }
+                map[key].total++;
+                if (r.tem_ocorrencia || r.tem_nok) {
+                    map[key].ocorrencias++;
+                }
+            });
+
+            return Object.values(map).sort((a, b) => a.sortKey.localeCompare(b.sortKey));
         }
     };
 
