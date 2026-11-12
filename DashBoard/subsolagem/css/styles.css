@@ -48,9 +48,9 @@ html.dark {
     --bg-subtle: #24272d;
     --border-color: #2e3238;
     --border-subtle: #24272d;
-    --text-primary: #f8fafc;
-    --text-secondary: #94a3b8;
-    --text-muted: #64748b;
+    --text-primary: #ffffff;
+    --text-secondary: #f8fafc;
+    --text-muted: #e2e8f0;
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
     --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
     --shadow-lg: 0 12px 35px rgba(0, 0, 0, 0.6);

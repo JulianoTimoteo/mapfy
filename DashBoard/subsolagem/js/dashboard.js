@@ -149,7 +149,8 @@
         filteredRecords: [],
         targetConfig: null,
         periodScope: 'all', // 'all', 'latest', 'today', 'custom'
-        evolutionRange: 'ALL', // 'ALL', '15D', '7D'
+        evolutionRange: '7D',
+        syncWithGlobalFilter: false, // 'ALL', '15D', '7D'
         maxAvailableDateBR: '',
         maxAvailableDateISO: '',
         todayBR: '',
@@ -312,6 +313,27 @@
      * Popula dinamicamente os selects de filtros
      */
     function populateSelectOptions() {
+        const dateSelect = document.getElementById('filterDate');
+        if (dateSelect) {
+            dateSelect.innerHTML = '<option value="">Todas as Datas com Registros</option>';
+            const dateCounts = {};
+            state.allRecords.forEach(r => {
+                if (r.dataBR) {
+                    dateCounts[r.dataBR] = (dateCounts[r.dataBR] || 0) + 1;
+                }
+            });
+            const sortedDates = Object.keys(dateCounts).sort((a, b) => {
+                const [d1, m1, y1] = a.split('/').map(Number);
+                const [d2, m2, y2] = b.split('/').map(Number);
+                return new Date(y2, m2 - 1, d2).getTime() - new Date(y1, m1 - 1, d1).getTime();
+            });
+            sortedDates.forEach(d => {
+                const opt = document.createElement('option');
+                opt.value = d;
+                opt.innerText = `${d} (${dateCounts[d]} medições)`;
+                dateSelect.appendChild(opt);
+            });
+        }
         const frenteSelect = document.getElementById('filterFrente');
         const osSelect = document.getElementById('filterOS');
         const respSelect = document.getElementById('filterResponsavel');
@@ -370,13 +392,11 @@
 
         if (dateInput) {
             dateInput.addEventListener('change', (e) => {
-                if (e.target.value) {
-                    const [y, m, d] = e.target.value.split('-');
-                    state.activeFilters.date = `${d}/${m}/${y}`;
+                const val = e.target.value.trim();
+                if (val) {
+                    state.activeFilters.date = val;
                     if (state.activeFilters.date === state.maxAvailableDateBR) {
                         state.periodScope = 'latest';
-                    } else if (state.activeFilters.date === state.todayBR) {
-                        state.periodScope = 'today';
                     } else {
                         state.periodScope = 'custom';
                     }
@@ -451,11 +471,14 @@
     function updatePeriodToggleUI() {
         const btnAll = document.getElementById('btnAllDates');
         const btnLatest = document.getElementById('btnLatestDate');
-        const btnToday = document.getElementById('btnToday');
+        const badgeLatest = document.getElementById('badgeLatest');
 
         if (btnAll) btnAll.classList.toggle('active', state.periodScope === 'all');
         if (btnLatest) btnLatest.classList.toggle('active', state.periodScope === 'latest');
-        if (btnToday) btnToday.classList.toggle('active', state.periodScope === 'today');
+        if (badgeLatest && state.maxAvailableDateBR) {
+            const countLatest = state.allRecords.filter(r => r.dataBR === state.maxAvailableDateBR).length;
+            badgeLatest.innerText = `${state.maxAvailableDateBR} (${countLatest})`;
+        }
     }
 
     function setPeriodScope(scope) {
@@ -469,24 +492,7 @@
         } else if (scope === 'latest') {
             state.activeFilters.date = state.maxAvailableDateBR;
             state.isLatestDateMode = true;
-            if (dateInput) dateInput.value = state.maxAvailableDateISO;
-        } else if (scope === 'today') {
-            const hasToday = state.allRecords.some(r => r.dataBR === state.todayBR);
-            if (hasToday) {
-                state.activeFilters.date = state.todayBR;
-                state.isLatestDateMode = (state.todayBR === state.maxAvailableDateBR);
-                if (dateInput) {
-                    const now = new Date();
-                    const y = now.getFullYear();
-                    const m = String(now.getMonth() + 1).padStart(2, '0');
-                    const d = String(now.getDate()).padStart(2, '0');
-                    dateInput.value = `${y}-${m}-${d}`;
-                }
-            } else {
-                showToast(`Nenhuma medição registrada hoje (${state.todayBR}). Exibindo última data disponível (${state.maxAvailableDateBR}).`);
-                setPeriodScope('latest');
-                return;
-            }
+            if (dateInput) dateInput.value = state.maxAvailableDateBR;
         }
 
         updatePeriodToggleUI();
@@ -761,7 +767,16 @@
         const osList = SubsolagemEngine.buildOSAnalysis(state.filteredRecords, cfg);
         const respList = SubsolagemEngine.buildResponsavelAnalysis(state.filteredRecords);
         const histogram = SubsolagemEngine.buildHistogram(state.filteredRecords, 5);
-        const timeSeries = SubsolagemEngine.buildTimeSeries(state.filteredRecords, cfg);
+        // Se o vínculo com o topo estiver desativado, exibe histórico local completo sem restrição de data do topo
+        const timeSeriesRecords = state.syncWithGlobalFilter
+            ? state.filteredRecords
+            : state.allRecords.filter(r => {
+                if (state.activeFilters.frente !== 'ALL' && r.frente !== state.activeFilters.frente) return false;
+                if (state.activeFilters.os !== 'ALL' && r.os !== state.activeFilters.os) return false;
+                if (state.activeFilters.responsavel !== 'ALL' && r.responsavel !== state.activeFilters.responsavel) return false;
+                return true;
+            });
+        const timeSeries = SubsolagemEngine.buildTimeSeries(timeSeriesRecords, cfg);
 
         // Renderização dos Componentes
         renderHeaderContext(metrics);
@@ -905,26 +920,61 @@
         const textColor = isDark ? '#94a3b8' : '#475569';
         const gridColor = isDark ? '#2e3238' : '#e2e8f0';
 
-        // 1. Gráfico de Rosca: Distribuição de Conformidade Técnica
+        // Desativa datalabels globalmente para não poluir os outros gráficos
+        if (typeof ChartDataLabels !== 'undefined') {
+            Chart.defaults.set('plugins.datalabels', { display: false });
+        }
+
+        // 1. Gráfico de Rosca: Distribuição de Conformidade Técnica com Rótulos nas Fatias
         const ctxDonut = document.getElementById('chartDonut');
         if (ctxDonut) {
+            const donutPlugins = (typeof ChartDataLabels !== 'undefined') ? [ChartDataLabels] : [];
             state.charts.donut = new Chart(ctxDonut, {
                 type: 'doughnut',
+                plugins: donutPlugins,
                 data: {
                     labels: ['Dentro da Meta', 'Abaixo da Meta', 'Acima da Meta'],
                     datasets: [{
                         data: [0, 0, 0],
                         backgroundColor: ['#10b981', '#f59e0b', '#a855f7'],
-                        borderWidth: 0
+                        borderWidth: 2,
+                        borderColor: isDark ? '#1c1e22' : '#ffffff',
+                        hoverOffset: 6
                     }]
                 },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'bottom', labels: { color: textColor, font: { family: 'Plus Jakarta Sans', size: 10 } } }
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const val = context.raw || 0;
+                                    const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                                    const pct = total > 0 ? ((val / total) * 100).toFixed(1) : 0;
+                                    return ` ${context.label}: ${val} (${pct}%)`;
+                                }
+                            }
+                        },
+                        datalabels: {
+                            display: true,
+                            color: '#ffffff',
+                            font: {
+                                family: 'Plus Jakarta Sans',
+                                weight: 'bold',
+                                size: 14
+                            },
+                            formatter: function(value, ctx) {
+                                if (!value || value <= 0) return '';
+                                const total = ctx.dataset.data.reduce((a, b) => a + b, 0);
+                                const pct = total > 0 ? ((value / total) * 100).toFixed(0) : 0;
+                                return `${value}\n(${pct}%)`;
+                            },
+                            textAlign: 'center'
+                        }
                     },
-                    cutout: '72%'
+                    cutout: '66%'
                 }
             });
         }
@@ -1758,19 +1808,44 @@
         setTimeout(() => toast.classList.remove('show'), 3500);
     }
 
-    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D)
+    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D) e Vínculo com Topo
     function initEvolutionFilter() {
+        const btnSync = document.getElementById('btnSyncGlobalFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+
+        if (btnSync) {
+            btnSync.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                if (state.syncWithGlobalFilter) {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (syncIcon) syncIcon.innerText = "🔗";
+                    if (syncText) syncText.innerText = "Vinculado ao Topo";
+                    btnSync.title = "Gráfico sincronizado com o filtro de data do topo. Clique para desvincular.";
+                } else {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-800 text-white border-slate-700 hover:border-emerald-500";
+                    if (syncIcon) syncIcon.innerText = "🔓";
+                    if (syncText) syncText.innerText = `Filtro Local (${state.evolutionRange})`;
+                    btnSync.title = "Quando desativado, este gráfico exibe sempre o histórico local. Clique para vincular.";
+                }
+                applyFilters();
+            });
+        }
+
         const buttons = document.querySelectorAll('.btn-evo-filter');
         buttons.forEach(btn => {
             btn.addEventListener('click', () => {
-                const range = btn.getAttribute('data-evo-range') || 'ALL';
+                const range = btn.getAttribute('data-evo-range') || '7D';
                 state.evolutionRange = range;
                 buttons.forEach(b => {
-                    b.classList.remove('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                    b.classList.add('text-[var(--text-secondary)]');
+                    b.classList.remove('active', 'bg-emerald-600', 'shadow-xs');
+                    b.classList.add('hover:text-emerald-400');
                 });
-                btn.classList.add('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                btn.classList.remove('text-[var(--text-secondary)]');
+                btn.classList.add('active', 'bg-emerald-600', 'shadow-xs');
+                btn.classList.remove('hover:text-emerald-400');
+                if (!state.syncWithGlobalFilter && syncText) {
+                    syncText.innerText = `Filtro Local (${range})`;
+                }
                 applyFilters();
             });
         });
