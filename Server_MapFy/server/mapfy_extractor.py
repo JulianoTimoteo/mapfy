@@ -959,9 +959,11 @@ def run_full_extraction(
                 years = [int(y) for y in re.findall(r"\b\d{2}/\d{2}/(\d{4})\b", sub_text)]
                 latest_year = max(years) if years else None
 
-                # Regra: Se a última sincronia for anterior a 2026, ignora
-                if latest_year is not None and latest_year < 2026:
-                    emit(f"  [IGNORADO] {name} (Última sincronia em {latest_year}, sem movimentação em 2026)")
+                current_year = datetime.now().year
+                min_cutoff_year = max(2026, current_year - 1)
+                # Regra de Safra Contínua: Descarta apenas formulários anteriores à safra ativa (>= 2026)
+                if latest_year is not None and latest_year < min_cutoff_year:
+                    emit(f"  [IGNORADO] {name} (Última sincronia em {latest_year}, sem movimentação na safra ativa)")
                     continue
 
                 if name not in form_names:
@@ -969,12 +971,13 @@ def run_full_extraction(
         except Exception as e:
             emit(f"Aviso ao ler cards da tela: {e}", "WARNING")
 
-        # Garante que todos os formulários operacionais de 2026 estejam na lista de execução
+        # Garante que todos os formulários operacionais ativos estejam na lista de execução
         for known_form in KNOWN_ACTIVE_FORMS_2026:
             if known_form not in form_names:
                 form_names.append(known_form)
 
-        emit(f"\nTotal de formulários aptos com movimentação em 2026: {len(form_names)}")
+        current_year = datetime.now().year
+        emit(f"\nTotal de formulários aptos na safra ativa ({current_year}): {len(form_names)}")
         for idx, name in enumerate(form_names, start=1):
             emit(f"  [{idx:02d}] {name}")
 

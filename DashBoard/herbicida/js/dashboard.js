@@ -33,6 +33,9 @@
         map: null,
         markersLayer: null,
         charts: {},
+        weatherSyncMap: new Map(),
+        auditStats: null,
+        modalTimelineChart: null,
         timelineMode: 'dia',
         currentPage: 1,
         pageSize: 10
@@ -50,7 +53,12 @@
                 : raw;
         }
         state.filteredRecords = [...state.allRecords];
+        if (window.OpenMeteoService) {
+            state.weatherSyncMap = window.OpenMeteoService.syncRecords(state.allRecords);
+            state.auditStats = window.OpenMeteoService.auditDataset(state.allRecords, state.weatherSyncMap);
+        }
         initTheme();
+        initSafraYear();
         initFilters();
         initMap();
         initCharts();
@@ -74,6 +82,19 @@
                 localStorage.setItem('pitangueiras_theme', isDark ? 'dark' : 'light');
                 updateChartThemes();
             });
+        }
+    }
+
+    // --- IDENTIFICAÇÃO DINÂMICA DE SAFRA E ANO (VIRADA AUTOMÁTICA) ---
+    function initSafraYear() {
+        const currentYear = new Date().getFullYear();
+        const badgeSafra = document.getElementById('badgeSafraAno');
+        if (badgeSafra) {
+            badgeSafra.innerHTML = `<i class="fa-solid fa-spray-can-sparkles mr-1"></i> Safra ${currentYear}`;
+        }
+        const mobileScope = document.getElementById('mobileSummaryScopeText');
+        if (mobileScope) {
+            mobileScope.textContent = `Safra ${currentYear}`;
         }
     }
 
@@ -316,32 +337,36 @@
         const textColor = isDark ? '#94A3B8' : '#64748B';
         const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
 
-        // 1. Scatter: Temp x UR
-        const ctxTempUr = document.getElementById('chartTempUrScatter')?.getContext('2d');
-        if (ctxTempUr) {
-            state.charts.tempUr = new Chart(ctxTempUr, {
-                type: 'scatter',
-                data: { datasets: [] },
+        // 1. Gráfico Pareado: Delta T Campo vs Modelo ERA5
+        const ctxAuditComp = document.getElementById('chartAuditComparison')?.getContext('2d');
+        if (ctxAuditComp) {
+            state.charts.auditComparison = new Chart(ctxAuditComp, {
+                type: 'bar',
+                data: {
+                    labels: [],
+                    datasets: [
+                        { label: 'Delta T Campo (°C)', data: [], backgroundColor: '#10B981', borderRadius: 4 },
+                        { label: 'Delta T ERA5 (°C)', data: [], backgroundColor: '#0284C7', borderRadius: 4 }
+                    ]
+                },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
                     scales: {
-                        x: {
-                            title: { display: true, text: 'Temperatura (°C)', color: textColor },
-                            grid: { color: gridColor },
-                            ticks: { color: textColor }
-                        },
+                        x: { grid: { display: false }, ticks: { color: textColor, font: { size: 9 }, maxRotation: 45 } },
                         y: {
-                            title: { display: true, text: 'Umidade Relativa (%)', color: textColor },
+                            beginAtZero: true,
+                            grace: '15%',
                             grid: { color: gridColor },
-                            ticks: { color: textColor }
+                            ticks: { color: textColor, precision: 1 },
+                            title: { display: true, text: 'Delta T (°C)', color: textColor }
                         }
                     },
                     plugins: {
                         legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } },
                         tooltip: {
                             callbacks: {
-                                label: ctx => `ID #${ctx.raw.id}: ${ctx.raw.x}°C, ${ctx.raw.y}% UR (ΔT: ${ctx.raw.dt}°C)`
+                                label: ctx => `${ctx.dataset.label}: ${ctx.raw}°C`
                             }
                         }
                     }
@@ -349,35 +374,26 @@
             });
         }
 
-        // 2. Scatter: Vento x UR
-        const ctxVentoUr = document.getElementById('chartVentoUrScatter')?.getContext('2d');
-        if (ctxVentoUr) {
-            state.charts.ventoUr = new Chart(ctxVentoUr, {
-                type: 'scatter',
-                data: { datasets: [] },
+        // 2. Gráfico Donut: Distribuição da Auditoria Climática
+        const ctxAuditDist = document.getElementById('chartAuditDistribution')?.getContext('2d');
+        if (ctxAuditDist) {
+            state.charts.auditDistribution = new Chart(ctxAuditDist, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Compatível', 'Divergência Moderada', 'Divergência Elevada', 'Reconstruído (ERA5)'],
+                    datasets: [{
+                        data: [0, 0, 0, 0],
+                        backgroundColor: ['#10B981', '#F59E0B', '#EF4444', '#3B82F6'],
+                        borderWidth: 0
+                    }]
+                },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
-                    scales: {
-                        x: {
-                            title: { display: true, text: 'Vento (km/h)', color: textColor },
-                            grid: { color: gridColor },
-                            ticks: { color: textColor }
-                        },
-                        y: {
-                            title: { display: true, text: 'Umidade Relativa (%)', color: textColor },
-                            grid: { color: gridColor },
-                            ticks: { color: textColor }
-                        }
-                    },
                     plugins: {
-                        legend: { display: false },
-                        tooltip: {
-                            callbacks: {
-                                label: ctx => `ID #${ctx.raw.id}: Vento ${ctx.raw.x} km/h, UR ${ctx.raw.y}%`
-                            }
-                        }
-                    }
+                        legend: { position: 'right', labels: { boxWidth: 10, color: textColor } }
+                    },
+                    cutout: '65%'
                 }
             });
         }
@@ -776,38 +792,32 @@
     }
 
     function updateChartsData(records, weather, equipCondition, operations, plantSoca) {
-        // 1. Temp x UR Scatter
-        if (state.charts.tempUr) {
-            const idealPts = [];
-            const atencaoPts = [];
-            const criticoPts = [];
-
-            records.forEach(r => {
-                if (!r.has_weather || r.temp_num === null || r.ur_num === null) return;
-                const pt = { x: r.temp_num, y: r.ur_num, id: r.id, dt: r.delta_t_num };
-                if (r.delta_t_classe === 'Ideal (2-8°C)') idealPts.push(pt);
-                else if (r.delta_t_classe === 'Atenção (8-10°C)') atencaoPts.push(pt);
-                else criticoPts.push(pt);
+        // 1. Atualização do Gráfico Pareado (Campo vs ERA5)
+        if (state.charts.auditComparison) {
+            const sampleRecords = records.slice(0, 15);
+            state.charts.auditComparison.data.labels = sampleRecords.map(r => `#${r.id} ${r.fazenda.substring(0, 8)}`);
+            state.charts.auditComparison.data.datasets[0].data = sampleRecords.map(r => r.delta_t_num !== null ? r.delta_t_num : 0);
+            state.charts.auditComparison.data.datasets[1].data = sampleRecords.map(r => {
+                const api = state.weatherSyncMap ? state.weatherSyncMap.get(r.id) : null;
+                return (api && api.deltaT !== null) ? api.deltaT : 0;
             });
-
-            state.charts.tempUr.data.datasets = [
-                { label: 'Ideal (2-8°C)', data: idealPts, backgroundColor: '#10B981', pointRadius: 5 },
-                { label: 'Atenção (8-10°C)', data: atencaoPts, backgroundColor: '#F59E0B', pointRadius: 6 },
-                { label: 'Crítico (>10°C)', data: criticoPts, backgroundColor: '#EF4444', pointRadius: 6 }
-            ];
-            state.charts.tempUr.update();
+            state.charts.auditComparison.update();
         }
 
-        // 2. Vento x UR Scatter
-        if (state.charts.ventoUr) {
-            const ventoPts = records.filter(r => r.has_weather && r.vento_num !== null && r.ur_num !== null)
-                .map(r => ({ x: r.vento_num, y: r.ur_num, id: r.id }));
-            state.charts.ventoUr.data.datasets = [{
-                data: ventoPts,
-                backgroundColor: '#0D9488',
-                pointRadius: 5
-            }];
-            state.charts.ventoUr.update();
+        // 2. Atualização do Gráfico Donut de Auditoria Climática
+        if (state.charts.auditDistribution) {
+            const localAudit = (window.OpenMeteoService && state.weatherSyncMap)
+                ? window.OpenMeteoService.auditDataset(records, state.weatherSyncMap)
+                : state.auditStats;
+            if (localAudit) {
+                state.charts.auditDistribution.data.datasets[0].data = [
+                    localAudit.compativeis || 0,
+                    localAudit.divModerada || 0,
+                    localAudit.divElevada || 0,
+                    localAudit.reconstruidos || 0
+                ];
+                state.charts.auditDistribution.update();
+            }
         }
 
         // 3. Delta T Donut
@@ -902,6 +912,18 @@
             const filtroBadge = r.is_nok_filtro ? `<span class="badge badge-red">NOK</span>` : `<span class="badge badge-emerald">OK</span>`;
             const bicoBadge = r.is_nok_bico ? `<span class="badge badge-red">NOK</span>` : (r.limpeza_bicos === 'N / A' ? `<span class="badge badge-slate">N/A</span>` : `<span class="badge badge-emerald">OK</span>`);
 
+            // Auditoria Climática (Trilha A vs Trilha B)
+            const apiData = state.weatherSyncMap ? state.weatherSyncMap.get(r.id) : null;
+            const auditComp = (window.OpenMeteoService && apiData) ? window.OpenMeteoService.compareRecord(r, apiData) : null;
+            let auditBadge = `<span class="badge badge-slate">Pendente</span>`;
+            if (auditComp) {
+                let icon = 'fa-check';
+                if (auditComp.statusKey === 'divergencia_moderada') icon = 'fa-triangle-exclamation';
+                else if (auditComp.statusKey === 'divergencia_elevada') icon = 'fa-circle-xmark';
+                else if (auditComp.statusKey === 'reconstruido') icon = 'fa-cloud-arrow-down';
+                auditBadge = `<span class="badge ${auditComp.badgeClass}" title="${auditComp.desc}"><i class="fa-solid ${icon} mr-1"></i>${auditComp.status}</span>`;
+            }
+
             return `
                 <tr class="cursor-pointer" onclick="window.abrirModalInspecao('${r.id}')">
                     <td class="font-bold text-emerald-600 dark:text-emerald-400">#${r.id}</td>
@@ -919,6 +941,7 @@
                     <td>${bicoBadge}</td>
                     <td>${r.vazao_orig}</td>
                     <td><span class="badge ${r.status === 'Fechado' ? 'badge-emerald' : 'badge-blue'}">${r.status}</span></td>
+                    <td>${auditBadge}</td>
                     <td class="max-w-[180px] truncate text-[11px] text-slate-600 dark:text-slate-300" title="${r.obs}">
                         ${r.equipamentos_nomes?.length ? `<b>[${r.equipamentos_nomes.join(', ')}]</b> ` : ''}${r.obs || '—'}
                     </td>
@@ -949,94 +972,198 @@
 
         const modal = document.getElementById('detailModal');
         const title = document.getElementById('modalTitle');
+        const subtitle = document.getElementById('modalSubtitle');
+        const badge = document.getElementById('modalAuditBadge');
         const body = document.getElementById('modalBody');
 
         if (!modal || !title || !body) return;
 
         const regId = r.id || r.ID || id;
         const regFazenda = r.fazenda || r.Fazenda || '-';
-        title.textContent = `Inspeção #${regId} • Fazenda ${regFazenda}`;
+        title.textContent = `Dossiê Meteorológico • Inspeção #${regId}`;
+        if (subtitle) {
+            subtitle.textContent = `Fazenda ${regFazenda} • OS ${r.os || '-'} • Operação: ${r.operacao || '-'}`;
+        }
+
+        // Obtém dados da Trilha B (Open-Meteo ERA5)
+        let apiData = state.weatherSyncMap ? state.weatherSyncMap.get(r.id) : null;
+        if (!apiData && window.OpenMeteoService && r.lat && r.lon && r.data_iso) {
+            const cached = window.OpenMeteoService.getFromCache(r.lat, r.lon, r.data_iso);
+            if (cached) {
+                apiData = window.OpenMeteoService.extractHourData(cached, r.hora, r.lat, r.lon, r.data_iso, true);
+            }
+        }
+
+        const auditComp = (window.OpenMeteoService && apiData)
+            ? window.OpenMeteoService.compareRecord(r, apiData)
+            : { status: 'Pendente', badgeClass: 'badge-slate', desc: 'Dados meteorológicos em sincronização', justificativa: '-', confiabilidade: '-' };
+
+        if (badge) {
+            badge.className = `badge ${auditComp.badgeClass} text-xs`;
+            badge.innerHTML = `<i class="fa-solid fa-shield-halved mr-1"></i>${auditComp.status}`;
+        }
 
         const dtVal = (r.delta_t_num !== undefined && r.delta_t_num !== null) ? r.delta_t_num : null;
         const dtClass = HerbicidaEngine.classifyDeltaT(dtVal);
 
+        // Gera recomendação por tipo de produto
+        const dtRef = dtVal !== null ? dtVal : (apiData ? apiData.deltaT : null);
+        const ventoRef = r.vento_num !== null ? r.vento_num : (apiData ? apiData.vento : null);
+        const sistRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('sistemicos', dtRef, ventoRef) : null;
+        const contRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('contato', dtRef, ventoRef) : null;
+        const soloRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('pre_emergentes_solo', dtRef, ventoRef) : null;
+
         body.innerHTML = `
-            <div class="grid grid-cols-2 gap-4">
-                <!-- Grupo 1: Identificação Operacional -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        1. Identificação Operacional
+            <!-- Bloco 1: Auditoria Comparativa Lado a Lado (Trilha A vs Trilha B) -->
+            <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
+                <div class="flex items-center justify-between pb-2 mb-3 border-b border-slate-200 dark:border-slate-600">
+                    <span class="font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-code-compare text-emerald-600 dark:text-emerald-400"></i> Confronto de Telemetria: Campo vs Reanálise Atmosférica
                     </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Fazenda:</b> ${r.fazenda}</div>
-                        <div><b>Ordem de Serviço:</b> ${r.os}</div>
-                        <div><b>Operação:</b> ${r.operacao}</div>
-                        <div><b>Planta / Soca:</b> ${r.planta_soca}</div>
-                        <div><b>Data Inspeção:</b> ${r.data}</div>
-                        <div><b>Status:</b> ${r.status} | <b>Score:</b> ${r.score}</div>
-                        <div><b>Usuário:</b> ${r.usuario}</div>
-                    </div>
+                    <span class="text-[11px] font-mono text-slate-500">Coordenadas: ${r.lat.toFixed(4)}, ${r.lon.toFixed(4)}</span>
                 </div>
 
-                <!-- Grupo 2: Condições Meteorológicas -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        2. Condições Meteorológicas
-                    </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Vento:</b> ${r.vento ? r.vento + ' km/h' : 'Não Informado'}</div>
-                        <div><b>Umidade Relativa:</b> ${r.ur ? r.ur + '%' : 'Não Informada'}</div>
-                        <div><b>Temperatura Ar:</b> ${r.temp ? r.temp + '°C' : 'Não Informada'}</div>
-                        <div><b>Bulbo Úmido (Tw):</b> ${r.tw_num ? r.tw_num + '°C' : 'N/I'}</div>
-                        <div class="pt-1"><b>Delta T:</b> <span class="badge" style="background-color: ${dtClass.color}20; color: ${dtClass.color}; font-weight: bold;">${r.delta_t_num ? r.delta_t_num + '°C' : 'N/I'} • ${dtClass.classe}</span></div>
-                    </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead>
+                            <tr class="text-slate-500 dark:text-slate-400 border-b border-slate-200 dark:border-slate-600 font-semibold">
+                                <th class="pb-2">Variável Meteorológica</th>
+                                <th class="pb-2 text-center bg-emerald-50/50 dark:bg-emerald-950/20 text-emerald-800 dark:text-emerald-300 rounded-t">Trilha A: Campo (MapFy)</th>
+                                <th class="pb-2 text-center bg-blue-50/50 dark:bg-blue-950/20 text-blue-800 dark:text-blue-300 rounded-t">Trilha B: Open-Meteo ERA5</th>
+                                <th class="pb-2 text-center">Divergência (Δ)</th>
+                                <th class="pb-2 text-right">Diagnóstico</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-100 dark:divide-slate-700 text-slate-700 dark:text-slate-200">
+                            <tr>
+                                <td class="py-2 font-medium">Temperatura do Ar (°C)</td>
+                                <td class="py-2 text-center font-bold bg-emerald-50/30 dark:bg-emerald-950/10">${r.temp !== null ? r.temp + '°C' : '<span class="text-slate-400">Não Medido</span>'}</td>
+                                <td class="py-2 text-center font-bold bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.temp !== null ? apiData.temp + '°C' : 'N/D'}</td>
+                                <td class="py-2 text-center font-mono font-semibold">${auditComp.diffTemp !== null ? (auditComp.diffTemp > 0 ? '+' : '') + auditComp.diffTemp + '°C' : '—'}</td>
+                                <td class="py-2 text-right">${Math.abs(auditComp.diffTemp || 0) <= 3.5 ? '<span class="text-emerald-600 font-semibold">Admissível</span>' : '<span class="text-amber-600 font-semibold">Variação Térmica</span>'}</td>
+                            </tr>
+                            <tr>
+                                <td class="py-2 font-medium">Umidade Relativa (UR %)</td>
+                                <td class="py-2 text-center font-bold bg-emerald-50/30 dark:bg-emerald-950/10">${r.ur !== null ? r.ur + '%' : '<span class="text-slate-400">Não Medido</span>'}</td>
+                                <td class="py-2 text-center font-bold bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.ur !== null ? apiData.ur + '%' : 'N/D'}</td>
+                                <td class="py-2 text-center font-mono font-semibold">${auditComp.diffUr !== null ? (auditComp.diffUr > 0 ? '+' : '') + auditComp.diffUr + '%' : '—'}</td>
+                                <td class="py-2 text-right">${Math.abs(auditComp.diffUr || 0) <= 15 ? '<span class="text-emerald-600 font-semibold">Admissível</span>' : '<span class="text-amber-600 font-semibold">Gradiente de UR</span>'}</td>
+                            </tr>
+                            <tr>
+                                <td class="py-2 font-medium">Velocidade do Vento (km/h)</td>
+                                <td class="py-2 text-center font-bold bg-emerald-50/30 dark:bg-emerald-950/10">${r.vento !== null ? r.vento + ' km/h' : '<span class="text-slate-400">Não Medido</span>'}</td>
+                                <td class="py-2 text-center font-bold bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.vento !== null ? apiData.vento + ' km/h' : 'N/D'} ${apiData && apiData.direcaoVento ? '(' + apiData.direcaoVento + ')' : ''}</td>
+                                <td class="py-2 text-center font-mono font-semibold">${auditComp.diffVento !== null ? (auditComp.diffVento > 0 ? '+' : '') + auditComp.diffVento + ' km/h' : '—'}</td>
+                                <td class="py-2 text-right">${apiData && apiData.rajadas ? 'Rajadas ' + apiData.rajadas + ' km/h' : '<span class="text-slate-400">Vento Regular</span>'}</td>
+                            </tr>
+                            <tr>
+                                <td class="py-2 font-medium">Bulbo Úmido (Tw °C)</td>
+                                <td class="py-2 text-center bg-emerald-50/30 dark:bg-emerald-950/10">${r.tw_num !== null ? r.tw_num + '°C' : '<span class="text-slate-400">Calculado Stull</span>'}</td>
+                                <td class="py-2 text-center bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.tw !== null ? apiData.tw + '°C' : 'N/D'}</td>
+                                <td class="py-2 text-center font-mono font-semibold">—</td>
+                                <td class="py-2 text-right text-slate-400">Psicrométrico</td>
+                            </tr>
+                            <tr class="bg-emerald-500/10 dark:bg-emerald-500/20 font-bold">
+                                <td class="py-2.5 text-emerald-800 dark:text-emerald-300">Delta T (°C) • Stull 2011</td>
+                                <td class="py-2.5 text-center text-emerald-700 dark:text-emerald-300 text-sm">${r.delta_t_num !== null ? r.delta_t_num + '°C' : '<span class="text-slate-400 text-xs font-normal">Sem Telemetria</span>'}</td>
+                                <td class="py-2.5 text-center text-blue-700 dark:text-blue-300 text-sm">${apiData && apiData.deltaT !== null ? apiData.deltaT + '°C' : 'N/D'}</td>
+                                <td class="py-2.5 text-center font-mono text-sm">${auditComp.diffDeltaT !== null ? (auditComp.diffDeltaT > 0 ? '+' : '') + auditComp.diffDeltaT + '°C' : '—'}</td>
+                                <td class="py-2.5 text-right"><span class="badge ${auditComp.badgeClass}">${auditComp.status}</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
 
-                <!-- Grupo 3: Regulagem do Implemento -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        3. Regulagem do Pulverizador
-                    </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Espaçamento de Bico:</b> ${r.esp_orig} (${r.esp_grupo})</div>
-                        <div><b>Abertura do Leque:</b> ${r.leque}</div>
-                        <div><b>Vazão Aplicada:</b> ${r.vazao_orig}</div>
+                <!-- Parecer do Auditor -->
+                <div class="mt-3 p-3 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 text-xs leading-relaxed">
+                    <div class="flex items-center justify-between mb-1">
+                        <span class="font-bold text-slate-800 dark:text-slate-100 flex items-center gap-1.5">
+                            <i class="fa-solid fa-signature text-emerald-600"></i> Parecer Técnico de Auditoria:
+                        </span>
+                        <span class="text-[11px] text-slate-500 font-semibold">Confiabilidade: ${auditComp.confiabilidade}</span>
                     </div>
+                    <p class="text-slate-700 dark:text-slate-300 m-0">${auditComp.desc}. ${auditComp.justificativa}</p>
                 </div>
+            </div>
 
-                <!-- Grupo 4 & 5: Conservação & Procedimentos -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        4 & 5. Conservação e Procedimentos
+            <!-- Bloco 2: Linha do Tempo Diurna da Inspeção (06h às 18h) -->
+            <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
+                <div class="flex items-center justify-between mb-2">
+                    <span class="font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-clock-rotate-left text-teal-600 dark:text-teal-400"></i> Evolução Diurna das Condições Atmosféricas (06h às 18h)
                     </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Limpeza Filtros Bomba:</b> ${r.filtro_bomba}</div>
-                        <div><b>Limpeza de Bicos:</b> ${r.limpeza_bicos}</div>
-                        <div><b>Avaliação Prévia:</b> ${r.aval_previa}</div>
-                        <div><b>Ordem e Mapa Disponíveis:</b> ${r.mapa_os}</div>
+                    <span class="text-[11px] text-slate-500">Horário da Inspeção: <b>${r.hora || '12:00'}</b></span>
+                </div>
+                <div class="h-44 w-full">
+                    <canvas id="chartModalTimeline"></canvas>
+                </div>
+            </div>
+
+            <!-- Bloco 3: Matriz Decisória de Aplicação para Herbicidas -->
+            <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
+                <span class="font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide block mb-2 flex items-center gap-2">
+                    <i class="fa-solid fa-spray-can text-emerald-600 dark:text-emerald-400"></i> Avaliação Operacional por Classe de Herbicida
+                </span>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+                    <div class="p-2.5 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600">
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="font-bold text-slate-800 dark:text-slate-100">Sistêmicos</span>
+                            <span class="badge ${sistRec ? sistRec.badgeClass : 'badge-emerald'} text-[10px]">${sistRec ? sistRec.status : 'Apto'}</span>
+                        </div>
+                        <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-snug">${sistRec ? sistRec.justificativa : 'Condições adequadas para absorção lenta.'}</p>
+                    </div>
+
+                    <div class="p-2.5 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600">
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="font-bold text-slate-800 dark:text-slate-100">Contato</span>
+                            <span class="badge ${contRec ? contRec.badgeClass : 'badge-amber'} text-[10px]">${contRec ? contRec.status : 'Alerta'}</span>
+                        </div>
+                        <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-snug">${contRec ? contRec.justificativa : 'Exige monitoramento contínuo de gotas.'}</p>
+                    </div>
+
+                    <div class="p-2.5 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600">
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="font-bold text-slate-800 dark:text-slate-100">Pré-emergentes</span>
+                            <span class="badge ${soloRec ? soloRec.badgeClass : 'badge-blue'} text-[10px]">${soloRec ? soloRec.status : 'Apto Solo'}</span>
+                        </div>
+                        <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-snug">${soloRec ? soloRec.justificativa : 'Aplicação em solo tolerante a gotas grossas.'}</p>
                     </div>
                 </div>
             </div>
 
-            <!-- Grupo 6: Observações e Planos de Ação -->
-            <div class="p-3 rounded-lg bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800">
-                <span class="font-bold text-amber-800 dark:text-amber-300 block mb-1 uppercase text-[11px]">
-                    6. Observações Operacionais e Planos de Ação Registrados
-                </span>
-                <p class="text-slate-800 dark:text-slate-200 whitespace-pre-line leading-relaxed">
-                    ${r.obs || 'Nenhuma observação textual registrada para este apontamento.'}
-                </p>
-                ${r.equipamentos_nomes?.length ? `
-                    <div class="mt-2 pt-2 border-t border-amber-200 dark:border-amber-800 text-[11px]">
-                        <b>Equipamento(s) Mencionados:</b> ${r.equipamentos_nomes.join(', ')}
-                    </div>
-                ` : ''}
+            <!-- Bloco 4: Regulagem do Pulverizador & Observações de Campo -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600 space-y-1.5 text-slate-600 dark:text-slate-300">
+                    <span class="font-bold text-slate-800 dark:text-slate-100 block uppercase text-[11px] border-b pb-1 mb-2">
+                        Regulagem do Implemento
+                    </span>
+                    <div><b>Espaçamento de Bico:</b> ${r.esp_orig} (${r.esp_grupo})</div>
+                    <div><b>Abertura do Leque:</b> ${r.leque}</div>
+                    <div><b>Vazão Aplicada:</b> ${r.vazao_orig}</div>
+                    <div><b>Limpeza Filtros Bomba:</b> ${r.is_nok_filtro ? '<span class="badge badge-red">NOK (Obstruído)</span>' : '<span class="badge badge-emerald">OK (Limpo)</span>'}</div>
+                    <div><b>Limpeza de Bicos:</b> ${r.is_nok_bico ? '<span class="badge badge-red">NOK (Irregular)</span>' : '<span class="badge badge-emerald">OK</span>'}</div>
+                    <div><b>Equipamento Citado:</b> ${r.equipamentos_nomes?.length ? r.equipamentos_nomes.join(', ') : 'Nenhum identificado'}</div>
+                </div>
+
+                <div class="p-3.5 rounded-xl bg-amber-50/60 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-800">
+                    <span class="font-bold text-amber-800 dark:text-amber-300 block uppercase text-[11px] border-b border-amber-200 dark:border-amber-800 pb-1 mb-2">
+                        Observações e Ocorrências de Campo
+                    </span>
+                    <p class="text-slate-800 dark:text-slate-200 whitespace-pre-line leading-relaxed m-0 text-xs">
+                        ${r.obs || 'Nenhuma ocorrência ou anotação operacional textual registrada para este apontamento.'}
+                    </p>
+                </div>
             </div>
         `;
 
         modal.classList.remove('hidden');
         modal.style.display = 'flex';
         modal.style.zIndex = '99999';
+
+        // Renderiza gráfico da Linha do Tempo no Modal
+        setTimeout(() => {
+            renderModalTimelineChart(r, apiData);
+        }, 100);
     };
 
     window.filtrarPorEquipamento = function (nome) {
