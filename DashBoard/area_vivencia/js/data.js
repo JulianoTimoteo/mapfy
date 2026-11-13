@@ -3,7 +3,7 @@
  * Total: 365 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.AREA_VIVENCIA_DATA = [
+window.RAW_INSPECTIONS = window.AREA_VIVENCIA_DATA = [
   {
     "ID": 3981141,
     "Usuário": "frente3@usinapitangueiras.com.br",

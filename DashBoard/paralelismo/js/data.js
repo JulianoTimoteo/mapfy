@@ -3,7 +3,7 @@
  * Total: 2462 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.PARALELISMO_DATA = [
+window.PARALELISMO_RAW_DATA = window.PARALELISMO_DATA = [
   {
     "ID": 3946370,
     "Usuário": "qualidade3@usinapitangueiras.com.br",

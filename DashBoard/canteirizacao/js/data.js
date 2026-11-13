@@ -3,7 +3,7 @@
  * Total: 414 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.CANTEIRIZACAO_DATA = [
+window.CANTEIRIZACAO_RAW_DATA = window.CANTEIRIZACAO_DATA = [
   {
     "ID": 3928885,
     "Usuário": "anabinatto@usinapitangueiras.com.br",

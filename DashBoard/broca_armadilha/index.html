@@ -44,6 +44,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
+    <link rel="stylesheet" href="../common/css/design_guardian.css?v=2026.1">
     <!-- PWA e Metatags Mobile Executivas -->
     <link rel="manifest" href="../manifest.json">
     <meta name="theme-color" content="#047857">
@@ -646,15 +647,15 @@
                         </button>
 
                         <!-- Botões de Período Local: Todos, 15D, 7D -->
-                        <div id="evoPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi, #1e293b); border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                        <div id="evoPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi); border-color: var(--border-color);">
                             <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="ALL" disabled title="Exibir todo o histórico da safra">Todos</button>
                             <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
                             <button type="button" class="btn-evo-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="7D" disabled title="Últimos 7 dias com medições (Padrão)">7D</button>
                         </div>
 
                         <div class="flex items-center gap-1 text-xs border-l pl-2 border-slate-200 dark:border-slate-700">
-                            <button id="btnTimelineDia" class="px-2 py-0.5 rounded font-semibold bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300">Diário</button>
-                            <button id="btnTimelineMes" class="px-2 py-0.5 rounded font-semibold text-slate-500 hover:text-slate-800">Mensal</button>
+                            <button id="btnTimelineDia" type="button" class="btn-timeline-toggle active">Diário</button>
+                            <button id="btnTimelineMes" type="button" class="btn-timeline-toggle">Mensal</button>
                         </div>
                     </div>
                 </div>
@@ -726,7 +727,7 @@
                 </button>
 
                 <!-- Botões de Período Autônomo do Mapa: Todos, 15D, 7D -->
-                <div id="mapPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi, #1e293b); border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                <div id="mapPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi); border-color: var(--border-color);">
                     <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="ALL" disabled title="Exibir todo o histórico do mapa">Todos</button>
                     <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
                     <button type="button" class="btn-map-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-map-range="7D" disabled title="Últimos 7 dias com medições">7D</button>

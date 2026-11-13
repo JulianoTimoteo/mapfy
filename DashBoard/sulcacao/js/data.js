@@ -3,7 +3,7 @@
  * Total: 2852 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.SULCACAO_DATA = [
+window.SULCACAO_RAW_DATA = window.SULCACAO_DATA = [
   {
     "ID": 3949205,
     "Usuário": "qualidade3@usinapitangueiras.com.br",

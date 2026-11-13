@@ -3,7 +3,7 @@
  * Total: 1295 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.DOSAGEM_SULCO_DATA = [
+window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
   {
     "ID": 3945444,
     "Usuário": "qualidade5@usinapitangueiras.com.br",

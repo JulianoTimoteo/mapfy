@@ -3,7 +3,7 @@
  * Total: 983 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.ABERTURA_ASA_DATA = [
+window.ABERTURA_ASA_RAW_DATA = window.ABERTURA_ASA_DATA = [
   {
     "ID": 3941341,
     "Usuário": "qualidade3@usinapitangueiras.com.br",

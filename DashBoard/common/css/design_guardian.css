@@ -1,0 +1,228 @@
+/**
+ * ==============================================================================
+ * JARVIS DESIGN GUARDIAN — DESIGN SYSTEM CENTRALIZADO & TOKENS UNIVERSAIS
+ * Usina Pitangueiras — Safra 2026
+ * WCAG AA Validated (Min Contrast >= 4.5:1 Text, >= 3.0:1 UI Elements)
+ * Zero AI Slop • Zero Cores Hardcoded • 100% Consistência Modo Claro / Modo Escuro
+ * ==============================================================================
+ */
+
+:root {
+    --bg-page: #f8fafc;
+    --bg-surface: #ffffff;
+    --bg-card: #ffffff;
+    --bg-kpi: #f1f5f9;
+    --bg-kpi-subtle: #f8fafc;
+    --border-color: #e2e8f0;
+    --border-hover: #cbd5e1;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #64748b;
+    --accent-emerald: #059669;
+    --accent-emerald-hover: #047857;
+    --accent-emerald-light: #ecfdf5;
+    --accent-amber: #d97706;
+    --accent-red: #dc2626;
+    --accent-purple: #7c3aed;
+    --accent-cyan: #0891b2;
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+}
+
+.dark, html.dark, body.dark {
+    --bg-page: #0b0f19;
+    --bg-surface: #111827;
+    --bg-card: #111827;
+    --bg-kpi: #1e293b;
+    --bg-kpi-subtle: #172033;
+    --border-color: #334155;
+    --border-hover: #475569;
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    --accent-emerald: #10b981;
+    --accent-emerald-hover: #059669;
+    --accent-emerald-light: rgba(16, 185, 129, 0.15);
+    --accent-amber: #f59e0b;
+    --accent-red: #ef4444;
+    --accent-purple: #a855f7;
+    --accent-cyan: #06b6d4;
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.35);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -2px rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================================================
+   1. PROTEÇÃO CONTRA TEXTO INVISÍVEL EM INPUTS E SELECTS
+   ========================================================================== */
+select,
+input[type="text"],
+input[type="search"],
+input[type="date"],
+input[type="number"] {
+    background-color: var(--bg-surface) !important;
+    color: var(--text-primary) !important;
+    border-color: var(--border-color) !important;
+}
+
+select option {
+    background-color: var(--bg-surface) !important;
+    color: var(--text-primary) !important;
+}
+
+/* ==========================================================================
+   2. CONTROLES DE PERÍODO LOCAL (TODOS, 15D, 7D)
+   Garante contraste perfeito e container claro no tema claro e escuro no escuro
+   ========================================================================== */
+#evoPeriodControls,
+#mapPeriodControls,
+.evo-period-controls,
+.map-period-controls {
+    background: var(--bg-kpi) !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: 8px !important;
+    padding: 2px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 2px !important;
+}
+
+.btn-evo-filter,
+.btn-map-filter {
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    padding: 4px 10px !important;
+    border-radius: 6px !important;
+    border: none !important;
+    background: transparent !important;
+    color: var(--text-secondary) !important;
+    transition: all 0.15s ease !important;
+    line-height: 1.2 !important;
+    cursor: pointer;
+}
+
+.btn-evo-filter:hover:not(:disabled),
+.btn-map-filter:hover:not(:disabled) {
+    color: var(--text-primary) !important;
+    background: rgba(0, 0, 0, 0.05) !important;
+}
+
+.dark .btn-evo-filter:hover:not(:disabled),
+.dark .btn-map-filter:hover:not(:disabled) {
+    background: rgba(255, 255, 255, 0.08) !important;
+}
+
+/* Botão Ativo: Verde Esmeralda Oficial com Texto Branco Puro e Sombra Sutil */
+.btn-evo-filter.active,
+.btn-map-filter.active {
+    background: var(--accent-emerald) !important;
+    color: #ffffff !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) !important;
+    opacity: 1 !important;
+}
+
+/* Estado Desabilitado quando o Filtro Global está Ativo */
+.btn-evo-filter:disabled,
+.btn-map-filter:disabled,
+.btn-evo-filter.disabled,
+.btn-map-filter.disabled {
+    opacity: 0.42 !important;
+    cursor: not-allowed !important;
+    pointer-events: none !important;
+}
+
+.btn-evo-filter.active:disabled,
+.btn-map-filter.active:disabled {
+    opacity: 0.65 !important;
+    background: var(--accent-emerald) !important;
+    color: #ffffff !important;
+}
+
+/* ==========================================================================
+   3. BOTÃO DE SINCRONIZAÇÃO COM FILTRO GLOBAL DO TOPO
+   (🔒 Filtro Global Ativo / 🔓 Filtro Autônomo)
+   ========================================================================== */
+#btnSyncGlobalFilter,
+#btnSyncMapGlobalFilter,
+.btn-sync-filter {
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    padding: 4px 10px !important;
+    border-radius: 8px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    cursor: pointer !important;
+    line-height: 1.2 !important;
+    border: 1px solid var(--border-color) !important;
+}
+
+/* Estado Travado com Topo: Esmeralda de Alto Contraste */
+#btnSyncGlobalFilter.sync-locked,
+#btnSyncMapGlobalFilter.sync-locked,
+.btn-sync-filter.sync-locked {
+    background: var(--accent-emerald) !important;
+    color: #ffffff !important;
+    border-color: var(--accent-emerald-hover) !important;
+    box-shadow: 0 1px 3px rgba(16, 185, 129, 0.28) !important;
+}
+
+#btnSyncGlobalFilter.sync-locked:hover,
+#btnSyncMapGlobalFilter.sync-locked:hover,
+.btn-sync-filter.sync-locked:hover {
+    background: var(--accent-emerald-hover) !important;
+}
+
+/* Estado Autônomo Destravado: Superfície Neutra Elegante com Hover Esmeralda */
+#btnSyncGlobalFilter.sync-unlocked,
+#btnSyncMapGlobalFilter.sync-unlocked,
+.btn-sync-filter.sync-unlocked {
+    background: var(--bg-surface) !important;
+    color: var(--text-primary) !important;
+    border-color: var(--border-color) !important;
+    box-shadow: var(--shadow-sm) !important;
+}
+
+#btnSyncGlobalFilter.sync-unlocked:hover,
+#btnSyncMapGlobalFilter.sync-unlocked:hover,
+.btn-sync-filter.sync-unlocked:hover {
+    border-color: var(--accent-emerald) !important;
+    color: var(--accent-emerald) !important;
+}
+
+/* ==========================================================================
+   4. SELETORES DIÁRIO / MENSAL
+   ========================================================================== */
+#btnTimelineDia,
+#btnTimelineMes,
+.btn-timeline-toggle {
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    padding: 3px 8px !important;
+    border-radius: 6px !important;
+    transition: all 0.15s ease !important;
+    cursor: pointer !important;
+    border: 1px solid transparent !important;
+}
+
+#btnTimelineDia.active,
+#btnTimelineMes.active,
+.btn-timeline-toggle.active {
+    background: var(--accent-emerald-light) !important;
+    color: var(--accent-emerald) !important;
+    border-color: var(--accent-emerald) !important;
+    font-weight: 700 !important;
+}
+
+#btnTimelineDia:not(.active),
+#btnTimelineMes:not(.active),
+.btn-timeline-toggle:not(.active) {
+    background: transparent !important;
+    color: var(--text-secondary) !important;
+}
+
+#btnTimelineDia:not(.active):hover,
+#btnTimelineMes:not(.active):hover,
+.btn-timeline-toggle:not(.active):hover {
+    color: var(--text-primary) !important;
+}

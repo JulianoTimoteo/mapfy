@@ -3,7 +3,7 @@
  * Total: 814 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.ARREMATE_ACABAMENTO_DATA = [
+window.ARREMATE_DATA = window.ARREMATE_ACABAMENTO_DATA = [
   {
     "ID": 3949179,
     "Usuário": "qualidade3@usinapitangueiras.com.br",
