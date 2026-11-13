@@ -507,7 +507,7 @@ const ChecklistEngine = (function () {
             semSolicitacao,
             diretaComNumero,
             totalOSUnicas: Object.keys(osCadastradas).length,
-            listaOS: Object.values(osCadastradas).sort((a, b) => b.numero.localeCompare(a.numero))
+            listaOS: Object.values(osCadastradas).sort((a, b) => String(b.numero || '').localeCompare(String(a.numero || ''), undefined, { numeric: true }))
         };
     }
 
@@ -633,7 +633,7 @@ const ChecklistEngine = (function () {
                 const dateB = new Date(pB[2], pB[1] - 1, pB[0]);
                 return dateA - dateB;
             }
-            return a.dataDia.localeCompare(b.dataDia);
+            return String(a.dataDia || '').localeCompare(String(b.dataDia || ''));
         });
 
         if (range === '7D' && list.length > 7) {
@@ -764,7 +764,7 @@ const ChecklistEngine = (function () {
         // Abrir OS
         const abrirOsRaw = String(r['Abrir Os '] || r['Abrir Os'] || r.abrir_os || '').trim().toUpperCase();
         const abrirOs = abrirOsRaw === 'SIM' ? 'SIM' : 'NÃO';
-        const osNumero = r['Os'] || r.os_numero || '';
+        const osNumero = (r['Os'] !== null && r['Os'] !== undefined) ? String(r['Os']).trim() : (r.os_numero ? String(r.os_numero).trim() : '');
 
         // Itens Danificados
         const itensDanificadosRaw = r['Itens Danificados'] || r.itens_danificados || '';

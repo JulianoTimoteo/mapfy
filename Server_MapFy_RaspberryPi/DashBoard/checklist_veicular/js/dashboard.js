@@ -648,6 +648,10 @@
 
     // 9. Inicialização e Atualização dos Gráficos
     function initCharts() {
+        if (typeof Chart === 'undefined') {
+            console.warn('[Checklist] Chart.js não está disponível no momento.');
+            return;
+        }
         const isDark = document.documentElement.classList.contains('dark');
         const textColor = isDark ? '#94A3B8' : '#64748B';
 
@@ -861,6 +865,7 @@
     }
 
     function updateCharts() {
+        if (typeof Chart === 'undefined') return;
         const chartRecords = state.syncWithGlobalFilter
             ? state.filteredRecords
             : getRecordsForDateRange(state.filteredRecords, state.evolutionRange);
