@@ -150,7 +150,10 @@
         filteredRecords: [],
         targetConfig: null,
         activePeriod: 'all',
-        evolutionRange: 'ALL', // 'all', 'latest', 'today'
+        evolutionRange: '7D',
+        syncWithGlobalFilter: true,
+        mapSyncWithGlobal: true,
+        mapRange: '7D', // 'all', 'latest', 'today'
         latestDateStr: '',
         todayDateStr: '',
         filters: {
@@ -179,6 +182,35 @@
     window.dashboardState = state;
     window.state = state;
 
+    /**
+     * Função Utilitária para Recorte por Dias Distintos em Modo Autônomo
+     */
+    function getRecordsForDateRange(records, range) {
+        if (!range || range === 'ALL' || !records || records.length === 0) return records;
+        const daysSet = new Set();
+        records.forEach(r => {
+            const d = r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data_dia || '');
+            if (d) daysSet.add(d);
+        });
+
+        const sortedDays = Array.from(daysSet).sort((a, b) => {
+            const pA = a.split('/');
+            const pB = b.split('/');
+            if (pA.length === 3 && pB.length === 3) {
+                return new Date(pA[2], pA[1] - 1, pA[0]) - new Date(pB[2], pB[1] - 1, pB[0]);
+            }
+            return a.localeCompare(b);
+        });
+
+        const count = range === '7D' ? 7 : (range === '15D' ? 15 : sortedDays.length);
+        const targetDays = new Set(sortedDays.slice(-count));
+
+        return records.filter(r => {
+            const d = r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data_dia || '');
+            return targetDays.has(d);
+        });
+    }
+
     // Inicialização do Sistema
     function _bootstrapApp() {
         initTheme();
@@ -189,6 +221,7 @@
         initCharts();
         initEvolutionFilter();
         initMap();
+        initMapFilter();
         initTableListeners();
         applyFiltersAndRender();
         initPowerUserShortcuts();
@@ -256,7 +289,7 @@
         if (validDates.length > 0) {
             state.latestDateStr = validDates[0].str;
             const badgeLatest = document.getElementById('badgeLatest');
-            if (badgeLatest) /* badgeLatest removido conforme diretriz */
+            /* badgeLatest removido conforme diretriz */
         }
 
         const now = new Date();
@@ -647,10 +680,14 @@
     }
 
     function updateChartsAndVisuals() {
-        const m = window.SulcacaoEngine.calculateMetrics(state.filteredRecords, state.targetConfig);
-        const timeSeries = window.SulcacaoEngine.calculateTimeSeries(state.filteredRecords);
-        const histogram = window.SulcacaoEngine.calculateHistogram(state.filteredRecords);
-        const frentes = window.SulcacaoEngine.calculateFrenteBreakdown(state.filteredRecords);
+        const chartRecords = state.syncWithGlobalFilter
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.evolutionRange);
+
+        const m = window.SulcacaoEngine.calculateMetrics(chartRecords, state.targetConfig);
+        const timeSeries = window.SulcacaoEngine.calculateTimeSeries(chartRecords);
+        const histogram = window.SulcacaoEngine.calculateHistogram(chartRecords);
+        const frentes = window.SulcacaoEngine.calculateFrenteBreakdown(chartRecords);
 
         // 1. Donut: Centro SEMPRE exibe o que está na meta
         if (state.charts.donut) {
@@ -720,10 +757,10 @@
 
     // 8. Mapa Geográfico Leaflet
     function initMap() {
-        const mapContainer = document.getElementById('mapSubsolagem');
+        const mapContainer = document.getElementById('mapContainer') || document.getElementById('mapSubsolagem') || document.getElementById('mapDosagem');
         if (!mapContainer) return;
 
-        state.map = L.map('mapSubsolagem', {
+        state.map = L.map(mapContainer,  {
             center: [-20.85, -48.55],
             zoom: 11
         });
@@ -740,7 +777,11 @@
         if (!state.map || !state.markersLayer) return;
         state.markersLayer.clearLayers();
 
-        const validCoords = state.filteredRecords.filter(r => r.hasValidCoords);
+        const mapRecords = state.mapSyncWithGlobal
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.mapRange);
+
+        const validCoords = mapRecords.filter(r => r.hasValidCoords);
         setElText('mapPointsCount', `${validCoords.length} pontos plotados`);
 
         if (validCoords.length === 0) return;
@@ -1002,21 +1043,130 @@
     // Recurso Oculto: Ctrl + Double Click nos gráficos para calibrar metas
     
     // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D)
+        // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D) e Vínculo com Topo
     function initEvolutionFilter() {
-        const buttons = document.querySelectorAll('.btn-evo-filter');
-        buttons.forEach(btn => {
+        const btnSync = document.getElementById('btnSyncGlobalFilter') || document.getElementById('btnToggleSyncFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+        const evoButtons = document.querySelectorAll('.btn-evo-filter');
+
+        function updateEvoControlsUI() {
+            if (btnSync) {
+                if (state.syncWithGlobalFilter) {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (syncIcon) syncIcon.innerText = "🔒";
+                    if (syncText) syncText.innerText = "Filtro Global Ativo";
+                    btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
+                } else {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (syncIcon) syncIcon.innerText = "🔓";
+                    if (syncText) syncText.innerText = "Filtro Autônomo";
+                    btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            evoButtons.forEach(btn => {
+                const range = btn.getAttribute('data-evo-range') || '7D';
+                if (state.syncWithGlobalFilter) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.evolutionRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnSync) {
+            btnSync.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                updateEvoControlsUI();
+                updateChartsAndVisuals();
+            });
+        }
+
+        evoButtons.forEach(btn => {
             btn.addEventListener('click', () => {
-                const range = btn.getAttribute('data-evo-range') || 'ALL';
-                state.evolutionRange = range;
-                buttons.forEach(b => {
-                    b.classList.remove('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                    b.classList.add('text-[var(--text-secondary)]');
-                });
-                btn.classList.add('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                btn.classList.remove('text-[var(--text-secondary)]');
+                if (state.syncWithGlobalFilter) return;
+                state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
+                updateEvoControlsUI();
                 updateChartsAndVisuals();
             });
         });
+
+        updateEvoControlsUI();
+    }
+
+    // Controle do Filtro Autônomo do Mapa (Geolocalização das Medições em Campo)
+    function initMapFilter() {
+        const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
+        const mapSyncIcon = document.getElementById('mapSyncIcon');
+        const mapSyncText = document.getElementById('mapSyncText');
+        const mapButtons = document.querySelectorAll('.btn-map-filter');
+
+        function updateMapControlsUI() {
+            if (btnMapSync) {
+                if (state.mapSyncWithGlobal) {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
+                    btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
+                } else {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
+                    btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            mapButtons.forEach(btn => {
+                const range = btn.getAttribute('data-map-range') || '7D';
+                if (state.mapSyncWithGlobal) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.mapRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnMapSync) {
+            btnMapSync.addEventListener('click', () => {
+                state.mapSyncWithGlobal = !state.mapSyncWithGlobal;
+                updateMapControlsUI();
+                updateMap();
+            });
+        }
+
+        mapButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                if (state.mapSyncWithGlobal) return;
+                state.mapRange = btn.getAttribute('data-map-range') || '7D';
+                updateMapControlsUI();
+                updateMap();
+            });
+        });
+
+        updateMapControlsUI();
     }
 
     function initPowerUserShortcuts() {

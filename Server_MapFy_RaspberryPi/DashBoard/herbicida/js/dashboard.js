@@ -7,11 +7,18 @@
 (function () {
     'use strict';
 
+    const HerbicidaEngine = window.HerbicidaEngine || {};
+    const OpenMeteoService = window.OpenMeteoService || {};
+
     const state = {
         allRecords: (window.HerbicidaEngine && typeof window.HerbicidaEngine.normalizeRecord === 'function')
             ? (window.HERBICIDA_DATA || []).map(r => window.HerbicidaEngine.normalizeRecord(r))
             : (window.HERBICIDA_DATA || []),
         filteredRecords: [],
+        evolutionRange: '7D',
+        syncWithGlobalFilter: true,
+        mapSyncWithGlobal: true,
+        mapRange: '7D',
         activeFilters: {
             dataInicio: '',
             dataFim: '',
@@ -33,6 +40,9 @@
         map: null,
         markersLayer: null,
         charts: {},
+        weatherSyncMap: new Map(),
+        auditStats: null,
+        modalTimelineChart: null,
         timelineMode: 'dia',
         currentPage: 1,
         pageSize: 10
@@ -50,17 +60,26 @@
                 : raw;
         }
         state.filteredRecords = [...state.allRecords];
+        if (window.OpenMeteoService) {
+            state.weatherSyncMap = (typeof window.OpenMeteoService.syncRecordsSync === 'function')
+                ? window.OpenMeteoService.syncRecordsSync(state.allRecords)
+                : new Map();
+            state.auditStats = window.OpenMeteoService.auditDataset(state.allRecords, state.weatherSyncMap);
+        }
         initTheme();
+        initSafraYear();
         initFilters();
         initMap();
         initCharts();
+        initEvolutionFilter();
+        initMapFilter();
         updateAllViews();
         bindEvents();
     }
 
     // --- GERENCIAMENTO DE TEMA (CLARO/ESCURO) ---
     function initTheme() {
-        const savedTheme = localStorage.getItem('pitangueiras_theme') || 'light';
+        const savedTheme = localStorage.getItem('pitangueiras_theme') || (document.documentElement.classList.contains('dark') ? 'dark' : 'light');
         if (savedTheme === 'dark') {
             document.documentElement.classList.add('dark');
         } else {
@@ -77,24 +96,61 @@
         }
     }
 
+    // --- IDENTIFICAÇÃO DINÂMICA DE SAFRA E ANO (VIRADA AUTOMÁTICA) ---
+    function initSafraYear() {
+        const currentYear = new Date().getFullYear();
+        const badgeSafra = document.getElementById('badgeSafraAno');
+        if (badgeSafra) {
+            badgeSafra.innerHTML = `<i class="fa-solid fa-spray-can-sparkles mr-1"></i> Safra ${currentYear}`;
+        }
+        const mobileScope = document.getElementById('mobileSummaryScopeText');
+        if (mobileScope) {
+            mobileScope.textContent = `Safra ${currentYear}`;
+        }
+    }
+
     // --- INICIALIZAÇÃO DE FILTROS ---
     function initFilters() {
         const fazendas = new Set();
         const ordens = new Set();
         const operacoes = new Set();
         const plantasSocas = new Set();
+        const dateCounts = new Map();
 
         state.allRecords.forEach(r => {
             if (r.fazenda) fazendas.add(r.fazenda);
             if (r.os) ordens.add(r.os);
             if (r.operacao) operacoes.add(r.operacao);
             if (r.planta_soca) plantasSocas.add(r.planta_soca);
+            if (r.data_iso) {
+                dateCounts.set(r.data_iso, (dateCounts.get(r.data_iso) || 0) + 1);
+            }
         });
+
+        // Filtro Global de Datas: Popula dinamicamente SOMENTE datas com relatórios
+        const sortedDates = Array.from(dateCounts.keys()).sort();
+        populateDateSelect('filterDataInicio', sortedDates, dateCounts, 'Todas as Datas com Relatórios');
+        populateDateSelect('filterDataFim', sortedDates, dateCounts, 'Todas as Datas com Relatórios');
 
         populateSelect('filterFazenda', Array.from(fazendas).sort(), 'Todas as Fazendas');
         populateSelect('filterOS', Array.from(ordens).sort(), 'Todas as OS');
         populateSelect('filterOperacao', Array.from(operacoes).sort(), 'Todas as Operações');
         populateSelect('filterPlantaSoca', Array.from(plantasSocas).sort(), 'Todas');
+    }
+
+    function populateDateSelect(id, sortedDates, dateCounts, defaultLabel) {
+        const sel = document.getElementById(id);
+        if (!sel) return;
+        sel.innerHTML = `<option value="">${defaultLabel}</option>`;
+        sortedDates.forEach(isoDate => {
+            const count = dateCounts.get(isoDate) || 0;
+            const parts = isoDate.split('-');
+            const brDate = parts.length === 3 ? `${parts[2]}/${parts[1]}/${parts[0]}` : isoDate;
+            const opt = document.createElement('option');
+            opt.value = isoDate;
+            opt.textContent = `${brDate} (${count} ${count === 1 ? 'relatório' : 'relatórios'})`;
+            sel.appendChild(opt);
+        });
     }
 
     function populateSelect(id, items, defaultLabel) {
@@ -135,6 +191,9 @@
     }
 
     function updateMapMarkers() {
+        const mapRecords = state.mapSyncWithGlobal
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.mapRange);
         if (!state.map || !state.markersLayer) return;
         state.markersLayer.clearLayers();
 
@@ -214,7 +273,7 @@
             if (chartType !== 'bar' && chartType !== 'doughnut' && chartType !== 'pie') return;
 
             const isDark = document.documentElement.classList.contains('dark');
-            const defaultTextColor = isDark ? '#F1F5F9' : '#1E293B';
+            const defaultTextColor = isDark ? '#FFFFFF' : '#0F172A';
 
             chart.data.datasets.forEach((dataset, datasetIdx) => {
                 const meta = chart.getDatasetMeta(datasetIdx);
@@ -227,15 +286,19 @@
                     ctx.save();
                     ctx.font = 'bold 11px Inter, sans-serif';
 
-                    if (chartType === 'pie') { // Em Doughnut, valores ficam no centro e não abaixo na fatia
-                        const pos = element.tooltipPosition ? element.tooltipPosition() : null;
-                        if (pos) {
-                            ctx.fillStyle = '#FFFFFF';
-                            ctx.textAlign = 'center';
-                            ctx.textBaseline = 'middle';
-                            ctx.shadowColor = 'rgba(0, 0, 0, 0.7)';
-                            ctx.shadowBlur = 4;
-                            ctx.fillText(String(val), pos.x, pos.y);
+                    if (chartType === 'pie' || chartType === 'doughnut') {
+                        const angleSpan = element.endAngle - element.startAngle;
+                        if (angleSpan >= 0.18) {
+                            const pos = element.tooltipPosition ? element.tooltipPosition() : null;
+                            if (pos) {
+                                ctx.fillStyle = '#FFFFFF';
+                                ctx.textAlign = 'center';
+                                ctx.textBaseline = 'middle';
+                                ctx.font = 'bold 12px Inter, sans-serif';
+                                ctx.shadowColor = 'rgba(0, 0, 0, 0.85)';
+                                ctx.shadowBlur = 4;
+                                ctx.fillText(String(val), pos.x, pos.y);
+                            }
                         }
                     } else if (chartType === 'bar' && chart.options.indexAxis === 'y') {
                         ctx.fillStyle = defaultTextColor;
@@ -295,8 +358,8 @@
                         ctx.fillText(Number.isInteger(totalSum) ? totalSum.toLocaleString('pt-BR') : totalSum.toFixed(1), centerX, centerY - (fontSizeLabel * 0.55));
 
                         // Rótulo "TOTAL"
-                        ctx.font = `600 ${fontSizeLabel}px 'Plus Jakarta Sans', sans-serif`;
-                        ctx.fillStyle = isDark ? '#94A3B8' : '#64748B';
+                        ctx.font = `700 ${fontSizeLabel}px 'Plus Jakarta Sans', sans-serif`;
+                        ctx.fillStyle = isDark ? '#E2E8F0' : '#475569';
                         ctx.fillText('TOTAL', centerX, centerY + (fontSizeNum * 0.55));
 
                         ctx.restore();
@@ -306,6 +369,47 @@
         }
     };
 
+    // --- CONFIGURAÇÃO DE LEGENDA RICA PARA DONUTS (VALOR + PORCENTAGEM) ---
+    function createDonutLegendConfig(textColor, position = 'right') {
+        const isDark = document.documentElement.classList.contains('dark');
+        const activeTextColor = isDark ? '#FFFFFF' : '#0F172A';
+        return {
+            position: position,
+            labels: {
+                boxWidth: 12,
+                boxHeight: 12,
+                color: activeTextColor,
+                padding: 10,
+                font: { size: 11, weight: '700' },
+                generateLabels: function (chart) {
+                    const data = chart.data;
+                    if (data.labels && data.labels.length && data.datasets && data.datasets.length) {
+                        const dataset = data.datasets[0];
+                        const total = (dataset.data || []).reduce((acc, v) => acc + (Number(v) || 0), 0);
+                        const darkNow = document.documentElement.classList.contains('dark');
+                        return data.labels.map((label, i) => {
+                            const val = dataset.data && dataset.data[i] !== undefined ? dataset.data[i] : 0;
+                            const pct = total > 0 ? Math.round((val / total) * 100) : 0;
+                            const bg = Array.isArray(dataset.backgroundColor) ? dataset.backgroundColor[i] : dataset.backgroundColor;
+                            const meta = chart.getDatasetMeta(0);
+                            const isHidden = meta && meta.data && meta.data[i] ? meta.data[i].hidden : false;
+                            return {
+                                text: `${label}: ${val} (${pct}%)`,
+                                fillStyle: bg,
+                                strokeStyle: bg,
+                                lineWidth: 0,
+                                hidden: isHidden,
+                                index: i,
+                                fontColor: darkNow ? '#FFFFFF' : '#0F172A'
+                            };
+                        });
+                    }
+                    return [];
+                }
+            }
+        };
+    }
+
     // --- GRÁFICOS INTERATIVOS VIA CHART.JS ---
     function initCharts() {
         if (typeof Chart !== 'undefined' && Chart.register) {
@@ -313,35 +417,40 @@
         }
 
         const isDark = document.documentElement.classList.contains('dark');
-        const textColor = isDark ? '#94A3B8' : '#64748B';
-        const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+        const textColor = isDark ? '#FFFFFF' : '#0F172A';
+        const tickColor = isDark ? '#F1F5F9' : '#1E293B';
+        const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)';
 
-        // 1. Scatter: Temp x UR
-        const ctxTempUr = document.getElementById('chartTempUrScatter')?.getContext('2d');
-        if (ctxTempUr) {
-            state.charts.tempUr = new Chart(ctxTempUr, {
-                type: 'scatter',
-                data: { datasets: [] },
+        // 1. Gráfico Pareado: Delta T Campo vs Modelo ERA5
+        const ctxAuditComp = document.getElementById('chartAuditComparison')?.getContext('2d');
+        if (ctxAuditComp) {
+            state.charts.auditComparison = new Chart(ctxAuditComp, {
+                type: 'bar',
+                data: {
+                    labels: [],
+                    datasets: [
+                        { label: 'Delta T Campo (°C)', data: [], backgroundColor: '#10B981', borderRadius: 4 },
+                        { label: 'Delta T ERA5 (°C)', data: [], backgroundColor: '#0284C7', borderRadius: 4 }
+                    ]
+                },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
                     scales: {
-                        x: {
-                            title: { display: true, text: 'Temperatura (°C)', color: textColor },
-                            grid: { color: gridColor },
-                            ticks: { color: textColor }
-                        },
+                        x: { grid: { display: false }, ticks: { color: tickColor, font: { size: 10, weight: '600' }, maxRotation: 45 } },
                         y: {
-                            title: { display: true, text: 'Umidade Relativa (%)', color: textColor },
+                            beginAtZero: true,
+                            grace: '15%',
                             grid: { color: gridColor },
-                            ticks: { color: textColor }
+                            ticks: { color: tickColor, font: { weight: '600' }, precision: 1 },
+                            title: { display: true, text: 'Delta T (°C)', color: textColor, font: { weight: '700' } }
                         }
                     },
                     plugins: {
                         legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } },
                         tooltip: {
                             callbacks: {
-                                label: ctx => `ID #${ctx.raw.id}: ${ctx.raw.x}°C, ${ctx.raw.y}% UR (ΔT: ${ctx.raw.dt}°C)`
+                                label: ctx => `${ctx.dataset.label}: ${ctx.raw}°C`
                             }
                         }
                     }
@@ -349,35 +458,35 @@
             });
         }
 
-        // 2. Scatter: Vento x UR
-        const ctxVentoUr = document.getElementById('chartVentoUrScatter')?.getContext('2d');
-        if (ctxVentoUr) {
-            state.charts.ventoUr = new Chart(ctxVentoUr, {
-                type: 'scatter',
-                data: { datasets: [] },
+        // 2. Gráfico Donut: Distribuição da Auditoria Climática
+        const ctxAuditDist = document.getElementById('chartAuditDistribution')?.getContext('2d');
+        if (ctxAuditDist) {
+            state.charts.auditDistribution = new Chart(ctxAuditDist, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Compatível', 'Divergência Moderada', 'Divergência Elevada', 'Reconstruído (ERA5)'],
+                    datasets: [{
+                        data: [0, 0, 0, 0],
+                        backgroundColor: ['#10B981', '#F59E0B', '#EF4444', '#3B82F6'],
+                        borderWidth: 0
+                    }]
+                },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
-                    scales: {
-                        x: {
-                            title: { display: true, text: 'Vento (km/h)', color: textColor },
-                            grid: { color: gridColor },
-                            ticks: { color: textColor }
-                        },
-                        y: {
-                            title: { display: true, text: 'Umidade Relativa (%)', color: textColor },
-                            grid: { color: gridColor },
-                            ticks: { color: textColor }
-                        }
-                    },
                     plugins: {
-                        legend: { display: false },
+                        legend: createDonutLegendConfig(textColor, 'right'),
                         tooltip: {
                             callbacks: {
-                                label: ctx => `ID #${ctx.raw.id}: Vento ${ctx.raw.x} km/h, UR ${ctx.raw.y}%`
+                                label: ctx => {
+                                    const total = ctx.dataset.data.reduce((a, b) => a + (Number(b) || 0), 0);
+                                    const pct = total > 0 ? Math.round((ctx.raw / total) * 100) : 0;
+                                    return ` ${ctx.label}: ${ctx.raw} (${pct}%)`;
+                                }
                             }
                         }
-                    }
+                    },
+                    cutout: '65%'
                 }
             });
         }
@@ -399,7 +508,16 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'right', labels: { boxWidth: 10, color: textColor } }
+                        legend: createDonutLegendConfig(textColor, 'right'),
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => {
+                                    const total = ctx.dataset.data.reduce((a, b) => a + (Number(b) || 0), 0);
+                                    const pct = total > 0 ? Math.round((ctx.raw / total) * 100) : 0;
+                                    return ` ${ctx.label}: ${ctx.raw} (${pct}%)`;
+                                }
+                            }
+                        }
                     },
                     cutout: '65%'
                 }
@@ -504,7 +622,16 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'bottom', labels: { boxWidth: 10, color: textColor } }
+                        legend: createDonutLegendConfig(textColor, 'bottom'),
+                        tooltip: {
+                            callbacks: {
+                                label: ctx => {
+                                    const total = ctx.dataset.data.reduce((a, b) => a + (Number(b) || 0), 0);
+                                    const pct = total > 0 ? Math.round((ctx.raw / total) * 100) : 0;
+                                    return ` ${ctx.label}: ${ctx.raw} (${pct}%)`;
+                                }
+                            }
+                        }
                     },
                     cutout: '60%'
                 }
@@ -540,25 +667,28 @@
 
     function updateChartThemes() {
         const isDark = document.documentElement.classList.contains('dark');
-        const textColor = isDark ? '#94A3B8' : '#64748B';
-        const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+        const textColor = isDark ? '#FFFFFF' : '#0F172A';
+        const tickColor = isDark ? '#F1F5F9' : '#1E293B';
+        const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)';
 
         Object.values(state.charts).forEach(c => {
             if (!c) return;
             if (c.options.scales) {
                 if (c.options.scales.x) {
-                    if (c.options.scales.x.ticks) c.options.scales.x.ticks.color = textColor;
+                    if (c.options.scales.x.ticks) c.options.scales.x.ticks.color = tickColor;
                     if (c.options.scales.x.grid) c.options.scales.x.grid.color = gridColor;
                     if (c.options.scales.x.title) c.options.scales.x.title.color = textColor;
                 }
                 if (c.options.scales.y) {
-                    if (c.options.scales.y.ticks) c.options.scales.y.ticks.color = textColor;
+                    if (c.options.scales.y.ticks) c.options.scales.y.ticks.color = tickColor;
                     if (c.options.scales.y.grid) c.options.scales.y.grid.color = gridColor;
                     if (c.options.scales.y.title) c.options.scales.y.title.color = textColor;
                 }
             }
             if (c.options.plugins && c.options.plugins.legend) {
-                c.options.plugins.legend.labels.color = textColor;
+                if (c.options.plugins.legend.labels) {
+                    c.options.plugins.legend.labels.color = textColor;
+                }
             }
             c.update();
         });
@@ -776,43 +906,53 @@
     }
 
     function updateChartsData(records, weather, equipCondition, operations, plantSoca) {
-        // 1. Temp x UR Scatter
-        if (state.charts.tempUr) {
-            const idealPts = [];
-            const atencaoPts = [];
-            const criticoPts = [];
-
-            records.forEach(r => {
-                if (!r.has_weather || r.temp_num === null || r.ur_num === null) return;
-                const pt = { x: r.temp_num, y: r.ur_num, id: r.id, dt: r.delta_t_num };
-                if (r.delta_t_classe === 'Ideal (2-8°C)') idealPts.push(pt);
-                else if (r.delta_t_classe === 'Atenção (8-10°C)') atencaoPts.push(pt);
-                else criticoPts.push(pt);
+        // 1. Atualização do Gráfico Pareado (Campo vs ERA5)
+        if (state.charts.auditComparison) {
+            const sampleRecords = records.slice(0, 15);
+            state.charts.auditComparison.data.labels = sampleRecords.map(r => `#${r.id} ${r.fazenda.substring(0, 8)}`);
+            const fieldData = sampleRecords.map(r => r.delta_t_num !== null ? r.delta_t_num : 0);
+            const era5Data = sampleRecords.map(r => {
+                const api = (state.weatherSyncMap && typeof state.weatherSyncMap.get === 'function')
+                    ? state.weatherSyncMap.get(r.id) : null;
+                return (api && api.deltaT !== null) ? api.deltaT : 0;
             });
-
-            state.charts.tempUr.data.datasets = [
-                { label: 'Ideal (2-8°C)', data: idealPts, backgroundColor: '#10B981', pointRadius: 5 },
-                { label: 'Atenção (8-10°C)', data: atencaoPts, backgroundColor: '#F59E0B', pointRadius: 6 },
-                { label: 'Crítico (>10°C)', data: criticoPts, backgroundColor: '#EF4444', pointRadius: 6 }
-            ];
-            state.charts.tempUr.update();
+            if (!state.charts.auditComparison.data.datasets || state.charts.auditComparison.data.datasets.length < 2) {
+                state.charts.auditComparison.data.datasets = [
+                    { label: 'Delta T Campo (°C)', data: fieldData, backgroundColor: '#10B981', borderRadius: 4 },
+                    { label: 'Delta T ERA5 (°C)', data: era5Data, backgroundColor: '#0284C7', borderRadius: 4 }
+                ];
+            } else {
+                state.charts.auditComparison.data.datasets[0].data = fieldData;
+                state.charts.auditComparison.data.datasets[1].data = era5Data;
+            }
+            state.charts.auditComparison.update();
         }
 
-        // 2. Vento x UR Scatter
-        if (state.charts.ventoUr) {
-            const ventoPts = records.filter(r => r.has_weather && r.vento_num !== null && r.ur_num !== null)
-                .map(r => ({ x: r.vento_num, y: r.ur_num, id: r.id }));
-            state.charts.ventoUr.data.datasets = [{
-                data: ventoPts,
-                backgroundColor: '#0D9488',
-                pointRadius: 5
-            }];
-            state.charts.ventoUr.update();
+        // 2. Atualização do Gráfico Donut de Auditoria Climática
+        if (state.charts.auditDistribution) {
+            const localAudit = (window.OpenMeteoService && state.weatherSyncMap)
+                ? window.OpenMeteoService.auditDataset(records, state.weatherSyncMap)
+                : state.auditStats;
+            if (localAudit) {
+                if (!state.charts.auditDistribution.data.datasets || state.charts.auditDistribution.data.datasets.length === 0) {
+                    state.charts.auditDistribution.data.datasets = [{ data: [0,0,0,0], backgroundColor: ['#10B981', '#F59E0B', '#EF4444', '#3B82F6'], borderWidth: 0 }];
+                }
+                state.charts.auditDistribution.data.datasets[0].data = [
+                    localAudit.compativeis || 0,
+                    localAudit.divModerada || 0,
+                    localAudit.divElevada || 0,
+                    localAudit.reconstruidos || 0
+                ];
+                state.charts.auditDistribution.update();
+            }
         }
 
         // 3. Delta T Donut
         if (state.charts.deltaT) {
             const dtC = weather.deltaT.classes;
+            if (!state.charts.deltaT.data.datasets || state.charts.deltaT.data.datasets.length === 0) {
+                state.charts.deltaT.data.datasets = [{ data: [0,0,0,0] }];
+            }
             state.charts.deltaT.data.datasets[0].data = [
                 dtC['Ideal (2-8°C)'] || 0,
                 dtC['Atenção (8-10°C)'] || 0,
@@ -824,6 +964,12 @@
 
         // 4. Limpeza
         if (state.charts.limpeza) {
+            if (!state.charts.limpeza.data.datasets || state.charts.limpeza.data.datasets.length < 2) {
+                state.charts.limpeza.data.datasets = [
+                    { label: 'Conforme (OK)', data: [0,0], backgroundColor: '#10B981' },
+                    { label: 'Irregular (NOK)', data: [0,0], backgroundColor: '#EF4444' }
+                ];
+            }
             state.charts.limpeza.data.datasets[0].data = [equipCondition.filtros.ok, equipCondition.bicos.ok];
             state.charts.limpeza.data.datasets[1].data = [equipCondition.filtros.nok, equipCondition.bicos.nok];
             state.charts.limpeza.update();
@@ -835,6 +981,9 @@
             const v150 = equipCondition.vazoes['150 L/ha'] || 0;
             const v300 = equipCondition.vazoes['300 L/ha'] || 0;
             const vOutros = equipCondition.vazoes['Não Informado'] || 0;
+            if (!state.charts.vazao.data.datasets || state.charts.vazao.data.datasets.length === 0) {
+                state.charts.vazao.data.datasets = [{ data: [0,0,0,0] }];
+            }
             state.charts.vazao.data.datasets[0].data = [v200, v150, v300, vOutros];
             state.charts.vazao.update();
         }
@@ -842,23 +991,47 @@
         // 6. Operações
         if (state.charts.operacoes) {
             state.charts.operacoes.data.labels = operations.map(o => o.nome.substring(0, 22) + (o.nome.length > 22 ? '...' : ''));
+            if (!state.charts.operacoes.data.datasets || state.charts.operacoes.data.datasets.length === 0) {
+                state.charts.operacoes.data.datasets = [{ data: [] }];
+            }
             state.charts.operacoes.data.datasets[0].data = operations.map(o => o.total);
             state.charts.operacoes.update();
         }
 
         // 7. Planta ou Soca
         if (state.charts.plantaSoca) {
-            state.charts.plantaSoca.data.labels = plantSoca.map(p => p.tipo);
-            state.charts.plantaSoca.data.datasets[0].data = plantSoca.map(p => p.total);
+            const sortedPlantaSoca = [...plantSoca].sort((a, b) => b.total - a.total);
+            state.charts.plantaSoca.data.labels = sortedPlantaSoca.map(p => p.tipo);
+            const colorMap = {
+                'Soca': '#10B981',
+                'Planta': '#06B6D4',
+                'Carreador': '#F59E0B',
+                'Não informado': '#94A3B8'
+            };
+            const bgColors = sortedPlantaSoca.map((p, idx) => colorMap[p.tipo] || ['#10B981', '#06B6D4', '#F59E0B', '#94A3B8', '#8B5CF6'][idx % 5]);
+            if (!state.charts.plantaSoca.data.datasets || state.charts.plantaSoca.data.datasets.length === 0) {
+                state.charts.plantaSoca.data.datasets = [{ data: [], backgroundColor: bgColors, borderWidth: 0 }];
+            }
+            state.charts.plantaSoca.data.datasets[0].data = sortedPlantaSoca.map(p => p.total);
+            state.charts.plantaSoca.data.datasets[0].backgroundColor = bgColors;
             state.charts.plantaSoca.update();
         }
 
         // 8. Timeline
         if (state.charts.timeline) {
-            const timelineData = HerbicidaEngine.computeTemporalData(records, state.timelineMode);
+            const timelineData = (typeof HerbicidaEngine.computeTemporalData === 'function')
+                ? HerbicidaEngine.computeTemporalData(records, state.timelineMode)
+                : [];
             state.charts.timeline.data.labels = timelineData.map(t => t.label);
-            state.charts.timeline.data.datasets[0].data = timelineData.map(t => t.total);
-            state.charts.timeline.data.datasets[1].data = timelineData.map(t => t.ocorrencias);
+            if (!state.charts.timeline.data.datasets || state.charts.timeline.data.datasets.length < 2) {
+                state.charts.timeline.data.datasets = [
+                    { label: 'Total Inspeções', data: timelineData.map(t => t.total), backgroundColor: '#10B981', borderRadius: 4 },
+                    { label: 'Ocorrências / Riscos', data: timelineData.map(t => t.ocorrencias), backgroundColor: '#EF4444', borderRadius: 4 }
+                ];
+            } else {
+                state.charts.timeline.data.datasets[0].data = timelineData.map(t => t.total);
+                state.charts.timeline.data.datasets[1].data = timelineData.map(t => t.ocorrencias);
+            }
             state.charts.timeline.update();
         }
     }
@@ -902,6 +1075,51 @@
             const filtroBadge = r.is_nok_filtro ? `<span class="badge badge-red">NOK</span>` : `<span class="badge badge-emerald">OK</span>`;
             const bicoBadge = r.is_nok_bico ? `<span class="badge badge-red">NOK</span>` : (r.limpeza_bicos === 'N / A' ? `<span class="badge badge-slate">N/A</span>` : `<span class="badge badge-emerald">OK</span>`);
 
+            // Auditoria Climática (Trilha A vs Trilha B)
+            const apiData = state.weatherSyncMap ? state.weatherSyncMap.get(r.id) : null;
+            const auditComp = (window.OpenMeteoService && apiData) ? window.OpenMeteoService.compareRecord(r, apiData) : null;
+            let auditBadge = `<span class="badge badge-slate">Pendente</span>`;
+            if (auditComp) {
+                let icon = 'fa-check';
+                if (auditComp.statusKey === 'divergencia_moderada') icon = 'fa-triangle-exclamation';
+                else if (auditComp.statusKey === 'divergencia_elevada') icon = 'fa-circle-xmark';
+                else if (auditComp.statusKey === 'reconstruido') icon = 'fa-cloud-arrow-down';
+                auditBadge = `<span class="badge ${auditComp.badgeClass}" title="${auditComp.desc}"><i class="fa-solid ${icon} mr-1"></i>${auditComp.status}</span>`;
+            }
+
+            // Exibição Lado a Lado: Telemetria de Campo vs Reconstrução ERA5
+            const campoVento = (r.vento !== null && r.vento !== undefined)
+                ? `<span class="font-bold text-slate-800 dark:text-slate-100">${r.vento} km/h</span>`
+                : `<span class="text-slate-400 text-[11px] italic">Sem Telemetria</span>`;
+            const era5Vento = (apiData && apiData.vento !== null && apiData.vento !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-semibold block mt-0.5"><i class="fa-solid fa-cloud-sun mr-0.5 text-[10px]"></i>ERA5: ${apiData.vento} km/h</span>`
+                : '';
+
+            const campoUr = (r.ur !== null && r.ur !== undefined)
+                ? `<span class="font-bold text-slate-800 dark:text-slate-100">${r.ur}%</span>`
+                : `<span class="text-slate-400 text-[11px] italic">Sem Telemetria</span>`;
+            const era5Ur = (apiData && apiData.ur !== null && apiData.ur !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-semibold block mt-0.5"><i class="fa-solid fa-droplet mr-0.5 text-[10px]"></i>ERA5: ${apiData.ur}%</span>`
+                : '';
+
+            const campoTemp = (r.temp !== null && r.temp !== undefined)
+                ? `<span class="font-bold text-slate-800 dark:text-slate-100">${r.temp}°C</span>`
+                : `<span class="text-slate-400 text-[11px] italic">Sem Telemetria</span>`;
+            const era5Temp = (apiData && apiData.temp !== null && apiData.temp !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-semibold block mt-0.5"><i class="fa-solid fa-temperature-half mr-0.5 text-[10px]"></i>ERA5: ${apiData.temp}°C</span>`
+                : '';
+
+            const campoDt = r.delta_t_num !== null
+                ? dtBadge
+                : `<span class="badge badge-slate text-[11px]">Sem Telemetria</span>`;
+            const era5Dt = (apiData && apiData.deltaT !== null && apiData.deltaT !== undefined)
+                ? `<span class="text-[11px] text-sky-600 dark:text-sky-300 font-bold block mt-0.5"><i class="fa-solid fa-gauge-high mr-0.5 text-[10px]"></i>ERA5: ${apiData.deltaT}°C</span>`
+                : '';
+
+            const diffLabel = (auditComp && auditComp.diffDeltaT !== null && auditComp.diffDeltaT !== undefined)
+                ? `<span class="text-[11px] text-slate-600 dark:text-slate-300 block font-mono font-bold mt-0.5">Δ = ${auditComp.diffDeltaT > 0 ? '+' : ''}${auditComp.diffDeltaT.toFixed(1)}°C</span>`
+                : (auditComp && auditComp.statusKey === 'reconstruido' ? `<span class="text-[10px] text-sky-500 dark:text-sky-400 block font-semibold mt-0.5">Reconstruído ERA5</span>` : '');
+
             return `
                 <tr class="cursor-pointer" onclick="window.abrirModalInspecao('${r.id}')">
                     <td class="font-bold text-emerald-600 dark:text-emerald-400">#${r.id}</td>
@@ -910,15 +1128,16 @@
                     <td>${r.os}</td>
                     <td class="max-w-[140px] truncate" title="${r.operacao}">${r.operacao}</td>
                     <td>${r.planta_soca}</td>
-                    <td>${r.vento ? r.vento + ' km/h' : '-'}</td>
-                    <td>${r.ur ? r.ur + '%' : '-'}</td>
-                    <td>${r.temp ? r.temp + '°C' : '-'}</td>
-                    <td>${dtBadge}</td>
+                    <td>${campoVento}${era5Vento}</td>
+                    <td>${campoUr}${era5Ur}</td>
+                    <td>${campoTemp}${era5Temp}</td>
+                    <td>${campoDt}${era5Dt}</td>
                     <td>${r.esp_orig}</td>
                     <td>${filtroBadge}</td>
                     <td>${bicoBadge}</td>
                     <td>${r.vazao_orig}</td>
                     <td><span class="badge ${r.status === 'Fechado' ? 'badge-emerald' : 'badge-blue'}">${r.status}</span></td>
+                    <td>${auditBadge}${diffLabel}</td>
                     <td class="max-w-[180px] truncate text-[11px] text-slate-600 dark:text-slate-300" title="${r.obs}">
                         ${r.equipamentos_nomes?.length ? `<b>[${r.equipamentos_nomes.join(', ')}]</b> ` : ''}${r.obs || '—'}
                     </td>
@@ -930,6 +1149,144 @@
                 </tr>
             `;
         }).join('');
+    }
+
+    // --- GRÁFICO DIURNO DO MODAL (06h às 18h) ---
+    let modalTimelineChartInstance = null;
+
+    function renderModalTimelineChart(r, apiData) {
+        const canvas = document.getElementById('chartModalTimeline');
+        if (!canvas) return;
+
+        if (modalTimelineChartInstance) {
+            modalTimelineChartInstance.destroy();
+            modalTimelineChartInstance = null;
+        }
+
+        // Recupera dados horários do cache ERA5
+        let hourly = null;
+        if (window.OpenMeteoService && r.lat && r.lon && r.data_iso) {
+            const cached = window.OpenMeteoService.getFromCache(r.lat, r.lon, r.data_iso);
+            if (cached && cached.hourly) {
+                hourly = cached.hourly;
+            }
+        }
+
+        if (!hourly || !hourly.time || hourly.time.length === 0) {
+            canvas.classList.add('hidden');
+            return;
+        }
+
+        // Filtra janela de aplicação das 06:00 às 18:00
+        const labels = [];
+        const dataTemp = [];
+        const dataUr = [];
+        const dataVento = [];
+        const dataDeltaT = [];
+
+        for (let i = 0; i < hourly.time.length; i++) {
+            const timeStr = hourly.time[i];
+            const hourPart = timeStr.includes('T') ? timeStr.split('T')[1].substring(0, 5) : timeStr;
+            const hourNum = parseInt(hourPart.split(':')[0], 10);
+            if (hourNum >= 6 && hourNum <= 18) {
+                labels.push(hourPart);
+                const t = hourly.temperature_2m ? hourly.temperature_2m[i] : 0;
+                const rh = hourly.relative_humidity_2m ? hourly.relative_humidity_2m[i] : 0;
+                const v = hourly.wind_speed_10m ? hourly.wind_speed_10m[i] : 0;
+                const dt = (window.HerbicidaEngine && typeof window.HerbicidaEngine.calculateDeltaT === 'function')
+                    ? window.HerbicidaEngine.calculateDeltaT(t, rh)
+                    : 0;
+
+                dataTemp.push(t);
+                dataUr.push(rh);
+                dataVento.push(v);
+                dataDeltaT.push(dt);
+            }
+        }
+
+        canvas.classList.remove('hidden');
+        const ctx = canvas.getContext('2d');
+        const isDark = document.documentElement.classList.contains('dark');
+        const textColor = isDark ? '#94A3B8' : '#64748B';
+        const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+
+        modalTimelineChartInstance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'Delta T (°C)',
+                        data: dataDeltaT,
+                        borderColor: '#10B981',
+                        backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                        borderWidth: 2.5,
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Temperatura (°C)',
+                        data: dataTemp,
+                        borderColor: '#EF4444',
+                        borderWidth: 1.5,
+                        borderDash: [4, 4],
+                        pointRadius: 2,
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Vento (km/h)',
+                        data: dataVento,
+                        borderColor: '#0284C7',
+                        borderWidth: 1.5,
+                        pointRadius: 2,
+                        tension: 0.3,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Umidade Relativa (%)',
+                        data: dataUr,
+                        borderColor: '#8B5CF6',
+                        borderWidth: 1.5,
+                        borderDash: [2, 2],
+                        pointRadius: 2,
+                        tension: 0.3,
+                        yAxisID: 'y1'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: { mode: 'index', intersect: false },
+                scales: {
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: textColor, font: { size: 9 } }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: gridColor },
+                        ticks: { color: textColor, font: { size: 9 } },
+                        title: { display: true, text: '°C / km/h', color: textColor, font: { size: 9 } }
+                    },
+                    y1: {
+                        position: 'right',
+                        beginAtZero: true,
+                        max: 100,
+                        grid: { display: false },
+                        ticks: { color: textColor, font: { size: 9 } },
+                        title: { display: true, text: 'UR %', color: textColor, font: { size: 9 } }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { boxWidth: 8, font: { size: 9 }, color: textColor }
+                    }
+                }
+            }
+        });
     }
 
     // --- MODAL DE DETALHES ---
@@ -949,94 +1306,234 @@
 
         const modal = document.getElementById('detailModal');
         const title = document.getElementById('modalTitle');
+        const subtitle = document.getElementById('modalSubtitle');
+        const badge = document.getElementById('modalAuditBadge');
         const body = document.getElementById('modalBody');
 
         if (!modal || !title || !body) return;
 
         const regId = r.id || r.ID || id;
         const regFazenda = r.fazenda || r.Fazenda || '-';
-        title.textContent = `Inspeção #${regId} • Fazenda ${regFazenda}`;
+        const dataRealizacao = r.data || r.data_fim || r.data_inicio || 'Data N/I';
+        const horaRealizacao = r.hora || (dataRealizacao.includes(' ') ? dataRealizacao.split(' ')[1] : '12:00');
+
+        title.textContent = `Dossiê Meteorológico • Inspeção #${regId}`;
+        const elDataRealizacao = document.getElementById('modalDataRealizacao');
+        if (elDataRealizacao) elDataRealizacao.textContent = dataRealizacao;
+
+        if (subtitle) {
+            subtitle.innerHTML = `<span class="inline-flex items-center gap-1 font-bold text-emerald-600 dark:text-emerald-400 mr-2"><i class="fa-solid fa-calendar-day"></i> Realização: ${dataRealizacao}</span> • Fazenda ${regFazenda} • OS ${r.os || '-'} • Operação: ${r.operacao || '-'}`;
+        }
+
+        // Obtém dados da Trilha B (Open-Meteo ERA5)
+        let apiData = state.weatherSyncMap ? state.weatherSyncMap.get(r.id) : null;
+        if (!apiData && window.OpenMeteoService && r.lat && r.lon && r.data_iso) {
+            const cached = window.OpenMeteoService.getFromCache(r.lat, r.lon, r.data_iso);
+            if (cached) {
+                apiData = window.OpenMeteoService.extractHourData(cached, r.hora, r.lat, r.lon, r.data_iso, true);
+            }
+        }
+
+        const auditComp = (window.OpenMeteoService && apiData)
+            ? window.OpenMeteoService.compareRecord(r, apiData)
+            : { status: 'Pendente', badgeClass: 'badge-slate', desc: 'Dados meteorológicos em sincronização', justificativa: '-', confiabilidade: '-' };
+
+        if (badge) {
+            badge.className = `badge ${auditComp.badgeClass} text-xs`;
+            badge.innerHTML = `<i class="fa-solid fa-shield-halved mr-1"></i>${auditComp.status}`;
+        }
 
         const dtVal = (r.delta_t_num !== undefined && r.delta_t_num !== null) ? r.delta_t_num : null;
         const dtClass = HerbicidaEngine.classifyDeltaT(dtVal);
 
+        // Gera recomendação por tipo de produto
+        const dtRef = dtVal !== null ? dtVal : (apiData ? apiData.deltaT : null);
+        const ventoRef = r.vento_num !== null ? r.vento_num : (apiData ? apiData.vento : null);
+        const sistRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('sistemicos', dtRef, ventoRef) : null;
+        const contRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('contato', dtRef, ventoRef) : null;
+        const soloRec = HerbicidaEngine.evaluateProductApplication ? HerbicidaEngine.evaluateProductApplication('pre_emergentes_solo', dtRef, ventoRef) : null;
+
         body.innerHTML = `
-            <div class="grid grid-cols-2 gap-4">
-                <!-- Grupo 1: Identificação Operacional -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        1. Identificação Operacional
-                    </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Fazenda:</b> ${r.fazenda}</div>
-                        <div><b>Ordem de Serviço:</b> ${r.os}</div>
-                        <div><b>Operação:</b> ${r.operacao}</div>
-                        <div><b>Planta / Soca:</b> ${r.planta_soca}</div>
-                        <div><b>Data Inspeção:</b> ${r.data}</div>
-                        <div><b>Status:</b> ${r.status} | <b>Score:</b> ${r.score}</div>
-                        <div><b>Usuário:</b> ${r.usuario}</div>
+            <!-- Faixa Oficial de Realização e Identificação Operacional -->
+            <div class="p-3.5 rounded-xl bg-gradient-to-r from-emerald-500/10 via-teal-500/10 to-blue-500/10 border border-emerald-500/20 dark:border-emerald-500/30 flex flex-wrap items-center justify-between gap-3 mb-4">
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-xl bg-emerald-600 text-white flex items-center justify-center font-black shadow-sm">
+                        <i class="fa-solid fa-calendar-check text-lg"></i>
+                    </div>
+                    <div>
+                        <span class="text-[10px] font-bold uppercase tracking-wider text-emerald-800 dark:text-emerald-300">Data e Hora da Realização</span>
+                        <div class="text-sm font-black text-slate-900 dark:text-white flex items-center gap-2">
+                            <span>${dataRealizacao}</span>
+                            <span class="text-[11px] font-medium text-slate-500">(${horaRealizacao})</span>
+                        </div>
                     </div>
                 </div>
-
-                <!-- Grupo 2: Condições Meteorológicas -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        2. Condições Meteorológicas
-                    </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Vento:</b> ${r.vento ? r.vento + ' km/h' : 'Não Informado'}</div>
-                        <div><b>Umidade Relativa:</b> ${r.ur ? r.ur + '%' : 'Não Informada'}</div>
-                        <div><b>Temperatura Ar:</b> ${r.temp ? r.temp + '°C' : 'Não Informada'}</div>
-                        <div><b>Bulbo Úmido (Tw):</b> ${r.tw_num ? r.tw_num + '°C' : 'N/I'}</div>
-                        <div class="pt-1"><b>Delta T:</b> <span class="badge" style="background-color: ${dtClass.color}20; color: ${dtClass.color}; font-weight: bold;">${r.delta_t_num ? r.delta_t_num + '°C' : 'N/I'} • ${dtClass.classe}</span></div>
+                <div class="flex flex-wrap items-center gap-2 text-xs">
+                    <div class="px-2.5 py-1 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                        <span class="text-slate-400 block text-[10px]">Duração</span>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${r.duracao_min || 0} min</span>
                     </div>
-                </div>
-
-                <!-- Grupo 3: Regulagem do Implemento -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        3. Regulagem do Pulverizador
-                    </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Espaçamento de Bico:</b> ${r.esp_orig} (${r.esp_grupo})</div>
-                        <div><b>Abertura do Leque:</b> ${r.leque}</div>
-                        <div><b>Vazão Aplicada:</b> ${r.vazao_orig}</div>
+                    <div class="px-2.5 py-1 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                        <span class="text-slate-400 block text-[10px]">Trator / Frota</span>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${r.equipamento_trator || r.trator || 'Não informado'}</span>
                     </div>
-                </div>
-
-                <!-- Grupo 4 & 5: Conservação & Procedimentos -->
-                <div class="p-3 rounded-lg bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
-                    <span class="font-bold text-slate-700 dark:text-slate-200 block border-b pb-1 mb-2 uppercase text-[11px]">
-                        4 & 5. Conservação e Procedimentos
-                    </span>
-                    <div class="space-y-1 text-slate-600 dark:text-slate-300">
-                        <div><b>Limpeza Filtros Bomba:</b> ${r.filtro_bomba}</div>
-                        <div><b>Limpeza de Bicos:</b> ${r.limpeza_bicos}</div>
-                        <div><b>Avaliação Prévia:</b> ${r.aval_previa}</div>
-                        <div><b>Ordem e Mapa Disponíveis:</b> ${r.mapa_os}</div>
+                    <div class="px-2.5 py-1 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                        <span class="text-slate-400 block text-[10px]">Responsável</span>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${r.usuario || r.responsavel || 'Operador'}</span>
                     </div>
                 </div>
             </div>
 
-            <!-- Grupo 6: Observações e Planos de Ação -->
-            <div class="p-3 rounded-lg bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800">
-                <span class="font-bold text-amber-800 dark:text-amber-300 block mb-1 uppercase text-[11px]">
-                    6. Observações Operacionais e Planos de Ação Registrados
-                </span>
-                <p class="text-slate-800 dark:text-slate-200 whitespace-pre-line leading-relaxed">
-                    ${r.obs || 'Nenhuma observação textual registrada para este apontamento.'}
-                </p>
-                ${r.equipamentos_nomes?.length ? `
-                    <div class="mt-2 pt-2 border-t border-amber-200 dark:border-amber-800 text-[11px]">
-                        <b>Equipamento(s) Mencionados:</b> ${r.equipamentos_nomes.join(', ')}
+            <!-- Bloco 1: Auditoria Comparativa Lado a Lado (Trilha A vs Trilha B) -->
+            <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
+                <div class="flex items-center justify-between pb-2 mb-3 border-b border-slate-200 dark:border-slate-600">
+                    <span class="font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-code-compare text-emerald-600 dark:text-emerald-400"></i> Confronto de Telemetria: Campo vs Reanálise Atmosférica
+                    </span>
+                    <span class="text-[11px] font-mono text-slate-500">Coordenadas: ${r.lat.toFixed(4)}, ${r.lon.toFixed(4)}</span>
+                </div>
+
+                <div class="overflow-x-auto">
+                    <table class="w-full text-xs text-left">
+                        <thead>
+                            <tr class="text-slate-500 dark:text-slate-400 border-b border-slate-200 dark:border-slate-600 font-semibold">
+                                <th class="pb-2">Variável Meteorológica</th>
+                                <th class="pb-2 text-center bg-emerald-50/50 dark:bg-emerald-950/20 text-emerald-800 dark:text-emerald-300 rounded-t">Trilha A: Campo (MapFy)</th>
+                                <th class="pb-2 text-center bg-blue-50/50 dark:bg-blue-950/20 text-blue-800 dark:text-blue-300 rounded-t">Trilha B: Open-Meteo ERA5</th>
+                                <th class="pb-2 text-center">Divergência (Δ)</th>
+                                <th class="pb-2 text-right">Diagnóstico</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-slate-100 dark:divide-slate-700 text-slate-700 dark:text-slate-200">
+                            <tr>
+                                <td class="py-2 font-medium">Temperatura do Ar (°C)</td>
+                                <td class="py-2 text-center font-bold bg-emerald-50/30 dark:bg-emerald-950/10">${r.temp !== null ? r.temp + '°C' : '<span class="text-slate-400">Não Medido</span>'}</td>
+                                <td class="py-2 text-center font-bold bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.temp !== null ? apiData.temp + '°C' : 'N/D'}</td>
+                                <td class="py-2 text-center font-mono font-semibold">${auditComp.diffTemp !== null ? (auditComp.diffTemp > 0 ? '+' : '') + auditComp.diffTemp + '°C' : '—'}</td>
+                                <td class="py-2 text-right">${Math.abs(auditComp.diffTemp || 0) <= 3.5 ? '<span class="text-emerald-600 font-semibold">Admissível</span>' : '<span class="text-amber-600 font-semibold">Variação Térmica</span>'}</td>
+                            </tr>
+                            <tr>
+                                <td class="py-2 font-medium">Umidade Relativa (UR %)</td>
+                                <td class="py-2 text-center font-bold bg-emerald-50/30 dark:bg-emerald-950/10">${r.ur !== null ? r.ur + '%' : '<span class="text-slate-400">Não Medido</span>'}</td>
+                                <td class="py-2 text-center font-bold bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.ur !== null ? apiData.ur + '%' : 'N/D'}</td>
+                                <td class="py-2 text-center font-mono font-semibold">${auditComp.diffUr !== null ? (auditComp.diffUr > 0 ? '+' : '') + auditComp.diffUr + '%' : '—'}</td>
+                                <td class="py-2 text-right">${Math.abs(auditComp.diffUr || 0) <= 15 ? '<span class="text-emerald-600 font-semibold">Admissível</span>' : '<span class="text-amber-600 font-semibold">Gradiente de UR</span>'}</td>
+                            </tr>
+                            <tr>
+                                <td class="py-2 font-medium">Velocidade do Vento (km/h)</td>
+                                <td class="py-2 text-center font-bold bg-emerald-50/30 dark:bg-emerald-950/10">${r.vento !== null ? r.vento + ' km/h' : '<span class="text-slate-400">Não Medido</span>'}</td>
+                                <td class="py-2 text-center font-bold bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.vento !== null ? apiData.vento + ' km/h' : 'N/D'} ${apiData && apiData.direcaoVento ? '(' + apiData.direcaoVento + ')' : ''}</td>
+                                <td class="py-2 text-center font-mono font-semibold">${auditComp.diffVento !== null ? (auditComp.diffVento > 0 ? '+' : '') + auditComp.diffVento + ' km/h' : '—'}</td>
+                                <td class="py-2 text-right">${apiData && apiData.rajadas ? 'Rajadas ' + apiData.rajadas + ' km/h' : '<span class="text-slate-400">Vento Regular</span>'}</td>
+                            </tr>
+                            <tr>
+                                <td class="py-2 font-medium">Bulbo Úmido (Tw °C)</td>
+                                <td class="py-2 text-center bg-emerald-50/30 dark:bg-emerald-950/10">${r.tw_num !== null ? r.tw_num + '°C' : '<span class="text-slate-400">Calculado Stull</span>'}</td>
+                                <td class="py-2 text-center bg-blue-50/30 dark:bg-blue-950/10">${apiData && apiData.tw !== null ? apiData.tw + '°C' : 'N/D'}</td>
+                                <td class="py-2 text-center font-mono font-semibold">—</td>
+                                <td class="py-2 text-right text-slate-400">Psicrométrico</td>
+                            </tr>
+                            <tr class="bg-emerald-500/10 dark:bg-emerald-500/20 font-bold">
+                                <td class="py-2.5 text-emerald-800 dark:text-emerald-300">Delta T (°C) • Stull 2011</td>
+                                <td class="py-2.5 text-center text-emerald-700 dark:text-emerald-300 text-sm">${r.delta_t_num !== null ? r.delta_t_num + '°C' : '<span class="text-slate-400 text-xs font-normal">Sem Telemetria</span>'}</td>
+                                <td class="py-2.5 text-center text-blue-700 dark:text-blue-300 text-sm">${apiData && apiData.deltaT !== null ? apiData.deltaT + '°C' : 'N/D'}</td>
+                                <td class="py-2.5 text-center font-mono text-sm">${auditComp.diffDeltaT !== null ? (auditComp.diffDeltaT > 0 ? '+' : '') + auditComp.diffDeltaT + '°C' : '—'}</td>
+                                <td class="py-2.5 text-right"><span class="badge ${auditComp.badgeClass}">${auditComp.status}</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Parecer do Auditor -->
+                <div class="mt-3 p-3 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 text-xs leading-relaxed">
+                    <div class="flex items-center justify-between mb-1">
+                        <span class="font-bold text-slate-800 dark:text-slate-100 flex items-center gap-1.5">
+                            <i class="fa-solid fa-signature text-emerald-600"></i> Parecer Técnico de Auditoria:
+                        </span>
+                        <span class="text-[11px] text-slate-500 font-semibold">Confiabilidade: ${auditComp.confiabilidade}</span>
                     </div>
-                ` : ''}
+                    <p class="text-slate-700 dark:text-slate-300 m-0">${auditComp.desc}. ${auditComp.justificativa}</p>
+                </div>
+            </div>
+
+            <!-- Bloco 2: Linha do Tempo Diurna da Inspeção (06h às 18h) -->
+            <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
+                <div class="flex items-center justify-between mb-2">
+                    <span class="font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide flex items-center gap-2">
+                        <i class="fa-solid fa-clock-rotate-left text-teal-600 dark:text-teal-400"></i> Evolução Diurna das Condições Atmosféricas (06h às 18h)
+                    </span>
+                    <span class="text-[11px] text-slate-500">Horário da Inspeção: <b>${r.hora || '12:00'}</b></span>
+                </div>
+                <div class="h-44 w-full">
+                    <canvas id="chartModalTimeline"></canvas>
+                </div>
+            </div>
+
+            <!-- Bloco 3: Matriz Decisória de Aplicação para Herbicidas -->
+            <div class="p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600">
+                <span class="font-bold text-slate-800 dark:text-slate-100 uppercase tracking-wide block mb-2 flex items-center gap-2">
+                    <i class="fa-solid fa-spray-can text-emerald-600 dark:text-emerald-400"></i> Avaliação Operacional por Classe de Herbicida
+                </span>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+                    <div class="p-2.5 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600">
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="font-bold text-slate-800 dark:text-slate-100">Sistêmicos</span>
+                            <span class="badge ${sistRec ? sistRec.badgeClass : 'badge-emerald'} text-[10px]">${sistRec ? sistRec.status : 'Apto'}</span>
+                        </div>
+                        <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-snug">${sistRec ? sistRec.justificativa : 'Condições adequadas para absorção lenta.'}</p>
+                    </div>
+
+                    <div class="p-2.5 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600">
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="font-bold text-slate-800 dark:text-slate-100">Contato</span>
+                            <span class="badge ${contRec ? contRec.badgeClass : 'badge-amber'} text-[10px]">${contRec ? contRec.status : 'Alerta'}</span>
+                        </div>
+                        <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-snug">${contRec ? contRec.justificativa : 'Exige monitoramento contínuo de gotas.'}</p>
+                    </div>
+
+                    <div class="p-2.5 rounded-lg bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600">
+                        <div class="flex items-center justify-between mb-1">
+                            <span class="font-bold text-slate-800 dark:text-slate-100">Pré-emergentes</span>
+                            <span class="badge ${soloRec ? soloRec.badgeClass : 'badge-blue'} text-[10px]">${soloRec ? soloRec.status : 'Apto Solo'}</span>
+                        </div>
+                        <p class="text-[11px] text-slate-600 dark:text-slate-400 leading-snug">${soloRec ? soloRec.justificativa : 'Aplicação em solo tolerante a gotas grossas.'}</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bloco 4: Regulagem do Pulverizador & Observações de Campo -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-700/50 border border-slate-200 dark:border-slate-600 space-y-1.5 text-slate-600 dark:text-slate-300">
+                    <span class="font-bold text-slate-800 dark:text-slate-100 block uppercase text-[11px] border-b pb-1 mb-2">
+                        Regulagem do Implemento
+                    </span>
+                    <div><b>Espaçamento de Bico:</b> ${r.esp_orig} (${r.esp_grupo})</div>
+                    <div><b>Abertura do Leque:</b> ${r.leque}</div>
+                    <div><b>Vazão Aplicada:</b> ${r.vazao_orig}</div>
+                    <div><b>Limpeza Filtros Bomba:</b> ${r.is_nok_filtro ? '<span class="badge badge-red">NOK (Obstruído)</span>' : '<span class="badge badge-emerald">OK (Limpo)</span>'}</div>
+                    <div><b>Limpeza de Bicos:</b> ${r.is_nok_bico ? '<span class="badge badge-red">NOK (Irregular)</span>' : '<span class="badge badge-emerald">OK</span>'}</div>
+                    <div><b>Equipamento Citado:</b> ${r.equipamentos_nomes?.length ? r.equipamentos_nomes.join(', ') : 'Nenhum identificado'}</div>
+                </div>
+
+                <div class="p-3.5 rounded-xl bg-amber-50/60 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-800">
+                    <span class="font-bold text-amber-800 dark:text-amber-300 block uppercase text-[11px] border-b border-amber-200 dark:border-amber-800 pb-1 mb-2">
+                        Observações e Ocorrências de Campo
+                    </span>
+                    <p class="text-slate-800 dark:text-slate-200 whitespace-pre-line leading-relaxed m-0 text-xs">
+                        ${r.obs || 'Nenhuma ocorrência ou anotação operacional textual registrada para este apontamento.'}
+                    </p>
+                </div>
             </div>
         `;
 
         modal.classList.remove('hidden');
         modal.style.display = 'flex';
         modal.style.zIndex = '99999';
+
+        // Renderiza gráfico da Linha do Tempo no Modal
+        setTimeout(() => {
+            renderModalTimelineChart(r, apiData);
+        }, 100);
     };
 
     window.filtrarPorEquipamento = function (nome) {
@@ -1045,6 +1542,29 @@
             sel.value = nome;
             state.activeFilters.equipamento = nome;
             aplicarFiltros();
+        }
+    };
+
+    // --- EXPANSÃO UNIVERSAL DE GRÁFICOS EM TELA CHEIA ---
+    window.toggleCardFullscreen = function (triggerEl) {
+        if (!triggerEl) return;
+        const card = (typeof triggerEl.closest === 'function') ? triggerEl.closest('.chart-card, .app-card') : (triggerEl.parentElement || triggerEl);
+        if (!card) return;
+        const canvas = card.querySelector ? card.querySelector('canvas') : null;
+        const isFs = card.classList.toggle('chart-fullscreen-active');
+        if (document.body) document.body.style.overflow = isFs ? 'hidden' : '';
+        const btn = card.querySelector ? card.querySelector('.btn-chart-fullscreen') : null;
+        if (btn) {
+            btn.innerHTML = isFs
+                ? `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M4 14h6v6M20 10h-6V4M14 10l7-7M3 21l7-7"/></svg>`
+                : `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>`;
+            btn.title = isFs ? 'Restaurar Tamanho Original' : 'Visualizar Gráfico em Tela Cheia';
+        }
+        if (canvas && typeof Chart !== 'undefined' && typeof Chart.getChart === 'function') {
+            const chart = Chart.getChart(canvas);
+            if (chart) {
+                setTimeout(() => chart.resize(), 60);
+            }
         }
     };
 
@@ -1273,6 +1793,168 @@
         link.href = URL.createObjectURL(blob);
         link.download = "Central_Inteligencia_Herbicidas_Pitangueiras_2026.csv";
         link.click();
+    }
+
+
+    /**
+     * Função Utilitária para Recorte por Dias Distintos em Modo Autônomo
+     */
+    function getRecordsForDateRange(records, range) {
+        if (!range || range === 'ALL' || !records || records.length === 0) return records;
+        const daysSet = new Set();
+        records.forEach(r => {
+            const d = r.dataBR || r.data_dia || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
+            if (d && d.includes('/')) daysSet.add(d);
+        });
+
+        const sortedDays = Array.from(daysSet).sort((a, b) => {
+            const pA = a.split('/');
+            const pB = b.split('/');
+            if (pA.length === 3 && pB.length === 3) {
+                return new Date(pA[2], pA[1] - 1, pA[0]) - new Date(pB[2], pB[1] - 1, pB[0]);
+            }
+            return a.localeCompare(b);
+        });
+
+        const count = range === '7D' ? 7 : (range === '15D' ? 15 : sortedDays.length);
+        const targetDays = new Set(sortedDays.slice(-count));
+
+        return records.filter(r => {
+            const d = r.dataBR || r.data_dia || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
+            return targetDays.has(d);
+        });
+    }
+
+    function initEvolutionFilter() {
+        const btnSync = document.getElementById('btnSyncGlobalFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+        const evoButtons = document.querySelectorAll('.btn-evo-filter');
+
+        function updateEvoControlsUI() {
+            if (btnSync) {
+                if (state.syncWithGlobalFilter) {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (syncIcon) syncIcon.innerText = "🔒";
+                    if (syncText) syncText.innerText = "Filtro Global Ativo";
+                    btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
+                } else {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (syncIcon) syncIcon.innerText = "🔓";
+                    if (syncText) syncText.innerText = "Filtro Autônomo";
+                    btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            evoButtons.forEach(btn => {
+                const range = btn.getAttribute('data-evo-range') || '7D';
+                if (state.syncWithGlobalFilter) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.evolutionRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500', 'text-[var(--text-secondary)]');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnSync && !btnSync._listenerAttached) {
+            btnSync._listenerAttached = true;
+            btnSync.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                updateEvoControlsUI();
+                if (typeof applyFilters === 'function') applyFilters();
+            });
+        }
+
+        evoButtons.forEach(btn => {
+            if (!btn._listenerAttached) {
+                btn._listenerAttached = true;
+                btn.addEventListener('click', () => {
+                    if (state.syncWithGlobalFilter) return;
+                    state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
+                    updateEvoControlsUI();
+                    if (typeof applyFilters === 'function') applyFilters();
+                });
+            }
+        });
+
+        updateEvoControlsUI();
+    }
+
+    function initMapFilter() {
+        const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
+        const mapSyncIcon = document.getElementById('mapSyncIcon');
+        const mapSyncText = document.getElementById('mapSyncText');
+        const mapButtons = document.querySelectorAll('.btn-map-filter');
+
+        function updateMapControlsUI() {
+            if (btnMapSync) {
+                if (state.mapSyncWithGlobal) {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
+                    btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
+                } else {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
+                    btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            mapButtons.forEach(btn => {
+                const range = btn.getAttribute('data-map-range') || '7D';
+                if (state.mapSyncWithGlobal) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.mapRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500', 'text-[var(--text-secondary)]');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnMapSync && !btnMapSync._listenerAttached) {
+            btnMapSync._listenerAttached = true;
+            btnMapSync.addEventListener('click', () => {
+                state.mapSyncWithGlobal = !state.mapSyncWithGlobal;
+                updateMapControlsUI();
+                updateMapMarkers();
+            });
+        }
+
+        mapButtons.forEach(btn => {
+            if (!btn._listenerAttached) {
+                btn._listenerAttached = true;
+                btn.addEventListener('click', () => {
+                    if (state.mapSyncWithGlobal) return;
+                    state.mapRange = btn.getAttribute('data-map-range') || '7D';
+                    updateMapControlsUI();
+                    updateMapMarkers();
+                });
+            }
+        });
+
+        updateMapControlsUI();
     }
 
 })();

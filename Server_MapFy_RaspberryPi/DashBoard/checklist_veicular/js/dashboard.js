@@ -143,7 +143,10 @@
         },
         activeTab: 'visao_executiva',
         selectedVeiculoProntuario: null,
-        evolutionRange: 'ALL',
+        evolutionRange: '7D',
+        syncWithGlobalFilter: true,
+        mapSyncWithGlobal: true,
+        mapRange: '7D',
         pagination: {
             page: 1,
             pageSize: 15
@@ -162,6 +165,7 @@
         initDropdowns();
         initTabs();
         initEvolutionFilter();
+        initMapFilter();
         initFilterListeners();
         initCharts();
         initMap();
@@ -299,22 +303,159 @@
         });
     }
 
-    // 5. Filtros Rápidos de Evolução (Todos, 15D, 7D)
+    /**
+     * Função Utilitária para Recorte por Dias Distintos em Modo Autônomo
+     */
+    function getRecordsForDateRange(records, range) {
+        if (!range || range === 'ALL' || !records || records.length === 0) return records;
+        const daysSet = new Set();
+        records.forEach(r => {
+            const d = r.data_dia || r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
+            if (d && d.includes('/')) daysSet.add(d);
+        });
+
+        const sortedDays = Array.from(daysSet).sort((a, b) => {
+            const pA = a.split('/');
+            const pB = b.split('/');
+            if (pA.length === 3 && pB.length === 3) {
+                return new Date(pA[2], pA[1] - 1, pA[0]) - new Date(pB[2], pB[1] - 1, pB[0]);
+            }
+            return a.localeCompare(b);
+        });
+
+        const count = range === '7D' ? 7 : (range === '15D' ? 15 : sortedDays.length);
+        const targetDays = new Set(sortedDays.slice(-count));
+
+        return records.filter(r => {
+            const d = r.data_dia || r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
+            return targetDays.has(d);
+        });
+    }
+
+    // 5. Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D) e Vínculo com Topo
     function initEvolutionFilter() {
-        const buttons = document.querySelectorAll('.btn-evo-filter');
-        buttons.forEach(btn => {
+        const btnSync = document.getElementById('btnSyncGlobalFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+        const evoButtons = document.querySelectorAll('.btn-evo-filter');
+
+        function updateEvoControlsUI() {
+            if (btnSync) {
+                if (state.syncWithGlobalFilter) {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (syncIcon) syncIcon.innerText = "🔒";
+                    if (syncText) syncText.innerText = "Filtro Global Ativo";
+                    btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
+                } else {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (syncIcon) syncIcon.innerText = "🔓";
+                    if (syncText) syncText.innerText = "Filtro Autônomo";
+                    btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            evoButtons.forEach(btn => {
+                const range = btn.getAttribute('data-evo-range') || '7D';
+                if (state.syncWithGlobalFilter) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.evolutionRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500', 'text-[var(--text-secondary)]');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnSync) {
+            btnSync.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                updateEvoControlsUI();
+                updateCharts();
+            });
+        }
+
+        evoButtons.forEach(btn => {
             btn.addEventListener('click', () => {
-                const range = btn.getAttribute('data-evo-range') || 'ALL';
-                state.evolutionRange = range;
-                buttons.forEach(b => {
-                    b.classList.remove('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                    b.classList.add('text-[var(--text-secondary)]');
-                });
-                btn.classList.add('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                btn.classList.remove('text-[var(--text-secondary)]');
-                updateEvolutionChart();
+                if (state.syncWithGlobalFilter) return;
+                state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
+                updateEvoControlsUI();
+                updateCharts();
             });
         });
+
+        updateEvoControlsUI();
+    }
+
+    // Controle do Filtro Autônomo do Mapa (Geolocalização das Medições em Campo)
+    function initMapFilter() {
+        const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
+        const mapSyncIcon = document.getElementById('mapSyncIcon');
+        const mapSyncText = document.getElementById('mapSyncText');
+        const mapButtons = document.querySelectorAll('.btn-map-filter');
+
+        function updateMapControlsUI() {
+            if (btnMapSync) {
+                if (state.mapSyncWithGlobal) {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
+                    btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
+                } else {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
+                    btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            mapButtons.forEach(btn => {
+                const range = btn.getAttribute('data-map-range') || '7D';
+                if (state.mapSyncWithGlobal) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.mapRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500', 'text-[var(--text-secondary)]');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnMapSync) {
+            btnMapSync.addEventListener('click', () => {
+                state.mapSyncWithGlobal = !state.mapSyncWithGlobal;
+                updateMapControlsUI();
+                updateMapMarkers();
+            });
+        }
+
+        mapButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                if (state.mapSyncWithGlobal) return;
+                state.mapRange = btn.getAttribute('data-map-range') || '7D';
+                updateMapControlsUI();
+                updateMapMarkers();
+            });
+        });
+
+        updateMapControlsUI();
     }
 
     // 6. Listeners de Filtros Globais
@@ -720,9 +861,13 @@
     }
 
     function updateCharts() {
-        const kpis = ChecklistEngine.calculateKPIs(state.filteredRecords);
-        const compData = ChecklistEngine.buildComponentesRanking(state.filteredRecords);
-        const manData = ChecklistEngine.buildManutencaoAnalysis(state.filteredRecords);
+        const chartRecords = state.syncWithGlobalFilter
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.evolutionRange);
+
+        const kpis = ChecklistEngine.calculateKPIs(chartRecords);
+        const compData = ChecklistEngine.buildComponentesRanking(chartRecords);
+        const manData = ChecklistEngine.buildManutencaoAnalysis(chartRecords);
 
         // Donut Criticidade
         if (state.charts.criticidade) {
@@ -758,12 +903,15 @@
         }
 
         // Evolução Temporal
-        updateEvolutionChart();
+        updateEvolutionChart(chartRecords);
     }
 
-    function updateEvolutionChart() {
+    function updateEvolutionChart(chartRecords) {
         if (!state.charts.evolucao) return;
-        const ts = ChecklistEngine.buildTimeSeries(state.filteredRecords, state.evolutionRange);
+        const recordsToUse = chartRecords || (state.syncWithGlobalFilter
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.evolutionRange));
+        const ts = ChecklistEngine.buildTimeSeries(recordsToUse, state.syncWithGlobalFilter ? 'ALL' : state.evolutionRange);
         state.charts.evolucao.data.labels = ts.labels;
         state.charts.evolucao.data.datasets[0].data = ts.leves;
         state.charts.evolucao.data.datasets[1].data = ts.moderados;
@@ -1288,8 +1436,12 @@
         if (!state.map || !state.markersLayer) return;
         state.markersLayer.clearLayers();
 
+        const mapRecords = state.mapSyncWithGlobal
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.mapRange);
+
         const bounds = [];
-        const recordsWithGps = state.filteredRecords.filter(r => r.lat && r.lon && r.lat !== 0);
+        const recordsWithGps = mapRecords.filter(r => r.lat && r.lon && r.lat !== 0);
 
         recordsWithGps.slice(0, 300).forEach(r => {
             const isMod = r.criticidade === 'Moderado';

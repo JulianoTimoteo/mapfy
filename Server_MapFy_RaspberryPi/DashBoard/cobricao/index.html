@@ -603,7 +603,23 @@
                 <div class="chart-card-title">
                     <span>📅</span> Gráfico C: Evolução Temporal da Profundidade de Cobrição
                 </div>
-                <div class="chart-card-tools">
+                
+                <div class="chart-card-tools" style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                    <!-- Botão de Sincronização com Filtro Global do Topo -->
+                    <button id="btnSyncGlobalFilter" type="button"
+                            class="px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm"
+                            title="Quando ativo, este gráfico e as análises obedecem ao Filtro Principal do topo. Clique para alternar para modo autônomo.">
+                        <span id="syncIcon">🔒</span>
+                        <span id="syncText">Filtro Global Ativo</span>
+                    </button>
+
+                    <!-- Botões de Período Local: Todos, 15D, 7D -->
+                    <div id="evoPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi, #1e293b); border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="ALL" disabled title="Exibir todo o histórico da safra">Todos</button>
+                        <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
+                        <button type="button" class="btn-evo-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="7D" disabled title="Últimos 7 dias com medições (Padrão)">7D</button>
+                    </div>
+
                     <div class="chart-view-toggle" id="timePeriodToggle">
                         <button id="btnPeriodDiario" class="chart-view-btn active">Diário</button>
                         <button id="btnPeriodSemanal" class="chart-view-btn">Semanal</button>
@@ -704,6 +720,25 @@
 
         <!-- NÍVEL 3: Mapa Geográfico com Cores por Profundidade (100% OpenStreetMap Limpo) -->
         <div class="map-card">
+
+            <div class="chart-card-header" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;">
+                <div class="flex items-center gap-2 flex-wrap">
+                    <!-- Botão de Sincronização Autônoma do Mapa com Filtro Principal -->
+                    <button id="btnToggleMapSyncFilter" type="button"
+                            class="px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm"
+                            title="Quando ativo, o mapa plota todos os pontos do Filtro Principal do topo. Clique para alternar para modo autônomo.">
+                        <span id="mapSyncIcon">🔒</span>
+                        <span id="mapSyncText">Filtro Global Ativo</span>
+                    </button>
+
+                    <!-- Botões de Período Autônomo do Mapa: Todos, 15D, 7D -->
+                    <div id="mapPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi, #1e293b); border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                        <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="ALL" disabled title="Exibir todo o histórico do mapa">Todos</button>
+                        <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
+                        <button type="button" class="btn-map-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-map-range="7D" disabled title="Últimos 7 dias com medições">7D</button>
+                    </div>
+                </div>
+
             <div class="chart-card-header">
                 <div class="chart-card-title">
                     <span>📍</span> Mapa Geográfico Operacional — Distribuição Espacial por Profundidade
@@ -713,7 +748,7 @@
                 </div>
             </div>
             
-            <div id="map-container"></div>
+            <div id="mapContainer"></div>
 
             <!-- Barra de Legenda Cromática -->
             <div class="map-legend-bar">
@@ -914,6 +949,7 @@
     <script src="js/data.js?v=2026.5"></script>
     <script src="js/cobricao_engine.js"></script>
     <script src="js/dashboard.js"></script>
+    <script src="../Maps/pitangueiras_shapes_data.js"></script>
     <script src="../common/js/map_shapes_layer.js"></script>
     <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
 </body>

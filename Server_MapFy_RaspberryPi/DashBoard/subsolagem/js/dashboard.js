@@ -149,7 +149,10 @@
         filteredRecords: [],
         targetConfig: null,
         periodScope: 'all', // 'all', 'latest', 'today', 'custom'
-        evolutionRange: 'ALL', // 'ALL', '15D', '7D'
+        evolutionRange: '7D',
+        syncWithGlobalFilter: true, // Padrão: Travado com Filtro Global do Topo
+        mapSyncWithGlobal: true,    // Padrão: Mapa Travado com Filtro Global do Topo
+        mapRange: '7D',            // Range autônomo do mapa
         maxAvailableDateBR: '',
         maxAvailableDateISO: '',
         todayBR: '',
@@ -189,6 +192,7 @@
         initData();
         initUI();
         initMap();
+        initMapFilter();
         initCharts();
         initEvolutionFilter();
         applyFilters();
@@ -312,6 +316,27 @@
      * Popula dinamicamente os selects de filtros
      */
     function populateSelectOptions() {
+        const dateSelect = document.getElementById('filterDate');
+        if (dateSelect) {
+            dateSelect.innerHTML = '<option value="">Todas as Datas com Registros</option>';
+            const dateCounts = {};
+            state.allRecords.forEach(r => {
+                if (r.dataBR) {
+                    dateCounts[r.dataBR] = (dateCounts[r.dataBR] || 0) + 1;
+                }
+            });
+            const sortedDates = Object.keys(dateCounts).sort((a, b) => {
+                const [d1, m1, y1] = a.split('/').map(Number);
+                const [d2, m2, y2] = b.split('/').map(Number);
+                return new Date(y2, m2 - 1, d2).getTime() - new Date(y1, m1 - 1, d1).getTime();
+            });
+            sortedDates.forEach(d => {
+                const opt = document.createElement('option');
+                opt.value = d;
+                opt.innerText = `${d} (${dateCounts[d]} medições)`;
+                dateSelect.appendChild(opt);
+            });
+        }
         const frenteSelect = document.getElementById('filterFrente');
         const osSelect = document.getElementById('filterOS');
         const respSelect = document.getElementById('filterResponsavel');
@@ -370,13 +395,11 @@
 
         if (dateInput) {
             dateInput.addEventListener('change', (e) => {
-                if (e.target.value) {
-                    const [y, m, d] = e.target.value.split('-');
-                    state.activeFilters.date = `${d}/${m}/${y}`;
+                const val = e.target.value.trim();
+                if (val) {
+                    state.activeFilters.date = val;
                     if (state.activeFilters.date === state.maxAvailableDateBR) {
                         state.periodScope = 'latest';
-                    } else if (state.activeFilters.date === state.todayBR) {
-                        state.periodScope = 'today';
                     } else {
                         state.periodScope = 'custom';
                     }
@@ -451,11 +474,14 @@
     function updatePeriodToggleUI() {
         const btnAll = document.getElementById('btnAllDates');
         const btnLatest = document.getElementById('btnLatestDate');
-        const btnToday = document.getElementById('btnToday');
+        const badgeLatest = document.getElementById('badgeLatest');
 
         if (btnAll) btnAll.classList.toggle('active', state.periodScope === 'all');
         if (btnLatest) btnLatest.classList.toggle('active', state.periodScope === 'latest');
-        if (btnToday) btnToday.classList.toggle('active', state.periodScope === 'today');
+        if (badgeLatest && state.maxAvailableDateBR) {
+            const countLatest = state.allRecords.filter(r => r.dataBR === state.maxAvailableDateBR).length;
+            badgeLatest.innerText = `${state.maxAvailableDateBR} (${countLatest})`;
+        }
     }
 
     function setPeriodScope(scope) {
@@ -469,24 +495,7 @@
         } else if (scope === 'latest') {
             state.activeFilters.date = state.maxAvailableDateBR;
             state.isLatestDateMode = true;
-            if (dateInput) dateInput.value = state.maxAvailableDateISO;
-        } else if (scope === 'today') {
-            const hasToday = state.allRecords.some(r => r.dataBR === state.todayBR);
-            if (hasToday) {
-                state.activeFilters.date = state.todayBR;
-                state.isLatestDateMode = (state.todayBR === state.maxAvailableDateBR);
-                if (dateInput) {
-                    const now = new Date();
-                    const y = now.getFullYear();
-                    const m = String(now.getMonth() + 1).padStart(2, '0');
-                    const d = String(now.getDate()).padStart(2, '0');
-                    dateInput.value = `${y}-${m}-${d}`;
-                }
-            } else {
-                showToast(`Nenhuma medição registrada hoje (${state.todayBR}). Exibindo última data disponível (${state.maxAvailableDateBR}).`);
-                setPeriodScope('latest');
-                return;
-            }
+            if (dateInput) dateInput.value = state.maxAvailableDateBR;
         }
 
         updatePeriodToggleUI();
@@ -706,6 +715,35 @@
     }
 
     /**
+     * Função Utilitária para Recorte por Dias Distintos em Modo Autônomo
+     */
+    function getRecordsForDateRange(records, range) {
+        if (!range || range === 'ALL' || !records || records.length === 0) return records;
+        const daysSet = new Set();
+        records.forEach(r => {
+            const d = r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data_dia || '');
+            if (d) daysSet.add(d);
+        });
+
+        const sortedDays = Array.from(daysSet).sort((a, b) => {
+            const pA = a.split('/');
+            const pB = b.split('/');
+            if (pA.length === 3 && pB.length === 3) {
+                return new Date(pA[2], pA[1] - 1, pA[0]) - new Date(pB[2], pB[1] - 1, pB[0]);
+            }
+            return a.localeCompare(b);
+        });
+
+        const count = range === '7D' ? 7 : (range === '15D' ? 15 : sortedDays.length);
+        const targetDays = new Set(sortedDays.slice(-count));
+
+        return records.filter(r => {
+            const d = r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data_dia || '');
+            return targetDays.has(d);
+        });
+    }
+
+    /**
      * Aplicação Central de Filtros Globais
      */
     function applyFilters() {
@@ -755,26 +793,35 @@
         // Ordenação
         sortRecords();
 
-        // Métricas e Análises
+        // Métricas e Análises Gerais (para KPIs, OS, Responsáveis e Tabela de Registros)
         const metrics = SubsolagemEngine.calculateMetrics(state.filteredRecords, cfg);
-        const frenteList = SubsolagemEngine.buildFrenteAnalysis(state.filteredRecords, cfg);
         const osList = SubsolagemEngine.buildOSAnalysis(state.filteredRecords, cfg);
         const respList = SubsolagemEngine.buildResponsavelAnalysis(state.filteredRecords);
-        const histogram = SubsolagemEngine.buildHistogram(state.filteredRecords, 5);
-        const timeSeries = SubsolagemEngine.buildTimeSeries(state.filteredRecords, cfg);
+
+        // Conjunto de Dados para os 4 Gráficos Analíticos (Evolução, Donut, Histograma e Frentes)
+        // Se syncWithGlobalFilter === true: obedecem aos filtros do topo (state.filteredRecords)
+        // Se syncWithGlobalFilter === false: obedecem ao filtro autônomo (7D, 15D, ALL)
+        const chartRecords = state.syncWithGlobalFilter
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.evolutionRange);
+
+        const chartMetrics = SubsolagemEngine.calculateMetrics(chartRecords, cfg);
+        const chartHistogram = SubsolagemEngine.buildHistogram(chartRecords, 5);
+        const chartFrenteList = SubsolagemEngine.buildFrenteAnalysis(chartRecords, cfg);
+        const chartTimeSeries = SubsolagemEngine.buildTimeSeries(chartRecords, cfg);
 
         // Renderização dos Componentes
         renderHeaderContext(metrics);
         renderMobileSummary(metrics);
-        renderCards(metrics);
+        renderCards(metrics); // 10 KPIs obedecem sempre ao Filtro Principal do topo
         renderFilterTags();
-        renderCharts(metrics, histogram, timeSeries, frenteList);
-        renderFrenteAnalysis(frenteList);
-        renderOSAnalysis(osList);
+        renderCharts(chartMetrics, chartHistogram, chartTimeSeries, chartFrenteList); // 4 Gráficos obedecem ao filtro autônomo
+        renderFrenteAnalysis(chartFrenteList); // Tabela de Frentes acompanha os gráficos
+        renderOSAnalysis(osList); // Tabela de OS obedece sempre ao Filtro Principal do topo
         renderRespAnalysis(respList);
         renderDurationAuditing(metrics);
-        renderTable();
-        renderMap();
+        renderTable(); // Tabela de Registros Individuais obedece sempre ao Filtro Principal do topo
+        renderMap(); // Mapa tem seu próprio filtro autônomo independente
     }
 
     /**
@@ -905,26 +952,61 @@
         const textColor = isDark ? '#94a3b8' : '#475569';
         const gridColor = isDark ? '#2e3238' : '#e2e8f0';
 
-        // 1. Gráfico de Rosca: Distribuição de Conformidade Técnica
+        // Desativa datalabels globalmente para não poluir os outros gráficos
+        if (typeof ChartDataLabels !== 'undefined') {
+            Chart.defaults.set('plugins.datalabels', { display: false });
+        }
+
+        // 1. Gráfico de Rosca: Distribuição de Conformidade Técnica com Rótulos nas Fatias
         const ctxDonut = document.getElementById('chartDonut');
         if (ctxDonut) {
+            const donutPlugins = (typeof ChartDataLabels !== 'undefined') ? [ChartDataLabels] : [];
             state.charts.donut = new Chart(ctxDonut, {
                 type: 'doughnut',
+                plugins: donutPlugins,
                 data: {
                     labels: ['Dentro da Meta', 'Abaixo da Meta', 'Acima da Meta'],
                     datasets: [{
                         data: [0, 0, 0],
                         backgroundColor: ['#10b981', '#f59e0b', '#a855f7'],
-                        borderWidth: 0
+                        borderWidth: 2,
+                        borderColor: isDark ? '#1c1e22' : '#ffffff',
+                        hoverOffset: 6
                     }]
                 },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
                     plugins: {
-                        legend: { position: 'bottom', labels: { color: textColor, font: { family: 'Plus Jakarta Sans', size: 10 } } }
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const val = context.raw || 0;
+                                    const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                                    const pct = total > 0 ? ((val / total) * 100).toFixed(1) : 0;
+                                    return ` ${context.label}: ${val} (${pct}%)`;
+                                }
+                            }
+                        },
+                        datalabels: {
+                            display: true,
+                            color: '#ffffff',
+                            font: {
+                                family: 'Plus Jakarta Sans',
+                                weight: 'bold',
+                                size: 14
+                            },
+                            formatter: function(value, ctx) {
+                                if (!value || value <= 0) return '';
+                                const total = ctx.dataset.data.reduce((a, b) => a + b, 0);
+                                const pct = total > 0 ? ((value / total) * 100).toFixed(0) : 0;
+                                return `${value}\n(${pct}%)`;
+                            },
+                            textAlign: 'center'
+                        }
                     },
-                    cutout: '72%'
+                    cutout: '66%'
                 }
             });
         }
@@ -1421,12 +1503,34 @@
         const mapContainer = document.getElementById('mapContainer');
         if (!mapContainer || typeof L === 'undefined') return;
 
-        state.map = L.map('mapContainer').setView([-21.05, -48.33], 10);
+        // Camadas de Satélite de Alta Resolução e Vetoriais
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
+        });
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors',
-            maxZoom: 18
-        }).addTo(state.map);
+            maxZoom: 19
+        });
+
+        state.map = L.map('mapContainer', {
+            center: [-21.05, -48.33],
+            zoom: 11,
+            layers: [sateliteGoogle] // Satélite é o padrão!
+        });
+
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markerCluster = L.markerClusterGroup ? L.markerClusterGroup() : L.layerGroup();
         state.map.addLayer(state.markerCluster);
@@ -1436,7 +1540,12 @@
         if (!state.map || !state.markerCluster) return;
         state.markerCluster.clearLayers();
 
-        const validCoords = state.filteredRecords.filter(r => r.hasValidCoords);
+        // O mapa obedece ao seu próprio filtro autônomo, sem ser afetado pelo filtro dos gráficos
+        const mapRecords = state.mapSyncWithGlobal
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.mapRange);
+
+        const validCoords = mapRecords.filter(r => r.hasValidCoords);
         const bounds = [];
         const cfg = state.targetConfig;
 
@@ -1758,22 +1867,130 @@
         setTimeout(() => toast.classList.remove('show'), 3500);
     }
 
-    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D)
+    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D) e Vínculo com Topo
     function initEvolutionFilter() {
-        const buttons = document.querySelectorAll('.btn-evo-filter');
-        buttons.forEach(btn => {
+        const btnSync = document.getElementById('btnSyncGlobalFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+        const evoButtons = document.querySelectorAll('.btn-evo-filter');
+
+        function updateEvoControlsUI() {
+            if (btnSync) {
+                if (state.syncWithGlobalFilter) {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (syncIcon) syncIcon.innerText = "🔒";
+                    if (syncText) syncText.innerText = "Filtro Global Ativo";
+                    btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
+                } else {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (syncIcon) syncIcon.innerText = "🔓";
+                    if (syncText) syncText.innerText = "Filtro Autônomo";
+                    btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            evoButtons.forEach(btn => {
+                const range = btn.getAttribute('data-evo-range') || '7D';
+                if (state.syncWithGlobalFilter) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.evolutionRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnSync) {
+            btnSync.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                updateEvoControlsUI();
+                applyFilters();
+            });
+        }
+
+        evoButtons.forEach(btn => {
             btn.addEventListener('click', () => {
-                const range = btn.getAttribute('data-evo-range') || 'ALL';
-                state.evolutionRange = range;
-                buttons.forEach(b => {
-                    b.classList.remove('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                    b.classList.add('text-[var(--text-secondary)]');
-                });
-                btn.classList.add('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                btn.classList.remove('text-[var(--text-secondary)]');
+                if (state.syncWithGlobalFilter) return;
+                state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
+                updateEvoControlsUI();
                 applyFilters();
             });
         });
+
+        updateEvoControlsUI();
+    }
+
+    // Controle do Filtro Autônomo do Mapa (Geolocalização das Medições em Campo)
+    function initMapFilter() {
+        const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
+        const mapSyncIcon = document.getElementById('mapSyncIcon');
+        const mapSyncText = document.getElementById('mapSyncText');
+        const mapButtons = document.querySelectorAll('.btn-map-filter');
+
+        function updateMapControlsUI() {
+            if (btnMapSync) {
+                if (state.mapSyncWithGlobal) {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
+                    btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
+                } else {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
+                    btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            mapButtons.forEach(btn => {
+                const range = btn.getAttribute('data-map-range') || '7D';
+                if (state.mapSyncWithGlobal) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.mapRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnMapSync) {
+            btnMapSync.addEventListener('click', () => {
+                state.mapSyncWithGlobal = !state.mapSyncWithGlobal;
+                updateMapControlsUI();
+                renderMap();
+            });
+        }
+
+        mapButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                if (state.mapSyncWithGlobal) return;
+                state.mapRange = btn.getAttribute('data-map-range') || '7D';
+                updateMapControlsUI();
+                renderMap();
+            });
+        });
+
+        updateMapControlsUI();
     }
 
 })();

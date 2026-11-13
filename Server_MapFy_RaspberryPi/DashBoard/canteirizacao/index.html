@@ -242,7 +242,7 @@
                     <i class="fa-solid fa-layer-group mr-1"></i> Safra 2026
                 </span>
                 <span class="badge badge-slate text-xs" id="kpiHeaderBadge">
-                    <i class="fa-solid fa-database mr-1"></i> 389 Medições de Canteiro
+                    <i class="fa-solid fa-database mr-1"></i> 403 Medições de Canteiro
                 </span>
 
                 <!-- Alternador de Tema Claro / Escuro -->
@@ -309,30 +309,31 @@
                 <!-- Bloco Esquerdo: Seletor Rápido de Período Temporal -->
                 <div class="flex items-center gap-2">
                     <span class="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider hidden sm:inline">Período:</span>
-                    <div class="period-segmented-group shadow-sm">
-                        <!-- Safra Completa -->
-                        <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
-                                title="Exibir todo o histórico da safra">
-                            <span>🌐</span>
-                            <span>Safra Completa</span>
-                            <span class="period-badge" id="badgeAll">0</span>
-                        </button>
+                    <div class="flex items-center gap-2 flex-wrap">
+                        <div class="period-segmented-group shadow-sm">
+                            <!-- Safra Completa -->
+                            <button id="btnAllDates" type="button" class="period-toggle-btn active" data-period="all"
+                                    title="Exibir todo o histórico da safra">
+                                <span>🌐</span>
+                                <span>Safra Completa</span>
+                                <span class="period-badge" id="badgeAll">403</span>
+                            </button>
 
-                        <!-- Última Data -->
-                        <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
-                                title="Filtrar pela última data com medições registradas na base">
-                            <span>📅</span>
-                            <span>Última Data</span>
-                            
-                        </button>
+                            <!-- Última Data -->
+                            <button id="btnLatestDate" type="button" class="period-toggle-btn" data-period="latest"
+                                    title="Filtrar pela última data com medições registradas na base">
+                                <span>📅</span>
+                                <span>Última Data</span>
+                            </button>
+                        </div>
 
-                        <!-- Hoje -->
-                        <button id="btnToday" type="button" class="period-toggle-btn" data-period="today"
-                                title="Filtrar medições realizadas hoje">
-                            <span>📆</span>
-                            <span>Hoje</span>
-                            <span class="period-badge" id="badgeToday">0</span>
-                        </button>
+                        <!-- Dropdown Dinâmico: Apenas Datas com Relatórios Reais -->
+                        <div class="flex items-center gap-1.5 bg-slate-100 dark:bg-slate-800/90 border border-slate-300 dark:border-slate-700 px-2.5 py-1 rounded-xl shadow-xs">
+                            <span class="text-[11px] text-slate-600 dark:text-slate-300">📅</span>
+                            <select id="filterDateSelect" class="bg-transparent text-[11px] font-bold text-slate-800 dark:text-white focus:outline-none cursor-pointer">
+                                <option value="ALL">Todas as Datas com Dados</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
@@ -581,10 +582,19 @@
                                 Médias diárias registradas com as linhas de referência de Meta Mínima e Meta Máxima
                             </p>
                         </div>
-                        <div class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-sm" style="background: var(--bg-kpi); border-color: var(--border-color);">
-                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-sm" data-evo-range="ALL" title="Exibir todo o histórico de dias">Todos</button>
-                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="15D" title="Últimos 15 dias com medições">15D</button>
-                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-[var(--text-secondary)] hover:text-emerald-500" data-evo-range="7D" title="Últimos 7 dias com medições">7D</button>
+                        <div class="flex items-center gap-2 flex-wrap">
+                            <!-- Botão de Sincronização com Filtro Global do Topo -->
+                            <button type="button" id="btnSyncGlobalFilter" class="px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm" title="Quando ativo, este gráfico e as análises obedecem ao Filtro Principal do topo. Clique para alternar para modo autônomo.">
+                                <span id="syncIcon">🔒</span>
+                                <span id="syncText">Filtro Global Ativo</span>
+                            </button>
+
+                            <!-- Botões de Período Local: Todos, 15D, 7D (Padrão 7D) -->
+                            <div id="evoPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                                <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="ALL" disabled title="Exibir todo o histórico da safra">Todos</button>
+                                <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
+                                <button type="button" class="btn-evo-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="7D" disabled title="Últimos 7 dias com medições (Padrão)">7D</button>
+                            </div>
                         </div>
                         <div class="flex items-center gap-2 text-xs font-mono">
                             <span class="flex items-center gap-1.5 text-amber-500"><span class="w-3 h-0.5 bg-amber-500"></span> Min</span>
@@ -616,57 +626,54 @@
                         <span class="text-xs text-[var(--text-muted)] font-mono font-semibold" id="donutScopeBadge">% da safra</span>
                     </div>
 
-                    <!-- Canvas da Rosca com Percentual e Total Central em Destaque (SEMPRE NA META) -->
-                    <div class="relative aspect-square w-full max-w-[210px] mx-auto py-2">
+                    <!-- Canvas da Rosca com Percentual Central em Destaque (Expandido e Centralizado) -->
+                    <div class="relative aspect-square w-full max-w-[280px] sm:max-w-[310px] mx-auto my-2">
                         <canvas id="chartDonut"></canvas>
-                        <div id="donutCenterOverlay" class="absolute inset-0 flex flex-col items-center justify-center pointer-events-none text-center">
-                            <span class="text-2xl sm:text-3xl font-extrabold font-mono text-emerald-500 leading-none" id="donutCenterPerc">0%</span>
-                            <span class="text-[10px] font-bold uppercase tracking-wider text-[var(--text-secondary)] mt-1">Na Meta</span>
-                            <span class="text-[9px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold" id="donutCenterCount">0 de 0</span>
+                        <div id="donutCenterOverlay" class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center pointer-events-none text-center">
+                            <span class="text-3xl sm:text-4xl font-black font-mono text-emerald-500 dark:text-emerald-400 leading-none" id="donutCenterPerc">80,1%</span>
+                            <span class="text-[11px] font-extrabold uppercase tracking-wider text-slate-800 dark:text-white mt-1">Na Meta</span>
+                            <span class="text-[10px] font-mono text-slate-700 dark:text-white font-bold" id="donutCenterCount">323 de 403</span>
                         </div>
                     </div>
                 </div>
 
-                <!-- Detalhamento Numérico Explícito e Barras de Progresso (VALORES E % DE CADA FATIA) -->
-                <div class="mt-3 pt-3 border-t space-y-2.5 text-xs" style="border-color: var(--border-color);" id="donutDataContainer">
+                <!-- Legenda Horizontal Lado a Lado com Cores e Valores (Zero Cinza, Legibilidade Máxima) -->
+                <div class="mt-4 pt-3 border-t grid grid-cols-3 gap-2 text-center" style="border-color: var(--border-color);" id="donutDataContainer">
                     <!-- 1. Dentro da Faixa -->
-                    <div>
-                        <div class="flex items-center justify-between text-[11px] mb-1">
-                            <span class="flex items-center gap-1.5 font-semibold text-emerald-600 dark:text-emerald-400">
-                                <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Dentro da Meta (<span id="labelRangeDentro">45.0 a 55.0 cm</span>)
-                            </span>
-                            <span class="font-mono font-bold" id="donutValDentro">0 (0%)</span>
+                    <div class="p-2 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex flex-col items-center justify-center">
+                        <div class="flex items-center gap-1.5 text-[11px] font-bold text-emerald-600 dark:text-emerald-400">
+                            <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 shrink-0"></span>
+                            <span>Dentro</span>
                         </div>
-                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                            <div id="donutBarDentro" class="h-full bg-emerald-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
-                        </div>
+                        <span class="text-[9px] text-slate-600 dark:text-slate-300 font-mono mt-0.5">(45 a 55 cm)</span>
+                        <span class="font-mono font-black text-xs sm:text-sm text-slate-900 dark:text-white mt-1" id="donutValDentro">323 (80,1%)</span>
                     </div>
 
                     <!-- 2. Abaixo da Faixa -->
-                    <div>
-                        <div class="flex items-center justify-between text-[11px] mb-1">
-                            <span class="flex items-center gap-1.5 font-semibold text-amber-600 dark:text-amber-400">
-                                <span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Abaixo da Meta (<span id="labelRangeAbaixo">&lt; 45.0 cm</span>)
-                            </span>
-                            <span class="font-mono font-bold" id="donutValAbaixo">0 (0%)</span>
+                    <div class="p-2 rounded-xl bg-amber-500/10 border border-amber-500/30 flex flex-col items-center justify-center">
+                        <div class="flex items-center gap-1.5 text-[11px] font-bold text-amber-600 dark:text-amber-400">
+                            <span class="w-2.5 h-2.5 rounded-full bg-amber-500 shrink-0"></span>
+                            <span>Abaixo</span>
                         </div>
-                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                            <div id="donutBarAbaixo" class="h-full bg-amber-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
-                        </div>
+                        <span class="text-[9px] text-slate-600 dark:text-slate-300 font-mono mt-0.5">(&lt; 45 cm)</span>
+                        <span class="font-mono font-black text-xs sm:text-sm text-slate-900 dark:text-white mt-1" id="donutValAbaixo">63 (15,6%)</span>
                     </div>
 
                     <!-- 3. Acima da Faixa -->
-                    <div>
-                        <div class="flex items-center justify-between text-[11px] mb-1">
-                            <span class="flex items-center gap-1.5 font-semibold text-purple-600 dark:text-purple-400">
-                                <span class="w-2.5 h-2.5 rounded-full bg-purple-500"></span> Acima da Meta (<span id="labelRangeAcima">&gt; 55.0 cm</span>)
-                            </span>
-                            <span class="font-mono font-bold" id="donutValAcima">0 (0%)</span>
+                    <div class="p-2 rounded-xl bg-purple-500/10 border border-purple-500/30 flex flex-col items-center justify-center">
+                        <div class="flex items-center gap-1.5 text-[11px] font-bold text-purple-600 dark:text-purple-400">
+                            <span class="w-2.5 h-2.5 rounded-full bg-purple-500 shrink-0"></span>
+                            <span>Acima</span>
                         </div>
-                        <div class="w-full h-2 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                            <div id="donutBarAcima" class="h-full bg-purple-500 rounded-full transition-all duration-500" style="width: 0%;"></div>
-                        </div>
+                        <span class="text-[9px] text-slate-600 dark:text-slate-300 font-mono mt-0.5">(&gt; 55 cm)</span>
+                        <span class="font-mono font-black text-xs sm:text-sm text-slate-900 dark:text-white mt-1" id="donutValAcima">17 (4,2%)</span>
                     </div>
+                </div>
+
+                <!-- Total Denominador -->
+                <div class="mt-3 pt-2 flex items-center justify-between text-xs font-mono border-t" style="border-color: var(--border-color);">
+                    <span class="text-slate-800 dark:text-white font-bold">Total de Medições:</span>
+                    <span id="donutValTotal" class="font-extrabold text-emerald-600 dark:text-emerald-400 text-sm">403 avaliadas</span>
                 </div>
             </div>
         </div>
@@ -733,16 +740,32 @@
                     </p>
                 </div>
                 
-                <!-- Legenda do Mapa -->
                 <div class="flex items-center gap-3 text-xs font-mono flex-wrap">
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-emerald-500"></span> Na Meta</span>
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-amber-500"></span> Abaixo</span>
-                    <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-purple-500"></span> Acima</span>
-                    <span class="px-2 py-0.5 rounded bg-[var(--bg-page)] border text-[11px]" id="mapPointsCount">0 pontos plotados</span>
+                    <!-- Botão de Sincronização Autônoma do Mapa com Filtro Principal -->
+                    <button id="btnToggleMapSyncFilter" type="button"
+                            class="px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm"
+                            title="Quando ativo, o mapa plota todos os pontos do Filtro Principal do topo. Clique para alternar para modo autônomo.">
+                        <span id="mapSyncIcon">🔒</span>
+                        <span id="mapSyncText">Filtro Global Ativo</span>
+                    </button>
+
+                    <!-- Botões de Período Autônomo do Mapa: Todos, 15D, 7D -->
+                    <div id="mapPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi); border-color: var(--border-color);">
+                        <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="ALL" disabled title="Exibir todo o histórico do mapa">Todos</button>
+                        <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
+                        <button type="button" class="btn-map-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-map-range="7D" disabled title="Últimos 7 dias com medições">7D</button>
+                    </div>
+
+                    <div class="flex items-center gap-2 border-l pl-3 ml-1" style="border-color: var(--border-color);">
+                        <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-emerald-500"></span> Na Meta</span>
+                        <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-amber-500"></span> Abaixo</span>
+                        <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-purple-500"></span> Acima</span>
+                        <span class="px-2 py-0.5 rounded bg-[var(--bg-page)] border text-[11px]" id="mapPointsCount">0 pontos plotados</span>
+                    </div>
                 </div>
             </div>
 
-            <div id="mapSubsolagem" class="w-full h-96 rounded-xl border z-10" style="border-color: var(--border-color);"></div>
+            <div id="mapContainer" class="w-full h-96 rounded-xl border z-10" style="border-color: var(--border-color);"></div>
         </section>
 
         <!-- 8. RANKING E AUDITORIA DE ORDENS DE SERVIÇO (OS) -->
@@ -936,6 +959,7 @@
     <script src="js/data.js?v=2026.5"></script>
     <script src="js/canteirizacao_engine.js"></script>
     <script src="js/dashboard.js"></script>
+    <script src="../Maps/pitangueiras_shapes_data.js"></script>
     <script src="../common/js/map_shapes_layer.js"></script>
     <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
 </body>

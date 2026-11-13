@@ -48,7 +48,7 @@
     };
 
     /**
-     * Converte datas brasileiras (DD/MM/AAAA HH:mm) em objetos Date
+     * Converte datas brasileiras (DD/MM/AAAA HH:mm ou MM/DD/AAAA com AM/PM) em objetos Date válidos
      */
     SubsolagemEngine.parseDateBR = function (str) {
         if (!str || typeof str !== 'string') return null;
@@ -58,15 +58,32 @@
         const dateParts = parts[0].split('/');
         if (dateParts.length !== 3) return null;
 
-        const day = parseInt(dateParts[0], 10);
-        const month = parseInt(dateParts[1], 10) - 1;
-        const year = parseInt(dateParts[2], 10);
+        let n1 = parseInt(dateParts[0], 10);
+        let n2 = parseInt(dateParts[1], 10);
+        let year = parseInt(dateParts[2], 10);
+
+        let day, month;
+        if (n1 > 12 && n2 <= 12) {
+            day = n1; month = n2 - 1;
+        } else if (n2 > 12 && n1 <= 12) {
+            day = n2; month = n1 - 1;
+        } else {
+            // Se tem indicador AM/PM ou formato internacional
+            if (str.toUpperCase().includes('AM') || str.toUpperCase().includes('PM')) {
+                day = n2; month = n1 - 1;
+            } else {
+                day = n1; month = n2 - 1;
+            }
+        }
 
         let hours = 0, minutes = 0;
         if (parts[1]) {
             const timeParts = parts[1].split(':');
             hours = parseInt(timeParts[0], 10) || 0;
             minutes = parseInt(timeParts[1], 10) || 0;
+            const upper = str.toUpperCase();
+            if (upper.includes('PM') && hours < 12) hours += 12;
+            if (upper.includes('AM') && hours === 12) hours = 0;
         }
 
         const d = new Date(year, month, day, hours, minutes);
@@ -88,15 +105,15 @@
      * Normalização e Validação de um registro de Subsolagem
      */
     SubsolagemEngine.normalizeRecord = function (raw) {
-        const id = String(raw.ID || '').trim();
-        const usuario = String(raw.Usuario || raw['Usuário'] || '').trim();
-        const dataStr = String(raw.Data || '').trim();
+        const id = String(raw.ID || raw.id || '').trim();
+        const usuario = String(raw.Usuario || raw['Usuário'] || raw.User || raw.user || '').trim();
+        const dataStr = String(raw.Data || raw.Date || raw['Data Lançamento'] || raw.data || '').trim();
         const dataParsed = SubsolagemEngine.parseDateBR(dataStr);
         const dataBR = dataParsed ? SubsolagemEngine.formatDateBR(dataParsed) : dataStr.split(' ')[0] || '';
         const isoDate = dataParsed ? `${dataParsed.getFullYear()}-${String(dataParsed.getMonth()+1).padStart(2, '0')}-${String(dataParsed.getDate()).padStart(2, '0')}` : '';
 
         // Data de Lançamento
-        const dataLancStr = String(raw.DataLancamento || raw['Data Lançamento'] || '').trim();
+        const dataLancStr = String(raw.DataLancamento || raw['Data Lançamento'] || raw.Data || raw.Date || '').trim();
         const dataLancParsed = SubsolagemEngine.parseDateBR(dataLancStr);
         const dataLancBR = dataLancParsed ? SubsolagemEngine.formatDateBR(dataLancParsed) : dataLancStr;
 
@@ -108,8 +125,8 @@
         const hasValidCoords = !isNaN(lat) && !isNaN(lng) && lat !== 0 && lng !== 0 && lat >= -90 && lat <= 90 && lng >= -180 && lng <= 180;
 
         // Duração da Medição
-        const dataInicioStr = String(raw.DataInicio || raw['Data início'] || '').trim();
-        const dataFimStr = String(raw.DataFim || raw['Data Fim'] || '').trim();
+        const dataInicioStr = String(raw.DataInicio || raw['Data início'] || raw['Start date'] || '').trim();
+        const dataFimStr = String(raw.DataFim || raw['Data Fim'] || raw['End date'] || '').trim();
         const dtInicio = SubsolagemEngine.parseDateBR(dataInicioStr);
         const dtFim = SubsolagemEngine.parseDateBR(dataFimStr);
         let duracaoMinutos = 0;

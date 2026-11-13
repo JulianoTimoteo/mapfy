@@ -150,7 +150,10 @@
         filteredRecords: [],
         targetConfig: null,
         activePeriod: 'all',
-        evolutionRange: 'ALL', // 'all', 'latest', 'today'
+        evolutionRange: '7D',
+        syncWithGlobalFilter: true, // Padrão: Travado com Filtro Global do Topo
+        mapSyncWithGlobal: true,    // Padrão: Mapa Travado com Filtro Global do Topo
+        mapRange: '7D',            // Range autônomo do mapa
         latestDateStr: '',
         todayDateStr: '',
         filters: {
@@ -179,6 +182,35 @@
     window.dashboardState = state;
     window.state = state;
 
+    /**
+     * Função Utilitária para Recorte por Dias Distintos em Modo Autônomo
+     */
+    function getRecordsForDateRange(records, range) {
+        if (!range || range === 'ALL' || !records || records.length === 0) return records;
+        const daysSet = new Set();
+        records.forEach(r => {
+            const d = r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data_dia || '');
+            if (d) daysSet.add(d);
+        });
+
+        const sortedDays = Array.from(daysSet).sort((a, b) => {
+            const pA = a.split('/');
+            const pB = b.split('/');
+            if (pA.length === 3 && pB.length === 3) {
+                return new Date(pA[2], pA[1] - 1, pA[0]) - new Date(pB[2], pB[1] - 1, pB[0]);
+            }
+            return a.localeCompare(b);
+        });
+
+        const count = range === '7D' ? 7 : (range === '15D' ? 15 : sortedDays.length);
+        const targetDays = new Set(sortedDays.slice(-count));
+
+        return records.filter(r => {
+            const d = r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data_dia || '');
+            return targetDays.has(d);
+        });
+    }
+
     // Inicialização do Sistema
     function _bootstrapApp() {
         initTheme();
@@ -189,6 +221,7 @@
         initCharts();
         initEvolutionFilter();
         initMap();
+        initMapFilter();
         initTableListeners();
         applyFiltersAndRender();
         initPowerUserShortcuts();
@@ -256,7 +289,9 @@
         if (validDates.length > 0) {
             state.latestDateStr = validDates[0].str;
             const badgeLatest = document.getElementById('badgeLatest');
-            if (badgeLatest) /* badgeLatest removido conforme diretriz */
+            if (badgeLatest) {
+                badgeLatest.innerText = validDates.filter(v => v.str === state.latestDateStr).length;
+            }
         }
 
         const now = new Date();
@@ -368,25 +403,60 @@
         sel.value = currentVal;
     }
 
-    // 4. Seletor Temporal Segmentado
+    // 4. Seletor Temporal Segmentado com Dropdown Inteligente de Datas Reais
     function initPeriodSelector() {
         const btnAll = document.getElementById('btnAllDates');
         const btnLatest = document.getElementById('btnLatestDate');
-        const btnToday = document.getElementById('btnToday');
+        const dateSelect = document.getElementById('filterDateSelect');
 
-        function setPeriod(period) {
+        function setPeriod(period, customDate = null) {
             state.activePeriod = period;
-            [btnAll, btnLatest, btnToday].forEach(b => b && b.classList.remove('active'));
-            if (period === 'all' && btnAll) btnAll.classList.add('active');
-            if (period === 'latest' && btnLatest) btnLatest.classList.add('active');
-            if (period === 'today' && btnToday) btnToday.classList.add('active');
+            state.selectedCustomDate = customDate;
+            [btnAll, btnLatest].forEach(b => b && b.classList.remove('active'));
+
+            if (period === 'all' && btnAll) {
+                btnAll.classList.add('active');
+                if (dateSelect) dateSelect.value = 'ALL';
+            }
+            if (period === 'latest' && btnLatest) {
+                btnLatest.classList.add('active');
+                if (dateSelect && state.latestDateStr) dateSelect.value = state.latestDateStr;
+            }
+            if (period === 'custom_date' && dateSelect && customDate) {
+                dateSelect.value = customDate;
+            }
+
             state.pagination.currentPage = 1;
             applyFiltersAndRender();
         }
 
         if (btnAll) btnAll.addEventListener('click', () => setPeriod('all'));
         if (btnLatest) btnLatest.addEventListener('click', () => setPeriod('latest'));
-        if (btnToday) btnToday.addEventListener('click', () => setPeriod('today'));
+
+        if (dateSelect) {
+            dateSelect.innerHTML = '<option value="ALL">Todas as Datas com Dados</option>';
+            const uniqueDates = [...new Set(state.normalizedRecords.map(r => r.dataBR).filter(Boolean))];
+            uniqueDates.sort((a, b) => {
+                const partsA = a.split('/').map(Number);
+                const partsB = b.split('/').map(Number);
+                return new Date(partsB[2], partsB[1] - 1, partsB[0]).getTime() - new Date(partsA[2], partsA[1] - 1, partsA[0]).getTime();
+            });
+            uniqueDates.forEach(d => {
+                const count = state.normalizedRecords.filter(r => r.dataBR === d).length;
+                const opt = document.createElement('option');
+                opt.value = d;
+                opt.innerText = `${d} (${count} medições)`;
+                dateSelect.appendChild(opt);
+            });
+            dateSelect.addEventListener('change', () => {
+                const val = dateSelect.value;
+                if (val === 'ALL') {
+                    setPeriod('all');
+                } else {
+                    setPeriod('custom_date', val);
+                }
+            });
+        }
     }
 
     // 5. Aplicação dos Filtros
@@ -396,6 +466,8 @@
         // Filtro Temporal
         if (state.activePeriod === 'latest' && state.latestDateStr) {
             list = list.filter(r => r.dataBR === state.latestDateStr);
+        } else if (state.activePeriod === 'custom_date' && state.selectedCustomDate) {
+            list = list.filter(r => r.dataBR === state.selectedCustomDate);
         } else if (state.activePeriod === 'today') {
             list = list.filter(r => r.dataBR === state.todayDateStr);
         }
@@ -498,17 +570,21 @@
         const textColor = isDark ? '#94a3b8' : '#475569';
         const gridColor = isDark ? '#2e3238' : '#e2e8f0';
 
-        // 1. Donut: Distribuição de Conformidade
+        // 1. Donut: Distribuição de Conformidade com Datalabels dentro das fatias
         const ctxDonut = document.getElementById('chartDonut');
         if (ctxDonut) {
+            const donutPlugins = (typeof ChartDataLabels !== 'undefined') ? [ChartDataLabels] : [];
             state.charts.donut = new Chart(ctxDonut, {
                 type: 'doughnut',
+                plugins: donutPlugins,
                 data: {
                     labels: ['Dentro da Meta', 'Abaixo da Meta', 'Acima da Meta'],
                     datasets: [{
                         data: [0, 0, 0],
                         backgroundColor: ['#10b981', '#f59e0b', '#a855f7'],
-                        borderWidth: 0
+                        borderWidth: 2,
+                        borderColor: isDark ? '#1c1e22' : '#ffffff',
+                        hoverOffset: 6
                     }]
                 },
                 options: {
@@ -525,9 +601,25 @@
                                     return ` ${ctx.label}: ${val} medições (${perc}%)`;
                                 }
                             }
+                        },
+                        datalabels: {
+                            display: true,
+                            color: '#ffffff',
+                            font: {
+                                family: 'Plus Jakarta Sans',
+                                weight: 'bold',
+                                size: 14
+                            },
+                            formatter: function(value, ctx) {
+                                if (!value || value <= 0) return '';
+                                const total = ctx.dataset.data.reduce((a, b) => a + b, 0);
+                                const pct = total > 0 ? ((value / total) * 100).toFixed(0) : 0;
+                                return `${value}\n(${pct}%)`;
+                            },
+                            textAlign: 'center'
                         }
                     },
-                    cutout: '72%'
+                    cutout: '66%'
                 }
             });
         }
@@ -647,10 +739,16 @@
     }
 
     function updateChartsAndVisuals() {
-        const m = window.CanteirizacaoEngine.calculateMetrics(state.filteredRecords, state.targetConfig);
-        const timeSeries = window.CanteirizacaoEngine.calculateTimeSeries(state.filteredRecords);
-        const histogram = window.CanteirizacaoEngine.calculateHistogram(state.filteredRecords);
-        const frentes = window.CanteirizacaoEngine.calculateFrenteBreakdown(state.filteredRecords);
+        // Se syncWithGlobalFilter === true: obedece aos filtros do topo (state.filteredRecords)
+        // Se syncWithGlobalFilter === false: obedece ao filtro autônomo (7D, 15D, ALL)
+        const chartRecords = state.syncWithGlobalFilter
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.evolutionRange);
+
+        const m = window.CanteirizacaoEngine.calculateMetrics(chartRecords, state.targetConfig);
+        const timeSeries = window.CanteirizacaoEngine.calculateTimeSeries(chartRecords);
+        const histogram = window.CanteirizacaoEngine.calculateHistogram(chartRecords);
+        const frentes = window.CanteirizacaoEngine.calculateFrenteBreakdown(chartRecords);
 
         // 1. Donut: Centro SEMPRE exibe o que está na meta
         if (state.charts.donut) {
@@ -682,18 +780,12 @@
         const barAcima = document.getElementById('donutBarAcima');
         if (barAcima) barAcima.style.width = `${m.percAcima}%`;
 
-                // 2. Evolução Temporal com Filtro Rápido (Todos, 15D, 7D)
+        setElText('donutValTotal', `${m.totalMedicoes} avaliadas`);
+
+        // 2. Evolução Temporal com Filtro Rápido (Todos, 15D, 7D)
         if (state.charts.evolution) {
             let labels = timeSeries.labels;
             let medias = timeSeries.medias;
-
-            if (state.evolutionRange === '7D' && labels.length > 7) {
-                labels = labels.slice(-7);
-                medias = medias.slice(-7);
-            } else if (state.evolutionRange === '15D' && labels.length > 15) {
-                labels = labels.slice(-15);
-                medias = medias.slice(-15);
-            }
 
             state.charts.evolution.data.labels = labels;
             state.charts.evolution.data.datasets[0].data = medias;
@@ -720,18 +812,36 @@
 
     // 8. Mapa Geográfico Leaflet
     function initMap() {
-        const mapContainer = document.getElementById('mapSubsolagem');
-        if (!mapContainer) return;
+        const mapContainer = document.getElementById('mapContainer') || document.getElementById('mapSubsolagem');
+        if (!mapContainer || typeof L === 'undefined') return;
 
-        state.map = L.map('mapSubsolagem', {
-            center: [-20.85, -48.55],
-            zoom: 11
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
         });
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap | Usina Pitangueiras 2026',
-            maxZoom: 18
-        }).addTo(state.map);
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        });
+
+        state.map = L.map(mapContainer, {
+            center: [-20.85, -48.55],
+            zoom: 11,
+            layers: [sateliteGoogle] // Satélite é o padrão!
+        });
+
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markersLayer = L.layerGroup().addTo(state.map);
     }
@@ -740,7 +850,12 @@
         if (!state.map || !state.markersLayer) return;
         state.markersLayer.clearLayers();
 
-        const validCoords = state.filteredRecords.filter(r => r.hasValidCoords);
+        // O mapa obedece ao seu próprio filtro autônomo, sem ser afetado pelo filtro dos gráficos
+        const mapRecords = state.mapSyncWithGlobal
+            ? state.filteredRecords
+            : getRecordsForDateRange(state.filteredRecords, state.mapRange);
+
+        const validCoords = mapRecords.filter(r => r.hasValidCoords);
         setElText('mapPointsCount', `${validCoords.length} pontos plotados`);
 
         if (validCoords.length === 0) return;
@@ -1001,22 +1116,130 @@
 
     // Recurso Oculto: Ctrl + Double Click nos gráficos para calibrar metas
     
-    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D)
+    // Filtros Rápidos da Evolução Temporal (Todos, 15D, 7D) e Vínculo com Topo
     function initEvolutionFilter() {
-        const buttons = document.querySelectorAll('.btn-evo-filter');
-        buttons.forEach(btn => {
+        const btnSync = document.getElementById('btnSyncGlobalFilter') || document.getElementById('btnToggleSyncFilter');
+        const syncIcon = document.getElementById('syncIcon');
+        const syncText = document.getElementById('syncText');
+        const evoButtons = document.querySelectorAll('.btn-evo-filter');
+
+        function updateEvoControlsUI() {
+            if (btnSync) {
+                if (state.syncWithGlobalFilter) {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (syncIcon) syncIcon.innerText = "🔒";
+                    if (syncText) syncText.innerText = "Filtro Global Ativo";
+                    btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
+                } else {
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (syncIcon) syncIcon.innerText = "🔓";
+                    if (syncText) syncText.innerText = "Filtro Autônomo";
+                    btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            evoButtons.forEach(btn => {
+                const range = btn.getAttribute('data-evo-range') || '7D';
+                if (state.syncWithGlobalFilter) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.evolutionRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnSync) {
+            btnSync.addEventListener('click', () => {
+                state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
+                updateEvoControlsUI();
+                updateChartsAndVisuals();
+            });
+        }
+
+        evoButtons.forEach(btn => {
             btn.addEventListener('click', () => {
-                const range = btn.getAttribute('data-evo-range') || 'ALL';
-                state.evolutionRange = range;
-                buttons.forEach(b => {
-                    b.classList.remove('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                    b.classList.add('text-[var(--text-secondary)]');
-                });
-                btn.classList.add('active', 'text-white', 'bg-emerald-600', 'shadow-sm');
-                btn.classList.remove('text-[var(--text-secondary)]');
+                if (state.syncWithGlobalFilter) return;
+                state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
+                updateEvoControlsUI();
                 updateChartsAndVisuals();
             });
         });
+
+        updateEvoControlsUI();
+    }
+
+    // Controle do Filtro Autônomo do Mapa (Geolocalização das Medições em Campo)
+    function initMapFilter() {
+        const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
+        const mapSyncIcon = document.getElementById('mapSyncIcon');
+        const mapSyncText = document.getElementById('mapSyncText');
+        const mapButtons = document.querySelectorAll('.btn-map-filter');
+
+        function updateMapControlsUI() {
+            if (btnMapSync) {
+                if (state.mapSyncWithGlobal) {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
+                    btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
+                } else {
+                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
+                    if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
+                    btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
+                }
+            }
+
+            mapButtons.forEach(btn => {
+                const range = btn.getAttribute('data-map-range') || '7D';
+                if (state.mapSyncWithGlobal) {
+                    btn.disabled = true;
+                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.remove('cursor-pointer');
+                } else {
+                    btn.disabled = false;
+                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                    btn.classList.add('cursor-pointer');
+                    if (range === state.mapRange) {
+                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500');
+                    } else {
+                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
+                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
+                    }
+                }
+            });
+        }
+
+        if (btnMapSync) {
+            btnMapSync.addEventListener('click', () => {
+                state.mapSyncWithGlobal = !state.mapSyncWithGlobal;
+                updateMapControlsUI();
+                updateMap();
+            });
+        }
+
+        mapButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                if (state.mapSyncWithGlobal) return;
+                state.mapRange = btn.getAttribute('data-map-range') || '7D';
+                updateMapControlsUI();
+                updateMap();
+            });
+        });
+
+        updateMapControlsUI();
     }
 
     function initPowerUserShortcuts() {
