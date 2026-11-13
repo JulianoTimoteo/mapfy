@@ -1,7 +1,7 @@
 /**
- * Base de Dados Consolidada - Paralelismo
- * Total: 2453 registros reais
- * Sincronizado automaticamente com o Servidor MapFy
+ * Dados Consolidados - paralelismo
+ * Total: 2462 registros
+ * Atualizado em: 13/11/2026 08:01
  */
 window.PARALELISMO_RAW_DATA = [
   {
@@ -20,7 +20,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3946366",
@@ -38,7 +44,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3946359",
@@ -56,7 +68,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3946354",
@@ -74,7 +92,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942437",
@@ -92,7 +116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942432",
@@ -110,7 +140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942425",
@@ -128,7 +164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942411",
@@ -146,7 +188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942398",
@@ -164,7 +212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942391",
@@ -182,7 +236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942387",
@@ -200,7 +260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3942381",
@@ -218,7 +284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3941332",
@@ -236,7 +308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939555",
@@ -254,7 +332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939548",
@@ -272,7 +356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939536",
@@ -290,7 +380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939135",
@@ -308,7 +404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939130",
@@ -326,7 +428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939125",
@@ -344,7 +452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939120",
@@ -362,7 +476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939115",
@@ -380,7 +500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939112",
@@ -398,7 +524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939104",
@@ -416,7 +548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3939098",
@@ -434,7 +572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3938597",
@@ -452,7 +596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3938591",
@@ -470,7 +620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3938585",
@@ -488,7 +644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,47",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3938505",
@@ -506,7 +668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936135",
@@ -524,7 +692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936131",
@@ -542,7 +716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936126",
@@ -560,7 +740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936121",
@@ -578,7 +764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936116",
@@ -596,7 +788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936105",
@@ -614,7 +812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936085",
@@ -632,7 +836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936058",
@@ -650,7 +860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936046",
@@ -668,7 +884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936039",
@@ -686,7 +908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936034",
@@ -704,7 +932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936030",
@@ -722,7 +956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3936023",
@@ -740,7 +980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928532",
@@ -758,7 +1004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928527",
@@ -776,7 +1028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928522",
@@ -794,7 +1052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928516",
@@ -812,7 +1076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928511",
@@ -830,7 +1100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928506",
@@ -848,7 +1124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928501",
@@ -866,7 +1148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3928496",
@@ -884,7 +1172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926128",
@@ -902,7 +1196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926123",
@@ -920,7 +1220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926118",
@@ -938,7 +1244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926113",
@@ -956,7 +1268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926108",
@@ -974,7 +1292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926103",
@@ -992,7 +1316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926101",
@@ -1010,7 +1340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926096",
@@ -1028,7 +1364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926076",
@@ -1046,7 +1388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3926069",
@@ -1064,7 +1412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3923395",
@@ -1082,7 +1436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3923377",
@@ -1100,7 +1460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3923370",
@@ -1118,7 +1484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3923363",
@@ -1136,7 +1508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852420",
@@ -1154,7 +1532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852416",
@@ -1172,7 +1556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852407",
@@ -1190,7 +1580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852402",
@@ -1208,7 +1604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852398",
@@ -1226,7 +1628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852389",
@@ -1244,7 +1652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852384",
@@ -1262,7 +1676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3852380",
@@ -1280,7 +1700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849789",
@@ -1298,7 +1724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849784",
@@ -1316,7 +1748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849774",
@@ -1334,7 +1772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849767",
@@ -1352,7 +1796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849765",
@@ -1370,7 +1820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849127",
@@ -1388,7 +1844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849124",
@@ -1406,7 +1868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3849122",
@@ -1424,7 +1892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846843",
@@ -1442,7 +1916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846835",
@@ -1460,7 +1940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846827",
@@ -1478,7 +1964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846822",
@@ -1496,7 +1988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846817",
@@ -1514,7 +2012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846812",
@@ -1532,7 +2036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3846808",
@@ -1550,7 +2060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3843650",
@@ -1568,7 +2084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3843645",
@@ -1586,7 +2108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3843644",
@@ -1604,7 +2132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3843643",
@@ -1622,7 +2156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591034",
@@ -1640,7 +2180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591035",
@@ -1658,7 +2204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591089",
@@ -1676,7 +2228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591094",
@@ -1694,7 +2252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574208",
@@ -1712,7 +2276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574209",
@@ -1730,7 +2300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574244",
@@ -1748,7 +2324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574200",
@@ -1766,7 +2348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574329",
@@ -1784,7 +2372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3641092",
@@ -1802,7 +2396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3641088",
@@ -1820,7 +2420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3641081",
@@ -1838,7 +2444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3641070",
@@ -1856,7 +2468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3638335",
@@ -1874,7 +2492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3638332",
@@ -1892,7 +2516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3638328",
@@ -1910,7 +2540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3638320",
@@ -1928,7 +2564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3638315",
@@ -1946,7 +2588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635343",
@@ -1964,7 +2612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635332",
@@ -1982,7 +2636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635328",
@@ -2000,7 +2660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635313",
@@ -2018,7 +2684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3636034",
@@ -2036,7 +2708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3636029",
@@ -2054,7 +2732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635308",
@@ -2072,7 +2756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3636022",
@@ -2090,7 +2780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635304",
@@ -2108,7 +2804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635300",
@@ -2126,7 +2828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3635250",
@@ -2144,7 +2852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3633054",
@@ -2162,7 +2876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3633050",
@@ -2180,7 +2900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3633041",
@@ -2198,7 +2924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3633037",
@@ -2216,7 +2948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3633032",
@@ -2234,7 +2972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3633028",
@@ -2252,7 +2996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3632406",
@@ -2270,7 +3020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3632353",
@@ -2288,7 +3044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3632352",
@@ -2306,7 +3068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3632344",
@@ -2324,7 +3092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3632340",
@@ -2342,7 +3116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3629714",
@@ -2360,7 +3140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3629707",
@@ -2378,7 +3164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628811",
@@ -2396,7 +3188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628805",
@@ -2414,7 +3212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628872",
@@ -2432,7 +3236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628794",
@@ -2450,7 +3260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628789",
@@ -2468,7 +3284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628784",
@@ -2486,7 +3308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628779",
@@ -2504,7 +3332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628775",
@@ -2522,7 +3356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628771",
@@ -2540,7 +3380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628832",
@@ -2558,7 +3404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628757",
@@ -2576,7 +3428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628829",
@@ -2594,7 +3452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628827",
@@ -2612,7 +3476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628753",
@@ -2630,7 +3500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628824",
@@ -2648,7 +3524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628936",
@@ -2666,7 +3548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628752",
@@ -2684,7 +3572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628930",
@@ -2702,7 +3596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628925",
@@ -2720,7 +3620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628867",
@@ -2738,7 +3644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628816",
@@ -2756,7 +3668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3628814",
@@ -2774,7 +3692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627236",
@@ -2792,7 +3716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626952",
@@ -2810,7 +3740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626947",
@@ -2828,7 +3764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626942",
@@ -2846,7 +3788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627053",
@@ -2864,7 +3812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627002",
@@ -2882,7 +3836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626997",
@@ -2900,7 +3860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627047",
@@ -2918,7 +3884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626996",
@@ -2936,7 +3908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627041",
@@ -2954,7 +3932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627036",
@@ -2972,7 +3956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627163",
@@ -2990,7 +3980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627158",
@@ -3008,7 +4004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626414",
@@ -3026,7 +4028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627033",
@@ -3044,7 +4052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626403",
@@ -3062,7 +4076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627026",
@@ -3080,7 +4100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626397",
@@ -3098,7 +4124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626392",
@@ -3116,7 +4148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626388",
@@ -3134,7 +4172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627019",
@@ -3152,7 +4196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626563",
@@ -3170,7 +4220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626382",
@@ -3188,7 +4244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626562",
@@ -3206,7 +4268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627177",
@@ -3224,7 +4292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626559",
@@ -3242,7 +4316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626558",
@@ -3260,7 +4340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627148",
@@ -3278,7 +4364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627244",
@@ -3296,7 +4388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626555",
@@ -3314,7 +4412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3626553",
@@ -3332,7 +4436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627142",
@@ -3350,7 +4460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627137",
@@ -3368,7 +4484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627170",
@@ -3386,7 +4508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627132",
@@ -3404,7 +4532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624850",
@@ -3422,7 +4556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624966",
@@ -3440,7 +4580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624962",
@@ -3458,7 +4604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624842",
@@ -3476,7 +4628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624825",
@@ -3494,7 +4652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627118",
@@ -3512,7 +4676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624819",
@@ -3530,7 +4700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624809",
@@ -3548,7 +4724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3627091",
@@ -3566,7 +4748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624342",
@@ -3584,7 +4772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625527",
@@ -3602,7 +4796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624779",
@@ -3620,7 +4820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625521",
@@ -3638,7 +4844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624627",
@@ -3656,7 +4868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625513",
@@ -3674,7 +4892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624623",
@@ -3692,7 +4916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624618",
@@ -3710,7 +4940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625465",
@@ -3728,7 +4964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625461",
@@ -3746,7 +4988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624613",
@@ -3764,7 +5012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624569",
@@ -3782,7 +5036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625463",
@@ -3800,7 +5060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625451",
@@ -3818,7 +5084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624314",
@@ -3836,7 +5108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624017",
@@ -3854,7 +5132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624268",
@@ -3872,7 +5156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625446",
@@ -3890,7 +5180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624012",
@@ -3908,7 +5204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624223",
@@ -3926,7 +5228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625418",
@@ -3944,7 +5252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624006",
@@ -3962,7 +5276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624221",
@@ -3980,7 +5300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625413",
@@ -3998,7 +5324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623992",
@@ -4016,7 +5348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624039",
@@ -4034,7 +5372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625374",
@@ -4052,7 +5396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623987",
@@ -4070,7 +5420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623975",
@@ -4088,7 +5444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623982",
@@ -4106,7 +5468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625368",
@@ -4124,7 +5492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623970",
@@ -4142,7 +5516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623962",
@@ -4160,7 +5540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625363",
@@ -4178,7 +5564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625358",
@@ -4196,7 +5588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623954",
@@ -4214,7 +5612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3625350",
@@ -4232,7 +5636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623936",
@@ -4250,7 +5660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624607",
@@ -4268,7 +5684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623931",
@@ -4286,7 +5708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624564",
@@ -4304,7 +5732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3623915",
@@ -4322,7 +5756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624559",
@@ -4340,7 +5780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3624554",
@@ -4358,7 +5804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621612",
@@ -4376,7 +5828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621946",
@@ -4394,7 +5852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621991",
@@ -4412,7 +5876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621656",
@@ -4430,7 +5900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621986",
@@ -4448,7 +5924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621452",
@@ -4466,7 +5948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621879",
@@ -4484,7 +5972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621874",
@@ -4502,7 +5996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621937",
@@ -4520,7 +6020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621599",
@@ -4538,7 +6044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621446",
@@ -4556,7 +6068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621868",
@@ -4574,7 +6092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622201",
@@ -4592,7 +6116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621926",
@@ -4610,7 +6140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622197",
@@ -4628,7 +6164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622190",
@@ -4646,7 +6188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622185",
@@ -4664,7 +6212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621593",
@@ -4682,7 +6236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621587",
@@ -4700,7 +6260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620972",
@@ -4718,7 +6284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621921",
@@ -4736,7 +6308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621915",
@@ -4754,7 +6332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621912",
@@ -4772,7 +6356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620875",
@@ -4790,7 +6380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620873",
@@ -4808,7 +6404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622470",
@@ -4826,7 +6428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621907",
@@ -4844,7 +6452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622466",
@@ -4862,7 +6476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621903",
@@ -4880,7 +6500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620942",
@@ -4898,7 +6524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622457",
@@ -4916,7 +6548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620937",
@@ -4934,7 +6572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620932",
@@ -4952,7 +6596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620927",
@@ -4970,7 +6620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620920",
@@ -4988,7 +6644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621170",
@@ -5006,7 +6668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620910",
@@ -5024,7 +6692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622180",
@@ -5042,7 +6716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621162",
@@ -5060,7 +6740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620905",
@@ -5078,7 +6764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622175",
@@ -5096,7 +6788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620900",
@@ -5114,7 +6812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621152",
@@ -5132,7 +6836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622169",
@@ -5150,7 +6860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620895",
@@ -5168,7 +6884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621147",
@@ -5186,7 +6908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3620889",
@@ -5204,7 +6932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621141",
@@ -5222,7 +6956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622164",
@@ -5240,7 +6980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3621118",
@@ -5258,7 +7004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3622159",
@@ -5276,7 +7028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618403",
@@ -5294,7 +7052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618780",
@@ -5312,7 +7076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618396",
@@ -5330,7 +7100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618391",
@@ -5348,7 +7124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618452",
@@ -5366,7 +7148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618386",
@@ -5384,7 +7172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618346",
@@ -5402,7 +7196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618777",
@@ -5420,7 +7220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619778",
@@ -5438,7 +7244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618341",
@@ -5456,7 +7268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618436",
@@ -5474,7 +7292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618772",
@@ -5492,7 +7316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618335",
@@ -5510,7 +7340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619771",
@@ -5528,7 +7364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618764",
@@ -5546,7 +7388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618791",
@@ -5564,7 +7412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618330",
@@ -5582,7 +7436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619766",
@@ -5600,7 +7460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617923",
@@ -5618,7 +7484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618759",
@@ -5636,7 +7508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618302",
@@ -5654,7 +7532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618584",
@@ -5672,7 +7556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619742",
@@ -5690,7 +7580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618786",
@@ -5708,7 +7604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618275",
@@ -5726,7 +7628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617917",
@@ -5744,7 +7652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618371",
@@ -5762,7 +7676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618269",
@@ -5780,7 +7700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618579",
@@ -5798,7 +7724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617911",
@@ -5816,7 +7748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618303",
@@ -5834,7 +7772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618755",
@@ -5852,7 +7796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618742",
@@ -5870,7 +7820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618739",
@@ -5888,7 +7844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618731",
@@ -5906,7 +7868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618728",
@@ -5924,7 +7892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618720",
@@ -5942,7 +7916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617785",
@@ -5960,7 +7940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618572",
@@ -5978,7 +7964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617780",
@@ -5996,7 +7988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618567",
@@ -6014,7 +8012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617727",
@@ -6032,7 +8036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618562",
@@ -6050,7 +8060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617881",
@@ -6068,7 +8084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617775",
@@ -6086,7 +8108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618557",
@@ -6104,7 +8132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617770",
@@ -6122,7 +8156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618283",
@@ -6140,7 +8180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618552",
@@ -6158,7 +8204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617718",
@@ -6176,7 +8228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618265",
@@ -6194,7 +8252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618258",
@@ -6212,7 +8276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617891",
@@ -6230,7 +8300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618254",
@@ -6248,7 +8324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617710",
@@ -6266,7 +8348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617867",
@@ -6284,7 +8372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3618245",
@@ -6302,7 +8396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617861",
@@ -6320,7 +8420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619734",
@@ -6338,7 +8444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617565",
@@ -6356,7 +8468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617855",
@@ -6374,7 +8492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3617558",
@@ -6392,7 +8516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619730",
@@ -6410,7 +8540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3619726",
@@ -6428,7 +8564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614615",
@@ -6446,7 +8588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614608",
@@ -6464,7 +8612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614599",
@@ -6482,7 +8636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614594",
@@ -6500,7 +8660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614589",
@@ -6518,7 +8684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614681",
@@ -6536,7 +8708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614374",
@@ -6554,7 +8732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614584",
@@ -6572,7 +8756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614676",
@@ -6590,7 +8780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614367",
@@ -6608,7 +8804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614345",
@@ -6626,7 +8828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,45",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614291",
@@ -6644,7 +8852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614228",
@@ -6662,7 +8876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614223",
@@ -6680,7 +8900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613970",
@@ -6698,7 +8924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614669",
@@ -6716,7 +8948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613965",
@@ -6734,7 +8972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614226",
@@ -6752,7 +8996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613961",
@@ -6770,7 +9020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614662",
@@ -6788,7 +9044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613954",
@@ -6806,7 +9068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613950",
@@ -6824,7 +9092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614656",
@@ -6842,7 +9116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614652",
@@ -6860,7 +9140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614647",
@@ -6878,7 +9164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613809",
@@ -6896,7 +9188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614271",
@@ -6914,7 +9212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613804",
@@ -6932,7 +9236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613944",
@@ -6950,7 +9260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613799",
@@ -6968,7 +9284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613939",
@@ -6986,7 +9308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614268",
@@ -7004,7 +9332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614641",
@@ -7022,7 +9356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614267",
@@ -7040,7 +9380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614265",
@@ -7058,7 +9404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613934",
@@ -7076,7 +9428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614636",
@@ -7094,7 +9452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613929",
@@ -7112,7 +9476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3614631",
@@ -7130,7 +9500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613787",
@@ -7148,7 +9524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613917",
@@ -7166,7 +9548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611592",
@@ -7184,7 +9572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613601",
@@ -7202,7 +9596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611630",
@@ -7220,7 +9620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612785",
@@ -7238,7 +9644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611582",
@@ -7256,7 +9668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611629",
@@ -7274,7 +9692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611626",
@@ -7292,7 +9716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612781",
@@ -7310,7 +9740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613595",
@@ -7328,7 +9764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611577",
@@ -7346,7 +9788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612776",
@@ -7364,7 +9812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613588",
@@ -7382,7 +9836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611609",
@@ -7400,7 +9860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613583",
@@ -7418,7 +9884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611605",
@@ -7436,7 +9908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611571",
@@ -7454,7 +9932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611607",
@@ -7472,7 +9956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612769",
@@ -7490,7 +9980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613576",
@@ -7508,7 +10004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611566",
@@ -7526,7 +10028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612765",
@@ -7544,7 +10052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613571",
@@ -7562,7 +10076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611560",
@@ -7580,7 +10100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613565",
@@ -7598,7 +10124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612760",
@@ -7616,7 +10148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613560",
@@ -7634,7 +10172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3612755",
@@ -7652,7 +10196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3610956",
@@ -7670,7 +10220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3610955",
@@ -7688,7 +10244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3610954",
@@ -7706,7 +10268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611199",
@@ -7724,7 +10292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3610939",
@@ -7742,7 +10316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611552",
@@ -7760,7 +10340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611194",
@@ -7778,7 +10364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611188",
@@ -7796,7 +10388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,45",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611782",
@@ -7814,7 +10412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613557",
@@ -7832,7 +10436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611773",
@@ -7850,7 +10460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611541",
@@ -7868,7 +10484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611766",
@@ -7886,7 +10508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613553",
@@ -7904,7 +10532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611101",
@@ -7922,7 +10556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611759",
@@ -7940,7 +10580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3613548",
@@ -7958,7 +10604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611100",
@@ -7976,7 +10628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611753",
@@ -7994,7 +10652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611741",
@@ -8012,7 +10676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3611729",
@@ -8030,7 +10700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608283",
@@ -8048,7 +10724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607900",
@@ -8066,7 +10748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609571",
@@ -8084,7 +10772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609564",
@@ -8102,7 +10796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607892",
@@ -8120,7 +10820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608554",
@@ -8138,7 +10844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608549",
@@ -8156,7 +10868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609557",
@@ -8174,7 +10892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608544",
@@ -8192,7 +10916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608707",
@@ -8210,7 +10940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607529",
@@ -8228,7 +10964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608313",
@@ -8246,7 +10988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607502",
@@ -8264,7 +11012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607514",
@@ -8282,7 +11036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607598",
@@ -8300,7 +11060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609537",
@@ -8318,7 +11084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608308",
@@ -8336,7 +11108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607593",
@@ -8354,7 +11132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609532",
@@ -8372,7 +11156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607588",
@@ -8390,7 +11180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609528",
@@ -8408,7 +11204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609641",
@@ -8426,7 +11228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609521",
@@ -8444,7 +11252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607578",
@@ -8462,7 +11276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608261",
@@ -8480,7 +11300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609516",
@@ -8498,7 +11324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609636",
@@ -8516,7 +11348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608300",
@@ -8534,7 +11372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607573",
@@ -8552,7 +11396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608257",
@@ -8570,7 +11420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609511",
@@ -8588,7 +11444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608295",
@@ -8606,7 +11468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609632",
@@ -8624,7 +11492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609506",
@@ -8642,7 +11516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607568",
@@ -8660,7 +11540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609501",
@@ -8678,7 +11564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609626",
@@ -8696,7 +11588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607563",
@@ -8714,7 +11612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608290",
@@ -8732,7 +11636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609496",
@@ -8750,7 +11660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607558",
@@ -8768,7 +11684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608253",
@@ -8786,7 +11708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608285",
@@ -8804,7 +11732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607440",
@@ -8822,7 +11756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609572",
@@ -8840,7 +11780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607553",
@@ -8858,7 +11804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608279",
@@ -8876,7 +11828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607548",
@@ -8894,7 +11852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607497",
@@ -8912,7 +11876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607543",
@@ -8930,7 +11900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608245",
@@ -8948,7 +11924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607424",
@@ -8966,7 +11948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607492",
@@ -8984,7 +11972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609622",
@@ -9002,7 +11996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3609616",
@@ -9020,7 +12020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608239",
@@ -9038,7 +12044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608235",
@@ -9056,7 +12068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3608228",
@@ -9074,7 +12092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605441",
@@ -9092,7 +12116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604928",
@@ -9110,7 +12140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604923",
@@ -9128,7 +12164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604921",
@@ -9146,7 +12188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604663",
@@ -9164,7 +12212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604662",
@@ -9182,7 +12236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605019",
@@ -9200,7 +12260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605009",
@@ -9218,7 +12284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605174",
@@ -9236,7 +12308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605167",
@@ -9254,7 +12332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605161",
@@ -9272,7 +12356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604491",
@@ -9290,7 +12380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605157",
@@ -9308,7 +12404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604487",
@@ -9326,7 +12428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605150",
@@ -9344,7 +12452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605002",
@@ -9362,7 +12476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605120",
@@ -9380,7 +12500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604484",
@@ -9398,7 +12524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607346",
@@ -9416,7 +12548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604479",
@@ -9434,7 +12572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607341",
@@ -9452,7 +12596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3607335",
@@ -9470,7 +12620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604165",
@@ -9488,7 +12644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604159",
@@ -9506,7 +12668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604155",
@@ -9524,7 +12692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604150",
@@ -9542,7 +12716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604913",
@@ -9560,7 +12740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604908",
@@ -9578,7 +12764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604903",
@@ -9596,7 +12788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604997",
@@ -9614,7 +12812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604014",
@@ -9632,7 +12836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604038",
@@ -9650,7 +12860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604995",
@@ -9668,7 +12884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604005",
@@ -9686,7 +12908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604033",
@@ -9704,7 +12932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604028",
@@ -9722,7 +12956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3603990",
@@ -9740,7 +12980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604023",
@@ -9758,7 +13004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604015",
@@ -9776,7 +13028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604008",
@@ -9794,7 +13052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604989",
@@ -9812,7 +13076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3603994",
@@ -9830,7 +13100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604201",
@@ -9848,7 +13124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3603984",
@@ -9866,7 +13148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604196",
@@ -9884,7 +13172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604900",
@@ -9902,7 +13196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605116",
@@ -9920,7 +13220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3603980",
@@ -9938,7 +13244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604191",
@@ -9956,7 +13268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604895",
@@ -9974,7 +13292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605110",
@@ -9992,7 +13316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3603974",
@@ -10010,7 +13340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604186",
@@ -10028,7 +13364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3605105",
@@ -10046,7 +13388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604890",
@@ -10064,7 +13412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3603966",
@@ -10082,7 +13436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604182",
@@ -10100,7 +13460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595305",
@@ -10118,7 +13484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604175",
@@ -10136,7 +13508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3604171",
@@ -10154,7 +13532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602145",
@@ -10172,7 +13556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602362",
@@ -10190,7 +13580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602135",
@@ -10208,7 +13604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602129",
@@ -10226,7 +13628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601796",
@@ -10244,7 +13652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602352",
@@ -10262,7 +13676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601791",
@@ -10280,7 +13700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602344",
@@ -10298,7 +13724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602291",
@@ -10316,7 +13748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601786",
@@ -10334,7 +13772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602498",
@@ -10352,7 +13796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601781",
@@ -10370,7 +13820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602121",
@@ -10388,7 +13844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602216",
@@ -10406,7 +13868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601776",
@@ -10424,7 +13892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602494",
@@ -10442,7 +13916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602119",
@@ -10460,7 +13940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602211",
@@ -10478,7 +13964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602488",
@@ -10496,7 +13988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602203",
@@ -10514,7 +14012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602200",
@@ -10532,7 +14036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602564",
@@ -10550,7 +14060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602195",
@@ -10568,7 +14084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602188",
@@ -10586,7 +14108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602558",
@@ -10604,7 +14132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602183",
@@ -10622,7 +14156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602179",
@@ -10640,7 +14180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602554",
@@ -10658,7 +14204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602173",
@@ -10676,7 +14228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602548",
@@ -10694,7 +14252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602170",
@@ -10712,7 +14276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602542",
@@ -10730,7 +14300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602161",
@@ -10748,7 +14324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602109",
@@ -10766,7 +14348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601972",
@@ -10784,7 +14372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602332",
@@ -10802,7 +14396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601965",
@@ -10820,7 +14420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601920",
@@ -10838,7 +14444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602324",
@@ -10856,7 +14468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601815",
@@ -10874,7 +14492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602081",
@@ -10892,7 +14516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602314",
@@ -10910,7 +14540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601402",
@@ -10928,7 +14564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601483",
@@ -10946,7 +14588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601397",
@@ -10964,7 +14612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602537",
@@ -10982,7 +14636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602303",
@@ -11000,7 +14660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601392",
@@ -11018,7 +14684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602480",
@@ -11036,7 +14708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601387",
@@ -11054,7 +14732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602532",
@@ -11072,7 +14756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602474",
@@ -11090,7 +14780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602527",
@@ -11108,7 +14804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601381",
@@ -11126,7 +14828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602469",
@@ -11144,7 +14852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601376",
@@ -11162,7 +14876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602522",
@@ -11180,7 +14900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602464",
@@ -11198,7 +14924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602517",
@@ -11216,7 +14948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3602459",
@@ -11234,7 +14972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601474",
@@ -11252,7 +14996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601468",
@@ -11270,7 +15020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601370",
@@ -11288,7 +15044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601462",
@@ -11306,7 +15068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601364",
@@ -11324,7 +15092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601359",
@@ -11342,7 +15116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601355",
@@ -11360,7 +15140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3601350",
@@ -11378,7 +15164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599590",
@@ -11396,7 +15188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599583",
@@ -11414,7 +15212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599578",
@@ -11432,7 +15236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599573",
@@ -11450,7 +15260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599568",
@@ -11468,7 +15284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600529",
@@ -11486,7 +15308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599563",
@@ -11504,7 +15332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599415",
@@ -11522,7 +15356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600528",
@@ -11540,7 +15380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599558",
@@ -11558,7 +15404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600527",
@@ -11576,7 +15428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599410",
@@ -11594,7 +15452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599553",
@@ -11612,7 +15476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599392",
@@ -11630,7 +15500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599384",
@@ -11648,7 +15524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599379",
@@ -11666,7 +15548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599123",
@@ -11684,7 +15572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599118",
@@ -11702,7 +15596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599538",
@@ -11720,7 +15620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599114",
@@ -11738,7 +15644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600508",
@@ -11756,7 +15668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599531",
@@ -11774,7 +15692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599153",
@@ -11792,7 +15716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599110",
@@ -11810,7 +15740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600502",
@@ -11828,7 +15764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599526",
@@ -11846,7 +15788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599148",
@@ -11864,7 +15812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599520",
@@ -11882,7 +15836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599143",
@@ -11900,7 +15860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599516",
@@ -11918,7 +15884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599138",
@@ -11936,7 +15908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599285",
@@ -11954,7 +15932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599280",
@@ -11972,7 +15956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599275",
@@ -11990,7 +15980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599354",
@@ -12008,7 +16004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600497",
@@ -12026,7 +16028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599350",
@@ -12044,7 +16052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,47",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599268",
@@ -12062,7 +16076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600495",
@@ -12080,7 +16100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599097",
@@ -12098,7 +16124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599263",
@@ -12116,7 +16148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599341",
@@ -12134,7 +16172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599093",
@@ -12152,7 +16196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3600487",
@@ -12170,7 +16220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599089",
@@ -12188,7 +16244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599336",
@@ -12206,7 +16268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599258",
@@ -12224,7 +16292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599253",
@@ -12242,7 +16316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599331",
@@ -12260,7 +16340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599136",
@@ -12278,7 +16364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598748",
@@ -12296,7 +16388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599059",
@@ -12314,7 +16412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598743",
@@ -12332,7 +16436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599036",
@@ -12350,7 +16460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598738",
@@ -12368,7 +16484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599499",
@@ -12386,7 +16508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599494",
@@ -12404,7 +16532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598731",
@@ -12422,7 +16556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599315",
@@ -12440,7 +16580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598726",
@@ -12458,7 +16604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599310",
@@ -12476,7 +16628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598719",
@@ -12494,7 +16652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599784",
@@ -12512,7 +16676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3599303",
@@ -12530,7 +16700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598714",
@@ -12548,7 +16724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598709",
@@ -12566,7 +16748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598703",
@@ -12584,7 +16772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3598698",
@@ -12602,7 +16796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596352",
@@ -12620,7 +16820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596351",
@@ -12638,7 +16844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596350",
@@ -12656,7 +16868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596349",
@@ -12674,7 +16892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596379",
@@ -12692,7 +16916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596528",
@@ -12710,7 +16940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596524",
@@ -12728,7 +16964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596439",
@@ -12746,7 +16988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596519",
@@ -12764,7 +17012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596514",
@@ -12782,7 +17036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596434",
@@ -12800,7 +17060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595912",
@@ -12818,7 +17084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595907",
@@ -12836,7 +17108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596225",
@@ -12854,7 +17132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595671",
@@ -12872,7 +17156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596217",
@@ -12890,7 +17180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596212",
@@ -12908,7 +17204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595666",
@@ -12926,7 +17228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595661",
@@ -12944,7 +17252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596177",
@@ -12962,7 +17276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595655",
@@ -12980,7 +17300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595709",
@@ -12998,7 +17324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595650",
@@ -13016,7 +17348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596173",
@@ -13034,7 +17372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595703",
@@ -13052,7 +17396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595696",
@@ -13070,7 +17420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596427",
@@ -13088,7 +17444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596250",
@@ -13106,7 +17468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596422",
@@ -13124,7 +17492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596123",
@@ -13142,7 +17516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596417",
@@ -13160,7 +17540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3596253",
@@ -13178,7 +17564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595633",
@@ -13196,7 +17588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595628",
@@ -13214,7 +17612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595623",
@@ -13232,7 +17636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595885",
@@ -13250,7 +17660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595880",
@@ -13268,7 +17684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595875",
@@ -13286,7 +17708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595870",
@@ -13304,7 +17732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595228",
@@ -13322,7 +17756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595223",
@@ -13340,7 +17780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594641",
@@ -13358,7 +17804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595221",
@@ -13376,7 +17828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594638",
@@ -13394,7 +17852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594628",
@@ -13412,7 +17876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594624",
@@ -13430,7 +17900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593830",
@@ -13448,7 +17924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595324",
@@ -13466,7 +17948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594614",
@@ -13484,7 +17972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595320",
@@ -13502,7 +17996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594608",
@@ -13520,7 +18020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594597",
@@ -13538,7 +18044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594972",
@@ -13556,7 +18068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595317",
@@ -13574,7 +18092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594594",
@@ -13592,7 +18116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594967",
@@ -13610,7 +18140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593367",
@@ -13628,7 +18164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594962",
@@ -13646,7 +18188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595313",
@@ -13664,7 +18212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593363",
@@ -13682,7 +18236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593359",
@@ -13700,7 +18260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588496",
@@ -13718,7 +18284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594543",
@@ -13736,7 +18308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593004",
@@ -13754,7 +18332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594538",
@@ -13772,7 +18356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592996",
@@ -13790,7 +18380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595207",
@@ -13808,7 +18404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594500",
@@ -13826,7 +18428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595203",
@@ -13844,7 +18452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594494",
@@ -13862,7 +18476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595197",
@@ -13880,7 +18500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595195",
@@ -13898,7 +18524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594489",
@@ -13916,7 +18548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593346",
@@ -13934,7 +18572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593342",
@@ -13952,7 +18596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595298",
@@ -13970,7 +18620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594481",
@@ -13988,7 +18644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595293",
@@ -14006,7 +18668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594476",
@@ -14024,7 +18692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595288",
@@ -14042,7 +18716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593332",
@@ -14060,7 +18740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592975",
@@ -14078,7 +18764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593809",
@@ -14096,7 +18788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3594471",
@@ -14114,7 +18812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593808",
@@ -14132,7 +18836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593328",
@@ -14150,7 +18860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592970",
@@ -14168,7 +18884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593324",
@@ -14186,7 +18908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595183",
@@ -14204,7 +18932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593805",
@@ -14222,7 +18956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595179",
@@ -14240,7 +18980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592964",
@@ -14258,7 +19004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593320",
@@ -14276,7 +19028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592959",
@@ -14294,7 +19052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595173",
@@ -14312,7 +19076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3595168",
@@ -14330,7 +19100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593316",
@@ -14348,7 +19124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592952",
@@ -14366,7 +19148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3593312",
@@ -14384,7 +19172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592947",
@@ -14402,7 +19196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592938",
@@ -14420,7 +19220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592933",
@@ -14438,7 +19244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3592928",
@@ -14456,7 +19268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591194",
@@ -14474,7 +19292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591189",
@@ -14492,7 +19316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591184",
@@ -14510,7 +19340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591179",
@@ -14528,7 +19364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590605",
@@ -14546,7 +19388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591174",
@@ -14564,7 +19412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590441",
@@ -14582,7 +19436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,47",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590436",
@@ -14600,7 +19460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590431",
@@ -14618,7 +19484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590597",
@@ -14636,7 +19508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590596",
@@ -14654,7 +19532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590590",
@@ -14672,7 +19556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590383",
@@ -14690,7 +19580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590377",
@@ -14708,7 +19604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590373",
@@ -14726,7 +19628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590369",
@@ -14744,7 +19652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590426",
@@ -14762,7 +19676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590364",
@@ -14780,7 +19700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590421",
@@ -14798,7 +19724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590360",
@@ -14816,7 +19748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591041",
@@ -14834,7 +19772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591040",
@@ -14852,7 +19796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591039",
@@ -14870,7 +19820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591038",
@@ -14888,7 +19844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591037",
@@ -14906,7 +19868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591036",
@@ -14924,7 +19892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590416",
@@ -14942,7 +19916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590355",
@@ -14960,7 +19940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591146",
@@ -14978,7 +19964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590411",
@@ -14996,7 +19988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590351",
@@ -15014,7 +20012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591141",
@@ -15032,7 +20036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590347",
@@ -15050,7 +20060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591135",
@@ -15068,7 +20084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590406",
@@ -15086,7 +20108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590343",
@@ -15104,7 +20132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591024",
@@ -15122,7 +20156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591023",
@@ -15140,7 +20180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591130",
@@ -15158,7 +20204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590402",
@@ -15176,7 +20228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591124",
@@ -15194,7 +20252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591119",
@@ -15212,7 +20276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591010",
@@ -15230,7 +20300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591005",
@@ -15248,7 +20324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590999",
@@ -15266,7 +20348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590991",
@@ -15284,7 +20372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3590986",
@@ -15302,7 +20396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3591112",
@@ -15320,7 +20420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588339",
@@ -15338,7 +20444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588334",
@@ -15356,7 +20468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588327",
@@ -15374,7 +20492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587943",
@@ -15392,7 +20516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587942",
@@ -15410,7 +20540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588598",
@@ -15428,7 +20564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587855",
@@ -15446,7 +20588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588535",
@@ -15464,7 +20612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587848",
@@ -15482,7 +20636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587844",
@@ -15500,7 +20660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587839",
@@ -15518,7 +20684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587835",
@@ -15536,7 +20708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587830",
@@ -15554,7 +20732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587825",
@@ -15572,7 +20756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587340",
@@ -15590,7 +20780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587338",
@@ -15608,7 +20804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588505",
@@ -15626,7 +20828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587336",
@@ -15644,7 +20852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588500",
@@ -15662,7 +20876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587334",
@@ -15680,7 +20900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587332",
@@ -15698,7 +20924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588321",
@@ -15716,7 +20948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587233",
@@ -15734,7 +20972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588314",
@@ -15752,7 +20996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587228",
@@ -15770,7 +21020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588308",
@@ -15788,7 +21044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587219",
@@ -15806,7 +21068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587214",
@@ -15824,7 +21092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587212",
@@ -15842,7 +21116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587208",
@@ -15860,7 +21140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588304",
@@ -15878,7 +21164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588298",
@@ -15896,7 +21188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588283",
@@ -15914,7 +21212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587330",
@@ -15932,7 +21236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587328",
@@ -15950,7 +21260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588481",
@@ -15968,7 +21284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588477",
@@ -15986,7 +21308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587925",
@@ -16004,7 +21332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588472",
@@ -16022,7 +21356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587919",
@@ -16040,7 +21380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587045",
@@ -16058,7 +21404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587200",
@@ -16076,7 +21428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587910",
@@ -16094,7 +21452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587195",
@@ -16112,7 +21476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587040",
@@ -16130,7 +21500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587902",
@@ -16148,7 +21524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587899",
@@ -16166,7 +21548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587189",
@@ -16184,7 +21572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587035",
@@ -16202,7 +21596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587715",
@@ -16220,7 +21620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588458",
@@ -16238,7 +21644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587030",
@@ -16256,7 +21668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587184",
@@ -16274,7 +21692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588451",
@@ -16292,7 +21716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587024",
@@ -16310,7 +21740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587179",
@@ -16328,7 +21764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587404",
@@ -16346,7 +21788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587173",
@@ -16364,7 +21812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587399",
@@ -16382,7 +21836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588446",
@@ -16400,7 +21860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3587167",
@@ -16418,7 +21884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3588441",
@@ -16436,7 +21908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584478",
@@ -16454,7 +21932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584472",
@@ -16472,7 +21956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584635",
@@ -16490,7 +21980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584467",
@@ -16508,7 +22004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584632",
@@ -16526,7 +22028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584630",
@@ -16544,7 +22052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584628",
@@ -16562,7 +22076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584462",
@@ -16580,7 +22100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584455",
@@ -16598,7 +22124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585155",
@@ -16616,7 +22148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585146",
@@ -16634,7 +22172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585173",
@@ -16652,7 +22196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584203",
@@ -16670,7 +22220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584202",
@@ -16688,7 +22244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584201",
@@ -16706,7 +22268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584200",
@@ -16724,7 +22292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585161",
@@ -16742,7 +22316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585134",
@@ -16760,7 +22340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585151",
@@ -16778,7 +22364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586268",
@@ -16796,7 +22388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586264",
@@ -16814,7 +22412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585138",
@@ -16832,7 +22436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586259",
@@ -16850,7 +22460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586253",
@@ -16868,7 +22484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586249",
@@ -16886,7 +22508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581873",
@@ -16904,7 +22532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581868",
@@ -16922,7 +22556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581862",
@@ -16940,7 +22580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581857",
@@ -16958,7 +22604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581852",
@@ -16976,7 +22628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581847",
@@ -16994,7 +22652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586243",
@@ -17012,7 +22676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586238",
@@ -17030,7 +22700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586233",
@@ -17048,7 +22724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586228",
@@ -17066,7 +22748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586223",
@@ -17084,7 +22772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584130",
@@ -17102,7 +22796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3586218",
@@ -17120,7 +22820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584125",
@@ -17138,7 +22844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584121",
@@ -17156,7 +22868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585068",
@@ -17174,7 +22892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584116",
@@ -17192,7 +22916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585059",
@@ -17210,7 +22940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584021",
@@ -17228,7 +22964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584073",
@@ -17246,7 +22988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585054",
@@ -17264,7 +23012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584072",
@@ -17282,7 +23036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584017",
@@ -17300,7 +23060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585050",
@@ -17318,7 +23084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584010",
@@ -17336,7 +23108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584005",
@@ -17354,7 +23132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585125",
@@ -17372,7 +23156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584448",
@@ -17390,7 +23180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584109",
@@ -17408,7 +23204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585122",
@@ -17426,7 +23228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585113",
@@ -17444,7 +23252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3583990",
@@ -17462,7 +23276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584441",
@@ -17480,7 +23300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585102",
@@ -17498,7 +23324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584435",
@@ -17516,7 +23348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585095",
@@ -17534,7 +23372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3585085",
@@ -17552,7 +23396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3584431",
@@ -17570,7 +23420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3582023",
@@ -17588,7 +23444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3582019",
@@ -17606,7 +23468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3582015",
@@ -17624,7 +23492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3582010",
@@ -17642,7 +23516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3582005",
@@ -17660,7 +23540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581879",
@@ -17678,7 +23564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581946",
@@ -17696,7 +23588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581941",
@@ -17714,7 +23612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581934",
@@ -17732,7 +23636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581970",
@@ -17750,7 +23660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581969",
@@ -17768,7 +23684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581968",
@@ -17786,7 +23708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581967",
@@ -17804,7 +23732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581928",
@@ -17822,7 +23756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581922",
@@ -17840,7 +23780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581411",
@@ -17858,7 +23804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581802",
@@ -17876,7 +23828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581796",
@@ -17894,7 +23852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581407",
@@ -17912,7 +23876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581403",
@@ -17930,7 +23900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581399",
@@ -17948,7 +23924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581788",
@@ -17966,7 +23948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581208",
@@ -17984,7 +23972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581394",
@@ -18002,7 +23996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581781",
@@ -18020,7 +24020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581101",
@@ -18038,7 +24044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581100",
@@ -18056,7 +24068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581203",
@@ -18074,7 +24092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581831",
@@ -18092,7 +24116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581198",
@@ -18110,7 +24140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581777",
@@ -18128,7 +24164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581826",
@@ -18146,7 +24188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581030",
@@ -18164,7 +24212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581193",
@@ -18182,7 +24236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581810",
@@ -18200,7 +24260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581025",
@@ -18218,7 +24284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581188",
@@ -18236,7 +24308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581792",
@@ -18254,7 +24332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581771",
@@ -18272,7 +24356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581183",
@@ -18290,7 +24380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581020",
@@ -18308,7 +24404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581656",
@@ -18326,7 +24428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581178",
@@ -18344,7 +24452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581173",
@@ -18362,7 +24476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581651",
@@ -18380,7 +24500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581015",
@@ -18398,7 +24524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581011",
@@ -18416,7 +24548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581769",
@@ -18434,7 +24572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581005",
@@ -18452,7 +24596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581761",
@@ -18470,7 +24620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581000",
@@ -18488,7 +24644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3581895",
@@ -18506,7 +24668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580995",
@@ -18524,7 +24692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580931",
@@ -18542,7 +24716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580926",
@@ -18560,7 +24740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580921",
@@ -18578,7 +24764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580916",
@@ -18596,7 +24788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579052",
@@ -18614,7 +24812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579051",
@@ -18632,7 +24836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579050",
@@ -18650,7 +24860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578976",
@@ -18668,7 +24884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578974",
@@ -18686,7 +24908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578972",
@@ -18704,7 +24932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578969",
@@ -18722,7 +24956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579468",
@@ -18740,7 +24980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578967",
@@ -18758,7 +25004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578965",
@@ -18776,7 +25028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579166",
@@ -18794,7 +25052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580903",
@@ -18812,7 +25076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580894",
@@ -18830,7 +25100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580888",
@@ -18848,7 +25124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580883",
@@ -18866,7 +25148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3580877",
@@ -18884,7 +25172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578760",
@@ -18902,7 +25196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579154",
@@ -18920,7 +25220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579039",
@@ -18938,7 +25244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579038",
@@ -18956,7 +25268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578755",
@@ -18974,7 +25292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579149",
@@ -18992,7 +25316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578750",
@@ -19010,7 +25340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578745",
@@ -19028,7 +25364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579143",
@@ -19046,7 +25388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578740",
@@ -19064,7 +25412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579324",
@@ -19082,7 +25436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579137",
@@ -19100,7 +25460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579312",
@@ -19118,7 +25484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578733",
@@ -19136,7 +25508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579286",
@@ -19154,7 +25532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578729",
@@ -19172,7 +25556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579186",
@@ -19190,7 +25580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578724",
@@ -19208,7 +25604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579181",
@@ -19226,7 +25628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578719",
@@ -19244,7 +25652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579270",
@@ -19262,7 +25676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579172",
@@ -19280,7 +25700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578714",
@@ -19298,7 +25724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579132",
@@ -19316,7 +25748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579168",
@@ -19334,7 +25772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579257",
@@ -19352,7 +25796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3578710",
@@ -19370,7 +25820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579085",
@@ -19388,7 +25844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579247",
@@ -19406,7 +25868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579242",
@@ -19424,7 +25892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3579239",
@@ -19442,7 +25916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577302",
@@ -19460,7 +25940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577297",
@@ -19478,7 +25964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,45",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577279",
@@ -19496,7 +25988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577254",
@@ -19514,7 +26012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,35",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576808",
@@ -19532,7 +26036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576804",
@@ -19550,7 +26060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576800",
@@ -19568,7 +26084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577099",
@@ -19586,7 +26108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577098",
@@ -19604,7 +26132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577097",
@@ -19622,7 +26156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576755",
@@ -19640,7 +26180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576793",
@@ -19658,7 +26204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576746",
@@ -19676,7 +26228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576788",
@@ -19694,7 +26252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576780",
@@ -19712,7 +26276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576776",
@@ -19730,7 +26300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576735",
@@ -19748,7 +26324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576729",
@@ -19766,7 +26348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576936",
@@ -19784,7 +26372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576935",
@@ -19802,7 +26396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576680",
@@ -19820,7 +26420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576675",
@@ -19838,7 +26444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576723",
@@ -19856,7 +26468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576665",
@@ -19874,7 +26492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576690",
@@ -19892,7 +26516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576719",
@@ -19910,7 +26540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576715",
@@ -19928,7 +26564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576668",
@@ -19946,7 +26588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3576662",
@@ -19964,7 +26612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577368",
@@ -19982,7 +26636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577362",
@@ -20000,7 +26660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577360",
@@ -20018,7 +26684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577352",
@@ -20036,7 +26708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577346",
@@ -20054,7 +26732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577345",
@@ -20072,7 +26756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577338",
@@ -20090,7 +26780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577330",
@@ -20108,7 +26804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3577325",
@@ -20126,7 +26828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574650",
@@ -20144,7 +26852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574861",
@@ -20162,7 +26876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574587",
@@ -20180,7 +26900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574858",
@@ -20198,7 +26924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "132 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574857",
@@ -20216,7 +26948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574846",
@@ -20234,7 +26972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574582",
@@ -20252,7 +26996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574700",
@@ -20270,7 +27020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574699",
@@ -20288,7 +27044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574698",
@@ -20306,7 +27068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574697",
@@ -20324,7 +27092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574578",
@@ -20342,7 +27116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574842",
@@ -20360,7 +27140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574529",
@@ -20378,7 +27164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574524",
@@ -20396,7 +27188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574265",
@@ -20414,7 +27212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574560",
@@ -20432,7 +27236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574260",
@@ -20450,7 +27260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574554",
@@ -20468,7 +27284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574437",
@@ -20486,7 +27308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574255",
@@ -20504,7 +27332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574250",
@@ -20522,7 +27356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574548",
@@ -20540,7 +27380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574432",
@@ -20558,7 +27404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574430",
@@ -20576,7 +27428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574543",
@@ -20594,7 +27452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574501",
@@ -20612,7 +27476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574536",
@@ -20630,7 +27500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574535",
@@ -20648,7 +27524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574498",
@@ -20666,7 +27548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574210",
@@ -20684,7 +27572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574207",
@@ -20702,7 +27596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574206",
@@ -20720,7 +27620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574205",
@@ -20738,7 +27644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574204",
@@ -20756,7 +27668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574203",
@@ -20774,7 +27692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574202",
@@ -20792,7 +27716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574201",
@@ -20810,7 +27740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574411",
@@ -20828,7 +27764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574493",
@@ -20846,7 +27788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574489",
@@ -20864,7 +27812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574406",
@@ -20882,7 +27836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574401",
@@ -20900,7 +27860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574478",
@@ -20918,7 +27884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574396",
@@ -20936,7 +27908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574669",
@@ -20954,7 +27932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574474",
@@ -20972,7 +27956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574470",
@@ -20990,7 +27980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574392",
@@ -21008,7 +28004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574387",
@@ -21026,7 +28028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3574382",
@@ -21044,7 +28052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572727",
@@ -21062,7 +28076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572724",
@@ -21080,7 +28100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572636",
@@ -21098,7 +28124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572762",
@@ -21116,7 +28148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572610",
@@ -21134,7 +28172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572719",
@@ -21152,7 +28196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572757",
@@ -21170,7 +28220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572714",
@@ -21188,7 +28244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572751",
@@ -21206,7 +28268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572606",
@@ -21224,7 +28292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572709",
@@ -21242,7 +28316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572746",
@@ -21260,7 +28340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572704",
@@ -21278,7 +28364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572590",
@@ -21296,7 +28388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572588",
@@ -21314,7 +28412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572496",
@@ -21332,7 +28436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572699",
@@ -21350,7 +28460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572694",
@@ -21368,7 +28484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572689",
@@ -21386,7 +28508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572681",
@@ -21404,7 +28532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572676",
@@ -21422,7 +28556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572671",
@@ -21440,7 +28580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572666",
@@ -21458,7 +28604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572661",
@@ -21476,7 +28628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572400",
@@ -21494,7 +28652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572579",
@@ -21512,7 +28676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572571",
@@ -21530,7 +28700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572656",
@@ -21548,7 +28724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572395",
@@ -21566,7 +28748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572651",
@@ -21584,7 +28772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572392",
@@ -21602,7 +28796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572646",
@@ -21620,7 +28820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572641",
@@ -21638,7 +28844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572492",
@@ -21656,7 +28868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572188",
@@ -21674,7 +28892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572486",
@@ -21692,7 +28916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572183",
@@ -21710,7 +28940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572561",
@@ -21728,7 +28964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572178",
@@ -21746,7 +28988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572481",
@@ -21764,7 +29012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572174",
@@ -21782,7 +29036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572169",
@@ -21800,7 +29060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572545",
@@ -21818,7 +29084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572540",
@@ -21836,7 +29108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3572513",
@@ -21854,7 +29132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570287",
@@ -21872,7 +29156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570507",
@@ -21890,7 +29180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570286",
@@ -21908,7 +29204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570505",
@@ -21926,7 +29228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570497",
@@ -21944,7 +29252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570495",
@@ -21962,7 +29276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3571038",
@@ -21980,7 +29300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3571033",
@@ -21998,7 +29324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569977",
@@ -22016,7 +29348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569976",
@@ -22034,7 +29372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569975",
@@ -22052,7 +29396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570252",
@@ -22070,7 +29420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569924",
@@ -22088,7 +29444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569918",
@@ -22106,7 +29468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569913",
@@ -22124,7 +29492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569867",
@@ -22142,7 +29516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570487",
@@ -22160,7 +29540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570064",
@@ -22178,7 +29564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570484",
@@ -22196,7 +29588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569862",
@@ -22214,7 +29612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570478",
@@ -22232,7 +29636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570057",
@@ -22250,7 +29660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570130",
@@ -22268,7 +29684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569848",
@@ -22286,7 +29708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569843",
@@ -22304,7 +29732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570125",
@@ -22322,7 +29756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569837",
@@ -22340,7 +29780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570047",
@@ -22358,7 +29804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570120",
@@ -22376,7 +29828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569832",
@@ -22394,7 +29852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570115",
@@ -22412,7 +29876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570044",
@@ -22430,7 +29900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3570109",
@@ -22448,7 +29924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569826",
@@ -22466,7 +29948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569821",
@@ -22484,7 +29972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569817",
@@ -22502,7 +29996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3569811",
@@ -22520,7 +30020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567578",
@@ -22538,7 +30044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567577",
@@ -22556,7 +30068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3568440",
@@ -22574,7 +30092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3568435",
@@ -22592,7 +30116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567605",
@@ -22610,7 +30140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567600",
@@ -22628,7 +30164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567593",
@@ -22646,7 +30188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567314",
@@ -22664,7 +30212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567315",
@@ -22682,7 +30236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567308",
@@ -22700,7 +30260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567702",
@@ -22718,7 +30284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567306",
@@ -22736,7 +30308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567695",
@@ -22754,7 +30332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567727",
@@ -22772,7 +30356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567725",
@@ -22790,7 +30380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567139",
@@ -22808,7 +30404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567134",
@@ -22826,7 +30428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567548",
@@ -22844,7 +30452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567128",
@@ -22862,7 +30476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567123",
@@ -22880,7 +30500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567691",
@@ -22898,7 +30524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567300",
@@ -22916,7 +30548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567115",
@@ -22934,7 +30572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567110",
@@ -22952,7 +30596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567069",
@@ -22970,7 +30620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567105",
@@ -22988,7 +30644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567100",
@@ -23006,7 +30668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567062",
@@ -23024,7 +30692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567095",
@@ -23042,7 +30716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567058",
@@ -23060,7 +30740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3567090",
@@ -23078,7 +30764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3565535",
@@ -23096,7 +30788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3565528",
@@ -23114,7 +30812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3565565",
@@ -23132,7 +30836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3565560",
@@ -23150,7 +30860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3565555",
@@ -23168,7 +30884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3565550",
@@ -23186,7 +30908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3562963",
@@ -23204,7 +30932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3562958",
@@ -23222,7 +30956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3562953",
@@ -23240,7 +30980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560970",
@@ -23258,7 +31004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560963",
@@ -23276,7 +31028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560957",
@@ -23294,7 +31052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560951",
@@ -23312,7 +31076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560946",
@@ -23330,7 +31100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560941",
@@ -23348,7 +31124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560935",
@@ -23366,7 +31148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560851",
@@ -23384,7 +31172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560850",
@@ -23402,7 +31196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560912",
@@ -23420,7 +31220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560901",
@@ -23438,7 +31244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560828",
@@ -23456,7 +31268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560826",
@@ -23474,7 +31292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560825",
@@ -23492,7 +31316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560896",
@@ -23510,7 +31340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560824",
@@ -23528,7 +31364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560543",
@@ -23546,7 +31388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560540",
@@ -23564,7 +31412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560542",
@@ -23582,7 +31436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560539",
@@ -23600,7 +31460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560729",
@@ -23618,7 +31484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560500",
@@ -23636,7 +31508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560724",
@@ -23654,7 +31532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560495",
@@ -23672,7 +31556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560487",
@@ -23690,7 +31580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560719",
@@ -23708,7 +31604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560714",
@@ -23726,7 +31628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558527",
@@ -23744,7 +31652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558522",
@@ -23762,7 +31676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558516",
@@ -23780,7 +31700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558511",
@@ -23798,7 +31724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558581",
@@ -23816,7 +31748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558506",
@@ -23834,7 +31772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558308",
@@ -23852,7 +31796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558501",
@@ -23870,7 +31820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558576",
@@ -23888,7 +31844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558304",
@@ -23906,7 +31868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558300",
@@ -23924,7 +31892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558295",
@@ -23942,7 +31916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558261",
@@ -23960,7 +31940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558260",
@@ -23978,7 +31964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558259",
@@ -23996,7 +31988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560485",
@@ -24014,7 +32012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560480",
@@ -24032,7 +32036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3560475",
@@ -24050,7 +32060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558240",
@@ -24068,7 +32084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558238",
@@ -24086,7 +32108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558144",
@@ -24104,7 +32132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558236",
@@ -24122,7 +32156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558143",
@@ -24140,7 +32180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558232",
@@ -24158,7 +32204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558563",
@@ -24176,7 +32228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3557955",
@@ -24194,7 +32252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558556",
@@ -24212,7 +32276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558550",
@@ -24230,7 +32300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3557948",
@@ -24248,7 +32324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3558545",
@@ -24266,7 +32348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3557943",
@@ -24284,7 +32372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3557938",
@@ -24302,7 +32396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556220",
@@ -24320,7 +32420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556219",
@@ -24338,7 +32444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556218",
@@ -24356,7 +32468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556216",
@@ -24374,7 +32492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556214",
@@ -24392,7 +32516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556099",
@@ -24410,7 +32540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556093",
@@ -24428,7 +32564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556176",
@@ -24446,7 +32588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556168",
@@ -24464,7 +32612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556288",
@@ -24482,7 +32636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556161",
@@ -24500,7 +32660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556282",
@@ -24518,7 +32684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556150",
@@ -24536,7 +32708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556082",
@@ -24554,7 +32732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555639",
@@ -24572,7 +32756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556074",
@@ -24590,7 +32780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555631",
@@ -24608,7 +32804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555624",
@@ -24626,7 +32828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556138",
@@ -24644,7 +32852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555618",
@@ -24662,7 +32876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556137",
@@ -24680,7 +32900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556136",
@@ -24698,7 +32924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555612",
@@ -24716,7 +32948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555665",
@@ -24734,7 +32972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556024",
@@ -24752,7 +32996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556361",
@@ -24770,7 +33020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556260",
@@ -24788,7 +33044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556356",
@@ -24806,7 +33068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556014",
@@ -24824,7 +33092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556255",
@@ -24842,7 +33116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556351",
@@ -24860,7 +33140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555942",
@@ -24878,7 +33164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555937",
@@ -24896,7 +33188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556009",
@@ -24914,7 +33212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556004",
@@ -24932,7 +33236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555927",
@@ -24950,7 +33260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555917",
@@ -24968,7 +33284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555912",
@@ -24986,7 +33308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556250",
@@ -25004,7 +33332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556244",
@@ -25022,7 +33356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3556240",
@@ -25040,7 +33380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553696",
@@ -25058,7 +33404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553771",
@@ -25076,7 +33428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553691",
@@ -25094,7 +33452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553720",
@@ -25112,7 +33476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553686",
@@ -25130,7 +33500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553715",
@@ -25148,7 +33524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553710",
@@ -25166,7 +33548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553569",
@@ -25184,7 +33572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553665",
@@ -25202,7 +33596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553664",
@@ -25220,7 +33620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553564",
@@ -25238,7 +33644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553558",
@@ -25256,7 +33668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553554",
@@ -25274,7 +33692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553548",
@@ -25292,7 +33716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553242",
@@ -25310,7 +33740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553117",
@@ -25328,7 +33764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553116",
@@ -25346,7 +33788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553238",
@@ -25364,7 +33812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553233",
@@ -25382,7 +33836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555379",
@@ -25400,7 +33860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555374",
@@ -25418,7 +33884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3555369",
@@ -25436,7 +33908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553677",
@@ -25454,7 +33932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553535",
@@ -25472,7 +33956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553764",
@@ -25490,7 +33980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553532",
@@ -25508,7 +34004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553761",
@@ -25526,7 +34028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553222",
@@ -25544,7 +34052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553218",
@@ -25562,7 +34076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553214",
@@ -25580,7 +34100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553209",
@@ -25598,7 +34124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553204",
@@ -25616,7 +34148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553519",
@@ -25634,7 +34172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553199",
@@ -25652,7 +34196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553515",
@@ -25670,7 +34220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553191",
@@ -25688,7 +34244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3553507",
@@ -25706,7 +34268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3552927",
@@ -25724,7 +34292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3552922",
@@ -25742,7 +34316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551447",
@@ -25760,7 +34340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551442",
@@ -25778,7 +34364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551437",
@@ -25796,7 +34388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551432",
@@ -25814,7 +34412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551011",
@@ -25832,7 +34436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551388",
@@ -25850,7 +34460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551005",
@@ -25868,7 +34484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551382",
@@ -25886,7 +34508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551323",
@@ -25904,7 +34532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3550997",
@@ -25922,7 +34556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3550995",
@@ -25940,7 +34580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551318",
@@ -25958,7 +34604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551370",
@@ -25976,7 +34628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3550987",
@@ -25994,7 +34652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551366",
@@ -26012,7 +34676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3550980",
@@ -26030,7 +34700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551313",
@@ -26048,7 +34724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3550976",
@@ -26066,7 +34748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551308",
@@ -26084,7 +34772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551362",
@@ -26102,7 +34796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551303",
@@ -26120,7 +34820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551358",
@@ -26138,7 +34844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551349",
@@ -26156,7 +34868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3551342",
@@ -26174,7 +34892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549576",
@@ -26192,7 +34916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549541",
@@ -26210,7 +34940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549407",
@@ -26228,7 +34964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549403",
@@ -26246,7 +34988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549586",
@@ -26264,7 +35012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549583",
@@ -26282,7 +35036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549567",
@@ -26300,7 +35060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549566",
@@ -26318,7 +35084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549565",
@@ -26336,7 +35108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549563",
@@ -26354,7 +35132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549562",
@@ -26372,7 +35156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549633",
@@ -26390,7 +35180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549628",
@@ -26408,7 +35204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549397",
@@ -26426,7 +35228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549393",
@@ -26444,7 +35252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549180",
@@ -26462,7 +35276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549179",
@@ -26480,7 +35300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549389",
@@ -26498,7 +35324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549235",
@@ -26516,7 +35348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549621",
@@ -26534,7 +35372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549616",
@@ -26552,7 +35396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3549611",
@@ -26570,7 +35420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3548156",
@@ -26588,7 +35444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547662",
@@ -26606,7 +35468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547657",
@@ -26624,7 +35492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547488",
@@ -26642,7 +35516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547487",
@@ -26660,7 +35540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547652",
@@ -26678,7 +35564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547647",
@@ -26696,7 +35588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547429",
@@ -26714,7 +35612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547641",
@@ -26732,7 +35636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547532",
@@ -26750,7 +35660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547626",
@@ -26768,7 +35684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547621",
@@ -26786,7 +35708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547044",
@@ -26804,7 +35732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547178",
@@ -26822,7 +35756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547174",
@@ -26840,7 +35780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547607",
@@ -26858,7 +35804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3546937",
@@ -26876,7 +35828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547039",
@@ -26894,7 +35852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3546936",
@@ -26912,7 +35876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3546935",
@@ -26930,7 +35900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3546934",
@@ -26948,7 +35924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547143",
@@ -26966,7 +35948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547138",
@@ -26984,7 +35972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547029",
@@ -27002,7 +35996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547132",
@@ -27020,7 +36020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547128",
@@ -27038,7 +36044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547075",
@@ -27056,7 +36068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547122",
@@ -27074,7 +36092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547117",
@@ -27092,7 +36116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547112",
@@ -27110,7 +36140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547107",
@@ -27128,7 +36164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547298",
@@ -27146,7 +36188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547293",
@@ -27164,7 +36212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547287",
@@ -27182,7 +36236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3547276",
@@ -27200,7 +36260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3545050",
@@ -27218,7 +36284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544768",
@@ -27236,7 +36308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544743",
@@ -27254,7 +36332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544849",
@@ -27272,7 +36356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544719",
@@ -27290,7 +36380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544845",
@@ -27308,7 +36404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544580",
@@ -27326,7 +36428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544579",
@@ -27344,7 +36452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544578",
@@ -27362,7 +36476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544861",
@@ -27380,7 +36500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544320",
@@ -27398,7 +36524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544857",
@@ -27416,7 +36548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544313",
@@ -27434,7 +36572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544825",
@@ -27452,7 +36596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3545020",
@@ -27470,7 +36620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3545015",
@@ -27488,7 +36644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544429",
@@ -27506,7 +36668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3545007",
@@ -27524,7 +36692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544428",
@@ -27542,7 +36716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544426",
@@ -27560,7 +36740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544998",
@@ -27578,7 +36764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544622",
@@ -27596,7 +36788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544993",
@@ -27614,7 +36812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544913",
@@ -27632,7 +36836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544277",
@@ -27650,7 +36860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544617",
@@ -27668,7 +36884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544276",
@@ -27686,7 +36908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544988",
@@ -27704,7 +36932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544983",
@@ -27722,7 +36956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544907",
@@ -27740,7 +36980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544610",
@@ -27758,7 +37004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544903",
@@ -27776,7 +37028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544978",
@@ -27794,7 +37052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544603",
@@ -27812,7 +37076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3544974",
@@ -27830,7 +37100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542374",
@@ -27848,7 +37124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542333",
@@ -27866,7 +37148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542328",
@@ -27884,7 +37172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542369",
@@ -27902,7 +37196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542360",
@@ -27920,7 +37220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542267",
@@ -27938,7 +37244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542350",
@@ -27956,7 +37268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3541915",
@@ -27974,7 +37292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3541914",
@@ -27992,7 +37316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542262",
@@ -28010,7 +37340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542257",
@@ -28028,7 +37364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3541902",
@@ -28046,7 +37388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3541891",
@@ -28064,7 +37412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3541886",
@@ -28082,7 +37436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542315",
@@ -28100,7 +37460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542309",
@@ -28118,7 +37484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542084",
@@ -28136,7 +37508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542080",
@@ -28154,7 +37532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542075",
@@ -28172,7 +37556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3542070",
@@ -28190,7 +37580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540105",
@@ -28208,7 +37604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540223",
@@ -28226,7 +37628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540659",
@@ -28244,7 +37652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540568",
@@ -28262,7 +37676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540221",
@@ -28280,7 +37700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540101",
@@ -28298,7 +37724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540373",
@@ -28316,7 +37748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540098",
@@ -28334,7 +37772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540285",
@@ -28352,7 +37796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540093",
@@ -28370,7 +37820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540282",
@@ -28388,7 +37844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540024",
@@ -28406,7 +37868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540021",
@@ -28424,7 +37892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540014",
@@ -28442,7 +37916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540001",
@@ -28460,7 +37940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539994",
@@ -28478,7 +37964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539985",
@@ -28496,7 +37988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540210",
@@ -28514,7 +38012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540203",
@@ -28532,7 +38036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539584",
@@ -28550,7 +38060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540197",
@@ -28568,7 +38084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539579",
@@ -28586,7 +38108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539381",
@@ -28604,7 +38132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539574",
@@ -28622,7 +38156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539376",
@@ -28640,7 +38180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539567",
@@ -28658,7 +38204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539558",
@@ -28676,7 +38228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539370",
@@ -28694,7 +38252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540767",
@@ -28712,7 +38276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539553",
@@ -28730,7 +38300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539365",
@@ -28748,7 +38324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540763",
@@ -28766,7 +38348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539548",
@@ -28784,7 +38372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540757",
@@ -28802,7 +38396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539544",
@@ -28820,7 +38420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3540751",
@@ -28838,7 +38444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539611",
@@ -28856,7 +38468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3539513",
@@ -28874,7 +38492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3538039",
@@ -28892,7 +38516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537605",
@@ -28910,7 +38540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537982",
@@ -28928,7 +38564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537597",
@@ -28946,7 +38588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3538826",
@@ -28964,7 +38612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537962",
@@ -28982,7 +38636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3538824",
@@ -29000,7 +38660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537931",
@@ -29018,7 +38684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3538818",
@@ -29036,7 +38708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537592",
@@ -29054,7 +38732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537911",
@@ -29072,7 +38756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537851",
@@ -29090,7 +38780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537906",
@@ -29108,7 +38804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3538811",
@@ -29126,7 +38828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537895",
@@ -29144,7 +38852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3538851",
@@ -29162,7 +38876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537887",
@@ -29180,7 +38900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537766",
@@ -29198,7 +38924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537873",
@@ -29216,7 +38948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537498",
@@ -29234,7 +38972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537812",
@@ -29252,7 +38996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537276",
@@ -29270,7 +39020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537272",
@@ -29288,7 +39044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537247",
@@ -29306,7 +39068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537267",
@@ -29324,7 +39092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537242",
@@ -29342,7 +39116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537259",
@@ -29360,7 +39140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537255",
@@ -29378,7 +39164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537236",
@@ -29396,7 +39188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537796",
@@ -29414,7 +39212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537795",
@@ -29432,7 +39236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537231",
@@ -29450,7 +39260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537226",
@@ -29468,7 +39284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537221",
@@ -29486,7 +39308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535668",
@@ -29504,7 +39332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535664",
@@ -29522,7 +39356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3536048",
@@ -29540,7 +39380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3536042",
@@ -29558,7 +39404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535659",
@@ -29576,7 +39428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3536034",
@@ -29594,7 +39452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535674",
@@ -29612,7 +39476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3536026",
@@ -29630,7 +39500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,54",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535653",
@@ -29648,7 +39524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3536020",
@@ -29666,7 +39548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3536013",
@@ -29684,7 +39572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535648",
@@ -29702,7 +39596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537137",
@@ -29720,7 +39620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537132",
@@ -29738,7 +39644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537128",
@@ -29756,7 +39668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537102",
@@ -29774,7 +39692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537101",
@@ -29792,7 +39716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537100",
@@ -29810,7 +39740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535397",
@@ -29828,7 +39764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3537088",
@@ -29846,7 +39788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535388",
@@ -29864,7 +39812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3535383",
@@ -29882,7 +39836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534252",
@@ -29900,7 +39860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534448",
@@ -29918,7 +39884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534273",
@@ -29936,7 +39908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534259",
@@ -29954,7 +39932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534122",
@@ -29972,7 +39956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534209",
@@ -29990,7 +39980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534242",
@@ -30008,7 +40004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534116",
@@ -30026,7 +40028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534205",
@@ -30044,7 +40052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534237",
@@ -30062,7 +40076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534201",
@@ -30080,7 +40100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534232",
@@ -30098,7 +40124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533745",
@@ -30116,7 +40148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533739",
@@ -30134,7 +40172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533808",
@@ -30152,7 +40196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533807",
@@ -30170,7 +40220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533805",
@@ -30188,7 +40244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534105",
@@ -30206,7 +40268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533796",
@@ -30224,7 +40292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534190",
@@ -30242,7 +40316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533735",
@@ -30260,7 +40340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534351",
@@ -30278,7 +40364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534185",
@@ -30296,7 +40388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533729",
@@ -30314,7 +40412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533724",
@@ -30332,7 +40436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534177",
@@ -30350,7 +40460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3534088",
@@ -30368,7 +40484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533854",
@@ -30386,7 +40508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533786",
@@ -30404,7 +40532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533842",
@@ -30422,7 +40556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533837",
@@ -30440,7 +40580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533828",
@@ -30458,7 +40604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533779",
@@ -30476,7 +40628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533990",
@@ -30494,7 +40652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,58",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533823",
@@ -30512,7 +40676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533817",
@@ -30530,7 +40700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533985",
@@ -30548,7 +40724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,55",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533809",
@@ -30566,7 +40748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533790",
@@ -30584,7 +40772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533980",
@@ -30602,7 +40796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533774",
@@ -30620,7 +40820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533764",
@@ -30638,7 +40844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3533975",
@@ -30656,7 +40868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531884",
@@ -30674,7 +40892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531879",
@@ -30692,7 +40916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531898",
@@ -30710,7 +40940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531851",
@@ -30728,7 +40964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531844",
@@ -30746,7 +40988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531691",
@@ -30764,7 +41012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531779",
@@ -30782,7 +41036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531683",
@@ -30800,7 +41060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531773",
@@ -30818,7 +41084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531502",
@@ -30836,7 +41108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531496",
@@ -30854,7 +41132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531867",
@@ -30872,7 +41156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531864",
@@ -30890,7 +41180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531715",
@@ -30908,7 +41204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531703",
@@ -30926,7 +41228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531700",
@@ -30944,7 +41252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531474",
@@ -30962,7 +41276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531705",
@@ -30980,7 +41300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531672",
@@ -30998,7 +41324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531492",
@@ -31016,7 +41348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531428",
@@ -31034,7 +41372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531451",
@@ -31052,7 +41396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531444",
@@ -31070,7 +41420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531447",
@@ -31088,7 +41444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531929",
@@ -31106,7 +41468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531940",
@@ -31124,7 +41492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531489",
@@ -31142,7 +41516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531667",
@@ -31160,7 +41540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531419",
@@ -31178,7 +41564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531414",
@@ -31196,7 +41588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531639",
@@ -31214,7 +41612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531408",
@@ -31232,7 +41636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531634",
@@ -31250,7 +41660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531557",
@@ -31268,7 +41684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3531552",
@@ -31286,7 +41708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530166",
@@ -31304,7 +41732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530164",
@@ -31322,7 +41756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529634",
@@ -31340,7 +41780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529633",
@@ -31358,7 +41804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529632",
@@ -31376,7 +41828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530151",
@@ -31394,7 +41852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530146",
@@ -31412,7 +41876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529910",
@@ -31430,7 +41900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529906",
@@ -31448,7 +41924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529688",
@@ -31466,7 +41948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529901",
@@ -31484,7 +41972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529674",
@@ -31502,7 +41996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529893",
@@ -31520,7 +42020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529521",
@@ -31538,7 +42044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529888",
@@ -31556,7 +42068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529664",
@@ -31574,7 +42092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529513",
@@ -31592,7 +42116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529660",
@@ -31610,7 +42140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529656",
@@ -31628,7 +42164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529618",
@@ -31646,7 +42188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529509",
@@ -31664,7 +42212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530141",
@@ -31682,7 +42236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529457",
@@ -31700,7 +42260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530039",
@@ -31718,7 +42284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529449",
@@ -31736,7 +42308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530034",
@@ -31754,7 +42332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529505",
@@ -31772,7 +42356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529444",
@@ -31790,7 +42380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,52",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530029",
@@ -31808,7 +42404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530024",
@@ -31826,7 +42428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530019",
@@ -31844,7 +42452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530014",
@@ -31862,7 +42476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530134",
@@ -31880,7 +42500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,49",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529589",
@@ -31898,7 +42524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529821",
@@ -31916,7 +42548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529585",
@@ -31934,7 +42572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3530129",
@@ -31952,7 +42596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529815",
@@ -31970,7 +42620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529579",
@@ -31988,7 +42644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529571",
@@ -32006,7 +42668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3529803",
@@ -32024,7 +42692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520557",
@@ -32042,7 +42716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520550",
@@ -32060,7 +42740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520546",
@@ -32078,7 +42764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,51",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520692",
@@ -32096,7 +42788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520687",
@@ -32114,7 +42812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,53",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520419",
@@ -32132,7 +42836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520309",
@@ -32150,7 +42860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520307",
@@ -32168,7 +42884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520682",
@@ -32186,7 +42908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520413",
@@ -32204,7 +42932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520311",
@@ -32222,7 +42956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520305",
@@ -32240,7 +42980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520677",
@@ -32258,7 +43004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,48",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520392",
@@ -32276,7 +43028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520385",
@@ -32294,7 +43052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520375",
@@ -32312,7 +43076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520576",
@@ -32330,7 +43100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520457",
@@ -32348,7 +43124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520370",
@@ -32366,7 +43148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520364",
@@ -32384,7 +43172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520571",
@@ -32402,7 +43196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520355",
@@ -32420,7 +43220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520452",
@@ -32438,7 +43244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520350",
@@ -32456,7 +43268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3520345",
@@ -32474,7 +43292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518729",
@@ -32492,7 +43316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518725",
@@ -32510,7 +43340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518721",
@@ -32528,7 +43364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518563",
@@ -32546,7 +43388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518559",
@@ -32564,7 +43412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518675",
@@ -32582,7 +43436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518623",
@@ -32600,7 +43460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518622",
@@ -32618,7 +43484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518670",
@@ -32636,7 +43508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3519043",
@@ -32654,7 +43532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518662",
@@ -32672,7 +43556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3519032",
@@ -32690,7 +43580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518657",
@@ -32708,7 +43604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518997",
@@ -32726,7 +43628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518992",
@@ -32744,7 +43652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518538",
@@ -32762,7 +43676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518533",
@@ -32780,7 +43700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518318",
@@ -32798,7 +43724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518312",
@@ -32816,7 +43748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518978",
@@ -32834,7 +43772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518308",
@@ -32852,7 +43796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518967",
@@ -32870,7 +43820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518962",
@@ -32888,7 +43844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3518956",
@@ -32906,7 +43868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516467",
@@ -32924,7 +43892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516459",
@@ -32942,7 +43916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516454",
@@ -32960,7 +43940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516451",
@@ -32978,7 +43964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516446",
@@ -32996,7 +43988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516442",
@@ -33014,7 +44012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516424",
@@ -33032,7 +44036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516354",
@@ -33050,7 +44060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516420",
@@ -33068,7 +44084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516416",
@@ -33086,7 +44108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516593",
@@ -33104,7 +44132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516588",
@@ -33122,7 +44156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516583",
@@ -33140,7 +44180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516578",
@@ -33158,7 +44204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515985",
@@ -33176,7 +44228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515980",
@@ -33194,7 +44252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515975",
@@ -33212,7 +44276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515970",
@@ -33230,7 +44300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515965",
@@ -33248,7 +44324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515960",
@@ -33266,7 +44348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515955",
@@ -33284,7 +44372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515920",
@@ -33302,7 +44396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515919",
@@ -33320,7 +44420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515918",
@@ -33338,7 +44444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515917",
@@ -33356,7 +44468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515947",
@@ -33374,7 +44492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515944",
@@ -33392,7 +44516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515939",
@@ -33410,7 +44540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3515934",
@@ -33428,7 +44564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516564",
@@ -33446,7 +44588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3516558",
@@ -33464,7 +44612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514280",
@@ -33482,7 +44636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3513895",
@@ -33500,7 +44660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3513890",
@@ -33518,7 +44684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514215",
@@ -33536,7 +44708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3513882",
@@ -33554,7 +44732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514210",
@@ -33572,7 +44756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514206",
@@ -33590,7 +44780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514201",
@@ -33608,7 +44804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514154",
@@ -33626,7 +44828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514166",
@@ -33644,7 +44852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514265",
@@ -33662,7 +44876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514193",
@@ -33680,7 +44900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514192",
@@ -33698,7 +44924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514161",
@@ -33716,7 +44948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514149",
@@ -33734,7 +44972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3514142",
@@ -33752,7 +44996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511765",
@@ -33770,7 +45020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511760",
@@ -33788,7 +45044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511701",
@@ -33806,7 +45068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511696",
@@ -33824,7 +45092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511691",
@@ -33842,7 +45116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3512315",
@@ -33860,7 +45140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511686",
@@ -33878,7 +45164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3512312",
@@ -33896,7 +45188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3512311",
@@ -33914,7 +45212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511670",
@@ -33932,7 +45236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511788",
@@ -33950,7 +45260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511812",
@@ -33968,7 +45284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511308",
@@ -33986,7 +45308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511304",
@@ -34004,7 +45332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511297",
@@ -34022,7 +45356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511807",
@@ -34040,7 +45380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511803",
@@ -34058,7 +45404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511798",
@@ -34076,7 +45428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3511285",
@@ -34094,7 +45452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509456",
@@ -34112,7 +45476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509939",
@@ -34130,7 +45500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509452",
@@ -34148,7 +45524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509628",
@@ -34166,7 +45548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509445",
@@ -34184,7 +45572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509627",
@@ -34202,7 +45596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509441",
@@ -34220,7 +45620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509536",
@@ -34238,7 +45644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509284",
@@ -34256,7 +45668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509283",
@@ -34274,7 +45692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509282",
@@ -34292,7 +45716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509281",
@@ -34310,7 +45740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509280",
@@ -34328,7 +45764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509279",
@@ -34346,7 +45788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509513",
@@ -34364,7 +45812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509542",
@@ -34382,7 +45836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509503",
@@ -34400,7 +45860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509531",
@@ -34418,7 +45884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509522",
@@ -34436,7 +45908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509930",
@@ -34454,7 +45932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509515",
@@ -34472,7 +45956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509506",
@@ -34490,7 +45980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509495",
@@ -34508,7 +46004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,35",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509925",
@@ -34526,7 +46028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509607",
@@ -34544,7 +46052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509603",
@@ -34562,7 +46076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509488",
@@ -34580,7 +46100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509919",
@@ -34598,7 +46124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509481",
@@ -34616,7 +46148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509867",
@@ -34634,7 +46172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509474",
@@ -34652,7 +46196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509850",
@@ -34670,7 +46220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509316",
@@ -34688,7 +46244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509749",
@@ -34706,7 +46268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509312",
@@ -34724,7 +46292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509483",
@@ -34742,7 +46316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509308",
@@ -34760,7 +46340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509480",
@@ -34778,7 +46364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509305",
@@ -34796,7 +46388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3509425",
@@ -34814,7 +46412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3507666",
@@ -34832,7 +46436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3507663",
@@ -34850,7 +46460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3507662",
@@ -34868,7 +46484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3507660",
@@ -34886,7 +46508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498744",
@@ -34904,7 +46532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498739",
@@ -34922,7 +46556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498509",
@@ -34940,7 +46580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498478",
@@ -34958,7 +46604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498664",
@@ -34976,7 +46628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498505",
@@ -34994,7 +46652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498659",
@@ -35012,7 +46676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498731",
@@ -35030,7 +46700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498500",
@@ -35048,7 +46724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498654",
@@ -35066,7 +46748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498468",
@@ -35084,7 +46772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498725",
@@ -35102,7 +46796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498496",
@@ -35120,7 +46820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498648",
@@ -35138,7 +46844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498718",
@@ -35156,7 +46868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498686",
@@ -35174,7 +46892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498566",
@@ -35192,7 +46916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498998",
@@ -35210,7 +46940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498563",
@@ -35228,7 +46964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498993",
@@ -35246,7 +46988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498676",
@@ -35264,7 +47012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498989",
@@ -35282,7 +47036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498554",
@@ -35300,7 +47060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498641",
@@ -35318,7 +47084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498982",
@@ -35336,7 +47108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498624",
@@ -35354,7 +47132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498619",
@@ -35372,7 +47156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3498614",
@@ -35390,7 +47180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496796",
@@ -35408,7 +47204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496791",
@@ -35426,7 +47228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496786",
@@ -35444,7 +47252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496781",
@@ -35462,7 +47276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496222",
@@ -35480,7 +47300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496218",
@@ -35498,7 +47324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496674",
@@ -35516,7 +47348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496673",
@@ -35534,7 +47372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3496671",
@@ -35552,7 +47396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495213",
@@ -35570,7 +47420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495206",
@@ -35588,7 +47444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495203",
@@ -35606,7 +47468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495197",
@@ -35624,7 +47492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494376",
@@ -35642,7 +47516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494646",
@@ -35660,7 +47540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494371",
@@ -35678,7 +47564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494634",
@@ -35696,7 +47588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494366",
@@ -35714,7 +47612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494356",
@@ -35732,7 +47636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494669",
@@ -35750,7 +47660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494351",
@@ -35768,7 +47684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494665",
@@ -35786,7 +47708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494661",
@@ -35804,7 +47732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494657",
@@ -35822,7 +47756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3494655",
@@ -35840,7 +47780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495173",
@@ -35858,7 +47804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495164",
@@ -35876,7 +47828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495160",
@@ -35894,7 +47852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3495154",
@@ -35912,7 +47876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492629",
@@ -35930,7 +47900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492628",
@@ -35948,7 +47924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492627",
@@ -35966,7 +47948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492607",
@@ -35984,7 +47972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492526",
@@ -36002,7 +47996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492598",
@@ -36020,7 +48020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492596",
@@ -36038,7 +48044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492284",
@@ -36056,7 +48068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492283",
@@ -36074,7 +48092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3493090",
@@ -36092,7 +48116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492516",
@@ -36110,7 +48140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3493085",
@@ -36128,7 +48164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492221",
@@ -36146,7 +48188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3493080",
@@ -36164,7 +48212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492213",
@@ -36182,7 +48236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492510",
@@ -36200,7 +48260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492508",
@@ -36218,7 +48284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492467",
@@ -36236,7 +48308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492463",
@@ -36254,7 +48332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492078",
@@ -36272,7 +48356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492459",
@@ -36290,7 +48380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492073",
@@ -36308,7 +48404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492455",
@@ -36326,7 +48428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492451",
@@ -36344,7 +48452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3493071",
@@ -36362,7 +48476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492591",
@@ -36380,7 +48500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492387",
@@ -36398,7 +48524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3493065",
@@ -36416,7 +48548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492586",
@@ -36434,7 +48572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3493062",
@@ -36452,7 +48596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492383",
@@ -36470,7 +48620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492580",
@@ -36488,7 +48644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492379",
@@ -36506,7 +48668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492361",
@@ -36524,7 +48692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492357",
@@ -36542,7 +48716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492353",
@@ -36560,7 +48740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491303",
@@ -36578,7 +48764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491300",
@@ -36596,7 +48788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490292",
@@ -36614,7 +48812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491273",
@@ -36632,7 +48836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491269",
@@ -36650,7 +48860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491263",
@@ -36668,7 +48884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492576",
@@ -36686,7 +48908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492571",
@@ -36704,7 +48932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470087",
@@ -36722,7 +48956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3492566",
@@ -36740,7 +48980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470084",
@@ -36758,7 +49004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490378",
@@ -36776,7 +49028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490373",
@@ -36794,7 +49052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470033",
@@ -36812,7 +49076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490348",
@@ -36830,7 +49100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490345",
@@ -36848,7 +49124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470028",
@@ -36866,7 +49148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490341",
@@ -36884,7 +49172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491240",
@@ -36902,7 +49196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470023",
@@ -36920,7 +49220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490174",
@@ -36938,7 +49244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470018",
@@ -36956,7 +49268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491235",
@@ -36974,7 +49292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490169",
@@ -36992,7 +49316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491230",
@@ -37010,7 +49340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491225",
@@ -37028,7 +49364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3470013",
@@ -37046,7 +49388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3491221",
@@ -37064,7 +49412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3490164",
@@ -37082,7 +49436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469972",
@@ -37100,7 +49460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469965",
@@ -37118,7 +49484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469960",
@@ -37136,7 +49508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469954",
@@ -37154,7 +49532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468236",
@@ -37172,7 +49556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468197",
@@ -37190,7 +49580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468078",
@@ -37208,7 +49604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468072",
@@ -37226,7 +49628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468037",
@@ -37244,7 +49652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468032",
@@ -37262,7 +49676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468004",
@@ -37280,7 +49700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468025",
@@ -37298,7 +49724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468001",
@@ -37316,7 +49748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467731",
@@ -37334,7 +49772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467726",
@@ -37352,7 +49796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467721",
@@ -37370,7 +49820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467665",
@@ -37388,7 +49844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468127",
@@ -37406,7 +49868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467609",
@@ -37424,7 +49892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468123",
@@ -37442,7 +49916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467604",
@@ -37460,7 +49940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468118",
@@ -37478,7 +49964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467599",
@@ -37496,7 +49988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468113",
@@ -37514,7 +50012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468170",
@@ -37532,7 +50036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468165",
@@ -37550,7 +50060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468107",
@@ -37568,7 +50084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468161",
@@ -37586,7 +50108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468060",
@@ -37604,7 +50132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468102",
@@ -37622,7 +50156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468056",
@@ -37640,7 +50180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468157",
@@ -37658,7 +50204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467704",
@@ -37676,7 +50228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467585",
@@ -37694,7 +50252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468153",
@@ -37712,7 +50276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468049",
@@ -37730,7 +50300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467654",
@@ -37748,7 +50324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468023",
@@ -37766,7 +50348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467578",
@@ -37784,7 +50372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3468044",
@@ -37802,7 +50396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467689",
@@ -37820,7 +50420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467652",
@@ -37838,7 +50444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467575",
@@ -37856,7 +50468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467639",
@@ -37874,7 +50492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467679",
@@ -37892,7 +50516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467568",
@@ -37910,7 +50540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467613",
@@ -37928,7 +50564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3467563",
@@ -37946,7 +50588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466073",
@@ -37964,7 +50612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465979",
@@ -37982,7 +50636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466064",
@@ -38000,7 +50660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466058",
@@ -38018,7 +50684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465972",
@@ -38036,7 +50708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466053",
@@ -38054,7 +50732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465833",
@@ -38072,7 +50756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465832",
@@ -38090,7 +50780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465831",
@@ -38108,7 +50804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465830",
@@ -38126,7 +50828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465829",
@@ -38144,7 +50852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466046",
@@ -38162,7 +50876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466091",
@@ -38180,7 +50900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466089",
@@ -38198,7 +50924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465557",
@@ -38216,7 +50948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469389",
@@ -38234,7 +50972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465552",
@@ -38252,7 +50996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465683",
@@ -38270,7 +51020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466700",
@@ -38288,7 +51044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465547",
@@ -38306,7 +51068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466694",
@@ -38324,7 +51092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469384",
@@ -38342,7 +51116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465679",
@@ -38360,7 +51140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466689",
@@ -38378,7 +51164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469379",
@@ -38396,7 +51188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465620",
@@ -38414,7 +51212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3466683",
@@ -38432,7 +51236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469374",
@@ -38450,7 +51260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465616",
@@ -38468,7 +51284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3469370",
@@ -38486,7 +51308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465612",
@@ -38504,7 +51332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465509",
@@ -38522,7 +51356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3465506",
@@ -38540,7 +51380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463699",
@@ -38558,7 +51404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463862",
@@ -38576,7 +51428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463698",
@@ -38594,7 +51452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463697",
@@ -38612,7 +51476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463849",
@@ -38630,7 +51500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463829",
@@ -38648,7 +51524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463821",
@@ -38666,7 +51548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463765",
@@ -38684,7 +51572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3464588",
@@ -38702,7 +51596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463760",
@@ -38720,7 +51620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3464583",
@@ -38738,7 +51644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463755",
@@ -38756,7 +51668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463746",
@@ -38774,7 +51692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463741",
@@ -38792,7 +51716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463736",
@@ -38810,7 +51740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463733",
@@ -38828,7 +51764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463684",
@@ -38846,7 +51788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463839",
@@ -38864,7 +51812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463835",
@@ -38882,7 +51836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463444",
@@ -38900,7 +51860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463340",
@@ -38918,7 +51884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463334",
@@ -38936,7 +51908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3463328",
@@ -38954,7 +51932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461780",
@@ -38972,7 +51956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461771",
@@ -38990,7 +51980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461766",
@@ -39008,7 +52004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461632",
@@ -39026,7 +52028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461616",
@@ -39044,7 +52052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461608",
@@ -39062,7 +52076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461598",
@@ -39080,7 +52100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461593",
@@ -39098,7 +52124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461589",
@@ -39116,7 +52148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461584",
@@ -39134,7 +52172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3461560",
@@ -39152,7 +52196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3455028",
@@ -39170,7 +52220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3455023",
@@ -39188,7 +52244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3455018",
@@ -39206,7 +52268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454930",
@@ -39224,7 +52292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3455013",
@@ -39242,7 +52316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454835",
@@ -39260,7 +52340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3455005",
@@ -39278,7 +52364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454834",
@@ -39296,7 +52388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454887",
@@ -39314,7 +52412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454999",
@@ -39332,7 +52436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454920",
@@ -39350,7 +52460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454917",
@@ -39368,7 +52484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454882",
@@ -39386,7 +52508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454870",
@@ -39404,7 +52532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454865",
@@ -39422,7 +52556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454271",
@@ -39440,7 +52580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454269",
@@ -39458,7 +52604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454229",
@@ -39476,7 +52628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454225",
@@ -39494,7 +52652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454217",
@@ -39512,7 +52676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454254",
@@ -39530,7 +52700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3454250",
@@ -39548,7 +52724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449577",
@@ -39566,7 +52748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449759",
@@ -39584,7 +52772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449753",
@@ -39602,7 +52796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449749",
@@ -39620,7 +52820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449744",
@@ -39638,7 +52844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3447520",
@@ -39656,7 +52868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449678",
@@ -39674,7 +52892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3447502",
@@ -39692,7 +52916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449673",
@@ -39710,7 +52940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3447498",
@@ -39728,7 +52964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3449668",
@@ -39746,7 +52988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3447494",
@@ -39764,7 +53012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445795",
@@ -39782,7 +53036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445789",
@@ -39800,7 +53060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445676",
@@ -39818,7 +53084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445783",
@@ -39836,7 +53108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445779",
@@ -39854,7 +53132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445556",
@@ -39872,7 +53156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3445555",
@@ -39890,7 +53180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435681",
@@ -39908,7 +53204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435486",
@@ -39926,7 +53228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435686",
@@ -39944,7 +53252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435519",
@@ -39962,7 +53276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3437722",
@@ -39980,7 +53300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3437727",
@@ -39998,7 +53324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3437732",
@@ -40016,7 +53348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3437739",
@@ -40034,7 +53372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3437744",
@@ -40052,7 +53396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433767",
@@ -40070,7 +53420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433470",
@@ -40088,7 +53444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433424",
@@ -40106,7 +53468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443321",
@@ -40124,7 +53492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443399",
@@ -40142,7 +53516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443401",
@@ -40160,7 +53540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443403",
@@ -40178,7 +53564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443455",
@@ -40196,7 +53588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443405",
@@ -40214,7 +53612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443465",
@@ -40232,7 +53636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443442",
@@ -40250,7 +53660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3443857",
@@ -40268,7 +53684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435675",
@@ -40286,7 +53708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435475",
@@ -40304,7 +53732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435464",
@@ -40322,7 +53756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435478",
@@ -40340,7 +53780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435772",
@@ -40358,7 +53804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435767",
@@ -40376,7 +53828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435762",
@@ -40394,7 +53852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435757",
@@ -40412,7 +53876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435710",
@@ -40430,7 +53900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435395",
@@ -40448,7 +53924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435290",
@@ -40466,7 +53948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435446",
@@ -40484,7 +53972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435442",
@@ -40502,7 +53996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435389",
@@ -40520,7 +54020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435438",
@@ -40538,7 +54044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435279",
@@ -40556,7 +54068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435384",
@@ -40574,7 +54092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435379",
@@ -40592,7 +54116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435375",
@@ -40610,7 +54140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435370",
@@ -40628,7 +54164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435357",
@@ -40646,7 +54188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435352",
@@ -40664,7 +54212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3435347",
@@ -40682,7 +54236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433585",
@@ -40700,7 +54260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433581",
@@ -40718,7 +54284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433654",
@@ -40736,7 +54308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433710",
@@ -40754,7 +54332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433753",
@@ -40772,7 +54356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433649",
@@ -40790,7 +54380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433631",
@@ -40808,7 +54404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433705",
@@ -40826,7 +54428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433299",
@@ -40844,7 +54452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433748",
@@ -40862,7 +54476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,44",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433565",
@@ -40880,7 +54500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433298",
@@ -40898,7 +54524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433379",
@@ -40916,7 +54548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433297",
@@ -40934,7 +54572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433744",
@@ -40952,7 +54596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433375",
@@ -40970,7 +54620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433561",
@@ -40988,7 +54644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433417",
@@ -41006,7 +54668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433739",
@@ -41024,7 +54692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433622",
@@ -41042,7 +54716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433413",
@@ -41060,7 +54740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433557",
@@ -41078,7 +54764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433364",
@@ -41096,7 +54788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433408",
@@ -41114,7 +54812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433360",
@@ -41132,7 +54836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433617",
@@ -41150,7 +54860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433701",
@@ -41168,7 +54884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433355",
@@ -41186,7 +54908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433612",
@@ -41204,7 +54932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433339",
@@ -41222,7 +54956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433607",
@@ -41240,7 +54980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433333",
@@ -41258,7 +55004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433602",
@@ -41276,7 +55028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433328",
@@ -41294,7 +55052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3433596",
@@ -41312,7 +55076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431415",
@@ -41330,7 +55100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431414",
@@ -41348,7 +55124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431533",
@@ -41366,7 +55148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431605",
@@ -41384,7 +55172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431528",
@@ -41402,7 +55196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431601",
@@ -41420,7 +55220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431513",
@@ -41438,7 +55244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431595",
@@ -41456,7 +55268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431508",
@@ -41474,7 +55292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431591",
@@ -41492,7 +55316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431169",
@@ -41510,7 +55340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431174",
@@ -41528,7 +55364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3431179",
@@ -41546,7 +55388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428845",
@@ -41564,7 +55412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428826",
@@ -41582,7 +55436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,42",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428840",
@@ -41600,7 +55460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428835",
@@ -41618,7 +55484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428821",
@@ -41636,7 +55508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428696",
@@ -41654,7 +55532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428280",
@@ -41672,7 +55556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428275",
@@ -41690,7 +55580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428691",
@@ -41708,7 +55604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428304",
@@ -41726,7 +55628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428401",
@@ -41744,7 +55652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428269",
@@ -41762,7 +55676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428299",
@@ -41780,7 +55700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,43",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428384",
@@ -41798,7 +55724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428684",
@@ -41816,7 +55748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428264",
@@ -41834,7 +55772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428294",
@@ -41852,7 +55796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,39",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428259",
@@ -41870,7 +55820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428373",
@@ -41888,7 +55844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428679",
@@ -41906,7 +55868,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428368",
@@ -41924,7 +55892,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428674",
@@ -41942,7 +55916,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428360",
@@ -41960,7 +55940,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428669",
@@ -41978,7 +55964,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428355",
@@ -41996,7 +55988,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428664",
@@ -42014,7 +56012,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428350",
@@ -42032,7 +56036,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428344",
@@ -42050,7 +56060,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428333",
@@ -42068,7 +56084,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428319",
@@ -42086,7 +56108,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3428314",
@@ -42104,7 +56132,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3426540",
@@ -42122,7 +56156,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3426535",
@@ -42140,7 +56180,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3426530",
@@ -42158,7 +56204,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3426523",
@@ -42176,7 +56228,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3426515",
@@ -42194,7 +56252,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3424998",
@@ -42212,7 +56276,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3425028",
@@ -42230,7 +56300,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3425010",
@@ -42248,7 +56324,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3425006",
@@ -42266,7 +56348,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3424976",
@@ -42284,7 +56372,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,38",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3424973",
@@ -42302,7 +56396,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3423175",
@@ -42320,7 +56420,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3423171",
@@ -42338,7 +56444,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3423006",
@@ -42356,7 +56468,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3423160",
@@ -42374,7 +56492,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422748",
@@ -42392,7 +56516,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,36",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3423155",
@@ -42410,7 +56540,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422743",
@@ -42428,7 +56564,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422805",
@@ -42446,7 +56588,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422738",
@@ -42464,7 +56612,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Paralelismo": "1,37",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422799",
@@ -42482,7 +56636,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422769",
@@ -42500,7 +56660,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422757",
@@ -42518,7 +56684,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3422754",
@@ -42536,7 +56708,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421350",
@@ -42554,7 +56732,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421180",
@@ -42572,7 +56756,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421133",
@@ -42590,7 +56780,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421175",
@@ -42608,7 +56804,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421126",
@@ -42626,7 +56828,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421122",
@@ -42644,7 +56852,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421166",
@@ -42662,7 +56876,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3421163",
@@ -42680,7 +56900,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3417432",
@@ -42698,7 +56924,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3417427",
@@ -42716,7 +56948,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3417453",
@@ -42734,7 +56972,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3417418",
@@ -42752,7 +56996,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3417413",
@@ -42770,7 +57020,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3417408",
@@ -42788,7 +57044,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3416397",
@@ -42806,7 +57068,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3416388",
@@ -42824,7 +57092,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3416382",
@@ -42842,7 +57116,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3416377",
@@ -42860,7 +57140,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3416372",
@@ -42878,7 +57164,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3415085",
@@ -42896,7 +57188,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3415078",
@@ -42914,7 +57212,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3415073",
@@ -42932,7 +57236,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3415067",
@@ -42950,7 +57260,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414949",
@@ -42968,7 +57284,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414945",
@@ -42986,7 +57308,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414938",
@@ -43004,7 +57332,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414930",
@@ -43022,7 +57356,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414913",
@@ -43040,7 +57380,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414900",
@@ -43058,7 +57404,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414888",
@@ -43076,7 +57428,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414883",
@@ -43094,7 +57452,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414878",
@@ -43112,7 +57476,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3414872",
@@ -43130,7 +57500,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "ERASMO VITOR DE SOUZA [22306]",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413430",
@@ -43148,7 +57524,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413425",
@@ -43166,7 +57548,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413418",
@@ -43184,7 +57572,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413412",
@@ -43202,7 +57596,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413408",
@@ -43220,7 +57620,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413406",
@@ -43238,7 +57644,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413399",
@@ -43256,7 +57668,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413395",
@@ -43274,7 +57692,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413389",
@@ -43292,7 +57716,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3413385",
@@ -43310,7 +57740,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411794",
@@ -43328,7 +57764,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411789",
@@ -43346,7 +57788,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411784",
@@ -43364,7 +57812,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411626",
@@ -43382,7 +57836,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411620",
@@ -43400,7 +57860,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411615",
@@ -43418,7 +57884,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411610",
@@ -43436,7 +57908,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411602",
@@ -43454,7 +57932,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411597",
@@ -43472,7 +57956,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411593",
@@ -43490,7 +57980,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411586",
@@ -43508,7 +58004,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411584",
@@ -43526,7 +58028,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3411575",
@@ -43544,7 +58052,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410246",
@@ -43562,7 +58076,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410283",
@@ -43580,7 +58100,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410238",
@@ -43598,7 +58124,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410235",
@@ -43616,7 +58148,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410089",
@@ -43634,7 +58172,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410033",
@@ -43652,7 +58196,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410024",
@@ -43670,7 +58220,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410019",
@@ -43688,7 +58244,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3410003",
@@ -43706,7 +58268,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3409996",
@@ -43724,7 +58292,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408569",
@@ -43742,7 +58316,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408564",
@@ -43760,7 +58340,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408556",
@@ -43778,7 +58364,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408551",
@@ -43796,7 +58388,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408546",
@@ -43814,7 +58412,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408149",
@@ -43832,7 +58436,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408144",
@@ -43850,7 +58460,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408136",
@@ -43868,7 +58484,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3408120",
@@ -43886,7 +58508,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3407984",
@@ -43904,7 +58532,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3407981",
@@ -43922,7 +58556,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,41",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3407979",
@@ -43940,7 +58580,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949549",
@@ -43958,7 +58604,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949547",
@@ -43976,7 +58628,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949546",
@@ -43994,7 +58652,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949545",
@@ -44012,7 +58676,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949543",
@@ -44030,7 +58700,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949544",
@@ -44048,7 +58724,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,4",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949206",
@@ -44066,7 +58748,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949201",
@@ -44084,7 +58772,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949196",
@@ -44102,7 +58796,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949191",
@@ -44120,7 +58820,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949184",
@@ -44138,7 +58844,13 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
   },
   {
     "ID": "3949181",
@@ -44156,6 +58868,228 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Paralelismo": "1,5",
-    "Unnamed: 15": null
+    "Unnamed: 15": NaN,
+    "User": NaN,
+    "Date": NaN,
+    "Start date": NaN,
+    "End date": NaN,
+    "Fazenda": NaN,
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4038384",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03818000000000",
+    "Longitude": "-48.29561000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/10/2026 12:34 PM",
+    "Start date": "11/10/2026 12:31 PM",
+    "End date": "11/10/2026 12:34 PM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037937",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03888000000000",
+    "Longitude": "-48.29627000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/10/2026 08:23 AM",
+    "Start date": "11/10/2026 08:22 AM",
+    "End date": "11/10/2026 08:23 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037932",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03881000000000",
+    "Longitude": "-48.29600000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/10/2026 08:14 AM",
+    "Start date": "11/10/2026 08:13 AM",
+    "End date": "11/10/2026 08:14 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037655",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03852000000000",
+    "Longitude": "-48.29582000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "11/10/2026 08:13 AM",
+    "Start date": "11/10/2026 08:04 AM",
+    "End date": "11/10/2026 08:06 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037657",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03823000000000",
+    "Longitude": "-48.29552000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "11/10/2026 08:13 AM",
+    "Start date": "11/10/2026 08:12 AM",
+    "End date": "11/10/2026 08:13 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037927",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03863000000000",
+    "Longitude": "-48.29581000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/10/2026 08:06 AM",
+    "Start date": "11/10/2026 08:05 AM",
+    "End date": "11/10/2026 08:06 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037922",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03839000000000",
+    "Longitude": "-48.29571000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/10/2026 07:57 AM",
+    "Start date": "11/10/2026 07:56 AM",
+    "End date": "11/10/2026 07:57 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037650",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03889000000000",
+    "Longitude": "-48.29636000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Paralelismo": "1.44",
+    "Unnamed: 15": NaN,
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "11/10/2026 07:53 AM",
+    "Start date": "11/10/2026 07:51 AM",
+    "End date": "11/10/2026 07:53 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
+  },
+  {
+    "ID": "4037913",
+    "Usuário": NaN,
+    "Data": NaN,
+    "Latitude": "-21.03818000000000",
+    "Longitude": "-48.29552000000000",
+    "Data início": NaN,
+    "Data Fim": NaN,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/10/2026",
+    "Local (Fazenda - Talhão)": "50301",
+    "OS": "3705",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Unnamed: 15": NaN,
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/10/2026 07:41 AM",
+    "Start date": "11/10/2026 07:37 AM",
+    "End date": "11/10/2026 07:41 AM",
+    "Fazenda": "50301",
+    "Unnamed: 16": NaN
   }
 ];

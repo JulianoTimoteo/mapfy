@@ -1,145 +1,91 @@
 {
-  "status": "ok",
-  "total_records": 22306,
-  "total_k": "+22k Registros",
-  "total_formatted": "+22.306 Registros",
-  "updated_at": "2026-11-10T06:31:14",
-  "reports": {
-    "subsolagem": {
-      "folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem",
-      "name": "Subsolagem",
-      "slug": "subsolagem",
-      "rows": 367,
-      "latest_date": "3955557,qualidade3@usinapitangueiras.com.br,01/10/2026",
-      "category": "Preparo de Solo"
-    },
-    "canteirizacao": {
-      "folder": "Plantio - 03.1 - Preparo de Solo - Canteirização",
-      "name": "Canteirização",
-      "slug": "canteirizacao",
-      "rows": 403,
-      "latest_date": "4015777,qualidade3@usinapitangueiras.com.br,29/10/2026",
-      "category": "Preparo de Solo"
-    },
-    "sulcacao": {
-      "folder": "Plantio - 05 - Sulcação",
-      "name": "Sulcação",
-      "slug": "sulcacao",
-      "rows": 2835,
-      "latest_date": "4018180,qualidade3@usinapitangueiras.com.br,30/10/2026",
-      "category": "Operação de Plantio"
-    },
-    "dosagem_sulco": {
-      "folder": "Plantio - 04 - Dosagem de Produto - Sulcação",
-      "name": "Dosagem de Produto - Sulcação",
-      "slug": "dosagem_sulco",
-      "rows": 1289,
-      "latest_date": "4015773,qualidade3@usinapitangueiras.com.br,29/10/2026",
-      "category": "Operação de Plantio"
-    },
+  "total_records": 22103,
+  "updated_at": "2026-11-13T08:01:51.681110",
+  "dashboards": {
     "abertura_asa": {
       "folder": "Plantio - 06 - Abertura da Asa",
-      "name": "Abertura da Asa",
-      "slug": "abertura_asa",
-      "rows": 979,
-      "latest_date": "3945450,qualidade5@usinapitangueiras.com.br,28/09/2026",
-      "category": "Operação de Plantio"
+      "count": 983,
+      "updated_at": "2026-11-13 08:01:50"
     },
-    "paralelismo": {
-      "folder": "Plantio - 07 - Paralelismo",
-      "name": "Paralelismo",
-      "slug": "paralelismo",
-      "rows": 2454,
-      "latest_date": "3949181,qualidade3@usinapitangueiras.com.br,29/09/2026",
-      "category": "Agricultura de Precisão"
-    },
-    "qualidade_muda": {
-      "folder": "Plantio - 08 - Qualidade da muda",
-      "name": "Qualidade da Muda",
-      "slug": "qualidade_muda",
-      "rows": 2722,
-      "latest_date": "4018182,qualidade3@usinapitangueiras.com.br,30/10/2026",
-      "category": "Material Genético"
-    },
-    "viabilidade_gemas": {
-      "folder": "Plantio - 09 - Quantidade de Gemas",
-      "name": "Quantidade de Gemas",
-      "slug": "viabilidade_gemas",
-      "rows": 2720,
-      "latest_date": "4018181,qualidade3@usinapitangueiras.com.br,30/10/2026",
-      "category": "Amostragem de Campo"
-    },
-    "qualidade_cana": {
-      "folder": "Plantio - 10 - Quantidade de Cana",
-      "name": "Quantidade de Cana",
-      "slug": "qualidade_cana",
-      "rows": 2591,
-      "latest_date": "4018179,qualidade3@usinapitangueiras.com.br,30/10/2026",
-      "category": "Consumo de Muda"
-    },
-    "dosagem_cobricao": {
-      "folder": "Plantio - 11 - Dosagem de Produto - Cobrição",
-      "name": "Dosagem de Produto - Cobrição",
-      "slug": "dosagem_cobricao",
-      "rows": 927,
-      "latest_date": "4020651,qualidade3@usinapitangueiras.com.br,31/10/2026",
-      "category": "Proteção de Cultivo"
-    },
-    "cobricao": {
-      "folder": "Plantio - 12 - Cobrição",
-      "name": "Cobrição",
-      "slug": "cobricao",
-      "rows": 2042,
-      "latest_date": "4020652,qualidade3@usinapitangueiras.com.br,31/10/2026",
-      "category": "Operação de Plantio"
+    "area_vivencia": {
+      "folder": "#Check-list \u00c1rea de viv\u00eancia _ Colheita",
+      "count": 364,
+      "updated_at": "2026-11-13 08:01:50"
     },
     "arremate_acabamento": {
       "folder": "Plantio - 13 - Arremate e Acabamento",
-      "name": "Arremate e Acabamento",
-      "slug": "arremate_acabamento",
-      "rows": 809,
-      "latest_date": "4018227,qualidade3@usinapitangueiras.com.br,30/10/2026",
-      "category": "Acabamento Operacional"
-    },
-    "herbicida": {
-      "folder": "Tratos - Herbicida",
-      "name": "Tratos - Herbicida",
-      "slug": "herbicida",
-      "rows": 38,
-      "latest_date": "4008398,qualidade9@usinapitangueiras.com.br,26/10/2026",
-      "category": "Tratos Culturais"
+      "count": 814,
+      "updated_at": "2026-11-13 08:01:50"
     },
     "broca_armadilha": {
-      "folder": "Infestação de Broca - Armadilha",
-      "name": "Infestação de Broca - Armadilha",
-      "slug": "broca_armadilha",
-      "rows": 116,
-      "latest_date": "3955147,qualidade3@usinapitangueiras.com.br,01/10/2026",
-      "category": "Fitossanidade"
+      "folder": "Infesta\u00e7\u00e3o de Broca - Armadilha",
+      "count": 116,
+      "updated_at": "2026-11-13 08:01:50"
+    },
+    "canteirizacao": {
+      "folder": "Plantio - 03.1 - Preparo de Solo - Canteiriza\u00e7\u00e3o",
+      "count": 414,
+      "updated_at": "2026-11-13 08:01:50"
     },
     "checklist_veicular": {
       "folder": "CHECK LIST VEICULAR",
-      "name": "CHECK LIST VEICULAR",
-      "slug": "checklist_veicular",
-      "rows": 1434,
-      "latest_date": "4018728,RASTREAMENTO@usinapitangueiras.com.br,30/10/2026",
-      "category": "Frotas & Logística"
+      "count": 1270,
+      "updated_at": "2026-11-13 08:01:50"
     },
-    "area_vivencia": {
-      "folder": "#Check-list área de vivência _ Colheita",
-      "name": "Check-list área de vivência _ Colheita",
-      "slug": "area_vivencia",
-      "rows": 362,
-      "latest_date": "4035053,frente1@usinapitangueiras.com.br,09/11/2026",
-      "category": "SSOMA & Segurança"
+    "cobricao": {
+      "folder": "Plantio - 12 - Cobri\u00e7\u00e3o",
+      "count": 2046,
+      "updated_at": "2026-11-13 08:01:50"
+    },
+    "dosagem_cobricao": {
+      "folder": "Plantio - 11 - Dosagem de Produto - Cobri\u00e7\u00e3o",
+      "count": 931,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "dosagem_sulco": {
+      "folder": "Plantio - 04 - Dosagem de Produto - Sulca\u00e7\u00e3o",
+      "count": 1295,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "herbicida": {
+      "folder": "Tratos - Herbicida",
+      "count": 33,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "paralelismo": {
+      "folder": "Plantio - 07 - Paralelismo",
+      "count": 2462,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "qualidade_cana": {
+      "folder": "Plantio - 10 - Quantidade de Cana",
+      "count": 2608,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "qualidade_muda": {
+      "folder": "Plantio - 08 - Qualidade da muda",
+      "count": 2739,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "subsolagem": {
+      "folder": "Plantio - 03.1 - Preparo de Solo - Subsolagem",
+      "count": 367,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "sulcacao": {
+      "folder": "Plantio - 05 - Sulca\u00e7\u00e3o",
+      "count": 2852,
+      "updated_at": "2026-11-13 08:01:51"
     },
     "tpl_5s": {
-      "folder": "5S e Gestão - TPL",
-      "name": "5S e Gestão - TPL",
-      "slug": "tpl_5s",
-      "rows": 218,
-      "latest_date": "4012641,qualidade9@usinapitangueiras.com.br,28/10/2026",
-      "category": "Gestão & Qualidade"
+      "folder": "5S e Gest\u00e3o - TPL",
+      "count": 72,
+      "updated_at": "2026-11-13 08:01:51"
+    },
+    "viabilidade_gemas": {
+      "folder": "Plantio - 09 - Quantidade de Gemas",
+      "count": 2737,
+      "updated_at": "2026-11-13 08:01:51"
     }
   }
 }
