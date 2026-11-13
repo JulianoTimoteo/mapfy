@@ -407,19 +407,40 @@
             const wrap = this.activeControls.get(map);
             if (!wrap) return;
             const badge = wrap.querySelector('.talhoes-badge');
+            const btn = wrap.querySelector('.talhoes-main-btn');
             if (!badge) return;
 
+            const isLayerActive = this.activeLayers.has(map) && map.hasLayer(this.activeLayers.get(map));
             const auditedMap = this.auditedTalhoesByMap.get(map);
             const auditedCount = auditedMap ? auditedMap.size : 0;
 
             if (auditedCount > 0 && this.highlightAudited) {
                 badge.innerText = `${auditedCount} com coleta`;
                 badge.title = `${auditedCount} talhões contêm dados de campo coletados no período filtrado.`;
-                badge.classList.add('talhoes-badge-audited');
             } else {
                 badge.innerText = '6.4k';
                 badge.title = '6.469 talhões cadastrados na Usina Pitangueiras.';
+            }
+
+            // O estilo do botão e do badge reflete rigorosamente se os shapes estão visíveis ou ocultos
+            if (isLayerActive) {
+                badge.classList.add('talhoes-badge-audited');
+                badge.style.background = '#059669';
+                badge.style.color = '#ffffff';
+                if (btn) {
+                    btn.style.color = '#047857';
+                    btn.style.background = 'rgba(16, 185, 129, 0.10)';
+                    btn.title = 'Clique para ocultar os talhões agrícolas do mapa';
+                }
+            } else {
                 badge.classList.remove('talhoes-badge-audited');
+                badge.style.background = '#94a3b8';
+                badge.style.color = '#ffffff';
+                if (btn) {
+                    btn.style.color = '#64748b';
+                    btn.style.background = 'transparent';
+                    btn.title = 'Clique para exibir os talhões agrícolas no mapa';
+                }
             }
         },
 
@@ -563,11 +584,33 @@
             // Cria o controle flutuante no mapa
             this.createMapControl(map);
 
-            // Verifica preferência do usuário (padrão: ativado)
-            const isEnabled = localStorage.getItem(CONFIG.storageKey) !== 'false';
+            // O mapa inicia sem os shapes (leve e ultra-rápido a 60 FPS)
+            // Os shapes só aparecem quando o usuário clica no botão, ou se já havia ativado explicitamente
+            const isEnabled = localStorage.getItem(CONFIG.storageKey) === 'true';
             if (isEnabled) {
                 this.enableLayerForMap(map);
+            } else {
+                // Pré-aquecimento assíncrono em segundo plano (background) para quando clicar abrir na hora
+                this.preloadShapesInBackground(map);
             }
+        },
+
+        preloadShapesInBackground(map) {
+            const schedule = window.requestIdleCallback || ((cb) => setTimeout(cb, 600));
+            schedule(async () => {
+                try {
+                    const data = await this.loadShapesData();
+                    if (data && map) {
+                        this.buildIndexes(data);
+                        const records = this.getDashboardRecords();
+                        const matchedMap = this.matchRecordsToShapes(records);
+                        this.auditedTalhoesByMap.set(map, matchedMap);
+                        this.updateControlBadge(map);
+                    }
+                } catch (e) {
+                    console.warn('[MapShapes] Pré-aquecimento em segundo plano:', e);
+                }
+            });
         },
 
         createMapControl(map) {
@@ -781,20 +824,26 @@
                         }
                     });
 
-                    btn.addEventListener('click', () => {
+                    btn.addEventListener('click', async (ev) => {
+                        ev.preventDefault();
+                        ev.stopPropagation();
+
                         const currentlyActive = self.activeLayers.has(map) && map.hasLayer(self.activeLayers.get(map));
                         if (currentlyActive) {
+                            // AO CLICAR EXCLUI / OCULTA OS SHAPES DO MAPA
                             self.disableLayerForMap(map);
                             localStorage.setItem(CONFIG.storageKey, 'false');
-                            btn.style.color = '#64748b';
-                            const badge = btn.querySelector('.talhoes-badge');
-                            if (badge) badge.style.background = '#94a3b8';
+                            self.updateControlBadge(map);
                         } else {
-                            self.enableLayerForMap(map);
-                            localStorage.setItem(CONFIG.storageKey, 'true');
-                            btn.style.color = '#047857';
+                            // AO CLICAR MOSTRA OS SHAPES NO MAPA
                             const badge = btn.querySelector('.talhoes-badge');
-                            if (badge) badge.style.background = '#059669';
+                            if (badge && !self.geojsonData) {
+                                badge.innerText = 'Carregando...';
+                                badge.style.background = '#0284c7';
+                            }
+                            await self.enableLayerForMap(map);
+                            localStorage.setItem(CONFIG.storageKey, 'true');
+                            self.updateControlBadge(map);
                         }
                     });
 
@@ -1027,12 +1076,14 @@
         },
 
         disableLayerForMap(map) {
+            if (!map) return;
             if (this.activeLayers.has(map)) {
                 const layer = this.activeLayers.get(map);
                 if (map.hasLayer(layer)) {
                     map.removeLayer(layer);
                 }
             }
+            this.updateControlBadge(map);
         },
 
         reloadAll() {

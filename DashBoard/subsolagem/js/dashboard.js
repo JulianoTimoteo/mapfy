@@ -1845,7 +1845,7 @@
                     if (syncText) syncText.innerText = "Vinculado ao Topo";
                     btnSync.title = "Gráfico sincronizado com o filtro de data do topo. Clique para desvincular.";
                 } else {
-                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-800 text-white border-slate-700 hover:border-emerald-500";
+                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
                     if (syncIcon) syncIcon.innerText = "🔓";
                     if (syncText) syncText.innerText = `Filtro Local (${state.evolutionRange})`;
                     btnSync.title = "Quando desativado, este gráfico exibe sempre o histórico local. Clique para vincular.";
