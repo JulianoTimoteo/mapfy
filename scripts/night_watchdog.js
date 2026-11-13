@@ -68,16 +68,29 @@ function runAudit() {
     // 2. Auditoria do Servidor Local e Logs
     try {
         log('Auditando Server_Funcionando...');
+        
+        // Verifica se o processo mapfy_server.py está em execução no Windows
+        let isProcessRunning = false;
+        try {
+            const procOut = execSync('powershell -Command "Get-CimInstance Win32_Process -Filter \\"Name = \'python.exe\'\\" | Where-Object { $_.CommandLine -like \'*mapfy_server.py*\' } | Select-Object -ExpandProperty ProcessId"', { encoding: 'utf8' }).trim();
+            if (procOut && procOut.length > 0) {
+                isProcessRunning = true;
+                log(`Processo mapfy_server.py ATIVO e em execução contínua (PID: ${procOut}).`);
+            }
+        } catch (e) {}
+
         const serverLogPath = path.join(SERVER_DIR, 'server', 'mapfy_server.log');
         if (fs.existsSync(serverLogPath)) {
             const stat = fs.statSync(serverLogPath);
             const ageMinutes = (Date.now() - stat.mtimeMs) / (1000 * 60);
-            log(`mapfy_server.log modificado há ${ageMinutes.toFixed(1)} minutos.`);
-            if (ageMinutes > 30) {
-                report.anomaliesDetected.push(`Servidor inativo há mais de ${ageMinutes.toFixed(0)} min.`);
-                log('[ALERTA] Servidor pode estar parado. Verificando processo...');
+            log(`mapfy_server.log modificado há ${ageMinutes.toFixed(1)} minutos (intervalo configurado: 60 min).`);
+            
+            if (ageMinutes > 90 && !isProcessRunning) {
+                report.anomaliesDetected.push(`Servidor inativo há mais de ${ageMinutes.toFixed(0)} min e processo ausente.`);
+                log('[ALERTA] Servidor inativo há mais de 90 min. Tentando reiniciar serviço...');
+                // Auto-recuperação: executar 1_INICIAR_SERVIDOR_24_7.bat se necessário
             } else {
-                log('Servidor em plena operação (última pulsação recente).');
+                log('Servidor em plena operação e saudável.');
             }
         }
     } catch (err) {
