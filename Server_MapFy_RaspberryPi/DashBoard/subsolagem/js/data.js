@@ -3,7 +3,7 @@
  * Total: 367 registros
  * Atualizado em: 13/11/2026 12:09
  */
-window.SUBSOLAGEM_DATA = [
+window.RAW_SUBSOLAGEM = window.SUBSOLAGEM_DATA = [
   {
     "ID": 3405808,
     "Usuário": "anabinatto@usinapitangueiras.com.br",

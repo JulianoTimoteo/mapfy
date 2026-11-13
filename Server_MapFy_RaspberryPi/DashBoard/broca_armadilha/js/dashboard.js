@@ -949,14 +949,12 @@
         if (btnDia && btnMes) {
             btnDia.addEventListener('click', () => {
                 state.timelineMode = 'dia';
-                btnDia.className = 'px-2 py-0.5 rounded font-semibold bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300';
-                btnMes.className = 'px-2 py-0.5 rounded font-semibold text-slate-500 hover:text-slate-800';
+                btnDia.className = 'btn-timeline-toggle active'; btnMes.className = 'btn-timeline-toggle';
                 updateChartsData(BrocaEngine.computeFarmRanking(state.filteredRecords), BrocaEngine.computeTalhaoRanking(state.filteredRecords), state.filteredRecords, BrocaEngine.computeSeverityDistribution(state.filteredRecords));
             });
             btnMes.addEventListener('click', () => {
                 state.timelineMode = 'mes';
-                btnMes.className = 'px-2 py-0.5 rounded font-semibold bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300';
-                btnDia.className = 'px-2 py-0.5 rounded font-semibold text-slate-500 hover:text-slate-800';
+                btnMes.className = 'btn-timeline-toggle active'; btnDia.className = 'btn-timeline-toggle';
                 updateChartsData(BrocaEngine.computeFarmRanking(state.filteredRecords), BrocaEngine.computeTalhaoRanking(state.filteredRecords), state.filteredRecords, BrocaEngine.computeSeverityDistribution(state.filteredRecords));
             });
         }
@@ -1110,12 +1108,12 @@
         function updateEvoControlsUI() {
             if (btnSync) {
                 if (state.syncWithGlobalFilter) {
-                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    btnSync.className = "btn-sync-filter sync-locked";
                     if (syncIcon) syncIcon.innerText = "🔒";
                     if (syncText) syncText.innerText = "Filtro Global Ativo";
                     btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
                 } else {
-                    btnSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    btnSync.className = "btn-sync-filter sync-unlocked";
                     if (syncIcon) syncIcon.innerText = "🔓";
                     if (syncText) syncText.innerText = "Filtro Autônomo";
                     btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
@@ -1176,12 +1174,12 @@
         function updateMapControlsUI() {
             if (btnMapSync) {
                 if (state.mapSyncWithGlobal) {
-                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
+                    btnMapSync.className = "btn-sync-filter sync-locked";
                     if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
                     if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
                     btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
                 } else {
-                    btnMapSync.className = "px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-white border-slate-300 dark:border-slate-700 hover:border-emerald-500";
+                    btnMapSync.className = "btn-sync-filter sync-unlocked";
                     if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
                     if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
                     btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
