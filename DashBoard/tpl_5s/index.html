@@ -623,11 +623,28 @@
                             <i class="fa-solid fa-map-location-dot text-emerald-500"></i>
                             <h4 class="text-xs font-bold uppercase tracking-wider text-slate-800 dark:text-slate-200">Distribuição Espacial das Vistorias</h4>
                         </div>
-                        <div class="flex items-center gap-2 text-xs">
-                            <button id="btnMapAll" type="button" class="px-2.5 py-1 rounded bg-slate-200 dark:bg-slate-700 text-slate-800 dark:text-slate-200 font-semibold text-[11px]">Todas</button>
-                            <button id="btnMapOk" type="button" class="px-2.5 py-1 rounded bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 font-semibold text-[11px]">100% OK</button>
-                            <button id="btnMapNok" type="button" class="px-2.5 py-1 rounded bg-amber-100 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300 font-semibold text-[11px]">Com NOK</button>
-                            <button id="btnMapExtintor" type="button" class="px-2.5 py-1 rounded bg-red-100 dark:bg-red-950/60 text-red-700 dark:text-red-300 font-semibold text-[11px]">Extintor NOK</button>
+                        <div class="flex items-center gap-2 text-xs flex-wrap">
+                            <!-- Botão de Sincronização Autônoma do Mapa com Filtro Principal -->
+                            <button id="btnToggleMapSyncFilter" type="button"
+                                    class="px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm"
+                                    title="Quando ativo, o mapa plota todos os pontos do Filtro Principal do topo. Clique para alternar para modo autônomo.">
+                                <span id="mapSyncIcon">🔒</span>
+                                <span id="mapSyncText">Filtro Global Ativo</span>
+                            </button>
+
+                            <!-- Botões de Período Autônomo do Mapa: Todos, 15D, 7D -->
+                            <div id="mapPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi, #1e293b); border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                                <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="ALL" disabled title="Exibir todo o histórico do mapa">Todos</button>
+                                <button type="button" class="btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-map-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
+                                <button type="button" class="btn-map-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-map-range="7D" disabled title="Últimos 7 dias com medições">7D</button>
+                            </div>
+
+                            <div class="flex items-center gap-1 border-l pl-2 border-slate-200 dark:border-slate-700">
+                                <button id="btnMapAll" type="button" class="px-2.5 py-1 rounded bg-slate-200 dark:bg-slate-700 text-slate-800 dark:text-slate-200 font-semibold text-[11px]">Todas</button>
+                                <button id="btnMapOk" type="button" class="px-2.5 py-1 rounded bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 font-semibold text-[11px]">100% OK</button>
+                                <button id="btnMapNok" type="button" class="px-2.5 py-1 rounded bg-amber-100 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300 font-semibold text-[11px]">Com NOK</button>
+                                <button id="btnMapExtintor" type="button" class="px-2.5 py-1 rounded bg-red-100 dark:bg-red-950/60 text-red-700 dark:text-red-300 font-semibold text-[11px]">Extintor NOK</button>
+                            </div>
                         </div>
                     </div>
                     <div id="mapContainer" class="h-[420px] w-full rounded-xl overflow-hidden border border-slate-200 dark:border-slate-700 relative z-10"></div>
@@ -644,10 +661,27 @@
                             <i class="fa-solid fa-timeline text-emerald-500"></i>
                             <h4 class="text-xs font-bold uppercase tracking-wider text-slate-800 dark:text-slate-200">Evolução Temporal das Vistorias</h4>
                         </div>
-                        <div class="flex items-center gap-1.5 text-xs">
+                    <div class="flex items-center gap-2 flex-wrap">
+                        <!-- Botão de Sincronização com Filtro Global do Topo -->
+                        <button id="btnSyncGlobalFilter" type="button"
+                                class="px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm"
+                                title="Quando ativo, este gráfico e as análises obedecem ao Filtro Principal do topo. Clique para alternar para modo autônomo.">
+                            <span id="syncIcon">🔒</span>
+                            <span id="syncText">Filtro Global Ativo</span>
+                        </button>
+
+                        <!-- Botões de Período Local: Todos, 15D, 7D -->
+                        <div id="evoPeriodControls" class="inline-flex p-0.5 rounded-lg border text-xs font-semibold shadow-xs" style="background: var(--bg-kpi, #1e293b); border-color: var(--border-color, rgba(148, 163, 184, 0.2));">
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="ALL" disabled title="Exibir todo o histórico da safra">Todos</button>
+                            <button type="button" class="btn-evo-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-white hover:text-emerald-500 opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="15D" disabled title="Últimos 15 dias com medições">15D</button>
+                            <button type="button" class="btn-evo-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-white bg-emerald-600 shadow-xs opacity-40 cursor-not-allowed pointer-events-none" data-evo-range="7D" disabled title="Últimos 7 dias com medições (Padrão)">7D</button>
+                        </div>
+
+                        <div class="flex items-center gap-1.5 text-xs border-l pl-2 border-slate-200 dark:border-slate-700">
                             <button id="btnTimelineDia" type="button" class="px-2 py-0.5 rounded bg-emerald-600 text-white font-semibold text-[10px]">Por Dia</button>
                             <button id="btnTimelineMes" type="button" class="px-2 py-0.5 rounded bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-300 font-semibold text-[10px]">Por Mês</button>
                         </div>
+                    </div>
                     </div>
                     <div class="h-52 relative">
                         <canvas id="chartTimeline"></canvas>
