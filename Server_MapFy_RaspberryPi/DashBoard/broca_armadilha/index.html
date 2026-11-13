@@ -423,6 +423,120 @@
         <i class="fa-solid fa-sliders text-sm"></i> <span>Filtros</span>
     </button>
 
+    
+    <!-- PAINEL MASTER DE INTELIGÊNCIA AGRONÔMICA (MANUAL TÉCNICO OFICIAL - PÁG. 61 & 62) -->
+    <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
+        <div class="app-card p-4 sm:p-5 border-l-4 border-l-amber-500 shadow-sm" style="background: var(--bg-surface);">
+            <div class="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4 pb-3 border-b border-slate-200 dark:border-slate-700/60">
+                <div class="flex items-start gap-3">
+                    <div class="w-10 h-10 rounded-xl bg-amber-500/10 dark:bg-amber-500/20 text-amber-600 dark:text-amber-400 flex items-center justify-center shrink-0 text-xl font-bold">
+                        <i class="fa-solid fa-seedling"></i>
+                    </div>
+                    <div>
+                        <div class="flex flex-wrap items-center gap-2">
+                            <h2 class="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-tight flex items-center gap-2">
+                                Central de Inteligência Agronômica • Infestação de Broca
+                            </h2>
+                            <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-amber-100 dark:bg-amber-950/80 text-amber-800 dark:text-amber-300 border border-amber-300 dark:border-amber-800">
+                                📖 Manual Técnico Pág. 61-62
+                            </span>
+                        </div>
+                        <p class="text-xs text-slate-600 dark:text-slate-400 mt-0.5">
+                            Regra Oficial Usina Pitangueiras (Cana-Soca): <b>Presença de 6 adultos em 30% das armadilhas amostradas</b>. Denominador estrito com recolhimentos válidos.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap items-center gap-2 w-full lg:w-auto justify-between lg:justify-end">
+                    <div id="agroStatusBadge" class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-bold bg-rose-100 dark:bg-rose-950/80 text-rose-800 dark:text-rose-300 border border-rose-300 dark:border-rose-800 shadow-xs">
+                        <span class="w-2.5 h-2.5 rounded-full bg-rose-500 animate-pulse"></span>
+                        <span id="agroStatusText">CRITÉRIO ATINGIDO (≥ 30%) — MANEJO RECOMENDADO</span>
+                    </div>
+
+                    <button id="btnAbrirAuditoria" type="button" class="btn-sync-filter inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-bold shadow-xs cursor-pointer bg-emerald-600 hover:bg-emerald-700 text-white transition">
+                        <i class="fa-solid fa-calculator"></i>
+                        <span>Auditoria & Rastreabilidade do Cálculo</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Métricas Agronômicas Centrais -->
+            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 sm:gap-4 mt-4 text-xs">
+                <!-- Métrica 1: Percentual no Critério -->
+                <div class="p-3 rounded-lg border border-slate-200 dark:border-slate-700 shadow-xs" style="background: var(--bg-kpi);">
+                    <span class="text-[11px] font-semibold text-slate-500 uppercase tracking-tight block mb-1">
+                        % Armadilhas no Critério
+                    </span>
+                    <div class="flex items-baseline gap-1.5">
+                        <span class="text-xl sm:text-2xl font-black text-rose-600 dark:text-rose-400" id="agroPercentual">59,65%</span>
+                        <span class="text-[10px] font-bold text-slate-400">/ Meta 30%</span>
+                    </div>
+                    <span class="text-[10px] text-slate-500 mt-1 block" id="agroSubPerc">34 de 57 no critério</span>
+                </div>
+
+                <!-- Métrica 2: Armadilhas no Critério (Numerador) -->
+                <div class="p-3 rounded-lg border border-slate-200 dark:border-slate-700 shadow-xs" style="background: var(--bg-kpi);">
+                    <span class="text-[11px] font-semibold text-slate-500 uppercase tracking-tight block mb-1">
+                        No Critério (≥ 6 adultos)
+                    </span>
+                    <div class="flex items-baseline gap-1.5">
+                        <span class="text-xl sm:text-2xl font-black text-amber-600 dark:text-amber-400" id="agroNumerador">34</span>
+                        <span class="text-[10px] font-bold text-slate-400">armadilhas</span>
+                    </div>
+                    <span class="text-[10px] text-slate-500 mt-1 block">Numerador da fórmula</span>
+                </div>
+
+                <!-- Métrica 3: Armadilhas Amostradas (Denominador) -->
+                <div class="p-3 rounded-lg border border-slate-200 dark:border-slate-700 shadow-xs" style="background: var(--bg-kpi);">
+                    <span class="text-[11px] font-semibold text-slate-500 uppercase tracking-tight block mb-1">
+                        Amostradas (Recolhidas)
+                    </span>
+                    <div class="flex items-baseline gap-1.5">
+                        <span class="text-xl sm:text-2xl font-black text-blue-600 dark:text-blue-400" id="agroDenominador">57</span>
+                        <span class="text-[10px] font-bold text-slate-400">válidas</span>
+                    </div>
+                    <span class="text-[10px] text-slate-500 mt-1 block">Denominador oficial</span>
+                </div>
+
+                <!-- Métrica 4: Área dos Talhões em Foco -->
+                <div class="p-3 rounded-lg border border-slate-200 dark:border-slate-700 shadow-xs" style="background: var(--bg-kpi);">
+                    <span class="text-[11px] font-semibold text-slate-500 uppercase tracking-tight block mb-1">
+                        Área em Foco (≥ 6)
+                    </span>
+                    <div class="flex items-baseline gap-1.5">
+                        <span class="text-xl sm:text-2xl font-black text-rose-600 dark:text-rose-400" id="agroAreaFoco">500,62</span>
+                        <span class="text-[10px] font-bold text-slate-400">ha</span>
+                    </div>
+                    <span class="text-[10px] text-slate-500 mt-1 block">Talhões no critério</span>
+                </div>
+
+                <!-- Métrica 5: Área Total Monitorada -->
+                <div class="p-3 rounded-lg border border-slate-200 dark:border-slate-700 shadow-xs" style="background: var(--bg-kpi);">
+                    <span class="text-[11px] font-semibold text-slate-500 uppercase tracking-tight block mb-1">
+                        Área Total Monitorada
+                    </span>
+                    <div class="flex items-baseline gap-1.5">
+                        <span class="text-xl sm:text-2xl font-black text-emerald-600 dark:text-emerald-400" id="agroAreaTotal">915,97</span>
+                        <span class="text-[10px] font-bold text-slate-400">ha</span>
+                    </div>
+                    <span class="text-[10px] text-slate-500 mt-1 block">56 talhões auditados</span>
+                </div>
+
+                <!-- Métrica 6: Cobertura Teórica Nominal -->
+                <div class="p-3 rounded-lg border border-slate-200 dark:border-slate-700 shadow-xs" style="background: var(--bg-kpi);">
+                    <span class="text-[11px] font-semibold text-slate-500 uppercase tracking-tight block mb-1">
+                        Capacidade Nominal
+                    </span>
+                    <div class="flex items-baseline gap-1.5">
+                        <span class="text-xl sm:text-2xl font-black text-teal-600 dark:text-teal-400" id="agroCoberturaNominal">2.850</span>
+                        <span class="text-[10px] font-bold text-slate-400">ha</span>
+                    </div>
+                    <span class="text-[10px] text-slate-500 mt-1 block">50 ha / armadilha (Manual)</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- GRID EXECUTIVO DE 10 CARDS DE KPIS (RESPONSIVO: CELULAR, TABLET, NOTEBOOK, DESKTOP E TV) -->
     <div class="w-full max-w-[1920px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 2xl:px-12 mt-4 sm:mt-5">
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 2xl:grid-cols-10 gap-2.5 sm:gap-3.5 xl:gap-3.5">
@@ -868,16 +982,112 @@
         </div>
     </div>
 
+    
+    <!-- MODAL DE AUDITORIA E RASTREABILIDADE AGRONÔMICA -->
+    <div id="modalAuditoria" class="fixed inset-0 z-50 hidden modal-backdrop flex items-center justify-center p-3 sm:p-4">
+        <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl shadow-2xl max-w-4xl w-full max-h-[92vh] flex flex-col overflow-hidden">
+            <!-- Header do Modal -->
+            <div class="p-4 sm:p-5 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50/80 dark:bg-slate-800/50">
+                <div class="flex items-center gap-3">
+                    <div class="w-9 h-9 rounded-xl bg-emerald-500/10 dark:bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold text-base">
+                        <i class="fa-solid fa-clipboard-list"></i>
+                    </div>
+                    <div>
+                        <h3 class="text-base font-bold text-slate-900 dark:text-white leading-tight">
+                            Memória de Cálculo e Auditoria Agronômica de Infestação
+                        </h3>
+                        <p class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                            Conformidade com a Página 61 do Manual Técnico da Usina Pitangueiras
+                        </p>
+                    </div>
+                </div>
+                <button id="modalAuditoriaCloseBtn" type="button" class="w-8 h-8 rounded-lg flex items-center justify-center text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition">
+                    <i class="fa-solid fa-xmark text-lg"></i>
+                </button>
+            </div>
+
+            <!-- Corpo do Modal com Scroll -->
+            <div class="p-4 sm:p-6 overflow-y-auto space-y-5 text-xs flex-1">
+                <!-- Fórmula e Exemplo -->
+                <div class="p-4 rounded-xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700">
+                    <span class="text-xs font-bold text-slate-800 dark:text-slate-100 block mb-2 uppercase tracking-wide">
+                        <i class="fa-solid fa-square-root-variable text-emerald-500 mr-1.5"></i> Fórmula Oficial do Manual (Cana-Soca)
+                    </span>
+                    <div class="p-3 rounded-lg bg-white dark:bg-slate-900 font-mono text-center text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700/60">
+                        Percentual de Infestação = ( Armadilhas com ≥ 6 adultos / Total de Armadilhas Válidas Amostradas ) × 100
+                    </div>
+                    <p class="text-[11px] text-slate-600 dark:text-slate-400 mt-2.5 leading-relaxed" id="auditoriaExplicacao">
+                        <!-- Preenchido dinamicamente -->
+                    </p>
+                </div>
+
+                <!-- Resumo dos Números Auditados -->
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
+                    <div class="p-3 rounded-xl border border-slate-200 dark:border-slate-700/80 bg-white dark:bg-slate-800">
+                        <span class="text-[10px] text-slate-400 uppercase font-bold block">Numerador (≥ 6)</span>
+                        <span class="text-xl font-black text-rose-600 dark:text-rose-400" id="auditNumVal">34</span>
+                        <span class="text-[10px] text-slate-500 block">Positivas no critério</span>
+                    </div>
+                    <div class="p-3 rounded-xl border border-slate-200 dark:border-slate-700/80 bg-white dark:bg-slate-800">
+                        <span class="text-[10px] text-slate-400 uppercase font-bold block">Denominador</span>
+                        <span class="text-xl font-black text-blue-600 dark:text-blue-400" id="auditDenVal">57</span>
+                        <span class="text-[10px] text-slate-500 block">Recolhimentos válidos</span>
+                    </div>
+                    <div class="p-3 rounded-xl border border-slate-200 dark:border-slate-700/80 bg-white dark:bg-slate-800">
+                        <span class="text-[10px] text-slate-400 uppercase font-bold block">Excluídos</span>
+                        <span class="text-xl font-black text-amber-600 dark:text-amber-400" id="auditExcVal">59</span>
+                        <span class="text-[10px] text-slate-500 block">Instalações em campo</span>
+                    </div>
+                    <div class="p-3 rounded-xl border border-slate-200 dark:border-slate-700/80 bg-white dark:bg-slate-800">
+                        <span class="text-[10px] text-slate-400 uppercase font-bold block">Percentual Real</span>
+                        <span class="text-xl font-black text-emerald-600 dark:text-emerald-400" id="auditPercVal">59,65%</span>
+                        <span class="text-[10px] text-slate-500 block">Limite de Manejo: 30%</span>
+                    </div>
+                </div>
+
+                <!-- Abas da Tabela de Auditoria -->
+                <div>
+                    <div class="flex items-center gap-2 border-b border-slate-200 dark:border-slate-700 pb-2 mb-3">
+                        <button id="tabBtnNum" type="button" class="px-3 py-1.5 rounded-lg font-bold text-xs bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300 transition">
+                            Armadilhas no Critério (<span id="auditTabNumCount">34</span>)
+                        </button>
+                        <button id="tabBtnDen" type="button" class="px-3 py-1.5 rounded-lg font-semibold text-xs text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition">
+                            Denominador Completo (<span id="auditTabDenCount">57</span>)
+                        </button>
+                        <button id="tabBtnExc" type="button" class="px-3 py-1.5 rounded-lg font-semibold text-xs text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition">
+                            Excluídos e Justificativas (<span id="auditTabExcCount">59</span>)
+                        </button>
+                    </div>
+
+                    <!-- Conteúdo das Abas -->
+                    <div id="auditTabContent" class="overflow-x-auto max-h-64 overflow-y-auto border border-slate-200 dark:border-slate-700 rounded-xl">
+                        <!-- Tabela preenchida dinamicamente -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Footer do Modal -->
+            <div class="p-4 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50/80 dark:bg-slate-800/50">
+                <span class="text-[11px] text-slate-500 dark:text-slate-400 font-mono">
+                    Última sincronização: 13/11/2026 • Safra 2026
+                </span>
+                <button id="modalAuditoriaBottomCloseBtn" type="button" class="px-4 py-2 rounded-xl bg-slate-200 hover:bg-slate-300 dark:bg-slate-700 dark:hover:bg-slate-600 font-bold text-xs text-slate-800 dark:text-white transition">
+                    Fechar
+                </button>
+            </div>
+        </div>
+    </div>
+
     <!-- SCRIPTS -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-    <script src="js/data.js?v=2026.5"></script>
-    <script src="js/broca_engine.js"></script>
-    <script src="js/dashboard.js"></script>
+    <script src="js/data.js?v=2026.11.13_v5"></script>
+    <script src="js/broca_engine.js?v=2026.11.13_v5"></script>
+    <script src="js/dashboard.js?v=2026.11.13_v5"></script>
     <script src="../Maps/pitangueiras_shapes_data.js"></script>
-    <script src="../common/js/map_shapes_layer.js"></script>
-    <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
+    <script src="../common/js/map_shapes_layer.js?v=2026.11.13_v5"></script>
+    <script src="../common/js/fullscreen_inspector.js?v=2026.11.13_v5"></script>
 </body>
 </html>

@@ -2,12 +2,27 @@
  * broca_engine.js
  * Motor de Inteligência Agronômica e Entomológica para Monitoramento de Broca por Armadilha
  * Usina Pitangueiras - Safra 2026
+ * 
+ * Em conformidade estrita com o MANUAL TÉCNICO AGRONÔMICO (Página 61 & 62):
+ * - Regra para Cana-Soca: Presença de 6 adultos em 30% das armadilhas amostradas.
+ * - Distinção entre Instalação (início do ciclo) e Recolhimento (amostragem efetiva).
+ * - Exclusão de instalações do denominador de infestação.
+ * - Auditoria e rastreabilidade total (fórmula, numerador, denominador e exclusões).
  */
 
 (function (window) {
     'use strict';
 
+    const CRITERIA_CONFIG = {
+        ADULTOS_POR_ARMADILHA_MINIMO: 6,             // Presença mínima de 6 adultos para armadilha positiva
+        PERCENTUAL_ARMADILHAS_CRITERIO_MINIMO: 30.0, // Limite de 30% das armadilhas amostradas
+        HECTARES_POR_ARMADILHA_NOMINAL: 50,          // Mínimo de 1 armadilha a cada 50 ha (Pág. 61)
+        DIAS_CAMPO_IDEAL_MIN: 3,                     // Armadilha no campo de 3 a 4 dias (Pág. 62)
+        DIAS_CAMPO_IDEAL_MAX: 4
+    };
+
     const BrocaEngine = {
+        CRITERIA_CONFIG: CRITERIA_CONFIG,
 
         /**
          * Normaliza registro bruto do MapFy para a estrutura analítica padrão
@@ -26,26 +41,46 @@
                 if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
             }
 
-            const machosNum = parseInt(String(r['Quantidade Machos'] || r.machos || '0').replace(/\D/g, ''), 10) || 0;
             const etapaRaw = String(r['Etapa'] || r.etapa || '').trim().toUpperCase();
             const isInstalacao = etapaRaw.includes('INSTAL') || etapaRaw.includes('INSTALAÇÃO');
             const isRecolhimento = etapaRaw.includes('RECOLH') || etapaRaw.includes('RECOLHIMENTO');
 
+            // Validação estrita de machos: se ausente ou nulo, é dado incompleto (não zero)
+            let machosNum = null;
+            let dadoIncompleto = false;
+            const rawMachos = r['Quantidade Machos'] !== undefined ? r['Quantidade Machos'] : r.machos;
+            if (rawMachos === null || rawMachos === undefined || String(rawMachos).trim() === '') {
+                dadoIncompleto = true;
+                machosNum = null;
+            } else {
+                const parsed = parseInt(String(rawMachos).replace(/\D/g, ''), 10);
+                if (isNaN(parsed)) {
+                    dadoIncompleto = true;
+                    machosNum = null;
+                } else {
+                    machosNum = parsed;
+                }
+            }
+
             const localOrig = String(r['Fazenda - Talhão'] || r.local_orig || r.local || '').trim();
-            let fazenda = localOrig;
-            let talhao = '';
-            if (localOrig.includes('>')) {
-                const parts = localOrig.split('>');
-                fazenda = parts[0].trim();
-                talhao = parts.slice(1).join('>').trim();
-            } else if (localOrig.includes('-')) {
-                const parts = localOrig.split('-');
-                fazenda = parts[0].trim();
-                talhao = parts.slice(1).join('-').trim();
+            let fazenda = String(r['Fazenda'] || r.fazenda || '').trim();
+            let talhao = String(r['Talhão'] || r['Talhao'] || r.talhao || '').trim();
+            if (!fazenda || !talhao) {
+                if (localOrig.includes('>')) {
+                    const parts = localOrig.split('>');
+                    if (!fazenda) fazenda = parts[0].trim();
+                    if (!talhao) talhao = parts.slice(1).join('>').trim();
+                } else if (localOrig.includes('-')) {
+                    const parts = localOrig.split('-');
+                    if (!fazenda) fazenda = parts[0].trim();
+                    if (!talhao) talhao = parts.slice(1).join('-').trim();
+                }
             }
 
             const respNome = String(r['Responsável Lançamento'] || r.responsavel_nome || r.responsavel || 'NÃO INFORMADO').trim();
             const hasCoords = !isNaN(lat) && !isNaN(lon) && lat !== 0 && lon !== 0;
+
+            const atingeCriterioIndividual = isRecolhimento && !dadoIncompleto && machosNum !== null && machosNum >= CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO;
 
             return {
                 id: String(r['ID'] || r.id || ''),
@@ -62,14 +97,179 @@
                 etapa: etapaRaw,
                 is_instalacao: isInstalacao,
                 is_recolhimento: isRecolhimento,
-                local_orig: localOrig,
+                dado_incompleto: dadoIncompleto,
+                local_orig: localOrig || `${fazenda} > ${talhao}`,
                 fazenda: fazenda,
                 talhao: talhao,
-                machos: machosNum,
+                machos: machosNum !== null ? machosNum : 0,
+                machos_raw: machosNum,
+                atingiu_criterio_individual: atingeCriterioIndividual,
                 lat: hasCoords ? lat : null,
                 lon: hasCoords ? lon : null,
                 has_coords: hasCoords,
                 _raw: r
+            };
+        },
+
+        /**
+         * Motor Central de Inteligência Agronômica (Manual Pág. 61)
+         */
+        computeAgronomicIntelligence: function (records, shapesGeoJson) {
+            const norm = (records || []).map(r => r._raw ? r : BrocaEngine.normalizeRecord(r)).filter(Boolean);
+
+            const instalacoes = [];
+            const recolhimentos = [];
+            const excluidos = [];
+
+            norm.forEach(r => {
+                if (r.is_instalacao) {
+                    instalacoes.push(r);
+                    excluidos.push({
+                        registro: r,
+                        motivo: 'Etapa de Instalação (início do ciclo, não representa leitura de amostragem)'
+                    });
+                } else if (r.is_recolhimento) {
+                    if (r.dado_incompleto || r.machos_raw === null) {
+                        excluidos.push({
+                            registro: r,
+                            motivo: 'Dado Incompleto (recolhimento sem quantidade de capturas válida)'
+                        });
+                    } else {
+                        recolhimentos.push(r);
+                    }
+                } else {
+                    excluidos.push({
+                        registro: r,
+                        motivo: 'Etapa não reconhecida no monitoramento'
+                    });
+                }
+            });
+
+            // Deduplicação de recolhimentos
+            const vistos = new Set();
+            const recolhimentosValidos = [];
+            recolhimentos.forEach(r => {
+                const chave = `${r.id}_${r.data}_${r.fazenda}_${r.talhao}`;
+                if (!vistos.has(chave)) {
+                    vistos.add(chave);
+                    recolhimentosValidos.push(r);
+                } else {
+                    excluidos.push({
+                        registro: r,
+                        motivo: 'Registro Duplicado (mesmo ID, data, fazenda e talhão)'
+                    });
+                }
+            });
+
+            const armadilhasNoCriterio = recolhimentosValidos.filter(r => r.machos >= CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO);
+            const armadilhasAbaixoCriterio = recolhimentosValidos.filter(r => r.machos < CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO);
+
+            const totalValidas = recolhimentosValidos.length;
+            const totalPositivas = armadilhasNoCriterio.length;
+            const percentualNoCriterio = totalValidas > 0 ? (totalPositivas / totalValidas) * 100 : 0;
+            const criterioAtingido = percentualNoCriterio >= CRITERIA_CONFIG.PERCENTUAL_ARMADILHAS_CRITERIO_MINIMO;
+
+            const totalBrocas = recolhimentosValidos.reduce((acc, r) => acc + (r.machos || 0), 0);
+            const mediaBrocasPorArmadilha = totalValidas > 0 ? totalBrocas / totalValidas : 0;
+
+            // Pareamento de Ciclos: Instalação -> Recolhimento
+            const instMap = new Map();
+            instalacoes.forEach(inst => {
+                const key = `${inst.fazenda}_${inst.talhao}`;
+                if (!instMap.has(key)) instMap.set(key, []);
+                instMap.get(key).push(inst);
+            });
+
+            const ciclosPareados = [];
+            const recolhimentosOrfaos = [];
+            recolhimentosValidos.forEach(rec => {
+                const key = `${rec.fazenda}_${rec.talhao}`;
+                const candidates = instMap.get(key);
+                if (candidates && candidates.length > 0) {
+                    const inst = candidates.shift();
+                    ciclosPareados.push({ instalacao: inst, recolhimento: rec, key: key });
+                } else {
+                    recolhimentosOrfaos.push(rec);
+                }
+            });
+
+            const instalacoesPendentes = [];
+            instMap.forEach((list) => {
+                list.forEach(inst => instalacoesPendentes.push(inst));
+            });
+
+            // Cruzamento Territorial com Shapes do GeoJSON
+            let areaTalhoesMonitoradosHa = 0;
+            let areaTalhoesNoCriterioHa = 0;
+            const talhoesMap = new Map();
+
+            if (shapesGeoJson && shapesGeoJson.features) {
+                const shapesIndex = new Map();
+                shapesGeoJson.features.forEach(f => {
+                    const p = f.properties;
+                    const key = `${String(p.fazenda).trim()}_${String(p.talhao).trim()}`;
+                    shapesIndex.set(key, p);
+                });
+
+                recolhimentosValidos.forEach(r => {
+                    const key = `${String(r.fazenda).trim()}_${String(r.talhao).trim()}`;
+                    if (!talhoesMap.has(key)) {
+                        const shape = shapesIndex.get(key);
+                        const area = shape ? (parseFloat(shape.area) || 0) : 0;
+                        talhoesMap.set(key, {
+                            fazenda: r.fazenda,
+                            talhao: r.talhao,
+                            area: area,
+                            machosMax: r.machos,
+                            atingiu: r.machos >= CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO
+                        });
+                    } else {
+                        const entry = talhoesMap.get(key);
+                        if (r.machos > entry.machosMax) entry.machosMax = r.machos;
+                        if (r.machos >= CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO) entry.atingiu = true;
+                    }
+                });
+
+                talhoesMap.forEach(t => {
+                    areaTalhoesMonitoradosHa += t.area;
+                    if (t.atingiu) areaTalhoesNoCriterioHa += t.area;
+                });
+            }
+
+            const coberturaNominalHa = totalValidas * CRITERIA_CONFIG.HECTARES_POR_ARMADILHA_NOMINAL;
+
+            return {
+                totalLancamentos: norm.length,
+                instalacoesCount: instalacoes.length,
+                recolhimentosValidosCount: totalValidas,
+                armadilhasNoCriterioCount: totalPositivas,
+                armadilhasAbaixoCriterioCount: armadilhasAbaixoCriterio.length,
+                percentualNoCriterio: Math.round(percentualNoCriterio * 100) / 100,
+                percentualFormatado: (Math.round(percentualNoCriterio * 100) / 100).toFixed(2) + '%',
+                limiteReferencia: CRITERIA_CONFIG.PERCENTUAL_ARMADILHAS_CRITERIO_MINIMO,
+                criterioAtingido: criterioAtingido,
+                statusControle: criterioAtingido ? 'CRITÉRIO ATINGIDO (MANEJO RECOMENDADO)' : 'ABAIXO DO NÍVEL DE CONTROLE',
+                totalBrocasCapturadas: totalBrocas,
+                mediaBrocasPorArmadilha: Math.round(mediaBrocasPorArmadilha * 100) / 100,
+                areaTalhoesMonitoradosHa: Math.round(areaTalhoesMonitoradosHa * 100) / 100,
+                areaTalhoesNoCriterioHa: Math.round(areaTalhoesNoCriterioHa * 100) / 100,
+                coberturaNominalHa: coberturaNominalHa,
+                talhoesMonitoradosCount: talhoesMap.size,
+                ciclosPareadosCount: ciclosPareados.length,
+                instalacoesPendentesCount: instalacoesPendentes.length,
+                recolhimentosOrfaosCount: recolhimentosOrfaos.length,
+                excluidosCount: excluidos.length,
+                listaNumerador: armadilhasNoCriterio,
+                listaDenominador: recolhimentosValidos,
+                listaExcluidos: excluidos,
+                auditoria: {
+                    formula: "(Armadilhas com >= 6 adultos / Total de armadilhas recolhidas válidas) × 100",
+                    numerador: totalPositivas,
+                    denominador: totalValidas,
+                    percentual: Math.round(percentualNoCriterio * 100) / 100,
+                    limite: CRITERIA_CONFIG.PERCENTUAL_ARMADILHAS_CRITERIO_MINIMO,
+                    explicacao: `${totalPositivas} de ${totalValidas} armadilhas válidas apresentaram 6 ou mais adultos. Resultado: ${(Math.round(percentualNoCriterio * 100) / 100).toFixed(2)}%. O critério de 30% foi ${criterioAtingido ? 'atingido' : 'não atingido'}.`
+                }
             };
         },
 
@@ -166,7 +366,7 @@
         },
 
         /**
-         * Ranking Agrícola por Fazenda
+         * Ranking Agrícola por Fazenda com Aplicação do Critério do Manual
          */
         computeFarmRanking: function (records) {
             const map = {};
@@ -186,6 +386,7 @@
                         recolhimentos: 0,
                         zerados: 0,
                         positivos: 0,
+                        noCriterioCount: 0,
                         talhoes: new Set(),
                         ultimaData: r.data
                     };
@@ -194,28 +395,41 @@
                 entry.totalMachos += m;
                 entry.totalLancamentos++;
                 if (r.is_instalacao) entry.instalacoes++;
-                if (r.is_recolhimento) entry.recolhimentos++;
-                if (m === 0) entry.zerados++;
-                if (m > 0) entry.positivos++;
+                if (r.is_recolhimento) {
+                    entry.recolhimentos++;
+                    if (m === 0) entry.zerados++;
+                    if (m > 0) entry.positivos++;
+                    if (m >= CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO) entry.noCriterioCount++;
+                }
                 if (r.talhao) entry.talhoes.add(r.talhao);
             });
 
-            return Object.values(map).map(e => ({
-                ...e,
-                totalCapturas: e.totalMachos,
-                totalBrocas: e.totalMachos,
-                talhoesCount: e.talhoes.size,
-                mediaPorRecolhimento: e.recolhimentos > 0
-                    ? Math.round((e.totalMachos / e.recolhimentos) * 10) / 10
-                    : 0,
-                participacaoPerc: totalMachosGeral > 0
-                    ? Math.round((e.totalMachos / totalMachosGeral) * 1000) / 10
-                    : 0
-            })).sort((a, b) => b.totalMachos - a.totalMachos || b.totalLancamentos - a.totalLancamentos);
+            return Object.values(map).map(e => {
+                const percCriterio = e.recolhimentos > 0
+                    ? Math.round((e.noCriterioCount / e.recolhimentos) * 1000) / 10
+                    : 0;
+                const atingiu = percCriterio >= CRITERIA_CONFIG.PERCENTUAL_ARMADILHAS_CRITERIO_MINIMO;
+
+                return {
+                    ...e,
+                    totalCapturas: e.totalMachos,
+                    totalBrocas: e.totalMachos,
+                    talhoesCount: e.talhoes.size,
+                    mediaPorRecolhimento: e.recolhimentos > 0
+                        ? Math.round((e.totalMachos / e.recolhimentos) * 10) / 10
+                        : 0,
+                    participacaoPerc: totalMachosGeral > 0
+                        ? Math.round((e.totalMachos / totalMachosGeral) * 1000) / 10
+                        : 0,
+                    percCriterio: percCriterio,
+                    criterioAtingido: atingiu,
+                    statusAgronomico: atingiu ? 'Critério Atingido' : 'Abaixo do Limite'
+                };
+            }).sort((a, b) => b.totalMachos - a.totalMachos || b.totalLancamentos - a.totalLancamentos);
         },
 
         /**
-         * Ranking Agrícola por Talhão (Local: Fazenda > Talhão)
+         * Ranking Agrícola por Talhão com Critério do Manual
          */
         computeTalhaoRanking: function (records) {
             const map = {};
@@ -237,6 +451,7 @@
                         recolhimentos: 0,
                         zerados: 0,
                         positivos: 0,
+                        noCriterioCount: 0,
                         maxMachos: 0,
                         maxCapturas: 0,
                         maxBrocas: 0,
@@ -254,9 +469,12 @@
                     entry.maxBrocas = m;
                 }
                 if (r.is_instalacao) entry.instalacoes++;
-                if (r.is_recolhimento) entry.recolhimentos++;
-                if (m === 0) entry.zerados++;
-                if (m > 0) entry.positivos++;
+                if (r.is_recolhimento) {
+                    entry.recolhimentos++;
+                    if (m === 0) entry.zerados++;
+                    if (m > 0) entry.positivos++;
+                    if (m >= CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO) entry.noCriterioCount++;
+                }
             });
 
             return Object.values(map).map(e => {
@@ -271,14 +489,14 @@
                     if (e.totalMachos === 0) {
                         nivelRisco = "Negativo (Zero)";
                         badgeClass = "badge-emerald";
-                    } else if (e.maxMachos <= 10) {
-                        nivelRisco = "Baixo (1-10)";
+                    } else if (e.maxMachos < CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO) {
+                        nivelRisco = `Abaixo Limite (${e.maxMachos})`;
                         badgeClass = "badge-blue";
                     } else if (e.maxMachos <= 25) {
-                        nivelRisco = "Médio (11-25)";
+                        nivelRisco = `No Critério (${e.maxMachos})`;
                         badgeClass = "badge-amber";
                     } else {
-                        nivelRisco = "Foco Crítico (>25)";
+                        nivelRisco = `Foco Crítico (${e.maxMachos})`;
                         badgeClass = "badge-red";
                     }
                 }
@@ -287,7 +505,8 @@
                     ...e,
                     mediaRecolh: mediaRecolh,
                     nivelRisco: nivelRisco,
-                    badgeClass: badgeClass
+                    badgeClass: badgeClass,
+                    atingiuCriterio: e.noCriterioCount > 0
                 };
             }).sort((a, b) => b.totalMachos - a.totalMachos || b.maxMachos - a.maxMachos);
         },
@@ -378,8 +597,8 @@
             const classes = {
                 "Instalação (Ciclo Iniciado)": 0,
                 "Zero Capturas (Negativo)": 0,
-                "Baixa Captura (1-10)": 0,
-                "Média Captura (11-25)": 0,
+                "Baixa Captura (1-5)": 0,
+                "No Critério (6-25)": 0,
                 "Foco Crítico (> 25)": 0
             };
 
@@ -389,8 +608,8 @@
                 } else {
                     const m = r.machos || 0;
                     if (m === 0) classes["Zero Capturas (Negativo)"]++;
-                    else if (m <= 10) classes["Baixa Captura (1-10)"]++;
-                    else if (m <= 25) classes["Média Captura (11-25)"]++;
+                    else if (m < CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO) classes["Baixa Captura (1-5)"]++;
+                    else if (m <= 25) classes["No Critério (6-25)"]++;
                     else classes["Foco Crítico (> 25)"]++;
                 }
             });
@@ -425,6 +644,7 @@
                     if (filters.faixaGravidade === 'ZERO' && r.machos !== 0) return false;
                     if (filters.faixaGravidade === 'POSITIVO' && r.machos <= 0) return false;
                     if (filters.faixaGravidade === 'CRITICO' && r.machos <= 25) return false;
+                    if (filters.faixaGravidade === 'CRITERIO' && (r.machos < CRITERIA_CONFIG.ADULTOS_POR_ARMADILHA_MINIMO || !r.is_recolhimento)) return false;
                 }
                 if (filters.somentePositivos) {
                     if (r.machos <= 0) return false;
@@ -452,4 +672,4 @@
     };
 
     window.BrocaEngine = BrocaEngine;
-})(window);
+})(typeof window !== 'undefined' ? window : globalThis);

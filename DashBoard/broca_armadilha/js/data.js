@@ -1977,3 +1977,5 @@ window.BROCA_ARMADILHA_DATA = [
     "Talhão": 31
   }
 ];
+
+window.broca_armadilha_data = window.brocaArmadilhaData = window.BROCA_ARMADILHA_DATA;

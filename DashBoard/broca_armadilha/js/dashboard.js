@@ -314,6 +314,10 @@
 
     // --- GRÁFICOS INTERATIVOS COM EXIBIÇÃO DIRETA DE VALORES ---
     function initCharts() {
+        if (typeof Chart === 'undefined') {
+            console.warn('[Broca] Chart.js não está disponível no momento.');
+            return;
+        }
         if (typeof window.ChartDataLabels !== 'undefined') {
             Chart.register(ChartDataLabels);
         } else {
@@ -571,6 +575,9 @@
         const responsaveis = BrocaEngine.computeResponsibleStats(records);
         const severities = BrocaEngine.computeSeverityDistribution(records);
 
+        // Atualiza Inteligência Agronômica (Manual Técnico Pág. 61)
+        updateAgronomicView(records);
+
         // Atualiza KPIs Executivos
         setText('kpiTotalCapturas', kpis.totalCapturas || kpis.totalMachos);
         setText('kpiTotalMachos', kpis.totalCapturas || kpis.totalMachos);
@@ -607,6 +614,177 @@
         const el = document.getElementById(id);
         if (el) el.textContent = text;
     }
+
+    
+    // --- INTELIGÊNCIA AGRONÔMICA & MEMÓRIA DE CÁLCULO (MANUAL PÁG. 61) ---
+    let currentAgroData = null;
+    let currentAuditTab = 'numerador';
+
+    function updateAgronomicView(records) {
+        if (!window.BrocaEngine || typeof window.BrocaEngine.computeAgronomicIntelligence !== 'function') return;
+        const agro = window.BrocaEngine.computeAgronomicIntelligence(records, window.PITANGUEIRAS_SHAPES_DATA);
+        currentAgroData = agro;
+
+        setText('agroPercentual', agro.percentualFormatado);
+        setText('agroSubPerc', `${agro.armadilhasNoCriterioCount} de ${agro.recolhimentosValidosCount} no critério`);
+        setText('agroNumerador', agro.armadilhasNoCriterioCount);
+        setText('agroDenominador', agro.recolhimentosValidosCount);
+        setText('agroAreaFoco', agro.areaTalhoesNoCriterioHa.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+        setText('agroAreaTotal', agro.areaTalhoesMonitoradosHa.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+        setText('agroCoberturaNominal', agro.coberturaNominalHa.toLocaleString('pt-BR'));
+        setText('agroStatusText', agro.statusControle);
+
+        const badge = document.getElementById('agroStatusBadge');
+        if (badge) {
+            if (agro.criterioAtingido) {
+                badge.className = 'inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-bold bg-rose-100 dark:bg-rose-950/80 text-rose-800 dark:text-rose-300 border border-rose-300 dark:border-rose-800 shadow-xs';
+            } else {
+                badge.className = 'inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-bold bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 shadow-xs';
+            }
+        }
+    }
+
+    function renderAuditTableContent() {
+        if (!currentAgroData) return;
+        const container = document.getElementById('auditTabContent');
+        if (!container) return;
+
+        let rowsHtml = '';
+        if (currentAuditTab === 'numerador') {
+            const list = currentAgroData.listaNumerador;
+            rowsHtml = `
+                <table class="w-full text-left text-xs">
+                    <thead class="sticky top-0 bg-slate-100 dark:bg-slate-800 border-b text-slate-600 dark:text-slate-300">
+                        <tr>
+                            <th class="p-2">ID</th>
+                            <th class="p-2">Fazenda > Talhão</th>
+                            <th class="p-2 text-center">Captura (Adultos)</th>
+                            <th class="p-2">Data Leitura</th>
+                            <th class="p-2">Responsável</th>
+                            <th class="p-2 text-center">Status Individual</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+                        ${list.map(r => `
+                            <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50">
+                                <td class="p-2 font-mono font-bold text-amber-600">#${r.id}</td>
+                                <td class="p-2 font-semibold">${r.local_orig}</td>
+                                <td class="p-2 text-center"><span class="px-2 py-0.5 rounded font-black bg-rose-100 dark:bg-rose-950 text-rose-700 dark:text-rose-300">${r.machos}</span></td>
+                                <td class="p-2">${r.data}</td>
+                                <td class="p-2">${r.responsavel_nome}</td>
+                                <td class="p-2 text-center"><span class="badge badge-red text-[10px]">No Critério (≥ 6)</span></td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        } else if (currentAuditTab === 'denominador') {
+            const list = currentAgroData.listaDenominador;
+            rowsHtml = `
+                <table class="w-full text-left text-xs">
+                    <thead class="sticky top-0 bg-slate-100 dark:bg-slate-800 border-b text-slate-600 dark:text-slate-300">
+                        <tr>
+                            <th class="p-2">ID</th>
+                            <th class="p-2">Fazenda > Talhão</th>
+                            <th class="p-2 text-center">Captura</th>
+                            <th class="p-2">Data</th>
+                            <th class="p-2">Responsável</th>
+                            <th class="p-2 text-center">Avaliação do Manual</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+                        ${list.map(r => `
+                            <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50">
+                                <td class="p-2 font-mono font-bold text-blue-600">#${r.id}</td>
+                                <td class="p-2 font-semibold">${r.local_orig}</td>
+                                <td class="p-2 text-center font-bold">${r.machos}</td>
+                                <td class="p-2">${r.data}</td>
+                                <td class="p-2">${r.responsavel_nome}</td>
+                                <td class="p-2 text-center">
+                                    ${r.machos >= 6 
+                                        ? '<span class="badge badge-red text-[10px]">Positiva (≥ 6)</span>' 
+                                        : '<span class="badge badge-emerald text-[10px]">Abaixo Limite (< 6)</span>'}
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        } else if (currentAuditTab === 'excluidos') {
+            const list = currentAgroData.listaExcluidos;
+            rowsHtml = `
+                <table class="w-full text-left text-xs">
+                    <thead class="sticky top-0 bg-slate-100 dark:bg-slate-800 border-b text-slate-600 dark:text-slate-300">
+                        <tr>
+                            <th class="p-2">ID</th>
+                            <th class="p-2">Etapa Declarada</th>
+                            <th class="p-2">Fazenda > Talhão</th>
+                            <th class="p-2">Data</th>
+                            <th class="p-2">Motivo Exclusão do Denominador</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
+                        ${list.map(e => `
+                            <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/50">
+                                <td class="p-2 font-mono font-bold text-slate-500">#${e.registro.id}</td>
+                                <td class="p-2"><span class="badge badge-slate text-[10px]">${e.registro.etapa}</span></td>
+                                <td class="p-2">${e.registro.local_orig}</td>
+                                <td class="p-2">${e.registro.data}</td>
+                                <td class="p-2 font-semibold text-amber-700 dark:text-amber-400">${e.motivo}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+        container.innerHTML = rowsHtml;
+    }
+
+    window.switchAuditTab = function(tab) {
+        currentAuditTab = tab;
+        const bNum = document.getElementById('tabBtnNum');
+        const bDen = document.getElementById('tabBtnDen');
+        const bExc = document.getElementById('tabBtnExc');
+
+        const activeClass = 'px-3 py-1.5 rounded-lg font-bold text-xs bg-rose-100 text-rose-800 dark:bg-rose-950 dark:text-rose-300 transition';
+        const inactiveClass = 'px-3 py-1.5 rounded-lg font-semibold text-xs text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition';
+
+        if (bNum) bNum.className = tab === 'numerador' ? activeClass : inactiveClass;
+        if (bDen) bDen.className = tab === 'denominador' ? activeClass : inactiveClass;
+        if (bExc) bExc.className = tab === 'excluidos' ? activeClass : inactiveClass;
+
+        renderAuditTableContent();
+    };
+
+    window.openAuditoriaModal = function() {
+        if (!currentAgroData) {
+            updateAgronomicView(state.filteredRecords);
+        }
+        const modal = document.getElementById('modalAuditoria');
+        if (!modal || !currentAgroData) return;
+
+        setText('auditNumVal', currentAgroData.armadilhasNoCriterioCount);
+        setText('auditDenVal', currentAgroData.recolhimentosValidosCount);
+        setText('auditExcVal', currentAgroData.excluidosCount);
+        setText('auditPercVal', currentAgroData.percentualFormatado);
+        setText('auditoriaExplicacao', currentAgroData.auditoria.explicacao);
+
+        setText('auditTabNumCount', currentAgroData.armadilhasNoCriterioCount);
+        setText('auditTabDenCount', currentAgroData.recolhimentosValidosCount);
+        setText('auditTabExcCount', currentAgroData.excluidosCount);
+
+        window.switchAuditTab('numerador');
+        modal.classList.remove('hidden');
+        modal.style.display = 'flex';
+    };
+
+    window.closeAuditoriaModal = function() {
+        const modal = document.getElementById('modalAuditoria');
+        if (modal) {
+            modal.classList.add('hidden');
+            modal.style.display = 'none';
+        }
+    };
 
     function renderFarmTable(farms) {
         const tbody = document.getElementById('rankingFazendasBody');
@@ -667,6 +845,7 @@
     }
 
     function updateChartsData(farms, talhoes, records, severities) {
+        if (typeof Chart === 'undefined') return;
         // 1. Fazendas (Top 10 com valores explícitos nas barras)
         if (state.charts.fazendas) {
             const topFaz = farms.slice(0, 10);
@@ -959,6 +1138,27 @@
             });
         }
 
+        
+        const btnAuditoria = document.getElementById('btnAbrirAuditoria');
+        if (btnAuditoria) btnAuditoria.addEventListener('click', () => window.openAuditoriaModal());
+
+        const btnAuditClose = document.getElementById('modalAuditoriaCloseBtn');
+        const btnAuditBottomClose = document.getElementById('modalAuditoriaBottomCloseBtn');
+        if (btnAuditClose) btnAuditClose.addEventListener('click', () => window.closeAuditoriaModal());
+        if (btnAuditBottomClose) btnAuditBottomClose.addEventListener('click', () => window.closeAuditoriaModal());
+
+        const modalAud = document.getElementById('modalAuditoria');
+        if (modalAud) {
+            modalAud.addEventListener('click', e => {
+                if (e.target === modalAud) window.closeAuditoriaModal();
+            });
+        }
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                window.closeAuditoriaModal();
+            }
+        });
+    
         const prevPage = document.getElementById('prevPage');
         const nextPage = document.getElementById('nextPage');
         if (prevPage) prevPage.addEventListener('click', () => { state.currentPage--; renderTable(); });
