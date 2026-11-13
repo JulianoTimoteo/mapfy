@@ -1,0 +1,196 @@
+{
+  "timestamp": "2026-11-13T20:34:59.987Z",
+  "totalDashboards": 17,
+  "passed": 17,
+  "failed": 0,
+  "dashboards": {
+    "abertura_asa": {
+      "slug": "abertura_asa",
+      "dataLoaded": true,
+      "recordsCount": 983,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "area_vivencia": {
+      "slug": "area_vivencia",
+      "dataLoaded": true,
+      "recordsCount": 365,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "arremate_acabamento": {
+      "slug": "arremate_acabamento",
+      "dataLoaded": true,
+      "recordsCount": 814,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "broca_armadilha": {
+      "slug": "broca_armadilha",
+      "dataLoaded": true,
+      "recordsCount": 116,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "canteirizacao": {
+      "slug": "canteirizacao",
+      "dataLoaded": true,
+      "recordsCount": 414,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "checklist_veicular": {
+      "slug": "checklist_veicular",
+      "dataLoaded": true,
+      "recordsCount": 1274,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "cobricao": {
+      "slug": "cobricao",
+      "dataLoaded": true,
+      "recordsCount": 2046,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "dosagem_cobricao": {
+      "slug": "dosagem_cobricao",
+      "dataLoaded": true,
+      "recordsCount": 931,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "dosagem_sulco": {
+      "slug": "dosagem_sulco",
+      "dataLoaded": true,
+      "recordsCount": 1295,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "herbicida": {
+      "slug": "herbicida",
+      "dataLoaded": true,
+      "recordsCount": 33,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "paralelismo": {
+      "slug": "paralelismo",
+      "dataLoaded": true,
+      "recordsCount": 2462,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "qualidade_cana": {
+      "slug": "qualidade_cana",
+      "dataLoaded": true,
+      "recordsCount": 2608,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "qualidade_muda": {
+      "slug": "qualidade_muda",
+      "dataLoaded": true,
+      "recordsCount": 2739,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "subsolagem": {
+      "slug": "subsolagem",
+      "dataLoaded": true,
+      "recordsCount": 367,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "sulcacao": {
+      "slug": "sulcacao",
+      "dataLoaded": true,
+      "recordsCount": 2852,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "tpl_5s": {
+      "slug": "tpl_5s",
+      "dataLoaded": true,
+      "recordsCount": 73,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    },
+    "viabilidade_gemas": {
+      "slug": "viabilidade_gemas",
+      "dataLoaded": true,
+      "recordsCount": 2737,
+      "hasDesignGuardianCss": true,
+      "hasMapControls": true,
+      "hasUniversalShapes": true,
+      "hasContrastIssues": false,
+      "hasFutureDates": false,
+      "issues": []
+    }
+  },
+  "globalIssues": []
+}
