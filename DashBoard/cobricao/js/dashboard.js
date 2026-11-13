@@ -294,19 +294,36 @@
      */
     function initMap() {
         const mapContainer = document.getElementById('mapContainer') || document.getElementById('map-container');
-        if (!mapContainer) return;
+        if (!mapContainer || typeof L === 'undefined') return;
+
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
+        });
+
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        });
 
         state.map = L.map(mapContainer, {
             center: [-20.88, -48.45],
             zoom: 11,
-            zoomControl: true
+            zoomControl: true,
+            layers: [sateliteGoogle]
         });
 
-        // OpenStreetMap Oficial Livre (sem marcas d'água)
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors | Usina Pitangueiras 2026',
-            maxZoom: 19
-        }).addTo(state.map);
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markersLayer = L.layerGroup().addTo(state.map);
     }

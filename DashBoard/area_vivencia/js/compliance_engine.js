@@ -133,8 +133,18 @@
         const parts = trimmed.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})(?:\s+(\d{1,2}):(\d{1,2})(?::(\d{1,2}))?)?/);
         if (!parts) return null;
 
-        const day = parseInt(parts[1], 10);
-        const month = parseInt(parts[2], 10) - 1; // 0-based
+        const p1 = parseInt(parts[1], 10);
+        const p2 = parseInt(parts[2], 10);
+        let day, month;
+        if (p1 <= 12 && p2 > 12) {
+            // Formato americano residual MM/DD/YYYY
+            day = p2;
+            month = p1 - 1;
+        } else {
+            // Formato brasileiro padrão DD/MM/YYYY
+            day = p1;
+            month = p2 - 1;
+        }
         const year = parseInt(parts[3], 10);
         const hour = parts[4] ? parseInt(parts[4], 10) : 0;
         const minute = parts[5] ? parseInt(parts[5], 10) : 0;
@@ -184,12 +194,12 @@
      */
     function normalizeRecord(raw) {
         const id = String(raw.ID || raw.Id || '').trim();
-        const usuario = String(raw['Usuário'] || raw.Usuario || '').trim();
-        const dataRaw = String(raw.Data || '').trim();
+        const usuario = String(raw['Usuário'] || raw.Usuario || raw.User || raw.user || '').trim();
+        const dataRaw = String(raw.Data || raw.Date || raw.data || raw.date || '').trim();
         const dataParsed = parseBrazilianDate(dataRaw);
         
-        const dataInicioRaw = String(raw['Data início'] || raw['Data inicio'] || '').trim();
-        const dataFimRaw = String(raw['Data Fim'] || raw.DataFim || '').trim();
+        const dataInicioRaw = String(raw['Data início'] || raw['Data inicio'] || raw['Start date'] || raw.data_inicio || '').trim();
+        const dataFimRaw = String(raw['Data Fim'] || raw.DataFim || raw['End date'] || raw.data_fim || '').trim();
         const dataInicioParsed = parseBrazilianDate(dataInicioRaw);
         const dataFimParsed = parseBrazilianDate(dataFimRaw);
 

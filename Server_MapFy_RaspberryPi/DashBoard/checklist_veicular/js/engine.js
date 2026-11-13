@@ -694,6 +694,36 @@ const ChecklistEngine = (function () {
             .sort((a, b) => b.moderados - a.moderados || b.compsDanificados - a.compsDanificados);
     }
 
+    function formatCanonicalBRDate(str) {
+        if (!str) return '';
+        str = String(str).trim();
+        const m = str.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})(?:\s+(\d{1,2}):(\d{2})(?::\d{2})?\s*(AM|PM)?)?/i);
+        if (m) {
+            let p1 = parseInt(m[1], 10);
+            let p2 = parseInt(m[2], 10);
+            const y = parseInt(m[3], 10);
+            let day, month;
+            if (p1 <= 12 && p2 > 12) {
+                day = p2;
+                month = p1;
+            } else {
+                day = p1;
+                month = p2;
+            }
+            let timePart = '';
+            if (m[4] && m[5]) {
+                let hr = parseInt(m[4], 10);
+                const min = m[5];
+                const ampm = (m[6] || '').toUpperCase();
+                if (ampm === 'PM' && hr < 12) hr += 12;
+                else if (ampm === 'AM' && hr === 12) hr = 0;
+                timePart = ' ' + String(hr).padStart(2, '0') + ':' + min;
+            }
+            return `${String(day).padStart(2, '0')}/${String(month).padStart(2, '0')}/${y}${timePart}`;
+        }
+        return str;
+    }
+
     /**
      * Normaliza registro bruto do MapFy para a estrutura analítica padrão da frota
      */
@@ -701,7 +731,8 @@ const ChecklistEngine = (function () {
         if (!r) return null;
         const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
         const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
-        const dataStr = String(r['Data'] || r['Date'] || r.data || r.date || '').trim();
+        const rawDataStr = String(r['Data'] || r['Date'] || r['Data Hora'] || r.data || r.date || '').trim();
+        const dataStr = formatCanonicalBRDate(rawDataStr);
         const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
 
         // Parse frota

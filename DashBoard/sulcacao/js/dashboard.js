@@ -760,15 +760,33 @@
         const mapContainer = document.getElementById('mapContainer') || document.getElementById('mapSubsolagem') || document.getElementById('mapDosagem');
         if (!mapContainer) return;
 
-        state.map = L.map(mapContainer,  {
-            center: [-20.85, -48.55],
-            zoom: 11
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
         });
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap | Usina Pitangueiras 2026',
-            maxZoom: 18
-        }).addTo(state.map);
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        });
+
+        state.map = L.map(mapContainer, {
+            center: [-20.85, -48.55],
+            zoom: 11,
+            layers: [sateliteGoogle]
+        });
+
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markersLayer = L.layerGroup().addTo(state.map);
     }

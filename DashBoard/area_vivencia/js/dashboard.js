@@ -1582,13 +1582,34 @@
         const mapContainer = document.getElementById('mapContainer');
         if (!mapContainer || typeof L === 'undefined') return;
 
-        // Centro padrão: Região da Usina Pitangueiras (SP)
-        state.map = L.map('mapContainer').setView([-20.95, -48.55], 10);
+        const sateliteGoogle = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+            attribution: '© Google Satellite',
+            maxZoom: 20
+        });
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        const sateliteEsri = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 19
+        });
+
+        const mapaRuas = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors',
-            maxZoom: 18
-        }).addTo(state.map);
+            maxZoom: 19
+        });
+
+        // Centro padrão: Região da Usina Pitangueiras (SP)
+        state.map = L.map('mapContainer', {
+            center: [-20.95, -48.55],
+            zoom: 10,
+            layers: [sateliteGoogle]
+        });
+
+        const baseMaps = {
+            "🛰️ Satélite Google": sateliteGoogle,
+            "🌍 Satélite Esri": sateliteEsri,
+            "🗺️ Mapa Vetorial": mapaRuas
+        };
+        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(state.map);
 
         state.markerCluster = L.markerClusterGroup ? L.markerClusterGroup() : L.layerGroup();
         state.map.addLayer(state.markerCluster);

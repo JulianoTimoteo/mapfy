@@ -244,33 +244,42 @@ def find_latest_date_in_csv(filepath: Path) -> str | None:
     now = datetime.now()
     found_dates: list[datetime] = []
     for col in date_cols:
+        is_english_col = "date" in col.lower()
         series = df[col].dropna()
         for raw_val in series:
             val_str = str(raw_val).strip()
+            # Se tem AM/PM, é formato americano com certeza!
+            m_ampm = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{1,2}):(\d{2})(?::\d{2})?\s*(AM|PM)", val_str, re.IGNORECASE)
+            if m_ampm:
+                mth, d, y = int(m_ampm.group(1)), int(m_ampm.group(2)), int(m_ampm.group(3))
+                try:
+                    dt = datetime(y, mth, d)
+                    if dt <= now:
+                        found_dates.append(dt)
+                        continue
+                except ValueError:
+                    pass
+
             # Formato brasileiro DD/MM/YYYY ou americano MM/DD/YYYY
             m_br = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", val_str)
             if m_br:
                 p1, p2, y = int(m_br.group(1)), int(m_br.group(2)), int(m_br.group(3))
-                # Tenta primeiro como DD/MM/YYYY
-                dt_cand = None
+                # Se p1 <= 12 e p2 > 12, é com certeza MM/DD/YYYY
+                if p1 <= 12 and p2 > 12:
+                    mth, d = p1, p2
+                elif p1 > 12 and p2 <= 12:
+                    d, mth = p1, p2
+                elif is_english_col:
+                    mth, d = p1, p2
+                else:
+                    d, mth = p1, p2
+
                 try:
-                    dt_br = datetime(y, p2, p1)
-                    if dt_br <= now:
-                        dt_cand = dt_br
+                    dt = datetime(y, mth, d)
+                    if dt <= now:
+                        found_dates.append(dt)
                 except ValueError:
                     pass
-
-                # Se falhou ou ficou no futuro, tenta MM/DD/YYYY
-                if dt_cand is None:
-                    try:
-                        dt_us = datetime(y, p1, p2)
-                        if dt_us <= now:
-                            dt_cand = dt_us
-                    except ValueError:
-                        pass
-
-                if dt_cand:
-                    found_dates.append(dt_cand)
                 continue
 
             # Formato ISO YYYY-MM-DD
@@ -364,7 +373,30 @@ def merge_and_save_data(
     def _to_br_dt(val):
         if not val or pd.isna(val): return ""
         v_str = str(val).strip()
-        for f in ["%m/%d/%Y %I:%M %p", "%m/%d/%Y %I:%M:%S %p", "%m/%d/%Y %H:%M", "%d/%m/%Y %H:%M", "%d/%m/%Y"]:
+        # Formato com AM/PM
+        m_ampm = re.search(r"^(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{1,2}):(\d{2})(?::\d{2})?\s*(AM|PM)$", v_str, re.IGNORECASE)
+        if m_ampm:
+            mth, d, y, hr, mn, ap = int(m_ampm.group(1)), int(m_ampm.group(2)), int(m_ampm.group(3)), int(m_ampm.group(4)), int(m_ampm.group(5)), m_ampm.group(6).upper()
+            if ap == "PM" and hr < 12: hr += 12
+            elif ap == "AM" and hr == 12: hr = 0
+            return f"{d:02d}/{mth:02d}/{y} {hr:02d}:{mn:02d}"
+
+        # Formato MM/DD/YYYY ou DD/MM/YYYY
+        m_dt = re.search(r"^(\d{1,2})/(\d{1,2})/(\d{4})(?:\s+(\d{1,2}):(\d{2})(?::\d{2})?)?$", v_str)
+        if m_dt:
+            p1, p2, y = int(m_dt.group(1)), int(m_dt.group(2)), int(m_dt.group(3))
+            hr = int(m_dt.group(4)) if m_dt.group(4) else None
+            mn = int(m_dt.group(5)) if m_dt.group(5) else None
+            if p1 <= 12 and p2 > 12:
+                # Com certeza MM/DD/YYYY
+                d, mth = p2, p1
+            else:
+                d, mth = p1, p2
+            if hr is not None and mn is not None:
+                return f"{d:02d}/{mth:02d}/{y} {hr:02d}:{mn:02d}"
+            return f"{d:02d}/{mth:02d}/{y}"
+
+        for f in ["%m/%d/%Y %I:%M %p", "%m/%d/%Y %I:%M:%S %p", "%m/%d/%Y %H:%M", "%m/%d/%Y", "%d/%m/%Y %H:%M", "%d/%m/%Y"]:
             try:
                 return datetime.strptime(v_str, f).strftime("%d/%m/%Y %H:%M")
             except ValueError:
