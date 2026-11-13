@@ -47,7 +47,7 @@
         };
     </script>
     <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
-    <link rel="stylesheet" href="../common/css/design_guardian.css?v=2026.1">
+    <link rel="stylesheet" href="../common/css/design_guardian.css?v=2026.11.13_v7">
     <!-- FontAwesome 6.4.0 Oficial -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- PWA e Metatags Mobile Executivas -->
@@ -413,16 +413,14 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Data Específica</label>
                     <input type="date" id="filterDate"
-                           class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                           class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                 </div>
 
                 <!-- Filtro de Frente -->
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente de Colheita</label>
                     <select id="filterFrente"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todas as Frentes</option>
                     </select>
                 </div>
@@ -431,8 +429,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável</label>
                     <select id="filterResponsavel"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todos os Responsáveis</option>
                     </select>
                 </div>
@@ -441,8 +438,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Turno</label>
                     <select id="filterTurno"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todos os Turnos</option>
                         <option value="A">Turno A</option>
                         <option value="B">Turno B</option>
@@ -455,8 +451,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Resultado Avaliado</label>
                     <select id="filterResultado"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todos os Resultados</option>
                         <option value="CONFORME">🟢 Conforme (100% OK)</option>
                         <option value="ATENÇÃO">🟡 Atenção (Item Quebrado)</option>
@@ -468,8 +463,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ocorrência no Item</label>
                     <select id="filterItem"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Qualquer Item</option>
                         <option value="itemQuebrado">Item Quebrado / Em Falta</option>
                         <option value="aguaHigienizacao">Sem Água de Higienização</option>
@@ -487,8 +481,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Observações (OBS)</label>
                     <select id="filterObs"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todas as Inspeções</option>
                         <option value="WITH_OBS">Apenas com OBS</option>
                         <option value="WITHOUT_OBS">Sem OBS</option>
@@ -501,8 +494,7 @@
                  style="border-color: var(--border-color);">
                 <div class="w-full md:w-96 relative">
                     <input type="text" id="globalSearch" placeholder="Buscar por ID, frente, responsável ou observação..."
-                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                     <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
                 </div>
                 <div id="activeFilterTags" class="flex flex-wrap gap-1.5 items-center">
@@ -904,8 +896,7 @@
                 
                 <div class="flex items-center gap-3 text-xs">
                     <label class="text-[var(--text-secondary)]">Exibir:</label>
-                    <select id="pageSizeSelect" class="p-1.5 rounded-lg border text-xs"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <select id="pageSizeSelect" class="p-1.5 rounded-lg border text-xs">
                         <option value="15">15 por página</option>
                         <option value="30">30 por página</option>
                         <option value="50">50 por página</option>
@@ -1056,7 +1047,7 @@
     <script src="js/dashboard.js"></script>
 
     <script src="../Maps/pitangueiras_shapes_data.js"></script>
-    <script src="../common/js/map_shapes_layer.js"></script>
+    <script src="../common/js/map_shapes_layer.js?v=2026.11.13_v7"></script>
     <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
 </body>
 </html>

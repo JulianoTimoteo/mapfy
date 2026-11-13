@@ -24,7 +24,7 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.08_final">
-    <link rel="stylesheet" href="../common/css/design_guardian.css?v=2026.1">
+    <link rel="stylesheet" href="../common/css/design_guardian.css?v=2026.11.13_v7">
     <!-- FontAwesome 6.4.0 Oficial -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- PWA e Metatags Mobile Executivas -->
@@ -364,8 +364,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente Operacional</label>
                     <select id="filterFrente"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todas as Frentes</option>
                     </select>
                 </div>
@@ -374,8 +373,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ordem de Serviço (OS)</label>
                     <select id="filterOS"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todas as OS</option>
                     </select>
                 </div>
@@ -384,8 +382,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável / Inspetor</label>
                     <select id="filterResponsavel"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todos os Responsáveis</option>
                     </select>
                 </div>
@@ -394,8 +391,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Conformidade Técnica</label>
                     <select id="filterStatusTecnico"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todas as Medições</option>
                         <option value="DENTRO">Dentro da Meta</option>
                         <option value="ABAIXO">Abaixo da Meta</option>
@@ -407,8 +403,7 @@
                 <div>
                     <label class="block font-medium mb-1 text-[var(--text-secondary)]">Auditoria GPS</label>
                     <select id="filterGPS"
-                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                            class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="ALL">Todos os Registros</option>
                         <option value="GPS_VALIDO">Com GPS Válido</option>
                         <option value="GPS_INVALIDO">GPS Ausente/Inválido</option>
@@ -421,8 +416,7 @@
                  style="border-color: var(--border-color);">
                 <div class="w-full md:w-96 relative">
                     <input type="text" id="globalSearch" placeholder="Buscar por ID, OS, frente, responsável ou localidade..."
-                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                           class="w-full p-2 pl-8 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
                     <span class="absolute left-2.5 top-2.5 text-xs text-[var(--text-muted)]">🔍</span>
                 </div>
                 <div id="activeFilterTags" class="flex flex-wrap gap-1.5 items-center">
@@ -788,8 +782,7 @@
                 </div>
                 <div class="flex items-center gap-2 text-xs">
                     <span class="text-[var(--text-secondary)]">Ordenar por:</span>
-                    <select id="selectSortOS" class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <select id="selectSortOS" class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="volume">Maior Volume de Medições</option>
                         <option value="cv">Maior Variabilidade (CV%)</option>
                         <option value="media_asc">Menor Média (cm)</option>
@@ -838,8 +831,7 @@
                 </div>
                 <div class="flex items-center gap-2 text-xs">
                     <span class="text-[var(--text-secondary)]">Exibir:</span>
-                    <select id="pageSizeSelect" class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500"
-                            style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <select id="pageSizeSelect" class="p-1.5 rounded-lg border text-xs focus:outline-none focus:border-emerald-500">
                         <option value="15">15 registros</option>
                         <option value="30">30 registros</option>
                         <option value="50">50 registros</option>
@@ -904,15 +896,13 @@
             <div class="space-y-4 text-xs">
                 <div>
                     <label class="block font-semibold mb-1 text-[var(--text-secondary)]">Meta Mínima (cm):</label>
-                    <input type="number" id="inputTargetMin" step="0.5" class="w-full p-2.5 rounded-xl border text-sm font-mono focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <input type="number" id="inputTargetMin" step="0.5" class="w-full p-2.5 rounded-xl border text-sm font-mono focus:outline-none focus:border-emerald-500">
                     <p class="text-[10px] text-[var(--text-muted)] mt-1">Valores inferiores serão classificados como Abaixo da Meta.</p>
                 </div>
 
                 <div>
                     <label class="block font-semibold mb-1 text-[var(--text-secondary)]">Meta Máxima (cm):</label>
-                    <input type="number" id="inputTargetMax" step="0.5" class="w-full p-2.5 rounded-xl border text-sm font-mono focus:outline-none focus:border-emerald-500"
-                           style="background: var(--bg-page); border-color: var(--border-color); color: var(--text-primary);">
+                    <input type="number" id="inputTargetMax" step="0.5" class="w-full p-2.5 rounded-xl border text-sm font-mono focus:outline-none focus:border-emerald-500">
                     <p class="text-[10px] text-[var(--text-muted)] mt-1">Valores superiores serão classificados como Acima da Meta.</p>
                 </div>
 
@@ -964,7 +954,7 @@
     <script src="js/sulcacao_engine.js"></script>
     <script src="js/dashboard.js"></script>
     <script src="../Maps/pitangueiras_shapes_data.js"></script>
-    <script src="../common/js/map_shapes_layer.js"></script>
+    <script src="../common/js/map_shapes_layer.js?v=2026.11.13_v7"></script>
     <script src="../common/js/fullscreen_inspector.js?v=2026.11.08_final"></script>
 </body>
 </html>

@@ -179,8 +179,13 @@
             setInterval(() => {
                 this.activeLayers.forEach((layer, map) => {
                     this.syncWithDashboard(map);
+                    if (map._pitangueirasTalhoesAndDataVisible === false) {
+                        this.hideDataMarkersForMap(map);
+                    } else if (map._pitangueirasTalhoesAndDataVisible === true) {
+                        this.showDataMarkersForMap(map);
+                    }
                 });
-            }, 1500);
+            }, 1200);
         },
 
         /**
@@ -403,6 +408,64 @@
             this.updateControlBadge(map);
         },
 
+        /**
+         * Localiza dinamicamente a camada de marcadores / apontamentos de campo do mapa
+         */
+        getDataMarkersLayer(map) {
+            if (!map) return null;
+            if (map._pitangueirasDataMarkersLayer && typeof map._pitangueirasDataMarkersLayer.clearLayers === 'function') {
+                return map._pitangueirasDataMarkersLayer;
+            }
+            const st = window.state || window.dashboardState || {};
+            if (st.map === map) {
+                if (st.markersLayer) {
+                    map._pitangueirasDataMarkersLayer = st.markersLayer;
+                    return st.markersLayer;
+                }
+                if (st.markerCluster) {
+                    map._pitangueirasDataMarkersLayer = st.markerCluster;
+                    return st.markerCluster;
+                }
+            }
+            if (window.state && (window.state.markersLayer || window.state.markerCluster)) {
+                const ml = window.state.markersLayer || window.state.markerCluster;
+                map._pitangueirasDataMarkersLayer = ml;
+                return ml;
+            }
+            if (window.dashboardState && (window.dashboardState.markersLayer || window.dashboardState.markerCluster)) {
+                const ml = window.dashboardState.markersLayer || window.dashboardState.markerCluster;
+                map._pitangueirasDataMarkersLayer = ml;
+                return ml;
+            }
+            // Varredura defensiva entre as camadas ativas do mapa
+            if (map._layers) {
+                for (const k in map._layers) {
+                    const l = map._layers[k];
+                    if (l && l !== this.activeLayers.get(map) && !l._url && typeof l.clearLayers === 'function' && typeof l.addLayer === 'function') {
+                        map._pitangueirasDataMarkersLayer = l;
+                        return l;
+                    }
+                }
+            }
+            return null;
+        },
+
+        hideDataMarkersForMap(map) {
+            if (!map) return;
+            const dataLayer = this.getDataMarkersLayer(map);
+            if (dataLayer && map.hasLayer(dataLayer)) {
+                map.removeLayer(dataLayer);
+            }
+        },
+
+        showDataMarkersForMap(map) {
+            if (!map) return;
+            const dataLayer = this.getDataMarkersLayer(map);
+            if (dataLayer && !map.hasLayer(dataLayer)) {
+                map.addLayer(dataLayer);
+            }
+        },
+
         updateControlBadge(map) {
             const wrap = this.activeControls.get(map);
             if (!wrap) return;
@@ -410,7 +473,9 @@
             const btn = wrap.querySelector('.talhoes-main-btn');
             if (!badge) return;
 
-            const isLayerActive = this.activeLayers.has(map) && map.hasLayer(this.activeLayers.get(map));
+            const isVisible = map._pitangueirasTalhoesAndDataVisible !== false &&
+                              this.activeLayers.has(map) &&
+                              map.hasLayer(this.activeLayers.get(map));
             const auditedMap = this.auditedTalhoesByMap.get(map);
             const auditedCount = auditedMap ? auditedMap.size : 0;
 
@@ -422,15 +487,15 @@
                 badge.title = '6.469 talhões cadastrados na Usina Pitangueiras.';
             }
 
-            // O estilo do botão e do badge reflete rigorosamente se os shapes estão visíveis ou ocultos
-            if (isLayerActive) {
+            // O estilo do botão e do badge reflete se os shapes E os pontos de dados estão visíveis ou ocultos
+            if (isVisible) {
                 badge.classList.add('talhoes-badge-audited');
                 badge.style.background = '#059669';
                 badge.style.color = '#ffffff';
                 if (btn) {
                     btn.style.color = '#047857';
                     btn.style.background = 'rgba(16, 185, 129, 0.10)';
-                    btn.title = 'Clique para ocultar os talhões agrícolas do mapa';
+                    btn.title = 'Clique para ocultar os talhões e apontamentos do mapa';
                 }
             } else {
                 badge.classList.remove('talhoes-badge-audited');
@@ -439,7 +504,7 @@
                 if (btn) {
                     btn.style.color = '#64748b';
                     btn.style.background = 'transparent';
-                    btn.title = 'Clique para exibir os talhões agrícolas no mapa';
+                    btn.title = 'Clique para exibir os talhões e apontamentos no mapa';
                 }
             }
         },
@@ -582,15 +647,17 @@
             // Cria o controle flutuante no mapa
             this.createMapControl(map);
 
-            // O mapa inicia sem os shapes (leve e ultra-rápido a 60 FPS)
-            // Os shapes só aparecem quando o usuário clica no botão, ou se já havia ativado explicitamente
-            const isEnabled = localStorage.getItem(CONFIG.storageKey) === 'true';
+            // O mapa inicia com shapes e pontos ativados por padrão (solicitado pelo usuário)
+            // A menos que o usuário tenha explicitamente desligado no localStorage
+            const isEnabled = localStorage.getItem(CONFIG.storageKey) !== 'false';
+            map._pitangueirasTalhoesAndDataVisible = isEnabled;
             if (isEnabled) {
                 this.enableLayerForMap(map);
             } else {
-                // Pré-aquecimento assíncrono em segundo plano (background) para quando clicar abrir na hora
+                this.hideDataMarkersForMap(map);
                 this.preloadShapesInBackground(map);
             }
+            this.updateControlBadge(map);
         },
 
         preloadShapesInBackground(map) {
@@ -637,14 +704,14 @@
 
                     self.activeControls.set(map, wrap);
 
-                    const isEnabled = localStorage.getItem(CONFIG.storageKey) === 'true';
+                    const isEnabled = localStorage.getItem(CONFIG.storageKey) !== 'false';
 
                     // Botão Principal Liga / Desliga
                     const btn = document.createElement('button');
                     btn.className = 'talhoes-main-btn';
                     btn.type = 'button';
                     btn.style.cssText = `
-                        background: transparent;
+                        background: ${isEnabled ? 'rgba(16, 185, 129, 0.10)' : 'transparent'};
                         border: none;
                         outline: none;
                         padding: 4px 8px;
@@ -659,7 +726,7 @@
                         user-select: none;
                         border-radius: 8px;
                     `;
-                    btn.title = 'Alternar visibilidade dos talhões agrícolas da Usina Pitangueiras';
+                    btn.title = isEnabled ? 'Clique para ocultar os talhões e apontamentos do mapa' : 'Clique para exibir os talhões e apontamentos no mapa';
 
                     btn.innerHTML = `
                         <span style="font-size: 13px; filter: drop-shadow(0 1px 1px rgba(0,0,0,0.1));">🌾</span>
@@ -826,14 +893,16 @@
                         ev.preventDefault();
                         ev.stopPropagation();
 
-                        const currentlyActive = self.activeLayers.has(map) && map.hasLayer(self.activeLayers.get(map));
+                        const currentlyActive = map._pitangueirasTalhoesAndDataVisible !== false &&
+                                                self.activeLayers.has(map) &&
+                                                map.hasLayer(self.activeLayers.get(map));
                         if (currentlyActive) {
-                            // AO CLICAR EXCLUI / OCULTA OS SHAPES DO MAPA
+                            // AO CLICAR DESATIVA: OCULTA OS SHAPES E OS PONTOS DE DADOS DO MAPA
                             self.disableLayerForMap(map);
                             localStorage.setItem(CONFIG.storageKey, 'false');
                             self.updateControlBadge(map);
                         } else {
-                            // AO CLICAR MOSTRA OS SHAPES NO MAPA
+                            // AO CLICAR ATIVA: MOSTRA OS SHAPES E OS PONTOS DE DADOS NO MAPA
                             const badge = btn.querySelector('.talhoes-badge');
                             if (badge && !self.geojsonData) {
                                 badge.innerText = 'Carregando...';
@@ -898,6 +967,8 @@
 
         async enableLayerForMap(map) {
             if (!map) return;
+            map._pitangueirasTalhoesAndDataVisible = true;
+            this.showDataMarkersForMap(map);
 
             if (this.activeLayers.has(map)) {
                 const existing = this.activeLayers.get(map);
@@ -905,6 +976,7 @@
                     map.addLayer(existing);
                     this.syncWithDashboard(map);
                 }
+                this.updateControlBadge(map);
                 return;
             }
 
@@ -1084,6 +1156,8 @@
 
         disableLayerForMap(map) {
             if (!map) return;
+            map._pitangueirasTalhoesAndDataVisible = false;
+            this.hideDataMarkersForMap(map);
             if (this.activeLayers.has(map)) {
                 const layer = this.activeLayers.get(map);
                 if (map.hasLayer(layer)) {
