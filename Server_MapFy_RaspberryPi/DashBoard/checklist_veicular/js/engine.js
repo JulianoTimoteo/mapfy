@@ -701,7 +701,7 @@ const ChecklistEngine = (function () {
         if (!r) return null;
         const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
         const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
-        const dataStr = String(r['Data'] || r.data || '').trim();
+        const dataStr = String(r['Data'] || r['Date'] || r.data || r.date || '').trim();
         const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
 
         // Parse frota
@@ -761,12 +761,12 @@ const ChecklistEngine = (function () {
         const temAvaria = componentes.length > 0;
 
         return {
-            id: String(r['ID'] || r.id || ''),
-            usuario: r['Usuário'] || r.usuario || '',
+            id: String(r['ID'] || r['\ufeffID'] || r['Id'] || r.id || ''),
+            usuario: r['Usuário'] || r['User'] || r.usuario || '',
             data: dataStr,
             data_dia: dataDia,
-            data_inicio: r['Data início'] || r.data_inicio || '',
-            data_fim: r['Data Fim'] || r.data_fim || '',
+            data_inicio: r['Data início'] || r['Start date'] || r.data_inicio || '',
+            data_fim: r['Data Fim'] || r['End date'] || r.data_fim || '',
             status: r['Status'] || r.status || 'Aberto',
             score: r['Score'] || r.score || '0,00',
             frota_raw: frotaRaw,

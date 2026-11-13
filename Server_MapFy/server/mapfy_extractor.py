@@ -241,26 +241,46 @@ def find_latest_date_in_csv(filepath: Path) -> str | None:
         if any(k in c.lower() for k in ["data", "date", "sincronizacao", "criacao", "inicio"])
     ]
 
+    now = datetime.now()
     found_dates: list[datetime] = []
     for col in date_cols:
         series = df[col].dropna()
         for raw_val in series:
             val_str = str(raw_val).strip()
-            # Formato brasileiro DD/MM/YYYY
-            m_br = re.search(r"(\d{2})/(\d{2})/(\d{4})", val_str)
+            # Formato brasileiro DD/MM/YYYY ou americano MM/DD/YYYY
+            m_br = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", val_str)
             if m_br:
-                d, mth, y = int(m_br.group(1)), int(m_br.group(2)), int(m_br.group(3))
+                p1, p2, y = int(m_br.group(1)), int(m_br.group(2)), int(m_br.group(3))
+                # Tenta primeiro como DD/MM/YYYY
+                dt_cand = None
                 try:
-                    found_dates.append(datetime(y, mth, d))
+                    dt_br = datetime(y, p2, p1)
+                    if dt_br <= now:
+                        dt_cand = dt_br
                 except ValueError:
                     pass
+
+                # Se falhou ou ficou no futuro, tenta MM/DD/YYYY
+                if dt_cand is None:
+                    try:
+                        dt_us = datetime(y, p1, p2)
+                        if dt_us <= now:
+                            dt_cand = dt_us
+                    except ValueError:
+                        pass
+
+                if dt_cand:
+                    found_dates.append(dt_cand)
                 continue
+
             # Formato ISO YYYY-MM-DD
             m_iso = re.search(r"(\d{4})-(\d{2})-(\d{2})", val_str)
             if m_iso:
                 y, mth, d = int(m_iso.group(1)), int(m_iso.group(2)), int(m_iso.group(3))
                 try:
-                    found_dates.append(datetime(y, mth, d))
+                    dt_iso = datetime(y, mth, d)
+                    if dt_iso <= now:
+                        found_dates.append(dt_iso)
                 except ValueError:
                     pass
 
@@ -329,6 +349,31 @@ def merge_and_save_data(
     new_df = read_csv_smart(new_csv)
     if new_df.empty:
         return 0, 0
+
+    # Normalização de BOM e cabeçalhos em inglês para português
+    def _clean_header(c):
+        cl = c.replace("\ufeff", "").strip()
+        if cl.lower() == "date": return "Data"
+        if cl.lower() == "user": return "Usuário"
+        if cl.lower() == "start date": return "Data início"
+        if cl.lower() == "end date": return "Data Fim"
+        return cl
+    new_df.columns = [_clean_header(c) for c in new_df.columns]
+
+    # Conversão de datas de formato americano (MM/DD/YYYY AM/PM) para formato brasileiro (DD/MM/YYYY HH:MM)
+    def _to_br_dt(val):
+        if not val or pd.isna(val): return ""
+        v_str = str(val).strip()
+        for f in ["%m/%d/%Y %I:%M %p", "%m/%d/%Y %I:%M:%S %p", "%m/%d/%Y %H:%M", "%d/%m/%Y %H:%M", "%d/%m/%Y"]:
+            try:
+                return datetime.strptime(v_str, f).strftime("%d/%m/%Y %H:%M")
+            except ValueError:
+                pass
+        return v_str
+
+    for dcol in ["Data", "Data início", "Data Fim", "Data Hora"]:
+        if dcol in new_df.columns:
+            new_df[dcol] = new_df[dcol].apply(_to_br_dt)
 
     env_id = os.getenv("ID_COLUMN")
     id_col = None
@@ -510,13 +555,34 @@ def ensure_authenticated(
         except PlaywrightTimeout:
             pass
 
-    # O SSO pode sempre redirecionar à página inicial da aplicação; volte à rota de formulários.
-    _navigate_to_forms_hub(page)
+    # Aguarda o redirecionamento completo para a aplicação Mapfy
+    try:
+        page.wait_for_url("https://app.mapfy.com.br/**", timeout=60000)
+        page.wait_for_timeout(2000)
+    except Exception:
+        pass
+
+    # Salva imediatamente os cookies da sessão ativa
+    try:
+        if "app.mapfy.com.br" in page.url:
+            context.storage_state(path=str(SESSION_FILE))
+            log.info(f"[OK] Sessão intermediária autenticada salva em {SESSION_FILE.name}")
+    except Exception:
+        pass
+
+    # O SSO pode redirecionar para a home (https://app.mapfy.com.br/); força ida para a lista de formulários
+    if "/FormEntry/List" not in page.url:
+        log.info(f"Sessão autenticada em {page.url}. Navegando para central de formulários: {MAPFY_HUB_URL}")
+        try:
+            page.goto(MAPFY_HUB_URL, timeout=45000, wait_until="domcontentloaded")
+            page.wait_for_timeout(2000)
+        except Exception as e_nav:
+            log.warning(f"Aviso ao navegar para formulários: {e_nav}")
 
     # 4. Aguarda chegada na tela de formulários do Mapfy
     log.info("Aguardando confirmação de acesso na central Mapfy...")
     try:
-        page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário')", timeout=45000)
+        page.wait_for_selector(".gm-zr, .gm-vc, h4:has-text('Escolha um formulário'), a[href*='FormEntry']", timeout=45000)
         log.info("[SUCESSO] Login concluído e formulários carregados!")
         context.storage_state(path=str(SESSION_FILE))
         log.info(f"[OK] Sessão salva em {SESSION_FILE.name}")
