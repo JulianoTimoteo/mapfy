@@ -215,13 +215,184 @@
     }
 
     // =========================================================================
-    // 1. MODO TELA CHEIA PARA O MAPA LEAFLET (COM DESAGRUPAMENTO COMPLETO DE PONTOS)
+    // 1. MODO TELA CHEIA PARA O MAPA LEAFLET & FILTRO DE DIAS UNIVERSAL
     // =========================================================================
+    let currentMapPeriodRange = 'ALL';
+
+    function parseRecordTimestamp(r) {
+        if (!r) return null;
+        const raw = r.data || r.Data || r.data_coleta || r.data_lancamento || r['Data Lançamento'] || r.dataBR || r.isoDate || r.DataHora || '';
+        if (typeof raw !== 'string' || !raw.trim()) {
+            if (raw instanceof Date) return raw.getTime();
+            return null;
+        }
+        const s = raw.trim();
+
+        // Formato BR: DD/MM/YYYY
+        if (s.includes('/')) {
+            const parts = s.split(' ')[0].split('/');
+            if (parts.length === 3) {
+                const day = parseInt(parts[0], 10);
+                const month = parseInt(parts[1], 10) - 1;
+                const year = parseInt(parts[2], 10);
+                if (!isNaN(day) && !isNaN(month) && !isNaN(year)) {
+                    return new Date(year, month, day, 12, 0, 0).getTime();
+                }
+            }
+        }
+        // Formato ISO: YYYY-MM-DD
+        if (s.includes('-')) {
+            const d = new Date(s);
+            if (!isNaN(d.getTime())) return d.getTime();
+        }
+        return null;
+    }
+
+    function showMapProcessingOverlay(mapEl, message) {
+        if (!mapEl) return null;
+        let overlay = mapEl.querySelector('.map-processing-overlay');
+        if (!overlay) {
+            overlay = document.createElement('div');
+            overlay.className = 'map-processing-overlay';
+            overlay.innerHTML = `
+                <div class="map-processing-spinner"></div>
+                <span class="map-processing-text">Filtrando medições...</span>
+            `;
+            mapEl.appendChild(overlay);
+        }
+        const txt = overlay.querySelector('.map-processing-text');
+        if (txt) txt.textContent = message || 'Processando medições e talhões...';
+        overlay.classList.remove('hidden');
+        return overlay;
+    }
+
+    function hideMapProcessingOverlay(mapEl) {
+        if (!mapEl) return;
+        const overlay = mapEl.querySelector('.map-processing-overlay');
+        if (overlay) {
+            overlay.classList.add('hidden');
+            setTimeout(() => { if (overlay && overlay.parentNode) overlay.parentNode.removeChild(overlay); }, 250);
+        }
+    }
+
+    function createMapPeriodFilterGroup(activeRange = 'ALL') {
+        const group = document.createElement('div');
+        group.className = 'timeline-quick-filter-group map-period-filter-group flex items-center';
+        group.innerHTML = `
+            <button type="button" class="btn-quick-timeline-filter ${activeRange === 'ALL' ? 'active' : ''}" data-range="ALL">Todos</button>
+            <button type="button" class="btn-quick-timeline-filter ${activeRange === '30D' ? 'active' : ''}" data-range="30D">30D</button>
+            <button type="button" class="btn-quick-timeline-filter ${activeRange === '15D' ? 'active' : ''}" data-range="15D">15D</button>
+            <button type="button" class="btn-quick-timeline-filter ${activeRange === '7D' ? 'active' : ''}" data-range="7D">7D</button>
+        `;
+
+        group.querySelectorAll('.btn-quick-timeline-filter').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                const range = btn.dataset.range;
+                currentMapPeriodRange = range;
+
+                // Sincroniza visualmente todos os seletores de período de mapa existentes
+                document.querySelectorAll('.map-period-filter-group').forEach(grp => {
+                    grp.querySelectorAll('.btn-quick-timeline-filter').forEach(b => {
+                        if (b.dataset.range === range) b.classList.add('active');
+                        else b.classList.remove('active');
+                    });
+                });
+
+                applyMapPeriodFilter(range);
+            });
+        });
+
+        return group;
+    }
+
+    function applyMapPeriodFilter(range) {
+        const map = (window.state && window.state.map) || (window.dashboardState && window.dashboardState.map);
+        const mapEl = (map && map.getContainer) ? map.getContainer() : document.querySelector('.leaflet-container, #map, #mapa');
+        if (!mapEl) return;
+
+        const rangeLabel = range === 'ALL' ? 'Todos os Registros da Safra' : `Últimos ${range.replace('D', ' Dias')}`;
+        showMapProcessingOverlay(mapEl, `Filtrando ${rangeLabel} • Sincronizando talhões...`);
+
+        setTimeout(() => {
+            try {
+                let allRecords = [];
+                const st = window.state || window.dashboardState;
+                if (st) {
+                    allRecords = st.rawRecords || st.allRecords || st.filteredRecords || [];
+                }
+                if (!allRecords || allRecords.length === 0) {
+                    const globals = [
+                        'COBRICAO_DATA', 'ABERTURA_ASA_RAW_DATA', 'SUBSOLAGEM_DATA',
+                        'PARALELISMO_DATA', 'CANTEIRIZACAO_DATA', 'QUALIDADE_CANA_DATA',
+                        'DOSAGEM_SULCO_DATA', 'DOSAGEM_COBRICAO_DATA', 'HERBICIDA_DATA',
+                        'BROCA_ARMADILHA_DATA', 'QUALIDADE_MUDA_DATA', 'AREA_VIVENCIA_DATA',
+                        'CHECKLIST_VEICULAR_DATA', 'ARREMATE_ACABAMENTO_DATA',
+                        'VIABILIDADE_GEMAS_DATA', 'TPL_5S_DATA'
+                    ];
+                    for (const g of globals) {
+                        if (Array.isArray(window[g]) && window[g].length > 0) {
+                            allRecords = window[g];
+                            break;
+                        }
+                    }
+                }
+
+                let filtered = allRecords;
+
+                if (range !== 'ALL' && Array.isArray(allRecords) && allRecords.length > 0) {
+                    const days = range === '7D' ? 7 : (range === '15D' ? 15 : 30);
+                    
+                    let maxTs = 0;
+                    for (let i = 0; i < allRecords.length; i++) {
+                        const ts = parseRecordTimestamp(allRecords[i]);
+                        if (ts && ts > maxTs) maxTs = ts;
+                    }
+
+                    if (maxTs > 0) {
+                        const minTs = maxTs - (days * 86400000);
+                        filtered = allRecords.filter(r => {
+                            const ts = parseRecordTimestamp(r);
+                            return ts && ts >= minTs && ts <= maxTs;
+                        });
+                    }
+                }
+
+                // 1. Atualiza os talhões via MapShapes para colorir SOMENTE os com medições no período
+                if (window.PitangueirasMapShapes && typeof window.PitangueirasMapShapes.filterByRecords === 'function') {
+                    window.PitangueirasMapShapes.filterByRecords(map, filtered);
+                }
+
+                // 2. Atualiza os marcadores individuais de pontos no mapa se estiver em tela cheia
+                if (window._pitangueiras_unclustered_layer && map && map.hasLayer(window._pitangueiras_unclustered_layer)) {
+                    const allMarkers = window._pitangueiras_markers_backup || [];
+                    window._pitangueiras_unclustered_layer.clearLayers();
+                    
+                    const filteredIds = new Set(filtered.map(r => r.id || r.ID || r.Medicao || r.medicao || JSON.stringify(r)));
+                    allMarkers.forEach(m => {
+                        const rec = m._record || (m.options && m.options.record) || null;
+                        if (!rec || range === 'ALL') {
+                            window._pitangueiras_unclustered_layer.addLayer(m);
+                        } else {
+                            const recId = rec.id || rec.ID || rec.Medicao || rec.medicao || JSON.stringify(rec);
+                            if (filteredIds.has(recId)) {
+                                window._pitangueiras_unclustered_layer.addLayer(m);
+                            }
+                        }
+                    });
+                }
+            } catch (err) {
+                console.warn('[Pitangueiras] Erro ao aplicar filtro de período no mapa:', err);
+            } finally {
+                hideMapProcessingOverlay(mapEl);
+            }
+        }, 120);
+    }
+
     function setupMapFullscreen() {
-        // Remove preventivamente qualquer botão flutuante duplicado dentro do canvas do mapa
         document.querySelectorAll('.btn-map-canvas-fullscreen').forEach(el => el.remove());
 
-        // Procura especificamente containers de mapa reais, excluindo cabeçalhos e badges da API
         const mapCandidates = document.querySelectorAll('.leaflet-container, #map, #map-container, #mapa, #mapView, div[id*="map"]');
         let mapEl = null;
         for (const candidate of mapCandidates) {
@@ -239,13 +410,15 @@
         
         if (mapCard.querySelector('.btn-map-fullscreen')) return;
 
-        // Container estratégico de ferramentas à direita do cabeçalho
         let toolsContainer = null;
         if (headerEl) {
             toolsContainer = headerEl.querySelector('#mapPeriodControls')?.parentElement
                           || headerEl.querySelector('.flex.items-center.gap-2, .flex.items-center.gap-3, .flex.items-center')
                           || headerEl;
         }
+
+        // Grupo Pill de Período [ Todos | 30D | 15D | 7D ] no cabeçalho do mapa normal
+        const filterGroup = createMapPeriodFilterGroup(currentMapPeriodRange);
 
         const btn = document.createElement('button');
         btn.type = 'button';
@@ -261,17 +434,18 @@
         });
 
         if (toolsContainer) {
+            toolsContainer.appendChild(filterGroup);
             toolsContainer.appendChild(btn);
         } else if (headerEl) {
+            headerEl.appendChild(filterGroup);
             headerEl.appendChild(btn);
         } else {
             const wrapper = document.createElement('div');
-            wrapper.className = 'flex justify-end mb-2';
+            wrapper.className = 'flex items-center justify-end gap-2 mb-2';
+            wrapper.appendChild(filterGroup);
             wrapper.appendChild(btn);
             mapEl.parentElement.insertBefore(wrapper, mapEl);
         }
-
-        // Garante que NENHUM botão flutuante duplicado seja criado sobre o mapa
     }
 
     function toggleMapFullscreen(card, mapEl) {
@@ -288,24 +462,40 @@
             let topbar = card.querySelector('.map-fullscreen-topbar');
             if (!topbar) {
                 topbar = document.createElement('div');
-                topbar.className = 'map-fullscreen-topbar';
-                topbar.innerHTML = `
-                    <div class="map-fullscreen-badge pointer-events-auto flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-900/85 backdrop-blur-md text-white text-xs font-semibold border border-slate-700/60 shadow-lg">
+                topbar.className = 'map-fullscreen-topbar pointer-events-none flex items-center justify-between gap-3';
+                
+                const leftWrap = document.createElement('div');
+                leftWrap.className = 'flex items-center gap-3 pointer-events-auto';
+                leftWrap.innerHTML = `
+                    <div class="map-fullscreen-badge flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-900/85 backdrop-blur-md text-white text-xs font-semibold border border-slate-700/60 shadow-lg">
                         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
                         <span class="hidden sm:inline">Mapa Operacional • Pontos Individuais (100% Desagrupados)</span>
                         <span class="sm:hidden">Pontos Desagrupados</span>
                     </div>
-                    <button type="button" class="btn-exit-map-fullscreen pointer-events-auto flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900/85 backdrop-blur-md text-white hover:text-emerald-400 text-xs font-semibold border border-slate-700/60 shadow-lg transition-colors">
-                        ${ICONS.compress} <span>Sair da Tela Cheia (Esc)</span>
-                    </button>
                 `;
-                card.appendChild(topbar);
 
-                topbar.querySelector('.btn-exit-map-fullscreen').addEventListener('click', (e) => {
+                const rightWrap = document.createElement('div');
+                rightWrap.className = 'flex items-center gap-2.5 pointer-events-auto';
+
+                // Injeta o grupo de filtros de dias [ Todos | 30D | 15D | 7D ] na topbar da tela cheia
+                const fsFilterGroup = createMapPeriodFilterGroup(currentMapPeriodRange);
+                rightWrap.appendChild(fsFilterGroup);
+
+                // Botão Sair da Tela Cheia
+                const exitBtn = document.createElement('button');
+                exitBtn.type = 'button';
+                exitBtn.className = 'btn-exit-map-fullscreen flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900/85 hover:bg-slate-800 text-white hover:text-emerald-400 text-xs font-semibold border border-slate-700/60 shadow-lg transition-colors cursor-pointer';
+                exitBtn.innerHTML = `${ICONS.compress} <span>Sair da Tela Cheia (Esc)</span>`;
+                exitBtn.addEventListener('click', (e) => {
                     e.preventDefault();
                     e.stopPropagation();
                     toggleMapFullscreen(card, mapEl);
                 });
+                rightWrap.appendChild(exitBtn);
+
+                topbar.appendChild(leftWrap);
+                topbar.appendChild(rightWrap);
+                card.appendChild(topbar);
             }
 
             const btn = card.querySelector('.btn-map-fullscreen');
@@ -328,6 +518,13 @@
 
             const btn = card.querySelector('.btn-map-fullscreen');
             if (btn) {
+                btn.innerHTML = `${ICONS.expand}`;
+                btn.title = 'Visualizar Mapa em Tela Cheia';
+            }
+
+            invalidateLeafletMap(mapEl);
+        }
+    }
                 btn.innerHTML = `${ICONS.expand}`;
                 btn.title = 'Visualizar Mapa em Tela Cheia';
             }

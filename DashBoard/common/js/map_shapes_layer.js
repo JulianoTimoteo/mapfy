@@ -572,13 +572,19 @@
 
         /**
          * Estilização dos Talhões Agrícolas:
-         * Formato BRANCO QUASE TRANSPARENTE sobre o mapa de satélite (sem verde saturado ou escuro).
+         * Formato dinâmico reativo às opções do usuário (Tema, Intensidade e Destaque com Coleta).
          * Garante visibilidade nítida da terra, carreadores, relevo e curvas de nível.
          */
         getFeatureStyle(feature, featureIndex, map, zoom = 11) {
             const auditedMap = this.auditedTalhoesByMap.get(map);
             const isAudited = this.highlightAudited && auditedMap && auditedMap.has(featureIndex);
-            let weight = zoom <= 11 ? 0.95 : (zoom <= 14 ? 1.25 : 1.55);
+            
+            // Resgata o tema e intensidade dinâmicos configurados pelo usuário
+            const theme = THEMES[this.currentTheme] || THEMES.esmeralda;
+            const intensity = INTENSITIES[this.currentIntensity] || INTENSITIES.suave;
+            
+            let zoomBonus = zoom <= 11 ? 0 : (zoom <= 14 ? 0.35 : 0.65);
+            let weight = (intensity.baseWeight || 1.25) + zoomBonus;
 
             // Hook de customização agronômica específica por dashboard (ex: Inteligência de Broca)
             if (typeof this.customFeatureStyler === 'function') {
@@ -594,24 +600,44 @@
                 // TALHÃO COM COLETA: Semáforo dinâmico (Verde Bom, Amarelo Médio, Vermelho Ruim)
                 const auditEntry = auditedMap ? auditedMap.get(featureIndex) : null;
                 const sem = auditEntry && auditEntry.semaforo ? auditEntry.semaforo : { color: '#10b981', stroke: '#059669' };
+                
+                // Opacidade de preenchimento reage à intensidade selecionada pelo usuário
+                let fillOp = 0.45;
+                if (this.currentIntensity === 'suave') fillOp = 0.35;
+                else if (this.currentIntensity === 'media') fillOp = 0.55;
+                else if (this.currentIntensity === 'forte') fillOp = 0.78;
+
                 return {
                     color: sem.stroke,
-                    weight: weight + 0.65,
-                    opacity: 0.95,
+                    weight: weight + 0.85,
+                    opacity: Math.min(1.0, intensity.borderOpacity + 0.1),
                     fillColor: sem.color,
-                    fillOpacity: 0.44,
+                    fillOpacity: fillOp,
                     dashArray: null
                 };
             } else {
-                // TALHÃO SEM COLETA: Traço fino neutro suave sobre a imagem de satélite
-                return {
-                    color: 'rgba(255, 255, 255, 0.40)',
-                    weight: Math.max(0.65, weight - 0.25),
-                    opacity: 0.50,
-                    fillColor: 'transparent',
-                    fillOpacity: 0.02,
-                    dashArray: null
-                };
+                // TALHÃO SEM COLETA:
+                if (this.highlightAudited) {
+                    // Modo realce ativo: atenua os talhões sem coleta para destacar os com medição
+                    return {
+                        color: theme.color,
+                        weight: Math.max(0.65, weight - 0.45),
+                        opacity: Math.max(0.20, intensity.borderOpacity * 0.45),
+                        fillColor: theme.fillColor,
+                        fillOpacity: 0.03,
+                        dashArray: null
+                    };
+                } else {
+                    // Modo realce desligado: exibe a malha completa conforme o tema e intensidade escolhidos
+                    return {
+                        color: theme.color,
+                        weight: weight,
+                        opacity: intensity.borderOpacity,
+                        fillColor: theme.fillColor,
+                        fillOpacity: intensity.fillOpacity,
+                        dashArray: null
+                    };
+                }
             }
         },
 
@@ -907,6 +933,11 @@
                                     <span style="display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: #334155;"></span>
                                     <span style="font-weight: 600;">Ardósia Neutro</span>
                                 </label>
+                                <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; padding: 1px 0;">
+                                    <input type="radio" name="pit_theme" value="branco" ${curTheme === 'branco' ? 'checked' : ''} style="accent-color: #94a3b8;">
+                                    <span style="display: inline-block; width: 10px; height: 10px; border-radius: 2px; background: #ffffff; border: 1px solid #cbd5e1;"></span>
+                                    <span style="font-weight: 600;">Branco Satélite</span>
+                                </label>
                             </div>
 
                             <!-- Legenda de Auditoria -->
@@ -1033,6 +1064,19 @@
                         const st = self.getFeatureStyle(feat, idx, map, zoom);
                         subLayer.setStyle(st);
                     });
+
+                    // Força a renderização imediata do Canvas do Leaflet
+                    if (self.activeRenderers.has(map)) {
+                        const rend = self.activeRenderers.get(map);
+                        if (rend && typeof rend._redraw === 'function') {
+                            rend._redraw(true);
+                        } else if (rend && typeof rend.requestRedraw === 'function') {
+                            rend.requestRedraw();
+                        }
+                    }
+                    if (typeof layer.redraw === 'function') {
+                        layer.redraw();
+                    }
                 }
             };
 
@@ -1042,6 +1086,31 @@
                 this.activeLayers.forEach((layer, map) => {
                     apply(layer, map);
                 });
+            }
+        },
+
+        /**
+         * Permite que filtros de período externos (7D, 15D, 30D, Todos) atualizem
+         * diretamente os talhões coloridos no mapa.
+         */
+        filterByRecords(targetMap, filteredRecords) {
+            const records = Array.isArray(filteredRecords) ? filteredRecords : this.getDashboardRecords();
+            const applyMap = (map) => {
+                if (!map || !this.activeLayers.has(map)) return;
+                const matchedMap = this.matchRecordsToShapes(records);
+                this.auditedTalhoesByMap.set(map, matchedMap);
+                this.lastRecordsCache.set(map, { hash: `custom_${records.length}_${Date.now()}`, count: records.length });
+                this.updateAllLayersStyle(map);
+                this.updateControlBadge(map);
+                if (typeof window.updateMapTalhoesLegend === 'function') {
+                    window.updateMapTalhoesLegend();
+                }
+            };
+
+            if (targetMap) {
+                applyMap(targetMap);
+            } else {
+                this.activeLayers.forEach((layer, map) => applyMap(map));
             }
         },
 

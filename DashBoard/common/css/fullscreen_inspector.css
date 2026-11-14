@@ -28,6 +28,56 @@
     overflow: hidden !important;
 }
 
+/* Previne sobreposição do controle de Talhões com a barra de topo em tela cheia */
+.map-fullscreen-active .leaflet-top.leaflet-right {
+    top: 66px !important;
+    transition: top 0.25s ease;
+}
+
+/* Overlay & Skeleton de Processamento do Filtro de Dias no Mapa */
+.map-processing-overlay {
+    position: absolute;
+    top: 66px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2500;
+    background: rgba(15, 23, 42, 0.90);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(16, 185, 129, 0.5);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 0 15px rgba(16, 185, 129, 0.2);
+    border-radius: 9999px;
+    padding: 8px 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #ffffff;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.map-processing-overlay.hidden {
+    opacity: 0;
+    transform: translate(-50%, -10px);
+    pointer-events: none;
+}
+
+.map-processing-spinner {
+    width: 14px;
+    height: 14px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-top-color: #10b981;
+    border-radius: 50%;
+    animation: mapSpin 0.6s linear infinite;
+}
+
+@keyframes mapSpin {
+    to { transform: rotate(360deg); }
+}
+
 /* Esconde cabeçalho original e outros elementos do card no modo tela cheia para evitar sobreposições e corte de altura */
 .map-fullscreen-active > div.flex:not(.map-fullscreen-topbar),
 .map-fullscreen-active > .card-header,
