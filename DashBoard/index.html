@@ -3470,6 +3470,21 @@
         }
 
     </script>
+
+    <!-- Força desativação de Service Worker antigo antes de carregar o instalador PWA -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistrations().then((registrations) => {
+                registrations.forEach((reg) => {
+                    reg.unregister().then(() => {
+                        console.log('[MapFy] Service Worker antigo desregistrado:', reg.scope);
+                    }).catch((err) => {
+                        console.warn('[MapFy] Falha ao desregistrar SW:', err);
+                    });
+                });
+            });
+        }
+    </script>
     <script src="common/js/pwa_installer.js?v=2026.5"></script>
 </body>
 </html>
