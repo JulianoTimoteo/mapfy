@@ -25,6 +25,50 @@
         CRITERIA_CONFIG: CRITERIA_CONFIG,
 
         /**
+         * Normaliza qualquer formato de data (BR DD/MM/YYYY ou US MM/DD/YYYY AM/PM)
+         */
+        parseDateSmart: function (raw) {
+            if (!raw) return { dataStr: '', dataDia: '', dataIso: '' };
+            const s = String(raw).trim();
+            const isAmPm = /am|pm/i.test(s);
+            const datePart = s.split(' ')[0];
+            if (!datePart.includes('/')) {
+                if (datePart.includes('-') && datePart.length === 10) {
+                    const p = datePart.split('-');
+                    return { dataStr: s, dataDia: `${p[2]}/${p[1]}/${p[0]}`, dataIso: datePart };
+                }
+                return { dataStr: s, dataDia: datePart, dataIso: '' };
+            }
+            const parts = datePart.split('/');
+            if (parts.length !== 3) return { dataStr: s, dataDia: datePart, dataIso: '' };
+            let d, m, y;
+            if (parts[2].length === 4) {
+                y = parts[2];
+                const p0 = parseInt(parts[0], 10);
+                const p1 = parseInt(parts[1], 10);
+                if (p0 > 12) {
+                    d = String(p0).padStart(2, '0');
+                    m = String(p1).padStart(2, '0');
+                } else if (p1 > 12 || isAmPm) {
+                    m = String(p0).padStart(2, '0');
+                    d = String(p1).padStart(2, '0');
+                } else {
+                    d = String(p0).padStart(2, '0');
+                    m = String(p1).padStart(2, '0');
+                }
+            } else {
+                d = parts[0].padStart(2, '0');
+                m = parts[1].padStart(2, '0');
+                y = parts[2];
+            }
+            const dataIso = `${y}-${m}-${d}`;
+            const dataDia = `${d}/${m}/${y}`;
+            const timePart = s.includes(' ') ? s.substring(datePart.length).trim() : '';
+            const dataStr = timePart ? `${dataDia} ${timePart}` : dataDia;
+            return { dataStr, dataDia, dataIso };
+        },
+
+        /**
          * Normaliza registro bruto do MapFy para a estrutura analítica padrão
          */
         normalizeRecord: function (r) {
@@ -32,14 +76,16 @@
             const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
             const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
             const scoreNum = parseFloat(String(r['Score'] || r.score || '').replace(',', '.')) || 0;
-            const dataStr = String(r['Data'] || r.data || '').trim();
-            const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
 
-            let dataIso = '';
-            if (dataDia.includes('/')) {
-                const parts = dataDia.split('/');
-                if (parts.length === 3) dataIso = `${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}`;
-            }
+            const rawDate = (r['Data'] !== undefined && r['Data'] !== null && String(r['Data']).trim() !== '')
+                ? r['Data']
+                : (r.data || r['Date'] || r.date || r['Data início'] || r['Start date'] || r['Data Fim'] || r['End date'] || '');
+            const parsedDate = (this && typeof this.parseDateSmart === 'function')
+                ? this.parseDateSmart(rawDate)
+                : BrocaEngine.parseDateSmart(rawDate);
+            const dataStr = parsedDate.dataStr;
+            const dataDia = parsedDate.dataDia;
+            const dataIso = parsedDate.dataIso;
 
             const etapaRaw = String(r['Etapa'] || r.etapa || '').trim().toUpperCase();
             const isInstalacao = etapaRaw.includes('INSTAL') || etapaRaw.includes('INSTALAÇÃO');
@@ -88,6 +134,7 @@
                 data: dataStr,
                 data_dia: dataDia,
                 data_iso: dataIso,
+                dataBR: dataDia,
                 data_inicio: r['Data início'] || r.data_inicio || '',
                 data_fim: r['Data Fim'] || r.data_fim || '',
                 status: r['Status'] || r.status || 'Aberto',
@@ -561,17 +608,24 @@
 
             records.forEach(r => {
                 let key;
+                let sortKey;
                 if (mode === 'mes') {
-                    key = r.data_iso ? r.data_iso.substring(0, 7) : '2026-09';
+                    // Mês: '09/2026' ou '2026-09'
+                    key = r.data_dia && r.data_dia.includes('/') ? r.data_dia.substring(3) : (r.data_iso ? r.data_iso.substring(0, 7) : '09/2026');
+                    sortKey = r.data_iso ? r.data_iso.substring(0, 7) : '2026-09';
                 } else if (mode === 'semana') {
                     key = r.data_dia ? r.data_dia.substring(3) : 'Semana';
+                    sortKey = r.data_iso || '2026-09';
                 } else {
-                    key = r.data_dia ? r.data_dia.substring(0, 5) : 'Dia';
+                    // Dia: 'DD/MM' (ex: '21/09', '01/10')
+                    key = r.data_dia ? r.data_dia.substring(0, 5) : (r.data ? String(r.data).substring(0, 5) : 'Dia');
+                    sortKey = r.data_iso || '2026-09-01';
                 }
 
                 if (!map[key]) {
                     map[key] = {
                         label: key,
+                        sortKey: sortKey,
                         totalLancamentos: 0,
                         totalMachos: 0,
                         instalacoes: 0,
@@ -587,7 +641,8 @@
                 if (r.machos > 0) entry.positivos++;
             });
 
-            return Object.values(map);
+            // Ordena cronologicamente (da data mais antiga para a mais recente)
+            return Object.values(map).sort((a, b) => (a.sortKey || '').localeCompare(b.sortKey || ''));
         },
 
         /**

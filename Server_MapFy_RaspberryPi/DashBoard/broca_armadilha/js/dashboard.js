@@ -866,17 +866,9 @@
             state.charts.talhoes.update();
         }
 
-        // 3. Timeline (Valores explícitos acima das barras)
+        // 3. Timeline (Valores explícitos acima das barras com suporte a filtro autônomo)
         if (state.charts.timeline) {
-            const timelineData = BrocaEngine.computeTemporalAnalytics(records, state.timelineMode);
-            const maxCapt = Math.max(...timelineData.map(t => t.totalMachos), 10);
-            const maxLanc = Math.max(...timelineData.map(t => t.totalLancamentos), 5);
-            state.charts.timeline.options.scales.y.suggestedMax = Math.ceil(maxCapt * 1.25);
-            state.charts.timeline.options.scales.y1.suggestedMax = Math.ceil(maxLanc * 1.3);
-            state.charts.timeline.data.labels = timelineData.map(t => t.label);
-            state.charts.timeline.data.datasets[0].data = timelineData.map(t => t.totalMachos);
-            state.charts.timeline.data.datasets[1].data = timelineData.map(t => t.totalLancamentos);
-            state.charts.timeline.update();
+            updateTimelineChart();
         }
 
         // 4. Severity Donut (Valores explícitos dentro das fatias e na legenda)
@@ -897,6 +889,26 @@
             state.charts.severity.data.datasets[0].data = [dInstal, dZero, dBaixa, dMedia, dCrit];
             state.charts.severity.update();
         }
+    }
+
+    /**
+     * Atualiza o gráfico de Evolução Temporal respeitando modo autônomo (Todos/15D/7D) e agrupamento (Diário/Mensal)
+     */
+    function updateTimelineChart() {
+        if (!state.charts.timeline) return;
+        const records = state.filteredRecords || [];
+        const timelineRecords = state.syncWithGlobalFilter
+            ? records
+            : getRecordsForDateRange(records, state.evolutionRange);
+        const timelineData = BrocaEngine.computeTemporalAnalytics(timelineRecords, state.timelineMode);
+        const maxCapt = Math.max(...timelineData.map(t => t.totalMachos), 10);
+        const maxLanc = Math.max(...timelineData.map(t => t.totalLancamentos), 5);
+        state.charts.timeline.options.scales.y.suggestedMax = Math.ceil(maxCapt * 1.25);
+        state.charts.timeline.options.scales.y1.suggestedMax = Math.ceil(maxLanc * 1.3);
+        state.charts.timeline.data.labels = timelineData.map(t => t.label);
+        state.charts.timeline.data.datasets[0].data = timelineData.map(t => t.totalMachos);
+        state.charts.timeline.data.datasets[1].data = timelineData.map(t => t.totalLancamentos);
+        state.charts.timeline.update();
     }
 
     // --- TABELA ANALÍTICA COM PAGINAÇÃO ---
@@ -1128,13 +1140,15 @@
         if (btnDia && btnMes) {
             btnDia.addEventListener('click', () => {
                 state.timelineMode = 'dia';
-                btnDia.className = 'btn-timeline-toggle active'; btnMes.className = 'btn-timeline-toggle';
-                updateChartsData(BrocaEngine.computeFarmRanking(state.filteredRecords), BrocaEngine.computeTalhaoRanking(state.filteredRecords), state.filteredRecords, BrocaEngine.computeSeverityDistribution(state.filteredRecords));
+                btnDia.className = 'btn-timeline-toggle active';
+                btnMes.className = 'btn-timeline-toggle';
+                updateTimelineChart();
             });
             btnMes.addEventListener('click', () => {
                 state.timelineMode = 'mes';
-                btnMes.className = 'btn-timeline-toggle active'; btnDia.className = 'btn-timeline-toggle';
-                updateChartsData(BrocaEngine.computeFarmRanking(state.filteredRecords), BrocaEngine.computeTalhaoRanking(state.filteredRecords), state.filteredRecords, BrocaEngine.computeSeverityDistribution(state.filteredRecords));
+                btnMes.className = 'btn-timeline-toggle active';
+                btnDia.className = 'btn-timeline-toggle';
+                updateTimelineChart();
             });
         }
 
@@ -1346,7 +1360,7 @@
             btnSync.addEventListener('click', () => {
                 state.syncWithGlobalFilter = !state.syncWithGlobalFilter;
                 updateEvoControlsUI();
-                if (typeof applyFilters === 'function') applyFilters();
+                updateTimelineChart();
             });
         }
 
@@ -1357,7 +1371,7 @@
                     if (state.syncWithGlobalFilter) return;
                     state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
                     updateEvoControlsUI();
-                    if (typeof applyFilters === 'function') applyFilters();
+                    updateTimelineChart();
                 });
             }
         });
@@ -1430,5 +1444,9 @@
 
         updateMapControlsUI();
     }
+
+    window.applyFilters = aplicarFiltros;
+    window.aplicarFiltros = aplicarFiltros;
+    window.updateTimelineChart = updateTimelineChart;
 
 })();
