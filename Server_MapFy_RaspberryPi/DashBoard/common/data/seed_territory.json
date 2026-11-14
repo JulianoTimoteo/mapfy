@@ -1,0 +1,68 @@
+{
+  "versao": "2026.11.14_v1",
+  "descricao": "Base Territorial Cadastral de Áreas e Parcelas Agronômicas - Usina Pitangueiras Safra 2026",
+  "data_criacao": "2026-11-14T07:55:00-03:00",
+  "parcelas": [
+    {
+      "id": "PARC_54401_Z3_T1_A",
+      "fazenda": "54401",
+      "nome_faz": "SITIO BENVINDA",
+      "zona": 3,
+      "talhao": 1,
+      "area": 6.83,
+      "shape_id": "SHP_54401_1_A",
+      "origem": "Cadastral GeoJSON",
+      "situacao": "Auditado",
+      "atualizado_em": "2026-11-14T07:55:00-03:00",
+      "atualizado_por": "Manual Técnico Agronômico"
+    },
+    {
+      "id": "PARC_54401_Z3_T1_B",
+      "fazenda": "54401",
+      "nome_faz": "SITIO BENVINDA",
+      "zona": 3,
+      "talhao": 1,
+      "area": 17.42,
+      "shape_id": "SHP_54401_1_B",
+      "origem": "Cadastro Agronômico",
+      "situacao": "Auditado",
+      "atualizado_em": "2026-11-14T07:55:00-03:00",
+      "atualizado_por": "Manual Técnico Agronômico"
+    },
+    {
+      "id": "PARC_54401_Z3_T2_A",
+      "fazenda": "54401",
+      "nome_faz": "SITIO BENVINDA",
+      "zona": 3,
+      "talhao": 2,
+      "area": 4.34,
+      "shape_id": "SHP_54401_2_A",
+      "origem": "Cadastral GeoJSON",
+      "situacao": "Auditado",
+      "atualizado_em": "2026-11-14T07:55:00-03:00",
+      "atualizado_por": "Manual Técnico Agronômico"
+    },
+    {
+      "id": "PARC_54401_Z3_T2_B",
+      "fazenda": "54401",
+      "nome_faz": "SITIO BENVINDA",
+      "zona": 3,
+      "talhao": 2,
+      "area": 2.06,
+      "shape_id": "SHP_54401_2_B",
+      "origem": "Cadastro Agronômico",
+      "situacao": "Auditado",
+      "atualizado_em": "2026-11-14T07:55:00-03:00",
+      "atualizado_por": "Manual Técnico Agronômico"
+    }
+  ],
+  "audit_log": [
+    {
+      "timestamp": "2026-11-14T07:55:00-03:00",
+      "usuario": "JARVIS GUARDIAN",
+      "acao": "INICIALIZACAO_SITIO_BENVINDA",
+      "fazenda": "54401",
+      "detalhes": "Consolidação inicial de 4 parcelas do Sítio Benvinda: Talhão 1 (6,83 + 17,42 = 24,25 ha), Talhão 2 (4,34 + 2,06 = 6,40 ha), Total = 30,65 ha."
+    }
+  ]
+}

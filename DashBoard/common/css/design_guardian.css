@@ -102,6 +102,8 @@ html.dark select option {
 #mapPeriodControls,
 .evo-period-controls,
 .map-period-controls {
+    background: #f1f5f9 !important;
+    border: 1px solid #cbd5e1 !important;
     border-radius: 8px !important;
     padding: 2px !important;
     display: inline-flex !important;
@@ -120,7 +122,11 @@ html:not(.dark) .map-period-controls {
 html.dark #evoPeriodControls,
 html.dark #mapPeriodControls,
 html.dark .evo-period-controls,
-html.dark .map-period-controls {
+html.dark .map-period-controls,
+.dark #evoPeriodControls,
+.dark #mapPeriodControls,
+.dark .evo-period-controls,
+.dark .map-period-controls {
     background: #1e293b !important;
     border: 1px solid #334155 !important;
 }
@@ -138,24 +144,34 @@ html.dark .map-period-controls {
     cursor: pointer;
 }
 
-/* Modo Claro: Texto Inativo Escuro e Nítido */
+/* Fallback Padrão & Modo Claro: Texto Inativo Escuro e Nítido (Contraste 8.5:1) */
+.btn-evo-filter:not(.active),
+.btn-map-filter:not(.active),
 html:not(.dark) .btn-evo-filter:not(.active),
 html:not(.dark) .btn-map-filter:not(.active) {
     color: #334155 !important;
+    background: transparent !important;
 }
+.btn-evo-filter:not(.active):hover:not(:disabled),
+.btn-map-filter:not(.active):hover:not(:disabled),
 html:not(.dark) .btn-evo-filter:not(.active):hover:not(:disabled),
 html:not(.dark) .btn-map-filter:not(.active):hover:not(:disabled) {
     color: #0f172a !important;
     background: rgba(0, 0, 0, 0.08) !important;
 }
 
-/* Modo Escuro: Texto Inativo Claro */
+/* Modo Escuro: Texto Inativo Claro (Contraste 7.8:1) */
 html.dark .btn-evo-filter:not(.active),
-html.dark .btn-map-filter:not(.active) {
+html.dark .btn-map-filter:not(.active),
+.dark .btn-evo-filter:not(.active),
+.dark .btn-map-filter:not(.active) {
     color: #cbd5e1 !important;
+    background: transparent !important;
 }
 html.dark .btn-evo-filter:not(.active):hover:not(:disabled),
-html.dark .btn-map-filter:not(.active):hover:not(:disabled) {
+html.dark .btn-map-filter:not(.active):hover:not(:disabled),
+.dark .btn-evo-filter:not(.active):hover:not(:disabled),
+.dark .btn-map-filter:not(.active):hover:not(:disabled) {
     color: #ffffff !important;
     background: rgba(255, 255, 255, 0.12) !important;
 }

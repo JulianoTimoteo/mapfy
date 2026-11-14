@@ -12,10 +12,13 @@
             ? (window.BROCA_ARMADILHA_DATA || []).map(r => window.BrocaEngine.normalizeRecord(r))
             : (window.BROCA_ARMADILHA_DATA || []),
         filteredRecords: [],
-        evolutionRange: '7D',
+        evolutionRange: 'ALL',
         syncWithGlobalFilter: true,
         mapSyncWithGlobal: true,
-        mapRange: '7D',
+        mapRange: 'ALL',
+        visaoMapa: 'talhao',
+        metricaMapa: 'tpa',
+        intelData: null,
         activeFilters: {
             dataInicio: '',
             dataFim: '',
@@ -242,6 +245,86 @@
             maxClusterRadius: 30
         });
         state.map.addLayer(state.markersLayer);
+
+        setupMapShapesAgronomicHooks();
+        initMapIntelligenceControls();
+    }
+
+    function setupMapShapesAgronomicHooks() {
+        if (!window.PitangueirasMapShapes) {
+            setTimeout(setupMapShapesAgronomicHooks, 250);
+            return;
+        }
+
+        // Styler Customizado: Colore os shapes por Talhão ou por Fazenda
+        window.PitangueirasMapShapes.setCustomStyler((feature, index, map, zoom, isAudited) => {
+            if (!window.BrocaEngine) return null;
+            return window.BrocaEngine.getShapeStyle(feature, state.visaoMapa || 'talhao', state.metricaMapa || 'tpa', state.intelData);
+        });
+
+        // Tooltip Customizado
+        window.PitangueirasMapShapes.setCustomTooltipFormatter((feature, layer, map, auditInfo, isAudited) => {
+            if (!window.BrocaEngine) return null;
+            return window.BrocaEngine.getShapeTooltipHtml(feature, state.visaoMapa || 'talhao', state.intelData);
+        });
+
+        // Clique Customizado: Abre popup completo com dados territoriais, amostragem e memória de cálculo
+        window.PitangueirasMapShapes.setCustomClickHandler((feature, layer, map, e) => {
+            if (!window.BrocaEngine) return false;
+            const popupHtml = window.BrocaEngine.getShapePopupHtml(feature, state.visaoMapa || 'talhao', state.intelData);
+            if (popupHtml) {
+                layer.bindPopup(popupHtml, { maxWidth: 360, className: 'pitangueiras-agronomic-popup' }).openPopup(e.latlng);
+                return true;
+            }
+            return false;
+        });
+    }
+
+    function initMapIntelligenceControls() {
+        const btnVisaoTalhao = document.getElementById('btnVisaoTalhao');
+        const btnVisaoFazenda = document.getElementById('btnVisaoFazenda');
+        const selMetricaMapa = document.getElementById('selMetricaMapa');
+
+        if (btnVisaoTalhao && !btnVisaoTalhao._listenerAttached) {
+            btnVisaoTalhao._listenerAttached = true;
+            btnVisaoTalhao.addEventListener('click', () => {
+                state.visaoMapa = 'talhao';
+                btnVisaoTalhao.className = 'btn-visao-modo active px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 bg-emerald-600 text-white shadow-xs cursor-pointer';
+                if (btnVisaoFazenda) {
+                    btnVisaoFazenda.className = 'btn-visao-modo px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-slate-700 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 cursor-pointer';
+                }
+                if (window.PitangueirasMapShapes && state.map) {
+                    window.PitangueirasMapShapes.reapplyStyles(state.map);
+                }
+            });
+        }
+
+        if (btnVisaoFazenda && !btnVisaoFazenda._listenerAttached) {
+            btnVisaoFazenda._listenerAttached = true;
+            btnVisaoFazenda.addEventListener('click', () => {
+                state.visaoMapa = 'fazenda';
+                btnVisaoFazenda.className = 'btn-visao-modo active px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 bg-emerald-600 text-white shadow-xs cursor-pointer';
+                if (btnVisaoTalhao) {
+                    btnVisaoTalhao.className = 'btn-visao-modo px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-slate-700 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 cursor-pointer';
+                }
+                if (window.PitangueirasMapShapes && state.map) {
+                    window.PitangueirasMapShapes.reapplyStyles(state.map);
+                }
+            });
+        }
+
+        if (selMetricaMapa && !selMetricaMapa._listenerAttached) {
+            selMetricaMapa._listenerAttached = true;
+            selMetricaMapa.addEventListener('change', (e) => {
+                state.metricaMapa = e.target.value;
+                if (window.BrocaEngine) {
+                    window.BrocaEngine.setParams({ metrica_mapa: state.metricaMapa });
+                }
+                if (window.PitangueirasMapShapes && state.map) {
+                    window.PitangueirasMapShapes.reapplyStyles(state.map);
+                }
+            });
+        }
     }
 
     function updateMapMarkers() {
@@ -633,6 +716,11 @@
         setText('agroAreaTotal', agro.areaTalhoesMonitoradosHa.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
         setText('agroCoberturaNominal', agro.coberturaNominalHa.toLocaleString('pt-BR'));
         setText('agroStatusText', agro.statusControle);
+
+        state.intelData = agro;
+        if (window.PitangueirasMapShapes && state.map) {
+            window.PitangueirasMapShapes.reapplyStyles(state.map);
+        }
 
         const badge = document.getElementById('agroStatusBadge');
         if (badge) {
@@ -1285,31 +1373,47 @@
 
 
     /**
-     * Função Utilitária para Recorte por Dias Distintos em Modo Autônomo
+     * Função Utilitária para Recorte por Dias em Modo Autônomo (Janela Temporal Real)
      */
     function getRecordsForDateRange(records, range) {
         if (!range || range === 'ALL' || !records || records.length === 0) return records;
-        const daysSet = new Set();
+        
+        // Mapear dias únicos e seus timestamps
+        const dayMap = new Map();
         records.forEach(r => {
-            const d = r.dataBR || r.data_dia || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
-            if (d && d.includes('/')) daysSet.add(d);
-        });
-
-        const sortedDays = Array.from(daysSet).sort((a, b) => {
-            const pA = a.split('/');
-            const pB = b.split('/');
-            if (pA.length === 3 && pB.length === 3) {
-                return new Date(pA[2], pA[1] - 1, pA[0]) - new Date(pB[2], pB[1] - 1, pB[0]);
+            const dStr = r.data_dia || r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
+            if (dStr && dStr.includes('/')) {
+                const p = dStr.split('/');
+                if (p.length === 3) {
+                    const ts = new Date(parseInt(p[2], 10), parseInt(p[1], 10) - 1, parseInt(p[0], 10)).getTime();
+                    if (!isNaN(ts)) {
+                        dayMap.set(dStr, ts);
+                    }
+                }
             }
-            return a.localeCompare(b);
         });
 
-        const count = range === '7D' ? 7 : (range === '15D' ? 15 : sortedDays.length);
-        const targetDays = new Set(sortedDays.slice(-count));
+        if (dayMap.size === 0) return records;
+
+        const sortedDays = Array.from(dayMap.entries()).sort((a, b) => a[1] - b[1]);
+        const maxTs = sortedDays[sortedDays.length - 1][1];
+
+        let targetDays;
+        if (range === '7D') {
+            const ts7DaysAgo = maxTs - (7 * 24 * 60 * 60 * 1000);
+            const daysInWindow = sortedDays.filter(entry => entry[1] >= ts7DaysAgo).map(e => e[0]);
+            targetDays = new Set(daysInWindow.length >= 3 ? daysInWindow : sortedDays.slice(-7).map(e => e[0]));
+        } else if (range === '15D') {
+            const ts15DaysAgo = maxTs - (15 * 24 * 60 * 60 * 1000);
+            const daysInWindow = sortedDays.filter(entry => entry[1] >= ts15DaysAgo).map(e => e[0]);
+            targetDays = new Set(daysInWindow.length >= 5 ? daysInWindow : sortedDays.slice(-10).map(e => e[0]));
+        } else {
+            targetDays = new Set(sortedDays.map(e => e[0]));
+        }
 
         return records.filter(r => {
-            const d = r.dataBR || r.data_dia || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
-            return targetDays.has(d);
+            const dStr = r.data_dia || r.dataBR || (r.dataStr ? r.dataStr.split(' ')[0] : '') || (r.data ? String(r.data).split(' ')[0] : '');
+            return targetDays.has(dStr);
         });
     }
 
@@ -1322,12 +1426,12 @@
         function updateEvoControlsUI() {
             if (btnSync) {
                 if (state.syncWithGlobalFilter) {
-                    btnSync.className = "btn-sync-filter sync-locked";
+                    btnSync.className = "btn-sync-filter sync-locked px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
                     if (syncIcon) syncIcon.innerText = "🔒";
                     if (syncText) syncText.innerText = "Filtro Global Ativo";
                     btnSync.title = "Os gráficos analíticos obedecem ao Filtro Principal do topo. Clique para destravar o modo autônomo.";
                 } else {
-                    btnSync.className = "btn-sync-filter sync-unlocked";
+                    btnSync.className = "btn-sync-filter sync-unlocked px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-100 border-slate-300 dark:border-slate-600 shadow-sm";
                     if (syncIcon) syncIcon.innerText = "🔓";
                     if (syncText) syncText.innerText = "Filtro Autônomo";
                     btnSync.title = `Modo autônomo ativo (${state.evolutionRange}). Clique para travar novamente com o Filtro Global.`;
@@ -1335,23 +1439,11 @@
             }
 
             evoButtons.forEach(btn => {
-                const range = btn.getAttribute('data-evo-range') || '7D';
-                if (state.syncWithGlobalFilter) {
-                    btn.disabled = true;
-                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
-                    btn.classList.remove('cursor-pointer');
-                } else {
-                    btn.disabled = false;
-                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
-                    btn.classList.add('cursor-pointer');
-                    if (range === state.evolutionRange) {
-                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
-                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500', 'text-[var(--text-secondary)]');
-                    } else {
-                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
-                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
-                    }
-                }
+                const range = btn.getAttribute('data-evo-range') || 'ALL';
+                btn.disabled = false;
+                btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                btn.classList.add('cursor-pointer');
+                btn.classList.toggle('active', range === state.evolutionRange);
             });
         }
 
@@ -1367,9 +1459,14 @@
         evoButtons.forEach(btn => {
             if (!btn._listenerAttached) {
                 btn._listenerAttached = true;
-                btn.addEventListener('click', () => {
-                    if (state.syncWithGlobalFilter) return;
-                    state.evolutionRange = btn.getAttribute('data-evo-range') || '7D';
+                btn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const range = btn.getAttribute('data-evo-range') || 'ALL';
+                    state.evolutionRange = range;
+                    // Ao clicar em qualquer botão de período, desativa a trava do filtro global para modo autônomo imediato
+                    if (state.syncWithGlobalFilter) {
+                        state.syncWithGlobalFilter = false;
+                    }
                     updateEvoControlsUI();
                     updateTimelineChart();
                 });
@@ -1388,12 +1485,12 @@
         function updateMapControlsUI() {
             if (btnMapSync) {
                 if (state.mapSyncWithGlobal) {
-                    btnMapSync.className = "btn-sync-filter sync-locked";
+                    btnMapSync.className = "btn-sync-filter sync-locked px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-emerald-600 text-white border-emerald-500 shadow-sm";
                     if (mapSyncIcon) mapSyncIcon.innerText = "🔒";
                     if (mapSyncText) mapSyncText.innerText = "Filtro Global Ativo";
                     btnMapSync.title = "O mapa obedece ao Filtro Principal do topo. Clique para destravar o modo autônomo do mapa.";
                 } else {
-                    btnMapSync.className = "btn-sync-filter sync-unlocked";
+                    btnMapSync.className = "btn-sync-filter sync-unlocked px-2.5 py-1 rounded-lg border text-[11px] font-bold flex items-center gap-1.5 transition-all shadow-xs cursor-pointer bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-100 border-slate-300 dark:border-slate-600 shadow-sm";
                     if (mapSyncIcon) mapSyncIcon.innerText = "🔓";
                     if (mapSyncText) mapSyncText.innerText = "Filtro Autônomo";
                     btnMapSync.title = `Modo autônomo do mapa ativo (${state.mapRange}). Clique para travar novamente com o Filtro Global.`;
@@ -1402,21 +1499,14 @@
 
             mapButtons.forEach(btn => {
                 const range = btn.getAttribute('data-map-range') || '7D';
-                if (state.mapSyncWithGlobal) {
-                    btn.disabled = true;
-                    btn.classList.add('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
-                    btn.classList.remove('cursor-pointer');
+                btn.disabled = false;
+                btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
+                btn.classList.add('cursor-pointer');
+
+                if (range === state.mapRange) {
+                    btn.className = 'btn-map-filter active px-2.5 py-1 rounded-md text-[11px] font-bold transition-all bg-emerald-600 text-white shadow-xs cursor-pointer';
                 } else {
-                    btn.disabled = false;
-                    btn.classList.remove('opacity-40', 'cursor-not-allowed', 'pointer-events-none');
-                    btn.classList.add('cursor-pointer');
-                    if (range === state.mapRange) {
-                        btn.classList.add('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
-                        btn.classList.remove('text-slate-700', 'hover:text-emerald-500', 'text-[var(--text-secondary)]');
-                    } else {
-                        btn.classList.remove('active', 'bg-emerald-600', 'shadow-xs', 'text-white');
-                        btn.classList.add('text-slate-700', 'dark:text-white', 'hover:text-emerald-500');
-                    }
+                    btn.className = 'btn-map-filter px-2.5 py-1 rounded-md text-[11px] font-bold transition-all text-slate-700 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 hover:bg-slate-200 dark:hover:bg-slate-700 cursor-pointer';
                 }
             });
         }
@@ -1434,8 +1524,11 @@
             if (!btn._listenerAttached) {
                 btn._listenerAttached = true;
                 btn.addEventListener('click', () => {
-                    if (state.mapSyncWithGlobal) return;
-                    state.mapRange = btn.getAttribute('data-map-range') || '7D';
+                    const range = btn.getAttribute('data-map-range') || '7D';
+                    state.mapRange = range;
+                    if (state.mapSyncWithGlobal && range !== 'ALL') {
+                        state.mapSyncWithGlobal = false;
+                    }
                     updateMapControlsUI();
                     updateMapMarkers();
                 });
@@ -1444,6 +1537,400 @@
 
         updateMapControlsUI();
     }
+
+    // --- MÓDULO MASTER: GESTÃO DE ÁREAS E PARÂMETROS AGRONÔMICOS ---
+    function initAreaParamsModal() {
+        const modal = document.getElementById('modalAreaParams');
+        const btnOpen = document.getElementById('btnOpenAreaParamsModal');
+        const btnClose = document.getElementById('modalAreaParamsCloseBtn');
+        const btnBottomClose = document.getElementById('modalAreaParamsBottomCloseBtn');
+
+        const tabBtnTerritorio = document.getElementById('tabBtnTerritorio');
+        const tabBtnParametros = document.getElementById('tabBtnParametros');
+        const tabBtnAuditoria = document.getElementById('tabBtnAuditoriaTerritorio');
+
+        const contentTerritorio = document.getElementById('contentTabTerritorio');
+        const contentParametros = document.getElementById('contentTabParametros');
+        const contentAuditoria = document.getElementById('contentTabAuditoriaTerritorio');
+
+        const inputBusca = document.getElementById('inputBuscaParcelas');
+        const btnNova = document.getElementById('btnNovaParcela');
+        const formContainer = document.getElementById('formParcelaContainer');
+        const formTitle = document.getElementById('formParcelaTitle');
+        const btnCancelarForm = document.getElementById('btnCancelarFormParcela');
+        const btnSalvar = document.getElementById('btnSalvarParcela');
+
+        const inpFazenda = document.getElementById('inpFormFazenda');
+        const inpNomeFaz = document.getElementById('inpFormNomeFaz');
+        const inpZona = document.getElementById('inpFormZona');
+        const inpTalhao = document.getElementById('inpFormTalhao');
+        const inpArea = document.getElementById('inpFormArea');
+        const inpParcelaId = document.getElementById('inpFormParcelaId');
+
+        const btnExportarJson = document.getElementById('btnExportarJson');
+        const btnExportarCsv = document.getElementById('btnExportarCsv');
+        const fileImport = document.getElementById('fileImportTerritorio');
+        const btnResetPadrao = document.getElementById('btnResetPadraoTerritorio');
+
+        const selManejo = document.getElementById('selManejoConfig');
+        const inpMinAdultos = document.getElementById('inpMinAdultosConfig');
+        const chkSimulacao = document.getElementById('chkModoSimulacao');
+        const containerSimulacao = document.getElementById('containerSimulacaoInputs');
+        const inpLimiteSimulacao = document.getElementById('inpLimiteSimulacao');
+
+        function openModal() {
+            if (!modal) return;
+            modal.classList.remove('hidden');
+            renderAllTerritoryData();
+            syncParamsForm();
+        }
+
+        function closeModal() {
+            if (!modal) return;
+            modal.classList.add('hidden');
+            if (formContainer) formContainer.classList.add('hidden');
+        }
+
+        if (btnOpen) btnOpen.addEventListener('click', openModal);
+        if (btnClose) btnClose.addEventListener('click', closeModal);
+        if (btnBottomClose) btnBottomClose.addEventListener('click', closeModal);
+
+        if (modal) {
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) closeModal();
+            });
+        }
+
+        // Alternância de Abas
+        function switchTab(tab) {
+            [tabBtnTerritorio, tabBtnParametros, tabBtnAuditoria].forEach(b => {
+                if (b) {
+                    b.classList.remove('active', 'border-emerald-600', 'text-emerald-600', 'dark:text-emerald-400');
+                    b.classList.add('border-transparent', 'text-slate-600', 'dark:text-slate-400');
+                }
+            });
+            [contentTerritorio, contentParametros, contentAuditoria].forEach(c => {
+                if (c) c.classList.add('hidden');
+            });
+
+            if (tab === 'territorio') {
+                if (tabBtnTerritorio) {
+                    tabBtnTerritorio.classList.add('active', 'border-emerald-600', 'text-emerald-600', 'dark:text-emerald-400');
+                    tabBtnTerritorio.classList.remove('border-transparent', 'text-slate-600', 'dark:text-slate-400');
+                }
+                if (contentTerritorio) contentTerritorio.classList.remove('hidden');
+                renderAllTerritoryData();
+            } else if (tab === 'parametros') {
+                if (tabBtnParametros) {
+                    tabBtnParametros.classList.add('active', 'border-emerald-600', 'text-emerald-600', 'dark:text-emerald-400');
+                    tabBtnParametros.classList.remove('border-transparent', 'text-slate-600', 'dark:text-slate-400');
+                }
+                if (contentParametros) contentParametros.classList.remove('hidden');
+                syncParamsForm();
+            } else if (tab === 'auditoria') {
+                if (tabBtnAuditoria) {
+                    tabBtnAuditoria.classList.add('active', 'border-emerald-600', 'text-emerald-600', 'dark:text-emerald-400');
+                    tabBtnAuditoria.classList.remove('border-transparent', 'text-slate-600', 'dark:text-slate-400');
+                }
+                if (contentAuditoria) contentAuditoria.classList.remove('hidden');
+                renderAuditoriaTable();
+            }
+        }
+
+        if (tabBtnTerritorio) tabBtnTerritorio.addEventListener('click', () => switchTab('territorio'));
+        if (tabBtnParametros) tabBtnParametros.addEventListener('click', () => switchTab('parametros'));
+        if (tabBtnAuditoria) tabBtnAuditoria.addEventListener('click', () => switchTab('auditoria'));
+
+        // Renderização dos Dados Territoriais
+        function renderAllTerritoryData() {
+            if (!window.AgronomicTerritory) return;
+            const stats = window.AgronomicTerritory.getStats();
+
+            setText('statAreaTotal', `${stats.area_total_ha.toLocaleString('pt-BR')} ha`);
+            setText('statTotalFazendas', stats.total_fazendas);
+            setText('statTotalTalhoes', stats.total_talhoes);
+            setText('statTotalParcelas', stats.total_parcelas);
+
+            const auditBadge = document.getElementById('auditCountBadge');
+            if (auditBadge) auditBadge.innerText = (window.AgronomicTerritory.getAuditLog() || []).length;
+
+            renderParcelasTable();
+        }
+
+        function renderParcelasTable() {
+            const tbody = document.getElementById('tabelaParcelasBody');
+            if (!tbody || !window.AgronomicTerritory) return;
+
+            const query = (inputBusca ? inputBusca.value : '').toLowerCase().trim();
+            const parcelas = window.AgronomicTerritory.getAllParcelas().filter(p => {
+                if (!query) return true;
+                return (p.fazenda && p.fazenda.toLowerCase().includes(query)) ||
+                       (p.nome_faz && p.nome_faz.toLowerCase().includes(query)) ||
+                       (String(p.talhao).toLowerCase().includes(query)) ||
+                       (p.id && p.id.toLowerCase().includes(query));
+            });
+
+            if (parcelas.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="8" class="p-6 text-center text-slate-400 font-sans">Nenhuma parcela encontrada para a busca atual.</td></tr>`;
+                return;
+            }
+
+            tbody.innerHTML = parcelas.map(p => `
+                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/60 transition">
+                    <td class="p-2.5 font-bold text-emerald-700 dark:text-emerald-400 text-[11px]">${p.id}</td>
+                    <td class="p-2.5 font-sans font-bold text-slate-900 dark:text-white">
+                        ${p.fazenda} <span class="text-slate-400 font-normal">(${p.nome_faz || '-'})</span>
+                    </td>
+                    <td class="p-2.5 text-slate-600 dark:text-slate-300">Zona ${p.zona || 1}</td>
+                    <td class="p-2.5 font-bold text-slate-800 dark:text-slate-200">Talhão ${p.talhao}</td>
+                    <td class="p-2.5 text-right font-black text-slate-900 dark:text-white text-xs">${Number(p.area).toFixed(2)} ha</td>
+                    <td class="p-2.5 text-[10px] text-slate-500 font-sans">${p.origem || 'Manual'}</td>
+                    <td class="p-2.5 font-sans"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">${p.situacao || 'Auditado'}</span></td>
+                    <td class="p-2.5 text-center font-sans">
+                        <div class="inline-flex items-center gap-1.5">
+                            <button type="button" class="btn-editar-parc p-1 rounded hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300" data-id="${p.id}" title="Editar área desta parcela">
+                                ✏️
+                            </button>
+                            <button type="button" class="btn-excluir-parc p-1 rounded hover:bg-rose-100 text-rose-600" data-id="${p.id}" title="Remover parcela">
+                                🗑️
+                            </button>
+                        </div>
+                    </td>
+                </tr>
+            `).join('');
+
+            // Listeners de Ações da Tabela
+            tbody.querySelectorAll('.btn-editar-parc').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const id = btn.getAttribute('data-id');
+                    const parc = window.AgronomicTerritory.getAllParcelas().find(p => p.id === id);
+                    if (parc) {
+                        if (inpParcelaId) inpParcelaId.value = parc.id;
+                        if (inpFazenda) inpFazenda.value = parc.fazenda;
+                        if (inpNomeFaz) inpNomeFaz.value = parc.nome_faz;
+                        if (inpZona) inpZona.value = parc.zona;
+                        if (inpTalhao) inpTalhao.value = parc.talhao;
+                        if (inpArea) inpArea.value = parc.area;
+                        if (formTitle) formTitle.innerText = `Editar Parcela: ${parc.id}`;
+                        if (formContainer) {
+                            formContainer.classList.remove('hidden');
+                            formContainer.scrollIntoView({ behavior: 'smooth' });
+                        }
+                    }
+                });
+            });
+
+            tbody.querySelectorAll('.btn-excluir-parc').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const id = btn.getAttribute('data-id');
+                    if (confirm(`Confirma a exclusão da parcela ${id}?`)) {
+                        window.AgronomicTerritory.removeParcela(id, 'Usuário Gestão Agronômica');
+                        renderAllTerritoryData();
+                        aplicarFiltros();
+                    }
+                });
+            });
+        }
+
+        if (inputBusca) {
+            inputBusca.addEventListener('input', renderParcelasTable);
+        }
+
+        // Formulário de Nova Parcela
+        if (btnNova) {
+            btnNova.addEventListener('click', () => {
+                if (inpParcelaId) inpParcelaId.value = '';
+                if (inpFazenda) inpFazenda.value = '';
+                if (inpNomeFaz) inpNomeFaz.value = '';
+                if (inpZona) inpZona.value = '3';
+                if (inpTalhao) inpTalhao.value = '';
+                if (inpArea) inpArea.value = '';
+                if (formTitle) formTitle.innerText = 'Cadastrar Nova Parcela Agronômica';
+                if (formContainer) formContainer.classList.remove('hidden');
+            });
+        }
+
+        if (btnCancelarForm) {
+            btnCancelarForm.addEventListener('click', () => {
+                if (formContainer) formContainer.classList.add('hidden');
+            });
+        }
+
+        if (btnSalvar) {
+            btnSalvar.addEventListener('click', () => {
+                const fazenda = inpFazenda ? inpFazenda.value.trim() : '';
+                const talhao = inpTalhao ? inpTalhao.value.trim() : '';
+                const area = inpArea ? parseFloat(inpArea.value.replace(',', '.')) : 0;
+                const nomeFaz = inpNomeFaz ? inpNomeFaz.value.trim() : '';
+                const zona = inpZona ? parseInt(inpZona.value, 10) : 1;
+                const existingId = inpParcelaId ? inpParcelaId.value.trim() : '';
+
+                if (!fazenda || !talhao || isNaN(area) || area <= 0) {
+                    alert('Por favor, preencha Fazenda, Talhão e uma Área em hectares válida maior que zero.');
+                    return;
+                }
+
+                const parcelaObj = {
+                    id: existingId || `PARC_${fazenda}_Z${zona}_T${talhao}_${Date.now()}`,
+                    fazenda: fazenda,
+                    nome_faz: nomeFaz || `FAZENDA ${fazenda}`,
+                    zona: zona,
+                    talhao: talhao,
+                    area: area,
+                    origem: 'Manual Gestor',
+                    situacao: 'Auditado'
+                };
+
+                window.AgronomicTerritory.addOrUpdateParcela(parcelaObj, 'Gestor Agronômico');
+                if (formContainer) formContainer.classList.add('hidden');
+                renderAllTerritoryData();
+                aplicarFiltros();
+            });
+        }
+
+        // Exportação e Importação
+        if (btnExportarJson) {
+            btnExportarJson.addEventListener('click', () => {
+                const jsonStr = window.AgronomicTerritory.exportToJson();
+                downloadFile(jsonStr, 'pitangueiras_areas_cadastrais_2026.json', 'application/json');
+            });
+        }
+
+        if (btnExportarCsv) {
+            btnExportarCsv.addEventListener('click', () => {
+                const csvStr = window.AgronomicTerritory.exportToCsv();
+                downloadFile(csvStr, 'pitangueiras_areas_cadastrais_2026.csv', 'text/csv;charset=utf-8;');
+            });
+        }
+
+        if (fileImport) {
+            fileImport.addEventListener('change', (e) => {
+                const file = e.target.files && e.target.files[0];
+                if (!file) return;
+                const reader = new FileReader();
+                reader.onload = function (evt) {
+                    try {
+                        const content = evt.target.result;
+                        if (file.name.endsWith('.json')) {
+                            const res = window.AgronomicTerritory.importFromJson(content, 'Importação Arquivo');
+                            alert(`Importação concluída com sucesso! Total: ${res.total} parcelas.`);
+                        } else {
+                            alert('Importação via CSV suportada; converta para JSON ou use a semente oficial.');
+                        }
+                        renderAllTerritoryData();
+                        aplicarFiltros();
+                    } catch (err) {
+                        alert('Falha ao processar arquivo: ' + err.message);
+                    }
+                };
+                reader.readAsText(file);
+            });
+        }
+
+        if (btnResetPadrao) {
+            btnResetPadrao.addEventListener('click', () => {
+                if (confirm('Deseja realmente restaurar a base territorial para a semente auditada padrão (incluindo o Sítio Benvinda com 30,65 ha)?')) {
+                    window.AgronomicTerritory.resetToDefault('Administrador');
+                    renderAllTerritoryData();
+                    aplicarFiltros();
+                }
+            });
+        }
+
+        // Sincronização dos Parâmetros Técnicos
+        function syncParamsForm() {
+            if (!window.BrocaEngine) return;
+            const p = window.BrocaEngine.getParams();
+
+            if (selManejo) selManejo.value = p.manejo || 'soca';
+            if (inpMinAdultos) inpMinAdultos.value = p.manejo === 'plantio' ? p.min_adultos_plantio : p.min_adultos_soca;
+            if (chkSimulacao) chkSimulacao.checked = Boolean(p.is_modo_simulacao);
+            if (containerSimulacao) {
+                if (p.is_modo_simulacao) containerSimulacao.classList.remove('hidden');
+                else containerSimulacao.classList.add('hidden');
+            }
+            if (inpLimiteSimulacao) inpLimiteSimulacao.value = p.limite_simulacao_pct || 30.0;
+        }
+
+        if (selManejo) {
+            selManejo.addEventListener('change', (e) => {
+                const val = e.target.value;
+                window.BrocaEngine.setParams({ manejo: val });
+                syncParamsForm();
+                aplicarFiltros();
+            });
+        }
+
+        if (inpMinAdultos) {
+            inpMinAdultos.addEventListener('change', (e) => {
+                const val = parseInt(e.target.value, 10) || 6;
+                const p = window.BrocaEngine.getParams();
+                if (p.manejo === 'plantio') {
+                    window.BrocaEngine.setParams({ min_adultos_plantio: val });
+                } else {
+                    window.BrocaEngine.setParams({ min_adultos_soca: val });
+                }
+                aplicarFiltros();
+            });
+        }
+
+        if (chkSimulacao) {
+            chkSimulacao.addEventListener('change', (e) => {
+                const checked = e.target.checked;
+                window.BrocaEngine.setParams({ is_modo_simulacao: checked });
+                if (containerSimulacao) {
+                    if (checked) containerSimulacao.classList.remove('hidden');
+                    else containerSimulacao.classList.add('hidden');
+                }
+                aplicarFiltros();
+            });
+        }
+
+        if (inpLimiteSimulacao) {
+            inpLimiteSimulacao.addEventListener('change', (e) => {
+                const val = parseFloat(e.target.value) || 30.0;
+                window.BrocaEngine.setParams({ limite_simulacao_pct: val });
+                aplicarFiltros();
+            });
+        }
+
+        // Tabela de Auditoria
+        function renderAuditoriaTable() {
+            const tbody = document.getElementById('tabelaAuditoriaTerritorioBody');
+            if (!tbody || !window.AgronomicTerritory) return;
+            const logs = window.AgronomicTerritory.getAuditLog();
+
+            if (logs.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="5" class="p-6 text-center text-slate-400">Nenhum evento de auditoria registrado ainda.</td></tr>`;
+                return;
+            }
+
+            tbody.innerHTML = logs.map(l => `
+                <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/60 font-mono text-xs">
+                    <td class="p-2.5 text-slate-500">${l.timestamp ? new Date(l.timestamp).toLocaleString('pt-BR') : '-'}</td>
+                    <td class="p-2.5 font-bold text-slate-800 dark:text-slate-200">${l.usuario || 'Sistema'}</td>
+                    <td class="p-2.5"><span class="px-2 py-0.5 rounded text-[10px] font-bold bg-slate-200 dark:bg-slate-700 text-slate-800 dark:text-slate-200">${l.acao}</span></td>
+                    <td class="p-2.5 font-bold text-emerald-600">${l.fazenda || '-'}</td>
+                    <td class="p-2.5 text-slate-600 dark:text-slate-300 font-sans">${l.detalhes}</td>
+                </tr>
+            `).join('');
+        }
+
+        function downloadFile(content, fileName, mimeType) {
+            const blob = new Blob([content], { type: mimeType });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = fileName;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    }
+
+    // Inicialização do Modal
+    initAreaParamsModal();
 
     window.applyFilters = aplicarFiltros;
     window.aplicarFiltros = aplicarFiltros;

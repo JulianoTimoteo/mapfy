@@ -510,6 +510,16 @@
             const isAudited = this.highlightAudited && auditedMap && auditedMap.has(featureIndex);
             let weight = zoom <= 11 ? 0.95 : (zoom <= 14 ? 1.25 : 1.55);
 
+            // Hook de customização agronômica específica por dashboard (ex: Inteligência de Broca)
+            if (typeof this.customFeatureStyler === 'function') {
+                try {
+                    const customStyle = this.customFeatureStyler(feature, featureIndex, map, zoom, isAudited);
+                    if (customStyle) return customStyle;
+                } catch (errStyler) {
+                    console.warn('[MapShapes] Erro no customFeatureStyler:', errStyler);
+                }
+            }
+
             if (isAudited) {
                 // TALHÃO COM COLETA: branco translúcido nítido com contorno claro bem definido, zero verde
                 return {
@@ -1044,6 +1054,20 @@
                                 fillOpacity: 0.32       // Levemente translúcido
                             });
 
+                            // Hook de Tooltip Customizado Agronômico
+                            if (typeof self.customTooltipFormatter === 'function') {
+                                try {
+                                    const customHtml = self.customTooltipFormatter(feature, l, map, auditInfo, isAudited);
+                                    if (customHtml) {
+                                        sharedTooltip.setContent(customHtml);
+                                        l.bindTooltip(sharedTooltip).openTooltip(e.latlng);
+                                        return;
+                                    }
+                                } catch (errTooltip) {
+                                    console.warn('[MapShapes] Erro no customTooltipFormatter:', errTooltip);
+                                }
+                            }
+
                             const areaVal = Number(props.area || 0).toFixed(2);
                             const nomeFaz = props.nome_faz || ('Fazenda ' + (props.fazenda || ''));
 
@@ -1132,6 +1156,16 @@
                                 fillOpacity: 0.38
                             });
 
+                            // Hook de Clique Customizado Agronômico
+                            if (typeof self.customFeatureClick === 'function') {
+                                try {
+                                    const handled = self.customFeatureClick(feature, l, map, e);
+                                    if (handled) return;
+                                } catch (errClick) {
+                                    console.warn('[MapShapes] Erro no customFeatureClick:', errClick);
+                                }
+                            }
+
                             const bounds = l.getBounds();
                             if (bounds && bounds.isValid()) {
                                 map.fitBounds(bounds, {
@@ -1202,6 +1236,24 @@
             this.activeRenderers.clear();
             this.sharedTooltips.clear();
             this.observeMaps();
+        },
+
+        // API Pública para Customização e Inteligência Agronômica
+        setCustomStyler(fn) {
+            this.customFeatureStyler = typeof fn === 'function' ? fn : null;
+            this.updateAllLayersStyle();
+        },
+
+        setCustomClickHandler(fn) {
+            this.customFeatureClick = typeof fn === 'function' ? fn : null;
+        },
+
+        setCustomTooltipFormatter(fn) {
+            this.customTooltipFormatter = typeof fn === 'function' ? fn : null;
+        },
+
+        reapplyStyles(targetMap) {
+            this.updateAllLayersStyle(targetMap);
         }
     };
 
