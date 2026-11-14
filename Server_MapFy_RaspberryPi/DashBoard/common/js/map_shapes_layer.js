@@ -179,11 +179,7 @@
             setInterval(() => {
                 this.activeLayers.forEach((layer, map) => {
                     this.syncWithDashboard(map);
-                    if (map._pitangueirasTalhoesAndDataVisible === false) {
-                        this.hideDataMarkersForMap(map);
-                    } else if (map._pitangueirasTalhoesAndDataVisible === true) {
-                        this.showDataMarkersForMap(map);
-                    }
+                    this.ensureDataMarkersVisible(map);
                 });
             }, 1200);
         },
@@ -450,15 +446,10 @@
             return null;
         },
 
-        hideDataMarkersForMap(map) {
-            if (!map) return;
-            const dataLayer = this.getDataMarkersLayer(map);
-            if (dataLayer && map.hasLayer(dataLayer)) {
-                map.removeLayer(dataLayer);
-            }
-        },
-
-        showDataMarkersForMap(map) {
+        /**
+         * Garante que os apontamentos e marcadores de dados estejam SEMPRE visíveis no mapa
+         */
+        ensureDataMarkersVisible(map) {
             if (!map) return;
             const dataLayer = this.getDataMarkersLayer(map);
             if (dataLayer && !map.hasLayer(dataLayer)) {
@@ -473,7 +464,7 @@
             const btn = wrap.querySelector('.talhoes-main-btn');
             if (!badge) return;
 
-            const isVisible = map._pitangueirasTalhoesAndDataVisible !== false &&
+            const isVisible = map._pitangueirasTalhoesVisible !== false &&
                               this.activeLayers.has(map) &&
                               map.hasLayer(this.activeLayers.get(map));
             const auditedMap = this.auditedTalhoesByMap.get(map);
@@ -487,7 +478,7 @@
                 badge.title = '6.469 talhões cadastrados na Usina Pitangueiras.';
             }
 
-            // O estilo do botão e do badge reflete se os shapes E os pontos de dados estão visíveis ou ocultos
+            // O estilo do botão e do badge reflete EXCLUSIVAMENTE a visibilidade dos talhões (canvas)
             if (isVisible) {
                 badge.classList.add('talhoes-badge-audited');
                 badge.style.background = '#059669';
@@ -495,7 +486,7 @@
                 if (btn) {
                     btn.style.color = '#047857';
                     btn.style.background = 'rgba(16, 185, 129, 0.10)';
-                    btn.title = 'Clique para ocultar os talhões e apontamentos do mapa';
+                    btn.title = 'Clique para ocultar os talhões do mapa';
                 }
             } else {
                 badge.classList.remove('talhoes-badge-audited');
@@ -504,7 +495,7 @@
                 if (btn) {
                     btn.style.color = '#64748b';
                     btn.style.background = 'transparent';
-                    btn.title = 'Clique para exibir os talhões e apontamentos no mapa';
+                    btn.title = 'Clique para exibir os talhões no mapa';
                 }
             }
         },
@@ -638,23 +629,29 @@
             container._leaflet_map = map;
 
             // Cria Pane customizado para os talhões (Z-Index 350: acima dos tiles, abaixo dos marcadores)
-            if (!map.getPane('agriculturalShapesPane')) {
-                const pane = map.createPane('agriculturalShapesPane');
+            let pane = map.getPane('agriculturalShapesPane');
+            if (!pane) {
+                pane = map.createPane('agriculturalShapesPane');
                 pane.style.zIndex = '350';
                 pane.style.pointerEvents = 'auto';
             }
 
+            // Garante que os apontamentos de campo estão visíveis
+            this.ensureDataMarkersVisible(map);
+
             // Cria o controle flutuante no mapa
             this.createMapControl(map);
 
-            // O mapa inicia com shapes e pontos ativados por padrão (solicitado pelo usuário)
+            // O mapa inicia com os talhões ativados por padrão
             // A menos que o usuário tenha explicitamente desligado no localStorage
             const isEnabled = localStorage.getItem(CONFIG.storageKey) !== 'false';
-            map._pitangueirasTalhoesAndDataVisible = isEnabled;
+            map._pitangueirasTalhoesVisible = isEnabled;
+            if (pane) {
+                pane.style.display = isEnabled ? 'block' : 'none';
+            }
             if (isEnabled) {
                 this.enableLayerForMap(map);
             } else {
-                this.hideDataMarkersForMap(map);
                 this.preloadShapesInBackground(map);
             }
             this.updateControlBadge(map);
@@ -726,7 +723,7 @@
                         user-select: none;
                         border-radius: 8px;
                     `;
-                    btn.title = isEnabled ? 'Clique para ocultar os talhões e apontamentos do mapa' : 'Clique para exibir os talhões e apontamentos no mapa';
+                    btn.title = isEnabled ? 'Clique para ocultar os talhões do mapa' : 'Clique para exibir os talhões no mapa';
 
                     btn.innerHTML = `
                         <span style="font-size: 13px; filter: drop-shadow(0 1px 1px rgba(0,0,0,0.1));">🌾</span>
@@ -893,16 +890,17 @@
                         ev.preventDefault();
                         ev.stopPropagation();
 
-                        const currentlyActive = map._pitangueirasTalhoesAndDataVisible !== false &&
+                        const currentlyActive = map._pitangueirasTalhoesVisible !== false &&
                                                 self.activeLayers.has(map) &&
                                                 map.hasLayer(self.activeLayers.get(map));
                         if (currentlyActive) {
-                            // AO CLICAR DESATIVA: OCULTA OS SHAPES E OS PONTOS DE DADOS DO MAPA
+                            // AO CLICAR DESATIVA: OCULTA APENAS OS SHAPES DOS TALHÕES (CANVAS)
+                            // OS MARCADORES / CLUSTERS PERMANECEM NO MAPA
                             self.disableLayerForMap(map);
                             localStorage.setItem(CONFIG.storageKey, 'false');
                             self.updateControlBadge(map);
                         } else {
-                            // AO CLICAR ATIVA: MOSTRA OS SHAPES E OS PONTOS DE DADOS NO MAPA
+                            // AO CLICAR ATIVA: MOSTRA OS SHAPES DOS TALHÕES (CANVAS)
                             const badge = btn.querySelector('.talhoes-badge');
                             if (badge && !self.geojsonData) {
                                 badge.innerText = 'Carregando...';
@@ -967,14 +965,22 @@
 
         async enableLayerForMap(map) {
             if (!map) return;
-            map._pitangueirasTalhoesAndDataVisible = true;
-            this.showDataMarkersForMap(map);
+            map._pitangueirasTalhoesVisible = true;
+            const pane = map.getPane('agriculturalShapesPane');
+            if (pane) pane.style.display = 'block';
+
+            // Marcadores de dados de campo permanecem SEMPRE no mapa
+            this.ensureDataMarkersVisible(map);
 
             if (this.activeLayers.has(map)) {
                 const existing = this.activeLayers.get(map);
                 if (!map.hasLayer(existing)) {
                     map.addLayer(existing);
                     this.syncWithDashboard(map);
+                }
+                const renderer = this.activeRenderers.get(map);
+                if (renderer && renderer._container) {
+                    renderer._container.style.display = '';
                 }
                 this.updateControlBadge(map);
                 return;
@@ -1156,14 +1162,27 @@
 
         disableLayerForMap(map) {
             if (!map) return;
-            map._pitangueirasTalhoesAndDataVisible = false;
-            this.hideDataMarkersForMap(map);
+            map._pitangueirasTalhoesVisible = false;
+
+            // Oculta exclusivamente os shapes dos talhões agrícolas (canvas)
             if (this.activeLayers.has(map)) {
                 const layer = this.activeLayers.get(map);
                 if (map.hasLayer(layer)) {
                     map.removeLayer(layer);
                 }
             }
+            const renderer = this.activeRenderers.get(map);
+            if (renderer && renderer._container) {
+                renderer._container.style.display = 'none';
+            }
+            const pane = map.getPane('agriculturalShapesPane');
+            if (pane) {
+                pane.style.display = 'none';
+            }
+
+            // Marcadores e clusters de dados NUNCA são removidos:
+            this.ensureDataMarkersVisible(map);
+
             this.updateControlBadge(map);
         },
 
