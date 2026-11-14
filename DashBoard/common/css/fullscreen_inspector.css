@@ -1280,35 +1280,48 @@ html.dark #donutDataContainer span.font-mono:not([id^="donutVal"]) {
     min-height: 2.2rem !important;
 }
 
-/* Botão Flutuante Nativo de Tela Cheia no Mapa Leaflet */
+/* Botão Universal Quadrado com Ícone de Tela Cheia (Padrão Idêntico em Mapas e Gráficos) */
+.btn-square-fullscreen,
+.btn-chart-fullscreen {
+    width: 30px !important;
+    height: 30px !important;
+    min-width: 30px !important;
+    min-height: 30px !important;
+    padding: 0 !important;
+    border-radius: 8px !important;
+    border: 1px solid var(--border-color, #cbd5e1) !important;
+    background: var(--bg-card, #ffffff) !important;
+    color: var(--text-primary, #1e293b) !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: all 0.2s ease !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) !important;
+    margin-left: 4px !important;
+}
+
+html.dark .btn-square-fullscreen,
+html.dark .btn-chart-fullscreen {
+    background: rgba(30, 41, 59, 0.85) !important;
+    border-color: rgba(51, 65, 85, 0.8) !important;
+    color: #f1f5f9 !important;
+}
+
+.btn-square-fullscreen:hover,
+.btn-chart-fullscreen:hover,
+.btn-map-fullscreen:hover {
+    border-color: #10b981 !important;
+    color: #10b981 !important;
+    background: rgba(16, 185, 129, 0.1) !important;
+    transform: scale(1.04) !important;
+}
+
+/* Elimina completamente qualquer botão duplicado no canvas do mapa */
 .btn-map-canvas-fullscreen {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-    z-index: 800;
-    background: rgba(15, 23, 42, 0.90);
-    backdrop-filter: blur(8px);
-    border: 1.5px solid rgba(16, 185, 129, 0.6);
-    color: #ffffff;
-    font-size: 11px;
-    font-weight: 700;
-    padding: 6px 12px;
-    border-radius: 12px;
-    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    transition: all 0.2s ease;
-    touch-action: manipulation;
-}
-.btn-map-canvas-fullscreen:hover {
-    background: #10b981;
-    border-color: #10b981;
-    transform: scale(1.05);
-}
-.map-fullscreen-active .btn-map-canvas-fullscreen {
     display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
 }
 
 /* Adaptação Ergonômica Mobile do Topbar do Mapa em Tela Cheia */

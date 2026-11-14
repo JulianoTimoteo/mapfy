@@ -218,11 +218,14 @@
     // 1. MODO TELA CHEIA PARA O MAPA LEAFLET (COM DESAGRUPAMENTO COMPLETO DE PONTOS)
     // =========================================================================
     function setupMapFullscreen() {
+        // Remove preventivamente qualquer botão flutuante duplicado dentro do canvas do mapa
+        document.querySelectorAll('.btn-map-canvas-fullscreen').forEach(el => el.remove());
+
         // Procura especificamente containers de mapa reais, excluindo cabeçalhos e badges da API
         const mapCandidates = document.querySelectorAll('.leaflet-container, #map, #map-container, #mapa, #mapView, div[id*="map"]');
         let mapEl = null;
         for (const candidate of mapCandidates) {
-            if (candidate.closest('header, .header-glass, .site-header')) continue;
+            if (candidate.closest('header, .header-glass, .site-header, #detailModal, #recordModal, .modal')) continue;
             if (candidate.id && (candidate.id.includes('mapfy') || candidate.id.includes('badge') || candidate.id.includes('live'))) continue;
             mapEl = candidate;
             break;
@@ -232,15 +235,24 @@
         const mapCard = mapEl.closest('.p-6, .app-card, .bg-\\[var\\(--card-bg\\)\\], .rounded-2xl, section, .map-section') || mapEl.parentElement;
         if (!mapCard) return;
 
-        let headerEl = mapCard.querySelector('div.flex.items-center.justify-between, .card-header, .chart-card-header, h3, h4')?.closest('div.flex');
+        let headerEl = mapCard.querySelector('div.flex.items-center.justify-between, div.flex.items-start.justify-between, .card-header, .chart-card-header, h3, h4')?.closest('div.flex');
         
         if (mapCard.querySelector('.btn-map-fullscreen')) return;
 
+        // Container estratégico de ferramentas à direita do cabeçalho
+        let toolsContainer = null;
+        if (headerEl) {
+            toolsContainer = headerEl.querySelector('#mapPeriodControls')?.parentElement
+                          || headerEl.querySelector('.flex.items-center.gap-2, .flex.items-center.gap-3, .flex.items-center')
+                          || headerEl;
+        }
+
         const btn = document.createElement('button');
         btn.type = 'button';
-        btn.className = 'btn-toggle-fullscreen btn-map-fullscreen';
-        btn.title = 'Navegar no Mapa em Tela Inteira (Celular ou Computador)';
-        btn.innerHTML = `${ICONS.expand} <span>Tela Inteira</span>`;
+        btn.className = 'btn-toggle-fullscreen btn-map-fullscreen btn-square-fullscreen';
+        btn.title = 'Visualizar Mapa em Tela Cheia (F11 / Esc para sair)';
+        btn.setAttribute('aria-label', 'Visualizar Mapa em Tela Cheia');
+        btn.innerHTML = `${ICONS.expand}`;
 
         btn.addEventListener('click', (e) => {
             e.preventDefault();
@@ -248,7 +260,9 @@
             toggleMapFullscreen(mapCard, mapEl);
         });
 
-        if (headerEl) {
+        if (toolsContainer) {
+            toolsContainer.appendChild(btn);
+        } else if (headerEl) {
             headerEl.appendChild(btn);
         } else {
             const wrapper = document.createElement('div');
@@ -257,20 +271,7 @@
             mapEl.parentElement.insertBefore(wrapper, mapEl);
         }
 
-        // Adiciona botão flutuante diretamente sobre o mapa para acesso instantâneo com um toque
-        if (!mapEl.querySelector('.btn-map-canvas-fullscreen')) {
-            const canvasBtn = document.createElement('button');
-            canvasBtn.type = 'button';
-            canvasBtn.className = 'btn-map-canvas-fullscreen';
-            canvasBtn.title = 'Expandir Mapa em Tela Inteira';
-            canvasBtn.innerHTML = `${ICONS.expand} <span>Tela Inteira</span>`;
-            canvasBtn.addEventListener('click', (e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                toggleMapFullscreen(mapCard, mapEl);
-            });
-            mapEl.appendChild(canvasBtn);
-        }
+        // Garante que NENHUM botão flutuante duplicado seja criado sobre o mapa
     }
 
     function toggleMapFullscreen(card, mapEl) {
@@ -308,7 +309,10 @@
             }
 
             const btn = card.querySelector('.btn-map-fullscreen');
-            if (btn) btn.innerHTML = `${ICONS.compress} <span>Sair</span>`;
+            if (btn) {
+                btn.innerHTML = `${ICONS.compress}`;
+                btn.title = 'Sair da Tela Cheia (Esc)';
+            }
 
             invalidateLeafletMap(mapEl);
         } else {
@@ -323,7 +327,10 @@
             if (topbar) topbar.remove();
 
             const btn = card.querySelector('.btn-map-fullscreen');
-            if (btn) btn.innerHTML = `${ICONS.expand} <span>Tela Inteira</span>`;
+            if (btn) {
+                btn.innerHTML = `${ICONS.expand}`;
+                btn.title = 'Visualizar Mapa em Tela Cheia';
+            }
 
             invalidateLeafletMap(mapEl);
         }
@@ -439,10 +446,15 @@
     function setupChartsFullscreen() {
         const canvases = document.querySelectorAll('canvas');
         canvases.forEach(canvas => {
+            // NUNCA injeta botão de tela cheia em gráficos dentro de modais/dossiês de inspeção
+            if (canvas.closest('#detailModal, #recordModal, #detailsModal, #recordDetailModal, #talhaoModal, .modal, .modal-backdrop, [role="dialog"], .dossie-modal')) {
+                return;
+            }
+
             const chartCard = canvas.closest('.chart-card, .p-6, .app-card, .bg-\\[var\\(--card-bg\\)\\], .rounded-2xl, .rounded-xl, .bg-white, .dark\\:bg-slate-900') || canvas.parentElement;
             if (!chartCard) return;
 
-            let headerEl = chartCard.querySelector('div.flex.items-center.justify-between, .chart-card-header, .card-header, h3, h4')?.closest('div.flex') || chartCard.querySelector('.chart-card-header');
+            let headerEl = chartCard.querySelector('div.flex.items-center.justify-between, div.flex.items-start.justify-between, .chart-card-header, .card-header, h3, h4')?.closest('div.flex') || chartCard.querySelector('.chart-card-header');
             if (!headerEl) {
                 const title = chartCard.querySelector('h3, h4, h2, .chart-card-title');
                 if (title && title.parentElement) headerEl = title.parentElement;
@@ -451,8 +463,9 @@
 
             const btn = document.createElement('button');
             btn.type = 'button';
-            btn.className = 'btn-toggle-fullscreen btn-chart-fullscreen';
+            btn.className = 'btn-toggle-fullscreen btn-chart-fullscreen btn-square-fullscreen';
             btn.title = 'Visualizar Gráfico em Tela Cheia';
+            btn.setAttribute('aria-label', 'Visualizar Gráfico em Tela Cheia');
             btn.innerHTML = `${ICONS.expand}`;
 
             btn.addEventListener('click', (e) => {
@@ -461,7 +474,12 @@
                 toggleChartFullscreen(chartCard, canvas);
             });
 
-            headerEl.appendChild(btn);
+            // Se houver ferramentas à direita (ex: timeline-quick-filter-group ou filtros de período), anexa junto a elas
+            const toolsContainer = headerEl.querySelector('.timeline-quick-filter-group, #evoPeriodControls, #evolutionFilterGroup')?.parentElement
+                                || headerEl.querySelector('.flex.items-center.gap-2, .flex.items-center.gap-3, .flex.items-center')
+                                || headerEl;
+
+            toolsContainer.appendChild(btn);
         });
     }
 
@@ -719,19 +737,27 @@
     // 7. FILTROS RÁPIDOS DA LINHA DO TEMPO / EVOLUÇÃO TEMPORAL (7D, 15D, 30D, Todos)
     // =========================================================================
     function setupTimelineQuickFilters() {
+        // Remove preventivamente qualquer filtro rápido injetado indevidamente em modais ou dossiês
+        document.querySelectorAll('#detailModal .timeline-quick-filter-group, #recordModal .timeline-quick-filter-group, .modal .timeline-quick-filter-group, [role="dialog"] .timeline-quick-filter-group').forEach(el => el.remove());
+
         const timelineCanvases = document.querySelectorAll(
-            'canvas[id*="Evolution"], canvas[id*="Timeline"], canvas[id*="temporal"], canvas[id*="Evolucao"], canvas[id*="Hourly"], canvas[id*="timeline"]'
+            'canvas[id*="Evolution"], canvas[id*="Timeline"], canvas[id*="temporal"], canvas[id*="Evolucao"], canvas[id*="timeline"]'
         );
 
         timelineCanvases.forEach(canvas => {
-            const card = canvas.closest('.chart-card, .p-6, .app-card, section, .rounded-2xl, .rounded-xl, .bg-white, .dark\\:bg-slate-900') || canvas.parentElement;
-            if (!card) return;
-
-            if (card.querySelector('.timeline-quick-filter-group') || card.querySelector('.btn-evo-filter') || card.querySelector('#evolutionFilterGroup')) {
+            // REGRA: NUNCA injeta filtros em gráficos dentro de modais/dossiês de inspeção (Dossiê possui apenas um filtro no topo, se houver)
+            if (canvas.closest('#detailModal, #recordModal, #detailsModal, #recordDetailModal, #talhaoModal, .modal, .modal-backdrop, [role="dialog"], .dossie-modal')) {
                 return;
             }
 
-            let headerEl = card.querySelector('div.flex.items-center.justify-between, .chart-card-header, .card-header, h3, h4')?.closest('div.flex') || card.querySelector('.chart-card-header');
+            const card = canvas.closest('.chart-card, .p-6, .app-card, section, .rounded-2xl, .rounded-xl, .bg-white, .dark\\:bg-slate-900') || canvas.parentElement;
+            if (!card) return;
+
+            if (card.querySelector('.timeline-quick-filter-group') || card.querySelector('.btn-evo-filter') || card.querySelector('#evolutionFilterGroup') || card.querySelector('#evoPeriodControls')) {
+                return;
+            }
+
+            let headerEl = card.querySelector('div.flex.items-center.justify-between, div.flex.items-start.justify-between, .chart-card-header, .card-header, h3, h4')?.closest('div.flex') || card.querySelector('.chart-card-header');
             
             const group = document.createElement('div');
             group.className = 'timeline-quick-filter-group ml-auto';
@@ -756,9 +782,10 @@
             if (headerEl) {
                 const fullscreenBtn = headerEl.querySelector('.btn-chart-fullscreen');
                 if (fullscreenBtn) {
-                    headerEl.insertBefore(group, fullscreenBtn);
+                    fullscreenBtn.parentElement.insertBefore(group, fullscreenBtn);
                 } else {
-                    headerEl.appendChild(group);
+                    const toolsContainer = headerEl.querySelector('.flex.items-center.gap-2, .flex.items-center.gap-3, .flex.items-center') || headerEl;
+                    toolsContainer.appendChild(group);
                 }
             } else {
                 const wrapper = document.createElement('div');
