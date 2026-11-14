@@ -1465,7 +1465,12 @@
             ? state.filteredRecords
             : getRecordsForDateRange(state.filteredRecords, state.mapRange);
 
-        const bounds = [];
+        
+        state.mapRecords = mapRecords;
+        if (window.PitangueirasMapShapes && typeof window.PitangueirasMapShapes.filterByRecords === 'function') {
+            window.PitangueirasMapShapes.filterByRecords(state.map, mapRecords);
+        }
+const bounds = [];
         const recordsWithGps = mapRecords.filter(r => r.lat && r.lon && r.lat !== 0);
 
         recordsWithGps.slice(0, 300).forEach(r => {

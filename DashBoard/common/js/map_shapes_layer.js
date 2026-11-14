@@ -351,48 +351,47 @@
                 }
             }
 
-            // Semáforo Agronômico de Qualidade: Verde (Bom), Amarelo (Médio), Vermelho (Ruim)
+            // Semáforo Agronômico de Qualidade Reativo às Metas Reais do Dashboard
             matchedMap.forEach((entry) => {
-                if (entry.depthValues && entry.depthValues.length > 0) {
-                    const sum = entry.depthValues.reduce((a, b) => a + b, 0);
-                    const avg = sum / entry.depthValues.length;
-                    entry.avgProf = avg;
-                    
-                    if (avg >= 45.0 && avg <= 55.0) {
-                        entry.semaforo = {
-                            status: 'BOM',
-                            label: 'Bom (45 a 55 cm)',
-                            color: '#10b981',
-                            stroke: '#059669',
-                            badgeBg: '#ecfdf5',
-                            badgeText: '#047857',
-                            icon: '🟢'
-                        };
-                    } else if ((avg >= 40.0 && avg < 45.0) || (avg > 55.0 && avg <= 60.0)) {
-                        entry.semaforo = {
-                            status: 'MEDIO',
-                            label: 'Médio (Atenção)',
-                            color: '#f59e0b',
-                            stroke: '#d97706',
-                            badgeBg: '#fffbeb',
-                            badgeText: '#b45309',
-                            icon: '🟡'
-                        };
-                    } else {
-                        entry.semaforo = {
-                            status: 'RUIM',
-                            label: 'Ruim (Crítico)',
-                            color: '#ef4444',
-                            stroke: '#dc2626',
-                            badgeBg: '#fef2f2',
-                            badgeText: '#b91c1c',
-                            icon: '🔴'
-                        };
-                    }
+                const recs = entry.allRecords && entry.allRecords.length > 0 ? entry.allRecords : (entry.records || []);
+                if (recs.length === 0 && entry.firstRecord) recs.push(entry.firstRecord);
+
+                let countBom = 0;
+                let countMedio = 0;
+                let countRuim = 0;
+
+                recs.forEach(rec => {
+                    const q = this.getRecordQuality(rec);
+                    if (q === 'RUIM') countRuim++;
+                    else if (q === 'MEDIO') countMedio++;
+                    else countBom++;
+                });
+
+                const total = recs.length;
+                if (total > 0 && (countRuim / total) >= 0.5) {
+                    entry.semaforo = {
+                        status: 'RUIM',
+                        label: 'Crítico / Ruim',
+                        color: '#ef4444',
+                        stroke: '#dc2626',
+                        badgeBg: '#fef2f2',
+                        badgeText: '#b91c1c',
+                        icon: '🔴'
+                    };
+                } else if (total > 0 && ((countMedio + countRuim) / total) >= 0.35) {
+                    entry.semaforo = {
+                        status: 'MEDIO',
+                        label: 'Atenção / Médio',
+                        color: '#f59e0b',
+                        stroke: '#d97706',
+                        badgeBg: '#fffbeb',
+                        badgeText: '#b45309',
+                        icon: '🟡'
+                    };
                 } else {
                     entry.semaforo = {
                         status: 'BOM',
-                        label: 'Com Coleta',
+                        label: 'Conforme / Na Meta',
                         color: '#10b981',
                         stroke: '#059669',
                         badgeBg: '#ecfdf5',
@@ -408,9 +407,112 @@
         /**
          * Obtém os registros atualmente ativos e filtrados no dashboard
          */
+        
+        /**
+         * Determina a qualidade técnica de um registro de campo respeitando o motor
+         * e regras do dashboard ativo (Paralelismo, Canteirização, Sulcação, etc.).
+         */
+        getRecordQuality(rec) {
+            if (!rec) return 'BOM';
+
+            // 1. Tenta usar o Engine agronômico ativo da página
+            const activeEngine = window.ParalelismoEngine || window.CanteirizacaoEngine || window.SulcacaoEngine || window.AberturaAsaEngine || window.CobricaoEngine || window.SubsolagemEngine;
+            const targetConfig = (window.state && window.state.targetConfig) || (activeEngine && typeof activeEngine.getTargetConfig === 'function' && activeEngine.getTargetConfig());
+
+            if (activeEngine && typeof activeEngine.classifyDepth === 'function' && targetConfig) {
+                let v = rec.profundidade !== undefined && rec.profundidade !== null ? rec.profundidade : (rec.valor || rec.Medicao || rec.medicao);
+                if (v !== null && v !== undefined && !isNaN(Number(v))) {
+                    const cls = activeEngine.classifyDepth(Number(v), targetConfig);
+                    if (cls) {
+                        if (cls.status === 'DENTRO' || cls.status === 'CONFORME' || cls.color === '#10b981') return 'BOM';
+                        if (cls.status === 'ABAIXO' || cls.status === 'MEDIO' || cls.color === '#f59e0b') return 'MEDIO';
+                        if (cls.status === 'ACIMA' || cls.color === '#a855f7' || cls.color === '#8b5cf6') return 'MEDIO';
+                        if (cls.status === 'RUIM' || cls.status === 'INVÁLIDO' || cls.color === '#ef4444') return 'RUIM';
+                    }
+                }
+            }
+
+            // 2. Indicadores explícitos de problema / NOK
+            if (rec.isNok || rec.temNok || rec.hasNok || rec.temProblema) return 'RUIM';
+            if (rec.statusConformidade === 'NOK' || rec.conformidade === 'NOK') return 'RUIM';
+            if (rec.statusConformidade === 'OK' || rec.conformidade === 'OK') return 'BOM';
+
+            // 3. Fallback agronômico subsolagem específica (quando operando de 30 a 70 cm)
+            let pVal = rec.profundidade !== undefined ? rec.profundidade : rec.Subsolagem;
+            if (pVal !== undefined && pVal !== null && !isNaN(Number(pVal))) {
+                const num = Number(pVal);
+                if (num >= 30 && num <= 70) {
+                    if (num >= 45 && num <= 55) return 'BOM';
+                    if ((num >= 40 && num < 45) || (num > 55 && num <= 60)) return 'MEDIO';
+                    return 'RUIM';
+                }
+            }
+
+            return 'BOM';
+        },
+
+        filterRecordsByDays(records, days) {
+            if (!Array.isArray(records) || records.length === 0 || !days) return records;
+            let maxTs = 0;
+            for (let i = 0; i < records.length; i++) {
+                const r = records[i];
+                let ts = null;
+                const dStr = r.dataIso || r.Data || r.data || r.DataLancamento || r.dataLancamento || r.dataStr;
+                if (dStr) {
+                    if (typeof dStr === 'number') ts = dStr;
+                    else if (dStr.includes('/')) {
+                        const parts = dStr.split(' ')[0].split('/');
+                        if (parts.length === 3) ts = new Date(parts[2], parts[1] - 1, parts[0]).getTime();
+                    } else {
+                        const parsed = Date.parse(dStr);
+                        if (!isNaN(parsed)) ts = parsed;
+                    }
+                }
+                if (ts && ts > maxTs) maxTs = ts;
+            }
+            if (maxTs <= 0) return records;
+            const minTs = maxTs - (days * 86400000);
+            return records.filter(r => {
+                let ts = null;
+                const dStr = r.dataIso || r.Data || r.data || r.DataLancamento || r.dataLancamento || r.dataStr;
+                if (dStr) {
+                    if (typeof dStr === 'number') ts = dStr;
+                    else if (dStr.includes('/')) {
+                        const parts = dStr.split(' ')[0].split('/');
+                        if (parts.length === 3) ts = new Date(parts[2], parts[1] - 1, parts[0]).getTime();
+                    } else {
+                        const parsed = Date.parse(dStr);
+                        if (!isNaN(parsed)) ts = parsed;
+                    }
+                }
+                return ts && ts >= minTs && ts <= maxTs;
+            });
+        },
+
         getDashboardRecords() {
             const st = window.state || window.dashboardState;
             if (st) {
+                // REGRA CRÍTICA: Se o mapa estiver em modo autônomo (não sincronizado com filtro global),
+                // os talhões DEVEM obedecer estritamente ao período do mapa (7D, 15D, etc.)
+                if (st.mapSyncWithGlobal === false && st.mapRange) {
+                    const baseRecs = Array.isArray(st.filteredRecords) && st.filteredRecords.length > 0
+                                   ? st.filteredRecords
+                                   : (st.allRecords || []);
+                    if (st.mapRange !== 'ALL') {
+                        if (typeof window.getRecordsForDateRange === 'function') {
+                            return window.getRecordsForDateRange(baseRecs, st.mapRange);
+                        }
+                        const days = st.mapRange === '7D' ? 7 : (st.mapRange === '15D' ? 15 : 30);
+                        return this.filterRecordsByDays(baseRecs, days);
+                    }
+                    return baseRecs;
+                }
+
+                // Se houver registros específicos filtrados e plotados no mapa
+                if (Array.isArray(st.mapRecords) && st.mapRecords.length > 0) {
+                    return st.mapRecords;
+                }
+
                 if (Array.isArray(st.filteredRecords) && st.filteredRecords.length > 0) {
                     return st.filteredRecords;
                 }
@@ -425,7 +527,7 @@
             // Fallback para datasets globais conhecidos
             const globals = [
                 'COBRICAO_DATA', 'ABERTURA_ASA_RAW_DATA', 'SUBSOLAGEM_DATA',
-                'PARALELISMO_DATA', 'CANTEIRIZACAO_DATA', 'QUALIDADE_CANA_DATA',
+                'PARALELISMO_DATA', 'PARALELISMO_RAW_DATA', 'CANTEIRIZACAO_DATA', 'QUALIDADE_CANA_DATA',
                 'DOSAGEM_SULCO_DATA', 'DOSAGEM_COBRICAO_DATA', 'HERBICIDA_DATA',
                 'BROCA_ARMADILHA_DATA', 'QUALIDADE_MUDA_DATA', 'AREA_VIVENCIA_DATA',
                 'CHECKLIST_VEICULAR_DATA', 'ARREMATE_ACABAMENTO_DATA',
@@ -748,6 +850,7 @@
             this.ensureDataMarkersVisible(map);
 
             // Cria o controle flutuante no mapa
+            this.initMapControlsListener();
             this.createMapControl(map);
 
             // O mapa inicia com os talhões ativados por padrão
@@ -779,6 +882,27 @@
                     }
                 } catch (e) {
                     console.warn('[MapShapes] Pré-aquecimento em segundo plano:', e);
+                }
+            });
+        },
+
+        
+        // Listener universal reativo aos botões de período do mapa em qualquer dashboard
+        initMapControlsListener() {
+            if (this._controlsListenerAttached) return;
+            this._controlsListenerAttached = true;
+            const self = this;
+            document.addEventListener('click', (e) => {
+                const btn = e.target.closest('.btn-map-filter, #btnToggleMapSyncFilter, [data-map-range]');
+                if (btn) {
+                    setTimeout(() => {
+                        if (self.activeLayers) {
+                            self.activeLayers.forEach((layer, map) => {
+                                self.lastRecordsCache.delete(map);
+                                self.syncWithDashboard(map);
+                            });
+                        }
+                    }, 120);
                 }
             });
         },

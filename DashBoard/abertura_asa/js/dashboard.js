@@ -799,7 +799,12 @@
             ? state.filteredRecords
             : getRecordsForDateRange(state.filteredRecords, state.mapRange);
 
-        const validCoords = mapRecords.filter(r => r.hasValidCoords);
+        
+        state.mapRecords = mapRecords;
+        if (window.PitangueirasMapShapes && typeof window.PitangueirasMapShapes.filterByRecords === 'function') {
+            window.PitangueirasMapShapes.filterByRecords(state.map, mapRecords);
+        }
+const validCoords = mapRecords.filter(r => r.hasValidCoords);
         setElText('mapPointsCount', `${validCoords.length} pontos plotados`);
 
         if (validCoords.length === 0) return;

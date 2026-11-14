@@ -1193,7 +1193,12 @@
         const mapRecords = state.mapSyncWithGlobal
             ? state.filteredRecords
             : getRecordsForDateRange(state.filteredRecords, state.mapRange);
-        const records = mapRecords;
+        
+        state.mapRecords = mapRecords;
+        if (window.PitangueirasMapShapes && typeof window.PitangueirasMapShapes.filterByRecords === 'function') {
+            window.PitangueirasMapShapes.filterByRecords(state.map, mapRecords);
+        }
+const records = mapRecords;
         const maxPoints = Math.min(records.length, 1200);
 
         for (let i = 0; i < maxPoints; i++) {

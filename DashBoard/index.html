@@ -3528,36 +3528,6 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                 sessionStorage.setItem(sessionBaseKey, JSON.stringify(baseCounts));
             } catch(e) {}
         }
-                    }
-                }
-                if (!rep) rep = form;
-                const slug = getReportSlug(form.folder);
-                const userSeen = seen[slug];
-
-                let isUpdated = false;
-                if (userSeen) {
-                    const currentRows = Number(rep.rows) || 0;
-                    const seenRows = Number(userSeen.rows) || 0;
-                    const currentDate = String(rep.latest_date || '');
-                    const seenDate = String(userSeen.date || '');
-                    if (currentRows > seenRows || (currentDate && currentDate !== seenDate)) {
-                        isUpdated = true;
-                    }
-                } else {
-                    // Usuário ainda não clicou: relatórios com dados de novembro/2026 (ex: Área de Vivência e Checklist Veicular)
-                    const dateStr = String(rep.latest_date || form.latest_date || '');
-                    if (dateStr.includes('03/11/2026') || dateStr.includes('04/11/2026') || slug === 'area_vivencia' || slug === 'checklist_veicular') {
-                        isUpdated = true;
-                    }
-                }
-
-                if (isUpdated) {
-                    addCometToReport(slug, form.folder, idx);
-                } else {
-                    removeCometFromReport(slug, form.folder);
-                }
-            });
-        }
 
         // Revalidação imediata ao desbloquear o celular ou alternar abas
         document.addEventListener('visibilitychange', () => {

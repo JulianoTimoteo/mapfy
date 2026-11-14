@@ -331,7 +331,12 @@
         const mapRecords = state.mapSyncWithGlobal
             ? state.filteredRecords
             : getRecordsForDateRange(state.filteredRecords, state.mapRange);
-        if (!state.map || !state.markersLayer) return;
+        
+        state.mapRecords = mapRecords;
+        if (window.PitangueirasMapShapes && typeof window.PitangueirasMapShapes.filterByRecords === 'function') {
+            window.PitangueirasMapShapes.filterByRecords(state.map, mapRecords);
+        }
+if (!state.map || !state.markersLayer) return;
         state.markersLayer.clearLayers();
 
         // Atualizar contadores nos botões de modo

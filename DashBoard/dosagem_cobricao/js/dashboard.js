@@ -539,7 +539,12 @@
             btnMapSync.addEventListener('click', () => {
                 state.mapSyncWithGlobal = !state.mapSyncWithGlobal;
                 updateMapControlsUI();
-                (() => { const mapRecords = state.mapSyncWithGlobal ? state.filteredData : getRecordsForDateRange(state.filteredData, state.mapRange); updateMap(mapRecords); })();
+                (() => { const mapRecords = state.mapSyncWithGlobal ? state.filteredData : getRecordsForDateRange(state.filteredData, state.mapRange); 
+        state.mapRecords = mapRecords;
+        if (window.PitangueirasMapShapes && typeof window.PitangueirasMapShapes.filterByRecords === 'function') {
+            window.PitangueirasMapShapes.filterByRecords(state.map, mapRecords);
+        }
+updateMap(mapRecords); })();
             });
         }
 

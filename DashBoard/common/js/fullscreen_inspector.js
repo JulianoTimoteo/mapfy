@@ -434,10 +434,8 @@
         });
 
         if (toolsContainer) {
-            toolsContainer.appendChild(filterGroup);
             toolsContainer.appendChild(btn);
         } else if (headerEl) {
-            headerEl.appendChild(filterGroup);
             headerEl.appendChild(btn);
         } else {
             const wrapper = document.createElement('div');
