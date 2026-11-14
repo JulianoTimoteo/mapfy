@@ -29,9 +29,16 @@
 }
 
 /* Previne sobreposição do controle de Talhões com a barra de topo em tela cheia */
-.map-fullscreen-active .leaflet-top.leaflet-right {
-    top: 66px !important;
+/* Previne qualquer sobreposição do controle de Talhões com a barra de topo em tela cheia */
+.map-fullscreen-active .leaflet-top.leaflet-right,
+.map-fullscreen-active .leaflet-control-container .leaflet-top.leaflet-right {
+    top: 76px !important;
+    right: 14px !important;
     transition: top 0.25s ease;
+}
+
+.map-fullscreen-active .leaflet-control-talhoes-container {
+    margin-top: 0 !important;
 }
 
 /* Overlay & Skeleton de Processamento do Filtro de Dias no Mapa */
@@ -113,12 +120,12 @@
     top: 14px;
     left: 14px;
     right: 14px;
-    z-index: 1000;
+    z-index: 2500 !important;
     display: flex;
     align-items: center;
     justify-content: space-between;
     pointer-events: none;
-    gap: 10px;
+    gap: 12px;
 }
 
 .map-fullscreen-topbar > * {

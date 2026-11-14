@@ -29,7 +29,7 @@
                         ctx.save();
                         ctx.font = 'bold 11px Inter, sans-serif';
 
-                        if (chartType === 'pie') { // Em Doughnut, valores ficam no centro e não abaixo na fatia
+                        if (chartType === 'pie' || chartType === 'doughnut') {
                             const pos = element.tooltipPosition ? element.tooltipPosition() : null;
                             if (pos) {
                                 ctx.fillStyle = '#FFFFFF';
@@ -661,7 +661,7 @@
         const qa = window.ViabilidadeGemasEngine.calculateDataQualitySummary(state.filteredRecords);
 
         renderKPICards(m, qa);
-        renderDonutChart(chartMetrics);
+        renderDonutChart(m);
         updateEvolutionChart();
         updateFrentesChart();
         updateHistogramChart();

@@ -315,77 +315,78 @@
         }
 
         /* =========================================================================
-           EFEITO COMETA VERDE DE ATUALIZAÇÃO (DELICADO E SUAVE AO REDOR DA BORDA)
-           ========================================================================= */
-        .node-comet-orbit {
-            position: absolute;
-            inset: -4px;
-            width: calc(100% + 8px);
-            height: calc(100% + 8px);
-            border-radius: inherit;
-            pointer-events: none;
-            z-index: 35;
-            overflow: visible;
-        }
+   EFEITO TRON LED DE ATUALIZAÇÃO (FEIXE CIBERNÉTICO CONTÍNUO E ELEGANTE)
+   Usina Pitangueiras • Safra 2026
+   ========================================================================= */
+.node-comet-orbit {
+    position: absolute;
+    inset: -3px;
+    width: calc(100% + 6px);
+    height: calc(100% + 6px);
+    border-radius: inherit;
+    pointer-events: none;
+    z-index: 35;
+    overflow: visible;
+}
 
-        .comet-svg {
-            width: 100%;
-            height: 100%;
-            overflow: visible;
-        }
+.comet-svg {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
 
-        .comet-track {
-            fill: none;
-            stroke: rgba(16, 185, 129, 0.20);
-            stroke-width: 1.5px;
-        }
+.comet-track {
+    fill: none;
+    stroke: rgba(16, 185, 129, 0.12);
+    stroke-width: 1.5px;
+}
 
-        /* Rastro suave e delicado estendendo-se atrás da bolinha */
-        .comet-tail {
-            fill: none;
-            stroke: #10b981;
-            stroke-width: 2.5px;
-            stroke-linecap: round;
-            stroke-dasharray: 8 92;
-            stroke-dashoffset: 0;
-            opacity: 0.65;
-            filter: drop-shadow(0 0 3px #10b981);
-            animation: cometOrbitSpin 2.6s linear infinite;
-        }
+/* Feixe Laser Neon Estilo Tron (Linha contínua, nítida e futurista) */
+.tron-trail {
+    fill: none;
+    stroke: #10b981;
+    stroke-width: 2.2px;
+    stroke-linecap: round;
+    stroke-dasharray: 26 74;
+    stroke-dashoffset: 0;
+    opacity: 0.90;
+    filter: drop-shadow(0 0 6px #10b981) drop-shadow(0 0 10px rgba(16, 185, 129, 0.45));
+    animation: tronLaserSpin 2.0s linear infinite;
+}
 
-        /* Bolinha verde cometa (cabeça brilhante e viva contornando a borda) */
-        .comet-head {
-            fill: none;
-            stroke: #22c55e;
-            stroke-width: 5.5px;
-            stroke-linecap: round;
-            stroke-dasharray: 0.5 99.5;
-            stroke-dashoffset: 0;
-            filter: drop-shadow(0 0 6px #22c55e) drop-shadow(0 0 2px #bbf7d0);
-            animation: cometOrbitSpin 2.6s linear infinite;
-        }
+/* Núcleo Central de Alta Intensidade (LED Branco puro no meio do feixe) */
+.tron-core {
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 1.3px;
+    stroke-linecap: round;
+    stroke-dasharray: 8 92;
+    stroke-dashoffset: 0;
+    filter: drop-shadow(0 0 3px #ffffff);
+    animation: tronLaserSpin 2.0s linear infinite;
+}
 
-        @keyframes cometOrbitSpin {
-            from {
-                stroke-dashoffset: 0;
-            }
-            to {
-                stroke-dashoffset: -100;
-            }
-        }
+@keyframes tronLaserSpin {
+    from {
+        stroke-dashoffset: 0;
+    }
+    to {
+        stroke-dashoffset: -100;
+    }
+}
 
-        /* Destaque suave no card atualizado */
-        .mandala-node.has-comet-update .node-disc,
-        .grid-item.has-comet-update {
-            border-color: rgba(16, 185, 129, 0.90) !important;
-            box-shadow: 0 0 18px rgba(16, 185, 129, 0.35) !important;
-        }
+/* Destaque suave no card atualizado */
+.mandala-node.has-comet-update .node-disc,
+.grid-item.has-comet-update {
+    border-color: rgba(16, 185, 129, 0.95) !important;
+    box-shadow: 0 0 20px rgba(16, 185, 129, 0.40) !important;
+}
 
-        .mandala-node.has-comet-update .badge-index {
-            background: rgba(16, 185, 129, 0.25) !important;
-            color: #10b981 !important;
-            border-color: rgba(16, 185, 129, 0.50) !important;
-        }
+.mandala-node.has-comet-update .badge-index {
+    background: rgba(16, 185, 129, 0.25) !important;
+    border-color: #10b981 !important;
+    color: #10b981 !important;
+}
 
         /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
         .aerial-backdrop-container {
@@ -531,7 +532,64 @@
             }
         }
 
-    </style>
+    
+/* Semiótica Estrita de Cores da Mandala:
+   - Verde (#10b981): Padrão / Não Visitado (Sem animação)
+   - Azul (#0284c7): Visitados
+   - Laranja (#f97316): Recente Visitado (Último clicado na sessão)
+*/
+.mandala-node .node-disc {
+    border: 2px solid #10b981;
+    transition: all 0.25s ease;
+}
+.mandala-node .badge-index {
+    background: #ecfdf5;
+    border: 1px solid #a7f3d0;
+    color: #059669;
+}
+html.dark .mandala-node .badge-index {
+    background: #064e3b;
+    border-color: #047857;
+    color: #34d399;
+}
+
+/* Visitados: Azul */
+.mandala-node.is-visited .node-disc,
+.grid-item.is-visited,
+.exec-card.is-visited {
+    border-color: #0284c7 !important;
+    box-shadow: 0 0 14px rgba(2, 132, 199, 0.28) !important;
+}
+.mandala-node.is-visited .badge-index {
+    background: #e0f2fe !important;
+    border-color: #7dd3fc !important;
+    color: #0284c7 !important;
+}
+html.dark .mandala-node.is-visited .badge-index {
+    background: #082f49 !important;
+    border-color: #0369a1 !important;
+    color: #38bdf8 !important;
+}
+
+/* Recente Visitado: Laranja (Apenas o último visitado) */
+.mandala-node.is-recent-visited .node-disc,
+.grid-item.is-recent-visited,
+.exec-card.is-recent-visited {
+    border-color: #f97316 !important;
+    box-shadow: 0 0 18px rgba(249, 115, 22, 0.38) !important;
+}
+.mandala-node.is-recent-visited .badge-index {
+    background: #fff7ed !important;
+    border-color: #fdba74 !important;
+    color: #ea580c !important;
+}
+html.dark .mandala-node.is-recent-visited .badge-index {
+    background: #431407 !important;
+    border-color: #9a3412 !important;
+    color: #fb923c !important;
+}
+
+</style>
 </head>
 <body class="min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white relative">
 
@@ -856,7 +914,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 64.00%; top: 13.87%; animation-delay: 0.28s;"
              data-index="1"
              data-name="Plantio - 03.1 - Preparo de Solo - Canteirização"
@@ -896,7 +954,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 76.11%; top: 21.36%; animation-delay: 0.56s;"
              data-index="2"
              data-name="Plantio - 05 - Sulcação"
@@ -940,7 +998,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 84.69%; top: 32.73%; animation-delay: 0.84s;"
              data-index="3"
              data-name="Plantio - 04 - Dosagem de Produto - Sulcação"
@@ -1072,7 +1130,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 80.92%; top: 73.35%; animation-delay: 1.68s;"
              data-index="6"
              data-name="Plantio - 08 - Qualidade da muda"
@@ -1112,7 +1170,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 70.40%; top: 82.95%; animation-delay: 1.96s;"
              data-index="7"
              data-name="Plantio - 09 - Quantidade de Gemas"
@@ -1154,7 +1212,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 57.12%; top: 88.09%; animation-delay: 2.24s;"
              data-index="8"
              data-name="Plantio - 10 - Quantidade de Cana"
@@ -1195,7 +1253,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 42.88%; top: 88.09%; animation-delay: 2.52s;"
              data-index="9"
              data-name="Plantio - 11 - Dosagem de Produto - Cobrição"
@@ -1242,7 +1300,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 29.60%; top: 82.95%; animation-delay: 2.80s;"
              data-index="10"
              data-name="Plantio - 12 - Cobrição"
@@ -1281,7 +1339,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 19.08%; top: 73.35%; animation-delay: 3.08s;"
              data-index="11"
              data-name="Plantio - 13 - Arremate e Acabamento"
@@ -1409,7 +1467,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 15.31%; top: 32.73%; animation-delay: 3.92s;"
              data-index="14"
              data-name="CHECK LIST VEICULAR"
@@ -1461,7 +1519,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 23.89%; top: 21.36%; animation-delay: 4.20s;"
              data-index="15"
              data-name="Check-list área de vivência _ Colheita"
@@ -1495,7 +1553,7 @@
             </div>
         </div>
         
-        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center is-recent"
+        <div class="mandala-node group absolute -translate-x-1/2 -translate-y-1/2 cursor-pointer z-20 flex flex-col items-center"
              style="left: 36.00%; top: 13.87%; animation-delay: 4.48s;"
              data-index="16"
              data-name="5S e Gestão - TPL"
@@ -2908,15 +2966,29 @@
             });
         }
 
-        // --- GERENCIAMENTO DE RELATÓRIOS VISITADOS (PERSISTÊNCIA) ---
+        // --- GERENCIAMENTO DE RELATÓRIOS VISITADOS (SESSÃO E F5 RESET) ---
+        // Se a página foi recarregada (F5), limpa histórico da sessão para restaurar todos para Verde Padrão
+        (function checkF5Reload() {
+            try {
+                const nav = performance.getEntriesByType('navigation');
+                const isReload = (nav && nav.length > 0 && nav[0].type === 'reload') || (window.performance && window.performance.navigation && window.performance.navigation.type === 1);
+                if (isReload) {
+                    sessionStorage.removeItem('pitangueiras_visited_modules');
+                    sessionStorage.removeItem('pitangueiras_last_visited');
+                    localStorage.removeItem('pitangueiras_visited_modules');
+                    localStorage.removeItem('pitangueiras_last_visited');
+                }
+            } catch (e) {}
+        })();
+
         function markAsVisited(folder) {
             if (!folder) return;
             try {
-                let visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
+                let visited = JSON.parse(sessionStorage.getItem('pitangueiras_visited_modules') || '[]');
                 visited = visited.filter(f => f !== folder);
                 visited.push(folder);
-                localStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
-                localStorage.setItem('pitangueiras_last_visited', folder);
+                sessionStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
+                sessionStorage.setItem('pitangueiras_last_visited', folder);
                 applyVisitedStates();
             } catch (e) {
                 console.warn('Erro ao salvar visita:', e);
@@ -2925,8 +2997,8 @@
 
         function applyVisitedStates() {
             try {
-                const visited = JSON.parse(localStorage.getItem('pitangueiras_visited_modules') || '[]');
-                const lastVisited = localStorage.getItem('pitangueiras_last_visited');
+                const visited = JSON.parse(sessionStorage.getItem('pitangueiras_visited_modules') || '[]');
+                const lastVisited = sessionStorage.getItem('pitangueiras_last_visited');
                 
                 document.querySelectorAll('.mandala-node, .grid-item, .exec-card').forEach(el => {
                     const f = el.getAttribute('data-folder');
@@ -2948,6 +3020,8 @@
         }
 
         function clearVisitedHistory() {
+            sessionStorage.removeItem('pitangueiras_visited_modules');
+            sessionStorage.removeItem('pitangueiras_last_visited');
             localStorage.removeItem('pitangueiras_visited_modules');
             localStorage.removeItem('pitangueiras_last_visited');
             applyVisitedStates();
@@ -3359,8 +3433,8 @@
                     cometEl.innerHTML = `
                         <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
                             <rect class="comet-track" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="22" ry="22" />
-                            <rect class="comet-tail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="22" ry="22" />
-                            <rect class="comet-head" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="22" ry="22" />
+                            <rect class="tron-trail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="20" ry="20" />
+                            <rect class="tron-core" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="20" ry="20" />
                         </svg>
                     `;
                     disc.appendChild(cometEl);
@@ -3378,8 +3452,8 @@
                     cometEl.innerHTML = `
                         <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
                             <rect class="comet-track" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
-                            <rect class="comet-tail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
-                            <rect class="comet-head" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
+                            <rect class="tron-trail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="20" ry="20" />
+                            <rect class="tron-core" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="20" ry="20" />
                         </svg>
                     `;
                     gridItem.appendChild(cometEl);
@@ -3412,7 +3486,12 @@
         }
 
         function checkReportsForCometUpdates(reportsMap) {
-            const seen = getSeenReports();
+            // Regra estrita: ZERO falsos positivos. Se não há dados novos incrementais na sessão, nada fica rodando!
+            const sessionBaseKey = 'pitangueiras_session_base_counts';
+            let baseCounts = {};
+            try {
+                baseCounts = JSON.parse(sessionStorage.getItem(sessionBaseKey) || '{}');
+            } catch(e) {}
 
             formsData.forEach((form, idx) => {
                 let rep = null;
@@ -3423,6 +3502,32 @@
                             rep = r;
                             break;
                         }
+                    }
+                }
+                if (!rep) rep = form;
+                const slug = getReportSlug(form.folder);
+                const currentRows = Number(rep.rows) || 0;
+
+                // Registra o baseline inicial da sessão
+                if (baseCounts[slug] === undefined && currentRows > 0) {
+                    baseCounts[slug] = currentRows;
+                }
+
+                const baseRows = baseCounts[slug] || currentRows;
+                // Animação Tron SÓ ativa se a contagem atual for maior que a base da sessão (dados novos reais)
+                const isUpdated = currentRows > baseRows;
+
+                if (isUpdated) {
+                    addCometToReport(slug, form.folder, idx);
+                } else {
+                    removeCometFromReport(slug, form.folder);
+                }
+            });
+
+            try {
+                sessionStorage.setItem(sessionBaseKey, JSON.stringify(baseCounts));
+            } catch(e) {}
+        }
                     }
                 }
                 if (!rep) rep = form;

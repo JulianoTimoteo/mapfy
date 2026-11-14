@@ -92,12 +92,12 @@
                 const pluginsList = chart.config?.plugins || [];
                 const hasCustomCenter = pluginsList.some(p => p && (p.id === 'centerText' || p.id === 'donutCenterText' || (typeof p.id === 'string' && p.id.toLowerCase().includes('center'))));
                 if (hasCustomCenter || chart.options?.plugins?.centerTotal === false || chart.options?.centerTotal === false) return;
-                if (chart._centerTotalDrawn) return;
+                // _centerTotalDrawn check removed
 
                 const parent = chart.canvas ? chart.canvas.parentElement : null;
                 const hasHtmlCenter = parent && parent.querySelector('#donutCenterPerc, [id*="CenterPerc"], [id*="centerPerc"], [id*="donutCenter"]');
                 if (!hasHtmlCenter && chart.chartArea) {
-                    chart._centerTotalDrawn = true;
+                    // _centerTotalDrawn flag removed
                     let totalSum = 0;
                     chart.data.datasets.forEach(ds => {
                         if (Array.isArray(ds.data)) {

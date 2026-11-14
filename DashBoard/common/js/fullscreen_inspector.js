@@ -459,6 +459,12 @@
             // REGRA: Todos os itens do mapa devem aparecer separados (NENHUM agrupado)
             setMapClustering(false);
 
+            const leafletTopRight = card.querySelector('.leaflet-top.leaflet-right');
+            if (leafletTopRight) {
+                leafletTopRight.style.setProperty('top', '76px', 'important');
+                leafletTopRight.style.setProperty('right', '14px', 'important');
+            }
+
             let topbar = card.querySelector('.map-fullscreen-topbar');
             if (!topbar) {
                 topbar = document.createElement('div');
@@ -513,18 +519,17 @@
             // Restaura clusters ao sair da tela cheia se existiam originalmente
             setMapClustering(true);
 
+            const leafletTopRight = card.querySelector('.leaflet-top.leaflet-right');
+            if (leafletTopRight) {
+                leafletTopRight.style.removeProperty('top');
+                leafletTopRight.style.removeProperty('right');
+            }
+
             const topbar = card.querySelector('.map-fullscreen-topbar');
             if (topbar) topbar.remove();
 
             const btn = card.querySelector('.btn-map-fullscreen');
             if (btn) {
-                btn.innerHTML = `${ICONS.expand}`;
-                btn.title = 'Visualizar Mapa em Tela Cheia';
-            }
-
-            invalidateLeafletMap(mapEl);
-        }
-    }
                 btn.innerHTML = `${ICONS.expand}`;
                 btn.title = 'Visualizar Mapa em Tela Cheia';
             }
@@ -809,11 +814,11 @@
                 const defaultTextColor = isDark ? '#F1F5F9' : '#1E293B';
                 const chartArea = chart.chartArea || { top: 0, bottom: chart.height, left: 0, right: chart.width };
 
-                // 1. Rótulos Numéricos nas Fatias (Apenas se o gráfico NÃO possuir plugin datalabels ativo)
+                // 1. Rótulos Numéricos nas Fatias (Garante valores visíveis em todas as fatias de Rosca e Pizza)
                 const hasDatalabels = (chart.options?.plugins?.datalabels && chart.options.plugins.datalabels.display !== false);
                 const hasGlobalPlugin = (window.ChartDataLabels && chart.options?.plugins?.datalabels?.display !== false);
 
-                if (chartType === 'pie' && !hasDatalabels && !hasGlobalPlugin) { // Em Doughnut, valores ficam no centro e não abaixo na fatia
+                if ((chartType === 'doughnut' || chartType === 'pie') && !hasDatalabels && !hasGlobalPlugin) {
                     chart.data.datasets.forEach((dataset, datasetIdx) => {
                         const meta = chart.getDatasetMeta(datasetIdx);
                         if (!meta || meta.hidden) return;
@@ -831,9 +836,11 @@
                             const endAngle = element.endAngle;
                             const angleSpan = endAngle - startAngle;
 
-                            if (angleSpan >= 0.18) {
+                            if (angleSpan >= 0.12) {
                                 const midAngle = (startAngle + endAngle) / 2;
-                                const midRadius = (element.innerRadius + element.outerRadius) / 2;
+                                const innerR = element.innerRadius || (element.outerRadius * 0.55);
+                                const outerR = element.outerRadius;
+                                const midRadius = (innerR + outerR) / 2;
                                 const x = element.x + Math.cos(midAngle) * midRadius;
                                 const y = element.y + Math.sin(midAngle) * midRadius;
 
@@ -859,7 +866,7 @@
                     if (chart.options?.plugins?.centerTotal === false || chart.options?.centerTotal === false) return;
 
                     // Prevenção contra dupla execução por múltiplos plugins no mesmo ciclo
-                    if (chart._centerTotalDrawn) return;
+                    // _centerTotalDrawn check removed
 
                     let totalSum = 0;
                     chart.data.datasets.forEach(ds => {
@@ -884,7 +891,7 @@
                         const extraBadge = htmlCenter.querySelector('.donut-center-total-sum');
                         if (extraBadge) extraBadge.remove();
                     } else if (chart.chartArea && totalSum > 0) {
-                        chart._centerTotalDrawn = true;
+                        // _centerTotalDrawn flag removed
                         const centerX = (chart.chartArea.left + chart.chartArea.right) / 2;
                         const centerY = (chart.chartArea.top + chart.chartArea.bottom) / 2;
                         const meta = chart.getDatasetMeta(0);
