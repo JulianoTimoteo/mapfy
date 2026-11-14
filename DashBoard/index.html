@@ -179,14 +179,28 @@
         }
         .mandala-node:hover {
             animation-play-state: paused !important;
-            transform: translate(-50%, -50%) scale(1.15) !important;
+            transform: translate(-50%, -50%) scale(1.10) !important;
             z-index: 50 !important;
         }
         #centerHud {
             animation: centerBeacon 4.2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+            --ch-w: 128px;
+            --ch-h: 128px;
+            width: var(--ch-w);
+            height: var(--ch-h);
         }
+        @media (min-width: 640px) { #centerHud { --ch-w: 176px; --ch-h: 176px; } }
+        @media (min-width: 768px) { #centerHud { --ch-w: 224px; --ch-h: 224px; } }
+        @media (min-width: 1024px) { #centerHud { --ch-w: 256px; --ch-h: 256px; } }
         #centerHud:hover {
-            transform: scale(1.025);
+            transform: scale(1.06);
+            border-color: #10b981;
+        }
+        /* Expansão do círculo central ao focar um relatório (passe o mouse nos nós) */
+        .mandala-container.has-focus #centerHud {
+            width: calc(var(--ch-w) + 20px);
+            height: calc(var(--ch-h) + 20px);
+            transform: scale(1.06);
             border-color: #10b981;
         }
         /* --- ANIMAÇÃO DE ABERTURA SUAVE DA MANDALA --- */
@@ -2757,14 +2771,25 @@
             let dateStr = '';
             let details = '';
 
+            const brRe = /^\d{2}\/\d{2}\/\d{4}/;
+            const isoRe = /^\d{4}-\d{2}-\d{2}/;
+            const isDate = (s) => brRe.test(s) || isoRe.test(s);
+
+            const pickDate = (candidates) => {
+                for (const c of candidates) {
+                    if (c && isDate(c)) return c;
+                }
+                return '';
+            };
+
             if (parts.length >= 3) {
-                // Formato padrão MapFy: ID, EMAIL, DATA
+                // Formato MapFy: ID, EMAIL, DATA  (DATA pode estar em qualquer posição)
                 const id = parts[0];
                 const email = parts[1].replace(/@.*/, '');
-                dateStr = parts[2];
+                dateStr = pickDate(parts) || parts[2];
                 details = `Op: ${email} • Reg #${id}`;
             } else if (parts.length === 2) {
-                dateStr = parts[1];
+                dateStr = pickDate(parts) || parts[1];
                 details = parts[0].replace(/@.*/, '');
             } else {
                 dateStr = parts[0];
@@ -3207,7 +3232,12 @@
 
                 if (found && typeof found.rows === 'number') {
                     form.rows = found.rows;
-                    if (found.latest_date) form.latest_date = found.latest_date;
+                    const lv = String(found.latest_date || '');
+                    const brRe = /^\d{2}\/\d{2}\/\d{4}/;
+                    const isoRe = /^\d{4}-\d{2}-\d{2}/;
+                    if (lv && (brRe.test(lv) || isoRe.test(lv))) {
+                        form.latest_date = found.latest_date;
+                    }
 
                     // Atualiza nó na Mandala
                     const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"]`);
