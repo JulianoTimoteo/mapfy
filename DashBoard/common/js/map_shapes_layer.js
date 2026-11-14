@@ -322,18 +322,85 @@
                         matchedMap.set(matchedIdx, {
                             count: 0,
                             records: [],
+                            allRecords: [],
+                            depthValues: [],
                             firstRecord: rec,
                             lastRecord: rec
                         });
                     }
                     const entry = matchedMap.get(matchedIdx);
                     entry.count++;
+                    if (entry.allRecords.length < 100) {
+                        entry.allRecords.push(rec);
+                    }
                     if (entry.records.length < 6) {
                         entry.records.push(rec);
                     }
                     entry.lastRecord = rec;
+
+                    // Extrai medição de profundidade de subsolagem (dados do usuário)
+                    let pVal = null;
+                    if (rec.profundidade !== undefined && rec.profundidade !== null) {
+                        pVal = typeof rec.profundidade === 'number' ? rec.profundidade : parseFloat(String(rec.profundidade).replace(',', '.'));
+                    } else if (rec.Subsolagem !== undefined && rec.Subsolagem !== null) {
+                        pVal = typeof rec.Subsolagem === 'number' ? rec.Subsolagem : parseFloat(String(rec.Subsolagem).replace(',', '.'));
+                    }
+                    if (pVal !== null && !isNaN(pVal) && pVal > 0) {
+                        entry.depthValues.push(pVal);
+                    }
                 }
             }
+
+            // Semáforo Agronômico de Qualidade: Verde (Bom), Amarelo (Médio), Vermelho (Ruim)
+            matchedMap.forEach((entry) => {
+                if (entry.depthValues && entry.depthValues.length > 0) {
+                    const sum = entry.depthValues.reduce((a, b) => a + b, 0);
+                    const avg = sum / entry.depthValues.length;
+                    entry.avgProf = avg;
+                    
+                    if (avg >= 45.0 && avg <= 55.0) {
+                        entry.semaforo = {
+                            status: 'BOM',
+                            label: 'Bom (45 a 55 cm)',
+                            color: '#10b981',
+                            stroke: '#059669',
+                            badgeBg: '#ecfdf5',
+                            badgeText: '#047857',
+                            icon: '🟢'
+                        };
+                    } else if ((avg >= 40.0 && avg < 45.0) || (avg > 55.0 && avg <= 60.0)) {
+                        entry.semaforo = {
+                            status: 'MEDIO',
+                            label: 'Médio (Atenção)',
+                            color: '#f59e0b',
+                            stroke: '#d97706',
+                            badgeBg: '#fffbeb',
+                            badgeText: '#b45309',
+                            icon: '🟡'
+                        };
+                    } else {
+                        entry.semaforo = {
+                            status: 'RUIM',
+                            label: 'Ruim (Crítico)',
+                            color: '#ef4444',
+                            stroke: '#dc2626',
+                            badgeBg: '#fef2f2',
+                            badgeText: '#b91c1c',
+                            icon: '🔴'
+                        };
+                    }
+                } else {
+                    entry.semaforo = {
+                        status: 'BOM',
+                        label: 'Com Coleta',
+                        color: '#10b981',
+                        stroke: '#059669',
+                        badgeBg: '#ecfdf5',
+                        badgeText: '#047857',
+                        icon: '🟢'
+                    };
+                }
+            });
 
             return matchedMap;
         },
@@ -400,8 +467,11 @@
             // Atualiza o estilo de todos os talhões no mapa
             this.updateAllLayersStyle(map);
 
-            // Atualiza o badge do botão flutuante
+            // Atualiza o badge do botão flutuante e contadores da legenda
             this.updateControlBadge(map);
+            if (typeof window.updateMapTalhoesLegend === 'function') {
+                window.updateMapTalhoesLegend();
+            }
         },
 
         /**
@@ -521,23 +591,25 @@
             }
 
             if (isAudited) {
-                // TALHÃO COM COLETA: branco translúcido nítido com contorno claro bem definido, zero verde
+                // TALHÃO COM COLETA: Semáforo dinâmico (Verde Bom, Amarelo Médio, Vermelho Ruim)
+                const auditEntry = auditedMap ? auditedMap.get(featureIndex) : null;
+                const sem = auditEntry && auditEntry.semaforo ? auditEntry.semaforo : { color: '#10b981', stroke: '#059669' };
                 return {
-                    color: 'rgba(255, 255, 255, 0.90)',
-                    weight: weight + 0.35,
-                    opacity: 0.90,
-                    fillColor: '#ffffff',
-                    fillOpacity: 0.16,
+                    color: sem.stroke,
+                    weight: weight + 0.65,
+                    opacity: 0.95,
+                    fillColor: sem.color,
+                    fillOpacity: 0.44,
                     dashArray: null
                 };
             } else {
-                // TALHÃO CADASTRAL: branco quase transparente suave sobre a imagem de satélite
+                // TALHÃO SEM COLETA: Traço fino neutro suave sobre a imagem de satélite
                 return {
-                    color: 'rgba(255, 255, 255, 0.65)',
-                    weight: weight,
-                    opacity: 0.70,
-                    fillColor: '#ffffff',
-                    fillOpacity: 0.11,
+                    color: 'rgba(255, 255, 255, 0.40)',
+                    weight: Math.max(0.65, weight - 0.25),
+                    opacity: 0.50,
+                    fillColor: 'transparent',
+                    fillOpacity: 0.02,
                     dashArray: null
                 };
             }
@@ -1023,6 +1095,9 @@
             const initialRecords = this.getDashboardRecords();
             const matchedMap = this.matchRecordsToShapes(initialRecords);
             this.auditedTalhoesByMap.set(map, matchedMap);
+            if (typeof window.updateMapTalhoesLegend === 'function') {
+                window.updateMapTalhoesLegend();
+            }
 
             let featIdxCounter = 0;
 
@@ -1075,9 +1150,12 @@
                             let extraDetailsHtml = '';
 
                             if (isAudited) {
+                                const sem = auditInfo.semaforo || { label: 'Com Coleta', color: '#10b981', icon: '🟢', badgeBg: '#ecfdf5', badgeText: '#047857' };
+                                const profStr = auditInfo.avgProf ? `• Profundidade: <b>${auditInfo.avgProf.toFixed(1)} cm</b>` : '';
+                                
                                 auditBadgeHtml = `
-                                    <span style="background: #ecfdf5; color: #047857; border: 1px solid #a7f3d0; font-size: 9.5px; font-weight: 800; padding: 1px 6px; border-radius: 9999px;">
-                                        ✓ COM COLETA (${auditInfo.count} ${auditInfo.count === 1 ? 'amostra' : 'amostras'})
+                                    <span style="background: ${sem.badgeBg}; color: ${sem.badgeText}; border: 1px solid ${sem.color}60; font-size: 9.5px; font-weight: 800; padding: 1px 7px; border-radius: 9999px; display: inline-flex; align-items: center; gap: 3px;">
+                                        <span>${sem.icon}</span> <span>${sem.label}</span>
                                     </span>
                                 `;
 
@@ -1087,12 +1165,19 @@
                                 const dataVal = lastRec.data || lastRec.Data || lastRec.data_lancamento || lastRec['Data Lançamento'] || '';
 
                                 extraDetailsHtml = `
-                                    <div style="border-top: 1px dashed #cbd5e1; margin-top: 4px; padding-top: 3px; font-size: 10px; color: #334155;">
+                                    <div style="border-top: 1px dashed #cbd5e1; margin-top: 5px; padding-top: 4px; font-size: 10px; color: #334155;">
                                         <div style="display: flex; justify-content: space-between; gap: 8px;">
+                                            <span>Amostras: <b>${auditInfo.count} coletas</b></span>
+                                            <span style="color: ${sem.color}; font-weight: 800;">${profStr}</span>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; gap: 8px; margin-top: 2px;">
                                             <span>OS: <b>${osVal}</b></span>
                                             <span>${frenteVal ? 'Frente: <b>' + frenteVal.split('-')[0].trim() + '</b>' : ''}</span>
                                         </div>
-                                        ${dataVal ? `<div style="margin-top: 1px; color: #64748b; font-size: 9.5px;">Última coleta: <b>${dataVal}</b></div>` : ''}
+                                        ${dataVal ? `<div style="margin-top: 1px; color: #64748b; font-size: 9.5px;">Última medição: <b>${dataVal}</b></div>` : ''}
+                                        <div style="margin-top: 4px; padding-top: 3px; border-top: 1px solid #e2e8f0; color: #0284c7; font-size: 9px; font-weight: 700; text-align: center;">
+                                            👆 Clique para abrir o Raio-X do Talhão
+                                        </div>
                                     </div>
                                 `;
                             } else {
@@ -1156,7 +1241,15 @@
                                 fillOpacity: 0.38
                             });
 
-                            // Hook de Clique Customizado Agronômico
+                            // Hook de Clique Customizado Agronômico & Raio-X do Talhão
+                            if (typeof window.subsolagemOpenTalhaoModal === 'function' && auditInfo && auditInfo.count > 0) {
+                                window.subsolagemOpenTalhaoModal({
+                                    feature: feature,
+                                    auditInfo: auditInfo,
+                                    layer: l
+                                });
+                            }
+
                             if (typeof self.customFeatureClick === 'function') {
                                 try {
                                     const handled = self.customFeatureClick(feature, l, map, e);

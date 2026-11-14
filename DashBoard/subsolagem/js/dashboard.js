@@ -308,6 +308,7 @@
         setupMobileFilterControls();
         setupTableControls();
         setupRecordModal();
+        setupTalhaoModal();
         setupTargetModal();
         setupSecretTargetEditing();
     }
@@ -1584,6 +1585,11 @@
         if (bounds.length > 0) {
             state.map.fitBounds(bounds, { padding: [30, 30], maxZoom: 14 });
         }
+
+        if (window.MapShapes && typeof window.MapShapes.syncWithDashboard === 'function') {
+            window.MapShapes.syncWithDashboard(state.map);
+        }
+        updateMapTalhoesLegend();
     }
 
     /**
@@ -1717,6 +1723,140 @@
 
         modal.classList.remove('hidden');
     }
+
+    /**
+     * Modal de Detalhamento / Raio-X do Talhão Selecionado no Mapa (Semáforo Agronômico)
+     */
+    function setupTalhaoModal() {
+        const modal = document.getElementById('talhaoModal');
+        const btnClose = document.getElementById('talhaoModalCloseBtn');
+        const btnOk = document.getElementById('talhaoModalOkBtn');
+
+        if (btnClose) btnClose.addEventListener('click', () => modal && modal.classList.add('hidden'));
+        if (btnOk) btnOk.addEventListener('click', () => modal && modal.classList.add('hidden'));
+        if (modal) {
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.classList.add('hidden');
+            });
+        }
+
+        window.subsolagemOpenTalhaoModal = function ({ feature, auditInfo, layer }) {
+            if (!modal || !auditInfo) return;
+
+            const p = (feature && feature.properties) ? feature.properties : {};
+            const titleEl = document.getElementById('talhaoModalTitle');
+            const subTitleEl = document.getElementById('talhaoModalSubtitle');
+            const badgeEl = document.getElementById('talhaoModalBadge');
+            const avgEl = document.getElementById('talhaoModalAvgProf');
+            const countEl = document.getElementById('talhaoModalCount');
+            const tCountEl = document.getElementById('talhaoModalTableCount');
+            const tbody = document.getElementById('talhaoModalTableBody');
+
+            if (titleEl) titleEl.innerText = `Fazenda ${auditInfo.fazenda} • Talhão ${auditInfo.talhao}`;
+            if (subTitleEl) {
+                const areaStr = p.Area ? `${Number(p.Area).toFixed(1)} ha` : '-- ha';
+                const varStr = p.Variedade || '--';
+                const ambStr = p.Ambiente || '--';
+                subTitleEl.innerText = `Área: ${areaStr} • Variedade: ${varStr} • Ambiente: ${ambStr}`;
+            }
+
+            const avgProf = auditInfo.avgProf || 0;
+            const status = auditInfo.status || 'verde';
+
+            if (badgeEl) {
+                if (status === 'verde') {
+                    badgeEl.innerText = '🟢 BOM (Ideal)';
+                    badgeEl.className = 'text-[10px] font-mono font-bold px-2 py-0.5 rounded-full border bg-emerald-500/15 text-emerald-500 border-emerald-500/30';
+                    if (avgEl) avgEl.className = 'text-lg font-black font-mono mt-0.5 text-emerald-500';
+                } else if (status === 'amarelo') {
+                    badgeEl.innerText = '🟡 MÉDIO (Atenção)';
+                    badgeEl.className = 'text-[10px] font-mono font-bold px-2 py-0.5 rounded-full border bg-amber-500/15 text-amber-500 border-amber-500/30';
+                    if (avgEl) avgEl.className = 'text-lg font-black font-mono mt-0.5 text-amber-500';
+                } else {
+                    badgeEl.innerText = '🔴 RUIM (Crítico)';
+                    badgeEl.className = 'text-[10px] font-mono font-bold px-2 py-0.5 rounded-full border bg-rose-500/15 text-rose-500 border-rose-500/30';
+                    if (avgEl) avgEl.className = 'text-lg font-black font-mono mt-0.5 text-rose-500';
+                }
+            }
+
+            if (avgEl) avgEl.innerText = `${avgProf.toFixed(1)} cm`;
+            if (countEl) countEl.innerText = `${auditInfo.count} ${auditInfo.count === 1 ? 'coleta' : 'coletas'}`;
+            if (tCountEl) tCountEl.innerText = `${auditInfo.count} medições registradas`;
+
+            if (tbody) {
+                tbody.innerHTML = '';
+                const recs = auditInfo.records || [];
+                recs.forEach(r => {
+                    const profVal = parseFloat(r.profundidade !== undefined ? r.profundidade : (r.Subsolagem || 0)) || 0;
+                    const tr = document.createElement('tr');
+                    tr.className = 'hover:bg-slate-500/5 transition cursor-pointer';
+                    const profClass = (profVal >= 45 && profVal <= 55)
+                        ? 'text-emerald-500'
+                        : ((profVal >= 40 && profVal <= 60) ? 'text-amber-500' : 'text-rose-500');
+
+                    tr.innerHTML = `
+                        <td class="p-2 font-mono font-bold text-slate-700 dark:text-slate-300">#${r.id || r.ID || '--'}</td>
+                        <td class="p-2">${r.dataHoraBR || r.DataHora || '--'}</td>
+                        <td class="p-2 text-center font-mono font-bold ${profClass}">
+                            ${profVal.toFixed(1)} cm
+                        </td>
+                        <td class="p-2">${r.frente || r.Frente || '--'}</td>
+                        <td class="p-2">${r.os || r.OS || '--'}</td>
+                        <td class="p-2 text-slate-500 dark:text-slate-400">${r.responsavel || r.Responsavel || '--'}</td>
+                    `;
+                    tr.addEventListener('click', () => {
+                        const recId = String(r.id || r.ID || '');
+                        if (recId && window.subsolagemOpenModalById) {
+                            window.subsolagemOpenModalById(recId);
+                        }
+                    });
+                    tbody.appendChild(tr);
+                });
+            }
+
+            modal.classList.remove('hidden');
+
+            if (layer && layer.getBounds && state.map) {
+                try {
+                    state.map.fitBounds(layer.getBounds(), { padding: [50, 50], maxZoom: 16 });
+                } catch(e) {}
+            }
+        };
+    }
+
+    /**
+     * Atualização dos Contadores de Semáforo na Legenda do Mapa
+     */
+    function updateMapTalhoesLegend() {
+        const countBomEl = document.getElementById('mapCountBom');
+        const countMedioEl = document.getElementById('mapCountMedio');
+        const countRuimEl = document.getElementById('mapCountRuim');
+        if (!countBomEl && !countMedioEl && !countRuimEl) return;
+
+        let matchedMap = null;
+        if (state.map && window.MapShapes && window.MapShapes.auditedTalhoesByMap) {
+            matchedMap = window.MapShapes.auditedTalhoesByMap.get(state.map);
+        }
+
+        if (!matchedMap && window.MapShapes && typeof window.MapShapes.matchRecordsToShapes === 'function') {
+            const records = state.filteredRecords || [];
+            matchedMap = window.MapShapes.matchRecordsToShapes(records);
+        }
+
+        let bom = 0, medio = 0, ruim = 0;
+        if (matchedMap) {
+            matchedMap.forEach(info => {
+                if (info.status === 'verde') bom++;
+                else if (info.status === 'amarelo') medio++;
+                else if (info.status === 'vermelho') ruim++;
+            });
+        }
+
+        if (countBomEl) countBomEl.innerText = bom;
+        if (countMedioEl) countMedioEl.innerText = medio;
+        if (countRuimEl) countRuimEl.innerText = ruim;
+    }
+    window.updateMapTalhoesLegend = updateMapTalhoesLegend;
 
     /**
      * Modal de Configuração da Faixa Técnica

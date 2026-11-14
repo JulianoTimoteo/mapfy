@@ -14,9 +14,17 @@
     // 1. Registro e Gerenciamento Ativo do Service Worker
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            const swPath = window.location.pathname.includes('/DashBoard/') && !window.location.pathname.endsWith('/DashBoard/') && !window.location.pathname.endsWith('/index.html')
-                ? '../sw.js'
-                : './sw.js';
+            // Resolução resiliente do Service Worker em subpastas de Dashboards (Zero 404)
+            let swPath = './sw.js';
+            const curPath = window.location.pathname;
+            if (curPath.includes('/DashBoard/')) {
+                const afterDash = curPath.split('/DashBoard/')[1] || '';
+                const parts = afterDash.split('/').filter(Boolean);
+                // Se estiver dentro de subpasta (ex: /DashBoard/subsolagem/ ou /DashBoard/subsolagem/index.html)
+                if (parts.length > 0 && !parts[0].endsWith('.html') && parts[0] !== 'index.html') {
+                    swPath = '../sw.js';
+                }
+            }
 
             navigator.serviceWorker.register(swPath).then((reg) => {
                 // Força busca imediata de novas versões no servidor
