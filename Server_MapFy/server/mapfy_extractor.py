@@ -272,7 +272,10 @@ def find_latest_date_in_csv(filepath: Path) -> str | None:
                 elif is_english_col:
                     mth, d = p1, p2
                 else:
-                    d, mth = p1, p2
+                    # Dados do MapFy estão em formato americano (MM/DD/YYYY).
+                    # Quando ambíguo (ambos ≤ 12), interpreta como MM/DD para não
+                    # inverter o período e gerar start_date > finish_date (count=0).
+                    mth, d = p1, p2
 
                 try:
                     dt = datetime(y, mth, d)
@@ -725,10 +728,30 @@ def extract_form_data(
             # 1. Tentativa de extração direta de alta velocidade via API Mapfy
             try:
                 log.info(f"Tentando extração direta via API Mapfy para '{form_name}' (FormId: {form_id})...")
+                # A API do Mapfy /FormEntry/DownloadCSV espera datas no formato americano MM/DD/YYYY
+                def _fmt_api_date(d_str):
+                    if not d_str: return ""
+                    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})", str(d_str).strip())
+                    if m:
+                        p1, p2, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+                        # Se p1 > 12: p1 é com certeza dia (DD/MM/YYYY) -> converter para MM/DD/YYYY
+                        if p1 > 12:
+                            return f"{p2:02d}/{p1:02d}/{y}"
+                        # Se p2 > 12: p2 é dia (MM/DD/YYYY) -> manter MM/DD/YYYY
+                        elif p2 > 12:
+                            return f"{p1:02d}/{p2:02d}/{y}"
+                        else:
+                            # Se ambos <= 12, assume que a entrada interna start_date está em DD/MM/YYYY e converte para MM/DD/YYYY
+                            return f"{p2:02d}/{p1:02d}/{y}"
+                    return d_str
+
+                api_start_date = _fmt_api_date(start_date)
+                api_finish_date = _fmt_api_date(finish_date)
+
                 post_data = {
                     "FormId": str(form_id),
-                    "StartDate": start_date,
-                    "FinishDate": finish_date,
+                    "StartDate": api_start_date,
+                    "FinishDate": api_finish_date,
                     "Username": "",
                     "ExpandGeoList": "true"
                 }
@@ -1247,14 +1270,29 @@ def export_dashboard_summary() -> Path | None:
             latest_date = "28/10/2026"
             if csv_file.exists():
                 with open(csv_file, "r", encoding="utf-8-sig", errors="ignore") as f:
-                    reader = csv.reader(f, delimiter=";")
+                    sample = f.read(8192)
+                    f.seek(0)
+                    try:
+                        dialect = csv.Sniffer().sniff(sample, delimiters=";,\t")
+                    except csv.Error:
+                        dialect = csv.excel
+                        dialect.delimiter = ","
+                    reader = csv.reader(f, dialect=dialect)
                     headers = next(reader, None)
                     date_idx = -1
                     if headers:
+                        # Prioriza coluna com hora (formato claro MM/DD/YYYY AM/PM) antes de "Data" vazia
                         for idx, h in enumerate(headers):
-                            if "data" in h.lower() and "início" not in h.lower() and "fim" not in h.lower() and "lançamento" not in h.lower():
+                            hl = h.lower()
+                            if ("data hora" in hl or "datahora" in hl) and "início" not in hl and "fim" not in hl:
                                 date_idx = idx
                                 break
+                        if date_idx == -1:
+                            for idx, h in enumerate(headers):
+                                hl = h.lower()
+                                if "data" in hl and "início" not in hl and "fim" not in hl and "lançamento" not in hl:
+                                    date_idx = idx
+                                    break
                         if date_idx == -1:
                             for idx, h in enumerate(headers):
                                 if "data" in h.lower():
@@ -1439,13 +1477,26 @@ def sync_dashboards_data() -> None:
             }
             (live_dir / f"{slug}.json").write_text(json.dumps(live_payload, ensure_ascii=False), encoding="utf-8")
 
+            header = f"/**\n * Dados Consolidados - {slug}\n * Total: {count} registros\n * Atualizado em: {now_str}\n */\n"
+            body = f"window.{var_name} = " + json.dumps(records, ensure_ascii=False, indent=2) + ";\n"
+            if slug == "checklist_veicular":
+                body += "const CHECKLIST_DATA = window.CHECKLIST_DATA;\n"
+            full_code = header + body
+
+            # Atualiza no dash_dir principal
             target_js = dash_dir / slug / "js" / "data.js"
             if target_js.parent.exists():
-                header = f"/**\n * Dados Consolidados - {slug}\n * Total: {count} registros\n * Atualizado em: {now_str}\n */\n"
-                body = f"window.{var_name} = " + json.dumps(records, ensure_ascii=False, indent=2) + ";\n"
-                if slug == "checklist_veicular":
-                    body += "const CHECKLIST_DATA = window.CHECKLIST_DATA;\n"
-                target_js.write_text(header + body, encoding="utf-8")
+                target_js.write_text(full_code, encoding="utf-8")
+                
+            # Atualiza no repositório de desenvolvimento Mapfy 2026 se existir
+            repo_dash_dir = Path(r"c:\Users\julianotimoteo\OneDrive - Pitangueiras Acucar e Alcool Ltda\!@#Mapfy_2026\DashBoard")
+            repo_target_js = repo_dash_dir / slug / "js" / "data.js"
+            if repo_target_js.parent.exists():
+                repo_target_js.write_text(full_code, encoding="utf-8")
+                
+            repo_live_json = repo_dash_dir / "live_data" / f"{slug}.json"
+            if repo_live_json.parent.exists():
+                repo_live_json.write_text(json.dumps(live_payload, ensure_ascii=False), encoding="utf-8")
         log.info("[DASHBOARD] Dados sincronizados com sucesso em DashBoard/")
     except Exception as e:
         log.warning(f"Aviso ao sincronizar DashBoard: {e}")

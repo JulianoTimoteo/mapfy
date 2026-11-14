@@ -535,11 +535,13 @@
         }
 
         state.filteredRecords = state.allRecords.filter(r => {
-            if (f.dataInicio && r.data_dia) {
-                if (r.data_dia < f.dataInicio) return false;
+            if (f.dataInicio) {
+                const rIso = r.data_iso || (r.data_dia && r.data_dia.includes('/') ? r.data_dia.split('/').reverse().join('-') : '');
+                if (rIso && rIso < f.dataInicio) return false;
             }
-            if (f.dataFim && r.data_dia) {
-                if (r.data_dia > f.dataFim) return false;
+            if (f.dataFim) {
+                const rIso = r.data_iso || (r.data_dia && r.data_dia.includes('/') ? r.data_dia.split('/').reverse().join('-') : '');
+                if (rIso && rIso > f.dataFim) return false;
             }
             if (f.frota !== 'TODAS' && r.frota_codigo !== f.frota) return false;
             if (f.gestor !== 'TODOS' && f.gestor !== 'TODAS' && r.gestor !== f.gestor) return false;

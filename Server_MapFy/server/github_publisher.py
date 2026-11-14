@@ -89,6 +89,17 @@ class GitHubDashboardPublisher:
                 separators=(",", ":"),
             ).encode("utf-8")
 
+            # Publica também o data.js do Dashboard para atualizar a versão web estática do GitHub Pages
+            dash_js_candidates = [
+                DASHBOARD_DIR / slug / "js" / "data.js",
+                SERVER_DIR.parent / "DashBoard" / slug / "js" / "data.js",
+                Path(r"c:\Users\julianotimoteo\OneDrive - Pitangueiras Acucar e Alcool Ltda\!@#Mapfy_2026\DashBoard") / slug / "js" / "data.js"
+            ]
+            for cand in dash_js_candidates:
+                if cand.is_file():
+                    files[f"DashBoard/{slug}/js/data.js"] = cand.read_bytes()
+                    break
+
         summary_path = DASHBOARD_DIR / "data_summary.json"
         if not summary_path.is_file():
             fallback_path = SERVER_DIR / "data_summary.json"

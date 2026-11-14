@@ -702,8 +702,13 @@ const ChecklistEngine = (function () {
             let p1 = parseInt(m[1], 10);
             let p2 = parseInt(m[2], 10);
             const y = parseInt(m[3], 10);
+            const hasAmpm = !!m[6];
             let day, month;
-            if (p1 <= 12 && p2 > 12) {
+            if (hasAmpm) {
+                // Com AM/PM é indiscutivelmente padrão US: MM/DD/YYYY
+                month = p1;
+                day = p2;
+            } else if (p1 <= 12 && p2 > 12) {
                 day = p2;
                 month = p1;
             } else {
@@ -731,9 +736,23 @@ const ChecklistEngine = (function () {
         if (!r) return null;
         const lat = parseFloat(String(r['Latitude'] || r.lat || '').replace(',', '.'));
         const lon = parseFloat(String(r['Longitude'] || r.lon || r.lng || '').replace(',', '.'));
-        const rawDataStr = String(r['Data'] || r['Date'] || r['Data Hora'] || r.data || r.date || '').trim();
-        const dataStr = formatCanonicalBRDate(rawDataStr);
+        // Identificação semântica estrita das datas
+        const dataEventoStr = formatCanonicalBRDate(r['Data Hora'] || r['Data início'] || r['Start date'] || r['Data'] || r['Date'] || r.data || r.date || '');
+        const dataSincStr = formatCanonicalBRDate(r['Data'] || r['Date'] || '');
+        const dataInicioStr = formatCanonicalBRDate(r['Data início'] || r['Start date'] || '');
+        const dataFimStr = formatCanonicalBRDate(r['Data Fim'] || r['End date'] || '');
+        
+        // Data operacional da inspeção: Início do Lançamento é a referência oficial das inspeções realizadas
+        const dataStr = dataInicioStr || dataEventoStr || dataSincStr;
         const dataDia = dataStr.includes(' ') ? dataStr.split(' ')[0] : dataStr;
+        
+        let dataIso = '';
+        if (dataDia && dataDia.includes('/')) {
+            const p = dataDia.split('/');
+            if (p.length === 3) {
+                dataIso = `${p[2]}-${p[1].padStart(2, '0')}-${p[0].padStart(2, '0')}`;
+            }
+        }
 
         // Parse frota
         const frotaRaw = String(r['Frota'] || r.frota || '').trim();
@@ -796,8 +815,11 @@ const ChecklistEngine = (function () {
             usuario: r['Usuário'] || r['User'] || r.usuario || '',
             data: dataStr,
             data_dia: dataDia,
-            data_inicio: r['Data início'] || r['Start date'] || r.data_inicio || '',
-            data_fim: r['Data Fim'] || r['End date'] || r.data_fim || '',
+            data_iso: dataIso,
+            data_evento: dataEventoStr,
+            data_sincronizacao: dataSincStr,
+            data_inicio: dataInicioStr,
+            data_fim: dataFimStr,
             status: r['Status'] || r.status || 'Aberto',
             score: r['Score'] || r.score || '0,00',
             frota_raw: frotaRaw,
