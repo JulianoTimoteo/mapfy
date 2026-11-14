@@ -300,7 +300,7 @@
                     }
                 }
 
-                // 2. Match Espacial por GPS (caso o código não coincida exatamente)
+                // 2. Match Espacial Rigoroso por GPS com Point-in-Polygon
                 if (matchedIdx === null && loc.lat !== null && loc.lon !== null) {
                     const c = Math.floor((loc.lon - bbox[0]) / dLon);
                     const r = Math.floor((loc.lat - bbox[1]) / dLat);
@@ -308,10 +308,43 @@
                         const cell = grid[r * cols + c];
                         for (let i = 0; i < cell.length; i++) {
                             const featIdx = cell[i];
-                            const b = features[featIdx].bbox;
+                            const feat = features[featIdx];
+                            const p = feat.properties || {};
+                            
+                            // Se a fazenda do registro foi informada, o talhão DEVE pertencer à mesma fazenda
+                            if (loc.fazenda && p.fazenda && String(p.fazenda).trim() !== String(loc.fazenda).trim()) {
+                                continue;
+                            }
+
+                            const b = feat.bbox;
                             if (b && loc.lon >= b[0] && loc.lat >= b[1] && loc.lon <= b[2] && loc.lat <= b[3]) {
-                                matchedIdx = featIdx;
-                                break;
+                                // Teste Point-in-Polygon no anel externo para precisão milimétrica
+                                const geom = feat.geometry;
+                                if (geom && (geom.type === 'Polygon' || geom.type === 'MultiPolygon')) {
+                                    const coordsList = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
+                                    let isInside = false;
+                                    for (let polyIdx = 0; polyIdx < coordsList.length; polyIdx++) {
+                                        const ring = coordsList[polyIdx][0];
+                                        if (ring && ring.length > 2) {
+                                            const x = loc.lon, y = loc.lat;
+                                            let inside = false;
+                                            for (let pi = 0, pj = ring.length - 1; pi < ring.length; pj = pi++) {
+                                                const xi = ring[pi][0], yi = ring[pi][1];
+                                                const xj = ring[pj][0], yj = ring[pj][1];
+                                                const intersect = ((yi > y) !== (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
+                                                if (intersect) inside = !inside;
+                                            }
+                                            if (inside) { isInside = true; break; }
+                                        }
+                                    }
+                                    if (isInside) {
+                                        matchedIdx = featIdx;
+                                        break;
+                                    }
+                                } else {
+                                    matchedIdx = featIdx;
+                                    break;
+                                }
                             }
                         }
                     }
@@ -679,67 +712,52 @@
          */
         getFeatureStyle(feature, featureIndex, map, zoom = 11) {
             const auditedMap = this.auditedTalhoesByMap.get(map);
-            const isAudited = this.highlightAudited && auditedMap && auditedMap.has(featureIndex);
-            
-            // Resgata o tema e intensidade dinâmicos configurados pelo usuário
-            const theme = THEMES[this.currentTheme] || THEMES.esmeralda;
-            const intensity = INTENSITIES[this.currentIntensity] || INTENSITIES.suave;
-            
-            let zoomBonus = zoom <= 11 ? 0 : (zoom <= 14 ? 0.35 : 0.65);
-            let weight = (intensity.baseWeight || 1.25) + zoomBonus;
+            const isAudited = Boolean(this.highlightAudited && auditedMap && auditedMap.has(featureIndex));
 
-            // Hook de customização agronômica específica por dashboard (ex: Inteligência de Broca)
+            // Resgata o tema e intensidade dinâmicos configurados pelo usuário
+            const theme = THEMES[this.currentTheme] || THEMES.branco;
+            const intensity = INTENSITIES[this.currentIntensity] || INTENSITIES.suave;
+
+            let zoomBonus = zoom <= 11 ? 0 : (zoom <= 14 ? 0.35 : 0.65);
+            let weight = (intensity.baseWeight || 1.1) + zoomBonus;
+
+            // Hook de customização agronômica específica por dashboard (se houver)
             if (typeof this.customFeatureStyler === 'function') {
                 try {
                     const customStyle = this.customFeatureStyler(feature, featureIndex, map, zoom, isAudited);
                     if (customStyle) return customStyle;
-                } catch (errStyler) {
-                    console.warn('[MapShapes] Erro no customFeatureStyler:', errStyler);
-                }
+                } catch (errStyler) {}
             }
 
             if (isAudited) {
-                // TALHÃO COM COLETA: Semáforo dinâmico (Verde Bom, Amarelo Médio, Vermelho Ruim)
+                // TALHÃO COM COLETA NO PERÍODO FILTRADO: Semáforo dinâmico (Verde Bom, Amarelo Médio, Vermelho Ruim)
                 const auditEntry = auditedMap ? auditedMap.get(featureIndex) : null;
                 const sem = auditEntry && auditEntry.semaforo ? auditEntry.semaforo : { color: '#10b981', stroke: '#059669' };
-                
-                // Opacidade de preenchimento reage à intensidade selecionada pelo usuário
-                let fillOp = 0.45;
-                if (this.currentIntensity === 'suave') fillOp = 0.35;
-                else if (this.currentIntensity === 'media') fillOp = 0.55;
-                else if (this.currentIntensity === 'forte') fillOp = 0.78;
+
+                let fillOp = 0.50;
+                if (this.currentIntensity === 'suave') fillOp = 0.40;
+                else if (this.currentIntensity === 'media') fillOp = 0.60;
+                else if (this.currentIntensity === 'forte') fillOp = 0.80;
 
                 return {
                     color: sem.stroke,
-                    weight: weight + 0.85,
-                    opacity: Math.min(1.0, intensity.borderOpacity + 0.1),
+                    weight: weight + 1.0,
+                    opacity: 1.0,
                     fillColor: sem.color,
                     fillOpacity: fillOp,
                     dashArray: null
                 };
             } else {
-                // TALHÃO SEM COLETA:
-                if (this.highlightAudited) {
-                    // Modo realce ativo: atenua os talhões sem coleta para destacar os com medição
-                    return {
-                        color: theme.color,
-                        weight: Math.max(0.65, weight - 0.45),
-                        opacity: Math.max(0.20, intensity.borderOpacity * 0.45),
-                        fillColor: theme.fillColor,
-                        fillOpacity: 0.03,
-                        dashArray: null
-                    };
-                } else {
-                    // Modo realce desligado: exibe a malha completa conforme o tema e intensidade escolhidos
-                    return {
-                        color: theme.color,
-                        weight: weight,
-                        opacity: intensity.borderOpacity,
-                        fillColor: theme.fillColor,
-                        fillOpacity: intensity.fillOpacity,
-                        dashArray: null
-                    };
-                }
+                // TALHÃO SEM COLETA NO PERÍODO FILTRADO:
+                // REGRA ESTRITA: ZERO PREENCHIMENTO VERDE! Fica 100% transparente com traço cadastral neutro fino
+                return {
+                    color: '#94a3b8',
+                    weight: Math.max(0.65, weight - 0.45),
+                    opacity: 0.35,
+                    fillColor: 'transparent',
+                    fillOpacity: 0.0,
+                    dashArray: null
+                };
             }
         },
 
@@ -767,6 +785,11 @@
             // 1. Checagem imediata em memória global (Script pitangueiras_shapes_data.js)
             if (window.PITANGUEIRAS_SHAPES_DATA) {
                 this.geojsonData = window.PITANGUEIRAS_SHAPES_DATA;
+                if (this.geojsonData && Array.isArray(this.geojsonData.features)) {
+                    for (let i = 0; i < this.geojsonData.features.length; i++) {
+                        this.geojsonData.features[i]._pitangueirasIndex = i;
+                    }
+                }
                 window[CONFIG.cacheKey] = this.geojsonData;
                 console.info(`[MapShapes] ${this.geojsonData.features.length} talhões carregados via dados embarcados locais (Zero CORS).`);
                 return this.geojsonData;
@@ -789,6 +812,11 @@
                     });
                     if (window.PITANGUEIRAS_SHAPES_DATA) {
                         this.geojsonData = window.PITANGUEIRAS_SHAPES_DATA;
+                if (this.geojsonData && Array.isArray(this.geojsonData.features)) {
+                    for (let i = 0; i < this.geojsonData.features.length; i++) {
+                        this.geojsonData.features[i]._pitangueirasIndex = i;
+                    }
+                }
                         window[CONFIG.cacheKey] = this.geojsonData;
                         console.info(`[MapShapes] Injetado pitangueiras_shapes_data.js (${this.geojsonData.features.length} talhões).`);
                         return this.geojsonData;
@@ -895,14 +923,27 @@
             document.addEventListener('click', (e) => {
                 const btn = e.target.closest('.btn-map-filter, #btnToggleMapSyncFilter, [data-map-range]');
                 if (btn) {
+                    const range = btn.getAttribute('data-map-range') || 'Filtro';
+                    // Aciona feedback visual amigável (Skeleton / Overlay)
+                    self.activeLayers.forEach((layer, map) => {
+                        const container = map.getContainer ? map.getContainer() : null;
+                        if (container && typeof window.showMapProcessingOverlay === 'function') {
+                            window.showMapProcessingOverlay(container, `Atualizando talhões agronômicos (${range})...`);
+                        }
+                    });
+
                     setTimeout(() => {
                         if (self.activeLayers) {
                             self.activeLayers.forEach((layer, map) => {
                                 self.lastRecordsCache.delete(map);
                                 self.syncWithDashboard(map);
+                                const container = map.getContainer ? map.getContainer() : null;
+                                if (container && typeof window.hideMapProcessingOverlay === 'function') {
+                                    window.hideMapProcessingOverlay(container);
+                                }
                             });
                         }
-                    }, 120);
+                    }, 140);
                 }
             });
         },
@@ -1224,6 +1265,8 @@
                 const matchedMap = this.matchRecordsToShapes(records);
                 this.auditedTalhoesByMap.set(map, matchedMap);
                 this.lastRecordsCache.set(map, { hash: `custom_${records.length}_${Date.now()}`, count: records.length });
+
+                // Redesenha os estilos dos talhões
                 this.updateAllLayersStyle(map);
                 this.updateControlBadge(map);
                 if (typeof window.updateMapTalhoesLegend === 'function') {
@@ -1298,11 +1341,11 @@
                 pane: 'agriculturalShapesPane',
                 renderer: canvasRenderer,
                 style: function (feature) {
-                    const fIdx = featIdxCounter;
+                    const fIdx = feature._pitangueirasIndex !== undefined ? feature._pitangueirasIndex : (feature.properties ? feature.properties._pitangueirasIndex : 0);
                     return self.getFeatureStyle(feature, fIdx, map, map.getZoom ? map.getZoom() : 11);
                 },
                 onEachFeature: function (feature, layer) {
-                    const currentIndex = featIdxCounter++;
+                    const currentIndex = feature._pitangueirasIndex !== undefined ? feature._pitangueirasIndex : (feature.properties ? feature.properties._pitangueirasIndex : 0);
                     layer._pitangueirasFeatureIndex = currentIndex;
                     const props = feature.properties || {};
 

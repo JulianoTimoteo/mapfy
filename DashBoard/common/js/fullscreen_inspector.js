@@ -248,6 +248,8 @@
         return null;
     }
 
+    window.showMapProcessingOverlay = function(mapEl, message) { return showMapProcessingOverlay(mapEl, message); };
+    window.hideMapProcessingOverlay = function(mapEl) { return hideMapProcessingOverlay(mapEl); };
     function showMapProcessingOverlay(mapEl, message) {
         if (!mapEl) return null;
         let overlay = mapEl.querySelector('.map-processing-overlay');
