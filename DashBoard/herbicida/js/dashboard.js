@@ -926,7 +926,7 @@
         // 1. Atualização do Gráfico Pareado (Campo vs ERA5)
         if (state.charts.auditComparison) {
             const sampleRecords = records.slice(0, 15);
-            state.charts.auditComparison.data.labels = sampleRecords.map(r => `#${r.id} ${r.fazenda.substring(0, 8)}`);
+            state.charts.auditComparison.data.labels = sampleRecords.map(r => `#${r.id} ${String(r.fazenda || '').substring(0, 8)}`);
             const fieldData = sampleRecords.map(r => r.delta_t_num !== null ? r.delta_t_num : 0);
             const era5Data = sampleRecords.map(r => {
                 const api = (state.weatherSyncMap && typeof state.weatherSyncMap.get === 'function')
@@ -1007,7 +1007,7 @@
 
         // 6. Operações
         if (state.charts.operacoes) {
-            state.charts.operacoes.data.labels = operations.map(o => o.nome.substring(0, 22) + (o.nome.length > 22 ? '...' : ''));
+            state.charts.operacoes.data.labels = operations.map(o => { const nm = String(o.nome || ''); return nm.substring(0, 22) + (nm.length > 22 ? '...' : ''); });
             if (!state.charts.operacoes.data.datasets || state.charts.operacoes.data.datasets.length === 0) {
                 state.charts.operacoes.data.datasets = [{ data: [] }];
             }
@@ -1203,7 +1203,7 @@
 
         for (let i = 0; i < hourly.time.length; i++) {
             const timeStr = hourly.time[i];
-            const hourPart = timeStr.includes('T') ? timeStr.split('T')[1].substring(0, 5) : timeStr;
+            const sTime = String(timeStr || ''); const hourPart = sTime.includes('T') ? sTime.split('T')[1].substring(0, 5) : sTime;
             const hourNum = parseInt(hourPart.split(':')[0], 10);
             if (hourNum >= 6 && hourNum <= 18) {
                 labels.push(hourPart);

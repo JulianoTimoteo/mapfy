@@ -1269,39 +1269,15 @@ def export_dashboard_summary() -> Path | None:
             rows = 0
             latest_date = "28/10/2026"
             if csv_file.exists():
-                with open(csv_file, "r", encoding="utf-8-sig", errors="ignore") as f:
-                    sample = f.read(8192)
-                    f.seek(0)
-                    try:
-                        dialect = csv.Sniffer().sniff(sample, delimiters=";,\t")
-                    except csv.Error:
-                        dialect = csv.excel
-                        dialect.delimiter = ","
-                    reader = csv.reader(f, dialect=dialect)
-                    headers = next(reader, None)
-                    date_idx = -1
-                    if headers:
-                        # Prioriza coluna com hora (formato claro MM/DD/YYYY AM/PM) antes de "Data" vazia
-                        for idx, h in enumerate(headers):
-                            hl = h.lower()
-                            if ("data hora" in hl or "datahora" in hl) and "início" not in hl and "fim" not in hl:
-                                date_idx = idx
-                                break
-                        if date_idx == -1:
-                            for idx, h in enumerate(headers):
-                                hl = h.lower()
-                                if "data" in hl and "início" not in hl and "fim" not in hl and "lançamento" not in hl:
-                                    date_idx = idx
-                                    break
-                        if date_idx == -1:
-                            for idx, h in enumerate(headers):
-                                if "data" in h.lower():
-                                    date_idx = idx
-                                    break
-                    for r in reader:
-                        rows += 1
-                        if date_idx != -1 and len(r) > date_idx and r[date_idx].strip():
-                            latest_date = r[date_idx].strip().split(" ")[0]
+                try:
+                    df = read_csv_smart(csv_file)
+                    rows = len(df)
+                    detected = find_latest_date_in_csv(csv_file)
+                    if detected:
+                        latest_date = detected
+                except Exception as ex:
+                    logger.warning(f"Erro ao auditar {item['folder']}: {ex}")
+
             reports_data[item["slug"]] = {
                 "folder": item["folder"],
                 "name": item["name"],

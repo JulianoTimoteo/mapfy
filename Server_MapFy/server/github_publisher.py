@@ -100,6 +100,21 @@ class GitHubDashboardPublisher:
                     files[f"DashBoard/{slug}/js/data.js"] = cand.read_bytes()
                     break
 
+        # Sincroniza arquivos de infraestrutura e front-end essenciais
+        extra_targets = [
+            "DashBoard/index.html",
+            "DashBoard/herbicida/js/dashboard.js",
+            "DashBoard/checklist_veicular/js/dashboard.js",
+            "DashBoard/checklist_veicular/js/engine.js",
+        ]
+        for extra in extra_targets:
+            cands = [REPO_DIR / extra, SERVER_DIR / extra, DASHBOARD_DIR.parent / extra]
+            for c in cands:
+                if c.is_file():
+                    files[extra] = c.read_bytes()
+                    break
+                    break
+
         summary_path = DASHBOARD_DIR / "data_summary.json"
         if not summary_path.is_file():
             fallback_path = SERVER_DIR / "data_summary.json"
