@@ -388,6 +388,19 @@
     color: #10b981 !important;
 }
 
+/* BLINDAGEM ANTI-TRON: módulos visitados NUNCA mostram anel cometa */
+.mandala-node.is-visited .node-comet-orbit,
+.mandala-node.is-recent-visited .node-comet-orbit,
+.grid-item.is-visited .node-comet-orbit,
+.grid-item.is-recent-visited .node-comet-orbit,
+.exec-card.is-visited .node-comet-orbit,
+.exec-card.is-recent-visited .node-comet-orbit {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    animation: none !important;
+}
+
         /* --- PLANO DE FUNDO PANORÂMICO DA USINA PITANGUEIRAS (SUTIL & EM SEGUNDO PLANO) --- */
         .aerial-backdrop-container {
             position: fixed;
@@ -2989,6 +3002,20 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                 visited.push(folder);
                 sessionStorage.setItem('pitangueiras_visited_modules', JSON.stringify(visited));
                 sessionStorage.setItem('pitangueiras_last_visited', folder);
+                
+                // Remove o cometa imediatamente ao visitar
+                const slug = getReportSlug(folder);
+                removeCometFromReport(slug, folder);
+
+                // Atualiza baseline da sessão para neutralizar cometa
+                const sessionBaseKey = 'pitangueiras_session_base_counts';
+                let baseCounts = JSON.parse(sessionStorage.getItem(sessionBaseKey) || '{}');
+                const formObj = formsData.find(f => f.folder === folder);
+                if (formObj) {
+                    baseCounts[slug] = Number(formObj.rows) || 0;
+                    sessionStorage.setItem(sessionBaseKey, JSON.stringify(baseCounts));
+                }
+
                 applyVisitedStates();
             } catch (e) {
                 console.warn('Erro ao salvar visita:', e);
@@ -3421,9 +3448,23 @@ html.dark .mandala-node.is-recent-visited .badge-index {
         }
 
         function addCometToReport(slug, folder, idx) {
+            // REGRA MANDATÓRIA: se o módulo já foi visitado na sessão, NUNCA adiciona o cometa!
+            let visited = [];
+            try {
+                visited = JSON.parse(sessionStorage.getItem('pitangueiras_visited_modules') || '[]');
+            } catch(e) {}
+            if (folder && visited.includes(folder)) {
+                removeCometFromReport(slug, folder);
+                return;
+            }
+
             // Adiciona no nó circular da Mandala
             const nodeEl = document.querySelector(`.mandala-node[data-index="${idx}"]`);
             if (nodeEl) {
+                if (nodeEl.classList.contains('is-visited') || nodeEl.classList.contains('is-recent-visited')) {
+                    removeCometFromReport(slug, folder);
+                    return;
+                }
                 nodeEl.classList.add('has-comet-update');
                 const disc = nodeEl.querySelector('.node-disc');
                 if (disc && !disc.querySelector(`.node-comet-orbit[data-comet-slug="${slug}"]`)) {
@@ -3444,6 +3485,10 @@ html.dark .mandala-node.is-recent-visited .badge-index {
             // Adiciona no card do Grid Executivo se existir
             const gridItem = document.querySelector(`.grid-item[data-index="${idx}"]`);
             if (gridItem) {
+                if (gridItem.classList.contains('is-visited') || gridItem.classList.contains('is-recent-visited')) {
+                    removeCometFromReport(slug, folder);
+                    return;
+                }
                 gridItem.classList.add('has-comet-update');
                 if (!gridItem.querySelector(`.node-comet-orbit[data-comet-slug="${slug}"]`)) {
                     const cometEl = document.createElement('div');
@@ -3475,13 +3520,23 @@ html.dark .mandala-node.is-recent-visited .badge-index {
         function markReportAsSeen(item) {
             if (!item) return;
             const slug = getReportSlug(item.folder);
+            const currentRows = Number(item.rows) || 0;
             const seen = getSeenReports();
             seen[slug] = {
-                rows: Number(item.rows) || 0,
+                rows: currentRows,
                 date: String(item.latest_date || ''),
                 timestamp: Date.now()
             };
             setSeenReports(seen);
+
+            // Atualiza baseline para eliminar cometa
+            try {
+                const sessionBaseKey = 'pitangueiras_session_base_counts';
+                let baseCounts = JSON.parse(sessionStorage.getItem(sessionBaseKey) || '{}');
+                baseCounts[slug] = currentRows;
+                sessionStorage.setItem(sessionBaseKey, JSON.stringify(baseCounts));
+            } catch(e) {}
+
             removeCometFromReport(slug, item.folder);
         }
 
@@ -3489,11 +3544,22 @@ html.dark .mandala-node.is-recent-visited .badge-index {
             // Regra estrita: ZERO falsos positivos. Se não há dados novos incrementais na sessão, nada fica rodando!
             const sessionBaseKey = 'pitangueiras_session_base_counts';
             let baseCounts = {};
+            let visited = [];
             try {
                 baseCounts = JSON.parse(sessionStorage.getItem(sessionBaseKey) || '{}');
+                visited = JSON.parse(sessionStorage.getItem('pitangueiras_visited_modules') || '[]');
             } catch(e) {}
+            const seen = getSeenReports();
 
             formsData.forEach((form, idx) => {
+                const slug = getReportSlug(form.folder);
+
+                // SE O MÓDULO JÁ FOI VISITADO, NUNCA MOSTRA COMETA!
+                if (visited.includes(form.folder)) {
+                    removeCometFromReport(slug, form.folder);
+                    return;
+                }
+
                 let rep = null;
                 if (reportsMap) {
                     for (const k in reportsMap) {
@@ -3505,8 +3571,13 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                     }
                 }
                 if (!rep) rep = form;
-                const slug = getReportSlug(form.folder);
                 const currentRows = Number(rep.rows) || 0;
+
+                // Se o usuário já visualizou essa contagem anteriormente, não é novo dado!
+                if (seen[slug] && Number(seen[slug].rows) >= currentRows) {
+                    removeCometFromReport(slug, form.folder);
+                    return;
+                }
 
                 // Registra o baseline inicial da sessão
                 if (baseCounts[slug] === undefined && currentRows > 0) {
@@ -3514,8 +3585,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                 }
 
                 const baseRows = baseCounts[slug] || currentRows;
-                // Animação Tron SÓ ativa se a contagem atual for maior que a base da sessão (dados novos reais)
-                const isUpdated = currentRows > baseRows;
+                // Animação Tron SÓ ativa se a contagem atual for MAIOR que a base da sessão (dados novos reais)
+                const isUpdated = currentRows > baseRows && baseRows > 0;
 
                 if (isUpdated) {
                     addCometToReport(slug, form.folder, idx);

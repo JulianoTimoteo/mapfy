@@ -793,7 +793,7 @@
             state.charts.evolution.data.datasets[2].data = new Array(labels.length).fill(state.targetConfig.max);
             state.charts.evolution.update();
         }
-        setElText('evolutionDaysCount', `${timeSeries.labels.length} dias avaliados`);
+        setElText('evolutionDaysCount', timeSeries.labels.length === 1 ? '1 dia avaliado' : `${timeSeries.labels.length} dias avaliados`);
 
         // 3. Histograma
         if (state.charts.histogram) {

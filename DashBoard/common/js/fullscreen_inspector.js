@@ -922,12 +922,328 @@
             }
         };
 
+        // -------------------------------------------------------------------------
+        // PLUGIN UNIVERSAL DE LINHAS DE META & TRATAMENTO EXECUTIVO PARA POUCOS DADOS (1-2 PONTOS)
+        // -------------------------------------------------------------------------
+        const evolutionTargetPlugin = {
+            id: 'pitangueiras_evolution_targets',
+            beforeUpdate(chart) {
+                if (chart.config.type !== 'line') return;
+                const canvasId = (chart.canvas ? chart.canvas.id : '').toLowerCase();
+                if (!canvasId.includes('evolution') && !canvasId.includes('timeline') && !canvasId.includes('tempo')) return;
+
+                const labelsCount = chart.data?.labels?.length || 0;
+                if (chart.options?.scales?.x) {
+                    if (labelsCount <= 2 && labelsCount > 0) {
+                        chart.options.scales.x.offset = true;
+                    } else {
+                        chart.options.scales.x.offset = false;
+                    }
+                }
+            },
+            beforeDatasetsDraw(chart) {
+                if (chart.config.type !== 'line') return;
+                const canvasId = (chart.canvas ? chart.canvas.id : '').toLowerCase();
+                if (!canvasId.includes('evolution') && !canvasId.includes('timeline') && !canvasId.includes('tempo')) return;
+
+                // Extração dinâmica das metas técnicas (Min e Max)
+                let minVal = null;
+                let maxVal = null;
+                if (window.state && window.state.targetConfig) {
+                    if (window.state.targetConfig.min !== undefined) minVal = Number(window.state.targetConfig.min);
+                    if (window.state.targetConfig.max !== undefined) maxVal = Number(window.state.targetConfig.max);
+                }
+
+                if (minVal === null || maxVal === null || isNaN(minVal) || isNaN(maxVal)) {
+                    if (Array.isArray(chart.data?.datasets)) {
+                        chart.data.datasets.forEach(ds => {
+                            const lbl = (ds.label || '').toLowerCase();
+                            if (lbl.includes('mín') || lbl.includes('min')) {
+                                const v = ds.data && ds.data.find(n => typeof n === 'number' && !isNaN(n));
+                                if (v !== undefined) minVal = Number(v);
+                            }
+                            if (lbl.includes('máx') || lbl.includes('max')) {
+                                const v = ds.data && ds.data.find(n => typeof n === 'number' && !isNaN(n));
+                                if (v !== undefined) maxVal = Number(v);
+                            }
+                        });
+                    }
+                }
+
+                if (minVal === null || maxVal === null || isNaN(minVal) || isNaN(maxVal)) return;
+
+                const ctx = chart.ctx;
+                const yScale = chart.scales?.y;
+                const chartArea = chart.chartArea;
+                if (!ctx || !yScale || !chartArea) return;
+
+                const yMin = yScale.getPixelForValue(minVal);
+                const yMax = yScale.getPixelForValue(maxVal);
+                if (isNaN(yMin) || isNaN(yMax)) return;
+
+                const isDark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark-theme');
+                const left = chartArea.left;
+                const right = chartArea.right;
+
+                // 1. CORREDOR IDEAL DE CONFORMIDADE AGRONÔMICA (Faixa Translúcida entre Min e Max)
+                ctx.save();
+                const topY = Math.min(yMin, yMax);
+                const rectH = Math.abs(yMax - yMin);
+                ctx.fillStyle = isDark ? 'rgba(16, 185, 129, 0.08)' : 'rgba(16, 185, 129, 0.09)';
+                ctx.fillRect(left, topY, right - left, rectH);
+                ctx.restore();
+
+                // 2. LINHA DE META MÍNIMA (Âmbar Pontilhado Contínuo de Ponta a Ponta)
+                ctx.save();
+                ctx.strokeStyle = '#f59e0b';
+                ctx.lineWidth = 1.75;
+                ctx.setLineDash([5, 5]);
+                ctx.beginPath();
+                ctx.moveTo(left, yMin);
+                ctx.lineTo(right, yMin);
+                ctx.stroke();
+
+                ctx.font = 'bold 9.5px "JetBrains Mono", monospace';
+                ctx.fillStyle = '#f59e0b';
+                ctx.textAlign = 'right';
+                ctx.textBaseline = 'bottom';
+                ctx.fillText('MIN ' + minVal, right - 4, yMin - 3);
+                ctx.restore();
+
+                // 3. LINHA DE META MÁXIMA (Roxo Pontilhado Contínuo de Ponta a Ponta)
+                ctx.save();
+                ctx.strokeStyle = '#a855f7';
+                ctx.lineWidth = 1.75;
+                ctx.setLineDash([5, 5]);
+                ctx.beginPath();
+                ctx.moveTo(left, yMax);
+                ctx.lineTo(right, yMax);
+                ctx.stroke();
+
+                ctx.font = 'bold 9.5px "JetBrains Mono", monospace';
+                ctx.fillStyle = '#a855f7';
+                ctx.textAlign = 'right';
+                ctx.textBaseline = 'bottom';
+                ctx.fillText('MAX ' + maxVal, right - 4, yMax - 3);
+                ctx.restore();
+            },
+            afterDatasetsDraw(chart) {
+                if (chart.config.type !== 'line') return;
+                const canvasId = (chart.canvas ? chart.canvas.id : '').toLowerCase();
+                if (!canvasId.includes('evolution') && !canvasId.includes('timeline') && !canvasId.includes('tempo')) return;
+
+                const labelsCount = chart.data?.labels?.length || 0;
+                const ctx = chart.ctx;
+                const isDark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark-theme');
+
+                // Quando houver 1 ou 2 pontos: renderiza destaque reforçado no ponto e badge flutuante
+                if (labelsCount >= 1 && labelsCount <= 2 && ctx) {
+                    const meta0 = chart.getDatasetMeta(0);
+                    if (meta0 && Array.isArray(meta0.data)) {
+                        meta0.data.forEach((element, i) => {
+                            const val = chart.data.datasets[0]?.data?.[i];
+                            if (val === undefined || val === null || isNaN(val)) return;
+
+                            const px = element.x;
+                            const py = element.y;
+
+                            // Halo luminoso suave ao redor do ponto isolado
+                            ctx.save();
+                            ctx.fillStyle = 'rgba(16, 185, 129, 0.22)';
+                            ctx.beginPath();
+                            ctx.arc(px, py, 16, 0, Math.PI * 2);
+                            ctx.fill();
+
+                            ctx.fillStyle = '#10b981';
+                            ctx.strokeStyle = isDark ? '#0f172a' : '#ffffff';
+                            ctx.lineWidth = 2.5;
+                            ctx.beginPath();
+                            ctx.arc(px, py, 6.5, 0, Math.PI * 2);
+                            ctx.fill();
+                            ctx.stroke();
+
+                            // Badge tipográfico flutuando acima do ponto com o valor exato
+                            const valFormatted = Number(val).toLocaleString('pt-BR', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+                            const badgeText = valFormatted;
+                            ctx.font = 'bold 11px "JetBrains Mono", monospace';
+                            const textW = ctx.measureText(badgeText).width;
+                            const bW = textW + 16;
+                            const bH = 20;
+                            const bX = px - bW / 2;
+                            const bY = py - 32;
+
+                            ctx.fillStyle = isDark ? '#1e293b' : '#ffffff';
+                            ctx.strokeStyle = '#10b981';
+                            ctx.lineWidth = 1.25;
+                            ctx.beginPath();
+                            if (ctx.roundRect) {
+                                ctx.roundRect(bX, bY, bW, bH, 6);
+                            } else {
+                                ctx.rect(bX, bY, bW, bH);
+                            }
+                            ctx.fill();
+                            ctx.stroke();
+
+                            ctx.fillStyle = isDark ? '#34d399' : '#059669';
+                            ctx.textAlign = 'center';
+                            ctx.textBaseline = 'middle';
+                            ctx.fillText(badgeText, px, bY + bH / 2);
+                            ctx.restore();
+                        });
+                    }
+                }
+
+                // Dispara a montagem/atualização do painel executivo diário
+                try {
+                    updateSingleDayExecutiveShowcase(chart);
+                } catch(e) {}
+            }
+        };
+
         try {
             Chart.register(universalChartPlugin);
+            Chart.register(evolutionTargetPlugin);
             window._pitangueiras_universal_plugin_registered = true;
         } catch (e) {
             console.warn('[Pitangueiras] Chart.register error:', e);
         }
+    }
+
+    function updateSingleDayExecutiveShowcase(chart) {
+        const canvas = chart.canvas;
+        if (!canvas) return;
+        const container = canvas.parentElement;
+        if (!container) return;
+
+        const labels = chart.data?.labels || [];
+        const labelsCount = labels.length;
+
+        // Se houver mais de 2 dias ou 0 dias, remove ou esconde o card hero
+        let card = container.querySelector('#evolutionSingleDayCard');
+        if (labelsCount === 0 || labelsCount > 2) {
+            if (card) card.style.display = 'none';
+            return;
+        }
+
+        const dateLabel = labels[0] || 'Data Selecionada';
+        const rawVal = chart.data.datasets?.[0]?.data?.[0];
+        if (rawVal === undefined || rawVal === null || isNaN(rawVal)) {
+            if (card) card.style.display = 'none';
+            return;
+        }
+        const avgVal = Number(rawVal);
+
+        // Metas e unidade
+        let minVal = window.state?.targetConfig?.min;
+        let maxVal = window.state?.targetConfig?.max;
+        let unidade = window.state?.targetConfig?.unidade || 'cm';
+        if (minVal === undefined || maxVal === undefined) {
+            chart.data.datasets?.forEach(ds => {
+                const lbl = (ds.label || '').toLowerCase();
+                if (lbl.includes('mín') || lbl.includes('min')) {
+                    const v = ds.data && ds.data.find(n => typeof n === 'number' && !isNaN(n));
+                    if (v !== undefined) minVal = Number(v);
+                }
+                if (lbl.includes('máx') || lbl.includes('max')) {
+                    const v = ds.data && ds.data.find(n => typeof n === 'number' && !isNaN(n));
+                    if (v !== undefined) maxVal = Number(v);
+                }
+            });
+        }
+        if (minVal === undefined) minVal = 35;
+        if (maxVal === undefined) maxVal = 55;
+
+        // Status de conformidade
+        const isConforme = avgVal >= minVal && avgVal <= maxVal;
+        const isAbaixo = avgVal < minVal;
+        const statusLabel = isConforme ? '100% Dentro da Meta' : (isAbaixo ? 'Abaixo da Faixa Ideal' : 'Acima da Faixa Ideal');
+        const statusIcon = isConforme ? '🟢' : '⚠️';
+        const statusColor = isConforme ? '#10b981' : (isAbaixo ? '#f59e0b' : '#a855f7');
+        const statusBadgeBg = isConforme ? 'rgba(16, 185, 129, 0.15)' : (isAbaixo ? 'rgba(245, 158, 11, 0.15)' : 'rgba(168, 85, 247, 0.15)');
+        const statusBorder = isConforme ? 'rgba(16, 185, 129, 0.35)' : (isAbaixo ? 'rgba(245, 158, 11, 0.35)' : 'rgba(168, 85, 247, 0.35)');
+
+        // Régua Horizontal de Calibração (Range Gauge)
+        const gaugeMin = Math.min(minVal * 0.75, avgVal * 0.85);
+        const gaugeMax = Math.max(maxVal * 1.25, avgVal * 1.15);
+        const totalSpan = gaugeMax - gaugeMin || 1;
+        const minPct = Math.max(0, Math.min(100, ((minVal - gaugeMin) / totalSpan) * 100));
+        const maxPct = Math.max(0, Math.min(100, ((maxVal - gaugeMin) / totalSpan) * 100));
+        const targetWidth = Math.max(6, maxPct - minPct);
+        const currentPct = Math.max(2, Math.min(98, ((avgVal - gaugeMin) / totalSpan) * 100));
+
+        // Metadados complementares (OS, Frente, Contagem)
+        const meta = chart._metaData || (window.state?.charts?.evolution?._metaData) || {};
+        const countMed = meta.counts && meta.counts[0] ? (meta.counts[0] + ' medições') : (window.state?.filteredRecords ? (window.state.filteredRecords.length + ' amostras') : null);
+        const frenteMed = meta.frentesList && meta.frentesList[0] && meta.frentesList[0] !== 'N/A' ? ('Frente: ' + meta.frentesList[0]) : null;
+        const subInfo = [countMed, frenteMed].filter(Boolean).join(' • ');
+
+        // Assegura estilo no container
+        if (window.getComputedStyle(container).position === 'static') {
+            container.style.position = 'relative';
+        }
+
+        if (!card) {
+            card = document.createElement('div');
+            card.id = 'evolutionSingleDayCard';
+            card.className = 'evo-single-day-card pointer-events-none transition-all';
+            container.appendChild(card);
+        }
+
+        const isDark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark-theme');
+        const cardBg = isDark ? 'rgba(15, 23, 42, 0.88)' : 'rgba(255, 255, 255, 0.92)';
+        const cardTextMuted = isDark ? '#94a3b8' : '#64748b';
+        const cardTrackBg = isDark ? 'rgba(51, 65, 85, 0.7)' : 'rgba(226, 232, 240, 0.9)';
+
+        card.style.display = 'block';
+        card.style.position = 'absolute';
+        card.style.top = '8px';
+        card.style.right = '12px';
+        card.style.zIndex = '5';
+        card.style.padding = '10px 14px';
+        card.style.borderRadius = '12px';
+        card.style.border = '1px solid ' + statusBorder;
+        card.style.background = cardBg;
+        card.style.backdropFilter = 'blur(10px)';
+        card.style.webkitBackdropFilter = 'blur(10px)';
+        card.style.boxShadow = '0 4px 16px rgba(0,0,0,0.12)';
+        card.style.maxWidth = '310px';
+        card.style.width = 'calc(100% - 24px)';
+        card.style.pointerEvents = 'auto';
+
+        card.innerHTML = 
+            '<div style="display:flex; align-items:center; justify-content:space-between; gap:6px; margin-bottom:6px; padding-bottom:5px; border-bottom:1px solid rgba(128,128,128,0.15);">' +
+                '<div style="display:flex; align-items:center; gap:5px;">' +
+                    '<span style="font-size:12px;">' + statusIcon + '</span>' +
+                    '<span style="font-size:10px; font-weight:800; text-transform:uppercase; letter-spacing:0.4px; color:' + statusColor + '; font-family:\'Plus Jakarta Sans\',sans-serif;">' + statusLabel + '</span>' +
+                '</div>' +
+                '<span style="font-size:9.5px; font-family:\'JetBrains Mono\',monospace; font-weight:700; padding:2px 6px; border-radius:5px; background:' + statusBadgeBg + '; color:' + statusColor + ';">' +
+                    dateLabel +
+                '</span>' +
+            '</div>' +
+            '<div style="display:flex; align-items:baseline; justify-content:space-between; gap:10px; margin-bottom:6px;">' +
+                '<div>' +
+                    '<span style="font-size:9px; text-transform:uppercase; font-weight:700; color:' + cardTextMuted + '; display:block; letter-spacing:0.5px;">Média Apurada</span>' +
+                    '<span style="font-size:20px; font-weight:900; font-family:monospace; color:' + statusColor + ';">' +
+                        avgVal.toLocaleString('pt-BR', { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + ' <span style="font-size:11px; font-weight:500; color:' + cardTextMuted + ';">' + unidade + '</span>' +
+                    '</span>' +
+                '</div>' +
+                '<div style="text-align:right;">' +
+                    '<span style="font-size:9px; text-transform:uppercase; font-weight:700; color:' + cardTextMuted + '; display:block; letter-spacing:0.5px;">Faixa Ideal</span>' +
+                    '<span style="font-size:11px; font-family:monospace; font-weight:700; color:' + (isDark ? '#e2e8f0' : '#1e293b') + ';"><span style="color:#f59e0b;">' + minVal + '</span> a <span style="color:#a855f7;">' + maxVal + '</span> ' + unidade + '</span>' +
+                '</div>' +
+            '</div>' +
+            '<div style="margin-top:4px; margin-bottom:4px;">' +
+                '<div style="position:relative; width:100%; height:8px; border-radius:999px; background:' + cardTrackBg + '; overflow:hidden; border:1px solid rgba(128,128,128,0.2);">' +
+                    '<div style="position:absolute; top:0; bottom:0; left:' + minPct + '%; width:' + targetWidth + '%; background:rgba(16,185,129,0.38); border-left:1px solid #10b981; border-right:1px solid #10b981;" title="Faixa Ideal: ' + minVal + ' a ' + maxVal + ' ' + unidade + '"></div>' +
+                    '<div style="position:absolute; top:0; bottom:0; left:calc(' + currentPct + '% - 2px); width:4px; border-radius:999px; background:' + statusColor + '; box-shadow:0 0 5px ' + statusColor + ';" title="Valor: ' + avgVal + ' ' + unidade + '"></div>' +
+                '</div>' +
+                '<div style="display:flex; justify-content:space-between; font-size:8.5px; font-family:monospace; color:' + cardTextMuted + '; margin-top:2px;">' +
+                    '<span>Min ' + minVal + '</span>' +
+                    '<span style="font-weight:700; color:' + statusColor + ';">● Real: ' + avgVal.toLocaleString('pt-BR', { minimumFractionDigits: 1 }) + '</span>' +
+                    '<span>Max ' + maxVal + '</span>' +
+                '</div>' +
+            '</div>' +
+            (subInfo ? '<div style="margin-top:5px; padding-top:4px; border-top:1px solid rgba(128,128,128,0.12); font-size:9px; font-family:monospace; color:' + cardTextMuted + '; text-align:center;">' + subInfo + '</div>' : '');
     }
 
     function triggerChartsUpdate() {
