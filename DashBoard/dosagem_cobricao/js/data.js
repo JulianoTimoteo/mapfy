@@ -1,803 +1,11 @@
 /**
  * Dados Consolidados - dosagem_cobricao
- * Total: 931 registros
- * Atualizado em: 13/11/2026 12:09
+ * Total: 933 registros
+ * Atualizado em: 14/11/2026 14:29
  */
 window.DOSAGEM_COBRICAO_DATA = [
   {
-    "ID": 3949211,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "29/09/2026 12:20",
-    "Latitude": "-21,10946000000000",
-    "Longitude": "-48,50620000000000",
-    "Data início": "29/09/2026 12:18",
-    "Data Fim": "29/09/2026 12:20",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "29/09/2026",
-    "Local (Fazenda - Talhão)": "36813",
-    "OS": "3169",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3949210,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "29/09/2026 12:18",
-    "Latitude": "-21,10946000000000",
-    "Longitude": "-48,50620000000000",
-    "Data início": "29/09/2026 12:17",
-    "Data Fim": "29/09/2026 12:18",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "29/09/2026",
-    "Local (Fazenda - Talhão)": "36813",
-    "OS": "3169",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3945452,
-    "Usuário": "qualidade5@usinapitangueiras.com.br",
-    "Data": "28/09/2026 09:01",
-    "Latitude": "-21,06007000000000",
-    "Longitude": "-48,46365000000000",
-    "Data início": "28/09/2026 08:57",
-    "Data Fim": "28/09/2026 09:01",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "28/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3945438,
-    "Usuário": "qualidade5@usinapitangueiras.com.br",
-    "Data": "28/09/2026 08:57",
-    "Latitude": "-21,06005000000000",
-    "Longitude": "-48,46367000000000",
-    "Data início": "28/09/2026 08:53",
-    "Data Fim": "28/09/2026 08:57",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "28/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
-  },
-  {
-    "ID": 3942442,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 13:42",
-    "Latitude": "-21,05726000000000",
-    "Longitude": "-48,46594000000000",
-    "Data início": "26/09/2026 13:40",
-    "Data Fim": "26/09/2026 13:42",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
-  },
-  {
-    "ID": 3941328,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 08:19",
-    "Latitude": "-21,03905000000000",
-    "Longitude": "-48,46004000000000",
-    "Data início": "26/09/2026 08:18",
-    "Data Fim": "26/09/2026 08:19",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3942588,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 08:18",
-    "Latitude": "-21,03905000000000",
-    "Longitude": "-48,46004000000000",
-    "Data início": "26/09/2026 08:16",
-    "Data Fim": "26/09/2026 08:18",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938495,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "25/09/2026 09:31",
-    "Latitude": "-21,08949000000000",
-    "Longitude": "-48,30946000000000",
-    "Data início": "25/09/2026 09:30",
-    "Data Fim": "25/09/2026 09:31",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "177012",
-    "OS": "3199",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938494,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "25/09/2026 09:29",
-    "Latitude": "-21,08890000000000",
-    "Longitude": "-48,31017000000000",
-    "Data início": "25/09/2026 09:27",
-    "Data Fim": "25/09/2026 09:29",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "177012",
-    "OS": "3199",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938535,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "25/09/2026 08:49",
-    "Latitude": "-21,03900000000000",
-    "Longitude": "-48,46009000000000",
-    "Data início": "25/09/2026 08:48",
-    "Data Fim": "25/09/2026 08:49",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938534,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "25/09/2026 08:48",
-    "Latitude": "-21,03900000000000",
-    "Longitude": "-48,46009000000000",
-    "Data início": "25/09/2026 08:47",
-    "Data Fim": "25/09/2026 08:48",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938562,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "25/09/2026 08:46",
-    "Latitude": "-21,03903000000000",
-    "Longitude": "-48,46006000000000",
-    "Data início": "25/09/2026 08:45",
-    "Data Fim": "25/09/2026 08:46",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938561,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "25/09/2026 08:45",
-    "Latitude": "-21,03900000000000",
-    "Longitude": "-48,46005000000000",
-    "Data início": "25/09/2026 08:43",
-    "Data Fim": "25/09/2026 08:45",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3936115,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "24/09/2026 11:03",
-    "Latitude": "-21,04797000000000",
-    "Longitude": "-48,47279000000000",
-    "Data início": "24/09/2026 11:02",
-    "Data Fim": "24/09/2026 11:03",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "24/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "1354",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3936114,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "24/09/2026 11:02",
-    "Latitude": "-21,04798000000000",
-    "Longitude": "-48,47277000000000",
-    "Data início": "24/09/2026 11:01",
-    "Data Fim": "24/09/2026 11:02",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "24/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "1354",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1,145",
-    "Fazenda": null
-  },
-  {
-    "ID": 3931263,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "22/09/2026 13:44",
-    "Latitude": "-20,84408000000000",
-    "Longitude": "-48,45240000000000",
-    "Data início": "22/09/2026 13:35",
-    "Data Fim": "22/09/2026 13:38",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "22/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3917517,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "22/09/2026 13:43",
-    "Latitude": "-20,84679000000000",
-    "Longitude": "-48,44449000000000",
-    "Data início": "16/09/2026 10:43",
-    "Data Fim": "16/09/2026 10:44",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "16/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
-  },
-  {
-    "ID": 3928198,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:32",
-    "Latitude": "-20,84619000000000",
-    "Longitude": "-48,44564000000000",
-    "Data início": "21/09/2026 09:32",
-    "Data Fim": "21/09/2026 09:32",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3928193,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:32",
-    "Latitude": "-20,84619000000000",
-    "Longitude": "-48,44564000000000",
-    "Data início": "21/09/2026 09:20",
-    "Data Fim": "21/09/2026 09:25",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3925099,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 08:55",
-    "Latitude": "-20,84704000000000",
-    "Longitude": "-48,44753000000000",
-    "Data início": "19/09/2026 08:54",
-    "Data Fim": "19/09/2026 08:55",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
-  },
-  {
-    "ID": 3926081,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "19/09/2026 08:55",
-    "Latitude": "-21,06952000000000",
-    "Longitude": "-48,28934000000000",
-    "Data início": "19/09/2026 08:54",
-    "Data Fim": "19/09/2026 08:55",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "177015",
-    "OS": "3057",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3925098,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 08:54",
-    "Latitude": "-20,84704000000000",
-    "Longitude": "-48,44753000000000",
-    "Data início": "19/09/2026 08:52",
-    "Data Fim": "19/09/2026 08:54",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3926080,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "19/09/2026 08:54",
-    "Latitude": "-21,06954000000000",
-    "Longitude": "-48,28931000000000",
-    "Data início": "19/09/2026 08:51",
-    "Data Fim": "19/09/2026 08:54",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "177015",
-    "OS": "3057",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922201,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:53",
-    "Latitude": "-21,04520000000000",
-    "Longitude": "-48,32723000000000",
-    "Data início": "18/09/2026 09:52",
-    "Data Fim": "18/09/2026 09:53",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922199,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:52",
-    "Latitude": "-21,04520000000000",
-    "Longitude": "-48,32723000000000",
-    "Data início": "18/09/2026 09:51",
-    "Data Fim": "18/09/2026 09:52",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922582,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:51",
-    "Latitude": "-21,04524000000000",
-    "Longitude": "-48,32723000000000",
-    "Data início": "18/09/2026 09:50",
-    "Data Fim": "18/09/2026 09:51",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922581,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:51",
-    "Latitude": "-21,04525000000000",
-    "Longitude": "-48,32722000000000",
-    "Data início": "18/09/2026 09:49",
-    "Data Fim": "18/09/2026 09:50",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3923318,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:50",
-    "Latitude": "-21,02933000000000",
-    "Longitude": "-48,26212000000000",
-    "Data início": "18/09/2026 09:48",
-    "Data Fim": "18/09/2026 09:50",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3923317,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:48",
-    "Latitude": "-21,02935000000000",
-    "Longitude": "-48,26212000000000",
-    "Data início": "18/09/2026 09:44",
-    "Data Fim": "18/09/2026 09:48",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3920295,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "17/09/2026 13:34",
-    "Latitude": "-21,13558000000000",
-    "Longitude": "-48,44023000000000",
-    "Data início": "17/09/2026 13:34",
-    "Data Fim": "17/09/2026 13:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "142201",
-    "OS": "2987",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3920294,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "17/09/2026 13:34",
-    "Latitude": "-21,13558000000000",
-    "Longitude": "-48,44023000000000",
-    "Data início": "17/09/2026 13:32",
-    "Data Fim": "17/09/2026 13:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "142201",
-    "OS": "2987",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3920353,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "17/09/2026 10:06",
-    "Latitude": "-21,03526000000000",
-    "Longitude": "-48,26285000000000",
-    "Data início": "17/09/2026 10:05",
-    "Data Fim": "17/09/2026 10:06",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3920352,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "17/09/2026 10:04",
-    "Latitude": "-21,03526000000000",
-    "Longitude": "-48,26285000000000",
-    "Data início": "17/09/2026 10:03",
-    "Data Fim": "17/09/2026 10:04",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919816,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "17/09/2026 10:03",
-    "Latitude": "-21,03524000000000",
-    "Longitude": "-48,26285000000000",
-    "Data início": "17/09/2026 09:55",
-    "Data Fim": "17/09/2026 09:58",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919817,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "17/09/2026 10:02",
-    "Latitude": "-21,03525000000000",
-    "Longitude": "-48,26286000000000",
-    "Data início": "17/09/2026 09:58",
-    "Data Fim": "17/09/2026 09:59",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
-  },
-  {
-    "ID": 3917518,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "16/09/2026 10:46",
-    "Latitude": "-20,84678000000000",
-    "Longitude": "-48,44449000000000",
-    "Data início": "16/09/2026 10:46",
-    "Data Fim": "16/09/2026 10:46",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "16/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3914848,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "15/09/2026 08:25",
-    "Latitude": "-20,84660000000000",
-    "Longitude": "-48,44787000000000",
-    "Data início": "15/09/2026 08:23",
-    "Data Fim": "15/09/2026 08:25",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "15/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3914847,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "15/09/2026 08:23",
-    "Latitude": "-20,84658000000000",
-    "Longitude": "-48,44786000000000",
-    "Data início": "15/09/2026 08:21",
-    "Data Fim": "15/09/2026 08:23",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "15/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
-  },
-  {
-    "ID": 3913372,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "14/09/2026 09:11",
-    "Latitude": "-20,85271000000000",
-    "Longitude": "-48,44934000000000",
-    "Data início": "14/09/2026 09:10",
-    "Data Fim": "14/09/2026 09:11",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "14/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
-  },
-  {
-    "ID": 3913371,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "14/09/2026 09:10",
-    "Latitude": "-20,85273000000000",
-    "Longitude": "-48,44932000000000",
-    "Data início": "14/09/2026 09:08",
-    "Data Fim": "14/09/2026 09:10",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "14/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911349,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:41",
-    "Latitude": "-20,84649000000000",
-    "Longitude": "-48,45784000000000",
-    "Data início": "12/09/2026 08:40",
-    "Data Fim": "12/09/2026 08:41",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911348,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:40",
-    "Latitude": "-20,84649000000000",
-    "Longitude": "-48,45784000000000",
-    "Data início": "12/09/2026 08:39",
-    "Data Fim": "12/09/2026 08:40",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911968,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:40",
-    "Latitude": "-20,84649000000000",
-    "Longitude": "-48,45782000000000",
-    "Data início": "12/09/2026 08:39",
-    "Data Fim": "12/09/2026 08:40",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911967,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:39",
-    "Latitude": "-20,84645000000000",
-    "Longitude": "-48,45782000000000",
-    "Data início": "12/09/2026 08:38",
-    "Data Fim": "12/09/2026 08:39",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3906846,
+    "ID": "3906846",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/10/2026 09:41",
     "Latitude": "-20,84813000000000",
@@ -812,10 +20,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3906845,
+    "ID": "3906845",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/10/2026 09:35",
     "Latitude": "-20,84850000000000",
@@ -830,10 +43,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3904492,
+    "ID": "3904492",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/09/2026 12:13",
     "Latitude": "-20,84755000000000",
@@ -848,10 +66,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3904491,
+    "ID": "3904491",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/09/2026 12:12",
     "Latitude": "-20,84755000000000",
@@ -866,10 +89,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3901773,
+    "ID": "3901773",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/08/2026 10:17",
     "Latitude": "-20,84873000000000",
@@ -884,10 +112,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3901772,
+    "ID": "3901772",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/08/2026 10:16",
     "Latitude": "-20,84874000000000",
@@ -902,10 +135,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3898966,
+    "ID": "3898966",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/05/2026 08:20",
     "Latitude": "-21,10013000000000",
@@ -920,10 +158,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3898965,
+    "ID": "3898965",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/05/2026 08:19",
     "Latitude": "-21,10013000000000",
@@ -938,10 +181,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3896119,
+    "ID": "3896119",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:28",
     "Latitude": "-21,09913000000000",
@@ -956,10 +204,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3896118,
+    "ID": "3896118",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:27",
     "Latitude": "-21,09912000000000",
@@ -974,10 +227,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3896245,
+    "ID": "3896245",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:20",
     "Latitude": "-21,09913000000000",
@@ -992,10 +250,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3896244,
+    "ID": "3896244",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:19",
     "Latitude": "-21,09913000000000",
@@ -1010,10 +273,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3893598,
+    "ID": "3893598",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/03/2026 09:12",
     "Latitude": "-21,10144000000000",
@@ -1028,10 +296,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3893597,
+    "ID": "3893597",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/03/2026 09:11",
     "Latitude": "-21,10144000000000",
@@ -1046,10 +319,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3889486,
+    "ID": "3889486",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/01/2026 10:30",
     "Latitude": "-21,10157000000000",
@@ -1064,10 +342,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3889485,
+    "ID": "3889485",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/01/2026 10:28",
     "Latitude": "-21,10155000000000",
@@ -1082,10 +365,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3889201,
+    "ID": "3889201",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/01/2026 08:12",
     "Latitude": "-21,10165000000000",
@@ -1100,10 +388,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3889200,
+    "ID": "3889200",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/01/2026 08:11",
     "Latitude": "-21,10167000000000",
@@ -1118,10 +411,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3886981,
+    "ID": "3886981",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/08/2026 11:38",
     "Latitude": "-21,09078000000000",
@@ -1136,10 +434,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3886980,
+    "ID": "3886980",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/08/2026 11:37",
     "Latitude": "-21,09078000000000",
@@ -1154,10 +457,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3883376,
+    "ID": "3883376",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "29/08/2026 09:28",
     "Latitude": "-21,08719000000000",
@@ -1172,10 +480,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3883374,
+    "ID": "3883374",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "29/08/2026 09:27",
     "Latitude": "-21,08719000000000",
@@ -1190,10 +503,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3880416,
+    "ID": "3880416",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/08/2026 08:36",
     "Latitude": "-21,06956000000000",
@@ -1208,10 +526,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3880415,
+    "ID": "3880415",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/08/2026 08:36",
     "Latitude": "-21,06957000000000",
@@ -1226,10 +549,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3877803,
+    "ID": "3877803",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/08/2026 11:24",
     "Latitude": "-21,07725000000000",
@@ -1244,10 +572,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3877802,
+    "ID": "3877802",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/08/2026 11:24",
     "Latitude": "-21,07724000000000",
@@ -1262,10 +595,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3874801,
+    "ID": "3874801",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/08/2026 07:49",
     "Latitude": "-21,06996000000000",
@@ -1280,10 +618,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3874800,
+    "ID": "3874800",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/08/2026 07:49",
     "Latitude": "-21,06996000000000",
@@ -1298,10 +641,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3872173,
+    "ID": "3872173",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:48",
     "Latitude": "-21,05776000000000",
@@ -1316,10 +664,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3872172,
+    "ID": "3872172",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:48",
     "Latitude": "-21,05776000000000",
@@ -1334,10 +687,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3872260,
+    "ID": "3872260",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:47",
     "Latitude": "-21,05780000000000",
@@ -1352,10 +710,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3872259,
+    "ID": "3872259",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:47",
     "Latitude": "-21,05779000000000",
@@ -1370,10 +733,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3870124,
+    "ID": "3870124",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/08/2026 08:33",
     "Latitude": "-21,06233000000000",
@@ -1388,10 +756,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3870123,
+    "ID": "3870123",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/08/2026 08:33",
     "Latitude": "-21,06232000000000",
@@ -1406,10 +779,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3866567,
+    "ID": "3866567",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:41",
     "Latitude": "-21,06522000000000",
@@ -1424,10 +802,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3866565,
+    "ID": "3866565",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:40",
     "Latitude": "-21,06522000000000",
@@ -1442,10 +825,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3867112,
+    "ID": "3867112",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:38",
     "Latitude": "-21,06518000000000",
@@ -1460,10 +848,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3867111,
+    "ID": "3867111",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:38",
     "Latitude": "-21,06518000000000",
@@ -1478,10 +871,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3864726,
+    "ID": "3864726",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/08/2026 13:59",
     "Latitude": "-21,06563000000000",
@@ -1496,10 +894,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3864725,
+    "ID": "3864725",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/08/2026 13:59",
     "Latitude": "-21,06563000000000",
@@ -1514,10 +917,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3864166,
+    "ID": "3864166",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "21/08/2026 08:08",
     "Latitude": "-21,08791000000000",
@@ -1532,10 +940,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3864165,
+    "ID": "3864165",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "21/08/2026 08:07",
     "Latitude": "-21,08791000000000",
@@ -1550,10 +963,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3861176,
+    "ID": "3861176",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "20/08/2026 10:43",
     "Latitude": "-21,09154000000000",
@@ -1568,10 +986,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3861175,
+    "ID": "3861175",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "20/08/2026 08:14",
     "Latitude": "-21,09154000000000",
@@ -1586,10 +1009,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3855182,
+    "ID": "3855182",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "18/08/2026 14:57",
     "Latitude": "-21,04795000000000",
@@ -1604,10 +1032,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3855181,
+    "ID": "3855181",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "18/08/2026 14:55",
     "Latitude": "-21,04795000000000",
@@ -1622,10 +1055,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3854885,
+    "ID": "3854885",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "18/08/2026 09:24",
     "Latitude": "-21,03717000000000",
@@ -1640,10 +1078,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3854884,
+    "ID": "3854884",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "18/08/2026 09:23",
     "Latitude": "-21,03717000000000",
@@ -1658,10 +1101,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3851701,
+    "ID": "3851701",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "17/08/2026 10:48",
     "Latitude": "-21,03853000000000",
@@ -1676,10 +1124,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3851700,
+    "ID": "3851700",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "17/08/2026 10:47",
     "Latitude": "-21,03857000000000",
@@ -1694,10 +1147,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3849793,
+    "ID": "3849793",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "15/08/2026 14:29",
     "Latitude": "-21,04822000000000",
@@ -1712,10 +1170,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3849792,
+    "ID": "3849792",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "15/08/2026 14:27",
     "Latitude": "-21,03891000000000",
@@ -1730,10 +1193,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3846858,
+    "ID": "3846858",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 14:51",
     "Latitude": "-21,03990000000000",
@@ -1748,10 +1216,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3846860,
+    "ID": "3846860",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 14:51",
     "Latitude": "-21,04502000000000",
@@ -1766,10 +1239,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3641096,
+    "ID": "3641096",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/07/2026 13:20",
     "Latitude": "-20,85417000000000",
@@ -1784,10 +1262,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3641095,
+    "ID": "3641095",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/07/2026 13:19",
     "Latitude": "-20,85418000000000",
@@ -1802,10 +1285,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3639887,
+    "ID": "3639887",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/06/2026 13:49",
     "Latitude": "-20,85389000000000",
@@ -1820,10 +1308,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3639886,
+    "ID": "3639886",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/06/2026 13:48",
     "Latitude": "-20,85389000000000",
@@ -1838,10 +1331,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3636040,
+    "ID": "3636040",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/05/2026 10:53",
     "Latitude": "-20,85087000000000",
@@ -1856,10 +1354,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3636039,
+    "ID": "3636039",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/05/2026 10:51",
     "Latitude": "-20,85087000000000",
@@ -1874,10 +1377,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3636038,
+    "ID": "3636038",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/05/2026 10:50",
     "Latitude": "-20,85088000000000",
@@ -1892,10 +1400,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3636037,
+    "ID": "3636037",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/05/2026 10:48",
     "Latitude": "-20,85090000000000",
@@ -1910,10 +1423,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3632416,
+    "ID": "3632416",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/02/2026 12:51",
     "Latitude": "-20,79591000000000",
@@ -1928,10 +1446,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3632415,
+    "ID": "3632415",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/02/2026 12:50",
     "Latitude": "-20,79563000000000",
@@ -1946,10 +1469,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3629716,
+    "ID": "3629716",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "05/02/2026 08:44",
     "Latitude": "-21,05243000000000",
@@ -1964,10 +1492,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3629715,
+    "ID": "3629715",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "05/02/2026 08:43",
     "Latitude": "-21,05240000000000",
@@ -1982,10 +1515,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3629703,
+    "ID": "3629703",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "05/01/2026 13:26",
     "Latitude": "-21,05105000000000",
@@ -2000,10 +1538,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3629702,
+    "ID": "3629702",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "05/01/2026 13:25",
     "Latitude": "-21,05106000000000",
@@ -2018,10 +1561,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3628945,
+    "ID": "3628945",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/01/2026 10:13",
     "Latitude": "-20,80245000000000",
@@ -2036,10 +1584,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3628944,
+    "ID": "3628944",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/01/2026 10:12",
     "Latitude": "-20,80183000000000",
@@ -2054,10 +1607,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3628768,
+    "ID": "3628768",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/01/2026 08:59",
     "Latitude": "-21,03930000000000",
@@ -2072,10 +1630,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3628767,
+    "ID": "3628767",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/01/2026 08:58",
     "Latitude": "-21,03907000000000",
@@ -2090,10 +1653,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3626609,
+    "ID": "3626609",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 13:11",
     "Latitude": "-21,05543000000000",
@@ -2108,10 +1676,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3626607,
+    "ID": "3626607",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 13:10",
     "Latitude": "-21,05541000000000",
@@ -2126,10 +1699,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3626464,
+    "ID": "3626464",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 11:53",
     "Latitude": "-21,05081000000000",
@@ -2144,10 +1722,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3626463,
+    "ID": "3626463",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 11:39",
     "Latitude": "-21,05235000000000",
@@ -2162,10 +1745,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3627152,
+    "ID": "3627152",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 10:52",
     "Latitude": "-20,80070000000000",
@@ -2180,10 +1768,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3627151,
+    "ID": "3627151",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 10:22",
     "Latitude": "-20,80235000000000",
@@ -2198,10 +1791,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3627150,
+    "ID": "3627150",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 10:21",
     "Latitude": "-20,80241000000000",
@@ -2216,10 +1814,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3627149,
+    "ID": "3627149",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 10:21",
     "Latitude": "-20,80241000000000",
@@ -2234,10 +1837,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3627204,
+    "ID": "3627204",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:53",
     "Latitude": "-21,04610000000000",
@@ -2252,10 +1860,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3627199,
+    "ID": "3627199",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:52",
     "Latitude": "-21,04610000000000",
@@ -2270,10 +1883,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3626540,
+    "ID": "3626540",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 08:58",
     "Latitude": "-21,00612000000000",
@@ -2288,10 +1906,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3626539,
+    "ID": "3626539",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 08:58",
     "Latitude": "-21,00611000000000",
@@ -2306,10 +1929,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624835,
+    "ID": "3624835",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 14:06",
     "Latitude": "-21,04091000000000",
@@ -2324,10 +1952,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624833,
+    "ID": "3624833",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 14:05",
     "Latitude": "-21,04091000000000",
@@ -2342,10 +1975,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624038,
+    "ID": "3624038",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 11:15",
     "Latitude": "-20,78700000000000",
@@ -2360,10 +1998,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624037,
+    "ID": "3624037",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 11:14",
     "Latitude": "-20,78696000000000",
@@ -2378,10 +2021,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624036,
+    "ID": "3624036",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:55",
     "Latitude": "-20,78687000000000",
@@ -2396,10 +2044,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624035,
+    "ID": "3624035",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:54",
     "Latitude": "-20,78697000000000",
@@ -2414,10 +2067,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624319,
+    "ID": "3624319",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:53",
     "Latitude": "-21,00722000000000",
@@ -2432,10 +2090,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624318,
+    "ID": "3624318",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:53",
     "Latitude": "-21,00722000000000",
@@ -2450,10 +2113,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624049,
+    "ID": "3624049",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:42",
     "Latitude": "-21,05857000000000",
@@ -2468,10 +2136,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624048,
+    "ID": "3624048",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:41",
     "Latitude": "-21,05859000000000",
@@ -2486,10 +2159,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624047,
+    "ID": "3624047",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:40",
     "Latitude": "-21,05866000000000",
@@ -2504,10 +2182,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3624046,
+    "ID": "3624046",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:39",
     "Latitude": "-21,05885000000000",
@@ -2522,10 +2205,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3625424,
+    "ID": "3625424",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 09:58",
     "Latitude": "-20,79004000000000",
@@ -2540,10 +2228,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3625423,
+    "ID": "3625423",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 09:57",
     "Latitude": "-20,79004000000000",
@@ -2558,10 +2251,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3625422,
+    "ID": "3625422",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 09:57",
     "Latitude": "-20,79004000000000",
@@ -2576,10 +2274,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3625421,
+    "ID": "3625421",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 09:56",
     "Latitude": "-20,79004000000000",
@@ -2594,10 +2297,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3621605,
+    "ID": "3621605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 13:19",
     "Latitude": "-21,00763000000000",
@@ -2612,10 +2320,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3621604,
+    "ID": "3621604",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 13:18",
     "Latitude": "-21,00763000000000",
@@ -2630,10 +2343,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3621931,
+    "ID": "3621931",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/04/2026 12:44",
     "Latitude": "-21,02124000000000",
@@ -2648,10 +2366,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3621930,
+    "ID": "3621930",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/04/2026 12:44",
     "Latitude": "-21,02124000000000",
@@ -2666,10 +2389,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3620953,
+    "ID": "3620953",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 10:23",
     "Latitude": "-20,78748000000000",
@@ -2684,10 +2412,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3620952,
+    "ID": "3620952",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 10:22",
     "Latitude": "-20,78748000000000",
@@ -2702,10 +2435,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3620813,
+    "ID": "3620813",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:46",
     "Latitude": "-21,04210000000000",
@@ -2720,10 +2458,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3620811,
+    "ID": "3620811",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:46",
     "Latitude": "-21,04209000000000",
@@ -2738,10 +2481,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3622454,
+    "ID": "3622454",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:31",
     "Latitude": "-21,03890000000000",
@@ -2756,10 +2504,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3622452,
+    "ID": "3622452",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:31",
     "Latitude": "-21,03890000000000",
@@ -2774,10 +2527,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3621177,
+    "ID": "3621177",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:03",
     "Latitude": "-21,12827000000000",
@@ -2792,10 +2550,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3621176,
+    "ID": "3621176",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:02",
     "Latitude": "-21,12826000000000",
@@ -2810,10 +2573,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3620887,
+    "ID": "3620887",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 08:09",
     "Latitude": "-20,78928000000000",
@@ -2828,10 +2596,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3620886,
+    "ID": "3620886",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 08:08",
     "Latitude": "-20,78884000000000",
@@ -2846,10 +2619,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618878,
+    "ID": "3618878",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 15:55",
     "Latitude": "-20,92711000000000",
@@ -2864,10 +2642,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618877,
+    "ID": "3618877",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 15:55",
     "Latitude": "-20,91504000000000",
@@ -2882,10 +2665,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618152,
+    "ID": "3618152",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 14:05",
     "Latitude": "-21,00858000000000",
@@ -2900,10 +2688,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618151,
+    "ID": "3618151",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 14:03",
     "Latitude": "-21,00859000000000",
@@ -2918,10 +2711,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618150,
+    "ID": "3618150",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 13:51",
     "Latitude": "-21,00856000000000",
@@ -2936,10 +2734,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618149,
+    "ID": "3618149",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 13:46",
     "Latitude": "-21,00856000000000",
@@ -2954,10 +2757,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618379,
+    "ID": "3618379",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 13:00",
     "Latitude": "-20,93113000000000",
@@ -2972,10 +2780,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618378,
+    "ID": "3618378",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 13:00",
     "Latitude": "-20,93113000000000",
@@ -2990,10 +2803,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618688,
+    "ID": "3618688",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:46",
     "Latitude": "-21,11654000000000",
@@ -3008,10 +2826,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618686,
+    "ID": "3618686",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:46",
     "Latitude": "-21,11654000000000",
@@ -3026,10 +2849,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618684,
+    "ID": "3618684",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:45",
     "Latitude": "-21,11654000000000",
@@ -3044,10 +2872,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618682,
+    "ID": "3618682",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:45",
     "Latitude": "-21,11654000000000",
@@ -3062,10 +2895,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618239,
+    "ID": "3618239",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:37",
     "Latitude": "-21,02412000000000",
@@ -3080,10 +2918,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3618237,
+    "ID": "3618237",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:36",
     "Latitude": "-21,02412000000000",
@@ -3098,10 +2941,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3617554,
+    "ID": "3617554",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:28",
     "Latitude": "-21,04499000000000",
@@ -3116,10 +2964,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3617553,
+    "ID": "3617553",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:28",
     "Latitude": "-21,04499000000000",
@@ -3134,10 +2987,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3614352,
+    "ID": "3614352",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:39",
     "Latitude": "-21,15439000000000",
@@ -3152,10 +3010,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613978,
+    "ID": "3613978",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 10:54",
     "Latitude": "-20,79234000000000",
@@ -3170,10 +3033,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613977,
+    "ID": "3613977",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 10:52",
     "Latitude": "-20,79237000000000",
@@ -3188,10 +3056,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613976,
+    "ID": "3613976",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 10:51",
     "Latitude": "-20,79237000000000",
@@ -3206,10 +3079,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613975,
+    "ID": "3613975",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 10:51",
     "Latitude": "-20,79235000000000",
@@ -3224,10 +3102,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613793,
+    "ID": "3613793",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:41",
     "Latitude": "-21,12732000000000",
@@ -3242,10 +3125,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613792,
+    "ID": "3613792",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:40",
     "Latitude": "-21,12732000000000",
@@ -3260,10 +3148,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613840,
+    "ID": "3613840",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:40",
     "Latitude": "-21,03110000000000",
@@ -3278,10 +3171,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613791,
+    "ID": "3613791",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:40",
     "Latitude": "-21,12732000000000",
@@ -3296,10 +3194,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613790,
+    "ID": "3613790",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:40",
     "Latitude": "-21,12732000000000",
@@ -3314,10 +3217,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613839,
+    "ID": "3613839",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:39",
     "Latitude": "-21,03111000000000",
@@ -3332,10 +3240,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613751,
+    "ID": "3613751",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:32",
     "Latitude": "-21,05269000000000",
@@ -3350,10 +3263,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613750,
+    "ID": "3613750",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:32",
     "Latitude": "-21,05269000000000",
@@ -3368,10 +3286,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613838,
+    "ID": "3613838",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:25",
     "Latitude": "-21,04041000000000",
@@ -3386,10 +3309,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3613837,
+    "ID": "3613837",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:24",
     "Latitude": "-21,04042000000000",
@@ -3404,10 +3332,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3614630,
+    "ID": "3614630",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 07:45",
     "Latitude": "-21,02167000000000",
@@ -3422,10 +3355,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3614629,
+    "ID": "3614629",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 07:44",
     "Latitude": "-21,02167000000000",
@@ -3440,10 +3378,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611649,
+    "ID": "3611649",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 14:27",
     "Latitude": "-21,15242000000000",
@@ -3458,10 +3401,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611648,
+    "ID": "3611648",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 14:26",
     "Latitude": "-21,15242000000000",
@@ -3476,10 +3424,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611647,
+    "ID": "3611647",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 14:25",
     "Latitude": "-21,15241000000000",
@@ -3494,10 +3447,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611646,
+    "ID": "3611646",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 14:23",
     "Latitude": "-21,15242000000000",
@@ -3512,10 +3470,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611800,
+    "ID": "3611800",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:43",
     "Latitude": "-21,03326000000000",
@@ -3530,10 +3493,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611799,
+    "ID": "3611799",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:41",
     "Latitude": "-21,03325000000000",
@@ -3548,10 +3516,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611798,
+    "ID": "3611798",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:41",
     "Latitude": "-21,03325000000000",
@@ -3566,10 +3539,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611797,
+    "ID": "3611797",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:40",
     "Latitude": "-21,03325000000000",
@@ -3584,10 +3562,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3610949,
+    "ID": "3610949",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:04",
     "Latitude": "-20,79025000000000",
@@ -3602,10 +3585,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3610948,
+    "ID": "3610948",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:03",
     "Latitude": "-20,79025000000000",
@@ -3620,10 +3608,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3610947,
+    "ID": "3610947",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:02",
     "Latitude": "-20,79025000000000",
@@ -3638,10 +3631,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3610946,
+    "ID": "3610946",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:02",
     "Latitude": "-20,79024000000000",
@@ -3656,10 +3654,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611092,
+    "ID": "3611092",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:00",
     "Latitude": "-21,02135000000000",
@@ -3674,10 +3677,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3611091,
+    "ID": "3611091",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 08:58",
     "Latitude": "-21,02136000000000",
@@ -3692,10 +3700,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3608712,
+    "ID": "3608712",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 12:29",
     "Latitude": "-21,07349000000000",
@@ -3710,10 +3723,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3608711,
+    "ID": "3608711",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 12:28",
     "Latitude": "-21,07349000000000",
@@ -3728,10 +3746,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3609543,
+    "ID": "3609543",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 12:08",
     "Latitude": "-21,14174000000000",
@@ -3746,10 +3769,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3609542,
+    "ID": "3609542",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 12:08",
     "Latitude": "-21,14174000000000",
@@ -3764,10 +3792,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3609541,
+    "ID": "3609541",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 12:08",
     "Latitude": "-21,14174000000000",
@@ -3782,10 +3815,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3609540,
+    "ID": "3609540",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 12:07",
     "Latitude": "-21,14174000000000",
@@ -3800,10 +3838,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3608316,
+    "ID": "3608316",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:53",
     "Latitude": "-21,03985000000000",
@@ -3818,10 +3861,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3608317,
+    "ID": "3608317",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:50",
     "Latitude": "-21,03985000000000",
@@ -3836,10 +3884,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607610,
+    "ID": "3607610",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:13",
     "Latitude": "-20,79561000000000",
@@ -3854,10 +3907,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607609,
+    "ID": "3607609",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:13",
     "Latitude": "-20,79558000000000",
@@ -3872,10 +3930,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607608,
+    "ID": "3607608",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:12",
     "Latitude": "-20,79557000000000",
@@ -3890,10 +3953,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607607,
+    "ID": "3607607",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:11",
     "Latitude": "-20,79558000000000",
@@ -3908,10 +3976,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587695,
+    "ID": "3587695",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 10:33",
     "Latitude": "-21,05881000000000",
@@ -3926,10 +3999,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607422,
+    "ID": "3607422",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:05",
     "Latitude": "-21,05201000000000",
@@ -3944,10 +4022,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607421,
+    "ID": "3607421",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:02",
     "Latitude": "-21,05200000000000",
@@ -3962,10 +4045,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3608243,
+    "ID": "3608243",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 08:59",
     "Latitude": "-21,00756000000000",
@@ -3980,10 +4068,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3608242,
+    "ID": "3608242",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 08:59",
     "Latitude": "-21,00756000000000",
@@ -3998,10 +4091,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3605436,
+    "ID": "3605436",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 14:41",
     "Latitude": "-21,06987000000000",
@@ -4016,10 +4114,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3605435,
+    "ID": "3605435",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 14:40",
     "Latitude": "-21,06987000000000",
@@ -4034,10 +4137,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607367,
+    "ID": "3607367",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 14:31",
     "Latitude": "-20,79165000000000",
@@ -4052,10 +4160,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3607366,
+    "ID": "3607366",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 14:31",
     "Latitude": "-20,79161000000000",
@@ -4070,10 +4183,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604577,
+    "ID": "3604577",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/04/2026 14:25",
     "Latitude": "-21,06860000000000",
@@ -4088,10 +4206,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604054,
+    "ID": "3604054",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 11:02",
     "Latitude": "-20,79202000000000",
@@ -4106,10 +4229,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604053,
+    "ID": "3604053",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 11:02",
     "Latitude": "-20,79201000000000",
@@ -4124,10 +4252,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604649,
+    "ID": "3604649",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 10:20",
     "Latitude": "-21,03980000000000",
@@ -4142,10 +4275,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604648,
+    "ID": "3604648",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 10:18",
     "Latitude": "-21,03981000000000",
@@ -4160,10 +4298,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604205,
+    "ID": "3604205",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 09:35",
     "Latitude": "-21,08289000000000",
@@ -4178,10 +4321,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3604204,
+    "ID": "3604204",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 09:34",
     "Latitude": "-21,07940000000000",
@@ -4196,10 +4344,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3603985,
+    "ID": "3603985",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 08:20",
     "Latitude": "-21,00859000000000",
@@ -4214,10 +4367,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3603913,
+    "ID": "3603913",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 08:18",
     "Latitude": "-21,00860000000000",
@@ -4232,10 +4390,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602512,
+    "ID": "3602512",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "21/04/2026 13:26",
     "Latitude": "-21,06589000000000",
@@ -4250,10 +4413,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602511,
+    "ID": "3602511",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "21/04/2026 13:25",
     "Latitude": "-21,06589000000000",
@@ -4268,10 +4436,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601423,
+    "ID": "3601423",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:52",
     "Latitude": "-20,79220000000000",
@@ -4286,10 +4459,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601487,
+    "ID": "3601487",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:51",
     "Latitude": "-21,01054000000000",
@@ -4304,10 +4482,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601422,
+    "ID": "3601422",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:51",
     "Latitude": "-20,79315000000000",
@@ -4322,10 +4505,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601486,
+    "ID": "3601486",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:50",
     "Latitude": "-21,01053000000000",
@@ -4340,10 +4528,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601421,
+    "ID": "3601421",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:49",
     "Latitude": "-20,79367000000000",
@@ -4358,10 +4551,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601420,
+    "ID": "3601420",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:48",
     "Latitude": "-20,79346000000000",
@@ -4376,10 +4574,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602104,
+    "ID": "3602104",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:06",
     "Latitude": "-21,06492000000000",
@@ -4394,10 +4597,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602103,
+    "ID": "3602103",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 10:06",
     "Latitude": "-21,06492000000000",
@@ -4412,10 +4620,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601543,
+    "ID": "3601543",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:34",
     "Latitude": "-21,04382000000000",
@@ -4430,10 +4643,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3601542,
+    "ID": "3601542",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:33",
     "Latitude": "-21,04382000000000",
@@ -4448,10 +4666,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602087,
+    "ID": "3602087",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:00",
     "Latitude": "-21,06569000000000",
@@ -4466,10 +4689,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602086,
+    "ID": "3602086",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:00",
     "Latitude": "-21,06569000000000",
@@ -4484,10 +4712,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602296,
+    "ID": "3602296",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 08:21",
     "Latitude": "-21,04154000000000",
@@ -4502,10 +4735,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3602295,
+    "ID": "3602295",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 08:20",
     "Latitude": "-21,04154000000000",
@@ -4520,10 +4758,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599177,
+    "ID": "3599177",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 14:12",
     "Latitude": "-20,79088000000000",
@@ -4538,10 +4781,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599175,
+    "ID": "3599175",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 14:09",
     "Latitude": "-20,78960000000000",
@@ -4556,10 +4804,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599548,
+    "ID": "3599548",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 13:27",
     "Latitude": "-21,07016000000000",
@@ -4574,10 +4827,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599549,
+    "ID": "3599549",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 13:27",
     "Latitude": "-21,07016000000000",
@@ -4592,10 +4850,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599512,
+    "ID": "3599512",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 11:12",
     "Latitude": "-21,06921000000000",
@@ -4610,10 +4873,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599511,
+    "ID": "3599511",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 11:12",
     "Latitude": "-21,06921000000000",
@@ -4628,10 +4896,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3598199,
+    "ID": "3598199",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 09:11",
     "Latitude": "-21,01242000000000",
@@ -4646,10 +4919,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3598198,
+    "ID": "3598198",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 09:08",
     "Latitude": "-21,01242000000000",
@@ -4664,10 +4942,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599783,
+    "ID": "3599783",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 08:58",
     "Latitude": "-21,04699000000000",
@@ -4682,10 +4965,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3599782,
+    "ID": "3599782",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 08:57",
     "Latitude": "-21,04700000000000",
@@ -4700,10 +4988,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3596448,
+    "ID": "3596448",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "18/04/2026 15:28",
     "Latitude": "-21,06669000000000",
@@ -4718,10 +5011,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3596447,
+    "ID": "3596447",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "18/04/2026 15:27",
     "Latitude": "-21,07103000000000",
@@ -4736,10 +5034,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595677,
+    "ID": "3595677",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:56",
     "Latitude": "-20,79742000000000",
@@ -4754,10 +5057,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3596224,
+    "ID": "3596224",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:55",
     "Latitude": "-21,01198000000000",
@@ -4772,10 +5080,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595676,
+    "ID": "3595676",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:55",
     "Latitude": "-20,79744000000000",
@@ -4790,10 +5103,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3596222,
+    "ID": "3596222",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:54",
     "Latitude": "-21,01198000000000",
@@ -4808,10 +5126,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595899,
+    "ID": "3595899",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:42",
     "Latitude": "-21,12213000000000",
@@ -4826,10 +5149,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595898,
+    "ID": "3595898",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:41",
     "Latitude": "-21,12211000000000",
@@ -4844,10 +5172,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595649,
+    "ID": "3595649",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 09:49",
     "Latitude": "-20,79205000000000",
@@ -4862,10 +5195,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595648,
+    "ID": "3595648",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 09:48",
     "Latitude": "-20,79204000000000",
@@ -4880,10 +5218,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595693,
+    "ID": "3595693",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:12",
     "Latitude": "-21,10009000000000",
@@ -4898,10 +5241,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595692,
+    "ID": "3595692",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:12",
     "Latitude": "-21,10009000000000",
@@ -4916,10 +5264,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595691,
+    "ID": "3595691",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:11",
     "Latitude": "-21,10009000000000",
@@ -4934,10 +5287,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595690,
+    "ID": "3595690",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:10",
     "Latitude": "-21,10009000000000",
@@ -4952,10 +5310,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595333,
+    "ID": "3595333",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/04/2026 15:02",
     "Latitude": "-21,04800000000000",
@@ -4970,10 +5333,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3595332,
+    "ID": "3595332",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/04/2026 15:01",
     "Latitude": "-21,04799000000000",
@@ -4988,10 +5356,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3594648,
+    "ID": "3594648",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:25",
     "Latitude": "-21,07562000000000",
@@ -5006,10 +5379,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3594646,
+    "ID": "3594646",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:24",
     "Latitude": "-21,07540000000000",
@@ -5024,10 +5402,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593827,
+    "ID": "3593827",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 13:41",
     "Latitude": "-21,10401000000000",
@@ -5042,10 +5425,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593826,
+    "ID": "3593826",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 13:41",
     "Latitude": "-21,10401000000000",
@@ -5060,10 +5448,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593825,
+    "ID": "3593825",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 13:41",
     "Latitude": "-21,10401000000000",
@@ -5078,10 +5471,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593824,
+    "ID": "3593824",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 13:40",
     "Latitude": "-21,10401000000000",
@@ -5096,10 +5494,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593020,
+    "ID": "3593020",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 11:00",
     "Latitude": "-20,79462000000000",
@@ -5114,10 +5517,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593017,
+    "ID": "3593017",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 10:59",
     "Latitude": "-20,79461000000000",
@@ -5132,10 +5540,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593339,
+    "ID": "3593339",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 09:47",
     "Latitude": "-21,13437000000000",
@@ -5150,10 +5563,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3593338,
+    "ID": "3593338",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 09:46",
     "Latitude": "-21,13438000000000",
@@ -5168,10 +5586,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3590380,
+    "ID": "3590380",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/04/2026 12:35",
     "Latitude": "-21,16050000000000",
@@ -5186,10 +5609,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3590379,
+    "ID": "3590379",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/04/2026 12:34",
     "Latitude": "-21,16049000000000",
@@ -5204,10 +5632,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3591164,
+    "ID": "3591164",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:56",
     "Latitude": "-20,79565000000000",
@@ -5222,10 +5655,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3591163,
+    "ID": "3591163",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:55",
     "Latitude": "-20,79568000000000",
@@ -5240,10 +5678,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3592506,
+    "ID": "3592506",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:44",
     "Latitude": "-20,79442000000000",
@@ -5258,10 +5701,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3592505,
+    "ID": "3592505",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:44",
     "Latitude": "-20,79442000000000",
@@ -5276,10 +5724,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3590340,
+    "ID": "3590340",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/04/2026 09:17",
     "Latitude": "-21,16321000000000",
@@ -5294,10 +5747,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3590339,
+    "ID": "3590339",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/04/2026 09:16",
     "Latitude": "-21,16321000000000",
@@ -5312,10 +5770,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3591020,
+    "ID": "3591020",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "16/04/2026 08:32",
     "Latitude": "-21,03896000000000",
@@ -5330,10 +5793,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3591019,
+    "ID": "3591019",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "16/04/2026 08:32",
     "Latitude": "-21,03896000000000",
@@ -5348,10 +5816,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3591018,
+    "ID": "3591018",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "16/04/2026 08:31",
     "Latitude": "-21,03896000000000",
@@ -5366,10 +5839,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3591017,
+    "ID": "3591017",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "16/04/2026 08:31",
     "Latitude": "-21,03896000000000",
@@ -5384,10 +5862,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587863,
+    "ID": "3587863",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:50",
     "Latitude": "-20,79447000000000",
@@ -5402,10 +5885,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587862,
+    "ID": "3587862",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:48",
     "Latitude": "-20,79419000000000",
@@ -5420,10 +5908,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587861,
+    "ID": "3587861",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:47",
     "Latitude": "-20,79384000000000",
@@ -5438,10 +5931,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587860,
+    "ID": "3587860",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:47",
     "Latitude": "-20,79718000000000",
@@ -5456,10 +5954,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587694,
+    "ID": "3587694",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:25",
     "Latitude": "-21,05883000000000",
@@ -5474,10 +5977,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587693,
+    "ID": "3587693",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:25",
     "Latitude": "-21,05882000000000",
@@ -5492,10 +6000,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587692,
+    "ID": "3587692",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 14:25",
     "Latitude": "-21,05882000000000",
@@ -5510,10 +6023,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3588323,
+    "ID": "3588323",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "15/04/2026 13:01",
     "Latitude": "-20,80193000000000",
@@ -5528,10 +6046,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3588322,
+    "ID": "3588322",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "15/04/2026 13:00",
     "Latitude": "-20,80195000000000",
@@ -5546,10 +6069,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3588514,
+    "ID": "3588514",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 13:00",
     "Latitude": "-20,80194000000000",
@@ -5564,10 +6092,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3588699,
+    "ID": "3588699",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:59",
     "Latitude": "-20,80194000000000",
@@ -5582,10 +6115,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587719,
+    "ID": "3587719",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 08:54",
     "Latitude": "-21,12502000000000",
@@ -5600,10 +6138,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3587718,
+    "ID": "3587718",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 08:54",
     "Latitude": "-21,12502000000000",
@@ -5618,10 +6161,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3586292,
+    "ID": "3586292",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 14:22",
     "Latitude": "-20,79809000000000",
@@ -5636,10 +6184,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3586291,
+    "ID": "3586291",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 14:21",
     "Latitude": "-20,79809000000000",
@@ -5654,10 +6207,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3585075,
+    "ID": "3585075",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 14:19",
     "Latitude": "-21,19395000000000",
@@ -5672,10 +6230,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3585073,
+    "ID": "3585073",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 14:18",
     "Latitude": "-21,19394000000000",
@@ -5690,10 +6253,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3579198,
+    "ID": "3579198",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:34",
     "Latitude": "-21,12803000000000",
@@ -5708,10 +6276,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3585131,
+    "ID": "3585131",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:09",
     "Latitude": "-21,12607000000000",
@@ -5726,10 +6299,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3585130,
+    "ID": "3585130",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:08",
     "Latitude": "-21,12607000000000",
@@ -5744,10 +6322,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3585129,
+    "ID": "3585129",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:07",
     "Latitude": "-21,12609000000000",
@@ -5762,10 +6345,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3585128,
+    "ID": "3585128",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:06",
     "Latitude": "-21,12609000000000",
@@ -5780,10 +6368,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3584084,
+    "ID": "3584084",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:07",
     "Latitude": "-21,05901000000000",
@@ -5798,10 +6391,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3584083,
+    "ID": "3584083",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:06",
     "Latitude": "-21,05901000000000",
@@ -5816,10 +6414,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3584424,
+    "ID": "3584424",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:00",
     "Latitude": "-20,79799000000000",
@@ -5834,10 +6437,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3584423,
+    "ID": "3584423",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 09:59",
     "Latitude": "-20,79799000000000",
@@ -5852,10 +6460,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581811,
+    "ID": "3581811",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "13/04/2026 12:35",
     "Latitude": "-20,79930000000000",
@@ -5870,10 +6483,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581809,
+    "ID": "3581809",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "13/04/2026 12:34",
     "Latitude": "-20,79929000000000",
@@ -5888,10 +6506,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581414,
+    "ID": "3581414",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 12:30",
     "Latitude": "-21,13089000000000",
@@ -5906,10 +6529,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581413,
+    "ID": "3581413",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 12:29",
     "Latitude": "-21,13089000000000",
@@ -5924,10 +6552,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581842,
+    "ID": "3581842",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:36",
     "Latitude": "-21,13010000000000",
@@ -5942,10 +6575,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581841,
+    "ID": "3581841",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:35",
     "Latitude": "-21,13008000000000",
@@ -5960,10 +6598,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581227,
+    "ID": "3581227",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:27",
     "Latitude": "-20,79913000000000",
@@ -5978,10 +6621,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581226,
+    "ID": "3581226",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:21",
     "Latitude": "-20,79915000000000",
@@ -5996,10 +6644,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3583586,
+    "ID": "3583586",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:10",
     "Latitude": "-21,18601000000000",
@@ -6014,10 +6667,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3583585,
+    "ID": "3583585",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:09",
     "Latitude": "-21,18601000000000",
@@ -6032,10 +6690,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581045,
+    "ID": "3581045",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:55",
     "Latitude": "-21,05489000000000",
@@ -6050,10 +6713,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3581044,
+    "ID": "3581044",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:54",
     "Latitude": "-21,05489000000000",
@@ -6068,10 +6736,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3579067,
+    "ID": "3579067",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:16",
     "Latitude": "-21,05740000000000",
@@ -6086,10 +6759,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3579066,
+    "ID": "3579066",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:15",
     "Latitude": "-21,05740000000000",
@@ -6104,10 +6782,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3579197,
+    "ID": "3579197",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:11",
     "Latitude": "-21,12803000000000",
@@ -6122,10 +6805,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3579341,
+    "ID": "3579341",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/11/2026 12:36",
     "Latitude": "-20,79940000000000",
@@ -6140,10 +6828,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3579340,
+    "ID": "3579340",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/11/2026 12:36",
     "Latitude": "-20,79940000000000",
@@ -6158,10 +6851,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3580909,
+    "ID": "3580909",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 11:04",
     "Latitude": "-21,14224000000000",
@@ -6176,10 +6874,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3580908,
+    "ID": "3580908",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 11:03",
     "Latitude": "-21,14224000000000",
@@ -6194,10 +6897,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3580907,
+    "ID": "3580907",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 11:02",
     "Latitude": "-21,14224000000000",
@@ -6212,10 +6920,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3580906,
+    "ID": "3580906",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 11:01",
     "Latitude": "-21,14224000000000",
@@ -6230,10 +6943,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3576693,
+    "ID": "3576693",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 12:28",
     "Latitude": "-21,13018000000000",
@@ -6248,10 +6966,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3576692,
+    "ID": "3576692",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 12:26",
     "Latitude": "-21,13015000000000",
@@ -6266,10 +6989,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3577385,
+    "ID": "3577385",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 12:14",
     "Latitude": "-20,79874000000000",
@@ -6284,10 +7012,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3577384,
+    "ID": "3577384",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 12:11",
     "Latitude": "-20,79875000000000",
@@ -6302,10 +7035,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3577383,
+    "ID": "3577383",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 12:09",
     "Latitude": "-20,79875000000000",
@@ -6320,10 +7058,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3577382,
+    "ID": "3577382",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 12:09",
     "Latitude": "-20,79875000000000",
@@ -6338,10 +7081,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3576932,
+    "ID": "3576932",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:25",
     "Latitude": "-21,05264000000000",
@@ -6356,10 +7104,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3576931,
+    "ID": "3576931",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:24",
     "Latitude": "-21,05263000000000",
@@ -6374,10 +7127,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574689,
+    "ID": "3574689",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/09/2026 13:49",
     "Latitude": "-21,04710000000000",
@@ -6392,10 +7150,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574688,
+    "ID": "3574688",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/09/2026 13:48",
     "Latitude": "-21,04714000000000",
@@ -6410,10 +7173,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574565,
+    "ID": "3574565",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 11:16",
     "Latitude": "-21,21463000000000",
@@ -6428,10 +7196,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574776,
+    "ID": "3574776",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 11:15",
     "Latitude": "-21,21463000000000",
@@ -6446,10 +7219,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574445,
+    "ID": "3574445",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 11:08",
     "Latitude": "-21,14377000000000",
@@ -6464,10 +7242,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574444,
+    "ID": "3574444",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 11:06",
     "Latitude": "-21,14375000000000",
@@ -6482,10 +7265,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574486,
+    "ID": "3574486",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 09:14",
     "Latitude": "-21,22481000000000",
@@ -6500,10 +7288,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3574485,
+    "ID": "3574485",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 09:13",
     "Latitude": "-21,22480000000000",
@@ -6518,10 +7311,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572479,
+    "ID": "3572479",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 14:17",
     "Latitude": "-21,14649000000000",
@@ -6536,10 +7334,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572478,
+    "ID": "3572478",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 14:16",
     "Latitude": "-21,14547000000000",
@@ -6554,10 +7357,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572211,
+    "ID": "3572211",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:09",
     "Latitude": "-21,14946000000000",
@@ -6572,10 +7380,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572210,
+    "ID": "3572210",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:07",
     "Latitude": "-21,14931000000000",
@@ -6590,10 +7403,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572583,
+    "ID": "3572583",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:07",
     "Latitude": "-21,13987000000000",
@@ -6608,10 +7426,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572582,
+    "ID": "3572582",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:07",
     "Latitude": "-21,13987000000000",
@@ -6626,10 +7449,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572581,
+    "ID": "3572581",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:06",
     "Latitude": "-21,13988000000000",
@@ -6644,10 +7472,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3572580,
+    "ID": "3572580",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:06",
     "Latitude": "-21,13988000000000",
@@ -6662,10 +7495,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569971,
+    "ID": "3569971",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:51",
     "Latitude": "-21,05342000000000",
@@ -6680,10 +7518,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569970,
+    "ID": "3569970",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:50",
     "Latitude": "-21,05342000000000",
@@ -6698,10 +7541,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569875,
+    "ID": "3569875",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:05",
     "Latitude": "-21,14903000000000",
@@ -6716,10 +7564,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569874,
+    "ID": "3569874",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:05",
     "Latitude": "-21,14904000000000",
@@ -6734,10 +7587,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569873,
+    "ID": "3569873",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:04",
     "Latitude": "-21,14900000000000",
@@ -6752,10 +7610,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569872,
+    "ID": "3569872",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:02",
     "Latitude": "-21,14900000000000",
@@ -6770,10 +7633,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3570067,
+    "ID": "3570067",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 10:40",
     "Latitude": "-21,09741000000000",
@@ -6788,10 +7656,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3570065,
+    "ID": "3570065",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 10:39",
     "Latitude": "-21,09741000000000",
@@ -6806,10 +7679,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3570135,
+    "ID": "3570135",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/07/2026 10:04",
     "Latitude": "-21,14265000000000",
@@ -6824,10 +7702,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3570134,
+    "ID": "3570134",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/07/2026 10:03",
     "Latitude": "-21,14264000000000",
@@ -6842,10 +7725,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569908,
+    "ID": "3569908",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:23",
     "Latitude": "-21,10584000000000",
@@ -6860,10 +7748,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569907,
+    "ID": "3569907",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:22",
     "Latitude": "-21,10585000000000",
@@ -6878,10 +7771,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,15",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569906,
+    "ID": "3569906",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:22",
     "Latitude": "-21,10585000000000",
@@ -6896,10 +7794,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3569905,
+    "ID": "3569905",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:21",
     "Latitude": "-21,10585000000000",
@@ -6914,10 +7817,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567763,
+    "ID": "3567763",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/06/2026 14:52",
     "Latitude": "-21,05163000000000",
@@ -6932,10 +7840,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567762,
+    "ID": "3567762",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/06/2026 14:50",
     "Latitude": "-21,05209000000000",
@@ -6950,10 +7863,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567716,
+    "ID": "3567716",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/06/2026 12:08",
     "Latitude": "-21,11054000000000",
@@ -6968,10 +7886,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567715,
+    "ID": "3567715",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/06/2026 12:07",
     "Latitude": "-21,11054000000000",
@@ -6986,10 +7909,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567734,
+    "ID": "3567734",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:52",
     "Latitude": "-21,09494000000000",
@@ -7004,10 +7932,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567733,
+    "ID": "3567733",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:51",
     "Latitude": "-21,09494000000000",
@@ -7022,10 +7955,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567732,
+    "ID": "3567732",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:50",
     "Latitude": "-21,09494000000000",
@@ -7040,10 +7978,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567731,
+    "ID": "3567731",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:48",
     "Latitude": "-21,09488000000000",
@@ -7058,10 +8001,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567075,
+    "ID": "3567075",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:12",
     "Latitude": "-21,09535000000000",
@@ -7076,10 +8024,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567074,
+    "ID": "3567074",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:12",
     "Latitude": "-21,09533000000000",
@@ -7094,10 +8047,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567073,
+    "ID": "3567073",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:11",
     "Latitude": "-21,09534000000000",
@@ -7112,10 +8070,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567072,
+    "ID": "3567072",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:10",
     "Latitude": "-21,09533000000000",
@@ -7130,10 +8093,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567693,
+    "ID": "3567693",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "04/06/2026 09:51",
     "Latitude": "-21,11213000000000",
@@ -7148,10 +8116,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3567692,
+    "ID": "3567692",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "04/06/2026 09:51",
     "Latitude": "-21,11215000000000",
@@ -7166,10 +8139,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3565618,
+    "ID": "3565618",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:58",
     "Latitude": "-21,09576000000000",
@@ -7184,10 +8162,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3565617,
+    "ID": "3565617",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:57",
     "Latitude": "-21,09576000000000",
@@ -7202,10 +8185,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3565616,
+    "ID": "3565616",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:56",
     "Latitude": "-21,09576000000000",
@@ -7220,10 +8208,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3565615,
+    "ID": "3565615",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:55",
     "Latitude": "-21,09576000000000",
@@ -7238,10 +8231,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3565574,
+    "ID": "3565574",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 09:33",
     "Latitude": "-21,13730000000000",
@@ -7256,10 +8254,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3565573,
+    "ID": "3565573",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 09:32",
     "Latitude": "-21,13730000000000",
@@ -7274,10 +8277,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3560766,
+    "ID": "3560766",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/01/2026 09:57",
     "Latitude": "-21,05282000000000",
@@ -7292,10 +8300,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3560765,
+    "ID": "3560765",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/01/2026 09:57",
     "Latitude": "-21,05283000000000",
@@ -7310,10 +8323,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3560502,
+    "ID": "3560502",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "04/01/2026 09:56",
     "Latitude": "-21,05276000000000",
@@ -7328,10 +8346,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3560501,
+    "ID": "3560501",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "04/01/2026 09:56",
     "Latitude": "-21,05278000000000",
@@ -7346,10 +8369,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558228,
+    "ID": "3558228",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 13:02",
     "Latitude": "-21,11383000000000",
@@ -7364,10 +8392,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558227,
+    "ID": "3558227",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 13:01",
     "Latitude": "-21,11383000000000",
@@ -7382,10 +8415,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558268,
+    "ID": "3558268",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:46",
     "Latitude": "-21,11984000000000",
@@ -7400,10 +8438,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558267,
+    "ID": "3558267",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:46",
     "Latitude": "-21,11984000000000",
@@ -7418,10 +8461,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558179,
+    "ID": "3558179",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:16",
     "Latitude": "-21,02189000000000",
@@ -7436,10 +8484,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3557983,
+    "ID": "3557983",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 09:14",
     "Latitude": "-20,98579000000000",
@@ -7454,10 +8507,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3557982,
+    "ID": "3557982",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 09:14",
     "Latitude": "-20,98579000000000",
@@ -7472,10 +8530,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558543,
+    "ID": "3558543",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/03/2026 08:43",
     "Latitude": "-21,05279000000000",
@@ -7490,10 +8553,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3558542,
+    "ID": "3558542",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/03/2026 08:42",
     "Latitude": "-21,05279000000000",
@@ -7508,10 +8576,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556299,
+    "ID": "3556299",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 15:01",
     "Latitude": "-21,04803000000000",
@@ -7526,10 +8599,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556293,
+    "ID": "3556293",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 15:01",
     "Latitude": "-21,04803000000000",
@@ -7544,10 +8622,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556289,
+    "ID": "3556289",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 15:01",
     "Latitude": "-21,04803000000000",
@@ -7562,10 +8645,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556285,
+    "ID": "3556285",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 15:01",
     "Latitude": "-21,04804000000000",
@@ -7580,10 +8668,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556300,
+    "ID": "3556300",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 14:41",
     "Latitude": "-21,05088000000000",
@@ -7598,10 +8691,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556298,
+    "ID": "3556298",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 14:40",
     "Latitude": "-21,05088000000000",
@@ -7616,10 +8714,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556297,
+    "ID": "3556297",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 14:01",
     "Latitude": "-21,05309000000000",
@@ -7634,10 +8737,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556296,
+    "ID": "3556296",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 14:01",
     "Latitude": "-21,05313000000000",
@@ -7652,10 +8760,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556086,
+    "ID": "3556086",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 12:57",
     "Latitude": "-21,11384000000000",
@@ -7670,10 +8783,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3556085,
+    "ID": "3556085",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 12:56",
     "Latitude": "-21,11384000000000",
@@ -7688,10 +8806,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3555955,
+    "ID": "3555955",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 12:15",
     "Latitude": "-21,13246000000000",
@@ -7706,10 +8829,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3555954,
+    "ID": "3555954",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 12:14",
     "Latitude": "-21,13246000000000",
@@ -7724,10 +8852,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3555949,
+    "ID": "3555949",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:58",
     "Latitude": "-21,13339000000000",
@@ -7742,10 +8875,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3555948,
+    "ID": "3555948",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:57",
     "Latitude": "-21,13339000000000",
@@ -7760,10 +8898,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3555651,
+    "ID": "3555651",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:17",
     "Latitude": "-20,98777000000000",
@@ -7778,10 +8921,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3555650,
+    "ID": "3555650",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:16",
     "Latitude": "-20,98777000000000",
@@ -7796,10 +8944,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553811,
+    "ID": "3553811",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/03/2026 15:20",
     "Latitude": "-21,05570000000000",
@@ -7814,10 +8967,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553810,
+    "ID": "3553810",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/03/2026 15:19",
     "Latitude": "-21,05570000000000",
@@ -7832,10 +8990,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553588,
+    "ID": "3553588",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 13:07",
     "Latitude": "-21,11831000000000",
@@ -7850,10 +9013,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553587,
+    "ID": "3553587",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 13:06",
     "Latitude": "-21,11861000000000",
@@ -7868,10 +9036,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553657,
+    "ID": "3553657",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:53",
     "Latitude": "-20,98848000000000",
@@ -7886,10 +9059,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553311,
+    "ID": "3553311",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:40",
     "Latitude": "-21,02945000000000",
@@ -7904,10 +9082,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553274,
+    "ID": "3553274",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:39",
     "Latitude": "-21,02946000000000",
@@ -7922,10 +9105,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553121,
+    "ID": "3553121",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:11",
     "Latitude": "-21,13147000000000",
@@ -7940,10 +9128,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553120,
+    "ID": "3553120",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:11",
     "Latitude": "-21,13147000000000",
@@ -7958,10 +9151,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553754,
+    "ID": "3553754",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 09:53",
     "Latitude": "-21,15441000000000",
@@ -7976,10 +9174,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553753,
+    "ID": "3553753",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 09:52",
     "Latitude": "-21,15441000000000",
@@ -7994,10 +9197,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553509,
+    "ID": "3553509",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 08:54",
     "Latitude": "-21,11775000000000",
@@ -8012,10 +9220,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553512,
+    "ID": "3553512",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 08:53",
     "Latitude": "-21,11760000000000",
@@ -8030,10 +9243,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553511,
+    "ID": "3553511",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 08:51",
     "Latitude": "-21,11763000000000",
@@ -8048,10 +9266,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3553510,
+    "ID": "3553510",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 08:50",
     "Latitude": "-21,11770000000000",
@@ -8066,10 +9289,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551379,
+    "ID": "3551379",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 13:29",
     "Latitude": "-21,15686000000000",
@@ -8084,10 +9312,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551374,
+    "ID": "3551374",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 13:29",
     "Latitude": "-21,15686000000000",
@@ -8102,10 +9335,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551336,
+    "ID": "3551336",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/03/2026 11:39",
     "Latitude": "-21,10483000000000",
@@ -8120,10 +9358,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551333,
+    "ID": "3551333",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/03/2026 11:39",
     "Latitude": "-21,10483000000000",
@@ -8138,10 +9381,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551043,
+    "ID": "3551043",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 11:22",
     "Latitude": "-21,02389000000000",
@@ -8156,10 +9404,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551042,
+    "ID": "3551042",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 11:22",
     "Latitude": "-21,02389000000000",
@@ -8174,10 +9427,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551335,
+    "ID": "3551335",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 08:37",
     "Latitude": "-21,12226000000000",
@@ -8192,10 +9450,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551334,
+    "ID": "3551334",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 08:36",
     "Latitude": "-21,12224000000000",
@@ -8210,10 +9473,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551332,
+    "ID": "3551332",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 08:35",
     "Latitude": "-21,12222000000000",
@@ -8228,10 +9496,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3551330,
+    "ID": "3551330",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 08:32",
     "Latitude": "-21,12204000000000",
@@ -8246,10 +9519,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549640,
+    "ID": "3549640",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 15:01",
     "Latitude": "-21,11938000000000",
@@ -8264,10 +9542,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549639,
+    "ID": "3549639",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 15:00",
     "Latitude": "-21,11938000000000",
@@ -8282,10 +9565,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549602,
+    "ID": "3549602",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 14:30",
     "Latitude": "-21,10542000000000",
@@ -8300,10 +9588,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549714,
+    "ID": "3549714",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 14:29",
     "Latitude": "-21,10542000000000",
@@ -8318,10 +9611,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549590,
+    "ID": "3549590",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 14:29",
     "Latitude": "-21,10542000000000",
@@ -8336,10 +9634,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549579,
+    "ID": "3549579",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 14:28",
     "Latitude": "-21,10542000000000",
@@ -8354,10 +9657,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549311,
+    "ID": "3549311",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:57",
     "Latitude": "-21,15684000000000",
@@ -8372,10 +9680,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549310,
+    "ID": "3549310",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:57",
     "Latitude": "-21,15686000000000",
@@ -8390,10 +9703,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549190,
+    "ID": "3549190",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 11:07",
     "Latitude": "-20,98588000000000",
@@ -8408,10 +9726,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549189,
+    "ID": "3549189",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 11:06",
     "Latitude": "-20,98588000000000",
@@ -8426,10 +9749,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549384,
+    "ID": "3549384",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 10:04",
     "Latitude": "-21,11817000000000",
@@ -8444,10 +9772,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549383,
+    "ID": "3549383",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 10:03",
     "Latitude": "-21,11817000000000",
@@ -8462,10 +9795,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549382,
+    "ID": "3549382",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 10:02",
     "Latitude": "-21,11818000000000",
@@ -8480,10 +9818,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3549381,
+    "ID": "3549381",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 10:00",
     "Latitude": "-21,11819000000000",
@@ -8498,10 +9841,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547521,
+    "ID": "3547521",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 13:51",
     "Latitude": "-21,08623000000000",
@@ -8516,10 +9864,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547527,
+    "ID": "3547527",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 13:48",
     "Latitude": "-21,08622000000000",
@@ -8534,10 +9887,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547434,
+    "ID": "3547434",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 12:38",
     "Latitude": "-21,08856000000000",
@@ -8552,10 +9910,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547433,
+    "ID": "3547433",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 12:37",
     "Latitude": "-21,08856000000000",
@@ -8570,10 +9933,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547432,
+    "ID": "3547432",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 12:36",
     "Latitude": "-21,08856000000000",
@@ -8588,10 +9956,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,001",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547431,
+    "ID": "3547431",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 12:33",
     "Latitude": "-21,08861000000000",
@@ -8606,10 +9979,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547613,
+    "ID": "3547613",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "25/03/2026 10:26",
     "Latitude": "-21,06130000000000",
@@ -8624,10 +10002,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547612,
+    "ID": "3547612",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "25/03/2026 10:26",
     "Latitude": "-21,06130000000000",
@@ -8642,10 +10025,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3546985,
+    "ID": "3546985",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:25",
     "Latitude": "-21,06159000000000",
@@ -8660,10 +10048,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3546984,
+    "ID": "3546984",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:24",
     "Latitude": "-21,06161000000000",
@@ -8678,10 +10071,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3546919,
+    "ID": "3546919",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 08:52",
     "Latitude": "-21,00620000000000",
@@ -8696,10 +10094,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3546918,
+    "ID": "3546918",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 08:51",
     "Latitude": "-21,00620000000000",
@@ -8714,10 +10117,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547284,
+    "ID": "3547284",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 08:01",
     "Latitude": "-21,12082000000000",
@@ -8732,10 +10140,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3547283,
+    "ID": "3547283",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 08:00",
     "Latitude": "-21,12082000000000",
@@ -8750,10 +10163,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3545056,
+    "ID": "3545056",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 13:41",
     "Latitude": "-21,08706000000000",
@@ -8768,10 +10186,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3545055,
+    "ID": "3545055",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 13:40",
     "Latitude": "-21,08706000000000",
@@ -8786,10 +10209,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,15",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544918,
+    "ID": "3544918",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/03/2026 13:24",
     "Latitude": "-20,79824000000000",
@@ -8804,10 +10232,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544917,
+    "ID": "3544917",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/03/2026 13:23",
     "Latitude": "-20,79826000000000",
@@ -8822,10 +10255,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544436,
+    "ID": "3544436",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 10:31",
     "Latitude": "-21,05986000000000",
@@ -8840,10 +10278,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544435,
+    "ID": "3544435",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 10:30",
     "Latitude": "-21,05985000000000",
@@ -8858,10 +10301,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544290,
+    "ID": "3544290",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 10:18",
     "Latitude": "-21,00950000000000",
@@ -8876,10 +10324,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544289,
+    "ID": "3544289",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 10:16",
     "Latitude": "-21,00950000000000",
@@ -8894,10 +10347,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544565,
+    "ID": "3544565",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:56",
     "Latitude": "-20,94399000000000",
@@ -8912,10 +10370,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544564,
+    "ID": "3544564",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:56",
     "Latitude": "-20,94399000000000",
@@ -8930,10 +10393,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544222,
+    "ID": "3544222",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:52",
     "Latitude": "-21,08813000000000",
@@ -8948,10 +10416,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544300,
+    "ID": "3544300",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:51",
     "Latitude": "-21,08815000000000",
@@ -8966,10 +10439,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544221,
+    "ID": "3544221",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:51",
     "Latitude": "-21,08813000000000",
@@ -8984,10 +10462,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544299,
+    "ID": "3544299",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:51",
     "Latitude": "-21,08816000000000",
@@ -9002,10 +10485,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544218,
+    "ID": "3544218",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:34",
     "Latitude": "-21,08795000000000",
@@ -9020,10 +10508,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544298,
+    "ID": "3544298",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:33",
     "Latitude": "-21,08793000000000",
@@ -9038,10 +10531,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544297,
+    "ID": "3544297",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:33",
     "Latitude": "-21,08794000000000",
@@ -9056,10 +10554,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544217,
+    "ID": "3544217",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:32",
     "Latitude": "-21,08793000000000",
@@ -9074,10 +10577,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544125,
+    "ID": "3544125",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:18",
     "Latitude": "-21,12097000000000",
@@ -9092,10 +10600,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3544124,
+    "ID": "3544124",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:17",
     "Latitude": "-21,12095000000000",
@@ -9110,10 +10623,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542344,
+    "ID": "3542344",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:44",
     "Latitude": "-21,08580000000000",
@@ -9128,10 +10646,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542343,
+    "ID": "3542343",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:41",
     "Latitude": "-21,08582000000000",
@@ -9146,10 +10669,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542342,
+    "ID": "3542342",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:40",
     "Latitude": "-21,08581000000000",
@@ -9164,10 +10692,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "19,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542341,
+    "ID": "3542341",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:38",
     "Latitude": "-21,08581000000000",
@@ -9182,10 +10715,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542378,
+    "ID": "3542378",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:25",
     "Latitude": "-20,92999000000000",
@@ -9200,10 +10738,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542377,
+    "ID": "3542377",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:24",
     "Latitude": "-20,93485000000000",
@@ -9218,10 +10761,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3541922,
+    "ID": "3541922",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 10:43",
     "Latitude": "-21,00442000000000",
@@ -9236,10 +10784,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3541921,
+    "ID": "3541921",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 10:42",
     "Latitude": "-21,00441000000000",
@@ -9254,10 +10807,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542272,
+    "ID": "3542272",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/03/2026 10:25",
     "Latitude": "-21,08272000000000",
@@ -9272,10 +10830,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542271,
+    "ID": "3542271",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/03/2026 10:25",
     "Latitude": "-21,08272000000000",
@@ -9290,10 +10853,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542092,
+    "ID": "3542092",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 10:12",
     "Latitude": "-21,13416000000000",
@@ -9308,10 +10876,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542091,
+    "ID": "3542091",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 10:12",
     "Latitude": "-21,13416000000000",
@@ -9326,10 +10899,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542323,
+    "ID": "3542323",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:37",
     "Latitude": "-21,10928000000000",
@@ -9344,10 +10922,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542322,
+    "ID": "3542322",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:36",
     "Latitude": "-21,10927000000000",
@@ -9362,10 +10945,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542321,
+    "ID": "3542321",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:35",
     "Latitude": "-21,10927000000000",
@@ -9380,10 +10968,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3542320,
+    "ID": "3542320",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:34",
     "Latitude": "-21,10927000000000",
@@ -9398,10 +10991,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3541882,
+    "ID": "3541882",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:16",
     "Latitude": "-21,05865000000000",
@@ -9416,10 +11014,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3541881,
+    "ID": "3541881",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:15",
     "Latitude": "-21,05864000000000",
@@ -9434,10 +11037,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540112,
+    "ID": "3540112",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 13:47",
     "Latitude": "-21,10772000000000",
@@ -9452,10 +11060,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540111,
+    "ID": "3540111",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 13:46",
     "Latitude": "-21,10773000000000",
@@ -9470,10 +11083,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540110,
+    "ID": "3540110",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 13:45",
     "Latitude": "-21,10773000000000",
@@ -9488,10 +11106,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540109,
+    "ID": "3540109",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 13:44",
     "Latitude": "-21,10773000000000",
@@ -9506,10 +11129,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540033,
+    "ID": "3540033",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 12:15",
     "Latitude": "-20,96166000000000",
@@ -9524,10 +11152,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540031,
+    "ID": "3540031",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 12:15",
     "Latitude": "-20,96166000000000",
@@ -9542,10 +11175,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3539606,
+    "ID": "3539606",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 11:05",
     "Latitude": "-21,06238000000000",
@@ -9560,10 +11198,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3539605,
+    "ID": "3539605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 11:04",
     "Latitude": "-21,06239000000000",
@@ -9578,10 +11221,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3539990,
+    "ID": "3539990",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 10:26",
     "Latitude": "-20,95223000000000",
@@ -9596,10 +11244,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3539989,
+    "ID": "3539989",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 10:25",
     "Latitude": "-20,95223000000000",
@@ -9614,10 +11267,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540190,
+    "ID": "3540190",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:06",
     "Latitude": "-21,05835000000000",
@@ -9632,10 +11290,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3540238,
+    "ID": "3540238",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:05",
     "Latitude": "-21,05834000000000",
@@ -9650,10 +11313,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3538836,
+    "ID": "3538836",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 13:33",
     "Latitude": "-20,93079000000000",
@@ -9668,10 +11336,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3538835,
+    "ID": "3538835",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 13:32",
     "Latitude": "-20,93402000000000",
@@ -9686,10 +11359,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537760,
+    "ID": "3537760",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:38",
     "Latitude": "-20,95061000000000",
@@ -9704,10 +11382,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537759,
+    "ID": "3537759",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:37",
     "Latitude": "-20,95061000000000",
@@ -9722,10 +11405,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537758,
+    "ID": "3537758",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:37",
     "Latitude": "-20,95061000000000",
@@ -9740,10 +11428,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537757,
+    "ID": "3537757",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:36",
     "Latitude": "-20,95061000000000",
@@ -9758,10 +11451,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537392,
+    "ID": "3537392",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:06",
     "Latitude": "-21,06352000000000",
@@ -9776,10 +11474,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537391,
+    "ID": "3537391",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:34",
     "Latitude": "-21,06453000000000",
@@ -9794,10 +11497,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537254,
+    "ID": "3537254",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:30",
     "Latitude": "-21,11146000000000",
@@ -9812,10 +11520,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537253,
+    "ID": "3537253",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:28",
     "Latitude": "-21,11162000000000",
@@ -9830,10 +11543,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537171,
+    "ID": "3537171",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:09",
     "Latitude": "-21,05845000000000",
@@ -9848,10 +11566,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537170,
+    "ID": "3537170",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:08",
     "Latitude": "-21,05838000000000",
@@ -9866,10 +11589,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537179,
+    "ID": "3537179",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 08:58",
     "Latitude": "-21,11268000000000",
@@ -9884,10 +11612,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537178,
+    "ID": "3537178",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 08:58",
     "Latitude": "-21,11276000000000",
@@ -9902,10 +11635,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535781,
+    "ID": "3535781",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 13:54",
     "Latitude": "-21,05405000000000",
@@ -9920,10 +11658,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535782,
+    "ID": "3535782",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 13:52",
     "Latitude": "-21,05405000000000",
@@ -9938,10 +11681,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535678,
+    "ID": "3535678",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 13:41",
     "Latitude": "-21,06162000000000",
@@ -9956,10 +11704,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535677,
+    "ID": "3535677",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 13:40",
     "Latitude": "-21,06161000000000",
@@ -9974,10 +11727,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535751,
+    "ID": "3535751",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 11:03",
     "Latitude": "-20,95869000000000",
@@ -9992,10 +11750,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535750,
+    "ID": "3535750",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 11:02",
     "Latitude": "-20,95905000000000",
@@ -10010,10 +11773,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537144,
+    "ID": "3537144",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 10:59",
     "Latitude": "-21,05428000000000",
@@ -10028,10 +11796,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3537143,
+    "ID": "3537143",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 10:58",
     "Latitude": "-21,05424000000000",
@@ -10046,10 +11819,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535740,
+    "ID": "3535740",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:00",
     "Latitude": "-20,95140000000000",
@@ -10064,10 +11842,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535739,
+    "ID": "3535739",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 08:59",
     "Latitude": "-20,95140000000000",
@@ -10082,10 +11865,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535738,
+    "ID": "3535738",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 08:58",
     "Latitude": "-20,95140000000000",
@@ -10100,10 +11888,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535737,
+    "ID": "3535737",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 08:58",
     "Latitude": "-20,95140000000000",
@@ -10118,10 +11911,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535330,
+    "ID": "3535330",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 07:59",
     "Latitude": "-21,05236000000000",
@@ -10136,10 +11934,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535329,
+    "ID": "3535329",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 07:58",
     "Latitude": "-21,05239000000000",
@@ -10154,10 +11957,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535328,
+    "ID": "3535328",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 07:57",
     "Latitude": "-21,05240000000000",
@@ -10172,10 +11980,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3535327,
+    "ID": "3535327",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 07:55",
     "Latitude": "-21,05235000000000",
@@ -10190,10 +12003,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533912,
+    "ID": "3533912",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 11:02",
     "Latitude": "-21,03257000000000",
@@ -10208,10 +12026,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533911,
+    "ID": "3533911",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 10:47",
     "Latitude": "-21,03257000000000",
@@ -10226,10 +12049,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533611,
+    "ID": "3533611",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:51",
     "Latitude": "-21,05206000000000",
@@ -10244,10 +12072,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533610,
+    "ID": "3533610",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:50",
     "Latitude": "-21,05204000000000",
@@ -10262,10 +12095,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,001",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533609,
+    "ID": "3533609",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:46",
     "Latitude": "-21,05206000000000",
@@ -10280,10 +12118,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533608,
+    "ID": "3533608",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:44",
     "Latitude": "-21,05206000000000",
@@ -10298,10 +12141,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533600,
+    "ID": "3533600",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:25",
     "Latitude": "-21,03323000000000",
@@ -10316,10 +12164,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3533599,
+    "ID": "3533599",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:23",
     "Latitude": "-21,03323000000000",
@@ -10334,10 +12187,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531876,
+    "ID": "3531876",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:55",
     "Latitude": "-20,95641000000000",
@@ -10352,10 +12210,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531875,
+    "ID": "3531875",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:55",
     "Latitude": "-20,95641000000000",
@@ -10370,10 +12233,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531891,
+    "ID": "3531891",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:45",
     "Latitude": "-21,03252000000000",
@@ -10388,10 +12256,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531890,
+    "ID": "3531890",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:44",
     "Latitude": "-21,03251000000000",
@@ -10406,10 +12279,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531722,
+    "ID": "3531722",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:06",
     "Latitude": "-21,12653000000000",
@@ -10424,10 +12302,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531724,
+    "ID": "3531724",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:05",
     "Latitude": "-21,12653000000000",
@@ -10442,10 +12325,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531723,
+    "ID": "3531723",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:04",
     "Latitude": "-21,12653000000000",
@@ -10460,10 +12348,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531721,
+    "ID": "3531721",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 12:00",
     "Latitude": "-21,12653000000000",
@@ -10478,10 +12371,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531946,
+    "ID": "3531946",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 11:31",
     "Latitude": "-21,07201000000000",
@@ -10496,10 +12394,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531945,
+    "ID": "3531945",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 11:31",
     "Latitude": "-21,07199000000000",
@@ -10514,10 +12417,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531461,
+    "ID": "3531461",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:44",
     "Latitude": "-21,05250000000000",
@@ -10532,10 +12440,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531460,
+    "ID": "3531460",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:43",
     "Latitude": "-21,05253000000000",
@@ -10550,10 +12463,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531459,
+    "ID": "3531459",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:41",
     "Latitude": "-21,05253000000000",
@@ -10568,10 +12486,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531458,
+    "ID": "3531458",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:40",
     "Latitude": "-21,05253000000000",
@@ -10586,10 +12509,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531429,
+    "ID": "3531429",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/03/2026 09:25",
     "Latitude": "-20,94579000000000",
@@ -10604,10 +12532,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531427,
+    "ID": "3531427",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/03/2026 09:25",
     "Latitude": "-20,94579000000000",
@@ -10622,10 +12555,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531463,
+    "ID": "3531463",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:44",
     "Latitude": "-21,05220000000000",
@@ -10640,10 +12578,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3531462,
+    "ID": "3531462",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:43",
     "Latitude": "-21,05221000000000",
@@ -10658,10 +12601,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3530168,
+    "ID": "3530168",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/03/2026 15:15",
     "Latitude": "-20,94765000000000",
@@ -10676,10 +12624,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3530167,
+    "ID": "3530167",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/03/2026 15:14",
     "Latitude": "-20,94765000000000",
@@ -10694,10 +12647,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529624,
+    "ID": "3529624",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 13:27",
     "Latitude": "-20,94775000000000",
@@ -10712,10 +12670,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529623,
+    "ID": "3529623",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 13:26",
     "Latitude": "-20,94797000000000",
@@ -10730,10 +12693,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529533,
+    "ID": "3529533",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 12:49",
     "Latitude": "-20,98768000000000",
@@ -10748,10 +12716,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529532,
+    "ID": "3529532",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 12:47",
     "Latitude": "-20,98767000000000",
@@ -10766,10 +12739,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529531,
+    "ID": "3529531",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 12:45",
     "Latitude": "-20,98764000000000",
@@ -10784,10 +12762,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529530,
+    "ID": "3529530",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 12:43",
     "Latitude": "-20,98764000000000",
@@ -10802,10 +12785,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529887,
+    "ID": "3529887",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:36",
     "Latitude": "-21,12447000000000",
@@ -10820,10 +12808,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529886,
+    "ID": "3529886",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:35",
     "Latitude": "-21,12447000000000",
@@ -10838,10 +12831,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529885,
+    "ID": "3529885",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:35",
     "Latitude": "-21,12447000000000",
@@ -10856,10 +12854,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529884,
+    "ID": "3529884",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:34",
     "Latitude": "-21,12447000000000",
@@ -10874,10 +12877,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529648,
+    "ID": "3529648",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:18",
     "Latitude": "-20,94553000000000",
@@ -10892,10 +12900,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529647,
+    "ID": "3529647",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:16",
     "Latitude": "-20,94550000000000",
@@ -10910,10 +12923,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529477,
+    "ID": "3529477",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 10:05",
     "Latitude": "-21,08870000000000",
@@ -10928,10 +12946,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3529476,
+    "ID": "3529476",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 10:04",
     "Latitude": "-21,08870000000000",
@@ -10946,10 +12969,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520559,
+    "ID": "3520559",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 12:42",
     "Latitude": "-20,94783000000000",
@@ -10964,10 +12992,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,16",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520558,
+    "ID": "3520558",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 12:41",
     "Latitude": "-20,94783000000000",
@@ -10982,10 +13015,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520188,
+    "ID": "3520188",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:36",
     "Latitude": "-20,98764000000000",
@@ -11000,10 +13038,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520187,
+    "ID": "3520187",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:35",
     "Latitude": "-20,98763000000000",
@@ -11018,10 +13061,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520186,
+    "ID": "3520186",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:34",
     "Latitude": "-20,98763000000000",
@@ -11036,10 +13084,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520185,
+    "ID": "3520185",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:32",
     "Latitude": "-20,98762000000000",
@@ -11054,10 +13107,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520362,
+    "ID": "3520362",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 08:57",
     "Latitude": "-21,12501000000000",
@@ -11072,10 +13130,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520361,
+    "ID": "3520361",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 08:53",
     "Latitude": "-21,12445000000000",
@@ -11090,10 +13153,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520448,
+    "ID": "3520448",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 07:57",
     "Latitude": "-21,07767000000000",
@@ -11108,10 +13176,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520447,
+    "ID": "3520447",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 07:56",
     "Latitude": "-21,07767000000000",
@@ -11126,10 +13199,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520446,
+    "ID": "3520446",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 07:55",
     "Latitude": "-21,07766000000000",
@@ -11144,10 +13222,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3520445,
+    "ID": "3520445",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 07:55",
     "Latitude": "-21,07767000000000",
@@ -11162,10 +13245,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3519088,
+    "ID": "3519088",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 15:20",
     "Latitude": "-20,88213000000000",
@@ -11180,10 +13268,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3519087,
+    "ID": "3519087",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 15:18",
     "Latitude": "-20,88213000000000",
@@ -11198,10 +13291,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3519072,
+    "ID": "3519072",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 14:43",
     "Latitude": "-20,88157000000000",
@@ -11216,10 +13314,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3519056,
+    "ID": "3519056",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 14:42",
     "Latitude": "-20,88158000000000",
@@ -11234,10 +13337,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518688,
+    "ID": "3518688",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:40",
     "Latitude": "-21,12367000000000",
@@ -11252,10 +13360,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518687,
+    "ID": "3518687",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:39",
     "Latitude": "-21,12367000000000",
@@ -11270,10 +13383,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518638,
+    "ID": "3518638",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:26",
     "Latitude": "-20,87833000000000",
@@ -11288,10 +13406,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518632,
+    "ID": "3518632",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:26",
     "Latitude": "-20,87833000000000",
@@ -11306,10 +13429,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518714,
+    "ID": "3518714",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:10",
     "Latitude": "-21,07643000000000",
@@ -11324,10 +13452,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518716,
+    "ID": "3518716",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:09",
     "Latitude": "-21,07649000000000",
@@ -11342,10 +13475,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518301,
+    "ID": "3518301",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:27",
     "Latitude": "-20,97528000000000",
@@ -11360,10 +13498,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518300,
+    "ID": "3518300",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:26",
     "Latitude": "-20,97528000000000",
@@ -11378,10 +13521,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518299,
+    "ID": "3518299",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:25",
     "Latitude": "-20,97528000000000",
@@ -11396,10 +13544,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3518298,
+    "ID": "3518298",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:22",
     "Latitude": "-20,97527000000000",
@@ -11414,10 +13567,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516429,
+    "ID": "3516429",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 13:44",
     "Latitude": "-20,97750000000000",
@@ -11432,10 +13590,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516430,
+    "ID": "3516430",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 13:44",
     "Latitude": "-20,97745000000000",
@@ -11450,10 +13613,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516431,
+    "ID": "3516431",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 13:44",
     "Latitude": "-20,97745000000000",
@@ -11468,10 +13636,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516428,
+    "ID": "3516428",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 13:33",
     "Latitude": "-20,97745000000000",
@@ -11486,10 +13659,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516283,
+    "ID": "3516283",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 13:12",
     "Latitude": "-21,08640000000000",
@@ -11504,10 +13682,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "0,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516284,
+    "ID": "3516284",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 13:12",
     "Latitude": "-21,08640000000000",
@@ -11522,10 +13705,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "0,92",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516609,
+    "ID": "3516609",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:54",
     "Latitude": "-20,88089000000000",
@@ -11540,10 +13728,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516608,
+    "ID": "3516608",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:54",
     "Latitude": "-20,88089000000000",
@@ -11558,10 +13751,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516625,
+    "ID": "3516625",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 10:36",
     "Latitude": "-21,05497000000000",
@@ -11576,10 +13774,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516624,
+    "ID": "3516624",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 10:36",
     "Latitude": "-21,05497000000000",
@@ -11594,10 +13797,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516622,
+    "ID": "3516622",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 10:35",
     "Latitude": "-21,05497000000000",
@@ -11612,10 +13820,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516623,
+    "ID": "3516623",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 10:35",
     "Latitude": "-21,05497000000000",
@@ -11630,10 +13843,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516571,
+    "ID": "3516571",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 07:15",
     "Latitude": "-20,89397000000000",
@@ -11648,10 +13866,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3516570,
+    "ID": "3516570",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 07:13",
     "Latitude": "-20,89395000000000",
@@ -11666,10 +13889,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3514283,
+    "ID": "3514283",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/04/2026 14:43",
     "Latitude": "-20,88265000000000",
@@ -11684,10 +13912,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3514282,
+    "ID": "3514282",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/04/2026 14:42",
     "Latitude": "-20,88264000000000",
@@ -11702,10 +13935,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513549,
+    "ID": "3513549",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 10:08",
     "Latitude": "-20,87848000000000",
@@ -11720,10 +13958,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513548,
+    "ID": "3513548",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 10:07",
     "Latitude": "-20,87848000000000",
@@ -11738,10 +13981,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513455,
+    "ID": "3513455",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 08:50",
     "Latitude": "-21,05411000000000",
@@ -11756,10 +14004,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513454,
+    "ID": "3513454",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 08:49",
     "Latitude": "-21,05413000000000",
@@ -11774,10 +14027,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3514180,
+    "ID": "3514180",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/04/2026 08:45",
     "Latitude": "-20,88078000000000",
@@ -11792,10 +14050,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3514179,
+    "ID": "3514179",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/04/2026 08:44",
     "Latitude": "-20,88077000000000",
@@ -11810,10 +14073,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513351,
+    "ID": "3513351",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 06:06",
     "Latitude": "-21,01187000000000",
@@ -11828,10 +14096,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513350,
+    "ID": "3513350",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 06:05",
     "Latitude": "-21,01187000000000",
@@ -11846,10 +14119,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513354,
+    "ID": "3513354",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 06:04",
     "Latitude": "-21,01188000000000",
@@ -11864,10 +14142,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513349,
+    "ID": "3513349",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 06:02",
     "Latitude": "-21,01188000000000",
@@ -11882,10 +14165,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513347,
+    "ID": "3513347",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 06:01",
     "Latitude": "-21,01189000000000",
@@ -11900,10 +14188,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3513342,
+    "ID": "3513342",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 05:59",
     "Latitude": "-21,01189000000000",
@@ -11918,10 +14211,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511758,
+    "ID": "3511758",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 14:01",
     "Latitude": "-21,05199000000000",
@@ -11936,10 +14234,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511757,
+    "ID": "3511757",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 14:00",
     "Latitude": "-21,05200000000000",
@@ -11954,10 +14257,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511721,
+    "ID": "3511721",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:57",
     "Latitude": "-20,86858000000000",
@@ -11972,10 +14280,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511722,
+    "ID": "3511722",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:56",
     "Latitude": "-20,86857000000000",
@@ -11990,10 +14303,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511720,
+    "ID": "3511720",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:54",
     "Latitude": "-20,86859000000000",
@@ -12008,10 +14326,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511719,
+    "ID": "3511719",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:54",
     "Latitude": "-20,86859000000000",
@@ -12026,10 +14349,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511718,
+    "ID": "3511718",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:50",
     "Latitude": "-20,86857000000000",
@@ -12044,10 +14372,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511717,
+    "ID": "3511717",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:50",
     "Latitude": "-20,86857000000000",
@@ -12062,10 +14395,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511716,
+    "ID": "3511716",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:48",
     "Latitude": "-20,86856000000000",
@@ -12080,10 +14418,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511715,
+    "ID": "3511715",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:47",
     "Latitude": "-20,86857000000000",
@@ -12098,10 +14441,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511819,
+    "ID": "3511819",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:56",
     "Latitude": "-20,87282000000000",
@@ -12116,10 +14464,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511817,
+    "ID": "3511817",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:55",
     "Latitude": "-20,87291000000000",
@@ -12134,10 +14487,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511816,
+    "ID": "3511816",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:55",
     "Latitude": "-20,87291000000000",
@@ -12152,10 +14510,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511815,
+    "ID": "3511815",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:54",
     "Latitude": "-20,87291000000000",
@@ -12170,10 +14533,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511676,
+    "ID": "3511676",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:11",
     "Latitude": "-20,86871000000000",
@@ -12188,10 +14556,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511675,
+    "ID": "3511675",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:11",
     "Latitude": "-20,86865000000000",
@@ -12206,10 +14579,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511664,
+    "ID": "3511664",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:11",
     "Latitude": "-20,87324000000000",
@@ -12224,10 +14602,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511662,
+    "ID": "3511662",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:10",
     "Latitude": "-20,87324000000000",
@@ -12242,10 +14625,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511292,
+    "ID": "3511292",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 09:16",
     "Latitude": "-21,07480000000000",
@@ -12260,10 +14648,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511291,
+    "ID": "3511291",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 09:15",
     "Latitude": "-21,07479000000000",
@@ -12278,10 +14671,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511290,
+    "ID": "3511290",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 09:13",
     "Latitude": "-21,07479000000000",
@@ -12296,10 +14694,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511289,
+    "ID": "3511289",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 09:12",
     "Latitude": "-21,07479000000000",
@@ -12314,10 +14717,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511284,
+    "ID": "3511284",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 08:07",
     "Latitude": "-21,08350000000000",
@@ -12332,10 +14740,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3511283,
+    "ID": "3511283",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 08:05",
     "Latitude": "-21,08350000000000",
@@ -12350,10 +14763,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509551,
+    "ID": "3509551",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 12:28",
     "Latitude": "-20,87767000000000",
@@ -12368,10 +14786,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509550,
+    "ID": "3509550",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 12:28",
     "Latitude": "-20,87767000000000",
@@ -12386,10 +14809,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509546,
+    "ID": "3509546",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 12:03",
     "Latitude": "-20,87556000000000",
@@ -12404,10 +14832,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509545,
+    "ID": "3509545",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 12:03",
     "Latitude": "-20,87556000000000",
@@ -12422,10 +14855,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509544,
+    "ID": "3509544",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 12:01",
     "Latitude": "-20,87627000000000",
@@ -12440,10 +14878,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509543,
+    "ID": "3509543",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 12:01",
     "Latitude": "-20,87627000000000",
@@ -12458,10 +14901,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509255,
+    "ID": "3509255",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 11:41",
     "Latitude": "-20,87026000000000",
@@ -12476,10 +14924,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509254,
+    "ID": "3509254",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/02/2026 11:32",
     "Latitude": "-20,87026000000000",
@@ -12494,10 +14947,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509327,
+    "ID": "3509327",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:38",
     "Latitude": "-21,08281000000000",
@@ -12512,10 +14970,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509326,
+    "ID": "3509326",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:33",
     "Latitude": "-21,08286000000000",
@@ -12530,10 +14993,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,19",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509602,
+    "ID": "3509602",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 09:23",
     "Latitude": "-20,92330000000000",
@@ -12548,10 +15016,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509601,
+    "ID": "3509601",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 09:23",
     "Latitude": "-20,92330000000000",
@@ -12566,10 +15039,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509325,
+    "ID": "3509325",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 09:05",
     "Latitude": "-21,08277000000000",
@@ -12584,10 +15062,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "0,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3509324,
+    "ID": "3509324",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 09:04",
     "Latitude": "-21,08279000000000",
@@ -12602,10 +15085,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498717,
+    "ID": "3498717",
     "Usuário": "frente4@usinapitangueiras.com.br",
     "Data": "23/02/2026 14:28",
     "Latitude": "-21,08869000000000",
@@ -12620,10 +15108,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498716,
+    "ID": "3498716",
     "Usuário": "frente4@usinapitangueiras.com.br",
     "Data": "23/02/2026 14:28",
     "Latitude": "-21,08869000000000",
@@ -12638,10 +15131,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498714,
+    "ID": "3498714",
     "Usuário": "frente4@usinapitangueiras.com.br",
     "Data": "23/02/2026 14:26",
     "Latitude": "-21,08870000000000",
@@ -12656,10 +15154,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498713,
+    "ID": "3498713",
     "Usuário": "frente4@usinapitangueiras.com.br",
     "Data": "23/02/2026 14:25",
     "Latitude": "-21,08870000000000",
@@ -12674,10 +15177,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498712,
+    "ID": "3498712",
     "Usuário": "frente4@usinapitangueiras.com.br",
     "Data": "23/02/2026 14:24",
     "Latitude": "-21,08870000000000",
@@ -12692,10 +15200,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498711,
+    "ID": "3498711",
     "Usuário": "frente4@usinapitangueiras.com.br",
     "Data": "23/02/2026 14:23",
     "Latitude": "-21,08872000000000",
@@ -12710,10 +15223,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498551,
+    "ID": "3498551",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 09:33",
     "Latitude": "-20,87700000000000",
@@ -12728,10 +15246,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498550,
+    "ID": "3498550",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 09:32",
     "Latitude": "-20,87700000000000",
@@ -12746,10 +15269,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498035,
+    "ID": "3498035",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 08:58",
     "Latitude": "-20,89284000000000",
@@ -12764,10 +15292,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498034,
+    "ID": "3498034",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 08:58",
     "Latitude": "-20,89284000000000",
@@ -12782,10 +15315,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498033,
+    "ID": "3498033",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 08:57",
     "Latitude": "-20,89284000000000",
@@ -12800,10 +15338,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3498032,
+    "ID": "3498032",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 08:57",
     "Latitude": "-20,89284000000000",
@@ -12818,10 +15361,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496807,
+    "ID": "3496807",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:31",
     "Latitude": "-20,89683000000000",
@@ -12836,10 +15384,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496806,
+    "ID": "3496806",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:30",
     "Latitude": "-20,89683000000000",
@@ -12854,10 +15407,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496805,
+    "ID": "3496805",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:30",
     "Latitude": "-20,89683000000000",
@@ -12872,10 +15430,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496804,
+    "ID": "3496804",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:29",
     "Latitude": "-20,89683000000000",
@@ -12890,10 +15453,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496803,
+    "ID": "3496803",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:29",
     "Latitude": "-20,89683000000000",
@@ -12908,10 +15476,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496802,
+    "ID": "3496802",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:28",
     "Latitude": "-20,89683000000000",
@@ -12926,10 +15499,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496801,
+    "ID": "3496801",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:28",
     "Latitude": "-20,89683000000000",
@@ -12944,10 +15522,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496800,
+    "ID": "3496800",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:27",
     "Latitude": "-20,89683000000000",
@@ -12962,10 +15545,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496216,
+    "ID": "3496216",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 08:47",
     "Latitude": "-20,88854000000000",
@@ -12980,10 +15568,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496215,
+    "ID": "3496215",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 08:46",
     "Latitude": "-20,88854000000000",
@@ -12998,10 +15591,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496664,
+    "ID": "3496664",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 08:01",
     "Latitude": "-21,11905000000000",
@@ -13016,10 +15614,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3496663,
+    "ID": "3496663",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 08:00",
     "Latitude": "-21,11903000000000",
@@ -13034,10 +15637,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3495232,
+    "ID": "3495232",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 15:13",
     "Latitude": "-20,88841000000000",
@@ -13052,10 +15660,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3495231,
+    "ID": "3495231",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 15:12",
     "Latitude": "-20,88841000000000",
@@ -13070,10 +15683,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3495230,
+    "ID": "3495230",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 15:12",
     "Latitude": "-20,88841000000000",
@@ -13088,10 +15706,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3495229,
+    "ID": "3495229",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 15:11",
     "Latitude": "-20,88841000000000",
@@ -13106,10 +15729,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3495228,
+    "ID": "3495228",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 15:11",
     "Latitude": "-20,88841000000000",
@@ -13124,10 +15752,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3495227,
+    "ID": "3495227",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 15:10",
     "Latitude": "-20,88841000000000",
@@ -13142,10 +15775,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494676,
+    "ID": "3494676",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:42",
     "Latitude": "-21,11736000000000",
@@ -13160,10 +15798,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494675,
+    "ID": "3494675",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:41",
     "Latitude": "-21,11736000000000",
@@ -13178,10 +15821,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494348,
+    "ID": "3494348",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 09:44",
     "Latitude": "-21,11110000000000",
@@ -13196,10 +15844,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494347,
+    "ID": "3494347",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 09:44",
     "Latitude": "-21,11110000000000",
@@ -13214,10 +15867,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494624,
+    "ID": "3494624",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 09:28",
     "Latitude": "-21,12289000000000",
@@ -13232,10 +15890,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494623,
+    "ID": "3494623",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 09:27",
     "Latitude": "-21,12299000000000",
@@ -13250,10 +15913,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494622,
+    "ID": "3494622",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 08:54",
     "Latitude": "-21,11737000000000",
@@ -13268,10 +15936,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494621,
+    "ID": "3494621",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 08:54",
     "Latitude": "-21,11733000000000",
@@ -13286,10 +15959,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494650,
+    "ID": "3494650",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 08:52",
     "Latitude": "-21,11735000000000",
@@ -13304,10 +15982,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3494649,
+    "ID": "3494649",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 08:50",
     "Latitude": "-21,11735000000000",
@@ -13322,10 +16005,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492352,
+    "ID": "3492352",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 16:01",
     "Latitude": "-21,11987000000000",
@@ -13340,10 +16028,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3493095,
+    "ID": "3493095",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "19/02/2026 13:19",
     "Latitude": "-20,89233000000000",
@@ -13358,10 +16051,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3493094,
+    "ID": "3493094",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "19/02/2026 13:18",
     "Latitude": "-20,89233000000000",
@@ -13376,10 +16074,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492475,
+    "ID": "3492475",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 12:21",
     "Latitude": "-21,11991000000000",
@@ -13394,10 +16097,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492476,
+    "ID": "3492476",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 12:21",
     "Latitude": "-21,11991000000000",
@@ -13412,10 +16120,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492085,
+    "ID": "3492085",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 10:20",
     "Latitude": "-21,00965000000000",
@@ -13430,10 +16143,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492084,
+    "ID": "3492084",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 10:19",
     "Latitude": "-21,00965000000000",
@@ -13448,10 +16166,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3493075,
+    "ID": "3493075",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "19/02/2026 10:07",
     "Latitude": "-20,89118000000000",
@@ -13466,10 +16189,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3493074,
+    "ID": "3493074",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "19/02/2026 10:06",
     "Latitude": "-20,89118000000000",
@@ -13484,10 +16212,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492501,
+    "ID": "3492501",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:50",
     "Latitude": "-21,01916000000000",
@@ -13502,10 +16235,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492500,
+    "ID": "3492500",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:49",
     "Latitude": "-21,01916000000000",
@@ -13520,10 +16258,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492593,
+    "ID": "3492593",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:25",
     "Latitude": "-21,08867000000000",
@@ -13538,10 +16281,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492592,
+    "ID": "3492592",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:24",
     "Latitude": "-21,08867000000000",
@@ -13556,10 +16304,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492494,
+    "ID": "3492494",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:11",
     "Latitude": "-21,01579000000000",
@@ -13574,10 +16327,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492493,
+    "ID": "3492493",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:10",
     "Latitude": "-21,01579000000000",
@@ -13592,10 +16350,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3492376,
+    "ID": "3492376",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 08:22",
     "Latitude": "-21,11985000000000",
@@ -13610,10 +16373,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491291,
+    "ID": "3491291",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:54",
     "Latitude": "-20,89074000000000",
@@ -13628,10 +16396,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491290,
+    "ID": "3491290",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:54",
     "Latitude": "-20,89075000000000",
@@ -13646,10 +16419,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491289,
+    "ID": "3491289",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:53",
     "Latitude": "-20,89073000000000",
@@ -13664,10 +16442,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491288,
+    "ID": "3491288",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:52",
     "Latitude": "-20,89073000000000",
@@ -13682,10 +16465,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491282,
+    "ID": "3491282",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:43",
     "Latitude": "-20,89109000000000",
@@ -13700,10 +16488,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491281,
+    "ID": "3491281",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:42",
     "Latitude": "-20,89109000000000",
@@ -13718,10 +16511,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491280,
+    "ID": "3491280",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:41",
     "Latitude": "-20,89109000000000",
@@ -13736,10 +16534,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3491279,
+    "ID": "3491279",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 14:40",
     "Latitude": "-20,89109000000000",
@@ -13754,10 +16557,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490419,
+    "ID": "3490419",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 13:30",
     "Latitude": "-21,01539000000000",
@@ -13772,10 +16580,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490418,
+    "ID": "3490418",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 13:29",
     "Latitude": "-21,01539000000000",
@@ -13790,10 +16603,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490417,
+    "ID": "3490417",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 13:16",
     "Latitude": "-21,01532000000000",
@@ -13808,10 +16626,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490416,
+    "ID": "3490416",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 13:15",
     "Latitude": "-21,01532000000000",
@@ -13826,10 +16649,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490282,
+    "ID": "3490282",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:50",
     "Latitude": "-21,01494000000000",
@@ -13844,10 +16672,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490281,
+    "ID": "3490281",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:48",
     "Latitude": "-21,01494000000000",
@@ -13862,10 +16695,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490280,
+    "ID": "3490280",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:45",
     "Latitude": "-21,01485000000000",
@@ -13880,10 +16718,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490279,
+    "ID": "3490279",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:45",
     "Latitude": "-21,01485000000000",
@@ -13898,10 +16741,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490312,
+    "ID": "3490312",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:14",
     "Latitude": "-21,11734000000000",
@@ -13916,10 +16764,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490311,
+    "ID": "3490311",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:13",
     "Latitude": "-21,11735000000000",
@@ -13934,10 +16787,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490310,
+    "ID": "3490310",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:12",
     "Latitude": "-21,11735000000000",
@@ -13952,10 +16810,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3490309,
+    "ID": "3490309",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:11",
     "Latitude": "-21,11735000000000",
@@ -13970,10 +16833,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468228,
+    "ID": "3468228",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 14:01",
     "Latitude": "-21,08322000000000",
@@ -13988,10 +16856,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468227,
+    "ID": "3468227",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 14:00",
     "Latitude": "-21,08322000000000",
@@ -14006,10 +16879,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467739,
+    "ID": "3467739",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:03",
     "Latitude": "-21,09373000000000",
@@ -14024,10 +16902,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467738,
+    "ID": "3467738",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:02",
     "Latitude": "-21,09373000000000",
@@ -14042,10 +16925,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467736,
+    "ID": "3467736",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:01",
     "Latitude": "-21,09338000000000",
@@ -14060,10 +16948,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467737,
+    "ID": "3467737",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:01",
     "Latitude": "-21,09367000000000",
@@ -14078,10 +16971,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468146,
+    "ID": "3468146",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:06",
     "Latitude": "-21,12282000000000",
@@ -14096,10 +16994,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468147,
+    "ID": "3468147",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:06",
     "Latitude": "-21,12284000000000",
@@ -14114,10 +17017,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468145,
+    "ID": "3468145",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:04",
     "Latitude": "-21,12285000000000",
@@ -14132,10 +17040,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468144,
+    "ID": "3468144",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:04",
     "Latitude": "-21,12284000000000",
@@ -14150,10 +17063,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468098,
+    "ID": "3468098",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:00",
     "Latitude": "-21,12423000000000",
@@ -14168,10 +17086,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3468097,
+    "ID": "3468097",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:59",
     "Latitude": "-21,12431000000000",
@@ -14186,10 +17109,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467636,
+    "ID": "3467636",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:44",
     "Latitude": "-21,08439000000000",
@@ -14204,10 +17132,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467635,
+    "ID": "3467635",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:44",
     "Latitude": "-21,08439000000000",
@@ -14222,10 +17155,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467634,
+    "ID": "3467634",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:40",
     "Latitude": "-21,08451000000000",
@@ -14240,10 +17178,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467633,
+    "ID": "3467633",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:40",
     "Latitude": "-21,08451000000000",
@@ -14258,10 +17201,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467643,
+    "ID": "3467643",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:31",
     "Latitude": "-21,01764000000000",
@@ -14276,10 +17224,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3467644,
+    "ID": "3467644",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:31",
     "Latitude": "-21,01763000000000",
@@ -14294,10 +17247,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3466705,
+    "ID": "3466705",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 14:55",
     "Latitude": "-21,08427000000000",
@@ -14312,10 +17270,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3466704,
+    "ID": "3466704",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 14:54",
     "Latitude": "-21,08424000000000",
@@ -14330,10 +17293,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465786,
+    "ID": "3465786",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:22",
     "Latitude": "-21,08447000000000",
@@ -14348,10 +17316,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465785,
+    "ID": "3465785",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:21",
     "Latitude": "-21,08447000000000",
@@ -14366,10 +17339,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465784,
+    "ID": "3465784",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:21",
     "Latitude": "-21,08447000000000",
@@ -14384,10 +17362,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465787,
+    "ID": "3465787",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:21",
     "Latitude": "-21,08447000000000",
@@ -14402,10 +17385,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465498,
+    "ID": "3465498",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:53",
     "Latitude": "-21,02091000000000",
@@ -14420,10 +17408,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465497,
+    "ID": "3465497",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:52",
     "Latitude": "-21,02093000000000",
@@ -14438,10 +17431,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465950,
+    "ID": "3465950",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:49",
     "Latitude": "-21,12119000000000",
@@ -14456,10 +17454,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465949,
+    "ID": "3465949",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:48",
     "Latitude": "-21,12272000000000",
@@ -14474,10 +17477,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465948,
+    "ID": "3465948",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:46",
     "Latitude": "-21,12283000000000",
@@ -14492,10 +17500,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3465947,
+    "ID": "3465947",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:46",
     "Latitude": "-21,12283000000000",
@@ -14510,10 +17523,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463857,
+    "ID": "3463857",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 14:27",
     "Latitude": "-21,02100000000000",
@@ -14528,10 +17546,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463856,
+    "ID": "3463856",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 14:27",
     "Latitude": "-21,02100000000000",
@@ -14546,10 +17569,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463343,
+    "ID": "3463343",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:03",
     "Latitude": "-21,08395000000000",
@@ -14564,10 +17592,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463342,
+    "ID": "3463342",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:01",
     "Latitude": "-21,08396000000000",
@@ -14582,10 +17615,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463674,
+    "ID": "3463674",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:28",
     "Latitude": "-21,10479000000000",
@@ -14600,10 +17638,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463673,
+    "ID": "3463673",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:27",
     "Latitude": "-21,10479000000000",
@@ -14618,10 +17661,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3464579,
+    "ID": "3464579",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:23",
     "Latitude": "-21,09194000000000",
@@ -14636,10 +17684,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3464578,
+    "ID": "3464578",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:20",
     "Latitude": "-21,09194000000000",
@@ -14654,10 +17707,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463672,
+    "ID": "3463672",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:13",
     "Latitude": "-21,10490000000000",
@@ -14672,10 +17730,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3463671,
+    "ID": "3463671",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:12",
     "Latitude": "-21,10490000000000",
@@ -14690,10 +17753,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3461969,
+    "ID": "3461969",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/02/2026 15:02",
     "Latitude": "-21,09294000000000",
@@ -14708,10 +17776,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3461968,
+    "ID": "3461968",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/02/2026 15:01",
     "Latitude": "-21,09297000000000",
@@ -14726,10 +17799,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454895,
+    "ID": "3454895",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 13:57",
     "Latitude": "-21,04197000000000",
@@ -14744,10 +17822,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454894,
+    "ID": "3454894",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 13:57",
     "Latitude": "-21,04421000000000",
@@ -14762,10 +17845,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454810,
+    "ID": "3454810",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 13:08",
     "Latitude": "-21,01564000000000",
@@ -14780,10 +17868,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454809,
+    "ID": "3454809",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 13:07",
     "Latitude": "-21,01564000000000",
@@ -14798,10 +17891,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454936,
+    "ID": "3454936",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:51",
     "Latitude": "-21,02224000000000",
@@ -14816,10 +17914,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454914,
+    "ID": "3454914",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:50",
     "Latitude": "-21,02224000000000",
@@ -14834,10 +17937,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454266,
+    "ID": "3454266",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:03",
     "Latitude": "-21,03158000000000",
@@ -14852,10 +17960,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454265,
+    "ID": "3454265",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:02",
     "Latitude": "-21,03158000000000",
@@ -14870,10 +17983,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454264,
+    "ID": "3454264",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:00",
     "Latitude": "-21,03159000000000",
@@ -14888,10 +18006,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454263,
+    "ID": "3454263",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:59",
     "Latitude": "-21,03159000000000",
@@ -14906,10 +18029,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3455035,
+    "ID": "3455035",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:53",
     "Latitude": "-21,09023000000000",
@@ -14924,10 +18052,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454986,
+    "ID": "3454986",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:50",
     "Latitude": "-21,09021000000000",
@@ -14942,10 +18075,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454215,
+    "ID": "3454215",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:03",
     "Latitude": "-21,01562000000000",
@@ -14960,10 +18098,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3454214,
+    "ID": "3454214",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:03",
     "Latitude": "-21,01562000000000",
@@ -14978,10 +18121,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449763,
+    "ID": "3449763",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:25",
     "Latitude": "-21,10354000000000",
@@ -14996,10 +18144,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449762,
+    "ID": "3449762",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:24",
     "Latitude": "-21,10355000000000",
@@ -15014,10 +18167,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449576,
+    "ID": "3449576",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:24",
     "Latitude": "-21,02897000000000",
@@ -15032,10 +18190,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449575,
+    "ID": "3449575",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:22",
     "Latitude": "-21,02897000000000",
@@ -15050,10 +18213,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449574,
+    "ID": "3449574",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:20",
     "Latitude": "-21,02895000000000",
@@ -15068,10 +18236,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449573,
+    "ID": "3449573",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:18",
     "Latitude": "-21,02896000000000",
@@ -15086,10 +18259,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449564,
+    "ID": "3449564",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:47",
     "Latitude": "-21,02106000000000",
@@ -15104,10 +18282,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3449562,
+    "ID": "3449562",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:46",
     "Latitude": "-21,02107000000000",
@@ -15122,10 +18305,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3445638,
+    "ID": "3445638",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:47",
     "Latitude": "-21,03111000000000",
@@ -15140,10 +18328,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3445637,
+    "ID": "3445637",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:46",
     "Latitude": "-21,03110000000000",
@@ -15158,10 +18351,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3445524,
+    "ID": "3445524",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:38",
     "Latitude": "-21,01562000000000",
@@ -15176,10 +18374,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3445523,
+    "ID": "3445523",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:38",
     "Latitude": "-21,01562000000000",
@@ -15194,10 +18397,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3445558,
+    "ID": "3445558",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:32",
     "Latitude": "-21,03378000000000",
@@ -15212,10 +18420,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3445557,
+    "ID": "3445557",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:31",
     "Latitude": "-21,03377000000000",
@@ -15230,10 +18443,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3422995,
+    "ID": "3422995",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:52",
     "Latitude": "-21,08797000000000",
@@ -15248,10 +18466,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3422730,
+    "ID": "3422730",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:52",
     "Latitude": "-21,08796000000000",
@@ -15266,10 +18489,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3422731,
+    "ID": "3422731",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:49",
     "Latitude": "-21,08798000000000",
@@ -15284,10 +18512,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428876,
+    "ID": "3428876",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:41",
     "Latitude": "-21,03230000000000",
@@ -15302,10 +18535,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428877,
+    "ID": "3428877",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:40",
     "Latitude": "-21,03230000000000",
@@ -15320,10 +18558,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431065,
+    "ID": "3431065",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:40",
     "Latitude": "-21,03240000000000",
@@ -15338,10 +18581,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431066,
+    "ID": "3431066",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:40",
     "Latitude": "-21,03240000000000",
@@ -15356,10 +18604,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431610,
+    "ID": "3431610",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:39",
     "Latitude": "-21,03586000000000",
@@ -15374,10 +18627,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142- Bidu",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433326,
+    "ID": "3433326",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:38",
     "Latitude": "-21,04634000000000",
@@ -15392,10 +18650,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433393,
+    "ID": "3433393",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:38",
     "Latitude": "-21,04634000000000",
@@ -15410,10 +18673,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433695,
+    "ID": "3433695",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:34",
     "Latitude": "-21,03366000000000",
@@ -15428,10 +18696,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433696,
+    "ID": "3433696",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:34",
     "Latitude": "-21,03366000000000",
@@ -15446,10 +18719,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433574,
+    "ID": "3433574",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:33",
     "Latitude": "-21,03143000000000",
@@ -15464,10 +18742,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433575,
+    "ID": "3433575",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:33",
     "Latitude": "-21,03133000000000",
@@ -15482,10 +18765,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435276,
+    "ID": "3435276",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:32",
     "Latitude": "-21,03331000000000",
@@ -15500,10 +18788,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435275,
+    "ID": "3435275",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:32",
     "Latitude": "-21,03331000000000",
@@ -15518,10 +18811,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435436,
+    "ID": "3435436",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:31",
     "Latitude": "-21,03144000000000",
@@ -15536,10 +18834,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435437,
+    "ID": "3435437",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:31",
     "Latitude": "-21,03137000000000",
@@ -15554,10 +18857,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Dosagem de Produto - Cobrição": "1,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435393,
+    "ID": "3435393",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:30",
     "Latitude": "-21,09175000000000",
@@ -15572,10 +18880,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435394,
+    "ID": "3435394",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:30",
     "Latitude": "-21,09175000000000",
@@ -15590,10 +18903,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435309,
+    "ID": "3435309",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:29",
     "Latitude": "-21,03531000000000",
@@ -15608,10 +18926,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435315,
+    "ID": "3435315",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:29",
     "Latitude": "-21,03531000000000",
@@ -15626,10 +18949,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435316,
+    "ID": "3435316",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:28",
     "Latitude": "-21,03531000000000",
@@ -15644,10 +18972,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3435317,
+    "ID": "3435317",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:28",
     "Latitude": "-21,03531000000000",
@@ -15662,10 +18995,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433167,
+    "ID": "3433167",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:28",
     "Latitude": "-21,03315000000000",
@@ -15680,10 +19018,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433197,
+    "ID": "3433197",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:28",
     "Latitude": "-21,03555000000000",
@@ -15698,10 +19041,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433196,
+    "ID": "3433196",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:27",
     "Latitude": "-21,03555000000000",
@@ -15716,10 +19064,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,06",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3433166,
+    "ID": "3433166",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:27",
     "Latitude": "-21,03313000000000",
@@ -15734,10 +19087,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431291,
+    "ID": "3431291",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:27",
     "Latitude": "-21,03503000000000",
@@ -15752,10 +19110,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431290,
+    "ID": "3431290",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:26",
     "Latitude": "-21,03525000000000",
@@ -15770,10 +19133,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431289,
+    "ID": "3431289",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:26",
     "Latitude": "-21,03542000000000",
@@ -15788,10 +19156,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431288,
+    "ID": "3431288",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:26",
     "Latitude": "-21,03542000000000",
@@ -15806,10 +19179,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431611,
+    "ID": "3431611",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:25",
     "Latitude": "-21,03587000000000",
@@ -15824,10 +19202,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428312,
+    "ID": "3428312",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:25",
     "Latitude": "-21,03804000000000",
@@ -15842,10 +19225,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428311,
+    "ID": "3428311",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:24",
     "Latitude": "-21,03804000000000",
@@ -15860,10 +19248,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428310,
+    "ID": "3428310",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:24",
     "Latitude": "-21,03804000000000",
@@ -15878,10 +19271,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428309,
+    "ID": "3428309",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:23",
     "Latitude": "-21,03804000000000",
@@ -15896,10 +19294,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428253,
+    "ID": "3428253",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:23",
     "Latitude": "-21,03542000000000",
@@ -15914,10 +19317,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428254,
+    "ID": "3428254",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:23",
     "Latitude": "-21,03542000000000",
@@ -15932,10 +19340,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428255,
+    "ID": "3428255",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:22",
     "Latitude": "-21,03540000000000",
@@ -15950,10 +19363,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3428256,
+    "ID": "3428256",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:22",
     "Latitude": "-21,03544000000000",
@@ -15968,10 +19386,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443313,
+    "ID": "3443313",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:21",
     "Latitude": "-21,03509000000000",
@@ -15986,10 +19409,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443314,
+    "ID": "3443314",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:21",
     "Latitude": "-21,03526000000000",
@@ -16004,10 +19432,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443315,
+    "ID": "3443315",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:21",
     "Latitude": "-21,03527000000000",
@@ -16022,10 +19455,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Dosagem de Produto - Cobrição": "1,069",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443467,
+    "ID": "3443467",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:20",
     "Latitude": "-21,03201000000000",
@@ -16040,10 +19478,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443444,
+    "ID": "3443444",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:19",
     "Latitude": "-21,03202000000000",
@@ -16058,10 +19501,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443445,
+    "ID": "3443445",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:19",
     "Latitude": "-21,03203000000000",
@@ -16076,10 +19524,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3443468,
+    "ID": "3443468",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:19",
     "Latitude": "-21,03202000000000",
@@ -16094,10 +19547,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431562,
+    "ID": "3431562",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 14:20",
     "Latitude": "-21,15724000000000",
@@ -16112,10 +19570,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3431561,
+    "ID": "3431561",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 14:17",
     "Latitude": "-21,15725000000000",
@@ -16130,10 +19593,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3422994,
+    "ID": "3422994",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:09",
     "Latitude": "-21,08797000000000",
@@ -16148,10 +19616,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3422777,
+    "ID": "3422777",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:07",
     "Latitude": "-21,08797000000000",
@@ -16166,10 +19639,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3422776,
+    "ID": "3422776",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:06",
     "Latitude": "-21,08796000000000",
@@ -16184,10 +19662,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3421347,
+    "ID": "3421347",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 16:18",
     "Latitude": "-21,04301000000000",
@@ -16202,10 +19685,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Dosagem de Produto - Cobrição": "1,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3421341,
+    "ID": "3421341",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 16:04",
     "Latitude": "-20,99962000000000",
@@ -16220,10 +19708,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3421212,
+    "ID": "3421212",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 15:39",
     "Latitude": "-20,99342000000000",
@@ -16238,10 +19731,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3421211,
+    "ID": "3421211",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 15:32",
     "Latitude": "-20,99241000000000",
@@ -16256,10 +19754,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Dosagem de Produto - Cobrição": "1,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3417405,
+    "ID": "3417405",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/01/2026 11:39",
     "Latitude": "-21,09629000000000",
@@ -16274,10 +19777,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3417440,
+    "ID": "3417440",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/01/2026 11:38",
     "Latitude": "-21,09628000000000",
@@ -16292,10 +19800,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3413581,
+    "ID": "3413581",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/01/2026 12:53",
     "Latitude": "-21,09420000000000",
@@ -16310,10 +19823,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3413582,
+    "ID": "3413582",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/01/2026 12:38",
     "Latitude": "-21,09419000000000",
@@ -16328,10 +19846,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3410277,
+    "ID": "3410277",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/01/2026 12:38",
     "Latitude": "-21,09330000000000",
@@ -16346,10 +19869,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3410276,
+    "ID": "3410276",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/01/2026 12:37",
     "Latitude": "-21,09329000000000",
@@ -16364,16 +19892,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3408520,
+    "ID": "3408520",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "12/01/2026 12:39",
+    "Data": "01/12/2026 12:39",
     "Latitude": "-21,09255000000000",
     "Longitude": "-48,23114000000000",
-    "Data início": "12/01/2026 12:35",
-    "Data Fim": "12/01/2026 12:39",
+    "Data início": "01/12/2026 12:35",
+    "Data Fim": "01/12/2026 12:39",
     "Status": "Aberto",
     "Score": "0,00",
     "Data Lançamento": "12/01/2026",
@@ -16382,16 +19915,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 3408517,
+    "ID": "3408517",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "12/01/2026 12:35",
+    "Data": "01/12/2026 12:35",
     "Latitude": "-21,09274000000000",
     "Longitude": "-48,23082000000000",
-    "Data início": "12/01/2026 12:33",
-    "Data Fim": "12/01/2026 12:35",
+    "Data início": "01/12/2026 12:33",
+    "Data Fim": "01/12/2026 12:35",
     "Status": "Aberto",
     "Score": "0,00",
     "Data Lançamento": "12/01/2026",
@@ -16400,16 +19938,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Dosagem de Produto - Cobrição": "1,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 4026270,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "04/11/2026 12:44",
+    "ID": "4026270",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.87696000000000",
     "Longitude": "-48.50718000000000",
-    "Data início": "04/11/2026 12:43",
-    "Data Fim": "04/11/2026 12:44",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/04/2026",
@@ -16418,16 +19961,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": 33302.0
+    "Fazenda": "33302",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/04/2026 12:44 PM",
+    "Start date": "11/04/2026 12:43 PM",
+    "End date": "11/04/2026 12:44 PM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4026269,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "04/11/2026 12:39",
+    "ID": "4026269",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.87695000000000",
     "Longitude": "-48.50718000000000",
-    "Data início": "04/11/2026 12:31",
-    "Data Fim": "04/11/2026 12:39",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/04/2026",
@@ -16436,16 +19984,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.08",
-    "Fazenda": 33302.0
+    "Fazenda": "33302",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/04/2026 12:39 PM",
+    "Start date": "11/04/2026 12:31 PM",
+    "End date": "11/04/2026 12:39 PM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4020650,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "31/10/2026 09:59",
+    "ID": "4020650",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89380000000000",
     "Longitude": "-48.50482000000000",
-    "Data início": "31/10/2026 09:52",
-    "Data Fim": "31/10/2026 09:54",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/31/2026",
@@ -16454,16 +20007,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/31/2026 09:59 AM",
+    "Start date": "10/31/2026 09:52 AM",
+    "End date": "10/31/2026 09:54 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4020651,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "31/10/2026 09:55",
+    "ID": "4020651",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89380000000000",
     "Longitude": "-48.50482000000000",
-    "Data início": "31/10/2026 09:54",
-    "Data Fim": "31/10/2026 09:55",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/31/2026",
@@ -16472,16 +20030,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/31/2026 09:55 AM",
+    "Start date": "10/31/2026 09:54 AM",
+    "End date": "10/31/2026 09:55 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4013423,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "28/10/2026 11:36",
+    "ID": "4013423",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86897000000000",
     "Longitude": "-48.53203000000000",
-    "Data início": "28/10/2026 11:35",
-    "Data Fim": "28/10/2026 11:36",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/28/2026",
@@ -16490,16 +20053,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.06",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/28/2026 11:36 AM",
+    "Start date": "10/28/2026 11:35 AM",
+    "End date": "10/28/2026 11:36 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4013422,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "28/10/2026 11:35",
+    "ID": "4013422",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86896000000000",
     "Longitude": "-48.53203000000000",
-    "Data início": "28/10/2026 11:32",
-    "Data Fim": "28/10/2026 11:35",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/28/2026",
@@ -16508,16 +20076,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.04",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/28/2026 11:35 AM",
+    "Start date": "10/28/2026 11:32 AM",
+    "End date": "10/28/2026 11:35 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4010649,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "27/10/2026 13:58",
+    "ID": "4010649",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86823000000000",
     "Longitude": "-48.53136000000000",
-    "Data início": "27/10/2026 13:57",
-    "Data Fim": "27/10/2026 13:58",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/27/2026",
@@ -16526,16 +20099,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/27/2026 01:58 PM",
+    "Start date": "10/27/2026 01:57 PM",
+    "End date": "10/27/2026 01:58 PM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4010647,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "27/10/2026 13:57",
+    "ID": "4010647",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86823000000000",
     "Longitude": "-48.53136000000000",
-    "Data início": "27/10/2026 13:55",
-    "Data Fim": "27/10/2026 13:57",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/27/2026",
@@ -16544,16 +20122,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/27/2026 01:57 PM",
+    "Start date": "10/27/2026 01:55 PM",
+    "End date": "10/27/2026 01:57 PM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4006522,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/10/2026 11:07",
+    "ID": "4006522",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84640000000000",
     "Longitude": "-48.52263000000000",
-    "Data início": "24/10/2026 11:06",
-    "Data Fim": "24/10/2026 11:07",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -16562,16 +20145,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/24/2026 11:07 AM",
+    "Start date": "10/24/2026 11:06 AM",
+    "End date": "10/24/2026 11:07 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4006252,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "24/10/2026 11:07",
+    "ID": "4006252",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84639000000000",
     "Longitude": "-48.52262000000000",
-    "Data início": "24/10/2026 11:06",
-    "Data Fim": "24/10/2026 11:07",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -16580,16 +20168,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.02",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/24/2026 11:07 AM",
+    "Start date": "10/24/2026 11:06 AM",
+    "End date": "10/24/2026 11:07 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4006521,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/10/2026 11:06",
+    "ID": "4006521",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84640000000000",
     "Longitude": "-48.52263000000000",
-    "Data início": "24/10/2026 11:00",
-    "Data Fim": "24/10/2026 11:06",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -16598,16 +20191,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/24/2026 11:06 AM",
+    "Start date": "10/24/2026 11:00 AM",
+    "End date": "10/24/2026 11:06 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4006251,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "24/10/2026 11:06",
+    "ID": "4006251",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84638000000000",
     "Longitude": "-48.52263000000000",
-    "Data início": "24/10/2026 11:04",
-    "Data Fim": "24/10/2026 11:06",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -16616,16 +20214,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/24/2026 11:06 AM",
+    "Start date": "10/24/2026 11:04 AM",
+    "End date": "10/24/2026 11:06 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4004087,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "23/10/2026 13:01",
+    "ID": "4004087",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84347000000000",
     "Longitude": "-48.52529000000000",
-    "Data início": "23/10/2026 12:59",
-    "Data Fim": "23/10/2026 13:01",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/23/2026",
@@ -16634,16 +20237,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.14",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/23/2026 01:01 PM",
+    "Start date": "10/23/2026 12:59 PM",
+    "End date": "10/23/2026 01:01 PM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4004086,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "23/10/2026 12:59",
+    "ID": "4004086",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84347000000000",
     "Longitude": "-48.52529000000000",
-    "Data início": "23/10/2026 12:57",
-    "Data Fim": "23/10/2026 12:59",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/23/2026",
@@ -16652,16 +20260,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/23/2026 12:59 PM",
+    "Start date": "10/23/2026 12:57 PM",
+    "End date": "10/23/2026 12:59 PM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 3997616,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/10/2026 09:09",
+    "ID": "3997616",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10481000000000",
     "Longitude": "-48.38851000000000",
-    "Data início": "21/10/2026 09:08",
-    "Data Fim": "21/10/2026 09:09",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -16670,16 +20283,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/21/2026 09:09 AM",
+    "Start date": "10/21/2026 09:08 AM",
+    "End date": "10/21/2026 09:09 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 3997765,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "21/10/2026 09:09",
+    "ID": "3997765",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10484000000000",
     "Longitude": "-48.38851000000000",
-    "Data início": "21/10/2026 09:08",
-    "Data Fim": "21/10/2026 09:09",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -16688,16 +20306,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/21/2026 09:09 AM",
+    "Start date": "10/21/2026 09:08 AM",
+    "End date": "10/21/2026 09:09 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 3997615,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/10/2026 09:08",
+    "ID": "3997615",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10490000000000",
     "Longitude": "-48.38848000000000",
-    "Data início": "21/10/2026 09:06",
-    "Data Fim": "21/10/2026 09:08",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -16706,16 +20329,21 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/21/2026 09:08 AM",
+    "Start date": "10/21/2026 09:06 AM",
+    "End date": "10/21/2026 09:08 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 3997764,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "21/10/2026 09:08",
+    "ID": "3997764",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10485000000000",
     "Longitude": "-48.38852000000000",
-    "Data início": "21/10/2026 09:07",
-    "Data Fim": "21/10/2026 09:08",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -16724,10 +20352,1073 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/21/2026 09:08 AM",
+    "Start date": "10/21/2026 09:07 AM",
+    "End date": "10/21/2026 09:08 AM",
+    "Unnamed: 16": null
   },
   {
-    "ID": 4038386,
+    "ID": "3949211",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.10946000000000",
+    "Longitude": "-48.50620000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/29/2026",
+    "Local (Fazenda - Talhão)": "36813",
+    "OS": "3169",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "36813",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/29/2026 12:20 PM",
+    "Start date": "09/29/2026 12:18 PM",
+    "End date": "09/29/2026 12:20 PM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3949210",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.10946000000000",
+    "Longitude": "-48.50620000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/29/2026",
+    "Local (Fazenda - Talhão)": "36813",
+    "OS": "3169",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.16",
+    "Fazenda": "36813",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/29/2026 12:18 PM",
+    "Start date": "09/29/2026 12:17 PM",
+    "End date": "09/29/2026 12:18 PM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3945452",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06007000000000",
+    "Longitude": "-48.46365000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/28/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.04",
+    "Fazenda": "151901",
+    "User": "qualidade5@usinapitangueiras.com.br",
+    "Date": "09/28/2026 09:01 AM",
+    "Start date": "09/28/2026 08:57 AM",
+    "End date": "09/28/2026 09:01 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3945438",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06005000000000",
+    "Longitude": "-48.46367000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/28/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.02",
+    "Fazenda": "151901",
+    "User": "qualidade5@usinapitangueiras.com.br",
+    "Date": "09/28/2026 08:57 AM",
+    "Start date": "09/28/2026 08:53 AM",
+    "End date": "09/28/2026 08:57 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3942442",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05726000000000",
+    "Longitude": "-48.46594000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.14",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 01:42 PM",
+    "Start date": "09/26/2026 01:40 PM",
+    "End date": "09/26/2026 01:42 PM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3941328",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03905000000000",
+    "Longitude": "-48.46004000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 08:19 AM",
+    "Start date": "09/26/2026 08:18 AM",
+    "End date": "09/26/2026 08:19 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3942588",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03905000000000",
+    "Longitude": "-48.46004000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 08:18 AM",
+    "Start date": "09/26/2026 08:16 AM",
+    "End date": "09/26/2026 08:18 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3938495",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.08949000000000",
+    "Longitude": "-48.30946000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "177012",
+    "OS": "3199",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "177012",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/25/2026 09:31 AM",
+    "Start date": "09/25/2026 09:30 AM",
+    "End date": "09/25/2026 09:31 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3938494",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.08890000000000",
+    "Longitude": "-48.31017000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "177012",
+    "OS": "3199",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1",
+    "Fazenda": "177012",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/25/2026 09:29 AM",
+    "Start date": "09/25/2026 09:27 AM",
+    "End date": "09/25/2026 09:29 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3938535",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03900000000000",
+    "Longitude": "-48.46009000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/25/2026 08:49 AM",
+    "Start date": "09/25/2026 08:48 AM",
+    "End date": "09/25/2026 08:49 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3938534",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03900000000000",
+    "Longitude": "-48.46009000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/25/2026 08:48 AM",
+    "Start date": "09/25/2026 08:47 AM",
+    "End date": "09/25/2026 08:48 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3938562",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03903000000000",
+    "Longitude": "-48.46006000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "151901",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/25/2026 08:46 AM",
+    "Start date": "09/25/2026 08:45 AM",
+    "End date": "09/25/2026 08:46 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3938561",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03900000000000",
+    "Longitude": "-48.46005000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "151901",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/25/2026 08:45 AM",
+    "Start date": "09/25/2026 08:43 AM",
+    "End date": "09/25/2026 08:45 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3936115",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04797000000000",
+    "Longitude": "-48.47279000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/24/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "1354",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "151901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/24/2026 11:03 AM",
+    "Start date": "09/24/2026 11:02 AM",
+    "End date": "09/24/2026 11:03 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3936114",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04798000000000",
+    "Longitude": "-48.47277000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/24/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "1354",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1.145",
+    "Fazenda": "151901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/24/2026 11:02 AM",
+    "Start date": "09/24/2026 11:01 AM",
+    "End date": "09/24/2026 11:02 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3931263",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84408000000000",
+    "Longitude": "-48.45240000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/22/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/22/2026 01:44 PM",
+    "Start date": "09/22/2026 01:35 PM",
+    "End date": "09/22/2026 01:38 PM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3917517",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84679000000000",
+    "Longitude": "-48.44449000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/16/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.08",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/22/2026 01:43 PM",
+    "Start date": "09/16/2026 10:43 AM",
+    "End date": "09/16/2026 10:44 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3928198",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84619000000000",
+    "Longitude": "-48.44564000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:32 AM",
+    "Start date": "09/21/2026 09:32 AM",
+    "End date": "09/21/2026 09:32 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3928193",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84619000000000",
+    "Longitude": "-48.44564000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Dosagem de Produto - Cobrição": "1",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:32 AM",
+    "Start date": "09/21/2026 09:20 AM",
+    "End date": "09/21/2026 09:25 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3925099",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84704000000000",
+    "Longitude": "-48.44753000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.06",
+    "Fazenda": "67901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 08:55 AM",
+    "Start date": "09/19/2026 08:54 AM",
+    "End date": "09/19/2026 08:55 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3926081",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06952000000000",
+    "Longitude": "-48.28934000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "177015",
+    "OS": "3057",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "177015",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/19/2026 08:55 AM",
+    "Start date": "09/19/2026 08:54 AM",
+    "End date": "09/19/2026 08:55 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3925098",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84704000000000",
+    "Longitude": "-48.44753000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.04",
+    "Fazenda": "67901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 08:54 AM",
+    "Start date": "09/19/2026 08:52 AM",
+    "End date": "09/19/2026 08:54 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3926080",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06954000000000",
+    "Longitude": "-48.28931000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "177015",
+    "OS": "3057",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.08",
+    "Fazenda": "177015",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/19/2026 08:54 AM",
+    "Start date": "09/19/2026 08:51 AM",
+    "End date": "09/19/2026 08:54 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3922201",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04520000000000",
+    "Longitude": "-48.32723000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.14",
+    "Fazenda": "111201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:53 AM",
+    "Start date": "09/18/2026 09:52 AM",
+    "End date": "09/18/2026 09:53 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3922199",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04520000000000",
+    "Longitude": "-48.32723000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.16",
+    "Fazenda": "111201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:52 AM",
+    "Start date": "09/18/2026 09:51 AM",
+    "End date": "09/18/2026 09:52 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3922582",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04524000000000",
+    "Longitude": "-48.32723000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "111201",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:51 AM",
+    "Start date": "09/18/2026 09:50 AM",
+    "End date": "09/18/2026 09:51 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3922581",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04525000000000",
+    "Longitude": "-48.32722000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.16",
+    "Fazenda": "111201",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:51 AM",
+    "Start date": "09/18/2026 09:49 AM",
+    "End date": "09/18/2026 09:50 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3923318",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.02933000000000",
+    "Longitude": "-48.26212000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:50 AM",
+    "Start date": "09/18/2026 09:48 AM",
+    "End date": "09/18/2026 09:50 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3923317",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.02935000000000",
+    "Longitude": "-48.26212000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:48 AM",
+    "Start date": "09/18/2026 09:44 AM",
+    "End date": "09/18/2026 09:48 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3920295",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.13558000000000",
+    "Longitude": "-48.44023000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "142201",
+    "OS": "2987",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.16",
+    "Fazenda": "142201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/17/2026 01:34 PM",
+    "Start date": "09/17/2026 01:34 PM",
+    "End date": "09/17/2026 01:34 PM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3920294",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.13558000000000",
+    "Longitude": "-48.44023000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "142201",
+    "OS": "2987",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "142201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/17/2026 01:34 PM",
+    "Start date": "09/17/2026 01:32 PM",
+    "End date": "09/17/2026 01:34 PM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3920353",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03526000000000",
+    "Longitude": "-48.26285000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/17/2026 10:06 AM",
+    "Start date": "09/17/2026 10:05 AM",
+    "End date": "09/17/2026 10:06 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3920352",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03526000000000",
+    "Longitude": "-48.26285000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/17/2026 10:04 AM",
+    "Start date": "09/17/2026 10:03 AM",
+    "End date": "09/17/2026 10:04 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3919816",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03524000000000",
+    "Longitude": "-48.26285000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.12",
+    "Fazenda": "146301",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/17/2026 10:03 AM",
+    "Start date": "09/17/2026 09:55 AM",
+    "End date": "09/17/2026 09:58 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3919817",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03525000000000",
+    "Longitude": "-48.26286000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "146301",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/17/2026 10:02 AM",
+    "Start date": "09/17/2026 09:58 AM",
+    "End date": "09/17/2026 09:59 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3917518",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84678000000000",
+    "Longitude": "-48.44449000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/16/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.04",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/16/2026 10:46 AM",
+    "Start date": "09/16/2026 10:46 AM",
+    "End date": "09/16/2026 10:46 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3914848",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84660000000000",
+    "Longitude": "-48.44787000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/15/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.04",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/15/2026 08:25 AM",
+    "Start date": "09/15/2026 08:23 AM",
+    "End date": "09/15/2026 08:25 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3914847",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84658000000000",
+    "Longitude": "-48.44786000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/15/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.02",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/15/2026 08:23 AM",
+    "Start date": "09/15/2026 08:21 AM",
+    "End date": "09/15/2026 08:23 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3913372",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.85271000000000",
+    "Longitude": "-48.44934000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/14/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.08",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/14/2026 09:11 AM",
+    "Start date": "09/14/2026 09:10 AM",
+    "End date": "09/14/2026 09:11 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3913371",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.85273000000000",
+    "Longitude": "-48.44932000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/14/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Dosagem de Produto - Cobrição": "1.06",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/14/2026 09:10 AM",
+    "Start date": "09/14/2026 09:08 AM",
+    "End date": "09/14/2026 09:10 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3911349",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84649000000000",
+    "Longitude": "-48.45784000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.04",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:41 AM",
+    "Start date": "09/12/2026 08:40 AM",
+    "End date": "09/12/2026 08:41 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3911348",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84649000000000",
+    "Longitude": "-48.45784000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Dosagem de Produto - Cobrição": "1.02",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:40 AM",
+    "Start date": "09/12/2026 08:39 AM",
+    "End date": "09/12/2026 08:40 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3911968",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84649000000000",
+    "Longitude": "-48.45782000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.02",
+    "Fazenda": "70408",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:40 AM",
+    "Start date": "09/12/2026 08:39 AM",
+    "End date": "09/12/2026 08:40 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "3911967",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84645000000000",
+    "Longitude": "-48.45782000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Dosagem de Produto - Cobrição": "1.04",
+    "Fazenda": "70408",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:39 AM",
+    "Start date": "09/12/2026 08:38 AM",
+    "End date": "09/12/2026 08:39 AM",
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4050436",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "14/11/2026 14:01",
+    "Latitude": "-21.02137000000000",
+    "Longitude": "-48.45671000000000",
+    "Data início": "14/11/2026 13:59",
+    "Data Fim": "14/11/2026 14:01",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/14/2026",
+    "Local (Fazenda - Talhão)": "46601",
+    "OS": "3745",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Dosagem de Produto - Cobrição": "1.1",
+    "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4050435",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "14/11/2026 13:59",
+    "Latitude": "-21.02137000000000",
+    "Longitude": "-48.45672000000000",
+    "Data início": "14/11/2026 13:57",
+    "Data Fim": "14/11/2026 13:59",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/14/2026",
+    "Local (Fazenda - Talhão)": "46601",
+    "OS": "3745",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Dosagem de Produto - Cobrição": "1.09",
+    "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4038386",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "10/11/2026 15:03",
     "Latitude": "-21.03804000000000",
@@ -16742,10 +21433,15 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.12",
-    "Fazenda": 50301.0
+    "Fazenda": "50301",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   },
   {
-    "ID": 4038385,
+    "ID": "4038385",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "10/11/2026 15:02",
     "Latitude": "-21.03805000000000",
@@ -16760,6 +21456,11 @@ window.DOSAGEM_COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Dosagem de Produto - Cobrição": "1.1",
-    "Fazenda": 50301.0
+    "Fazenda": "50301",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
   }
 ];

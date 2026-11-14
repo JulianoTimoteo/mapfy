@@ -1,1303 +1,11 @@
 /**
  * Dados Consolidados - dosagem_sulco
- * Total: 1295 registros
- * Atualizado em: 13/11/2026 12:09
+ * Total: 1297 registros
+ * Atualizado em: 14/11/2026 14:29
  */
-window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
+window.DOSAGEM_RAW_DATA = [
   {
-    "ID": 3945444,
-    "Usuário": "qualidade5@usinapitangueiras.com.br",
-    "Data": "28/09/2026 08:34",
-    "Latitude": "-21,06216000000000",
-    "Longitude": "-48,46428000000000",
-    "Data início": "28/09/2026 08:33",
-    "Data Fim": "28/09/2026 08:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "28/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,99",
-    "Fazenda": null
-  },
-  {
-    "ID": 3945443,
-    "Usuário": "qualidade5@usinapitangueiras.com.br",
-    "Data": "28/09/2026 08:33",
-    "Latitude": "-21,06215000000000",
-    "Longitude": "-48,46428000000000",
-    "Data início": "28/09/2026 08:32",
-    "Data Fim": "28/09/2026 08:33",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "28/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,005",
-    "Fazenda": null
-  },
-  {
-    "ID": 3941337,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 09:36",
-    "Latitude": "-21,06207000000000",
-    "Longitude": "-48,46436000000000",
-    "Data início": "26/09/2026 09:35",
-    "Data Fim": "26/09/2026 09:36",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,68",
-    "Fazenda": null
-  },
-  {
-    "ID": 3941336,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 09:35",
-    "Latitude": "-21,06207000000000",
-    "Longitude": "-48,46436000000000",
-    "Data início": "26/09/2026 09:34",
-    "Data Fim": "26/09/2026 09:35",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,775",
-    "Fazenda": null
-  },
-  {
-    "ID": 3941335,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 09:34",
-    "Latitude": "-21,06207000000000",
-    "Longitude": "-48,46436000000000",
-    "Data início": "26/09/2026 09:32",
-    "Data Fim": "26/09/2026 09:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": null
-  },
-  {
-    "ID": 3941334,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "26/09/2026 09:32",
-    "Latitude": "-21,06207000000000",
-    "Longitude": "-48,46436000000000",
-    "Data início": "26/09/2026 09:31",
-    "Data Fim": "26/09/2026 09:32",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "26/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,815",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938430,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "25/09/2026 10:38",
-    "Latitude": "-21,05362000000000",
-    "Longitude": "-48,46734000000000",
-    "Data início": "25/09/2026 10:36",
-    "Data Fim": "25/09/2026 10:38",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938429,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "25/09/2026 10:36",
-    "Latitude": "-21,05577000000000",
-    "Longitude": "-48,46478000000000",
-    "Data início": "25/09/2026 10:35",
-    "Data Fim": "25/09/2026 10:36",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938541,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "25/09/2026 10:34",
-    "Latitude": "-21,05976000000000",
-    "Longitude": "-48,46417000000000",
-    "Data início": "25/09/2026 10:33",
-    "Data Fim": "25/09/2026 10:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,985",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938571,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "25/09/2026 10:34",
-    "Latitude": "-21,05980000000000",
-    "Longitude": "-48,46420000000000",
-    "Data início": "25/09/2026 10:33",
-    "Data Fim": "25/09/2026 10:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,985",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938540,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "25/09/2026 10:33",
-    "Latitude": "-21,05981000000000",
-    "Longitude": "-48,46420000000000",
-    "Data início": "25/09/2026 10:31",
-    "Data Fim": "25/09/2026 10:33",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,805",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938570,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "25/09/2026 10:33",
-    "Latitude": "-21,05978000000000",
-    "Longitude": "-48,46417000000000",
-    "Data início": "25/09/2026 10:30",
-    "Data Fim": "25/09/2026 10:33",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,805",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938500,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "25/09/2026 09:45",
-    "Latitude": "-21,08980000000000",
-    "Longitude": "-48,30905000000000",
-    "Data início": "25/09/2026 09:41",
-    "Data Fim": "25/09/2026 09:45",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "177012",
-    "OS": "3199",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938499,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "25/09/2026 09:41",
-    "Latitude": "-21,08981000000000",
-    "Longitude": "-48,30901000000000",
-    "Data início": "25/09/2026 09:37",
-    "Data Fim": "25/09/2026 09:40",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "177012",
-    "OS": "3199",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938567,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "25/09/2026 09:41",
-    "Latitude": "-21,03750000000000",
-    "Longitude": "-48,46132000000000",
-    "Data início": "25/09/2026 09:40",
-    "Data Fim": "25/09/2026 09:41",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": null
-  },
-  {
-    "ID": 3938566,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "25/09/2026 09:40",
-    "Latitude": "-21,03750000000000",
-    "Longitude": "-48,46132000000000",
-    "Data início": "25/09/2026 09:35",
-    "Data Fim": "25/09/2026 09:40",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "25/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": null
-  },
-  {
-    "ID": 3931245,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "22/09/2026 10:02",
-    "Latitude": "-20,84619000000000",
-    "Longitude": "-48,45177000000000",
-    "Data início": "22/09/2026 09:54",
-    "Data Fim": "22/09/2026 09:56",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "22/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": null
-  },
-  {
-    "ID": 3931247,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "22/09/2026 10:02",
-    "Latitude": "-20,84619000000000",
-    "Longitude": "-48,45174000000000",
-    "Data início": "22/09/2026 09:58",
-    "Data Fim": "22/09/2026 10:02",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "22/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,785",
-    "Fazenda": null
-  },
-  {
-    "ID": 3927882,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:30",
-    "Latitude": "-21,04164000000000",
-    "Longitude": "-48,47033000000000",
-    "Data início": "21/09/2026 09:28",
-    "Data Fim": "21/09/2026 09:30",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,67",
-    "Fazenda": null
-  },
-  {
-    "ID": 3927881,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:28",
-    "Latitude": "-21,04163000000000",
-    "Longitude": "-48,47031000000000",
-    "Data início": "21/09/2026 09:26",
-    "Data Fim": "21/09/2026 09:28",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,69",
-    "Fazenda": null
-  },
-  {
-    "ID": 3927880,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:25",
-    "Latitude": "-21,04163000000000",
-    "Longitude": "-48,47031000000000",
-    "Data início": "21/09/2026 09:23",
-    "Data Fim": "21/09/2026 09:25",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,605",
-    "Fazenda": null
-  },
-  {
-    "ID": 3928192,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:18",
-    "Latitude": "-20,84658000000000",
-    "Longitude": "-48,44794000000000",
-    "Data início": "21/09/2026 09:18",
-    "Data Fim": "21/09/2026 09:18",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,15",
-    "Fazenda": null
-  },
-  {
-    "ID": 3928187,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "21/09/2026 09:18",
-    "Latitude": "-20,84660000000000",
-    "Longitude": "-48,44796000000000",
-    "Data início": "21/09/2026 09:18",
-    "Data Fim": "21/09/2026 09:18",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "1,975",
-    "Fazenda": null
-  },
-  {
-    "ID": 3927877,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/09/2026 08:57",
-    "Latitude": "-21,04162000000000",
-    "Longitude": "-48,47020000000000",
-    "Data início": "21/09/2026 08:55",
-    "Data Fim": "21/09/2026 08:57",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,61",
-    "Fazenda": null
-  },
-  {
-    "ID": 3928183,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "21/09/2026 08:52",
-    "Latitude": "-20,84652000000000",
-    "Longitude": "-48,44797000000000",
-    "Data início": "21/09/2026 08:52",
-    "Data Fim": "21/09/2026 08:52",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null
-  },
-  {
-    "ID": 3928179,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "21/09/2026 08:52",
-    "Latitude": "-20,84651000000000",
-    "Longitude": "-48,44798000000000",
-    "Data início": "21/09/2026 08:50",
-    "Data Fim": "21/09/2026 08:51",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "21/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "VITOR AMORIM RAMOS ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,845",
-    "Fazenda": null
-  },
-  {
-    "ID": 3926046,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 13:26",
-    "Latitude": "-20,84621000000000",
-    "Longitude": "-48,44555000000000",
-    "Data início": "19/09/2026 13:25",
-    "Data Fim": "19/09/2026 13:26",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,66",
-    "Fazenda": null
-  },
-  {
-    "ID": 3926045,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 13:25",
-    "Latitude": "-20,84621000000000",
-    "Longitude": "-48,44555000000000",
-    "Data início": "19/09/2026 13:24",
-    "Data Fim": "19/09/2026 13:25",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,64",
-    "Fazenda": null
-  },
-  {
-    "ID": 3926044,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 13:18",
-    "Latitude": "-20,84627000000000",
-    "Longitude": "-48,44781000000000",
-    "Data início": "19/09/2026 13:17",
-    "Data Fim": "19/09/2026 13:18",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": null
-  },
-  {
-    "ID": 3926043,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 13:17",
-    "Latitude": "-20,84643000000000",
-    "Longitude": "-48,44792000000000",
-    "Data início": "19/09/2026 13:08",
-    "Data Fim": "19/09/2026 13:17",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "67901",
-    "OS": "3056",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3925298,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 10:54",
-    "Latitude": "-21,04775000000000",
-    "Longitude": "-48,47275000000000",
-    "Data início": "19/09/2026 10:54",
-    "Data Fim": "19/09/2026 10:54",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,765",
-    "Fazenda": null
-  },
-  {
-    "ID": 3925297,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "19/09/2026 10:54",
-    "Latitude": "-21,04775000000000",
-    "Longitude": "-48,47274000000000",
-    "Data início": "19/09/2026 10:50",
-    "Data Fim": "19/09/2026 10:54",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "19/09/2026",
-    "Local (Fazenda - Talhão)": "151901",
-    "OS": "3103",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922604,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:58",
-    "Latitude": "-21,04524000000000",
-    "Longitude": "-48,32725000000000",
-    "Data início": "18/09/2026 09:57",
-    "Data Fim": "18/09/2026 09:58",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,015",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922595,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:57",
-    "Latitude": "-21,04526000000000",
-    "Longitude": "-48,32734000000000",
-    "Data início": "18/09/2026 09:55",
-    "Data Fim": "18/09/2026 09:57",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922592,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:55",
-    "Latitude": "-21,04523000000000",
-    "Longitude": "-48,32726000000000",
-    "Data início": "18/09/2026 09:54",
-    "Data Fim": "18/09/2026 09:55",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,455",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922587,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:54",
-    "Latitude": "-21,04521000000000",
-    "Longitude": "-48,32726000000000",
-    "Data início": "18/09/2026 09:52",
-    "Data Fim": "18/09/2026 09:54",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,87",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922198,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:36",
-    "Latitude": "-21,04523000000000",
-    "Longitude": "-48,32721000000000",
-    "Data início": "18/09/2026 09:34",
-    "Data Fim": "18/09/2026 09:36",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,015",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922197,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:34",
-    "Latitude": "-21,04523000000000",
-    "Longitude": "-48,32721000000000",
-    "Data início": "18/09/2026 09:33",
-    "Data Fim": "18/09/2026 09:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922219,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:15",
-    "Latitude": "-21,06929000000000",
-    "Longitude": "-48,29181000000000",
-    "Data início": "18/09/2026 09:14",
-    "Data Fim": "18/09/2026 09:15",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "177015",
-    "OS": "3057",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922218,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:12",
-    "Latitude": "-21,06941000000000",
-    "Longitude": "-48,29183000000000",
-    "Data início": "18/09/2026 09:11",
-    "Data Fim": "18/09/2026 09:12",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "177015",
-    "OS": "3057",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922217,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:05",
-    "Latitude": "-21,06938000000000",
-    "Longitude": "-48,29182000000000",
-    "Data início": "18/09/2026 09:04",
-    "Data Fim": "18/09/2026 09:05",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "177015",
-    "OS": "3057",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922216,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 09:02",
-    "Latitude": "-21,06937000000000",
-    "Longitude": "-48,29180000000000",
-    "Data início": "18/09/2026 09:02",
-    "Data Fim": "18/09/2026 09:02",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "177015",
-    "OS": "3057",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "EDILIANA CARDOSO DA COSTA",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922196,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 08:12",
-    "Latitude": "-21,04524000000000",
-    "Longitude": "-48,32721000000000",
-    "Data início": "18/09/2026 08:11",
-    "Data Fim": "18/09/2026 08:12",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "6,23",
-    "Fazenda": null
-  },
-  {
-    "ID": 3922195,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "18/09/2026 08:11",
-    "Latitude": "-21,04524000000000",
-    "Longitude": "-48,32721000000000",
-    "Data início": "18/09/2026 08:09",
-    "Data Fim": "18/09/2026 08:11",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "18/09/2026",
-    "Local (Fazenda - Talhão)": "111201",
-    "OS": "2986",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "6,235",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919745,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "17/09/2026 11:13",
-    "Latitude": "-21,13489000000000",
-    "Longitude": "-48,44221000000000",
-    "Data início": "17/09/2026 11:10",
-    "Data Fim": "17/09/2026 11:12",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "142201",
-    "OS": "2987",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "6,22",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919744,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "17/09/2026 11:12",
-    "Latitude": "-21,13488000000000",
-    "Longitude": "-48,44221000000000",
-    "Data início": "17/09/2026 11:06",
-    "Data Fim": "17/09/2026 11:10",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "142201",
-    "OS": "2987",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "6,265",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919663,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "17/09/2026 09:44",
-    "Latitude": "-21,13706000000000",
-    "Longitude": "-48,44124000000000",
-    "Data início": "17/09/2026 09:43",
-    "Data Fim": "17/09/2026 09:44",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "142201",
-    "OS": "2987",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,21",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919661,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "17/09/2026 09:42",
-    "Latitude": "-21,13706000000000",
-    "Longitude": "-48,44124000000000",
-    "Data início": "17/09/2026 09:15",
-    "Data Fim": "17/09/2026 09:39",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "142201",
-    "OS": "2987",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919541,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "17/09/2026 07:52",
-    "Latitude": "-21,03084000000000",
-    "Longitude": "-48,26495000000000",
-    "Data início": "17/09/2026 07:49",
-    "Data Fim": "17/09/2026 07:52",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,055",
-    "Fazenda": null
-  },
-  {
-    "ID": 3919540,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "17/09/2026 07:49",
-    "Latitude": "-21,03085000000000",
-    "Longitude": "-48,26493000000000",
-    "Data início": "17/09/2026 07:47",
-    "Data Fim": "17/09/2026 07:49",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "17/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3",
-    "Fazenda": null
-  },
-  {
-    "ID": 3917624,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "16/09/2026 11:48",
-    "Latitude": "-21,03548000000000",
-    "Longitude": "-48,26293000000000",
-    "Data início": "16/09/2026 11:42",
-    "Data Fim": "16/09/2026 11:45",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "16/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null
-  },
-  {
-    "ID": 3917602,
-    "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "16/09/2026 11:48",
-    "Latitude": "-21,03548000000000",
-    "Longitude": "-48,26291000000000",
-    "Data início": "16/09/2026 11:45",
-    "Data Fim": "16/09/2026 11:48",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "16/09/2026",
-    "Local (Fazenda - Talhão)": "146301",
-    "OS": "2978",
-    "Frente": "135 - FRENTE PEDRINHO",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "3,135",
-    "Fazenda": null
-  },
-  {
-    "ID": 3914852,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "15/09/2026 09:05",
-    "Latitude": "-20,84676000000000",
-    "Longitude": "-48,44773000000000",
-    "Data início": "15/09/2026 09:03",
-    "Data Fim": "15/09/2026 09:05",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "15/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,07",
-    "Fazenda": null
-  },
-  {
-    "ID": 3914851,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "15/09/2026 09:02",
-    "Latitude": "-20,84675000000000",
-    "Longitude": "-48,44773000000000",
-    "Data início": "15/09/2026 09:00",
-    "Data Fim": "15/09/2026 09:02",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "15/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,015",
-    "Fazenda": null
-  },
-  {
-    "ID": 3914850,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "15/09/2026 08:39",
-    "Latitude": "-20,84652000000000",
-    "Longitude": "-48,44783000000000",
-    "Data início": "15/09/2026 08:35",
-    "Data Fim": "15/09/2026 08:39",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "15/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": null
-  },
-  {
-    "ID": 3914849,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "15/09/2026 08:35",
-    "Latitude": "-20,84651000000000",
-    "Longitude": "-48,44784000000000",
-    "Data início": "15/09/2026 08:30",
-    "Data Fim": "15/09/2026 08:35",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "15/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,825",
-    "Fazenda": null
-  },
-  {
-    "ID": 3913398,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "14/09/2026 10:41",
-    "Latitude": "-20,84694000000000",
-    "Longitude": "-48,44747000000000",
-    "Data início": "14/09/2026 10:39",
-    "Data Fim": "14/09/2026 10:41",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "14/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null
-  },
-  {
-    "ID": 3913397,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "14/09/2026 10:39",
-    "Latitude": "-20,84694000000000",
-    "Longitude": "-48,44745000000000",
-    "Data início": "14/09/2026 10:37",
-    "Data Fim": "14/09/2026 10:39",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "14/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": null
-  },
-  {
-    "ID": 3913373,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "14/09/2026 09:17",
-    "Latitude": "-20,85273000000000",
-    "Longitude": "-48,44935000000000",
-    "Data início": "14/09/2026 09:12",
-    "Data Fim": "14/09/2026 09:13",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "14/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null
-  },
-  {
-    "ID": 3913374,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "14/09/2026 09:16",
-    "Latitude": "-20,85272000000000",
-    "Longitude": "-48,44936000000000",
-    "Data início": "14/09/2026 09:13",
-    "Data Fim": "14/09/2026 09:16",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "14/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "MABILA HELEN D FIGUEIREDO",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,135",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911970,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "12/09/2026 09:15",
-    "Latitude": "-20,84641000000000",
-    "Longitude": "-48,45767000000000",
-    "Data início": "12/09/2026 09:15",
-    "Data Fim": "12/09/2026 09:15",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,46",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911969,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "12/09/2026 09:15",
-    "Latitude": "-20,84640000000000",
-    "Longitude": "-48,45769000000000",
-    "Data início": "12/09/2026 09:14",
-    "Data Fim": "12/09/2026 09:15",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,61",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911351,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:58",
-    "Latitude": "-20,84654000000000",
-    "Longitude": "-48,45772000000000",
-    "Data início": "12/09/2026 08:57",
-    "Data Fim": "12/09/2026 08:58",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,46",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911350,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:56",
-    "Latitude": "-20,84654000000000",
-    "Longitude": "-48,45772000000000",
-    "Data início": "12/09/2026 08:53",
-    "Data Fim": "12/09/2026 08:56",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Torta ",
-    "Dosagem de Produto - Sulcação": "5,61",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911966,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:37",
-    "Latitude": "-20,84648000000000",
-    "Longitude": "-48,45774000000000",
-    "Data início": "12/09/2026 08:36",
-    "Data Fim": "12/09/2026 08:37",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,165",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911965,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:36",
-    "Latitude": "-20,84650000000000",
-    "Longitude": "-48,45775000000000",
-    "Data início": "12/09/2026 08:33",
-    "Data Fim": "12/09/2026 08:36",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "REGINALDO DA SILVA GOMES ",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911347,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:34",
-    "Latitude": "-20,84650000000000",
-    "Longitude": "-48,45777000000000",
-    "Data início": "12/09/2026 08:31",
-    "Data Fim": "12/09/2026 08:34",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,165",
-    "Fazenda": null
-  },
-  {
-    "ID": 3911346,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "12/09/2026 08:30",
-    "Latitude": "-20,84661000000000",
-    "Longitude": "-48,45763000000000",
-    "Data início": "12/09/2026 08:07",
-    "Data Fim": "12/09/2026 08:30",
-    "Status": "Aberto",
-    "Score": "0,00",
-    "Data Lançamento": "12/09/2026",
-    "Local (Fazenda - Talhão)": "70408",
-    "OS": "2707",
-    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
-    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
-    "Produto": "Adubo",
-    "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null
-  },
-  {
-    "ID": 3909476,
+    "ID": "3909476",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/11/2026 08:57",
     "Latitude": "-20,84651000000000",
@@ -1313,10 +21,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3909473,
+    "ID": "3909473",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/11/2026 08:56",
     "Latitude": "-20,84651000000000",
@@ -1332,10 +45,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3906893,
+    "ID": "3906893",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/10/2026 12:58",
     "Latitude": "-20,84751000000000",
@@ -1351,10 +69,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,68",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3906892,
+    "ID": "3906892",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/10/2026 12:56",
     "Latitude": "-20,84751000000000",
@@ -1370,10 +93,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,62",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3906890,
+    "ID": "3906890",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/10/2026 12:49",
     "Latitude": "-20,84734000000000",
@@ -1389,10 +117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3906891,
+    "ID": "3906891",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/10/2026 12:48",
     "Latitude": "-20,84733000000000",
@@ -1408,10 +141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,035",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3904493,
+    "ID": "3904493",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/09/2026 12:40",
     "Latitude": "-20,84760000000000",
@@ -1427,10 +165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3904494,
+    "ID": "3904494",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/09/2026 12:39",
     "Latitude": "-20,84760000000000",
@@ -1446,10 +189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3901771,
+    "ID": "3901771",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/08/2026 10:15",
     "Latitude": "-20,84873000000000",
@@ -1465,10 +213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,67",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3901770,
+    "ID": "3901770",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/08/2026 10:13",
     "Latitude": "-20,84873000000000",
@@ -1484,10 +237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3901708,
+    "ID": "3901708",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/08/2026 09:29",
     "Latitude": "-20,84730000000000",
@@ -1503,10 +261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,075",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3901707,
+    "ID": "3901707",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/08/2026 09:27",
     "Latitude": "-20,84732000000000",
@@ -1522,10 +285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3900467,
+    "ID": "3900467",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/07/2026 10:36",
     "Latitude": "-20,84688000000000",
@@ -1541,10 +309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3900465,
+    "ID": "3900465",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/07/2026 10:30",
     "Latitude": "-20,84683000000000",
@@ -1560,10 +333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3900466,
+    "ID": "3900466",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/07/2026 10:30",
     "Latitude": "-20,84684000000000",
@@ -1579,10 +357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3900464,
+    "ID": "3900464",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/07/2026 10:07",
     "Latitude": "-20,84683000000000",
@@ -1598,10 +381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896370,
+    "ID": "3896370",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/04/2026 11:02",
     "Latitude": "-21,09830000000000",
@@ -1617,10 +405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896369,
+    "ID": "3896369",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/04/2026 10:59",
     "Latitude": "-21,09830000000000",
@@ -1636,10 +429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896117,
+    "ID": "3896117",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:15",
     "Latitude": "-21,09568000000000",
@@ -1655,10 +453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896116,
+    "ID": "3896116",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:13",
     "Latitude": "-21,09565000000000",
@@ -1674,10 +477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896145,
+    "ID": "3896145",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:11",
     "Latitude": "-21,09566000000000",
@@ -1693,10 +501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896115,
+    "ID": "3896115",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/04/2026 09:08",
     "Latitude": "-21,09567000000000",
@@ -1712,10 +525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896243,
+    "ID": "3896243",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/04/2026 08:49",
     "Latitude": "-21,09565000000000",
@@ -1731,10 +549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3896242,
+    "ID": "3896242",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/04/2026 08:48",
     "Latitude": "-21,09583000000000",
@@ -1750,10 +573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3893602,
+    "ID": "3893602",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/03/2026 10:28",
     "Latitude": "-21,10036000000000",
@@ -1769,10 +597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,805",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3893601,
+    "ID": "3893601",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/03/2026 10:27",
     "Latitude": "-21,10036000000000",
@@ -1788,10 +621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,73",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3893600,
+    "ID": "3893600",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/03/2026 09:35",
     "Latitude": "-21,10123000000000",
@@ -1807,10 +645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3893599,
+    "ID": "3893599",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/03/2026 09:33",
     "Latitude": "-21,10123000000000",
@@ -1826,10 +669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,995",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889484,
+    "ID": "3889484",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/01/2026 10:06",
     "Latitude": "-21,10155000000000",
@@ -1845,10 +693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889483,
+    "ID": "3889483",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/01/2026 10:04",
     "Latitude": "-21,10150000000000",
@@ -1864,10 +717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889205,
+    "ID": "3889205",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/01/2026 09:33",
     "Latitude": "-21,10152000000000",
@@ -1883,10 +741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889204,
+    "ID": "3889204",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/01/2026 09:31",
     "Latitude": "-21,10152000000000",
@@ -1902,10 +765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889480,
+    "ID": "3889480",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/01/2026 09:27",
     "Latitude": "-21,10152000000000",
@@ -1921,10 +789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889481,
+    "ID": "3889481",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "09/01/2026 09:27",
     "Latitude": "-21,10144000000000",
@@ -1940,10 +813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889203,
+    "ID": "3889203",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/01/2026 09:01",
     "Latitude": "-21,10167000000000",
@@ -1959,10 +837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3889202,
+    "ID": "3889202",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "09/01/2026 08:59",
     "Latitude": "-21,10169000000000",
@@ -1978,10 +861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3886582,
+    "ID": "3886582",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/08/2026 09:46",
     "Latitude": "-21,10473000000000",
@@ -1997,10 +885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3886581,
+    "ID": "3886581",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/08/2026 09:44",
     "Latitude": "-21,10480000000000",
@@ -2016,10 +909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,165",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3886580,
+    "ID": "3886580",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/08/2026 09:20",
     "Latitude": "-21,10494000000000",
@@ -2035,10 +933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,715",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3886579,
+    "ID": "3886579",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/08/2026 09:19",
     "Latitude": "-21,10496000000000",
@@ -2054,10 +957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,745",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3883353,
+    "ID": "3883353",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/08/2026 08:53",
     "Latitude": "-21,09086000000000",
@@ -2073,10 +981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,78",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3883352,
+    "ID": "3883352",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/08/2026 08:51",
     "Latitude": "-21,09087000000000",
@@ -2092,10 +1005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,735",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3883351,
+    "ID": "3883351",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/08/2026 08:39",
     "Latitude": "-21,09110000000000",
@@ -2111,10 +1029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3883350,
+    "ID": "3883350",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/08/2026 08:37",
     "Latitude": "-21,09110000000000",
@@ -2130,10 +1053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,525",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3880669,
+    "ID": "3880669",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/08/2026 09:28",
     "Latitude": "-21,07059000000000",
@@ -2149,10 +1077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3880668,
+    "ID": "3880668",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/08/2026 09:27",
     "Latitude": "-21,07056000000000",
@@ -2168,10 +1101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3880418,
+    "ID": "3880418",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/08/2026 09:25",
     "Latitude": "-21,07058000000000",
@@ -2187,10 +1125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3880417,
+    "ID": "3880417",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/08/2026 09:23",
     "Latitude": "-21,07057000000000",
@@ -2206,10 +1149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,765",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3877848,
+    "ID": "3877848",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/08/2026 11:35",
     "Latitude": "-21,07724000000000",
@@ -2225,10 +1173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3877847,
+    "ID": "3877847",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/08/2026 11:33",
     "Latitude": "-21,07724000000000",
@@ -2244,10 +1197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,605",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3877750,
+    "ID": "3877750",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/08/2026 09:05",
     "Latitude": "-21,07807000000000",
@@ -2263,10 +1221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,15",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3877749,
+    "ID": "3877749",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/08/2026 09:03",
     "Latitude": "-21,07807000000000",
@@ -2282,10 +1245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3875194,
+    "ID": "3875194",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/08/2026 09:57",
     "Latitude": "-21,07724000000000",
@@ -2301,10 +1269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3875193,
+    "ID": "3875193",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/08/2026 09:56",
     "Latitude": "-21,07725000000000",
@@ -2320,10 +1293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3875192,
+    "ID": "3875192",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/08/2026 09:54",
     "Latitude": "-21,07723000000000",
@@ -2339,10 +1317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,74",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3875191,
+    "ID": "3875191",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/08/2026 09:52",
     "Latitude": "-21,07723000000000",
@@ -2358,10 +1341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872171,
+    "ID": "3872171",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:20",
     "Latitude": "-21,06449000000000",
@@ -2377,10 +1365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872258,
+    "ID": "3872258",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:20",
     "Latitude": "-21,06456000000000",
@@ -2396,10 +1389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872170,
+    "ID": "3872170",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:19",
     "Latitude": "-21,06447000000000",
@@ -2415,10 +1413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872257,
+    "ID": "3872257",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:18",
     "Latitude": "-21,06447000000000",
@@ -2434,10 +1437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872256,
+    "ID": "3872256",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:17",
     "Latitude": "-21,06448000000000",
@@ -2453,10 +1461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872255,
+    "ID": "3872255",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:16",
     "Latitude": "-21,06452000000000",
@@ -2472,10 +1485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872169,
+    "ID": "3872169",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:16",
     "Latitude": "-21,06447000000000",
@@ -2491,10 +1509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3872167,
+    "ID": "3872167",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/08/2026 08:13",
     "Latitude": "-21,06442000000000",
@@ -2510,10 +1533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3870147,
+    "ID": "3870147",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/08/2026 12:58",
     "Latitude": "-21,06053000000000",
@@ -2529,10 +1557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3870146,
+    "ID": "3870146",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/08/2026 12:56",
     "Latitude": "-21,06053000000000",
@@ -2548,10 +1581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3870145,
+    "ID": "3870145",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/08/2026 12:55",
     "Latitude": "-21,06052000000000",
@@ -2567,10 +1605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3870144,
+    "ID": "3870144",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/08/2026 12:54",
     "Latitude": "-21,06052000000000",
@@ -2586,10 +1629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866573,
+    "ID": "3866573",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:45",
     "Latitude": "-21,06521000000000",
@@ -2605,10 +1653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866572,
+    "ID": "3866572",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:44",
     "Latitude": "-21,06519000000000",
@@ -2624,10 +1677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3867110,
+    "ID": "3867110",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:31",
     "Latitude": "-21,06489000000000",
@@ -2643,10 +1701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3867109,
+    "ID": "3867109",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:29",
     "Latitude": "-21,06489000000000",
@@ -2662,10 +1725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866563,
+    "ID": "3866563",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:22",
     "Latitude": "-21,06514000000000",
@@ -2681,10 +1749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866564,
+    "ID": "3866564",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:21",
     "Latitude": "-21,06515000000000",
@@ -2700,10 +1773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,585",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3867107,
+    "ID": "3867107",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:19",
     "Latitude": "-21,06513000000000",
@@ -2719,10 +1797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,585",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3867108,
+    "ID": "3867108",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/08/2026 08:18",
     "Latitude": "-21,06513000000000",
@@ -2738,10 +1821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866548,
+    "ID": "3866548",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/08/2026 12:07",
     "Latitude": "-21,06560000000000",
@@ -2757,10 +1845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866547,
+    "ID": "3866547",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/08/2026 12:05",
     "Latitude": "-21,06561000000000",
@@ -2776,10 +1869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866546,
+    "ID": "3866546",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/08/2026 12:03",
     "Latitude": "-21,06561000000000",
@@ -2795,10 +1893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3866545,
+    "ID": "3866545",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/08/2026 12:01",
     "Latitude": "-21,06560000000000",
@@ -2814,10 +1917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3861222,
+    "ID": "3861222",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/08/2026 08:48",
     "Latitude": "-21,08732000000000",
@@ -2833,10 +1941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3861221,
+    "ID": "3861221",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/08/2026 08:48",
     "Latitude": "-21,08731000000000",
@@ -2852,10 +1965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3861220,
+    "ID": "3861220",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/08/2026 08:46",
     "Latitude": "-21,08731000000000",
@@ -2871,10 +1989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3861218,
+    "ID": "3861218",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/08/2026 08:46",
     "Latitude": "-21,08731000000000",
@@ -2890,10 +2013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3858028,
+    "ID": "3858028",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "19/08/2026 11:50",
     "Latitude": "-21,09112000000000",
@@ -2909,10 +2037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3858030,
+    "ID": "3858030",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "19/08/2026 09:55",
     "Latitude": "-21,09057000000000",
@@ -2928,10 +2061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3858029,
+    "ID": "3858029",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "19/08/2026 09:53",
     "Latitude": "-21,09058000000000",
@@ -2947,10 +2085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,87",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3858027,
+    "ID": "3858027",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "19/08/2026 09:23",
     "Latitude": "-21,09112000000000",
@@ -2966,10 +2109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,155",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3854887,
+    "ID": "3854887",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "18/08/2026 13:16",
     "Latitude": "-21,08034000000000",
@@ -2985,10 +2133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,755",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3854886,
+    "ID": "3854886",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "18/08/2026 13:14",
     "Latitude": "-21,09345000000000",
@@ -3004,10 +2157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,655",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3854611,
+    "ID": "3854611",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "18/08/2026 09:08",
     "Latitude": "-21,09331000000000",
@@ -3023,10 +2181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,045",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3854610,
+    "ID": "3854610",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "18/08/2026 09:07",
     "Latitude": "-21,09338000000000",
@@ -3042,10 +2205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,17",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3854609,
+    "ID": "3854609",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "18/08/2026 09:06",
     "Latitude": "-21,09340000000000",
@@ -3061,10 +2229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,535",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3854608,
+    "ID": "3854608",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "18/08/2026 09:05",
     "Latitude": "-21,09343000000000",
@@ -3080,10 +2253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3851475,
+    "ID": "3851475",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "17/08/2026 11:56",
     "Latitude": "-21,03780000000000",
@@ -3099,10 +2277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3851474,
+    "ID": "3851474",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "17/08/2026 08:48",
     "Latitude": "-21,03780000000000",
@@ -3118,10 +2301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3851473,
+    "ID": "3851473",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "17/08/2026 08:36",
     "Latitude": "-21,03707000000000",
@@ -3137,10 +2325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3851472,
+    "ID": "3851472",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "17/08/2026 08:34",
     "Latitude": "-21,03682000000000",
@@ -3156,10 +2349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,075",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849117,
+    "ID": "3849117",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:56",
     "Latitude": "-21,03696000000000",
@@ -3175,10 +2373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849116,
+    "ID": "3849116",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:55",
     "Latitude": "-21,03697000000000",
@@ -3194,10 +2397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849028,
+    "ID": "3849028",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:54",
     "Latitude": "-21,03700000000000",
@@ -3213,10 +2421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849027,
+    "ID": "3849027",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:52",
     "Latitude": "-21,03700000000000",
@@ -3232,10 +2445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849112,
+    "ID": "3849112",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:42",
     "Latitude": "-21,03702000000000",
@@ -3251,10 +2469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849113,
+    "ID": "3849113",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:42",
     "Latitude": "-21,03701000000000",
@@ -3270,10 +2493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849025,
+    "ID": "3849025",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:41",
     "Latitude": "-21,03702000000000",
@@ -3289,10 +2517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3849026,
+    "ID": "3849026",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "15/08/2026 08:41",
     "Latitude": "-21,03699000000000",
@@ -3308,10 +2541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3843473,
+    "ID": "3843473",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:19",
     "Latitude": "-21,04042000000000",
@@ -3327,10 +2565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3843472,
+    "ID": "3843472",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:19",
     "Latitude": "-21,03998000000000",
@@ -3346,10 +2589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3843471,
+    "ID": "3843471",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:18",
     "Latitude": "-21,03998000000000",
@@ -3365,10 +2613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3846316,
+    "ID": "3846316",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:11",
     "Latitude": "-21,03688000000000",
@@ -3384,10 +2637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3846317,
+    "ID": "3846317",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:11",
     "Latitude": "-21,03688000000000",
@@ -3403,10 +2661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3846318,
+    "ID": "3846318",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:11",
     "Latitude": "-21,03695000000000",
@@ -3422,10 +2685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3846319,
+    "ID": "3846319",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 11:10",
     "Latitude": "-21,03688000000000",
@@ -3441,10 +2709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3843474,
+    "ID": "3843474",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "14/08/2026 08:00",
     "Latitude": "-21,04042000000000",
@@ -3460,10 +2733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3639881,
+    "ID": "3639881",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/06/2026 08:14",
     "Latitude": "-20,85093000000000",
@@ -3479,10 +2757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3639880,
+    "ID": "3639880",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/06/2026 08:13",
     "Latitude": "-20,85093000000000",
@@ -3498,10 +2781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3639879,
+    "ID": "3639879",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/06/2026 08:12",
     "Latitude": "-20,85093000000000",
@@ -3517,10 +2805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3639878,
+    "ID": "3639878",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/06/2026 08:11",
     "Latitude": "-20,85093000000000",
@@ -3536,10 +2829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3635253,
+    "ID": "3635253",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "05/05/2026 09:20",
     "Latitude": "-20,84885000000000",
@@ -3555,10 +2853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3635252,
+    "ID": "3635252",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "05/05/2026 09:18",
     "Latitude": "-20,84886000000000",
@@ -3574,10 +2877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3628770,
+    "ID": "3628770",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/01/2026 09:02",
     "Latitude": "-21,03998000000000",
@@ -3593,10 +2901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3628769,
+    "ID": "3628769",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "05/01/2026 09:01",
     "Latitude": "-21,03962000000000",
@@ -3612,10 +2925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626606,
+    "ID": "3626606",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 13:07",
     "Latitude": "-21,05542000000000",
@@ -3631,10 +2949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626602,
+    "ID": "3626602",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 12:59",
     "Latitude": "-21,05541000000000",
@@ -3650,10 +2973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626605,
+    "ID": "3626605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 12:58",
     "Latitude": "-21,05543000000000",
@@ -3669,10 +2997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626462,
+    "ID": "3626462",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 11:37",
     "Latitude": "-21,05263000000000",
@@ -3688,10 +3021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626439,
+    "ID": "3626439",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/04/2026 11:37",
     "Latitude": "-21,05320000000000",
@@ -3707,10 +3045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3627196,
+    "ID": "3627196",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:51",
     "Latitude": "-21,04610000000000",
@@ -3726,10 +3069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3627190,
+    "ID": "3627190",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:50",
     "Latitude": "-21,04609000000000",
@@ -3745,10 +3093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626990,
+    "ID": "3626990",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:20",
     "Latitude": "-20,79575000000000",
@@ -3764,10 +3117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "6,995",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626989,
+    "ID": "3626989",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:18",
     "Latitude": "-20,79576000000000",
@@ -3783,10 +3141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3626988,
+    "ID": "3626988",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/04/2026 09:17",
     "Latitude": "-20,79576000000000",
@@ -3802,10 +3165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3624094,
+    "ID": "3624094",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 12:17",
     "Latitude": "-21,05165000000000",
@@ -3821,10 +3189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3624093,
+    "ID": "3624093",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "29/04/2026 12:16",
     "Latitude": "-21,05165000000000",
@@ -3840,10 +3213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3624045,
+    "ID": "3624045",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:25",
     "Latitude": "-21,05384000000000",
@@ -3859,10 +3237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3624044,
+    "ID": "3624044",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:24",
     "Latitude": "-21,05281000000000",
@@ -3878,10 +3261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3624042,
+    "ID": "3624042",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:12",
     "Latitude": "-21,05163000000000",
@@ -3897,10 +3285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3624043,
+    "ID": "3624043",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 10:12",
     "Latitude": "-21,05163000000000",
@@ -3916,10 +3309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3623969,
+    "ID": "3623969",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 08:47",
     "Latitude": "-21,05164000000000",
@@ -3935,10 +3333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3623968,
+    "ID": "3623968",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "29/04/2026 08:36",
     "Latitude": "-21,05165000000000",
@@ -3954,10 +3357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3621734,
+    "ID": "3621734",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 14:32",
     "Latitude": "-21,04605000000000",
@@ -3973,10 +3381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3621697,
+    "ID": "3621697",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 14:29",
     "Latitude": "-21,04603000000000",
@@ -3992,10 +3405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620961,
+    "ID": "3620961",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 11:06",
     "Latitude": "-20,79386000000000",
@@ -4011,10 +3429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620960,
+    "ID": "3620960",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 11:05",
     "Latitude": "-20,79388000000000",
@@ -4030,10 +3453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620957,
+    "ID": "3620957",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 10:41",
     "Latitude": "-20,78863000000000",
@@ -4049,10 +3477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620956,
+    "ID": "3620956",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 10:39",
     "Latitude": "-20,78779000000000",
@@ -4068,10 +3501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620955,
+    "ID": "3620955",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 10:25",
     "Latitude": "-20,78748000000000",
@@ -4087,10 +3525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620954,
+    "ID": "3620954",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 10:24",
     "Latitude": "-20,78747000000000",
@@ -4106,10 +3549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620810,
+    "ID": "3620810",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:44",
     "Latitude": "-21,04209000000000",
@@ -4125,10 +3573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620809,
+    "ID": "3620809",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:43",
     "Latitude": "-21,04209000000000",
@@ -4144,10 +3597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620824,
+    "ID": "3620824",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:40",
     "Latitude": "-21,00581000000000",
@@ -4163,10 +3621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3620823,
+    "ID": "3620823",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/04/2026 09:39",
     "Latitude": "-21,00581000000000",
@@ -4182,10 +3645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617888,
+    "ID": "3617888",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 12:37",
     "Latitude": "-21,00587000000000",
@@ -4201,10 +3669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617887,
+    "ID": "3617887",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 12:35",
     "Latitude": "-21,00587000000000",
@@ -4220,10 +3693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618590,
+    "ID": "3618590",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 10:04",
     "Latitude": "-21,12551000000000",
@@ -4239,10 +3717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,14",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618589,
+    "ID": "3618589",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 10:03",
     "Latitude": "-21,12554000000000",
@@ -4258,10 +3741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618710,
+    "ID": "3618710",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:52",
     "Latitude": "-21,11654000000000",
@@ -4277,10 +3765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618708,
+    "ID": "3618708",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:51",
     "Latitude": "-21,11654000000000",
@@ -4296,10 +3789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618705,
+    "ID": "3618705",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:51",
     "Latitude": "-21,11654000000000",
@@ -4315,10 +3813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,015",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618702,
+    "ID": "3618702",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:50",
     "Latitude": "-21,11654000000000",
@@ -4334,10 +3837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618481,
+    "ID": "3618481",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:49",
     "Latitude": "-21,12763000000000",
@@ -4353,10 +3861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,195",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618480,
+    "ID": "3618480",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:48",
     "Latitude": "-21,12763000000000",
@@ -4372,10 +3885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617708,
+    "ID": "3617708",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:25",
     "Latitude": "-21,05159000000000",
@@ -4391,10 +3909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617707,
+    "ID": "3617707",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:24",
     "Latitude": "-21,05159000000000",
@@ -4410,10 +3933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617607,
+    "ID": "3617607",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:17",
     "Latitude": "-20,78829000000000",
@@ -4429,10 +3957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617606,
+    "ID": "3617606",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 09:16",
     "Latitude": "-20,78832000000000",
@@ -4448,10 +3981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,388",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617605,
+    "ID": "3617605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:58",
     "Latitude": "-20,79125000000000",
@@ -4467,10 +4005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617602,
+    "ID": "3617602",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:58",
     "Latitude": "-20,79125000000000",
@@ -4486,10 +4029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618235,
+    "ID": "3618235",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:31",
     "Latitude": "-21,02410000000000",
@@ -4505,10 +4053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617556,
+    "ID": "3617556",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:31",
     "Latitude": "-21,04496000000000",
@@ -4524,10 +4077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3617555,
+    "ID": "3617555",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:30",
     "Latitude": "-21,04498000000000",
@@ -4543,10 +4101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3618233,
+    "ID": "3618233",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/04/2026 08:29",
     "Latitude": "-21,02412000000000",
@@ -4562,10 +4125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614349,
+    "ID": "3614349",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:37",
     "Latitude": "-21,15444000000000",
@@ -4581,10 +4149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,58",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614348,
+    "ID": "3614348",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:37",
     "Latitude": "-21,15444000000000",
@@ -4600,10 +4173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614347,
+    "ID": "3614347",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:36",
     "Latitude": "-21,15444000000000",
@@ -4619,10 +4197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614346,
+    "ID": "3614346",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:36",
     "Latitude": "-21,15444000000000",
@@ -4638,10 +4221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614276,
+    "ID": "3614276",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:24",
     "Latitude": "-20,93143000000000",
@@ -4657,10 +4245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614275,
+    "ID": "3614275",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:22",
     "Latitude": "-20,93142000000000",
@@ -4676,10 +4269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614236,
+    "ID": "3614236",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:20",
     "Latitude": "-21,01555000000000",
@@ -4695,10 +4293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614235,
+    "ID": "3614235",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:18",
     "Latitude": "-21,01186000000000",
@@ -4714,10 +4317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614274,
+    "ID": "3614274",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:10",
     "Latitude": "-20,93159000000000",
@@ -4733,10 +4341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614273,
+    "ID": "3614273",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 12:08",
     "Latitude": "-20,93159000000000",
@@ -4752,10 +4365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613997,
+    "ID": "3613997",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 11:17",
     "Latitude": "-21,11850000000000",
@@ -4771,10 +4389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,795",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613996,
+    "ID": "3613996",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 11:17",
     "Latitude": "-21,11850000000000",
@@ -4790,10 +4413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613999,
+    "ID": "3613999",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 11:16",
     "Latitude": "-21,11850000000000",
@@ -4809,10 +4437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,87",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613998,
+    "ID": "3613998",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 11:15",
     "Latitude": "-21,11850000000000",
@@ -4828,10 +4461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613982,
+    "ID": "3613982",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 10:59",
     "Latitude": "-20,79237000000000",
@@ -4847,10 +4485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613981,
+    "ID": "3613981",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 10:57",
     "Latitude": "-20,79236000000000",
@@ -4866,10 +4509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613755,
+    "ID": "3613755",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:35",
     "Latitude": "-21,05269000000000",
@@ -4885,10 +4533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3613752,
+    "ID": "3613752",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/04/2026 08:34",
     "Latitude": "-21,05268000000000",
@@ -4904,10 +4557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614689,
+    "ID": "3614689",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 07:31",
     "Latitude": "-21,02162000000000",
@@ -4923,10 +4581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3614688,
+    "ID": "3614688",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/04/2026 07:30",
     "Latitude": "-21,02162000000000",
@@ -4942,10 +4605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611176,
+    "ID": "3611176",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 12:10",
     "Latitude": "-20,93006000000000",
@@ -4961,10 +4629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611175,
+    "ID": "3611175",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 12:09",
     "Latitude": "-20,93005000000000",
@@ -4980,10 +4653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611174,
+    "ID": "3611174",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:58",
     "Latitude": "-20,93022000000000",
@@ -4999,10 +4677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611173,
+    "ID": "3611173",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:58",
     "Latitude": "-20,93006000000000",
@@ -5018,10 +4701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611624,
+    "ID": "3611624",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:34",
     "Latitude": "-21,12631000000000",
@@ -5037,10 +4725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611623,
+    "ID": "3611623",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:33",
     "Latitude": "-21,12631000000000",
@@ -5056,10 +4749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611622,
+    "ID": "3611622",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:32",
     "Latitude": "-21,12631000000000",
@@ -5075,10 +4773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611620,
+    "ID": "3611620",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:30",
     "Latitude": "-21,12631000000000",
@@ -5094,10 +4797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611794,
+    "ID": "3611794",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:27",
     "Latitude": "-21,03306000000000",
@@ -5113,10 +4821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611793,
+    "ID": "3611793",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:26",
     "Latitude": "-21,03299000000000",
@@ -5132,10 +4845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611792,
+    "ID": "3611792",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:17",
     "Latitude": "-21,03201000000000",
@@ -5151,10 +4869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611791,
+    "ID": "3611791",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 11:17",
     "Latitude": "-21,03201000000000",
@@ -5170,10 +4893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611184,
+    "ID": "3611184",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:39",
     "Latitude": "-21,15572000000000",
@@ -5189,10 +4917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611183,
+    "ID": "3611183",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:38",
     "Latitude": "-21,15574000000000",
@@ -5208,10 +4941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611182,
+    "ID": "3611182",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:37",
     "Latitude": "-21,15571000000000",
@@ -5227,10 +4965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611181,
+    "ID": "3611181",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:37",
     "Latitude": "-21,15572000000000",
@@ -5246,10 +4989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611253,
+    "ID": "3611253",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:35",
     "Latitude": "-21,15577000000000",
@@ -5265,10 +5013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611252,
+    "ID": "3611252",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:35",
     "Latitude": "-21,15577000000000",
@@ -5284,10 +5037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611251,
+    "ID": "3611251",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:34",
     "Latitude": "-21,15577000000000",
@@ -5303,10 +5061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611250,
+    "ID": "3611250",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:34",
     "Latitude": "-21,15577000000000",
@@ -5322,10 +5085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3610832,
+    "ID": "3610832",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:11",
     "Latitude": "-20,78841000000000",
@@ -5341,10 +5109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3610831,
+    "ID": "3610831",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 09:10",
     "Latitude": "-20,78840000000000",
@@ -5360,10 +5133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611090,
+    "ID": "3611090",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 08:56",
     "Latitude": "-21,02135000000000",
@@ -5379,10 +5157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3611089,
+    "ID": "3611089",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "24/04/2026 08:55",
     "Latitude": "-21,02136000000000",
@@ -5398,10 +5181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3610830,
+    "ID": "3610830",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 08:17",
     "Latitude": "-20,78850000000000",
@@ -5417,10 +5205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3610829,
+    "ID": "3610829",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/04/2026 08:15",
     "Latitude": "-20,78850000000000",
@@ -5436,10 +5229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3610870,
+    "ID": "3610870",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 14:40",
     "Latitude": "-21,06272000000000",
@@ -5455,10 +5253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3610869,
+    "ID": "3610869",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 14:38",
     "Latitude": "-21,06771000000000",
@@ -5474,10 +5277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607606,
+    "ID": "3607606",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:11",
     "Latitude": "-20,79562000000000",
@@ -5493,10 +5301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607605,
+    "ID": "3607605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:10",
     "Latitude": "-20,79561000000000",
@@ -5512,10 +5325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607604,
+    "ID": "3607604",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:09",
     "Latitude": "-20,79560000000000",
@@ -5531,10 +5349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607603,
+    "ID": "3607603",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 11:08",
     "Latitude": "-20,79561000000000",
@@ -5550,10 +5373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3608252,
+    "ID": "3608252",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:28",
     "Latitude": "-21,00758000000000",
@@ -5569,10 +5397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3608251,
+    "ID": "3608251",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:26",
     "Latitude": "-21,00749000000000",
@@ -5588,10 +5421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607873,
+    "ID": "3607873",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:22",
     "Latitude": "-21,14312000000000",
@@ -5607,10 +5445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607872,
+    "ID": "3607872",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:21",
     "Latitude": "-21,14320000000000",
@@ -5626,10 +5469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607420,
+    "ID": "3607420",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:06",
     "Latitude": "-21,05200000000000",
@@ -5645,10 +5493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607419,
+    "ID": "3607419",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:01",
     "Latitude": "-21,05199000000000",
@@ -5664,10 +5517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607869,
+    "ID": "3607869",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 09:00",
     "Latitude": "-21,14349000000000",
@@ -5683,10 +5541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3607868,
+    "ID": "3607868",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/04/2026 08:59",
     "Latitude": "-21,14349000000000",
@@ -5702,10 +5565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3605446,
+    "ID": "3605446",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 16:40",
     "Latitude": "-21,01489000000000",
@@ -5721,10 +5589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3605445,
+    "ID": "3605445",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 16:35",
     "Latitude": "-21,01485000000000",
@@ -5740,10 +5613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3605443,
+    "ID": "3605443",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 16:34",
     "Latitude": "-21,01484000000000",
@@ -5759,10 +5637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3605444,
+    "ID": "3605444",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 16:34",
     "Latitude": "-21,01485000000000",
@@ -5778,10 +5661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,975",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604578,
+    "ID": "3604578",
     "Usuário": "qualidade2@usinapitangueiras.com.br",
     "Data": "22/04/2026 14:26",
     "Latitude": "-21,06860000000000",
@@ -5797,10 +5685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604209,
+    "ID": "3604209",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 11:36",
     "Latitude": "-21,14252000000000",
@@ -5816,10 +5709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,92",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604208,
+    "ID": "3604208",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 11:34",
     "Latitude": "-21,14252000000000",
@@ -5835,10 +5733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604207,
+    "ID": "3604207",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 11:33",
     "Latitude": "-21,14252000000000",
@@ -5854,10 +5757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604206,
+    "ID": "3604206",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 11:32",
     "Latitude": "-21,14252000000000",
@@ -5873,10 +5781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604052,
+    "ID": "3604052",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 10:35",
     "Latitude": "-20,79205000000000",
@@ -5892,10 +5805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604051,
+    "ID": "3604051",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 10:34",
     "Latitude": "-20,79204000000000",
@@ -5911,10 +5829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604050,
+    "ID": "3604050",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 10:32",
     "Latitude": "-20,79204000000000",
@@ -5930,10 +5853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604049,
+    "ID": "3604049",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 10:31",
     "Latitude": "-20,79204000000000",
@@ -5949,10 +5877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3603917,
+    "ID": "3603917",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 08:44",
     "Latitude": "-21,00850000000000",
@@ -5968,10 +5901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604981,
+    "ID": "3604981",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 08:43",
     "Latitude": "-21,04713000000000",
@@ -5987,10 +5925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3604982,
+    "ID": "3604982",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/04/2026 08:43",
     "Latitude": "-21,04713000000000",
@@ -6006,10 +5949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3603916,
+    "ID": "3603916",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "22/04/2026 08:43",
     "Latitude": "-21,00848000000000",
@@ -6025,10 +5973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602503,
+    "ID": "3602503",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "21/04/2026 13:06",
     "Latitude": "-21,06583000000000",
@@ -6044,10 +5997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602502,
+    "ID": "3602502",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "21/04/2026 13:05",
     "Latitude": "-21,06582000000000",
@@ -6063,10 +6021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602501,
+    "ID": "3602501",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "21/04/2026 13:03",
     "Latitude": "-21,06583000000000",
@@ -6082,10 +6045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602500,
+    "ID": "3602500",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "21/04/2026 12:59",
     "Latitude": "-21,06601000000000",
@@ -6101,10 +6069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602342,
+    "ID": "3602342",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 11:33",
     "Latitude": "-21,06927000000000",
@@ -6120,10 +6093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602340,
+    "ID": "3602340",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 11:32",
     "Latitude": "-21,06928000000000",
@@ -6139,10 +6117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601431,
+    "ID": "3601431",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 11:10",
     "Latitude": "-20,78890000000000",
@@ -6158,10 +6141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601430,
+    "ID": "3601430",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 11:07",
     "Latitude": "-20,78889000000000",
@@ -6177,10 +6165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601429,
+    "ID": "3601429",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 11:06",
     "Latitude": "-20,78889000000000",
@@ -6196,10 +6189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601428,
+    "ID": "3601428",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 11:05",
     "Latitude": "-20,78887000000000",
@@ -6215,10 +6213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602301,
+    "ID": "3602301",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:30",
     "Latitude": "-21,06762000000000",
@@ -6234,10 +6237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602300,
+    "ID": "3602300",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:29",
     "Latitude": "-21,06761000000000",
@@ -6253,10 +6261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601541,
+    "ID": "3601541",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:26",
     "Latitude": "-21,04438000000000",
@@ -6272,10 +6285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601540,
+    "ID": "3601540",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:24",
     "Latitude": "-21,04487000000000",
@@ -6291,10 +6309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601539,
+    "ID": "3601539",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:20",
     "Latitude": "-21,04612000000000",
@@ -6310,10 +6333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601538,
+    "ID": "3601538",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 09:18",
     "Latitude": "-21,04678000000000",
@@ -6329,10 +6357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601465,
+    "ID": "3601465",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 08:27",
     "Latitude": "-21,01349000000000",
@@ -6348,10 +6381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3601464,
+    "ID": "3601464",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/04/2026 08:26",
     "Latitude": "-21,01349000000000",
@@ -6367,10 +6405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602294,
+    "ID": "3602294",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 08:19",
     "Latitude": "-21,04154000000000",
@@ -6386,10 +6429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3602293,
+    "ID": "3602293",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/04/2026 08:18",
     "Latitude": "-21,04153000000000",
@@ -6405,10 +6453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3600537,
+    "ID": "3600537",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "20/04/2026 14:52",
     "Latitude": "-21,06440000000000",
@@ -6424,10 +6477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3600536,
+    "ID": "3600536",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "20/04/2026 14:50",
     "Latitude": "-21,06441000000000",
@@ -6443,10 +6501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,59",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3600531,
+    "ID": "3600531",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "20/04/2026 14:36",
     "Latitude": "-21,06453000000000",
@@ -6462,10 +6525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3600530,
+    "ID": "3600530",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "20/04/2026 14:34",
     "Latitude": "-21,06453000000000",
@@ -6481,10 +6549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599510,
+    "ID": "3599510",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 11:11",
     "Latitude": "-21,06921000000000",
@@ -6500,10 +6573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,91",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599509,
+    "ID": "3599509",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 11:10",
     "Latitude": "-21,06921000000000",
@@ -6519,10 +6597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,065",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599508,
+    "ID": "3599508",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 11:10",
     "Latitude": "-21,06921000000000",
@@ -6538,10 +6621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599507,
+    "ID": "3599507",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 11:09",
     "Latitude": "-21,06921000000000",
@@ -6557,10 +6645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3598758,
+    "ID": "3598758",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:49",
     "Latitude": "-20,78719000000000",
@@ -6576,10 +6669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3598757,
+    "ID": "3598757",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:49",
     "Latitude": "-20,78717000000000",
@@ -6595,10 +6693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599249,
+    "ID": "3599249",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:13",
     "Latitude": "-21,04613000000000",
@@ -6614,10 +6717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599031,
+    "ID": "3599031",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:12",
     "Latitude": "-21,04613000000000",
@@ -6633,10 +6741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599016,
+    "ID": "3599016",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:11",
     "Latitude": "-21,04614000000000",
@@ -6652,10 +6765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599015,
+    "ID": "3599015",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:10",
     "Latitude": "-21,04614000000000",
@@ -6671,10 +6789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3598754,
+    "ID": "3598754",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:08",
     "Latitude": "-20,79178000000000",
@@ -6690,10 +6813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3598753,
+    "ID": "3598753",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 10:07",
     "Latitude": "-20,79097000000000",
@@ -6709,10 +6837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3598203,
+    "ID": "3598203",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 09:15",
     "Latitude": "-21,01242000000000",
@@ -6728,10 +6861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3598202,
+    "ID": "3598202",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/04/2026 09:14",
     "Latitude": "-21,01242000000000",
@@ -6747,10 +6885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599781,
+    "ID": "3599781",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 08:56",
     "Latitude": "-21,04697000000000",
@@ -6766,10 +6909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3599779,
+    "ID": "3599779",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/04/2026 08:55",
     "Latitude": "-21,04699000000000",
@@ -6785,10 +6933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3596360,
+    "ID": "3596360",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 15:10",
     "Latitude": "-21,00878000000000",
@@ -6804,10 +6957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3596359,
+    "ID": "3596359",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 15:09",
     "Latitude": "-21,00860000000000",
@@ -6823,10 +6981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3596221,
+    "ID": "3596221",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:52",
     "Latitude": "-21,01199000000000",
@@ -6842,10 +7005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3596220,
+    "ID": "3596220",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "18/04/2026 10:51",
     "Latitude": "-21,01199000000000",
@@ -6861,10 +7029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595645,
+    "ID": "3595645",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 09:22",
     "Latitude": "-20,77940000000000",
@@ -6880,10 +7053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595644,
+    "ID": "3595644",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 09:20",
     "Latitude": "-20,78188000000000",
@@ -6899,10 +7077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595643,
+    "ID": "3595643",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 09:18",
     "Latitude": "-20,78991000000000",
@@ -6918,10 +7101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595642,
+    "ID": "3595642",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 09:13",
     "Latitude": "-20,79395000000000",
@@ -6937,10 +7125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595897,
+    "ID": "3595897",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:26",
     "Latitude": "-21,12080000000000",
@@ -6956,10 +7149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595896,
+    "ID": "3595896",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:25",
     "Latitude": "-21,12080000000000",
@@ -6975,10 +7173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,875",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595895,
+    "ID": "3595895",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:25",
     "Latitude": "-21,12080000000000",
@@ -6994,10 +7197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,81",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595894,
+    "ID": "3595894",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:24",
     "Latitude": "-21,12080000000000",
@@ -7013,10 +7221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,725",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595684,
+    "ID": "3595684",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:07",
     "Latitude": "-21,10011000000000",
@@ -7032,10 +7245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595683,
+    "ID": "3595683",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:06",
     "Latitude": "-21,10011000000000",
@@ -7051,10 +7269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595682,
+    "ID": "3595682",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:05",
     "Latitude": "-21,10028000000000",
@@ -7070,10 +7293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595681,
+    "ID": "3595681",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/04/2026 08:04",
     "Latitude": "-21,10029000000000",
@@ -7089,10 +7317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595214,
+    "ID": "3595214",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:13",
     "Latitude": "-20,77757000000000",
@@ -7108,10 +7341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595212,
+    "ID": "3595212",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:12",
     "Latitude": "-20,77756000000000",
@@ -7127,10 +7365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3593927,
+    "ID": "3593927",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:09",
     "Latitude": "-20,79005000000000",
@@ -7146,10 +7389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3593926,
+    "ID": "3593926",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:08",
     "Latitude": "-20,79004000000000",
@@ -7165,10 +7413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3593925,
+    "ID": "3593925",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:07",
     "Latitude": "-20,79005000000000",
@@ -7184,10 +7437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3593924,
+    "ID": "3593924",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "17/04/2026 14:06",
     "Latitude": "-20,79001000000000",
@@ -7203,10 +7461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595188,
+    "ID": "3595188",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 09:08",
     "Latitude": "-20,78986000000000",
@@ -7222,10 +7485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3595187,
+    "ID": "3595187",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "17/04/2026 09:07",
     "Latitude": "-20,78986000000000",
@@ -7241,10 +7509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3594032,
+    "ID": "3594032",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/04/2026 08:54",
     "Latitude": "-21,07232000000000",
@@ -7260,10 +7533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3594030,
+    "ID": "3594030",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/04/2026 08:50",
     "Latitude": "-21,07231000000000",
@@ -7279,10 +7557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3594029,
+    "ID": "3594029",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/04/2026 08:47",
     "Latitude": "-21,07233000000000",
@@ -7298,10 +7581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3594020,
+    "ID": "3594020",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "17/04/2026 08:24",
     "Latitude": "-21,07230000000000",
@@ -7317,10 +7605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3592771,
+    "ID": "3592771",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 07:48",
     "Latitude": "-21,10107000000000",
@@ -7336,10 +7629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3592770,
+    "ID": "3592770",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 07:44",
     "Latitude": "-21,10107000000000",
@@ -7355,10 +7653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3592769,
+    "ID": "3592769",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 07:43",
     "Latitude": "-21,10108000000000",
@@ -7374,10 +7677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,205",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3592768,
+    "ID": "3592768",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/04/2026 07:41",
     "Latitude": "-21,10107000000000",
@@ -7393,10 +7701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3591171,
+    "ID": "3591171",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 13:15",
     "Latitude": "-20,79747000000000",
@@ -7412,10 +7725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3591170,
+    "ID": "3591170",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 13:14",
     "Latitude": "-20,79744000000000",
@@ -7431,10 +7749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3591169,
+    "ID": "3591169",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 13:12",
     "Latitude": "-20,79743000000000",
@@ -7450,10 +7773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3591168,
+    "ID": "3591168",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 12:50",
     "Latitude": "-20,79776000000000",
@@ -7469,10 +7797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3590584,
+    "ID": "3590584",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 12:21",
     "Latitude": "-21,10639000000000",
@@ -7488,10 +7821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3590583,
+    "ID": "3590583",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 12:14",
     "Latitude": "-21,10656000000000",
@@ -7507,10 +7845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3590964,
+    "ID": "3590964",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:58",
     "Latitude": "-21,13448000000000",
@@ -7526,10 +7869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3590962,
+    "ID": "3590962",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:57",
     "Latitude": "-21,13457000000000",
@@ -7545,10 +7893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3590957,
+    "ID": "3590957",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:41",
     "Latitude": "-21,13444000000000",
@@ -7564,10 +7917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3590956,
+    "ID": "3590956",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 10:41",
     "Latitude": "-21,13444000000000",
@@ -7583,10 +7941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3589922,
+    "ID": "3589922",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 08:23",
     "Latitude": "-21,10614000000000",
@@ -7602,10 +7965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,2",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3589921,
+    "ID": "3589921",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/04/2026 08:23",
     "Latitude": "-21,10614000000000",
@@ -7621,10 +7989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,25",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588667,
+    "ID": "3588667",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 16:09",
     "Latitude": "-20,80146000000000",
@@ -7640,10 +8013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588660,
+    "ID": "3588660",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 16:09",
     "Latitude": "-20,80148000000000",
@@ -7659,10 +8037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588651,
+    "ID": "3588651",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 16:08",
     "Latitude": "-20,80146000000000",
@@ -7678,10 +8061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588630,
+    "ID": "3588630",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 16:07",
     "Latitude": "-20,80146000000000",
@@ -7697,10 +8085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587726,
+    "ID": "3587726",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:52",
     "Latitude": "-21,10100000000000",
@@ -7716,10 +8109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,135",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587725,
+    "ID": "3587725",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:51",
     "Latitude": "-21,10099000000000",
@@ -7735,10 +8133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,185",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587724,
+    "ID": "3587724",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:45",
     "Latitude": "-21,10108000000000",
@@ -7754,10 +8157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587687,
+    "ID": "3587687",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:45",
     "Latitude": "-21,10108000000000",
@@ -7773,10 +8181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587936,
+    "ID": "3587936",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:43",
     "Latitude": "-21,03754000000000",
@@ -7792,10 +8205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587937,
+    "ID": "3587937",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "15/04/2026 12:42",
     "Latitude": "-21,03753000000000",
@@ -7811,10 +8229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587932,
+    "ID": "3587932",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "15/04/2026 11:59",
     "Latitude": "-21,03755000000000",
@@ -7830,10 +8253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,19",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587931,
+    "ID": "3587931",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "15/04/2026 11:56",
     "Latitude": "-21,03754000000000",
@@ -7849,10 +8277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,905",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588287,
+    "ID": "3588287",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "15/04/2026 11:05",
     "Latitude": "-20,79372000000000",
@@ -7868,10 +8301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588290,
+    "ID": "3588290",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "15/04/2026 11:04",
     "Latitude": "-20,79372000000000",
@@ -7887,10 +8325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588289,
+    "ID": "3588289",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "15/04/2026 11:04",
     "Latitude": "-20,79373000000000",
@@ -7906,10 +8349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588288,
+    "ID": "3588288",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "15/04/2026 11:02",
     "Latitude": "-20,79372000000000",
@@ -7925,10 +8373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588489,
+    "ID": "3588489",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 10:54",
     "Latitude": "-20,79374000000000",
@@ -7944,10 +8397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588488,
+    "ID": "3588488",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 10:53",
     "Latitude": "-20,79373000000000",
@@ -7963,10 +8421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588487,
+    "ID": "3588487",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 10:52",
     "Latitude": "-20,79374000000000",
@@ -7982,10 +8445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3588486,
+    "ID": "3588486",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "15/04/2026 10:51",
     "Latitude": "-20,79374000000000",
@@ -8001,10 +8469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587051,
+    "ID": "3587051",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 10:00",
     "Latitude": "-20,79769000000000",
@@ -8020,10 +8493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3587050,
+    "ID": "3587050",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 09:58",
     "Latitude": "-20,79763000000000",
@@ -8039,10 +8517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586979,
+    "ID": "3586979",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 09:46",
     "Latitude": "-21,16333000000000",
@@ -8058,10 +8541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586980,
+    "ID": "3586980",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 09:46",
     "Latitude": "-21,16334000000000",
@@ -8077,10 +8565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586981,
+    "ID": "3586981",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 09:45",
     "Latitude": "-21,16334000000000",
@@ -8096,10 +8589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,15",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586982,
+    "ID": "3586982",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/04/2026 09:45",
     "Latitude": "-21,16334000000000",
@@ -8115,10 +8613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3584449,
+    "ID": "3584449",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 14:24",
     "Latitude": "-21,16453000000000",
@@ -8134,10 +8637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3584444,
+    "ID": "3584444",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 14:20",
     "Latitude": "-21,16329000000000",
@@ -8153,10 +8661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3584088,
+    "ID": "3584088",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:43",
     "Latitude": "-21,05907000000000",
@@ -8172,10 +8685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3584087,
+    "ID": "3584087",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "14/04/2026 11:41",
     "Latitude": "-21,05907000000000",
@@ -8191,10 +8709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586214,
+    "ID": "3586214",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:07",
     "Latitude": "-20,79799000000000",
@@ -8210,10 +8733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586213,
+    "ID": "3586213",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:06",
     "Latitude": "-20,79799000000000",
@@ -8229,10 +8757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586212,
+    "ID": "3586212",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:06",
     "Latitude": "-20,79799000000000",
@@ -8248,10 +8781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3586211,
+    "ID": "3586211",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 10:05",
     "Latitude": "-20,79799000000000",
@@ -8267,10 +8805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3584067,
+    "ID": "3584067",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "14/04/2026 09:41",
     "Latitude": "-21,05892000000000",
@@ -8286,10 +8829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3584066,
+    "ID": "3584066",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "14/04/2026 09:37",
     "Latitude": "-21,05904000000000",
@@ -8305,10 +8853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3585071,
+    "ID": "3585071",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 08:39",
     "Latitude": "-21,12753000000000",
@@ -8324,10 +8877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,875",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3585070,
+    "ID": "3585070",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 08:38",
     "Latitude": "-21,12753000000000",
@@ -8343,10 +8901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,85",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3585061,
+    "ID": "3585061",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 08:21",
     "Latitude": "-21,12710000000000",
@@ -8362,10 +8925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3585057,
+    "ID": "3585057",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/04/2026 08:20",
     "Latitude": "-21,12710000000000",
@@ -8381,10 +8949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3583590,
+    "ID": "3583590",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:48",
     "Latitude": "-21,18871000000000",
@@ -8400,10 +8973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3583589,
+    "ID": "3583589",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 11:47",
     "Latitude": "-21,18871000000000",
@@ -8419,10 +8997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3581039,
+    "ID": "3581039",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:51",
     "Latitude": "-21,05489000000000",
@@ -8438,10 +9021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,165",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3581038,
+    "ID": "3581038",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:49",
     "Latitude": "-21,05489000000000",
@@ -8457,10 +9045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,17",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580991,
+    "ID": "3580991",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:47",
     "Latitude": "-21,18957000000000",
@@ -8476,10 +9069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3581037,
+    "ID": "3581037",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:47",
     "Latitude": "-21,05489000000000",
@@ -8495,10 +9093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,18",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580990,
+    "ID": "3580990",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:46",
     "Latitude": "-21,18957000000000",
@@ -8514,10 +9117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,205",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3581036,
+    "ID": "3581036",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:46",
     "Latitude": "-21,05489000000000",
@@ -8533,10 +9141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,19",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580989,
+    "ID": "3580989",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:45",
     "Latitude": "-21,18957000000000",
@@ -8552,10 +9165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580988,
+    "ID": "3580988",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:44",
     "Latitude": "-21,18956000000000",
@@ -8571,10 +9189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580973,
+    "ID": "3580973",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:13",
     "Latitude": "-20,79905000000000",
@@ -8590,10 +9213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580972,
+    "ID": "3580972",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 09:12",
     "Latitude": "-20,79904000000000",
@@ -8609,10 +9237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580968,
+    "ID": "3580968",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 08:44",
     "Latitude": "-20,79490000000000",
@@ -8628,10 +9261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3580967,
+    "ID": "3580967",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/04/2026 08:43",
     "Latitude": "-20,79489000000000",
@@ -8647,10 +9285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579071,
+    "ID": "3579071",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:21",
     "Latitude": "-21,05742000000000",
@@ -8666,10 +9309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,11",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579070,
+    "ID": "3579070",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:20",
     "Latitude": "-21,05742000000000",
@@ -8685,10 +9333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579346,
+    "ID": "3579346",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:13",
     "Latitude": "-20,79922000000000",
@@ -8704,10 +9357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579345,
+    "ID": "3579345",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:13",
     "Latitude": "-20,79921000000000",
@@ -8723,10 +9381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578935,
+    "ID": "3578935",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:06",
     "Latitude": "-21,15713000000000",
@@ -8742,10 +9405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578934,
+    "ID": "3578934",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:06",
     "Latitude": "-21,16096000000000",
@@ -8761,10 +9429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578933,
+    "ID": "3578933",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:06",
     "Latitude": "-21,16353000000000",
@@ -8780,10 +9453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578932,
+    "ID": "3578932",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 13:06",
     "Latitude": "-21,16695000000000",
@@ -8799,10 +9477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579196,
+    "ID": "3579196",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 12:32",
     "Latitude": "-21,13009000000000",
@@ -8818,10 +9501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579337,
+    "ID": "3579337",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/11/2026 12:16",
     "Latitude": "-20,79921000000000",
@@ -8837,10 +9525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579335,
+    "ID": "3579335",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/11/2026 12:15",
     "Latitude": "-20,79923000000000",
@@ -8856,10 +9549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579195,
+    "ID": "3579195",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:41",
     "Latitude": "-21,12867000000000",
@@ -8875,10 +9573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578774,
+    "ID": "3578774",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:37",
     "Latitude": "-20,80071000000000",
@@ -8894,10 +9597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578773,
+    "ID": "3578773",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:35",
     "Latitude": "-20,80070000000000",
@@ -8913,10 +9621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578772,
+    "ID": "3578772",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:34",
     "Latitude": "-20,80069000000000",
@@ -8932,10 +9645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578771,
+    "ID": "3578771",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:33",
     "Latitude": "-20,80066000000000",
@@ -8951,10 +9669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579194,
+    "ID": "3579194",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:14",
     "Latitude": "-21,12876000000000",
@@ -8970,10 +9693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,85",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3579193,
+    "ID": "3579193",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 10:13",
     "Latitude": "-21,12876000000000",
@@ -8989,10 +9717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578962,
+    "ID": "3578962",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 08:34",
     "Latitude": "-21,13254000000000",
@@ -9008,10 +9741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578961,
+    "ID": "3578961",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 08:32",
     "Latitude": "-21,13254000000000",
@@ -9027,10 +9765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578958,
+    "ID": "3578958",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 08:20",
     "Latitude": "-21,13251000000000",
@@ -9046,10 +9789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3578957,
+    "ID": "3578957",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/11/2026 08:18",
     "Latitude": "-21,13248000000000",
@@ -9065,10 +9813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3577379,
+    "ID": "3577379",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:35",
     "Latitude": "-20,79873000000000",
@@ -9084,10 +9837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3577378,
+    "ID": "3577378",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:34",
     "Latitude": "-20,79871000000000",
@@ -9103,10 +9861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576726,
+    "ID": "3576726",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:27",
     "Latitude": "-21,21832000000000",
@@ -9122,10 +9885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576926,
+    "ID": "3576926",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:19",
     "Latitude": "-21,05264000000000",
@@ -9141,10 +9909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,175",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576925,
+    "ID": "3576925",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:19",
     "Latitude": "-21,05264000000000",
@@ -9160,10 +9933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,155",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576924,
+    "ID": "3576924",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:19",
     "Latitude": "-21,05264000000000",
@@ -9179,10 +9957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,105",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576725,
+    "ID": "3576725",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:16",
     "Latitude": "-21,21620000000000",
@@ -9198,10 +9981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576923,
+    "ID": "3576923",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:15",
     "Latitude": "-21,05263000000000",
@@ -9217,10 +10005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576293,
+    "ID": "3576293",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:07",
     "Latitude": "-21,14208000000000",
@@ -9236,10 +10029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576294,
+    "ID": "3576294",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 10:07",
     "Latitude": "-21,14208000000000",
@@ -9255,10 +10053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3577373,
+    "ID": "3577373",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:53",
     "Latitude": "-20,79921000000000",
@@ -9274,10 +10077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3577371,
+    "ID": "3577371",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:52",
     "Latitude": "-20,79921000000000",
@@ -9293,10 +10101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576269,
+    "ID": "3576269",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:50",
     "Latitude": "-20,80288000000000",
@@ -9312,10 +10125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576268,
+    "ID": "3576268",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:48",
     "Latitude": "-20,80287000000000",
@@ -9331,10 +10149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576267,
+    "ID": "3576267",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:42",
     "Latitude": "-20,80271000000000",
@@ -9350,10 +10173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576266,
+    "ID": "3576266",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:41",
     "Latitude": "-20,80269000000000",
@@ -9369,10 +10197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576655,
+    "ID": "3576655",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:09",
     "Latitude": "-21,13011000000000",
@@ -9388,10 +10221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,755",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576654,
+    "ID": "3576654",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:09",
     "Latitude": "-21,13011000000000",
@@ -9407,10 +10245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,79",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576653,
+    "ID": "3576653",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:08",
     "Latitude": "-21,13006000000000",
@@ -9426,10 +10269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576651,
+    "ID": "3576651",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 09:08",
     "Latitude": "-21,12990000000000",
@@ -9445,10 +10293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,81",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576207,
+    "ID": "3576207",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 08:19",
     "Latitude": "-21,14269000000000",
@@ -9464,10 +10317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3576204,
+    "ID": "3576204",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/10/2026 08:19",
     "Latitude": "-21,14269000000000",
@@ -9483,10 +10341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574511,
+    "ID": "3574511",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 12:55",
     "Latitude": "-21,21826000000000",
@@ -9502,10 +10365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574512,
+    "ID": "3574512",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 12:55",
     "Latitude": "-21,21827000000000",
@@ -9521,10 +10389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574513,
+    "ID": "3574513",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 12:55",
     "Latitude": "-21,21827000000000",
@@ -9540,10 +10413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574510,
+    "ID": "3574510",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 12:39",
     "Latitude": "-21,21813000000000",
@@ -9559,10 +10437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574443,
+    "ID": "3574443",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 11:03",
     "Latitude": "-21,14376000000000",
@@ -9578,10 +10461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574090,
+    "ID": "3574090",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/09/2026 08:46",
     "Latitude": "-20,79920000000000",
@@ -9597,10 +10485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574089,
+    "ID": "3574089",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/09/2026 08:45",
     "Latitude": "-20,79920000000000",
@@ -9616,10 +10509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574088,
+    "ID": "3574088",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/09/2026 08:45",
     "Latitude": "-20,79918000000000",
@@ -9635,10 +10533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574085,
+    "ID": "3574085",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/09/2026 08:44",
     "Latitude": "-20,79916000000000",
@@ -9654,10 +10557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3574380,
+    "ID": "3574380",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/09/2026 07:50",
     "Latitude": "-21,15132000000000",
@@ -9673,10 +10581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572429,
+    "ID": "3572429",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 12:32",
     "Latitude": "-21,21466000000000",
@@ -9692,10 +10605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572428,
+    "ID": "3572428",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 12:31",
     "Latitude": "-21,21465000000000",
@@ -9711,10 +10629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572424,
+    "ID": "3572424",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 11:04",
     "Latitude": "-21,22619000000000",
@@ -9730,10 +10653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572423,
+    "ID": "3572423",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 11:02",
     "Latitude": "-21,22619000000000",
@@ -9749,10 +10677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572422,
+    "ID": "3572422",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:59",
     "Latitude": "-21,22622000000000",
@@ -9768,10 +10701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572421,
+    "ID": "3572421",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:58",
     "Latitude": "-21,22619000000000",
@@ -9787,10 +10725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572209,
+    "ID": "3572209",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:06",
     "Latitude": "-21,14932000000000",
@@ -9806,10 +10749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572208,
+    "ID": "3572208",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:03",
     "Latitude": "-21,14929000000000",
@@ -9825,10 +10773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572207,
+    "ID": "3572207",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:02",
     "Latitude": "-21,14924000000000",
@@ -9844,10 +10797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572206,
+    "ID": "3572206",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 10:00",
     "Latitude": "-21,14922000000000",
@@ -9863,10 +10821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572385,
+    "ID": "3572385",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 09:01",
     "Latitude": "-21,14570000000000",
@@ -9882,10 +10845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572386,
+    "ID": "3572386",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 09:01",
     "Latitude": "-21,14570000000000",
@@ -9901,10 +10869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572384,
+    "ID": "3572384",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 08:09",
     "Latitude": "-21,14556000000000",
@@ -9920,10 +10893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572383,
+    "ID": "3572383",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/08/2026 08:07",
     "Latitude": "-21,14556000000000",
@@ -9939,10 +10917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3570998,
+    "ID": "3570998",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 15:26",
     "Latitude": "-21,13007000000000",
@@ -9958,10 +10941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3570999,
+    "ID": "3570999",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 15:26",
     "Latitude": "-21,13007000000000",
@@ -9977,10 +10965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3571051,
+    "ID": "3571051",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 14:23",
     "Latitude": "-21,14772000000000",
@@ -9996,10 +10989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3571050,
+    "ID": "3571050",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 14:22",
     "Latitude": "-21,14617000000000",
@@ -10015,10 +11013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3571049,
+    "ID": "3571049",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 14:20",
     "Latitude": "-21,14613000000000",
@@ -10034,10 +11037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3571048,
+    "ID": "3571048",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 14:18",
     "Latitude": "-21,14613000000000",
@@ -10053,10 +11061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3570146,
+    "ID": "3570146",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/07/2026 13:17",
     "Latitude": "-21,14050000000000",
@@ -10072,10 +11085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3570145,
+    "ID": "3570145",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/07/2026 13:16",
     "Latitude": "-21,14050000000000",
@@ -10091,10 +11109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572413,
+    "ID": "3572413",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 13:08",
     "Latitude": "-21,22629000000000",
@@ -10110,10 +11133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3572412,
+    "ID": "3572412",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 13:07",
     "Latitude": "-21,22628000000000",
@@ -10129,10 +11157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569967,
+    "ID": "3569967",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:44",
     "Latitude": "-21,05341000000000",
@@ -10148,10 +11181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,095",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569966,
+    "ID": "3569966",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:42",
     "Latitude": "-21,05342000000000",
@@ -10167,10 +11205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569965,
+    "ID": "3569965",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:40",
     "Latitude": "-21,05342000000000",
@@ -10186,10 +11229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,095",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569964,
+    "ID": "3569964",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:38",
     "Latitude": "-21,05342000000000",
@@ -10205,10 +11253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,175",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569879,
+    "ID": "3569879",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:10",
     "Latitude": "-21,14900000000000",
@@ -10224,10 +11277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569878,
+    "ID": "3569878",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:09",
     "Latitude": "-21,14900000000000",
@@ -10243,10 +11301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569877,
+    "ID": "3569877",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:08",
     "Latitude": "-21,14901000000000",
@@ -10262,10 +11325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569876,
+    "ID": "3569876",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 11:07",
     "Latitude": "-21,14903000000000",
@@ -10281,10 +11349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3570137,
+    "ID": "3570137",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/07/2026 10:41",
     "Latitude": "-21,14023000000000",
@@ -10300,10 +11373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3570136,
+    "ID": "3570136",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/07/2026 10:41",
     "Latitude": "-21,14023000000000",
@@ -10319,10 +11397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569900,
+    "ID": "3569900",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:15",
     "Latitude": "-21,10477000000000",
@@ -10338,10 +11421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569899,
+    "ID": "3569899",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:15",
     "Latitude": "-21,10477000000000",
@@ -10357,10 +11445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569898,
+    "ID": "3569898",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:14",
     "Latitude": "-21,10477000000000",
@@ -10376,10 +11469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3569897,
+    "ID": "3569897",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/07/2026 08:14",
     "Latitude": "-21,10478000000000",
@@ -10395,10 +11493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567576,
+    "ID": "3567576",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/06/2026 12:25",
     "Latitude": "-21,05078000000000",
@@ -10414,10 +11517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567575,
+    "ID": "3567575",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/06/2026 12:24",
     "Latitude": "-21,05078000000000",
@@ -10433,10 +11541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567574,
+    "ID": "3567574",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/06/2026 12:23",
     "Latitude": "-21,05077000000000",
@@ -10452,10 +11565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,115",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567573,
+    "ID": "3567573",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/06/2026 12:22",
     "Latitude": "-21,05077000000000",
@@ -10471,10 +11589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567151,
+    "ID": "3567151",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:24",
     "Latitude": "-21,15410000000000",
@@ -10490,10 +11613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567150,
+    "ID": "3567150",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:20",
     "Latitude": "-21,15379000000000",
@@ -10509,10 +11637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567149,
+    "ID": "3567149",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:19",
     "Latitude": "-21,15343000000000",
@@ -10528,10 +11661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567148,
+    "ID": "3567148",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 10:17",
     "Latitude": "-21,15275000000000",
@@ -10547,10 +11685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567546,
+    "ID": "3567546",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 08:33",
     "Latitude": "-21,10779000000000",
@@ -10566,10 +11709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567545,
+    "ID": "3567545",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 08:32",
     "Latitude": "-21,10779000000000",
@@ -10585,10 +11733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567544,
+    "ID": "3567544",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 08:32",
     "Latitude": "-21,10779000000000",
@@ -10604,10 +11757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567543,
+    "ID": "3567543",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/06/2026 08:32",
     "Latitude": "-21,10779000000000",
@@ -10623,10 +11781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3565620,
+    "ID": "3565620",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 13:22",
     "Latitude": "-21,09508000000000",
@@ -10642,10 +11805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,985",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3565642,
+    "ID": "3565642",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 13:06",
     "Latitude": "-21,09574000000000",
@@ -10661,10 +11829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567025,
+    "ID": "3567025",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:16",
     "Latitude": "-21,09507000000000",
@@ -10680,10 +11853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567024,
+    "ID": "3567024",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:15",
     "Latitude": "-21,09506000000000",
@@ -10699,10 +11877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567023,
+    "ID": "3567023",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:13",
     "Latitude": "-21,09506000000000",
@@ -10718,10 +11901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567022,
+    "ID": "3567022",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 12:12",
     "Latitude": "-21,09506000000000",
@@ -10737,10 +11925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3565538,
+    "ID": "3565538",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/04/2026 10:52",
     "Latitude": "-20,80033000000000",
@@ -10756,10 +11949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3565537,
+    "ID": "3565537",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "04/04/2026 10:51",
     "Latitude": "-20,80033000000000",
@@ -10775,10 +11973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567039,
+    "ID": "3567039",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/04/2026 09:20",
     "Latitude": "-21,11004000000000",
@@ -10794,10 +11997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567036,
+    "ID": "3567036",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/04/2026 09:20",
     "Latitude": "-21,11005000000000",
@@ -10813,10 +12021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567035,
+    "ID": "3567035",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/04/2026 09:18",
     "Latitude": "-21,11005000000000",
@@ -10832,10 +12045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3567034,
+    "ID": "3567034",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "04/04/2026 09:17",
     "Latitude": "-21,11005000000000",
@@ -10851,10 +12069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3565572,
+    "ID": "3565572",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 08:45",
     "Latitude": "-21,13704000000000",
@@ -10870,10 +12093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,285",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3565571,
+    "ID": "3565571",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/04/2026 08:44",
     "Latitude": "-21,13704000000000",
@@ -10889,10 +12117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3562934,
+    "ID": "3562934",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/02/2026 12:53",
     "Latitude": "-21,13706000000000",
@@ -10908,10 +12141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3562933,
+    "ID": "3562933",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/02/2026 12:52",
     "Latitude": "-21,13706000000000",
@@ -10927,10 +12165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,285",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3562931,
+    "ID": "3562931",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/02/2026 12:51",
     "Latitude": "-21,13705000000000",
@@ -10946,10 +12189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3562932,
+    "ID": "3562932",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/02/2026 12:51",
     "Latitude": "-21,13703000000000",
@@ -10965,10 +12213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3560798,
+    "ID": "3560798",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/01/2026 12:10",
     "Latitude": "-21,11612000000000",
@@ -10984,10 +12237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3560780,
+    "ID": "3560780",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/01/2026 12:08",
     "Latitude": "-21,11612000000000",
@@ -11003,10 +12261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3560537,
+    "ID": "3560537",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/01/2026 10:50",
     "Latitude": "-21,14952000000000",
@@ -11022,10 +12285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3560538,
+    "ID": "3560538",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/01/2026 10:50",
     "Latitude": "-21,14952000000000",
@@ -11041,10 +12309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3560536,
+    "ID": "3560536",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/01/2026 10:50",
     "Latitude": "-21,14952000000000",
@@ -11060,10 +12333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3560535,
+    "ID": "3560535",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "04/01/2026 10:50",
     "Latitude": "-21,14952000000000",
@@ -11079,10 +12357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,055",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558618,
+    "ID": "3558618",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 15:19",
     "Latitude": "-21,04565000000000",
@@ -11098,10 +12381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558617,
+    "ID": "3558617",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 15:17",
     "Latitude": "-21,05244000000000",
@@ -11117,10 +12405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558616,
+    "ID": "3558616",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 15:17",
     "Latitude": "-21,05944000000000",
@@ -11136,10 +12429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558615,
+    "ID": "3558615",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 15:16",
     "Latitude": "-21,06859000000000",
@@ -11155,10 +12453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558540,
+    "ID": "3558540",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 14:55",
     "Latitude": "-21,04725000000000",
@@ -11174,10 +12477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,99",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558539,
+    "ID": "3558539",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 14:53",
     "Latitude": "-21,04724000000000",
@@ -11193,10 +12501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558538,
+    "ID": "3558538",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 14:51",
     "Latitude": "-21,04716000000000",
@@ -11212,10 +12525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,815",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558537,
+    "ID": "3558537",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 14:50",
     "Latitude": "-21,04718000000000",
@@ -11231,10 +12549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,84",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558572,
+    "ID": "3558572",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/03/2026 13:04",
     "Latitude": "-21,05165000000000",
@@ -11250,10 +12573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558571,
+    "ID": "3558571",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/03/2026 13:03",
     "Latitude": "-21,05166000000000",
@@ -11269,10 +12597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558154,
+    "ID": "3558154",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:15",
     "Latitude": "-21,02189000000000",
@@ -11288,10 +12621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558153,
+    "ID": "3558153",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:13",
     "Latitude": "-21,02189000000000",
@@ -11307,10 +12645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,905",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558570,
+    "ID": "3558570",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:04",
     "Latitude": "-21,05283000000000",
@@ -11326,10 +12669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558569,
+    "ID": "3558569",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "31/03/2026 11:04",
     "Latitude": "-21,05284000000000",
@@ -11345,10 +12693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558185,
+    "ID": "3558185",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 08:32",
     "Latitude": "-21,11378000000000",
@@ -11364,10 +12717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3558184,
+    "ID": "3558184",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "31/03/2026 08:30",
     "Latitude": "-21,11378000000000",
@@ -11383,10 +12741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556088,
+    "ID": "3556088",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 13:20",
     "Latitude": "-21,11382000000000",
@@ -11402,10 +12765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556087,
+    "ID": "3556087",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 13:19",
     "Latitude": "-21,11382000000000",
@@ -11421,10 +12789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556274,
+    "ID": "3556274",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:39",
     "Latitude": "-21,05284000000000",
@@ -11440,10 +12813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556273,
+    "ID": "3556273",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:38",
     "Latitude": "-21,05284000000000",
@@ -11459,10 +12837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3555649,
+    "ID": "3555649",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:15",
     "Latitude": "-20,98778000000000",
@@ -11478,10 +12861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3555648,
+    "ID": "3555648",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:14",
     "Latitude": "-20,98777000000000",
@@ -11497,10 +12885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3555647,
+    "ID": "3555647",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:13",
     "Latitude": "-20,98778000000000",
@@ -11516,10 +12909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3555646,
+    "ID": "3555646",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:12",
     "Latitude": "-20,98779000000000",
@@ -11535,10 +12933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556364,
+    "ID": "3556364",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:06",
     "Latitude": "-21,05290000000000",
@@ -11554,10 +12957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556365,
+    "ID": "3556365",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:06",
     "Latitude": "-21,05292000000000",
@@ -11573,10 +12981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556268,
+    "ID": "3556268",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:04",
     "Latitude": "-21,05288000000000",
@@ -11592,10 +13005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556362,
+    "ID": "3556362",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:03",
     "Latitude": "-21,05292000000000",
@@ -11611,10 +13029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556266,
+    "ID": "3556266",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:03",
     "Latitude": "-21,05288000000000",
@@ -11630,10 +13053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556363,
+    "ID": "3556363",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:03",
     "Latitude": "-21,05293000000000",
@@ -11649,10 +13077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556265,
+    "ID": "3556265",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:03",
     "Latitude": "-21,05287000000000",
@@ -11668,10 +13101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556264,
+    "ID": "3556264",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "30/03/2026 11:02",
     "Latitude": "-21,05287000000000",
@@ -11687,10 +13125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556067,
+    "ID": "3556067",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 10:22",
     "Latitude": "-21,11389000000000",
@@ -11706,10 +13149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3556068,
+    "ID": "3556068",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 10:21",
     "Latitude": "-21,11406000000000",
@@ -11725,10 +13173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3555923,
+    "ID": "3555923",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 08:13",
     "Latitude": "-21,13345000000000",
@@ -11744,10 +13197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,515",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3555922,
+    "ID": "3555922",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "30/03/2026 08:12",
     "Latitude": "-21,13345000000000",
@@ -11763,10 +13221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553684,
+    "ID": "3553684",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/03/2026 12:58",
     "Latitude": "-21,05493000000000",
@@ -11782,10 +13245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553683,
+    "ID": "3553683",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/03/2026 12:58",
     "Latitude": "-21,05492000000000",
@@ -11801,10 +13269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553273,
+    "ID": "3553273",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:38",
     "Latitude": "-21,02943000000000",
@@ -11820,10 +13293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,905",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553272,
+    "ID": "3553272",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:36",
     "Latitude": "-21,02944000000000",
@@ -11839,10 +13317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,865",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553270,
+    "ID": "3553270",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:35",
     "Latitude": "-21,02946000000000",
@@ -11858,10 +13341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,97",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553271,
+    "ID": "3553271",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:32",
     "Latitude": "-21,02948000000000",
@@ -11877,10 +13365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,885",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553682,
+    "ID": "3553682",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:17",
     "Latitude": "-21,05311000000000",
@@ -11896,10 +13389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553681,
+    "ID": "3553681",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/03/2026 11:17",
     "Latitude": "-21,05311000000000",
@@ -11915,10 +13413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553049,
+    "ID": "3553049",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 10:16",
     "Latitude": "-21,13302000000000",
@@ -11934,10 +13437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553048,
+    "ID": "3553048",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 10:14",
     "Latitude": "-21,13299000000000",
@@ -11953,10 +13461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553544,
+    "ID": "3553544",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 10:09",
     "Latitude": "-21,11576000000000",
@@ -11972,10 +13485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553047,
+    "ID": "3553047",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 10:08",
     "Latitude": "-21,13284000000000",
@@ -11991,10 +13509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553543,
+    "ID": "3553543",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 10:07",
     "Latitude": "-21,11576000000000",
@@ -12010,10 +13533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553046,
+    "ID": "3553046",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 10:01",
     "Latitude": "-21,13275000000000",
@@ -12029,10 +13557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553756,
+    "ID": "3553756",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 09:56",
     "Latitude": "-21,15441000000000",
@@ -12048,10 +13581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553755,
+    "ID": "3553755",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 09:55",
     "Latitude": "-21,15440000000000",
@@ -12067,10 +13605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553542,
+    "ID": "3553542",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 09:21",
     "Latitude": "-21,11597000000000",
@@ -12086,10 +13629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3553541,
+    "ID": "3553541",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/03/2026 09:19",
     "Latitude": "-21,11597000000000",
@@ -12105,10 +13653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551343,
+    "ID": "3551343",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/03/2026 14:09",
     "Latitude": "-21,10349000000000",
@@ -12124,10 +13677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551340,
+    "ID": "3551340",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "27/03/2026 14:07",
     "Latitude": "-21,10348000000000",
@@ -12143,10 +13701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551384,
+    "ID": "3551384",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 13:32",
     "Latitude": "-21,15688000000000",
@@ -12162,10 +13725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551386,
+    "ID": "3551386",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 13:31",
     "Latitude": "-21,15688000000000",
@@ -12181,10 +13749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551158,
+    "ID": "3551158",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 11:00",
     "Latitude": "-21,11627000000000",
@@ -12200,10 +13773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551157,
+    "ID": "3551157",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:58",
     "Latitude": "-21,11645000000000",
@@ -12219,10 +13797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3550942,
+    "ID": "3550942",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:57",
     "Latitude": "-21,13274000000000",
@@ -12238,10 +13821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3550941,
+    "ID": "3550941",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:56",
     "Latitude": "-21,13272000000000",
@@ -12257,10 +13845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551154,
+    "ID": "3551154",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:41",
     "Latitude": "-21,11877000000000",
@@ -12276,10 +13869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551153,
+    "ID": "3551153",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:40",
     "Latitude": "-21,11877000000000",
@@ -12295,10 +13893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551213,
+    "ID": "3551213",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:20",
     "Latitude": "-20,99091000000000",
@@ -12314,10 +13917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3551212,
+    "ID": "3551212",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "27/03/2026 10:19",
     "Latitude": "-20,99089000000000",
@@ -12333,10 +13941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,99",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3550837,
+    "ID": "3550837",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 09:03",
     "Latitude": "-21,02415000000000",
@@ -12352,10 +13965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3550836,
+    "ID": "3550836",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 09:03",
     "Latitude": "-21,02415000000000",
@@ -12371,10 +13989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3550835,
+    "ID": "3550835",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 09:03",
     "Latitude": "-21,02415000000000",
@@ -12390,10 +14013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3550834,
+    "ID": "3550834",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/03/2026 09:03",
     "Latitude": "-21,02415000000000",
@@ -12409,10 +14037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549642,
+    "ID": "3549642",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 15:25",
     "Latitude": "-21,12004000000000",
@@ -12428,10 +14061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549641,
+    "ID": "3549641",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 15:24",
     "Latitude": "-21,12004000000000",
@@ -12447,10 +14085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549601,
+    "ID": "3549601",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 13:41",
     "Latitude": "-21,06149000000000",
@@ -12466,10 +14109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549600,
+    "ID": "3549600",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 13:38",
     "Latitude": "-21,06533000000000",
@@ -12485,10 +14133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549308,
+    "ID": "3549308",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:49",
     "Latitude": "-21,15685000000000",
@@ -12504,10 +14157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549309,
+    "ID": "3549309",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:49",
     "Latitude": "-21,15684000000000",
@@ -12523,10 +14181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549244,
+    "ID": "3549244",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:05",
     "Latitude": "-21,13200000000000",
@@ -12542,10 +14205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549243,
+    "ID": "3549243",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:05",
     "Latitude": "-21,13200000000000",
@@ -12561,10 +14229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,105",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549242,
+    "ID": "3549242",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:05",
     "Latitude": "-21,13200000000000",
@@ -12580,10 +14253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,175",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549241,
+    "ID": "3549241",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 12:04",
     "Latitude": "-21,13199000000000",
@@ -12599,10 +14277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549194,
+    "ID": "3549194",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 11:14",
     "Latitude": "-20,98588000000000",
@@ -12618,10 +14301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,98",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549193,
+    "ID": "3549193",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/03/2026 11:13",
     "Latitude": "-20,98588000000000",
@@ -12637,10 +14325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549537,
+    "ID": "3549537",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 09:38",
     "Latitude": "-21,10554000000000",
@@ -12656,10 +14349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,25",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549536,
+    "ID": "3549536",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 09:37",
     "Latitude": "-21,10554000000000",
@@ -12675,10 +14373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549535,
+    "ID": "3549535",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 09:25",
     "Latitude": "-21,10402000000000",
@@ -12694,10 +14397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3549534,
+    "ID": "3549534",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "26/03/2026 09:24",
     "Latitude": "-21,10402000000000",
@@ -12713,10 +14421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,275",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3548154,
+    "ID": "3548154",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/03/2026 16:43",
     "Latitude": "-21,10550000000000",
@@ -12732,10 +14445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3548153,
+    "ID": "3548153",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "25/03/2026 16:41",
     "Latitude": "-21,10549000000000",
@@ -12751,10 +14469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,26",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547566,
+    "ID": "3547566",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 11:09",
     "Latitude": "-21,13966000000000",
@@ -12770,10 +14493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547565,
+    "ID": "3547565",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 11:09",
     "Latitude": "-21,13959000000000",
@@ -12789,10 +14517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547169,
+    "ID": "3547169",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 11:01",
     "Latitude": "-21,08435000000000",
@@ -12808,10 +14541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,685",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547168,
+    "ID": "3547168",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 11:00",
     "Latitude": "-21,08435000000000",
@@ -12827,10 +14565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547167,
+    "ID": "3547167",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 10:58",
     "Latitude": "-21,08436000000000",
@@ -12846,10 +14589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,66",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547166,
+    "ID": "3547166",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 10:56",
     "Latitude": "-21,08435000000000",
@@ -12865,10 +14613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547615,
+    "ID": "3547615",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "25/03/2026 10:29",
     "Latitude": "-21,06131000000000",
@@ -12884,10 +14637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547614,
+    "ID": "3547614",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "25/03/2026 10:29",
     "Latitude": "-21,06131000000000",
@@ -12903,10 +14661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547079,
+    "ID": "3547079",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:38",
     "Latitude": "-21,04740000000000",
@@ -12922,10 +14685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547078,
+    "ID": "3547078",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:38",
     "Latitude": "-21,04773000000000",
@@ -12941,10 +14709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547077,
+    "ID": "3547077",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:38",
     "Latitude": "-21,04887000000000",
@@ -12960,10 +14733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547074,
+    "ID": "3547074",
     "Usuário": "fabiobarboza@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:37",
     "Latitude": "-21,05575000000000",
@@ -12979,10 +14757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3546987,
+    "ID": "3546987",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:34",
     "Latitude": "-21,06161000000000",
@@ -12998,10 +14781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3546986,
+    "ID": "3546986",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 09:33",
     "Latitude": "-21,06161000000000",
@@ -13017,10 +14805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547282,
+    "ID": "3547282",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 07:59",
     "Latitude": "-21,12079000000000",
@@ -13036,10 +14829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3547281,
+    "ID": "3547281",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "25/03/2026 07:58",
     "Latitude": "-21,12079000000000",
@@ -13055,10 +14853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544803,
+    "ID": "3544803",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 14:03",
     "Latitude": "-21,13965000000000",
@@ -13074,10 +14877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544802,
+    "ID": "3544802",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 14:02",
     "Latitude": "-21,13965000000000",
@@ -13093,10 +14901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3545028,
+    "ID": "3545028",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 12:08",
     "Latitude": "-21,08696000000000",
@@ -13112,10 +14925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3545027,
+    "ID": "3545027",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 12:07",
     "Latitude": "-21,08696000000000",
@@ -13131,10 +14949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3545025,
+    "ID": "3545025",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 12:07",
     "Latitude": "-21,08694000000000",
@@ -13150,10 +14973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3545026,
+    "ID": "3545026",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 12:07",
     "Latitude": "-21,08695000000000",
@@ -13169,10 +14997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544438,
+    "ID": "3544438",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 10:33",
     "Latitude": "-21,05987000000000",
@@ -13188,10 +15021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544437,
+    "ID": "3544437",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 10:32",
     "Latitude": "-21,05987000000000",
@@ -13207,10 +15045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544309,
+    "ID": "3544309",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:50",
     "Latitude": "-21,08814000000000",
@@ -13226,10 +15069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544308,
+    "ID": "3544308",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:50",
     "Latitude": "-21,08813000000000",
@@ -13245,10 +15093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544232,
+    "ID": "3544232",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:48",
     "Latitude": "-21,08799000000000",
@@ -13264,10 +15117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544231,
+    "ID": "3544231",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:46",
     "Latitude": "-21,08773000000000",
@@ -13283,10 +15141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544224,
+    "ID": "3544224",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:05",
     "Latitude": "-21,08809000000000",
@@ -13302,10 +15165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544302,
+    "ID": "3544302",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:05",
     "Latitude": "-21,08807000000000",
@@ -13321,10 +15189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544301,
+    "ID": "3544301",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:04",
     "Latitude": "-21,08809000000000",
@@ -13340,10 +15213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544223,
+    "ID": "3544223",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 09:03",
     "Latitude": "-21,08811000000000",
@@ -13359,10 +15237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544123,
+    "ID": "3544123",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:12",
     "Latitude": "-21,12103000000000",
@@ -13378,10 +15261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544122,
+    "ID": "3544122",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:11",
     "Latitude": "-21,12103000000000",
@@ -13397,10 +15285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544121,
+    "ID": "3544121",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:10",
     "Latitude": "-21,12103000000000",
@@ -13416,10 +15309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3544120,
+    "ID": "3544120",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/03/2026 08:09",
     "Latitude": "-21,12103000000000",
@@ -13435,10 +15333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,125",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3542380,
+    "ID": "3542380",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:29",
     "Latitude": "-20,91535000000000",
@@ -13454,10 +15357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3542379,
+    "ID": "3542379",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 13:27",
     "Latitude": "-20,92488000000000",
@@ -13473,10 +15381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3542238,
+    "ID": "3542238",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 12:06",
     "Latitude": "-21,00453000000000",
@@ -13492,10 +15405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3542236,
+    "ID": "3542236",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 12:05",
     "Latitude": "-21,00453000000000",
@@ -13511,10 +15429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3541960,
+    "ID": "3541960",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 11:39",
     "Latitude": "-21,08348000000000",
@@ -13530,10 +15453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3541959,
+    "ID": "3541959",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 11:39",
     "Latitude": "-21,08355000000000",
@@ -13549,10 +15477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,69",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3541958,
+    "ID": "3541958",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 11:38",
     "Latitude": "-21,08369000000000",
@@ -13568,10 +15501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,725",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3541957,
+    "ID": "3541957",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 11:37",
     "Latitude": "-21,08375000000000",
@@ -13587,10 +15525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,81",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3541884,
+    "ID": "3541884",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:19",
     "Latitude": "-21,05865000000000",
@@ -13606,10 +15549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3541883,
+    "ID": "3541883",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/03/2026 08:17",
     "Latitude": "-21,05866000000000",
@@ -13625,10 +15573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540038,
+    "ID": "3540038",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 12:49",
     "Latitude": "-20,97343000000000",
@@ -13644,10 +15597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540037,
+    "ID": "3540037",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 12:41",
     "Latitude": "-20,97340000000000",
@@ -13663,10 +15621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540036,
+    "ID": "3540036",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 12:41",
     "Latitude": "-20,97340000000000",
@@ -13682,10 +15645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540011,
+    "ID": "3540011",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 11:21",
     "Latitude": "-20,94509000000000",
@@ -13701,10 +15669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540010,
+    "ID": "3540010",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 11:21",
     "Latitude": "-20,94509000000000",
@@ -13720,10 +15693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540009,
+    "ID": "3540009",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 11:21",
     "Latitude": "-20,94509000000000",
@@ -13739,10 +15717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3539981,
+    "ID": "3539981",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 10:13",
     "Latitude": "-20,95311000000000",
@@ -13758,10 +15741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3539980,
+    "ID": "3539980",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 10:12",
     "Latitude": "-20,95311000000000",
@@ -13777,10 +15765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540085,
+    "ID": "3540085",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:47",
     "Latitude": "-21,10783000000000",
@@ -13796,10 +15789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540088,
+    "ID": "3540088",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:44",
     "Latitude": "-21,10783000000000",
@@ -13815,10 +15813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540087,
+    "ID": "3540087",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:43",
     "Latitude": "-21,10783000000000",
@@ -13834,10 +15837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,055",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540086,
+    "ID": "3540086",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:42",
     "Latitude": "-21,10783000000000",
@@ -13853,10 +15861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540192,
+    "ID": "3540192",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:08",
     "Latitude": "-21,05835000000000",
@@ -13872,10 +15885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3540191,
+    "ID": "3540191",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 09:07",
     "Latitude": "-21,05835000000000",
@@ -13891,10 +15909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3539356,
+    "ID": "3539356",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 08:37",
     "Latitude": "-21,13743000000000",
@@ -13910,10 +15933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3539355,
+    "ID": "3539355",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/03/2026 08:36",
     "Latitude": "-21,13743000000000",
@@ -13929,10 +15957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3538841,
+    "ID": "3538841",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 13:42",
     "Latitude": "-20,89412000000000",
@@ -13948,10 +15981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3538840,
+    "ID": "3538840",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 13:41",
     "Latitude": "-20,89451000000000",
@@ -13967,10 +16005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537504,
+    "ID": "3537504",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 12:52",
     "Latitude": "-21,12410000000000",
@@ -13986,10 +16029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537503,
+    "ID": "3537503",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 12:48",
     "Latitude": "-21,12410000000000",
@@ -14005,10 +16053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537502,
+    "ID": "3537502",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 12:47",
     "Latitude": "-21,12410000000000",
@@ -14024,10 +16077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537501,
+    "ID": "3537501",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 12:44",
     "Latitude": "-21,12410000000000",
@@ -14043,10 +16101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537407,
+    "ID": "3537407",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 11:52",
     "Latitude": "-21,06677000000000",
@@ -14062,10 +16125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537406,
+    "ID": "3537406",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 11:52",
     "Latitude": "-21,06677000000000",
@@ -14081,10 +16149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537405,
+    "ID": "3537405",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 11:52",
     "Latitude": "-21,06677000000000",
@@ -14100,10 +16173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537403,
+    "ID": "3537403",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 11:52",
     "Latitude": "-21,06677000000000",
@@ -14119,10 +16197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537764,
+    "ID": "3537764",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 11:11",
     "Latitude": "-20,96060000000000",
@@ -14138,10 +16221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537763,
+    "ID": "3537763",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 11:10",
     "Latitude": "-20,96060000000000",
@@ -14157,10 +16245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537754,
+    "ID": "3537754",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:34",
     "Latitude": "-20,95061000000000",
@@ -14176,10 +16269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537753,
+    "ID": "3537753",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:34",
     "Latitude": "-20,95061000000000",
@@ -14195,10 +16293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537398,
+    "ID": "3537398",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:12",
     "Latitude": "-21,06353000000000",
@@ -14214,10 +16317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537397,
+    "ID": "3537397",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 10:12",
     "Latitude": "-21,06352000000000",
@@ -14233,10 +16341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537750,
+    "ID": "3537750",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:52",
     "Latitude": "-20,94589000000000",
@@ -14252,10 +16365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537749,
+    "ID": "3537749",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:50",
     "Latitude": "-20,94589000000000",
@@ -14271,10 +16389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537252,
+    "ID": "3537252",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:26",
     "Latitude": "-21,11161000000000",
@@ -14290,10 +16413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537251,
+    "ID": "3537251",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:24",
     "Latitude": "-21,11161000000000",
@@ -14309,10 +16437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,12",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537172,
+    "ID": "3537172",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:14",
     "Latitude": "-21,05846000000000",
@@ -14328,10 +16461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3537173,
+    "ID": "3537173",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/03/2026 09:13",
     "Latitude": "-21,05845000000000",
@@ -14347,10 +16485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535779,
+    "ID": "3535779",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 13:27",
     "Latitude": "-21,05405000000000",
@@ -14366,10 +16509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535780,
+    "ID": "3535780",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 13:27",
     "Latitude": "-21,05405000000000",
@@ -14385,10 +16533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535757,
+    "ID": "3535757",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 12:40",
     "Latitude": "-20,95673000000000",
@@ -14404,10 +16557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535756,
+    "ID": "3535756",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 12:39",
     "Latitude": "-20,95673000000000",
@@ -14423,10 +16581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535755,
+    "ID": "3535755",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 12:29",
     "Latitude": "-20,95673000000000",
@@ -14442,10 +16605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535754,
+    "ID": "3535754",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 12:28",
     "Latitude": "-20,95673000000000",
@@ -14461,10 +16629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535334,
+    "ID": "3535334",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 10:01",
     "Latitude": "-21,11213000000000",
@@ -14480,10 +16653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535332,
+    "ID": "3535332",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:59",
     "Latitude": "-21,11215000000000",
@@ -14499,10 +16677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535768,
+    "ID": "3535768",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:58",
     "Latitude": "-21,11214000000000",
@@ -14518,10 +16701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535769,
+    "ID": "3535769",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:58",
     "Latitude": "-21,11214000000000",
@@ -14537,10 +16725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535744,
+    "ID": "3535744",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:58",
     "Latitude": "-20,94861000000000",
@@ -14556,10 +16749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535743,
+    "ID": "3535743",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:57",
     "Latitude": "-20,94861000000000",
@@ -14575,10 +16773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535767,
+    "ID": "3535767",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:56",
     "Latitude": "-21,11214000000000",
@@ -14594,10 +16797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535333,
+    "ID": "3535333",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:55",
     "Latitude": "-21,11215000000000",
@@ -14613,10 +16821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535766,
+    "ID": "3535766",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:55",
     "Latitude": "-21,11217000000000",
@@ -14632,10 +16845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535331,
+    "ID": "3535331",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 09:51",
     "Latitude": "-21,11216000000000",
@@ -14651,10 +16869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535736,
+    "ID": "3535736",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 08:42",
     "Latitude": "-20,94854000000000",
@@ -14670,10 +16893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3535735,
+    "ID": "3535735",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/03/2026 08:41",
     "Latitude": "-20,94861000000000",
@@ -14689,10 +16917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3534104,
+    "ID": "3534104",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 13:27",
     "Latitude": "-21,06207000000000",
@@ -14708,10 +16941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3534102,
+    "ID": "3534102",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 13:26",
     "Latitude": "-21,06210000000000",
@@ -14727,10 +16965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3533603,
+    "ID": "3533603",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:40",
     "Latitude": "-21,05212000000000",
@@ -14746,10 +16989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,04",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3533606,
+    "ID": "3533606",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:39",
     "Latitude": "-21,05212000000000",
@@ -14765,10 +17013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3533607,
+    "ID": "3533607",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:39",
     "Latitude": "-21,05210000000000",
@@ -14784,10 +17037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3533605,
+    "ID": "3533605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:35",
     "Latitude": "-21,05211000000000",
@@ -14803,10 +17061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,115",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3533602,
+    "ID": "3533602",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:27",
     "Latitude": "-21,03322000000000",
@@ -14822,10 +17085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3533601,
+    "ID": "3533601",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/03/2026 08:26",
     "Latitude": "-21,03321000000000",
@@ -14841,10 +17109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531893,
+    "ID": "3531893",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 13:18",
     "Latitude": "-21,03256000000000",
@@ -14860,10 +17133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531892,
+    "ID": "3531892",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 13:17",
     "Latitude": "-21,03257000000000",
@@ -14879,10 +17157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531944,
+    "ID": "3531944",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 11:30",
     "Latitude": "-21,07198000000000",
@@ -14898,10 +17181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531943,
+    "ID": "3531943",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 11:29",
     "Latitude": "-21,07198000000000",
@@ -14917,10 +17205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531942,
+    "ID": "3531942",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 11:28",
     "Latitude": "-21,07198000000000",
@@ -14936,10 +17229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531941,
+    "ID": "3531941",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 11:28",
     "Latitude": "-21,07198000000000",
@@ -14955,10 +17253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531860,
+    "ID": "3531860",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:33",
     "Latitude": "-20,94781000000000",
@@ -14974,10 +17277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531859,
+    "ID": "3531859",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:33",
     "Latitude": "-20,94781000000000",
@@ -14993,10 +17301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531858,
+    "ID": "3531858",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:32",
     "Latitude": "-20,94781000000000",
@@ -15012,10 +17325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531857,
+    "ID": "3531857",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:32",
     "Latitude": "-20,94781000000000",
@@ -15031,10 +17349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531319,
+    "ID": "3531319",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:12",
     "Latitude": "-20,95815000000000",
@@ -15050,10 +17373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531320,
+    "ID": "3531320",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:12",
     "Latitude": "-20,95815000000000",
@@ -15069,10 +17397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531321,
+    "ID": "3531321",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:11",
     "Latitude": "-20,95815000000000",
@@ -15088,10 +17421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531322,
+    "ID": "3531322",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 10:11",
     "Latitude": "-20,95815000000000",
@@ -15107,10 +17445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531225,
+    "ID": "3531225",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:52",
     "Latitude": "-21,05250000000000",
@@ -15126,10 +17469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531226,
+    "ID": "3531226",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:51",
     "Latitude": "-21,05251000000000",
@@ -15145,10 +17493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,145",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531227,
+    "ID": "3531227",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:50",
     "Latitude": "-21,05248000000000",
@@ -15164,10 +17517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,17",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531228,
+    "ID": "3531228",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:50",
     "Latitude": "-21,05250000000000",
@@ -15183,10 +17541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531395,
+    "ID": "3531395",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:46",
     "Latitude": "-21,05220000000000",
@@ -15202,10 +17565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3531392,
+    "ID": "3531392",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/03/2026 08:45",
     "Latitude": "-21,05219000000000",
@@ -15221,10 +17589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530160,
+    "ID": "3530160",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/03/2026 14:50",
     "Latitude": "-20,94421000000000",
@@ -15240,10 +17613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530159,
+    "ID": "3530159",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/03/2026 14:49",
     "Latitude": "-20,94422000000000",
@@ -15259,10 +17637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530156,
+    "ID": "3530156",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/03/2026 14:32",
     "Latitude": "-20,94497000000000",
@@ -15278,10 +17661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530155,
+    "ID": "3530155",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "16/03/2026 14:30",
     "Latitude": "-20,94498000000000",
@@ -15297,10 +17685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3529697,
+    "ID": "3529697",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 13:26",
     "Latitude": "-20,94800000000000",
@@ -15316,10 +17709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,695",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3529698,
+    "ID": "3529698",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 13:26",
     "Latitude": "-20,94799000000000",
@@ -15335,10 +17733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3529699,
+    "ID": "3529699",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 13:26",
     "Latitude": "-20,94800000000000",
@@ -15354,10 +17757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,655",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3529700,
+    "ID": "3529700",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 13:25",
     "Latitude": "-20,94800000000000",
@@ -15373,10 +17781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530057,
+    "ID": "3530057",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:22",
     "Latitude": "-21,12447000000000",
@@ -15392,10 +17805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530056,
+    "ID": "3530056",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:22",
     "Latitude": "-21,12447000000000",
@@ -15411,10 +17829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530055,
+    "ID": "3530055",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:22",
     "Latitude": "-21,12447000000000",
@@ -15430,10 +17853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530054,
+    "ID": "3530054",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:22",
     "Latitude": "-21,12447000000000",
@@ -15449,10 +17877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530053,
+    "ID": "3530053",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:21",
     "Latitude": "-21,12447000000000",
@@ -15468,10 +17901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530052,
+    "ID": "3530052",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:21",
     "Latitude": "-21,12447000000000",
@@ -15487,10 +17925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530051,
+    "ID": "3530051",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:21",
     "Latitude": "-21,12447000000000",
@@ -15506,10 +17949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3530050,
+    "ID": "3530050",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/03/2026 11:21",
     "Latitude": "-21,12448000000000",
@@ -15525,10 +17973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3522551,
+    "ID": "3522551",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 12:01",
     "Latitude": "-20,94748000000000",
@@ -15544,10 +17997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3522550,
+    "ID": "3522550",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 12:00",
     "Latitude": "-20,94748000000000",
@@ -15563,10 +18021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520539,
+    "ID": "3520539",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 10:22",
     "Latitude": "-20,94643000000000",
@@ -15582,10 +18045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520540,
+    "ID": "3520540",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 10:21",
     "Latitude": "-20,94643000000000",
@@ -15601,10 +18069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520670,
+    "ID": "3520670",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/07/2026 10:20",
     "Latitude": "-20,94642000000000",
@@ -15620,10 +18093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520669,
+    "ID": "3520669",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/07/2026 10:20",
     "Latitude": "-20,94642000000000",
@@ -15639,10 +18117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520536,
+    "ID": "3520536",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:57",
     "Latitude": "-20,94651000000000",
@@ -15658,10 +18141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520535,
+    "ID": "3520535",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:55",
     "Latitude": "-20,94650000000000",
@@ -15677,10 +18165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520666,
+    "ID": "3520666",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:46",
     "Latitude": "-20,94649000000000",
@@ -15696,10 +18189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520665,
+    "ID": "3520665",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:45",
     "Latitude": "-20,94649000000000",
@@ -15715,10 +18213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520184,
+    "ID": "3520184",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:11",
     "Latitude": "-20,98899000000000",
@@ -15734,10 +18237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,96",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520183,
+    "ID": "3520183",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:10",
     "Latitude": "-20,98899000000000",
@@ -15753,10 +18261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520182,
+    "ID": "3520182",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:09",
     "Latitude": "-20,98899000000000",
@@ -15772,10 +18285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,815",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3520181,
+    "ID": "3520181",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/07/2026 09:08",
     "Latitude": "-20,98898000000000",
@@ -15791,10 +18309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,88",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3519079,
+    "ID": "3519079",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 14:54",
     "Latitude": "-20,88269000000000",
@@ -15810,10 +18333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3519078,
+    "ID": "3519078",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 14:53",
     "Latitude": "-20,88270000000000",
@@ -15829,10 +18357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518625,
+    "ID": "3518625",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:23",
     "Latitude": "-20,87830000000000",
@@ -15848,10 +18381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518624,
+    "ID": "3518624",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 13:22",
     "Latitude": "-20,87830000000000",
@@ -15867,10 +18405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518987,
+    "ID": "3518987",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 12:27",
     "Latitude": "-20,88811000000000",
@@ -15886,10 +18429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518986,
+    "ID": "3518986",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/06/2026 12:27",
     "Latitude": "-20,88811000000000",
@@ -15905,10 +18453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518324,
+    "ID": "3518324",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 10:34",
     "Latitude": "-21,12608000000000",
@@ -15924,10 +18477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518325,
+    "ID": "3518325",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 10:34",
     "Latitude": "-21,12609000000000",
@@ -15943,10 +18501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518307,
+    "ID": "3518307",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:50",
     "Latitude": "-20,97525000000000",
@@ -15962,10 +18525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518306,
+    "ID": "3518306",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:47",
     "Latitude": "-20,97526000000000",
@@ -15981,10 +18549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518294,
+    "ID": "3518294",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:17",
     "Latitude": "-20,97532000000000",
@@ -16000,10 +18573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518293,
+    "ID": "3518293",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 09:14",
     "Latitude": "-20,97542000000000",
@@ -16019,10 +18597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,235",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518118,
+    "ID": "3518118",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 08:10",
     "Latitude": "-21,07924000000000",
@@ -16038,10 +18621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,985",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3518093,
+    "ID": "3518093",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/06/2026 08:08",
     "Latitude": "-21,07924000000000",
@@ -16057,10 +18645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516615,
+    "ID": "3516615",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 14:08",
     "Latitude": "-20,88088000000000",
@@ -16076,10 +18669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516614,
+    "ID": "3516614",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 14:07",
     "Latitude": "-20,88088000000000",
@@ -16095,10 +18693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516226,
+    "ID": "3516226",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:58",
     "Latitude": "-21,07641000000000",
@@ -16114,10 +18717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516225,
+    "ID": "3516225",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:56",
     "Latitude": "-21,07651000000000",
@@ -16133,10 +18741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516365,
+    "ID": "3516365",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:41",
     "Latitude": "-20,87669000000000",
@@ -16152,10 +18765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516364,
+    "ID": "3516364",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:40",
     "Latitude": "-20,87669000000000",
@@ -16171,10 +18789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516363,
+    "ID": "3516363",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:40",
     "Latitude": "-20,87669000000000",
@@ -16190,10 +18813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516360,
+    "ID": "3516360",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 12:39",
     "Latitude": "-20,87669000000000",
@@ -16209,10 +18837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516221,
+    "ID": "3516221",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 11:13",
     "Latitude": "-21,07651000000000",
@@ -16228,10 +18861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,145",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516212,
+    "ID": "3516212",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/05/2026 11:12",
     "Latitude": "-21,07650000000000",
@@ -16247,10 +18885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3515825,
+    "ID": "3515825",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/05/2026 09:46",
     "Latitude": "-20,97754000000000",
@@ -16266,10 +18909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,275",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3515824,
+    "ID": "3515824",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/05/2026 09:44",
     "Latitude": "-20,97752000000000",
@@ -16285,10 +18933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3515823,
+    "ID": "3515823",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/05/2026 09:41",
     "Latitude": "-20,97753000000000",
@@ -16304,10 +18957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3515822,
+    "ID": "3515822",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "03/05/2026 09:39",
     "Latitude": "-20,97752000000000",
@@ -16323,10 +18981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516554,
+    "ID": "3516554",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 06:47",
     "Latitude": "-20,89444000000000",
@@ -16342,10 +19005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3516552,
+    "ID": "3516552",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/05/2026 06:47",
     "Latitude": "-20,89444000000000",
@@ -16361,10 +19029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513877,
+    "ID": "3513877",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 13:02",
     "Latitude": "-20,87625000000000",
@@ -16380,10 +19053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513876,
+    "ID": "3513876",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 13:01",
     "Latitude": "-20,87625000000000",
@@ -16399,10 +19077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513915,
+    "ID": "3513915",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 12:35",
     "Latitude": "-20,97755000000000",
@@ -16418,10 +19101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513916,
+    "ID": "3513916",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 12:34",
     "Latitude": "-20,97763000000000",
@@ -16437,10 +19125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,27",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513873,
+    "ID": "3513873",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 10:52",
     "Latitude": "-21,08642000000000",
@@ -16456,10 +19149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513872,
+    "ID": "3513872",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 10:51",
     "Latitude": "-21,08642000000000",
@@ -16475,10 +19173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513535,
+    "ID": "3513535",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 09:44",
     "Latitude": "-20,87836000000000",
@@ -16494,10 +19197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513534,
+    "ID": "3513534",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 09:43",
     "Latitude": "-20,87836000000000",
@@ -16513,10 +19221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513457,
+    "ID": "3513457",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 09:03",
     "Latitude": "-21,05413000000000",
@@ -16532,10 +19245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513456,
+    "ID": "3513456",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 09:02",
     "Latitude": "-21,05413000000000",
@@ -16551,10 +19269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3514177,
+    "ID": "3514177",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/04/2026 08:40",
     "Latitude": "-20,88077000000000",
@@ -16570,10 +19293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3514173,
+    "ID": "3514173",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/04/2026 08:39",
     "Latitude": "-20,88077000000000",
@@ -16589,10 +19317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513462,
+    "ID": "3513462",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 07:54",
     "Latitude": "-21,05338000000000",
@@ -16608,10 +19341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3513453,
+    "ID": "3513453",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/04/2026 07:54",
     "Latitude": "-21,05338000000000",
@@ -16627,10 +19365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511635,
+    "ID": "3511635",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:48",
     "Latitude": "-20,87848000000000",
@@ -16646,10 +19389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511634,
+    "ID": "3511634",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:48",
     "Latitude": "-20,87848000000000",
@@ -16665,10 +19413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511632,
+    "ID": "3511632",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:48",
     "Latitude": "-20,87848000000000",
@@ -16684,10 +19437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511631,
+    "ID": "3511631",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 13:47",
     "Latitude": "-20,87848000000000",
@@ -16703,10 +19461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511755,
+    "ID": "3511755",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 12:25",
     "Latitude": "-21,05221000000000",
@@ -16722,10 +19485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511756,
+    "ID": "3511756",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 12:25",
     "Latitude": "-21,05221000000000",
@@ -16741,10 +19509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511678,
+    "ID": "3511678",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:21",
     "Latitude": "-20,86864000000000",
@@ -16760,10 +19533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511677,
+    "ID": "3511677",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 11:18",
     "Latitude": "-20,86864000000000",
@@ -16779,10 +19557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3512309,
+    "ID": "3512309",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:51",
     "Latitude": "-20,88213000000000",
@@ -16798,10 +19581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3512308,
+    "ID": "3512308",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:50",
     "Latitude": "-20,88213000000000",
@@ -16817,10 +19605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3512307,
+    "ID": "3512307",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:50",
     "Latitude": "-20,88213000000000",
@@ -16836,10 +19629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3512306,
+    "ID": "3512306",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:49",
     "Latitude": "-20,88213000000000",
@@ -16855,10 +19653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511452,
+    "ID": "3511452",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:09",
     "Latitude": "-20,87326000000000",
@@ -16874,10 +19677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511450,
+    "ID": "3511450",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:06",
     "Latitude": "-20,87318000000000",
@@ -16893,10 +19701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511451,
+    "ID": "3511451",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 10:06",
     "Latitude": "-20,87335000000000",
@@ -16912,10 +19725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511449,
+    "ID": "3511449",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 09:17",
     "Latitude": "-20,86883000000000",
@@ -16931,10 +19749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511792,
+    "ID": "3511792",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 08:34",
     "Latitude": "-20,87481000000000",
@@ -16950,10 +19773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511791,
+    "ID": "3511791",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 08:33",
     "Latitude": "-20,87475000000000",
@@ -16969,10 +19797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511786,
+    "ID": "3511786",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 08:33",
     "Latitude": "-20,87473000000000",
@@ -16988,10 +19821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3511789,
+    "ID": "3511789",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/03/2026 08:32",
     "Latitude": "-20,87475000000000",
@@ -17007,10 +19845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3509335,
+    "ID": "3509335",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:53",
     "Latitude": "-21,08283000000000",
@@ -17026,10 +19869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3509334,
+    "ID": "3509334",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:52",
     "Latitude": "-21,08283000000000",
@@ -17045,10 +19893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3509333,
+    "ID": "3509333",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:50",
     "Latitude": "-21,08283000000000",
@@ -17064,10 +19917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3509332,
+    "ID": "3509332",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:48",
     "Latitude": "-21,08282000000000",
@@ -17083,10 +19941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3509617,
+    "ID": "3509617",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:19",
     "Latitude": "-20,92364000000000",
@@ -17102,10 +19965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3509616,
+    "ID": "3509616",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "03/02/2026 10:17",
     "Latitude": "-20,92364000000000",
@@ -17121,10 +19989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507658,
+    "ID": "3507658",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:03",
     "Latitude": "-20,87615000000000",
@@ -17140,10 +20013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507657,
+    "ID": "3507657",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:03",
     "Latitude": "-20,87615000000000",
@@ -17159,10 +20037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507656,
+    "ID": "3507656",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:03",
     "Latitude": "-20,87615000000000",
@@ -17178,10 +20061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507655,
+    "ID": "3507655",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:02",
     "Latitude": "-20,87614000000000",
@@ -17197,10 +20085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507654,
+    "ID": "3507654",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:02",
     "Latitude": "-20,87614000000000",
@@ -17216,10 +20109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507653,
+    "ID": "3507653",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:01",
     "Latitude": "-20,87614000000000",
@@ -17235,10 +20133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507652,
+    "ID": "3507652",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:01",
     "Latitude": "-20,87614000000000",
@@ -17254,10 +20157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507651,
+    "ID": "3507651",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "28/02/2026 14:00",
     "Latitude": "-20,87614000000000",
@@ -17273,10 +20181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507629,
+    "ID": "3507629",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/02/2026 13:27",
     "Latitude": "-20,92352000000000",
@@ -17292,10 +20205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507628,
+    "ID": "3507628",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/02/2026 13:26",
     "Latitude": "-20,92351000000000",
@@ -17311,10 +20229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507749,
+    "ID": "3507749",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/02/2026 10:39",
     "Latitude": "-20,88722000000000",
@@ -17330,10 +20253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507702,
+    "ID": "3507702",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/02/2026 10:38",
     "Latitude": "-20,88722000000000",
@@ -17349,10 +20277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507607,
+    "ID": "3507607",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/02/2026 10:37",
     "Latitude": "-20,88722000000000",
@@ -17368,10 +20301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3507592,
+    "ID": "3507592",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/02/2026 10:36",
     "Latitude": "-20,88722000000000",
@@ -17387,10 +20325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498673,
+    "ID": "3498673",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:37",
     "Latitude": "-20,88159000000000",
@@ -17406,10 +20349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498672,
+    "ID": "3498672",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:36",
     "Latitude": "-20,88159000000000",
@@ -17425,10 +20373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498669,
+    "ID": "3498669",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:26",
     "Latitude": "-20,88146000000000",
@@ -17444,10 +20397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498668,
+    "ID": "3498668",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:26",
     "Latitude": "-20,88146000000000",
@@ -17463,10 +20421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498575,
+    "ID": "3498575",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:16",
     "Latitude": "-20,92714000000000",
@@ -17482,10 +20445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498574,
+    "ID": "3498574",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:15",
     "Latitude": "-20,92714000000000",
@@ -17501,10 +20469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498573,
+    "ID": "3498573",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:14",
     "Latitude": "-20,92714000000000",
@@ -17520,10 +20493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3498572,
+    "ID": "3498572",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "23/02/2026 13:13",
     "Latitude": "-20,92714000000000",
@@ -17539,10 +20517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496815,
+    "ID": "3496815",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:35",
     "Latitude": "-20,89683000000000",
@@ -17558,10 +20541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496814,
+    "ID": "3496814",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:35",
     "Latitude": "-20,89683000000000",
@@ -17577,10 +20565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496813,
+    "ID": "3496813",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:34",
     "Latitude": "-20,89683000000000",
@@ -17596,10 +20589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496812,
+    "ID": "3496812",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:34",
     "Latitude": "-20,89683000000000",
@@ -17615,10 +20613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496811,
+    "ID": "3496811",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:33",
     "Latitude": "-20,89683000000000",
@@ -17634,10 +20637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496810,
+    "ID": "3496810",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:33",
     "Latitude": "-20,89683000000000",
@@ -17653,10 +20661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496809,
+    "ID": "3496809",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:32",
     "Latitude": "-20,89683000000000",
@@ -17672,10 +20685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496808,
+    "ID": "3496808",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/02/2026 11:32",
     "Latitude": "-20,89683000000000",
@@ -17691,10 +20709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496295,
+    "ID": "3496295",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 10:18",
     "Latitude": "-20,89383000000000",
@@ -17710,10 +20733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496294,
+    "ID": "3496294",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 10:17",
     "Latitude": "-20,89383000000000",
@@ -17729,10 +20757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496668,
+    "ID": "3496668",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 08:17",
     "Latitude": "-21,11822000000000",
@@ -17748,10 +20781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3496667,
+    "ID": "3496667",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/02/2026 08:15",
     "Latitude": "-21,11821000000000",
@@ -17767,10 +20805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494500,
+    "ID": "3494500",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 12:51",
     "Latitude": "-20,88812000000000",
@@ -17786,10 +20829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494498,
+    "ID": "3494498",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 12:50",
     "Latitude": "-20,88814000000000",
@@ -17805,10 +20853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494497,
+    "ID": "3494497",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 12:48",
     "Latitude": "-20,88816000000000",
@@ -17824,10 +20877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494496,
+    "ID": "3494496",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 12:46",
     "Latitude": "-20,88816000000000",
@@ -17843,10 +20901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494686,
+    "ID": "3494686",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 12:33",
     "Latitude": "-21,12080000000000",
@@ -17862,10 +20925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494685,
+    "ID": "3494685",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 12:31",
     "Latitude": "-21,12080000000000",
@@ -17881,10 +20949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,2",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495185,
+    "ID": "3495185",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:25",
     "Latitude": "-20,88871000000000",
@@ -17900,10 +20973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495184,
+    "ID": "3495184",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:24",
     "Latitude": "-20,88871000000000",
@@ -17919,10 +20997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495183,
+    "ID": "3495183",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:24",
     "Latitude": "-20,88871000000000",
@@ -17938,10 +21021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495182,
+    "ID": "3495182",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:23",
     "Latitude": "-20,88871000000000",
@@ -17957,10 +21045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495181,
+    "ID": "3495181",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:22",
     "Latitude": "-20,88871000000000",
@@ -17976,10 +21069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495180,
+    "ID": "3495180",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:22",
     "Latitude": "-20,88871000000000",
@@ -17995,10 +21093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495179,
+    "ID": "3495179",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:21",
     "Latitude": "-20,88872000000000",
@@ -18014,10 +21117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495178,
+    "ID": "3495178",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:21",
     "Latitude": "-20,88872000000000",
@@ -18033,10 +21141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495177,
+    "ID": "3495177",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:20",
     "Latitude": "-20,88872000000000",
@@ -18052,10 +21165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495176,
+    "ID": "3495176",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:19",
     "Latitude": "-20,88872000000000",
@@ -18071,10 +21189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495175,
+    "ID": "3495175",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:18",
     "Latitude": "-20,88872000000000",
@@ -18090,10 +21213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3495174,
+    "ID": "3495174",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:17",
     "Latitude": "-20,88872000000000",
@@ -18109,10 +21237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494628,
+    "ID": "3494628",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:04",
     "Latitude": "-21,11721000000000",
@@ -18128,10 +21261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494625,
+    "ID": "3494625",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:04",
     "Latitude": "-21,11721000000000",
@@ -18147,10 +21285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494626,
+    "ID": "3494626",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:04",
     "Latitude": "-21,11721000000000",
@@ -18166,10 +21309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494627,
+    "ID": "3494627",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 10:04",
     "Latitude": "-21,11721000000000",
@@ -18185,10 +21333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494342,
+    "ID": "3494342",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 09:29",
     "Latitude": "-21,10832000000000",
@@ -18204,10 +21357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,86",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3494341,
+    "ID": "3494341",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "20/02/2026 09:27",
     "Latitude": "-21,10883000000000",
@@ -18223,10 +21381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3493100,
+    "ID": "3493100",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "19/02/2026 16:14",
     "Latitude": "-21,02361000000000",
@@ -18242,10 +21405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3493099,
+    "ID": "3493099",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "19/02/2026 16:13",
     "Latitude": "-21,02362000000000",
@@ -18261,10 +21429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492282,
+    "ID": "3492282",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 12:59",
     "Latitude": "-21,10886000000000",
@@ -18280,10 +21453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,73",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492281,
+    "ID": "3492281",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 12:52",
     "Latitude": "-21,10887000000000",
@@ -18299,10 +21477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,96",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492438,
+    "ID": "3492438",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:22",
     "Latitude": "-21,11357000000000",
@@ -18318,10 +21501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492437,
+    "ID": "3492437",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:21",
     "Latitude": "-21,11334000000000",
@@ -18337,10 +21525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492499,
+    "ID": "3492499",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:16",
     "Latitude": "-21,01582000000000",
@@ -18356,10 +21549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492498,
+    "ID": "3492498",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:14",
     "Latitude": "-21,01582000000000",
@@ -18375,10 +21573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492436,
+    "ID": "3492436",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:07",
     "Latitude": "-21,11523000000000",
@@ -18394,10 +21597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492435,
+    "ID": "3492435",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 09:06",
     "Latitude": "-21,11563000000000",
@@ -18413,10 +21621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492430,
+    "ID": "3492430",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 08:47",
     "Latitude": "-21,11872000000000",
@@ -18432,10 +21645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492429,
+    "ID": "3492429",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 08:46",
     "Latitude": "-21,11915000000000",
@@ -18451,10 +21669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492428,
+    "ID": "3492428",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 08:18",
     "Latitude": "-21,11919000000000",
@@ -18470,10 +21693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492427,
+    "ID": "3492427",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/02/2026 08:17",
     "Latitude": "-21,11918000000000",
@@ -18489,10 +21717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491297,
+    "ID": "3491297",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 15:21",
     "Latitude": "-20,89301000000000",
@@ -18508,10 +21741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491296,
+    "ID": "3491296",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 15:20",
     "Latitude": "-20,89301000000000",
@@ -18527,10 +21765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491295,
+    "ID": "3491295",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 15:19",
     "Latitude": "-20,89301000000000",
@@ -18546,10 +21789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491294,
+    "ID": "3491294",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 15:19",
     "Latitude": "-20,89301000000000",
@@ -18565,10 +21813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491259,
+    "ID": "3491259",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:56",
     "Latitude": "-20,89061000000000",
@@ -18584,10 +21837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491258,
+    "ID": "3491258",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:55",
     "Latitude": "-20,89061000000000",
@@ -18603,10 +21861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491257,
+    "ID": "3491257",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:55",
     "Latitude": "-20,89061000000000",
@@ -18622,10 +21885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491256,
+    "ID": "3491256",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:54",
     "Latitude": "-20,89059000000000",
@@ -18641,10 +21909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491255,
+    "ID": "3491255",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:52",
     "Latitude": "-20,89154000000000",
@@ -18660,10 +21933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491254,
+    "ID": "3491254",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:51",
     "Latitude": "-20,89154000000000",
@@ -18679,10 +21957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491253,
+    "ID": "3491253",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:51",
     "Latitude": "-20,89154000000000",
@@ -18698,10 +21981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491252,
+    "ID": "3491252",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:50",
     "Latitude": "-20,89154000000000",
@@ -18717,10 +22005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491247,
+    "ID": "3491247",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:45",
     "Latitude": "-20,89155000000000",
@@ -18736,10 +22029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491246,
+    "ID": "3491246",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:45",
     "Latitude": "-20,89154000000000",
@@ -18755,10 +22053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491245,
+    "ID": "3491245",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:44",
     "Latitude": "-20,89154000000000",
@@ -18774,10 +22077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3491244,
+    "ID": "3491244",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 12:43",
     "Latitude": "-20,89154000000000",
@@ -18793,10 +22101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490180,
+    "ID": "3490180",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 11:44",
     "Latitude": "-21,01667000000000",
@@ -18812,10 +22125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490179,
+    "ID": "3490179",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 11:42",
     "Latitude": "-21,01667000000000",
@@ -18831,10 +22149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492561,
+    "ID": "3492561",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:22",
     "Latitude": "-21,01061000000000",
@@ -18850,10 +22173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492560,
+    "ID": "3492560",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:21",
     "Latitude": "-21,01060000000000",
@@ -18869,10 +22197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3470079,
+    "ID": "3470079",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:19",
     "Latitude": "-21,01058000000000",
@@ -18888,10 +22221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3470078,
+    "ID": "3470078",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:19",
     "Latitude": "-21,01058000000000",
@@ -18907,10 +22245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492556,
+    "ID": "3492556",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:15",
     "Latitude": "-21,01058000000000",
@@ -18926,10 +22269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492557,
+    "ID": "3492557",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:15",
     "Latitude": "-21,01054000000000",
@@ -18945,10 +22293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492555,
+    "ID": "3492555",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:12",
     "Latitude": "-21,01061000000000",
@@ -18964,10 +22317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3492554,
+    "ID": "3492554",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "18/02/2026 10:10",
     "Latitude": "-21,01060000000000",
@@ -18983,10 +22341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490339,
+    "ID": "3490339",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:53",
     "Latitude": "-21,11962000000000",
@@ -19002,10 +22365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490338,
+    "ID": "3490338",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:53",
     "Latitude": "-21,11962000000000",
@@ -19021,10 +22389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490337,
+    "ID": "3490337",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:52",
     "Latitude": "-21,11964000000000",
@@ -19040,10 +22413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490336,
+    "ID": "3490336",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:51",
     "Latitude": "-21,11964000000000",
@@ -19059,10 +22437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3470075,
+    "ID": "3470075",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:46",
     "Latitude": "-21,01335000000000",
@@ -19078,10 +22461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3470074,
+    "ID": "3470074",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:45",
     "Latitude": "-21,01335000000000",
@@ -19097,10 +22485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3470071,
+    "ID": "3470071",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:40",
     "Latitude": "-21,01335000000000",
@@ -19116,10 +22509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3470070,
+    "ID": "3470070",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:39",
     "Latitude": "-21,01335000000000",
@@ -19135,10 +22533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490308,
+    "ID": "3490308",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:10",
     "Latitude": "-21,11735000000000",
@@ -19154,10 +22557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490305,
+    "ID": "3490305",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:09",
     "Latitude": "-21,11735000000000",
@@ -19173,10 +22581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490304,
+    "ID": "3490304",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:08",
     "Latitude": "-21,11735000000000",
@@ -19192,10 +22605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490303,
+    "ID": "3490303",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 09:08",
     "Latitude": "-21,11735000000000",
@@ -19211,10 +22629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490162,
+    "ID": "3490162",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 08:53",
     "Latitude": "-21,01469000000000",
@@ -19230,10 +22653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490161,
+    "ID": "3490161",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 08:53",
     "Latitude": "-21,01470000000000",
@@ -19249,10 +22677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490155,
+    "ID": "3490155",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 08:14",
     "Latitude": "-21,01572000000000",
@@ -19268,10 +22701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490151,
+    "ID": "3490151",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "18/02/2026 08:13",
     "Latitude": "-21,01572000000000",
@@ -19287,10 +22725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3468130,
+    "ID": "3468130",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 13:59",
     "Latitude": "-21,09373000000000",
@@ -19306,10 +22749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3468120,
+    "ID": "3468120",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 13:59",
     "Latitude": "-21,09373000000000",
@@ -19325,10 +22773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3468114,
+    "ID": "3468114",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 13:58",
     "Latitude": "-21,09374000000000",
@@ -19344,10 +22797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3468111,
+    "ID": "3468111",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 13:58",
     "Latitude": "-21,09374000000000",
@@ -19363,10 +22821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490331,
+    "ID": "3490331",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:19",
     "Latitude": "-20,89064000000000",
@@ -19382,10 +22845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490330,
+    "ID": "3490330",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:17",
     "Latitude": "-20,89066000000000",
@@ -19401,10 +22869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490329,
+    "ID": "3490329",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:16",
     "Latitude": "-20,89065000000000",
@@ -19420,10 +22893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3490328,
+    "ID": "3490328",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 11:15",
     "Latitude": "-20,89064000000000",
@@ -19439,10 +22917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467541,
+    "ID": "3467541",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:55",
     "Latitude": "-20,93190000000000",
@@ -19458,10 +22941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467540,
+    "ID": "3467540",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:54",
     "Latitude": "-20,93686000000000",
@@ -19477,10 +22965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467538,
+    "ID": "3467538",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:52",
     "Latitude": "-20,94373000000000",
@@ -19496,10 +22989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467537,
+    "ID": "3467537",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:50",
     "Latitude": "-20,95042000000000",
@@ -19515,10 +23013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467536,
+    "ID": "3467536",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:48",
     "Latitude": "-20,96018000000000",
@@ -19534,10 +23037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467535,
+    "ID": "3467535",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:46",
     "Latitude": "-20,96878000000000",
@@ -19553,10 +23061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467531,
+    "ID": "3467531",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:42",
     "Latitude": "-21,00934000000000",
@@ -19572,10 +23085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467532,
+    "ID": "3467532",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 09:35",
     "Latitude": "-21,00701000000000",
@@ -19591,10 +23109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467646,
+    "ID": "3467646",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:33",
     "Latitude": "-21,01762000000000",
@@ -19610,10 +23133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3467645,
+    "ID": "3467645",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "17/02/2026 08:32",
     "Latitude": "-21,01763000000000",
@@ -19629,10 +23157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465762,
+    "ID": "3465762",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 13:00",
     "Latitude": "-21,02023000000000",
@@ -19648,10 +23181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465761,
+    "ID": "3465761",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 12:58",
     "Latitude": "-21,02023000000000",
@@ -19667,10 +23205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465796,
+    "ID": "3465796",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:36",
     "Latitude": "-21,08447000000000",
@@ -19686,10 +23229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465801,
+    "ID": "3465801",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:35",
     "Latitude": "-21,08447000000000",
@@ -19705,10 +23253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465800,
+    "ID": "3465800",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:34",
     "Latitude": "-21,08447000000000",
@@ -19724,10 +23277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465799,
+    "ID": "3465799",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:32",
     "Latitude": "-21,08447000000000",
@@ -19743,10 +23301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465798,
+    "ID": "3465798",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:31",
     "Latitude": "-21,08447000000000",
@@ -19762,10 +23325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465797,
+    "ID": "3465797",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 11:30",
     "Latitude": "-21,08447000000000",
@@ -19781,10 +23349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465969,
+    "ID": "3465969",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:28",
     "Latitude": "-21,12104000000000",
@@ -19800,10 +23373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465967,
+    "ID": "3465967",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:27",
     "Latitude": "-21,12035000000000",
@@ -19819,10 +23397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465964,
+    "ID": "3465964",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:26",
     "Latitude": "-21,12017000000000",
@@ -19838,10 +23421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465963,
+    "ID": "3465963",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:25",
     "Latitude": "-21,11996000000000",
@@ -19857,10 +23445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465962,
+    "ID": "3465962",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:23",
     "Latitude": "-21,11985000000000",
@@ -19876,10 +23469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465961,
+    "ID": "3465961",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:11",
     "Latitude": "-21,11982000000000",
@@ -19895,10 +23493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465960,
+    "ID": "3465960",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:10",
     "Latitude": "-21,12003000000000",
@@ -19914,10 +23517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465959,
+    "ID": "3465959",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:09",
     "Latitude": "-21,11992000000000",
@@ -19933,10 +23541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465545,
+    "ID": "3465545",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:08",
     "Latitude": "-21,09121000000000",
@@ -19952,10 +23565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465544,
+    "ID": "3465544",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 09:07",
     "Latitude": "-21,09122000000000",
@@ -19971,10 +23589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3466671,
+    "ID": "3466671",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:58",
     "Latitude": "-21,08567000000000",
@@ -19990,10 +23613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3466666,
+    "ID": "3466666",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:57",
     "Latitude": "-21,08566000000000",
@@ -20009,10 +23637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3466665,
+    "ID": "3466665",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:56",
     "Latitude": "-21,08566000000000",
@@ -20028,10 +23661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3466664,
+    "ID": "3466664",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:55",
     "Latitude": "-21,08566000000000",
@@ -20047,10 +23685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465496,
+    "ID": "3465496",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:51",
     "Latitude": "-21,02091000000000",
@@ -20066,10 +23709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465495,
+    "ID": "3465495",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:50",
     "Latitude": "-21,02094000000000",
@@ -20085,10 +23733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,835",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465542,
+    "ID": "3465542",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:29",
     "Latitude": "-21,09377000000000",
@@ -20104,10 +23757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3465541,
+    "ID": "3465541",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "16/02/2026 08:27",
     "Latitude": "-21,09376000000000",
@@ -20123,10 +23781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463868,
+    "ID": "3463868",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 14:48",
     "Latitude": "-21,07645000000000",
@@ -20142,10 +23805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463867,
+    "ID": "3463867",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 14:46",
     "Latitude": "-21,08027000000000",
@@ -20161,10 +23829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463852,
+    "ID": "3463852",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 14:28",
     "Latitude": "-21,02103000000000",
@@ -20180,10 +23853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463855,
+    "ID": "3463855",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 14:28",
     "Latitude": "-21,02102000000000",
@@ -20199,10 +23877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463691,
+    "ID": "3463691",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 11:55",
     "Latitude": "-21,09263000000000",
@@ -20218,10 +23901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463690,
+    "ID": "3463690",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 11:55",
     "Latitude": "-21,09253000000000",
@@ -20237,10 +23925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463412,
+    "ID": "3463412",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 11:53",
     "Latitude": "-21,08396000000000",
@@ -20256,10 +23949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463417,
+    "ID": "3463417",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 11:52",
     "Latitude": "-21,08399000000000",
@@ -20275,10 +23973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463520,
+    "ID": "3463520",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:48",
     "Latitude": "-21,20621000000000",
@@ -20294,10 +23997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463519,
+    "ID": "3463519",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:45",
     "Latitude": "-21,20708000000000",
@@ -20313,10 +24021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463518,
+    "ID": "3463518",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:43",
     "Latitude": "-21,20116000000000",
@@ -20332,10 +24045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463466,
+    "ID": "3463466",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:40",
     "Latitude": "-21,19438000000000",
@@ -20351,10 +24069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463683,
+    "ID": "3463683",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:24",
     "Latitude": "-21,08603000000000",
@@ -20370,10 +24093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463682,
+    "ID": "3463682",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 10:23",
     "Latitude": "-21,08603000000000",
@@ -20389,10 +24117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463461,
+    "ID": "3463461",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:53",
     "Latitude": "-21,12276000000000",
@@ -20408,10 +24141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463460,
+    "ID": "3463460",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:51",
     "Latitude": "-21,12276000000000",
@@ -20427,10 +24165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463448,
+    "ID": "3463448",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:35",
     "Latitude": "-21,12278000000000",
@@ -20446,10 +24189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3463447,
+    "ID": "3463447",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/02/2026 09:33",
     "Latitude": "-21,12278000000000",
@@ -20465,10 +24213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454995,
+    "ID": "3454995",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:53",
     "Latitude": "-21,09347000000000",
@@ -20484,10 +24237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454829,
+    "ID": "3454829",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:52",
     "Latitude": "-21,08384000000000",
@@ -20503,10 +24261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454994,
+    "ID": "3454994",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:51",
     "Latitude": "-21,09273000000000",
@@ -20522,10 +24285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454828,
+    "ID": "3454828",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:47",
     "Latitude": "-21,08384000000000",
@@ -20541,10 +24309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454827,
+    "ID": "3454827",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:46",
     "Latitude": "-21,08384000000000",
@@ -20560,10 +24333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454826,
+    "ID": "3454826",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:43",
     "Latitude": "-21,08383000000000",
@@ -20579,10 +24357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454880,
+    "ID": "3454880",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:39",
     "Latitude": "-21,10495000000000",
@@ -20598,10 +24381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454879,
+    "ID": "3454879",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:38",
     "Latitude": "-21,10496000000000",
@@ -20617,10 +24405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454878,
+    "ID": "3454878",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:37",
     "Latitude": "-21,10494000000000",
@@ -20636,10 +24429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454877,
+    "ID": "3454877",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:35",
     "Latitude": "-21,10493000000000",
@@ -20655,10 +24453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454916,
+    "ID": "3454916",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:35",
     "Latitude": "-21,02217000000000",
@@ -20674,10 +24477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454915,
+    "ID": "3454915",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 10:33",
     "Latitude": "-21,02219000000000",
@@ -20693,10 +24501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454237,
+    "ID": "3454237",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:25",
     "Latitude": "-21,01751000000000",
@@ -20712,10 +24525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454203,
+    "ID": "3454203",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:25",
     "Latitude": "-21,12413000000000",
@@ -20731,10 +24549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454236,
+    "ID": "3454236",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:24",
     "Latitude": "-21,01762000000000",
@@ -20750,10 +24573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454202,
+    "ID": "3454202",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:24",
     "Latitude": "-21,12430000000000",
@@ -20769,10 +24597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454201,
+    "ID": "3454201",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:24",
     "Latitude": "-21,12430000000000",
@@ -20788,10 +24621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454198,
+    "ID": "3454198",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 09:23",
     "Latitude": "-21,12430000000000",
@@ -20807,10 +24645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454231,
+    "ID": "3454231",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:48",
     "Latitude": "-21,01666000000000",
@@ -20826,10 +24669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3454230,
+    "ID": "3454230",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/07/2026 08:47",
     "Latitude": "-21,01666000000000",
@@ -20845,10 +24693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3451160,
+    "ID": "3451160",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 16:18",
     "Latitude": "-21,06778000000000",
@@ -20864,10 +24717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3451159,
+    "ID": "3451159",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 16:12",
     "Latitude": "-21,07207000000000",
@@ -20883,10 +24741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3451157,
+    "ID": "3451157",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 16:10",
     "Latitude": "-21,08036000000000",
@@ -20902,10 +24765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3451158,
+    "ID": "3451158",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 16:10",
     "Latitude": "-21,07602000000000",
@@ -20921,10 +24789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449688,
+    "ID": "3449688",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/06/2026 14:10",
     "Latitude": "-21,02098000000000",
@@ -20940,10 +24813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449771,
+    "ID": "3449771",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 14:09",
     "Latitude": "-21,10397000000000",
@@ -20959,10 +24837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449770,
+    "ID": "3449770",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 14:09",
     "Latitude": "-21,10398000000000",
@@ -20978,10 +24861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449687,
+    "ID": "3449687",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/06/2026 14:08",
     "Latitude": "-21,02098000000000",
@@ -20997,10 +24885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449769,
+    "ID": "3449769",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 14:01",
     "Latitude": "-21,10468000000000",
@@ -21016,10 +24909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449768,
+    "ID": "3449768",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 14:00",
     "Latitude": "-21,10477000000000",
@@ -21035,10 +24933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449569,
+    "ID": "3449569",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:36",
     "Latitude": "-21,02099000000000",
@@ -21054,10 +24957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449567,
+    "ID": "3449567",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 13:36",
     "Latitude": "-21,02096000000000",
@@ -21073,10 +24981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3447514,
+    "ID": "3447514",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:22",
     "Latitude": "-21,03158000000000",
@@ -21092,10 +25005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3447515,
+    "ID": "3447515",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:22",
     "Latitude": "-21,03158000000000",
@@ -21111,10 +25029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3447512,
+    "ID": "3447512",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:12",
     "Latitude": "-21,03158000000000",
@@ -21130,10 +25053,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3447508,
+    "ID": "3447508",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:10",
     "Latitude": "-21,03158000000000",
@@ -21149,10 +25077,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449685,
+    "ID": "3449685",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:09",
     "Latitude": "-21,03115000000000",
@@ -21168,10 +25101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449686,
+    "ID": "3449686",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:09",
     "Latitude": "-21,03116000000000",
@@ -21187,10 +25125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449684,
+    "ID": "3449684",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:06",
     "Latitude": "-21,03115000000000",
@@ -21206,10 +25149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3449683,
+    "ID": "3449683",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/06/2026 10:05",
     "Latitude": "-21,03114000000000",
@@ -21225,10 +25173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445643,
+    "ID": "3445643",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 10:42",
     "Latitude": "-21,03159000000000",
@@ -21244,10 +25197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445645,
+    "ID": "3445645",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 10:41",
     "Latitude": "-21,03159000000000",
@@ -21263,10 +25221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445644,
+    "ID": "3445644",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 10:39",
     "Latitude": "-21,03159000000000",
@@ -21282,10 +25245,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445642,
+    "ID": "3445642",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 10:31",
     "Latitude": "-21,03161000000000",
@@ -21301,10 +25269,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445530,
+    "ID": "3445530",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:48",
     "Latitude": "-21,01560000000000",
@@ -21320,10 +25293,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445529,
+    "ID": "3445529",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:47",
     "Latitude": "-21,01560000000000",
@@ -21339,10 +25317,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445528,
+    "ID": "3445528",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:46",
     "Latitude": "-21,01560000000000",
@@ -21358,10 +25341,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445560,
+    "ID": "3445560",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:45",
     "Latitude": "-21,03369000000000",
@@ -21377,10 +25365,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,595",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445527,
+    "ID": "3445527",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:44",
     "Latitude": "-21,01560000000000",
@@ -21396,10 +25389,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445559,
+    "ID": "3445559",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:43",
     "Latitude": "-21,03367000000000",
@@ -21415,10 +25413,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,645",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445526,
+    "ID": "3445526",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:42",
     "Latitude": "-21,01560000000000",
@@ -21434,10 +25437,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3445525,
+    "ID": "3445525",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/05/2026 09:40",
     "Latitude": "-21,01562000000000",
@@ -21453,10 +25461,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443881,
+    "ID": "3443881",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:49",
     "Latitude": "-21,03786000000000",
@@ -21472,10 +25485,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443880,
+    "ID": "3443880",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:48",
     "Latitude": "-21,03613000000000",
@@ -21491,10 +25509,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433125,
+    "ID": "3433125",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:34",
     "Latitude": "-21,10368000000000",
@@ -21510,10 +25533,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433126,
+    "ID": "3433126",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:34",
     "Latitude": "-21,10368000000000",
@@ -21529,10 +25557,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433322,
+    "ID": "3433322",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:34",
     "Latitude": "-21,04632000000000",
@@ -21548,10 +25581,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433323,
+    "ID": "3433323",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:33",
     "Latitude": "-21,04633000000000",
@@ -21567,10 +25605,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433324,
+    "ID": "3433324",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:32",
     "Latitude": "-21,04539000000000",
@@ -21586,10 +25629,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433129,
+    "ID": "3433129",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:31",
     "Latitude": "-21,10029000000000",
@@ -21605,10 +25653,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433130,
+    "ID": "3433130",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:31",
     "Latitude": "-21,10029000000000",
@@ -21624,10 +25677,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433325,
+    "ID": "3433325",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:29",
     "Latitude": "-21,04633000000000",
@@ -21643,10 +25701,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433181,
+    "ID": "3433181",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:29",
     "Latitude": "-21,03151000000000",
@@ -21662,10 +25725,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433698,
+    "ID": "3433698",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:28",
     "Latitude": "-21,03363000000000",
@@ -21681,10 +25749,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,745",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433697,
+    "ID": "3433697",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:28",
     "Latitude": "-21,03363000000000",
@@ -21700,10 +25773,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433182,
+    "ID": "3433182",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:27",
     "Latitude": "-21,03150000000000",
@@ -21719,10 +25797,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435273,
+    "ID": "3435273",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:26",
     "Latitude": "-21,03152000000000",
@@ -21738,10 +25821,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,665",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435274,
+    "ID": "3435274",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:25",
     "Latitude": "-21,03151000000000",
@@ -21757,10 +25845,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,745",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435664,
+    "ID": "3435664",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:22",
     "Latitude": "-21,03524000000000",
@@ -21776,10 +25869,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435318,
+    "ID": "3435318",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:22",
     "Latitude": "-21,03531000000000",
@@ -21795,10 +25893,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435666,
+    "ID": "3435666",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:22",
     "Latitude": "-21,03524000000000",
@@ -21814,10 +25917,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435665,
+    "ID": "3435665",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:21",
     "Latitude": "-21,03524000000000",
@@ -21833,10 +25941,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435319,
+    "ID": "3435319",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:21",
     "Latitude": "-21,03531000000000",
@@ -21852,10 +25965,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435667,
+    "ID": "3435667",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:21",
     "Latitude": "-21,03524000000000",
@@ -21871,10 +25989,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435320,
+    "ID": "3435320",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:21",
     "Latitude": "-21,03531000000000",
@@ -21890,10 +26013,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435321,
+    "ID": "3435321",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:20",
     "Latitude": "-21,03531000000000",
@@ -21909,10 +26037,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435605,
+    "ID": "3435605",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:18",
     "Latitude": "-21,09270000000000",
@@ -21928,10 +26061,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435606,
+    "ID": "3435606",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:17",
     "Latitude": "-21,09271000000000",
@@ -21947,10 +26085,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435611,
+    "ID": "3435611",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:17",
     "Latitude": "-21,08944000000000",
@@ -21966,10 +26109,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3435618,
+    "ID": "3435618",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:17",
     "Latitude": "-21,08859000000000",
@@ -21985,10 +26133,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431298,
+    "ID": "3431298",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:16",
     "Latitude": "-21,03540000000000",
@@ -22004,10 +26157,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431299,
+    "ID": "3431299",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:15",
     "Latitude": "-21,03542000000000",
@@ -22023,10 +26181,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431292,
+    "ID": "3431292",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:15",
     "Latitude": "-21,03463000000000",
@@ -22042,10 +26205,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431293,
+    "ID": "3431293",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:14",
     "Latitude": "-21,03461000000000",
@@ -22061,10 +26229,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443384,
+    "ID": "3443384",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:14",
     "Latitude": "-21,03071000000000",
@@ -22080,10 +26253,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443428,
+    "ID": "3443428",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:13",
     "Latitude": "-21,03065000000000",
@@ -22099,10 +26277,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443429,
+    "ID": "3443429",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:13",
     "Latitude": "-21,03065000000000",
@@ -22118,10 +26301,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443386,
+    "ID": "3443386",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:05",
     "Latitude": "-21,03069000000000",
@@ -22137,10 +26325,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443430,
+    "ID": "3443430",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:04",
     "Latitude": "-21,03066000000000",
@@ -22156,10 +26349,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443431,
+    "ID": "3443431",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:04",
     "Latitude": "-21,03067000000000",
@@ -22175,10 +26373,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443388,
+    "ID": "3443388",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:04",
     "Latitude": "-21,03070000000000",
@@ -22194,10 +26397,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443390,
+    "ID": "3443390",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:03",
     "Latitude": "-21,03070000000000",
@@ -22213,10 +26421,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443453,
+    "ID": "3443453",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:03",
     "Latitude": "-21,03207000000000",
@@ -22232,10 +26445,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443454,
+    "ID": "3443454",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:02",
     "Latitude": "-21,03206000000000",
@@ -22251,10 +26469,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443376,
+    "ID": "3443376",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:01",
     "Latitude": "-21,01583000000000",
@@ -22270,10 +26493,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "5,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443377,
+    "ID": "3443377",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 14:00",
     "Latitude": "-21,01583000000000",
@@ -22289,10 +26517,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443438,
+    "ID": "3443438",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:58",
     "Latitude": "-21,03213000000000",
@@ -22308,10 +26541,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443436,
+    "ID": "3443436",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "02/04/2026 13:58",
     "Latitude": "-21,03213000000000",
@@ -22327,10 +26565,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443879,
+    "ID": "3443879",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 12:29",
     "Latitude": "-21,01531000000000",
@@ -22346,10 +26589,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3443878,
+    "ID": "3443878",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/04/2026 12:28",
     "Latitude": "-21,01531000000000",
@@ -22365,10 +26613,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433175,
+    "ID": "3433175",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/03/2026 11:44",
     "Latitude": "-21,03554000000000",
@@ -22384,10 +26637,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433174,
+    "ID": "3433174",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/03/2026 11:43",
     "Latitude": "-21,03554000000000",
@@ -22403,10 +26661,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433173,
+    "ID": "3433173",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/03/2026 11:43",
     "Latitude": "-21,03554000000000",
@@ -22422,10 +26685,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433172,
+    "ID": "3433172",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "02/03/2026 11:42",
     "Latitude": "-21,03555000000000",
@@ -22441,10 +26709,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433180,
+    "ID": "3433180",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/01/2026 10:32",
     "Latitude": "-21,03150000000000",
@@ -22460,10 +26733,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,755",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3433179,
+    "ID": "3433179",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "28/01/2026 10:31",
     "Latitude": "-21,03149000000000",
@@ -22479,10 +26757,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431412,
+    "ID": "3431412",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 13:30",
     "Latitude": "-21,10137000000000",
@@ -22498,10 +26781,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431411,
+    "ID": "3431411",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 13:28",
     "Latitude": "-21,10137000000000",
@@ -22517,10 +26805,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431408,
+    "ID": "3431408",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 13:22",
     "Latitude": "-21,10137000000000",
@@ -22536,10 +26829,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431407,
+    "ID": "3431407",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 13:21",
     "Latitude": "-21,10137000000000",
@@ -22555,10 +26853,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431317,
+    "ID": "3431317",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 12:45",
     "Latitude": "-21,07017000000000",
@@ -22574,10 +26877,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431316,
+    "ID": "3431316",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 12:42",
     "Latitude": "-21,05530000000000",
@@ -22593,10 +26901,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431162,
+    "ID": "3431162",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 11:21",
     "Latitude": "-21,03541000000000",
@@ -22612,10 +26925,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431161,
+    "ID": "3431161",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 11:21",
     "Latitude": "-21,03541000000000",
@@ -22631,10 +26949,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431163,
+    "ID": "3431163",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 11:21",
     "Latitude": "-21,03541000000000",
@@ -22650,10 +26973,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431164,
+    "ID": "3431164",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 11:20",
     "Latitude": "-21,03541000000000",
@@ -22669,10 +26997,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431303,
+    "ID": "3431303",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 10:01",
     "Latitude": "-21,03550000000000",
@@ -22688,10 +27021,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431300,
+    "ID": "3431300",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 10:00",
     "Latitude": "-21,03538000000000",
@@ -22707,10 +27045,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431301,
+    "ID": "3431301",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 10:00",
     "Latitude": "-21,03539000000000",
@@ -22726,10 +27069,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431302,
+    "ID": "3431302",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "27/01/2026 10:00",
     "Latitude": "-21,03548000000000",
@@ -22745,10 +27093,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431156,
+    "ID": "3431156",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 09:01",
     "Latitude": "-21,03143000000000",
@@ -22764,10 +27117,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431155,
+    "ID": "3431155",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 09:00",
     "Latitude": "-21,03143000000000",
@@ -22783,10 +27141,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431154,
+    "ID": "3431154",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 08:59",
     "Latitude": "-21,03143000000000",
@@ -22802,10 +27165,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3431153,
+    "ID": "3431153",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "27/01/2026 08:58",
     "Latitude": "-21,03143000000000",
@@ -22821,10 +27189,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428652,
+    "ID": "3428652",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 12:27",
     "Latitude": "-21,16805000000000",
@@ -22840,10 +27213,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,94",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428651,
+    "ID": "3428651",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 12:25",
     "Latitude": "-21,16804000000000",
@@ -22859,10 +27237,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428308,
+    "ID": "3428308",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "26/01/2026 10:18",
     "Latitude": "-21,03805000000000",
@@ -22878,10 +27261,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428307,
+    "ID": "3428307",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "26/01/2026 10:16",
     "Latitude": "-21,03805000000000",
@@ -22897,10 +27285,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3429138,
+    "ID": "3429138",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 09:50",
     "Latitude": "-21,10351000000000",
@@ -22916,10 +27309,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3429137,
+    "ID": "3429137",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 09:49",
     "Latitude": "-21,10351000000000",
@@ -22935,10 +27333,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428251,
+    "ID": "3428251",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 08:38",
     "Latitude": "-21,03842000000000",
@@ -22954,10 +27357,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428250,
+    "ID": "3428250",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 08:37",
     "Latitude": "-21,03842000000000",
@@ -22973,10 +27381,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428245,
+    "ID": "3428245",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 07:54",
     "Latitude": "-21,03961000000000",
@@ -22992,10 +27405,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3428244,
+    "ID": "3428244",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "26/01/2026 07:53",
     "Latitude": "-21,03961000000000",
@@ -23011,10 +27429,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3426596,
+    "ID": "3426596",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/01/2026 11:10",
     "Latitude": "-21,02922000000000",
@@ -23030,10 +27453,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3426595,
+    "ID": "3426595",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "24/01/2026 11:08",
     "Latitude": "-21,02921000000000",
@@ -23049,10 +27477,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3426546,
+    "ID": "3426546",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/01/2026 10:01",
     "Latitude": "-21,02924000000000",
@@ -23068,10 +27501,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3426545,
+    "ID": "3426545",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "24/01/2026 09:59",
     "Latitude": "-21,02924000000000",
@@ -23087,10 +27525,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3423182,
+    "ID": "3423182",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 15:31",
     "Latitude": "-21,03853000000000",
@@ -23106,10 +27549,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3423424,
+    "ID": "3423424",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 15:28",
     "Latitude": "-21,04849000000000",
@@ -23125,10 +27573,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3422733,
+    "ID": "3422733",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:15",
     "Latitude": "-21,08797000000000",
@@ -23144,10 +27597,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3422732,
+    "ID": "3422732",
     "Usuário": "qualidade5@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:14",
     "Latitude": "-21,08799000000000",
@@ -23163,10 +27621,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3422991,
+    "ID": "3422991",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:07",
     "Latitude": "-21,08797000000000",
@@ -23182,10 +27645,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3422990,
+    "ID": "3422990",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 10:06",
     "Latitude": "-21,08797000000000",
@@ -23201,10 +27669,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3422775,
+    "ID": "3422775",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 09:43",
     "Latitude": "-21,08798000000000",
@@ -23220,10 +27693,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3422774,
+    "ID": "3422774",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "22/01/2026 09:41",
     "Latitude": "-21,08800000000000",
@@ -23239,10 +27717,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3421345,
+    "ID": "3421345",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 16:15",
     "Latitude": "-21,03068000000000",
@@ -23258,10 +27741,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3421343,
+    "ID": "3421343",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 16:12",
     "Latitude": "-21,01842000000000",
@@ -23277,10 +27765,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3420927,
+    "ID": "3420927",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 10:42",
     "Latitude": "-21,09084000000000",
@@ -23296,10 +27789,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3420926,
+    "ID": "3420926",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "21/01/2026 10:41",
     "Latitude": "-21,09008000000000",
@@ -23315,10 +27813,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3417407,
+    "ID": "3417407",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/01/2026 11:50",
     "Latitude": "-21,09630000000000",
@@ -23334,10 +27837,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3417406,
+    "ID": "3417406",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "19/01/2026 11:48",
     "Latitude": "-21,09630000000000",
@@ -23353,10 +27861,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3413629,
+    "ID": "3413629",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/01/2026 14:31",
     "Latitude": "-21,09536000000000",
@@ -23372,10 +27885,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3413630,
+    "ID": "3413630",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/01/2026 14:31",
     "Latitude": "-21,09585000000000",
@@ -23391,10 +27909,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3413643,
+    "ID": "3413643",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/01/2026 13:07",
     "Latitude": "-21,09433000000000",
@@ -23410,10 +27933,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3413642,
+    "ID": "3413642",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "15/01/2026 13:04",
     "Latitude": "-21,09431000000000",
@@ -23429,10 +27957,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3411783,
+    "ID": "3411783",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/01/2026 12:45",
     "Latitude": "-21,09417000000000",
@@ -23448,10 +27981,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3411782,
+    "ID": "3411782",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "14/01/2026 12:42",
     "Latitude": "-21,09454000000000",
@@ -23467,10 +28005,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3410268,
+    "ID": "3410268",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/01/2026 10:30",
     "Latitude": "-21,09334000000000",
@@ -23486,10 +28029,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3410267,
+    "ID": "3410267",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "13/01/2026 10:29",
     "Latitude": "-21,09334000000000",
@@ -23505,16 +28053,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3408181,
+    "ID": "3408181",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "12/01/2026 10:43",
+    "Data": "01/12/2026 10:43",
     "Latitude": "-21,09341000000000",
     "Longitude": "-48,23068000000000",
-    "Data início": "12/01/2026 10:42",
-    "Data Fim": "12/01/2026 10:43",
+    "Data início": "01/12/2026 10:42",
+    "Data Fim": "01/12/2026 10:43",
     "Status": "Aberto",
     "Score": "0,00",
     "Data Lançamento": "12/01/2026",
@@ -23524,16 +28077,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3408180,
+    "ID": "3408180",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
-    "Data": "12/01/2026 10:42",
+    "Data": "01/12/2026 10:42",
     "Latitude": "-21,09340000000000",
     "Longitude": "-48,23068000000000",
-    "Data início": "12/01/2026 10:40",
-    "Data Fim": "12/01/2026 10:42",
+    "Data início": "01/12/2026 10:40",
+    "Data Fim": "01/12/2026 10:42",
     "Status": "Aberto",
     "Score": "0,00",
     "Data Lançamento": "12/01/2026",
@@ -23543,10 +28101,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3407986,
+    "ID": "3407986",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "01/10/2026 14:11",
     "Latitude": "-21,09227000000000",
@@ -23562,10 +28125,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3407985,
+    "ID": "3407985",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "01/10/2026 14:10",
     "Latitude": "-21,09226000000000",
@@ -23581,10 +28149,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3406784,
+    "ID": "3406784",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "01/10/2026 09:28",
     "Latitude": "-21,09335000000000",
@@ -23600,10 +28173,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3406783,
+    "ID": "3406783",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "01/10/2026 09:26",
     "Latitude": "-21,09336000000000",
@@ -23619,10 +28197,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,225",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3405681,
+    "ID": "3405681",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "01/09/2026 12:36",
     "Latitude": "-21,09177000000000",
@@ -23638,10 +28221,15 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 3405682,
+    "ID": "3405682",
     "Usuário": "anabinatto@usinapitangueiras.com.br",
     "Data": "01/09/2026 12:36",
     "Latitude": "-21,09177000000000",
@@ -23657,16 +28245,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null
+    "Fazenda": null,
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   },
   {
-    "ID": 4035282,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "09/11/2026 11:02",
+    "ID": "4035282",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.04479000000000",
     "Longitude": "-48.25722000000000",
-    "Data início": "09/11/2026 11:02",
-    "Data Fim": "09/11/2026 11:02",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/09/2026",
@@ -23676,16 +28269,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.435",
-    "Fazenda": 50301.0
+    "Fazenda": "50301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/09/2026 11:02 AM",
+    "Start date": "11/09/2026 11:02 AM",
+    "End date": "11/09/2026 11:02 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4035281,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "09/11/2026 11:02",
+    "ID": "4035281",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.04479000000000",
     "Longitude": "-48.25722000000000",
-    "Data início": "09/11/2026 11:02",
-    "Data Fim": "09/11/2026 11:02",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/09/2026",
@@ -23695,16 +28293,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.52",
-    "Fazenda": 50301.0
+    "Fazenda": "50301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/09/2026 11:02 AM",
+    "Start date": "11/09/2026 11:02 AM",
+    "End date": "11/09/2026 11:02 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4035741,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "09/11/2026 10:51",
+    "ID": "4035741",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.03792000000000",
     "Longitude": "-48.29542000000000",
-    "Data início": "09/11/2026 10:50",
-    "Data Fim": "09/11/2026 10:51",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/09/2026",
@@ -23714,16 +28317,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.52",
-    "Fazenda": 50301.0
+    "Fazenda": "50301",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "11/09/2026 10:51 AM",
+    "Start date": "11/09/2026 10:50 AM",
+    "End date": "11/09/2026 10:51 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4035740,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "09/11/2026 10:50",
+    "ID": "4035740",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.03793000000000",
     "Longitude": "-48.29542000000000",
-    "Data início": "09/11/2026 10:50",
-    "Data Fim": "09/11/2026 10:50",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/09/2026",
@@ -23733,16 +28341,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.435",
-    "Fazenda": 50301.0
+    "Fazenda": "50301",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "11/09/2026 10:50 AM",
+    "Start date": "11/09/2026 10:50 AM",
+    "End date": "11/09/2026 10:50 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4026255,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "04/11/2026 14:05",
+    "ID": "4026255",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.87699000000000",
     "Longitude": "-48.50727000000000",
-    "Data início": "04/11/2026 09:51",
-    "Data Fim": "04/11/2026 09:55",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/04/2026",
@@ -23752,16 +28365,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.345",
-    "Fazenda": 33302.0
+    "Fazenda": "33302",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/04/2026 02:05 PM",
+    "Start date": "11/04/2026 09:51 AM",
+    "End date": "11/04/2026 09:55 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4026256,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "04/11/2026 10:02",
+    "ID": "4026256",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.87700000000000",
     "Longitude": "-48.50727000000000",
-    "Data início": "04/11/2026 09:55",
-    "Data Fim": "04/11/2026 10:01",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/04/2026",
@@ -23771,16 +28389,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.29",
-    "Fazenda": 33302.0
+    "Fazenda": "33302",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/04/2026 10:02 AM",
+    "Start date": "11/04/2026 09:55 AM",
+    "End date": "11/04/2026 10:01 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4026254,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "04/11/2026 09:49",
+    "ID": "4026254",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.87674000000000",
     "Longitude": "-48.50742000000000",
-    "Data início": "04/11/2026 09:45",
-    "Data Fim": "04/11/2026 09:49",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/04/2026",
@@ -23790,16 +28413,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.085",
-    "Fazenda": 33302.0
+    "Fazenda": "33302",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/04/2026 09:49 AM",
+    "Start date": "11/04/2026 09:45 AM",
+    "End date": "11/04/2026 09:49 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4026253,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "04/11/2026 09:39",
+    "ID": "4026253",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.87677000000000",
     "Longitude": "-48.50742000000000",
-    "Data início": "04/11/2026 09:25",
-    "Data Fim": "04/11/2026 09:28",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "11/04/2026",
@@ -23809,16 +28437,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.005",
-    "Fazenda": 33302.0
+    "Fazenda": "33302",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "11/04/2026 09:39 AM",
+    "Start date": "11/04/2026 09:25 AM",
+    "End date": "11/04/2026 09:28 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015740,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "29/10/2026 10:15",
+    "ID": "4015740",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89317000000000",
     "Longitude": "-48.50174000000000",
-    "Data início": "29/10/2026 10:12",
-    "Data Fim": "29/10/2026 10:15",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23828,16 +28461,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.09",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/29/2026 10:15 AM",
+    "Start date": "10/29/2026 10:12 AM",
+    "End date": "10/29/2026 10:15 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015776,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "29/10/2026 10:14",
+    "ID": "4015776",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89313000000000",
     "Longitude": "-48.50175000000000",
-    "Data início": "29/10/2026 10:12",
-    "Data Fim": "29/10/2026 10:14",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23847,16 +28485,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.09",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/29/2026 10:14 AM",
+    "Start date": "10/29/2026 10:12 AM",
+    "End date": "10/29/2026 10:14 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015739,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "29/10/2026 10:12",
+    "ID": "4015739",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89317000000000",
     "Longitude": "-48.50175000000000",
-    "Data início": "29/10/2026 10:11",
-    "Data Fim": "29/10/2026 10:12",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23866,16 +28509,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.18",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/29/2026 10:12 AM",
+    "Start date": "10/29/2026 10:11 AM",
+    "End date": "10/29/2026 10:12 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015775,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "29/10/2026 10:12",
+    "ID": "4015775",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89313000000000",
     "Longitude": "-48.50175000000000",
-    "Data início": "29/10/2026 10:11",
-    "Data Fim": "29/10/2026 10:12",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23885,16 +28533,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.18",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/29/2026 10:12 AM",
+    "Start date": "10/29/2026 10:11 AM",
+    "End date": "10/29/2026 10:12 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015738,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "29/10/2026 10:02",
+    "ID": "4015738",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89317000000000",
     "Longitude": "-48.50170000000000",
-    "Data início": "29/10/2026 09:57",
-    "Data Fim": "29/10/2026 10:01",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23904,16 +28557,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.41",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/29/2026 10:02 AM",
+    "Start date": "10/29/2026 09:57 AM",
+    "End date": "10/29/2026 10:01 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015737,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "29/10/2026 10:01",
+    "ID": "4015737",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89318000000000",
     "Longitude": "-48.50172000000000",
-    "Data início": "29/10/2026 09:57",
-    "Data Fim": "29/10/2026 09:57",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23923,16 +28581,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.635",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/29/2026 10:01 AM",
+    "Start date": "10/29/2026 09:57 AM",
+    "End date": "10/29/2026 09:57 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015774,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "29/10/2026 09:57",
+    "ID": "4015774",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89321000000000",
     "Longitude": "-48.50164000000000",
-    "Data início": "29/10/2026 09:53",
-    "Data Fim": "29/10/2026 09:57",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23942,16 +28605,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.41",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/29/2026 09:57 AM",
+    "Start date": "10/29/2026 09:53 AM",
+    "End date": "10/29/2026 09:57 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4015773,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "29/10/2026 09:53",
+    "ID": "4015773",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.89321000000000",
     "Longitude": "-48.50164000000000",
-    "Data início": "29/10/2026 09:52",
-    "Data Fim": "29/10/2026 09:53",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/29/2026",
@@ -23961,16 +28629,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.635",
-    "Fazenda": 70426.0
+    "Fazenda": "70426",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/29/2026 09:53 AM",
+    "Start date": "10/29/2026 09:52 AM",
+    "End date": "10/29/2026 09:53 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4012683,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "28/10/2026 08:56",
+    "ID": "4012683",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86893000000000",
     "Longitude": "-48.53198000000000",
-    "Data início": "28/10/2026 08:55",
-    "Data Fim": "28/10/2026 08:56",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/28/2026",
@@ -23980,16 +28653,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.685",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/28/2026 08:56 AM",
+    "Start date": "10/28/2026 08:55 AM",
+    "End date": "10/28/2026 08:56 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4012682,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "28/10/2026 08:55",
+    "ID": "4012682",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86898000000000",
     "Longitude": "-48.53208000000000",
-    "Data início": "28/10/2026 08:54",
-    "Data Fim": "28/10/2026 08:55",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/28/2026",
@@ -23999,16 +28677,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.715",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/28/2026 08:55 AM",
+    "Start date": "10/28/2026 08:54 AM",
+    "End date": "10/28/2026 08:55 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4012680,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "28/10/2026 08:37",
+    "ID": "4012680",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86900000000000",
     "Longitude": "-48.53175000000000",
-    "Data início": "28/10/2026 08:34",
-    "Data Fim": "28/10/2026 08:37",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/28/2026",
@@ -24018,16 +28701,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.12",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/28/2026 08:37 AM",
+    "Start date": "10/28/2026 08:34 AM",
+    "End date": "10/28/2026 08:37 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4012679,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "28/10/2026 08:34",
+    "ID": "4012679",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86905000000000",
     "Longitude": "-48.53175000000000",
-    "Data início": "28/10/2026 08:33",
-    "Data Fim": "28/10/2026 08:34",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/28/2026",
@@ -24037,16 +28725,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.19",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/28/2026 08:34 AM",
+    "Start date": "10/28/2026 08:33 AM",
+    "End date": "10/28/2026 08:34 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4010068,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "27/10/2026 09:59",
+    "ID": "4010068",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86893000000000",
     "Longitude": "-48.53168000000000",
-    "Data início": "27/10/2026 09:54",
-    "Data Fim": "27/10/2026 09:55",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/27/2026",
@@ -24056,16 +28749,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.11",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/27/2026 09:59 AM",
+    "Start date": "10/27/2026 09:54 AM",
+    "End date": "10/27/2026 09:55 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4010069,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "27/10/2026 09:59",
+    "ID": "4010069",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86891000000000",
     "Longitude": "-48.53168000000000",
-    "Data início": "27/10/2026 09:56",
-    "Data Fim": "27/10/2026 09:59",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/27/2026",
@@ -24075,16 +28773,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.185",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/27/2026 09:59 AM",
+    "Start date": "10/27/2026 09:56 AM",
+    "End date": "10/27/2026 09:59 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4010067,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "27/10/2026 08:57",
+    "ID": "4010067",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86885000000000",
     "Longitude": "-48.53184000000000",
-    "Data início": "27/10/2026 08:53",
-    "Data Fim": "27/10/2026 08:57",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/27/2026",
@@ -24094,16 +28797,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.745",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/27/2026 08:57 AM",
+    "Start date": "10/27/2026 08:53 AM",
+    "End date": "10/27/2026 08:57 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4010066,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "27/10/2026 08:53",
+    "ID": "4010066",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.86885000000000",
     "Longitude": "-48.53184000000000",
-    "Data início": "27/10/2026 08:52",
-    "Data Fim": "27/10/2026 08:53",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/27/2026",
@@ -24113,16 +28821,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.67",
-    "Fazenda": 70301.0
+    "Fazenda": "70301",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/27/2026 08:53 AM",
+    "Start date": "10/27/2026 08:52 AM",
+    "End date": "10/27/2026 08:53 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4006253,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "24/10/2026 11:10",
+    "ID": "4006253",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84641000000000",
     "Longitude": "-48.52264000000000",
-    "Data início": "24/10/2026 11:07",
-    "Data Fim": "24/10/2026 11:08",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24132,16 +28845,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.135",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/24/2026 11:10 AM",
+    "Start date": "10/24/2026 11:07 AM",
+    "End date": "10/24/2026 11:08 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4006254,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "24/10/2026 11:10",
+    "ID": "4006254",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84641000000000",
     "Longitude": "-48.52264000000000",
-    "Data início": "24/10/2026 11:08",
-    "Data Fim": "24/10/2026 11:10",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24151,16 +28869,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/24/2026 11:10 AM",
+    "Start date": "10/24/2026 11:08 AM",
+    "End date": "10/24/2026 11:10 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4006234,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "24/10/2026 09:11",
+    "ID": "4006234",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.85033000000000",
     "Longitude": "-48.51969000000000",
-    "Data início": "24/10/2026 09:10",
-    "Data Fim": "24/10/2026 09:11",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24170,16 +28893,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.445",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/24/2026 09:11 AM",
+    "Start date": "10/24/2026 09:10 AM",
+    "End date": "10/24/2026 09:11 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4006233,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "24/10/2026 09:10",
+    "ID": "4006233",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.85035000000000",
     "Longitude": "-48.51970000000000",
-    "Data início": "24/10/2026 09:07",
-    "Data Fim": "24/10/2026 09:09",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24189,16 +28917,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.535",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/24/2026 09:10 AM",
+    "Start date": "10/24/2026 09:07 AM",
+    "End date": "10/24/2026 09:09 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4005886,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/10/2026 09:07",
+    "ID": "4005886",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.85030000000000",
     "Longitude": "-48.51967000000000",
-    "Data início": "24/10/2026 08:59",
-    "Data Fim": "24/10/2026 09:02",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24208,16 +28941,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.465",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/24/2026 09:07 AM",
+    "Start date": "10/24/2026 08:59 AM",
+    "End date": "10/24/2026 09:02 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4005887,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/10/2026 09:06",
+    "ID": "4005887",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.85030000000000",
     "Longitude": "-48.51967000000000",
-    "Data início": "24/10/2026 09:03",
-    "Data Fim": "24/10/2026 09:05",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24227,16 +28965,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.445",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/24/2026 09:06 AM",
+    "Start date": "10/24/2026 09:03 AM",
+    "End date": "10/24/2026 09:05 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4005879,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/10/2026 08:46",
+    "ID": "4005879",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.85081000000000",
     "Longitude": "-48.51999000000000",
-    "Data início": "24/10/2026 08:39",
-    "Data Fim": "24/10/2026 08:40",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24246,16 +28989,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.055",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/24/2026 08:46 AM",
+    "Start date": "10/24/2026 08:39 AM",
+    "End date": "10/24/2026 08:40 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4005878,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "24/10/2026 08:38",
+    "ID": "4005878",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.85072000000000",
     "Longitude": "-48.52000000000000",
-    "Data início": "24/10/2026 08:37",
-    "Data Fim": "24/10/2026 08:38",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/24/2026",
@@ -24265,16 +29013,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.07",
-    "Fazenda": 70431.0
+    "Fazenda": "70431",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/24/2026 08:38 AM",
+    "Start date": "10/24/2026 08:37 AM",
+    "End date": "10/24/2026 08:38 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4003742,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "23/10/2026 10:17",
+    "ID": "4003742",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84672000000000",
     "Longitude": "-48.52237000000000",
-    "Data início": "23/10/2026 10:16",
-    "Data Fim": "23/10/2026 10:17",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/23/2026",
@@ -24284,16 +29037,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.175",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/23/2026 10:17 AM",
+    "Start date": "10/23/2026 10:16 AM",
+    "End date": "10/23/2026 10:17 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4003741,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "23/10/2026 10:16",
+    "ID": "4003741",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84672000000000",
     "Longitude": "-48.52237000000000",
-    "Data início": "23/10/2026 10:15",
-    "Data Fim": "23/10/2026 10:16",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/23/2026",
@@ -24303,16 +29061,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/23/2026 10:16 AM",
+    "Start date": "10/23/2026 10:15 AM",
+    "End date": "10/23/2026 10:16 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4003740,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "23/10/2026 08:30",
+    "ID": "4003740",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84649000000000",
     "Longitude": "-48.52272000000000",
-    "Data início": "23/10/2026 08:27",
-    "Data Fim": "23/10/2026 08:30",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/23/2026",
@@ -24322,16 +29085,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.62",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/23/2026 08:30 AM",
+    "Start date": "10/23/2026 08:27 AM",
+    "End date": "10/23/2026 08:30 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4003739,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "23/10/2026 08:27",
+    "ID": "4003739",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84649000000000",
     "Longitude": "-48.52272000000000",
-    "Data início": "23/10/2026 08:22",
-    "Data Fim": "23/10/2026 08:27",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/23/2026",
@@ -24341,16 +29109,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.685",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/23/2026 08:27 AM",
+    "Start date": "10/23/2026 08:22 AM",
+    "End date": "10/23/2026 08:27 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4001675,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "22/10/2026 14:13",
+    "ID": "4001675",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84674000000000",
     "Longitude": "-48.52237000000000",
-    "Data início": "22/10/2026 14:11",
-    "Data Fim": "22/10/2026 14:12",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/22/2026",
@@ -24360,16 +29133,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.2",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/22/2026 02:13 PM",
+    "Start date": "10/22/2026 02:11 PM",
+    "End date": "10/22/2026 02:12 PM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4001674,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "22/10/2026 14:11",
+    "ID": "4001674",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84674000000000",
     "Longitude": "-48.52237000000000",
-    "Data início": "22/10/2026 14:08",
-    "Data Fim": "22/10/2026 14:11",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/22/2026",
@@ -24379,16 +29157,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.19",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/22/2026 02:11 PM",
+    "Start date": "10/22/2026 02:08 PM",
+    "End date": "10/22/2026 02:11 PM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4001673,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "22/10/2026 13:35",
+    "ID": "4001673",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84672000000000",
     "Longitude": "-48.52246000000000",
-    "Data início": "22/10/2026 13:33",
-    "Data Fim": "22/10/2026 13:35",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/22/2026",
@@ -24398,16 +29181,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.52",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/22/2026 01:35 PM",
+    "Start date": "10/22/2026 01:33 PM",
+    "End date": "10/22/2026 01:35 PM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 4001672,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "22/10/2026 13:32",
+    "ID": "4001672",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-20.84672000000000",
     "Longitude": "-48.52246000000000",
-    "Data início": "22/10/2026 13:29",
-    "Data Fim": "22/10/2026 13:32",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/22/2026",
@@ -24417,16 +29205,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.545",
-    "Fazenda": 195403.0
+    "Fazenda": "195403",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/22/2026 01:32 PM",
+    "Start date": "10/22/2026 01:29 PM",
+    "End date": "10/22/2026 01:32 PM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997763,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:55",
+    "ID": "3997763",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10486000000000",
     "Longitude": "-48.38851000000000",
-    "Data início": "21/10/2026 08:54",
-    "Data Fim": "21/10/2026 08:55",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24436,16 +29229,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.575",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:55 AM",
+    "Start date": "10/21/2026 08:54 AM",
+    "End date": "10/21/2026 08:55 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997762,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:54",
+    "ID": "3997762",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10487000000000",
     "Longitude": "-48.38851000000000",
-    "Data início": "21/10/2026 08:54",
-    "Data Fim": "21/10/2026 08:54",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24455,16 +29253,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.48",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:54 AM",
+    "Start date": "10/21/2026 08:54 AM",
+    "End date": "10/21/2026 08:54 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997614,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:54",
+    "ID": "3997614",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10484000000000",
     "Longitude": "-48.38850000000000",
-    "Data início": "21/10/2026 08:53",
-    "Data Fim": "21/10/2026 08:54",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24474,16 +29277,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.48",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:54 AM",
+    "Start date": "10/21/2026 08:53 AM",
+    "End date": "10/21/2026 08:54 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997613,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:53",
+    "ID": "3997613",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10484000000000",
     "Longitude": "-48.38850000000000",
-    "Data início": "21/10/2026 08:52",
-    "Data Fim": "21/10/2026 08:53",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24493,16 +29301,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.575",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:53 AM",
+    "Start date": "10/21/2026 08:52 AM",
+    "End date": "10/21/2026 08:53 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997761,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:23",
+    "ID": "3997761",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10514000000000",
     "Longitude": "-48.38849000000000",
-    "Data início": "21/10/2026 08:22",
-    "Data Fim": "21/10/2026 08:23",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24512,16 +29325,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.04",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:23 AM",
+    "Start date": "10/21/2026 08:22 AM",
+    "End date": "10/21/2026 08:23 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997760,
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:22",
+    "ID": "3997760",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10513000000000",
     "Longitude": "-48.38847000000000",
-    "Data início": "21/10/2026 08:18",
-    "Data Fim": "21/10/2026 08:22",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24531,16 +29349,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.08",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:22 AM",
+    "Start date": "10/21/2026 08:18 AM",
+    "End date": "10/21/2026 08:22 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997612,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:20",
+    "ID": "3997612",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10511000000000",
     "Longitude": "-48.38846000000000",
-    "Data início": "21/10/2026 08:18",
-    "Data Fim": "21/10/2026 08:20",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24550,16 +29373,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.08",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:20 AM",
+    "Start date": "10/21/2026 08:18 AM",
+    "End date": "10/21/2026 08:20 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3997611,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "21/10/2026 08:18",
+    "ID": "3997611",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10511000000000",
     "Longitude": "-48.38846000000000",
-    "Data início": "21/10/2026 08:16",
-    "Data Fim": "21/10/2026 08:18",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/21/2026",
@@ -24569,16 +29397,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.04",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/21/2026 08:18 AM",
+    "Start date": "10/21/2026 08:16 AM",
+    "End date": "10/21/2026 08:18 AM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3995529,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "20/10/2026 13:27",
+    "ID": "3995529",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10546000000000",
     "Longitude": "-48.38986000000000",
-    "Data início": "20/10/2026 13:26",
-    "Data Fim": "20/10/2026 13:27",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/20/2026",
@@ -24588,16 +29421,21 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.265",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/20/2026 01:27 PM",
+    "Start date": "10/20/2026 01:26 PM",
+    "End date": "10/20/2026 01:27 PM",
+    "Unnamed: 17": null
   },
   {
-    "ID": 3995528,
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "20/10/2026 13:26",
+    "ID": "3995528",
+    "Usuário": null,
+    "Data": null,
     "Latitude": "-21.10546000000000",
     "Longitude": "-48.38985000000000",
-    "Data início": "20/10/2026 13:24",
-    "Data Fim": "20/10/2026 13:26",
+    "Data início": null,
+    "Data Fim": null,
     "Status": "Open",
     "Score": "0.00",
     "Data Lançamento": "10/20/2026",
@@ -24607,6 +29445,1691 @@ window.DOSAGEM_RAW_DATA = window.DOSAGEM_SULCO_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.245",
-    "Fazenda": 199802.0
+    "Fazenda": "199802",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "10/20/2026 01:26 PM",
+    "Start date": "10/20/2026 01:24 PM",
+    "End date": "10/20/2026 01:26 PM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3945444",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06216000000000",
+    "Longitude": "-48.46428000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/28/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.99",
+    "Fazenda": "151901",
+    "User": "qualidade5@usinapitangueiras.com.br",
+    "Date": "09/28/2026 08:34 AM",
+    "Start date": "09/28/2026 08:33 AM",
+    "End date": "09/28/2026 08:34 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3945443",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06215000000000",
+    "Longitude": "-48.46428000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/28/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.005",
+    "Fazenda": "151901",
+    "User": "qualidade5@usinapitangueiras.com.br",
+    "Date": "09/28/2026 08:33 AM",
+    "Start date": "09/28/2026 08:32 AM",
+    "End date": "09/28/2026 08:33 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3941337",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06207000000000",
+    "Longitude": "-48.46436000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.68",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 09:36 AM",
+    "Start date": "09/26/2026 09:35 AM",
+    "End date": "09/26/2026 09:36 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3941336",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06207000000000",
+    "Longitude": "-48.46436000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.775",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 09:35 AM",
+    "Start date": "09/26/2026 09:34 AM",
+    "End date": "09/26/2026 09:35 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3941335",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06207000000000",
+    "Longitude": "-48.46436000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.82",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 09:34 AM",
+    "Start date": "09/26/2026 09:32 AM",
+    "End date": "09/26/2026 09:34 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3941334",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06207000000000",
+    "Longitude": "-48.46436000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/26/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.815",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/26/2026 09:32 AM",
+    "Start date": "09/26/2026 09:31 AM",
+    "End date": "09/26/2026 09:32 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938430",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05362000000000",
+    "Longitude": "-48.46734000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.03",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/25/2026 10:38 AM",
+    "Start date": "09/25/2026 10:36 AM",
+    "End date": "09/25/2026 10:38 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938429",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05577000000000",
+    "Longitude": "-48.46478000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.75",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/25/2026 10:36 AM",
+    "Start date": "09/25/2026 10:35 AM",
+    "End date": "09/25/2026 10:36 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938541",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05976000000000",
+    "Longitude": "-48.46417000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.985",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/25/2026 10:34 AM",
+    "Start date": "09/25/2026 10:33 AM",
+    "End date": "09/25/2026 10:34 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938571",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05980000000000",
+    "Longitude": "-48.46420000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.985",
+    "Fazenda": "151901",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/25/2026 10:34 AM",
+    "Start date": "09/25/2026 10:33 AM",
+    "End date": "09/25/2026 10:34 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938540",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05981000000000",
+    "Longitude": "-48.46420000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.805",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/25/2026 10:33 AM",
+    "Start date": "09/25/2026 10:31 AM",
+    "End date": "09/25/2026 10:33 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938570",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.05978000000000",
+    "Longitude": "-48.46417000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.805",
+    "Fazenda": "151901",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/25/2026 10:33 AM",
+    "Start date": "09/25/2026 10:30 AM",
+    "End date": "09/25/2026 10:33 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938500",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.08980000000000",
+    "Longitude": "-48.30905000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "177012",
+    "OS": "3199",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.37",
+    "Fazenda": "177012",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/25/2026 09:45 AM",
+    "Start date": "09/25/2026 09:41 AM",
+    "End date": "09/25/2026 09:45 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938499",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.08981000000000",
+    "Longitude": "-48.30901000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "177012",
+    "OS": "3199",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.37",
+    "Fazenda": "177012",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/25/2026 09:41 AM",
+    "Start date": "09/25/2026 09:37 AM",
+    "End date": "09/25/2026 09:40 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938567",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03750000000000",
+    "Longitude": "-48.46132000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.03",
+    "Fazenda": "151901",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/25/2026 09:41 AM",
+    "Start date": "09/25/2026 09:40 AM",
+    "End date": "09/25/2026 09:41 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3938566",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03750000000000",
+    "Longitude": "-48.46132000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/25/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.75",
+    "Fazenda": "151901",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/25/2026 09:40 AM",
+    "Start date": "09/25/2026 09:35 AM",
+    "End date": "09/25/2026 09:40 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3931245",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84619000000000",
+    "Longitude": "-48.45177000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/22/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.6",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/22/2026 10:02 AM",
+    "Start date": "09/22/2026 09:54 AM",
+    "End date": "09/22/2026 09:56 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3931247",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84619000000000",
+    "Longitude": "-48.45174000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/22/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.785",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/22/2026 10:02 AM",
+    "Start date": "09/22/2026 09:58 AM",
+    "End date": "09/22/2026 10:02 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3927882",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04164000000000",
+    "Longitude": "-48.47033000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.67",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:30 AM",
+    "Start date": "09/21/2026 09:28 AM",
+    "End date": "09/21/2026 09:30 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3927881",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04163000000000",
+    "Longitude": "-48.47031000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.69",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:28 AM",
+    "Start date": "09/21/2026 09:26 AM",
+    "End date": "09/21/2026 09:28 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3927880",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04163000000000",
+    "Longitude": "-48.47031000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.605",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:25 AM",
+    "Start date": "09/21/2026 09:23 AM",
+    "End date": "09/21/2026 09:25 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3928192",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84658000000000",
+    "Longitude": "-48.44794000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.15",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:18 AM",
+    "Start date": "09/21/2026 09:18 AM",
+    "End date": "09/21/2026 09:18 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3928187",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84660000000000",
+    "Longitude": "-48.44796000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "1.975",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/21/2026 09:18 AM",
+    "Start date": "09/21/2026 09:18 AM",
+    "End date": "09/21/2026 09:18 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3927877",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04162000000000",
+    "Longitude": "-48.47020000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.61",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/21/2026 08:57 AM",
+    "Start date": "09/21/2026 08:55 AM",
+    "End date": "09/21/2026 08:57 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3928183",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84652000000000",
+    "Longitude": "-48.44797000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.69",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/21/2026 08:52 AM",
+    "Start date": "09/21/2026 08:52 AM",
+    "End date": "09/21/2026 08:52 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3928179",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84651000000000",
+    "Longitude": "-48.44798000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/21/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "VITOR AMORIM RAMOS ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.845",
+    "Fazenda": "67901",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/21/2026 08:52 AM",
+    "Start date": "09/21/2026 08:50 AM",
+    "End date": "09/21/2026 08:51 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3926046",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84621000000000",
+    "Longitude": "-48.44555000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.66",
+    "Fazenda": "67901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 01:26 PM",
+    "Start date": "09/19/2026 01:25 PM",
+    "End date": "09/19/2026 01:26 PM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3926045",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84621000000000",
+    "Longitude": "-48.44555000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.64",
+    "Fazenda": "67901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 01:25 PM",
+    "Start date": "09/19/2026 01:24 PM",
+    "End date": "09/19/2026 01:25 PM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3926044",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84627000000000",
+    "Longitude": "-48.44781000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.01",
+    "Fazenda": "67901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 01:18 PM",
+    "Start date": "09/19/2026 01:17 PM",
+    "End date": "09/19/2026 01:18 PM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3926043",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84643000000000",
+    "Longitude": "-48.44792000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "67901",
+    "OS": "3056",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.16",
+    "Fazenda": "67901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 01:17 PM",
+    "Start date": "09/19/2026 01:08 PM",
+    "End date": "09/19/2026 01:17 PM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3925298",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04775000000000",
+    "Longitude": "-48.47275000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.765",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 10:54 AM",
+    "Start date": "09/19/2026 10:54 AM",
+    "End date": "09/19/2026 10:54 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3925297",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04775000000000",
+    "Longitude": "-48.47274000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/19/2026",
+    "Local (Fazenda - Talhão)": "151901",
+    "OS": "3103",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.55",
+    "Fazenda": "151901",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/19/2026 10:54 AM",
+    "Start date": "09/19/2026 10:50 AM",
+    "End date": "09/19/2026 10:54 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922604",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04524000000000",
+    "Longitude": "-48.32725000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.015",
+    "Fazenda": "111201",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:58 AM",
+    "Start date": "09/18/2026 09:57 AM",
+    "End date": "09/18/2026 09:58 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922595",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04526000000000",
+    "Longitude": "-48.32734000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.16",
+    "Fazenda": "111201",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:57 AM",
+    "Start date": "09/18/2026 09:55 AM",
+    "End date": "09/18/2026 09:57 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922592",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04523000000000",
+    "Longitude": "-48.32726000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.455",
+    "Fazenda": "111201",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:55 AM",
+    "Start date": "09/18/2026 09:54 AM",
+    "End date": "09/18/2026 09:55 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922587",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04521000000000",
+    "Longitude": "-48.32726000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.87",
+    "Fazenda": "111201",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:54 AM",
+    "Start date": "09/18/2026 09:52 AM",
+    "End date": "09/18/2026 09:54 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922198",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04523000000000",
+    "Longitude": "-48.32721000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.015",
+    "Fazenda": "111201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:36 AM",
+    "Start date": "09/18/2026 09:34 AM",
+    "End date": "09/18/2026 09:36 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922197",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04523000000000",
+    "Longitude": "-48.32721000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.16",
+    "Fazenda": "111201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:34 AM",
+    "Start date": "09/18/2026 09:33 AM",
+    "End date": "09/18/2026 09:34 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922219",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06929000000000",
+    "Longitude": "-48.29181000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "177015",
+    "OS": "3057",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.6",
+    "Fazenda": "177015",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:15 AM",
+    "Start date": "09/18/2026 09:14 AM",
+    "End date": "09/18/2026 09:15 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922218",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06941000000000",
+    "Longitude": "-48.29183000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "177015",
+    "OS": "3057",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.6",
+    "Fazenda": "177015",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:12 AM",
+    "Start date": "09/18/2026 09:11 AM",
+    "End date": "09/18/2026 09:12 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922217",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06938000000000",
+    "Longitude": "-48.29182000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "177015",
+    "OS": "3057",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.6",
+    "Fazenda": "177015",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:05 AM",
+    "Start date": "09/18/2026 09:04 AM",
+    "End date": "09/18/2026 09:05 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922216",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.06937000000000",
+    "Longitude": "-48.29180000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "177015",
+    "OS": "3057",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "4.6",
+    "Fazenda": "177015",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 09:02 AM",
+    "Start date": "09/18/2026 09:02 AM",
+    "End date": "09/18/2026 09:02 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922196",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04524000000000",
+    "Longitude": "-48.32721000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "6.23",
+    "Fazenda": "111201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 08:12 AM",
+    "Start date": "09/18/2026 08:11 AM",
+    "End date": "09/18/2026 08:12 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3922195",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.04524000000000",
+    "Longitude": "-48.32721000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/18/2026",
+    "Local (Fazenda - Talhão)": "111201",
+    "OS": "2986",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "6.235",
+    "Fazenda": "111201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/18/2026 08:11 AM",
+    "Start date": "09/18/2026 08:09 AM",
+    "End date": "09/18/2026 08:11 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3919745",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.13489000000000",
+    "Longitude": "-48.44221000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "142201",
+    "OS": "2987",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "6.22",
+    "Fazenda": "142201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/17/2026 11:13 AM",
+    "Start date": "09/17/2026 11:10 AM",
+    "End date": "09/17/2026 11:12 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3919744",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.13488000000000",
+    "Longitude": "-48.44221000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "142201",
+    "OS": "2987",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "6.265",
+    "Fazenda": "142201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/17/2026 11:12 AM",
+    "Start date": "09/17/2026 11:06 AM",
+    "End date": "09/17/2026 11:10 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3919663",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.13706000000000",
+    "Longitude": "-48.44124000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "142201",
+    "OS": "2987",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.21",
+    "Fazenda": "142201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/17/2026 09:44 AM",
+    "Start date": "09/17/2026 09:43 AM",
+    "End date": "09/17/2026 09:44 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3919661",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.13706000000000",
+    "Longitude": "-48.44124000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "142201",
+    "OS": "2987",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.245",
+    "Fazenda": "142201",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/17/2026 09:42 AM",
+    "Start date": "09/17/2026 09:15 AM",
+    "End date": "09/17/2026 09:39 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3919541",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03084000000000",
+    "Longitude": "-48.26495000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.055",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/17/2026 07:52 AM",
+    "Start date": "09/17/2026 07:49 AM",
+    "End date": "09/17/2026 07:52 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3919540",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03085000000000",
+    "Longitude": "-48.26493000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/17/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/17/2026 07:49 AM",
+    "Start date": "09/17/2026 07:47 AM",
+    "End date": "09/17/2026 07:49 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3917624",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03548000000000",
+    "Longitude": "-48.26293000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/16/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.155",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/16/2026 11:48 AM",
+    "Start date": "09/16/2026 11:42 AM",
+    "End date": "09/16/2026 11:45 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3917602",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-21.03548000000000",
+    "Longitude": "-48.26291000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/16/2026",
+    "Local (Fazenda - Talhão)": "146301",
+    "OS": "2978",
+    "Frente": "135 - FRENTE PEDRINHO",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.135",
+    "Fazenda": "146301",
+    "User": "anabinatto@usinapitangueiras.com.br",
+    "Date": "09/16/2026 11:48 AM",
+    "Start date": "09/16/2026 11:45 AM",
+    "End date": "09/16/2026 11:48 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3914852",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84676000000000",
+    "Longitude": "-48.44773000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/15/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.07",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/15/2026 09:05 AM",
+    "Start date": "09/15/2026 09:03 AM",
+    "End date": "09/15/2026 09:05 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3914851",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84675000000000",
+    "Longitude": "-48.44773000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/15/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.015",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/15/2026 09:02 AM",
+    "Start date": "09/15/2026 09:00 AM",
+    "End date": "09/15/2026 09:02 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3914850",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84652000000000",
+    "Longitude": "-48.44783000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/15/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.8",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/15/2026 08:39 AM",
+    "Start date": "09/15/2026 08:35 AM",
+    "End date": "09/15/2026 08:39 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3914849",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84651000000000",
+    "Longitude": "-48.44784000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/15/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.825",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/15/2026 08:35 AM",
+    "Start date": "09/15/2026 08:30 AM",
+    "End date": "09/15/2026 08:35 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3913398",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84694000000000",
+    "Longitude": "-48.44747000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/14/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.69",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/14/2026 10:41 AM",
+    "Start date": "09/14/2026 10:39 AM",
+    "End date": "09/14/2026 10:41 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3913397",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84694000000000",
+    "Longitude": "-48.44745000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/14/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.71",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/14/2026 10:39 AM",
+    "Start date": "09/14/2026 10:37 AM",
+    "End date": "09/14/2026 10:39 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3913373",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.85273000000000",
+    "Longitude": "-48.44935000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/14/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.04",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/14/2026 09:17 AM",
+    "Start date": "09/14/2026 09:12 AM",
+    "End date": "09/14/2026 09:13 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3913374",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.85272000000000",
+    "Longitude": "-48.44936000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/14/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "MABILA HELEN D FIGUEIREDO",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.135",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/14/2026 09:16 AM",
+    "Start date": "09/14/2026 09:13 AM",
+    "End date": "09/14/2026 09:16 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911970",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84641000000000",
+    "Longitude": "-48.45767000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.46",
+    "Fazenda": "70408",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/12/2026 09:15 AM",
+    "Start date": "09/12/2026 09:15 AM",
+    "End date": "09/12/2026 09:15 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911969",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84640000000000",
+    "Longitude": "-48.45769000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.61",
+    "Fazenda": "70408",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/12/2026 09:15 AM",
+    "Start date": "09/12/2026 09:14 AM",
+    "End date": "09/12/2026 09:15 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911351",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84654000000000",
+    "Longitude": "-48.45772000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.46",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:58 AM",
+    "Start date": "09/12/2026 08:57 AM",
+    "End date": "09/12/2026 08:58 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911350",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84654000000000",
+    "Longitude": "-48.45772000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.61",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:56 AM",
+    "Start date": "09/12/2026 08:53 AM",
+    "End date": "09/12/2026 08:56 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911966",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84648000000000",
+    "Longitude": "-48.45774000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.165",
+    "Fazenda": "70408",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:37 AM",
+    "Start date": "09/12/2026 08:36 AM",
+    "End date": "09/12/2026 08:37 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911965",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84650000000000",
+    "Longitude": "-48.45775000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.16",
+    "Fazenda": "70408",
+    "User": "qualidade9@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:36 AM",
+    "Start date": "09/12/2026 08:33 AM",
+    "End date": "09/12/2026 08:36 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911347",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84650000000000",
+    "Longitude": "-48.45777000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.165",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:34 AM",
+    "Start date": "09/12/2026 08:31 AM",
+    "End date": "09/12/2026 08:34 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "3911346",
+    "Usuário": null,
+    "Data": null,
+    "Latitude": "-20.84661000000000",
+    "Longitude": "-48.45763000000000",
+    "Data início": null,
+    "Data Fim": null,
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "09/12/2026",
+    "Local (Fazenda - Talhão)": "70408",
+    "OS": "2707",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.16",
+    "Fazenda": "70408",
+    "User": "qualidade3@usinapitangueiras.com.br",
+    "Date": "09/12/2026 08:30 AM",
+    "Start date": "09/12/2026 08:07 AM",
+    "End date": "09/12/2026 08:30 AM",
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "4050002",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "14/11/2026 11:06",
+    "Latitude": "-21.02158000000000",
+    "Longitude": "-48.45671000000000",
+    "Data início": "14/11/2026 11:05",
+    "Data Fim": "14/11/2026 11:06",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/14/2026",
+    "Local (Fazenda - Talhão)": "46601",
+    "OS": "3745",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.49",
+    "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "4050001",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "14/11/2026 11:05",
+    "Latitude": "-21.02159000000000",
+    "Longitude": "-48.45671000000000",
+    "Data início": "14/11/2026 11:04",
+    "Data Fim": "14/11/2026 11:05",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/14/2026",
+    "Local (Fazenda - Talhão)": "46601",
+    "OS": "3745",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "3.735",
+    "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
   }
 ];
