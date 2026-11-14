@@ -797,9 +797,9 @@
                         </div>
                         
                         <!-- Data da Última Atualização Recebida (Destaque Principal) -->
-                        <div id="activeDateBadge" class="mt-0.5 sm:mt-1 inline-flex items-center justify-center gap-1 sm:gap-1.5 px-2.5 py-0.5 rounded-full bg-emerald-500/10 dark:bg-emerald-950/40 border border-emerald-500/40 text-[8px] sm:text-[9px] md:text-[10px] font-mono text-emerald-800 dark:text-emerald-300 font-semibold shadow-xs max-w-[95%]">
-                            <i class="fa-solid fa-clock-rotate-left text-emerald-500 text-[8px] sm:text-[9px] shrink-0"></i>
-                            <span id="activeDate" class="truncate font-bold">Última atualização: —</span>
+                        <div id="activeDateBadge" class="mt-0.5 sm:mt-1 inline-flex items-center justify-center gap-1 sm:gap-1.5 px-2 sm:px-2.5 py-0.5 rounded-full bg-emerald-500/10 dark:bg-emerald-950/40 border border-emerald-500/40 text-[7.5px] sm:text-[8.5px] md:text-[9.5px] text-emerald-800 dark:text-emerald-300 font-semibold shadow-xs max-w-[98%]" title="Data da última sincronização">
+                            <i class="fa-solid fa-clock-rotate-left text-emerald-500 text-[7.5px] sm:text-[8.5px] shrink-0"></i>
+                            <span id="activeDate" class="whitespace-nowrap font-medium"><span class="opacity-85 font-sans">Última atualização:</span> <strong class="font-mono font-bold">—</strong></span>
                         </div>
 
                         <!-- Detalhes Operacionais (Operador / ID) -->
@@ -2846,7 +2846,11 @@
                 // Extração inteligente da data da última atualização
                 const sync = extractSyncInfo(node.latest_date);
                 if (activeDate) {
-                    activeDate.innerText = `Última atualização: ${sync.date}`;
+                    activeDate.innerHTML = `<span class="opacity-85 font-sans">Última atualização:</span> <strong class="font-mono font-bold text-emerald-700 dark:text-emerald-300">${sync.date}</strong>`;
+                }
+                const activeDateBadgeEl = document.getElementById('activeDateBadge');
+                if (activeDateBadgeEl) {
+                    activeDateBadgeEl.title = `Última atualização: ${sync.date}${sync.details ? ' • ' + sync.details : ''}`;
                 }
                 const activeDetailsEl = document.getElementById('activeDetails');
                 if (activeDetailsEl) {
