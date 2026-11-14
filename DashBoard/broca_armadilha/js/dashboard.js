@@ -879,9 +879,10 @@
         if (!tbody) return;
 
         tbody.innerHTML = farms.slice(0, 10).map(f => {
-            const percFormatted = (f.participacaoPerc % 1 === 0)
-                ? `${f.participacaoPerc}%`
-                : `${f.participacaoPerc.toFixed(1)}%`;
+            const p = Number(f.percentualNoCriterio ?? f.participacaoPerc) || 0;
+            const percFormatted = (p % 1 === 0)
+                ? `${p}%`
+                : `${p.toFixed(1)}%`;
 
             return `
                 <tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40 transition">
