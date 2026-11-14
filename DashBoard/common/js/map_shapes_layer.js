@@ -285,23 +285,38 @@
             const features = this.geojsonData.features || [];
             const { grid, cols, rows, dLon, dLat, bbox } = this.spatialGrid;
 
+            // Função interna otimizada de Point-in-Polygon (Ray Casting 2D)
+            const isPointInsidePolygon = (pt, geom) => {
+                if (!geom || (geom.type !== 'Polygon' && geom.type !== 'MultiPolygon')) return false;
+                const coordsList = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
+                for (let polyIdx = 0; polyIdx < coordsList.length; polyIdx++) {
+                    const ring = coordsList[polyIdx][0];
+                    if (ring && ring.length > 2) {
+                        const x = pt[0], y = pt[1];
+                        let inside = false;
+                        for (let pi = 0, pj = ring.length - 1; pi < ring.length; pj = pi++) {
+                            const xi = ring[pi][0], yi = ring[pi][1];
+                            const xj = ring[pj][0], yj = ring[pj][1];
+                            const intersect = ((yi > y) !== (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
+                            if (intersect) inside = !inside;
+                        }
+                        if (inside) return true;
+                    }
+                }
+                return false;
+            };
+
             for (let k = 0; k < records.length; k++) {
                 const rec = records[k];
                 const loc = this.parseRecordLocation(rec);
                 if (!loc) continue;
 
                 let matchedIdx = null;
+                let matchType = 'none';
 
-                // 1. Match Alfanumérico Direto (Fazenda > Talhão)
-                if (loc.fazenda && loc.talhao !== null) {
-                    const codeKey = loc.fazenda + '_' + loc.talhao;
-                    if (this.shapesCodeIndex.has(codeKey)) {
-                        matchedIdx = this.shapesCodeIndex.get(codeKey);
-                    }
-                }
-
-                // 2. Match Espacial Rigoroso por GPS com Point-in-Polygon
-                if (matchedIdx === null && loc.lat !== null && loc.lon !== null) {
+                // PRIORIDADE 1: GPS REAL COM POINT-IN-POLYGON (A Verdade Geográfica em Campo)
+                // Se o trator/operador estava fisicamente dentro do contorno do talhão, o shape onde os pontos estão deve ser auditado
+                if (loc.lat !== null && loc.lon !== null) {
                     const c = Math.floor((loc.lon - bbox[0]) / dLon);
                     const r = Math.floor((loc.lat - bbox[1]) / dLat);
                     if (c >= 0 && c < cols && r >= 0 && r < rows) {
@@ -309,44 +324,38 @@
                         for (let i = 0; i < cell.length; i++) {
                             const featIdx = cell[i];
                             const feat = features[featIdx];
-                            const p = feat.properties || {};
-                            
-                            // Se a fazenda do registro foi informada, o talhão DEVE pertencer à mesma fazenda
-                            if (loc.fazenda && p.fazenda && String(p.fazenda).trim() !== String(loc.fazenda).trim()) {
-                                continue;
-                            }
-
                             const b = feat.bbox;
                             if (b && loc.lon >= b[0] && loc.lat >= b[1] && loc.lon <= b[2] && loc.lat <= b[3]) {
-                                // Teste Point-in-Polygon no anel externo para precisão milimétrica
-                                const geom = feat.geometry;
-                                if (geom && (geom.type === 'Polygon' || geom.type === 'MultiPolygon')) {
-                                    const coordsList = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
-                                    let isInside = false;
-                                    for (let polyIdx = 0; polyIdx < coordsList.length; polyIdx++) {
-                                        const ring = coordsList[polyIdx][0];
-                                        if (ring && ring.length > 2) {
-                                            const x = loc.lon, y = loc.lat;
-                                            let inside = false;
-                                            for (let pi = 0, pj = ring.length - 1; pi < ring.length; pj = pi++) {
-                                                const xi = ring[pi][0], yi = ring[pi][1];
-                                                const xj = ring[pj][0], yj = ring[pj][1];
-                                                const intersect = ((yi > y) !== (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
-                                                if (intersect) inside = !inside;
-                                            }
-                                            if (inside) { isInside = true; break; }
-                                        }
-                                    }
-                                    if (isInside) {
-                                        matchedIdx = featIdx;
-                                        break;
-                                    }
-                                } else {
+                                if (isPointInsidePolygon([loc.lon, loc.lat], feat.geometry)) {
                                     matchedIdx = featIdx;
+                                    matchType = 'gps';
                                     break;
                                 }
                             }
                         }
+                    }
+                }
+
+                // PRIORIDADE 2: Fallback Alfanumérico Direto (caso o registro não tenha GPS ou caiu fora de malha)
+                if (matchedIdx === null && loc.fazenda && loc.talhao !== null) {
+                    const codeKey = loc.fazenda + '_' + loc.talhao;
+                    if (this.shapesCodeIndex.has(codeKey)) {
+                        matchedIdx = this.shapesCodeIndex.get(codeKey);
+                        matchType = 'code';
+                    }
+                }
+
+                // Auditoria de Divergência de Cadastro:
+                // Detecta quando o fiscal apontou uma fazenda no formulário mas estava fisicamente em outra
+                if (matchedIdx !== null && matchType === 'gps' && loc.fazenda && loc.talhao !== null) {
+                    const featProps = features[matchedIdx].properties || {};
+                    const declaredKey = loc.fazenda + '_' + loc.talhao;
+                    const realKey = String(featProps.fazenda).trim() + '_' + parseInt(featProps.talhao, 10);
+                    if (declaredKey !== realKey) {
+                        rec._divergenciaCadastro = {
+                            declarado: `Fazenda ${loc.fazenda} > Talhão ${loc.talhao}`,
+                            real: `Fazenda ${featProps.fazenda} (${featProps.nome_faz || ''}) > Talhão ${featProps.talhao}`
+                        };
                     }
                 }
 
