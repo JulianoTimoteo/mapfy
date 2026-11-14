@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
- * Total: 74 registros
- * Atualizado em: 14/11/2026 14:54
+ * Total: 73 registros
+ * Atualizado em: 14/11/2026 14:29
  */
 window.TPL_5S_DATA = [
   {
@@ -2259,37 +2259,6 @@ window.TPL_5S_DATA = [
     "07 - Extintor está válido e carregado?": "OK",
     "Observação": "Frente motobomba 91",
     "Fazenda.1": "281409",
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 22": null
-  },
-  {
-    "ID": "4050537",
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "14/11/2026 14:38",
-    "Latitude": "-20.76051000000000",
-    "Longitude": "-48.62002000000000",
-    "Data início": "14/11/2026 14:38",
-    "Data Fim": "14/11/2026 14:38",
-    "Status": "Open",
-    "Score": "0.00",
-    "Setor": "VINHAÇA",
-    "Fazenda": "34705",
-    "Frente": "57-FRENTE VINHAÇA",
-    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
-    "Operação": "1092-APLIC. VINHAÇA C/ FERTILIZANTE",
-    "01-Área de vivência está em boas condições de organização e limpeza?": "OK",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
-    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
-    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
-    "07 - Extintor está válido e carregado?": "OK",
-    "Observação": "Frente 4 ",
-    "Fazenda.1": "34705",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
     "User": null,
