@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
- * Total: 367 registros
- * Atualizado em: 14/11/2026 15:57
+ * Total: 368 registros
+ * Atualizado em: 16/11/2026 06:20
  */
 window.RAW_INSPECTIONS = [
   {
@@ -15008,6 +15008,47 @@ window.RAW_INSPECTIONS = [
     " Está utilizando fita de Isolamento ": "SIM",
     "Bancos Fixos ": "SIM",
     "Extintor ": "SIM",
+    "Unnamed: 28": null
+  },
+  {
+    "ID": "4052253",
+    "Usuário": "frente1@usinapitangueiras.com.br",
+    "Data": "16/11/2026 06:11",
+    "Latitude": "-21.09724000000000",
+    "Longitude": "-48.25192000000000",
+    "Data início": "16/11/2026 06:05",
+    "Data Fim": "16/11/2026 06:11",
+    "Status": "Open",
+    "Score": "0.00",
+    "Score perc.": "0",
+    "Score desc.": "Baixo",
+    "Responsável": "Fernando",
+    "Turno": "A",
+    "Frente": "14 - FRENTE 14",
+    "Local (Fazenda - Talhão)": "70416",
+    "OBS": null,
+    "Água Potável em temperatura adequada ?": "SIM",
+    "Possui água para higienização ?": "SIM",
+    "Possui papel higiênico e suporte?": "SIM",
+    "Possui papel toalha e suporte ?": "SIM",
+    "Pia e descarga funcionando ?": "SIM",
+    "Limpeza": "BOM",
+    "Possui algum item quebrado ou em falta?": "NÃO",
+    "Está utilizando fita de Isolamento": "SIM",
+    "Está utilizando  cone de Sinalização ?": "SIM",
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "70416",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Responsável ": null,
+    "Turno ": null,
+    " Limpeza": null,
+    " Está utilizando fita de Isolamento ": null,
+    "Bancos Fixos ": null,
+    "Extintor ": null,
     "Unnamed: 28": null
   },
   {
