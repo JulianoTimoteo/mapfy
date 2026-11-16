@@ -757,6 +757,24 @@
 
     // 8. Mapa Geográfico Leaflet
     function initMap() {
+        if (window.PitangueirasMapCore) {
+            state.map = window.PitangueirasMapCore.init({
+                containerId: 'mapContainer',
+                center: [-21.05, -48.33],
+                zoom: 11
+            });
+            const cluster = window.PitangueirasMapCore.getCluster();
+            state.markersLayer = cluster;
+            state.markerCluster = cluster;
+            window.PitangueirasMapCore.setFilterChangeCallback((syncWithGlobal, range) => {
+                state.mapSyncWithGlobal = syncWithGlobal;
+                state.mapRange = range;
+                if (typeof updateMap === "function") updateMap();
+            });
+            return;
+        }
+
+
         const mapContainer = document.getElementById('mapContainer') || document.getElementById('mapSubsolagem') || document.getElementById('mapDosagem');
         if (!mapContainer) return;
 
@@ -823,10 +841,10 @@ const validCoords = mapRecords.filter(r => r.hasValidCoords);
 
             marker.bindPopup(`
                 <div class="text-xs space-y-1 font-sans">
-                    <div class="font-bold text-sm text-slate-800">#${r.id} • ${r.frente}</div>
-                    <div class="text-slate-600">OS: <strong>${r.os}</strong> | Talhão: ${r.local}</div>
-                    <div class="text-slate-600">Inspetor: ${r.responsavel}</div>
-                    <div class="text-slate-600">Data: ${r.dataStr}</div>
+                    <div class="font-bold text-sm">#${r.id} • ${r.frente}</div>
+                    <div >OS: <strong>${r.os}</strong> | Talhão: ${r.local}</div>
+                    <div >Inspetor: ${r.responsavel}</div>
+                    <div >Data: ${r.dataStr}</div>
                     <div class="pt-1 mt-1 border-t text-sm font-bold" style="color: ${cls.color};">
                         Medição: ${r.profundidade} ${state.targetConfig.unidade} (${cls.status})
                     </div>
@@ -1131,6 +1149,9 @@ const validCoords = mapRecords.filter(r => r.hasValidCoords);
 
     // Controle do Filtro Autônomo do Mapa (Geolocalização das Medições em Campo)
     function initMapFilter() {
+        // Gerenciado com exclusividade pelo motor central unificado
+        if (window.PitangueirasMapCore) return;
+
         const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
         const mapSyncIcon = document.getElementById('mapSyncIcon');
         const mapSyncText = document.getElementById('mapSyncText');

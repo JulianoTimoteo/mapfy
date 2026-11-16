@@ -188,28 +188,116 @@ body {
     background: #10b981;
 }
 
-/* Regras de Impressão Executiva (A4 / PDF) */
+/* ========================================================================= */
+/* SUPORTE A IMPRESSÃO E EXPORTAÇÃO PDF ULTRA-HD (300 DPI - SAFRA 2026)      */
+/* ========================================================================= */
+@page {
+    size: A4 landscape;
+    margin: 8mm 8mm 10mm 8mm;
+}
+
 @media print {
-    body {
-        background: #ffffff !important;
-        color: #0f172a !important;
-        font-size: 10pt;
+    /* Força renderização cromática exata em gráficos e backgrounds */
+    *, *:before, *:after {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+        color-adjust: exact !important;
     }
-    header, #filterSection, #mapContainer, #pageControls, .no-print, button {
+
+    /* Força Tema Executivo Preto no Branco para Impressão Perfeita */
+    :root, html, body, html.dark, body.dark {
+        --bg-main: #ffffff !important;
+        --bg-card: #ffffff !important;
+        --bg-kpi: #f8fafc !important;
+        --text-primary: #000000 !important;
+        --text-secondary: #0f172a !important;
+        --text-muted: #334155 !important;
+        --border-color: #cbd5e1 !important;
+        background: #ffffff !important;
+        color: #000000 !important;
+        font-size: 10pt !important;
+    }
+
+    /* Oculta elementos puramente interativos de navegação e filtros */
+    header,
+    nav,
+    .btn-mandala,
+    #themeToggleBtn,
+    #themeToggleBtnToolbar,
+    .btn-toolbar-action,
+    #filterSection,
+    #pageControls,
+    .mobile-filter-summary-bar,
+    .btn-toggle-filters-mobile,
+    button,
+    .leaflet-control-zoom,
+    .leaflet-control-layers,
+    .leaflet-control-attribution,
+    .no-print {
         display: none !important;
     }
-    .print-only {
-        display: block !important;
+
+    /* Cabeçalho Executivo Exclusivo para o PDF */
+    .print-executive-header {
+        display: flex !important;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 8px;
+        margin-bottom: 12px;
+        border-bottom: 2px solid #059669 !important;
     }
-    .max-w-7xl {
+
+    /* Container Principal sem margens mortas */
+    .max-w-7xl, main {
         max-width: 100% !important;
         padding: 0 !important;
         margin: 0 !important;
+        width: 100% !important;
     }
-    section, .p-5, .p-4 {
+
+    /* Prevenção de quebra de página no meio de cards e gráficos */
+    .kpi-card,
+    .chart-card,
+    #chartEvolutionCard,
+    section,
+    .p-5,
+    .p-4,
+    table,
+    tr {
+        break-inside: avoid !important;
+        page-break-inside: avoid !important;
+    }
+
+    /* Bordas nítidas para impressão técnica */
+    .border {
+        border-color: #cbd5e1 !important;
         box-shadow: none !important;
+    }
+
+    /* Exibição nítida do mapa em formato fixo para PDF */
+    #mapContainer {
+        display: block !important;
+        height: 280px !important;
+        width: 100% !important;
         border: 1px solid #cbd5e1 !important;
-        page-break-inside: avoid;
+        border-radius: 8px !important;
+        break-inside: avoid !important;
+        page-break-inside: avoid !important;
+    }
+
+    /* Otimização de nitidez em canvas e gráficos */
+    canvas, img {
+        image-rendering: -webkit-optimize-contrast !important;
+        image-rendering: crisp-edges !important;
+        max-width: 100% !important;
+    }
+
+    /* Tabelas com cabeçalho repetido */
+    thead {
+        display: table-header-group !important;
+    }
+    tfoot {
+        display: table-footer-group !important;
     }
 }
 
@@ -326,4 +414,78 @@ body {
     .mobile-floating-filter-btn {
         display: none !important;
     }
+}
+
+
+/* ==========================================================================
+   POPUP DO MAPA LEAFLET - REGRA MANDATÓRIA: SEM CINZA!
+   Branco Puro (#FFFFFF) no Modo Escuro | Preto Puro (#000000) no Modo Claro
+   ========================================================================== */
+.leaflet-popup-content-wrapper {
+    background: #090d16 !important;
+    color: #ffffff !important;
+    border: 1px solid #1e293b !important;
+    border-radius: 10px !important;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.7) !important;
+}
+
+.leaflet-popup-tip {
+    background: #090d16 !important;
+}
+
+.leaflet-popup-content {
+    color: #ffffff !important;
+    font-size: 12px !important;
+    line-height: 1.45 !important;
+    margin: 12px 14px !important;
+}
+
+.leaflet-popup-content div,
+.leaflet-popup-content p,
+.leaflet-popup-content span,
+.leaflet-popup-content b,
+.leaflet-popup-content strong {
+    color: #ffffff !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    color: #ffffff !important;
+    padding: 6px 8px !important;
+    font-size: 16px !important;
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+    color: #10b981 !important;
+}
+
+/* Modo Claro: Fundo Branco Absoluto, Escrita 100% Preta */
+html:not(.dark) .leaflet-popup-content-wrapper {
+    background: #ffffff !important;
+    color: #000000 !important;
+    border: 1px solid #cbd5e1 !important;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15) !important;
+}
+
+html:not(.dark) .leaflet-popup-tip {
+    background: #ffffff !important;
+}
+
+html:not(.dark) .leaflet-popup-content {
+    color: #000000 !important;
+}
+
+html:not(.dark) .leaflet-popup-content div,
+html:not(.dark) .leaflet-popup-content p,
+html:not(.dark) .leaflet-popup-content span,
+html:not(.dark) .leaflet-popup-content b,
+html:not(.dark) .leaflet-popup-content strong {
+    color: #000000 !important;
+}
+
+html:not(.dark) .leaflet-container a.leaflet-popup-close-button {
+    color: #000000 !important;
+}
+
+html:not(.dark) .leaflet-container a.leaflet-popup-close-button:hover {
+    color: #059669 !important;
 }

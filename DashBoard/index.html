@@ -375,6 +375,61 @@
     }
 }
 
+/* Órbita Retangular de Precisão Cirúrgica para os Cards do Grid Executivo */
+.grid-item .node-comet-orbit,
+.exec-card .node-comet-orbit {
+    position: absolute;
+    inset: -1.5px;
+    width: calc(100% + 3px);
+    height: calc(100% + 3px);
+    border-radius: 17.5px;
+    pointer-events: none;
+    z-index: 40;
+    overflow: visible;
+}
+
+.grid-item .node-comet-orbit .comet-svg,
+.exec-card .node-comet-orbit .comet-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
+
+.grid-item .node-comet-orbit .comet-track,
+.exec-card .node-comet-orbit .comet-track {
+    fill: none;
+    stroke: rgba(16, 185, 129, 0.16);
+    stroke-width: 2px;
+}
+
+.grid-item .node-comet-orbit .tron-trail,
+.exec-card .node-comet-orbit .tron-trail {
+    fill: none;
+    stroke: #10b981;
+    stroke-width: 2.6px;
+    stroke-linecap: round;
+    stroke-dasharray: 22 78;
+    stroke-dashoffset: 0;
+    opacity: 0.95;
+    filter: drop-shadow(0 0 6px #10b981) drop-shadow(0 0 12px rgba(16, 185, 129, 0.55));
+    animation: tronLaserSpin 2.4s linear infinite;
+}
+
+.grid-item .node-comet-orbit .tron-core,
+.exec-card .node-comet-orbit .tron-core {
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 1.4px;
+    stroke-linecap: round;
+    stroke-dasharray: 7 93;
+    stroke-dashoffset: 0;
+    filter: drop-shadow(0 0 4px #ffffff);
+    animation: tronLaserSpin 2.4s linear infinite;
+}
+
 /* Destaque suave no card atualizado */
 .mandala-node.has-comet-update .node-disc,
 .grid-item.has-comet-update {
@@ -503,30 +558,98 @@
             -moz-osx-font-smoothing: grayscale;
         }
 
+        /* =========================================================================
+           DESIGN SYSTEM EXECUTIVO: CARDS OPERACIONAIS CONSOLIDADOS (HIGH FIDELITY)
+           ========================================================================= */
         .exec-card {
-            border-radius: 14px;
-            border: 1.5px solid var(--border-color);
-            background: var(--card-bg);
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            border-radius: 16px !important;
+            border: 1px solid rgba(255, 255, 255, 0.09) !important;
+            background: linear-gradient(155deg, rgba(30, 41, 59, 0.72) 0%, rgba(15, 23, 42, 0.88) 100%) !important;
+            backdrop-filter: blur(14px);
+            -webkit-backdrop-filter: blur(14px);
+            transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1), 
+                        box-shadow 0.22s cubic-bezier(0.16, 1, 0.3, 1), 
+                        border-color 0.22s ease !important;
             position: relative;
             cursor: pointer;
-            box-shadow: var(--node-shadow);
+            box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.40), inset 0 1px 0 0 rgba(255, 255, 255, 0.12) !important;
+            overflow: visible;
+        }
+
+        html:not(.dark) .exec-card {
+            border: 1px solid rgba(203, 213, 225, 0.90) !important;
+            background: linear-gradient(155deg, rgba(255, 255, 255, 0.98) 0%, rgba(241, 245, 249, 0.92) 100%) !important;
+            box-shadow: 0 4px 18px -2px rgba(0, 0, 0, 0.06), inset 0 1px 0 0 rgba(255, 255, 255, 1) !important;
+        }
+
+        .exec-card:hover {
+            transform: translateY(-3px) scale(1.01);
+            border-color: rgba(16, 185, 129, 0.60) !important;
+            box-shadow: 0 16px 32px -4px rgba(0, 0, 0, 0.50), 
+                        0 0 24px rgba(16, 185, 129, 0.16), 
+                        inset 0 1px 0 0 rgba(16, 185, 129, 0.35) !important;
+        }
+
+        html:not(.dark) .exec-card:hover {
+            transform: translateY(-3px) scale(1.01);
+            border-color: rgba(16, 185, 129, 0.65) !important;
+            box-shadow: 0 12px 28px -4px rgba(16, 185, 129, 0.15), 
+                        inset 0 1px 0 0 rgba(255, 255, 255, 1) !important;
         }
 
         .exec-card:active {
-            transform: scale(0.96);
-            opacity: 0.90;
+            transform: translateY(-1px) scale(0.98);
+            opacity: 0.92;
+        }
+
+        /* Pedestal Tecnológico do Ícone Central */
+        .exec-card .w-full.py-1 > div {
+            width: 50px !important;
+            height: 50px !important;
+            border-radius: 13px !important;
+            background: rgba(148, 163, 184, 0.05) !important;
+            border: 1px solid rgba(148, 163, 184, 0.14) !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            padding: 7px !important;
+            margin: 2px auto 4px auto !important;
+            transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+            box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.06) !important;
+        }
+
+        .exec-card:hover .w-full.py-1 > div {
+            background: rgba(16, 185, 129, 0.12) !important;
+            border-color: rgba(16, 185, 129, 0.40) !important;
+            transform: scale(1.08) !important;
+            box-shadow: 0 0 18px rgba(16, 185, 129, 0.25), inset 0 1px 0 0 rgba(16, 185, 129, 0.30) !important;
+        }
+
+        /* Tipografia de Alta Precisão nos Títulos e Rodapés */
+        .exec-card h3 {
+            font-family: 'Plus Jakarta Sans', sans-serif !important;
+            letter-spacing: -0.01em !important;
+            line-height: 1.25 !important;
+        }
+
+        .exec-card .border-t {
+            border-color: rgba(148, 163, 184, 0.12) !important;
         }
 
         /* Estados das Bordas Inteligentes no Card Executivo */
         .exec-card.is-visited {
             border-color: #38bdf8 !important;
-            box-shadow: 0 0 12px rgba(56, 189, 248, 0.25) !important;
+            box-shadow: 0 0 16px rgba(56, 189, 248, 0.35), inset 0 1px 0 0 rgba(56, 189, 248, 0.40) !important;
         }
 
         .exec-card.is-recent-visited {
             border-color: #f97316 !important;
-            box-shadow: 0 0 16px rgba(249, 115, 22, 0.45) !important;
+            box-shadow: 0 0 20px rgba(249, 115, 22, 0.45), inset 0 1px 0 0 rgba(249, 115, 22, 0.50) !important;
+        }
+
+        .exec-card.has-comet-update {
+            border-color: rgba(16, 185, 129, 0.95) !important;
+            box-shadow: 0 0 24px rgba(16, 185, 129, 0.45), inset 0 1px 0 0 rgba(16, 185, 129, 0.50) !important;
         }
 
         /* Bottom Drawer / Sheet para o Modal em Celulares */
@@ -894,7 +1017,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-folder="Plantio - 03.1 - Preparo de Solo - Subsolagem"
              data-cat="Preparo de Solo"
              data-rows="367"
-             data-date="09/09/2026"
+             data-date="16/11/2026"
              data-cols="18"
              data-url="subsolagem/index.html"
              data-recent="false"
@@ -933,8 +1056,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 03.1 - Preparo de Solo - Canteirização"
              data-folder="Plantio - 03.1 - Preparo de Solo - Canteirização"
              data-cat="Preparo de Solo"
-             data-rows="403"
-             data-date="27/10/2026"
+             data-rows="414"
+             data-date="16/11/2026"
              data-cols="18"
              data-url="canteirizacao/index.html"
              data-recent="true"
@@ -973,8 +1096,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 05 - Sulcação"
              data-folder="Plantio - 05 - Sulcação"
              data-cat="Operação de Plantio"
-             data-rows="2835"
-             data-date="27/10/2026"
+             data-rows="2857"
+             data-date="16/11/2026"
              data-cols="16"
              data-url="sulcacao/index.html"
              data-recent="true"
@@ -1017,8 +1140,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 04 - Dosagem de Produto - Sulcação"
              data-folder="Plantio - 04 - Dosagem de Produto - Sulcação"
              data-cat="Operação de Plantio"
-             data-rows="1289"
-             data-date="27/10/2026"
+             data-rows="1297"
+             data-date="16/11/2026"
              data-cols="17"
              data-url="dosagem_sulco/index.html"
              data-recent="true"
@@ -1064,8 +1187,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 06 - Abertura da Asa"
              data-folder="Plantio - 06 - Abertura da Asa"
              data-cat="Operação de Plantio"
-             data-rows="979"
-             data-date="26/09/2026"
+             data-rows="985"
+             data-date="16/11/2026"
              data-cols="16"
              data-url="abertura_asa/index.html"
              data-recent="false"
@@ -1106,8 +1229,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 07 - Paralelismo"
              data-folder="Plantio - 07 - Paralelismo"
              data-cat="Agricultura de Precisão"
-             data-rows="2454"
-             data-date="28/09/2026"
+             data-rows="2467"
+             data-date="16/11/2026"
              data-cols="16"
              data-url="paralelismo/index.html"
              data-recent="false"
@@ -1149,8 +1272,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 08 - Qualidade da muda"
              data-folder="Plantio - 08 - Qualidade da muda"
              data-cat="Material Genético"
-             data-rows="2722"
-             data-date="27/10/2026"
+             data-rows="2744"
+             data-date="16/11/2026"
              data-cols="19"
              data-url="qualidade_muda/index.html"
              data-recent="true"
@@ -1189,8 +1312,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 09 - Quantidade de Gemas"
              data-folder="Plantio - 09 - Quantidade de Gemas"
              data-cat="Amostragem de Campo"
-             data-rows="2720"
-             data-date="27/10/2026"
+             data-rows="2742"
+             data-date="16/11/2026"
              data-cols="20"
              data-url="viabilidade_gemas/index.html"
              data-recent="true"
@@ -1231,8 +1354,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 10 - Quantidade de Cana"
              data-folder="Plantio - 10 - Quantidade de Cana"
              data-cat="Consumo de Muda"
-             data-rows="2591"
-             data-date="27/10/2026"
+             data-rows="2613"
+             data-date="16/11/2026"
              data-cols="19"
              data-url="qualidade_cana/index.html"
              data-recent="true"
@@ -1272,8 +1395,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 11 - Dosagem de Produto - Cobrição"
              data-folder="Plantio - 11 - Dosagem de Produto - Cobrição"
              data-cat="Proteção de Cultivo"
-             data-rows="927"
-             data-date="27/10/2026"
+             data-rows="933"
+             data-date="16/11/2026"
              data-cols="16"
              data-url="dosagem_cobricao/index.html"
              data-recent="true"
@@ -1319,8 +1442,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 12 - Cobrição"
              data-folder="Plantio - 12 - Cobrição"
              data-cat="Operação de Plantio"
-             data-rows="2033"
-             data-date="27/10/2026"
+             data-rows="2051"
+             data-date="16/11/2026"
              data-cols="16"
              data-url="cobricao/index.html"
              data-recent="true"
@@ -1358,8 +1481,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Plantio - 13 - Arremate e Acabamento"
              data-folder="Plantio - 13 - Arremate e Acabamento"
              data-cat="Acabamento Operacional"
-             data-rows="809"
-             data-date="27/10/2026"
+             data-rows="817"
+             data-date="16/11/2026"
              data-cols="18"
              data-url="arremate_acabamento/index.html"
              data-recent="true"
@@ -1399,8 +1522,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Tratos - Herbicida"
              data-folder="Tratos - Herbicida"
              data-cat="Tratos Culturais"
-             data-rows="38"
-             data-date="20/10/2026"
+             data-rows="33"
+             data-date="16/11/2026"
              data-cols="25"
              data-url="herbicida/index.html"
              data-recent="false"
@@ -1441,7 +1564,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-folder="Infestação de Broca - Armadilha"
              data-cat="Fitossanidade"
              data-rows="116"
-             data-date="30/09/2026"
+             data-date="16/11/2026"
              data-cols="14"
              data-url="broca_armadilha/index.html"
              data-recent="false"
@@ -1486,7 +1609,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="CHECK LIST VEICULAR"
              data-folder="CHECK LIST VEICULAR"
              data-cat="Frotas & Logística"
-             data-rows="1277" data-date="13/11/2026"
+             data-rows="1277" data-date="16/11/2026"
              data-cols="22"
              data-url="checklist_veicular/index.html"
              data-recent="true"
@@ -1538,8 +1661,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="Check-list área de vivência _ Colheita"
              data-folder="#Check-list área de vivência _ Colheita"
              data-cat="SSOMA & Segurança"
-             data-rows="358"
-             data-date="27/10/2026"
+             data-rows="368"
+             data-date="16/11/2026"
              data-cols="28"
              data-url="area_vivencia/index.html"
              data-recent="true"
@@ -1572,8 +1695,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
              data-name="5S e Gestão - TPL"
              data-folder="5S e Gestão - TPL"
              data-cat="Gestão & Qualidade"
-             data-rows="218"
-             data-date="27/10/2026"
+             data-rows="74"
+             data-date="16/11/2026"
              data-cols="22"
              data-url="tpl_5s/index.html"
              data-recent="true"
@@ -1819,7 +1942,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="subsolagem plantio - 03.1 - preparo de solo - subsolagem preparo de solo etapa 01"
                          data-cat="preparo"
                          data-folder="Plantio - 03.1 - Preparo de Solo - Subsolagem"
-                         data-index="0"
+                         data-index="0" data-rows="367" data-date="16/11/2026"
                          onclick="handleNodeClick(0, 'subsolagem/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -1854,7 +1977,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
                                 <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">367 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">09/09</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -1865,7 +1988,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="canteirização plantio - 03.1 - preparo de solo - canteirização preparo de solo etapa 02"
                          data-cat="preparo"
                          data-folder="Plantio - 03.1 - Preparo de Solo - Canteirização"
-                         data-index="1"
+                         data-index="1" data-rows="414" data-date="16/11/2026"
                          onclick="handleNodeClick(1, 'canteirizacao/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -1899,8 +2022,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">389 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">414 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -1925,7 +2048,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="sulcação técnica plantio - 05 - sulcação operação de plantio etapa 03"
                          data-cat="plantio"
                          data-folder="Plantio - 05 - Sulcação"
-                         data-index="2"
+                         data-index="2" data-rows="2857" data-date="16/11/2026"
                          onclick="handleNodeClick(2, 'sulcacao/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -1963,8 +2086,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.820 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.857 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -1975,7 +2098,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="dosagem no sulco plantio - 04 - dosagem de produto - sulcação operação de plantio etapa 04"
                          data-cat="plantio"
                          data-folder="Plantio - 04 - Dosagem de Produto - Sulcação"
-                         data-index="3"
+                         data-index="3" data-rows="1297" data-date="16/11/2026"
                          onclick="handleNodeClick(3, 'dosagem_sulco/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2016,8 +2139,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">1.279 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">1.297 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2028,7 +2151,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="abertura da asa plantio - 06 - abertura da asa operação de plantio etapa 05"
                          data-cat="plantio"
                          data-folder="Plantio - 06 - Abertura da Asa"
-                         data-index="4"
+                         data-index="4" data-rows="985" data-date="16/11/2026"
                          onclick="handleNodeClick(4, 'abertura_asa/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2064,8 +2187,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">979 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">26/09</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">985 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2076,7 +2199,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="paralelismo gnss plantio - 07 - paralelismo operação de plantio etapa 06"
                          data-cat="plantio"
                          data-folder="Plantio - 07 - Paralelismo"
-                         data-index="5"
+                         data-index="5" data-rows="2467" data-date="16/11/2026"
                          onclick="handleNodeClick(5, 'paralelismo/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2113,8 +2236,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.453 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">28/09</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.467 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2139,7 +2262,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="qualidade da muda plantio - 08 - qualidade da muda qualidade & cobrição etapa 07"
                          data-cat="qualidade"
                          data-folder="Plantio - 08 - Qualidade da muda"
-                         data-index="6"
+                         data-index="6" data-rows="2744" data-date="16/11/2026"
                          onclick="handleNodeClick(6, 'qualidade_muda/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2173,8 +2296,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.710 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.744 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2185,7 +2308,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="viabilidade de gemas plantio - 09 - quantidade de gemas qualidade & cobrição etapa 08"
                          data-cat="qualidade"
                          data-folder="Plantio - 09 - Quantidade de Gemas"
-                         data-index="7"
+                         data-index="7" data-rows="2742" data-date="16/11/2026"
                          onclick="handleNodeClick(7, 'viabilidade_gemas/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2221,8 +2344,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.708 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.742 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2233,7 +2356,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="quantidade de cana plantio - 10 - quantidade de cana qualidade & cobrição etapa 09"
                          data-cat="qualidade"
                          data-folder="Plantio - 10 - Quantidade de Cana"
-                         data-index="8"
+                         data-index="8" data-rows="2613" data-date="16/11/2026"
                          onclick="handleNodeClick(8, 'qualidade_cana/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2268,8 +2391,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.579 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.613 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2280,7 +2403,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="dosagem na cobrição plantio - 11 - dosagem de produto - cobrição qualidade & cobrição etapa 10"
                          data-cat="qualidade"
                          data-folder="Plantio - 11 - Dosagem de Produto - Cobrição"
-                         data-index="9"
+                         data-index="9" data-rows="933" data-date="16/11/2026"
                          onclick="handleNodeClick(9, 'dosagem_cobricao/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2321,8 +2444,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">925 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">933 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2333,7 +2456,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="cobrição do sulco plantio - 12 - cobrição qualidade & cobrição etapa 11"
                          data-cat="qualidade"
                          data-folder="Plantio - 12 - Cobrição"
-                         data-index="10"
+                         data-index="10" data-rows="2051" data-date="16/11/2026"
                          onclick="handleNodeClick(10, 'cobricao/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2366,8 +2489,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.020 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">2.051 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2378,7 +2501,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="arremate & acabamento plantio - 13 - arremate e acabamento qualidade & cobrição etapa 12"
                          data-cat="qualidade"
                          data-folder="Plantio - 13 - Arremate e Acabamento"
-                         data-index="11"
+                         data-index="11" data-rows="817" data-date="16/11/2026"
                          onclick="handleNodeClick(11, 'arremate_acabamento/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2413,8 +2536,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">807 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">817 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2439,7 +2562,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="aplicação de herbicida tratos - herbicida tratos & fitossanidade etapa 13"
                          data-cat="tratos"
                          data-folder="Tratos - Herbicida"
-                         data-index="12"
+                         data-index="12" data-rows="33" data-date="16/11/2026"
                          onclick="handleNodeClick(12, 'herbicida/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2474,8 +2597,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">30 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">20/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">33 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2486,7 +2609,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="infestação de broca infestação de broca - armadilha tratos & fitossanidade etapa 14"
                          data-cat="tratos"
                          data-folder="Infestação de Broca - Armadilha"
-                         data-index="13"
+                         data-index="13" data-rows="116" data-date="16/11/2026"
                          onclick="handleNodeClick(13, 'broca_armadilha/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2527,7 +2650,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
                                 <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">116 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">30/09</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2552,7 +2675,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="checklist veicular check list veicular ssoma & gestão etapa 15"
                          data-cat="ssoma"
                          data-folder="CHECK LIST VEICULAR"
-                         data-index="14"
+                         data-index="14" data-rows="1277" data-date="16/11/2026"
                          onclick="handleNodeClick(14, 'checklist_veicular/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2599,8 +2722,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">1.207 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">1.277 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2611,7 +2734,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="área de vivência #check-list área de vivência _ colheita ssoma & gestão etapa 16"
                          data-cat="ssoma"
                          data-folder="#Check-list área de vivência _ Colheita"
-                         data-index="15"
+                         data-index="15" data-rows="368" data-date="16/11/2026"
                          onclick="handleNodeClick(15, 'area_vivencia/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2639,8 +2762,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">347 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">368 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2651,7 +2774,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                          data-name="5s & gestão tpl 5s e gestão - tpl ssoma & gestão etapa 17"
                          data-cat="ssoma"
                          data-folder="5S e Gestão - TPL"
-                         data-index="16"
+                         data-index="16" data-rows="74" data-date="16/11/2026"
                          onclick="handleNodeClick(16, 'tpl_5s/index.html')">
                         
                         <!-- Topo: Número da Etapa + Status da Borda -->
@@ -2688,8 +2811,8 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                             <!-- Rodapé do Card: Registros em Verde Esmeralda + Data -->
                             <div class="mt-2 pt-1.5 border-t w-full flex items-center justify-between text-[11px] font-mono"
                                  style="border-color: var(--border-color);">
-                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">171 reg.</span>
-                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">27/10</span>
+                                <span class="font-bold text-emerald-600 dark:text-emerald-400 tracking-tight">74 reg.</span>
+                                <span class="text-[10px] opacity-70" style="color: var(--text-secondary);">16/11</span>
                             </div>
                         </div>
                     </div>
@@ -2751,7 +2874,7 @@ html.dark .mandala-node.is-recent-visited .badge-index {
 
     <!-- SCRIPTS DE INTERATIVIDADE -->
     <script>
-        const formsData = [{"folder":"Plantio - 03.1 - Preparo de Solo - Subsolagem","clean_name":"Plantio - 03.1 - Preparo de Solo - Subsolagem","rows":367,"cols_count":18,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Subsolagem","Unnamed: 17"],"latest_date":"01/10/2026","size_kb":88.2,"category":"Preparo de Solo","color":"#92400e","bg":"#fff7ed","border":"#fed7aa"},{"folder":"Plantio - 03.1 - Preparo de Solo - Canteirização","clean_name":"Plantio - 03.1 - Preparo de Solo - Canteirização","rows":403,"cols_count":18,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Canteirização","Unnamed: 17"],"latest_date":"29/10/2026","size_kb":88.4,"category":"Preparo de Solo","color":"#b45309","bg":"#fffbeb","border":"#fde68a"},{"folder":"Plantio - 05 - Sulcação","clean_name":"Plantio - 05 - Sulcação","rows":2835,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Responsável","Local (Fazenda - Talhão)","OS","Frente","Profundidade do Sulco","Unnamed: 15"],"latest_date":"30/10/2026","size_kb":626.9,"category":"Operação de Plantio","color":"#65a30d","bg":"#f7fee7","border":"#d9f99d"},{"folder":"Plantio - 04 - Dosagem de Produto - Sulcação","clean_name":"Plantio - 04 - Dosagem de Produto - Sulcação","rows":1289,"cols_count":17,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Produto","Dosagem de Produto - Sulcação","Unnamed: 16"],"latest_date":"29/10/2026","size_kb":293.9,"category":"Operação de Plantio","color":"#0284c7","bg":"#f0f9ff","border":"#bae6fd"},{"folder":"Plantio - 06 - Abertura da Asa","clean_name":"Plantio - 06 - Abertura da Asa","rows":979,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Abertura da Asa","Unnamed: 15"],"latest_date":"28/09/2026","size_kb":216.5,"category":"Operação de Plantio","color":"#ea580c","bg":"#fff7ed","border":"#fed7aa"},{"folder":"Plantio - 07 - Paralelismo","clean_name":"Plantio - 07 - Paralelismo","rows":2454,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Paralelismo","Unnamed: 15"],"latest_date":"29/09/2026","size_kb":545.6,"category":"Agricultura de Precisão","color":"#2563eb","bg":"#eff6ff","border":"#bfdbfe"},{"folder":"Plantio - 08 - Qualidade da muda","clean_name":"Plantio - 08 - Qualidade da muda","rows":2722,"cols_count":19,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Qualidade da Muda","Observações ","Unnamed: 18"],"latest_date":"30/10/2026","size_kb":647.8,"category":"Material Genético","color":"#16a34a","bg":"#f0fdf4","border":"#bbf7d0"},{"folder":"Plantio - 09 - Quantidade de Gemas","clean_name":"Plantio - 09 - Quantidade de Gemas","rows":2720,"cols_count":20,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","Frente","OS","Responsável","Quantidade de Gemas Total","Quantidade de Gemas Viáveis","Quantidade de Gemas Inviáveis","Unnamed: 19"],"latest_date":"30/10/2026","size_kb":652.1,"category":"Amostragem de Campo","color":"#15803d","bg":"#f0fdf4","border":"#bbf7d0"},{"folder":"Plantio - 10 - Quantidade de Cana","clean_name":"Plantio - 10 - Quantidade de Cana","rows":2591,"cols_count":19,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Quantidade de Cana","Observações ","Unnamed: 18"],"latest_date":"30/10/2026","size_kb":614.3,"category":"Consumo de Muda","color":"#ca8a04","bg":"#fefce8","border":"#fef08a"},{"folder":"Plantio - 11 - Dosagem de Produto - Cobrição","clean_name":"Plantio - 11 - Dosagem de Produto - Cobrição","rows":927,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Dosagem de Produto - Cobrição","Unnamed: 15"],"latest_date":"31/10/2026","size_kb":205.4,"category":"Proteção de Cultivo","color":"#4f46e5","bg":"#eef2ff","border":"#c7d2fe"},{"folder":"Plantio - 12 - Cobrição","clean_name":"Plantio - 12 - Cobrição","rows":2033,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Profundidade de Cobrição","Unnamed: 15"],"latest_date":"31/10/2026","size_kb":446.8,"category":"Operação de Plantio","color":"#78350f","bg":"#fff7ed","border":"#fed7aa"},{"folder":"Plantio - 13 - Arremate e Acabamento","clean_name":"Plantio - 13 - Arremate e Acabamento","rows":809,"cols_count":18,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Arremate e Acabamento","Unnamed: 17"],"latest_date":"30/10/2026","size_kb":191.9,"category":"Acabamento Operacional","color":"#475569","bg":"#f8fafc","border":"#cbd5e1"},{"folder":"Tratos - Herbicida","clean_name":"Tratos - Herbicida","rows":38,"cols_count":25,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Fazenda","Ordem de Serviço","Operação","Planta ou Soca","O responsável realizou a avaliação de qualidade antes de iniciar a operação?","O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?","Vento","Umidade Relativa","Temperatura ","Espaçamento de Bico","Abertura do leque","Limpeza de filtros da bomba do implemento ","Limpeza de bicos","Vazão","Observações","Unnamed: 24"],"latest_date":"26/10/2026","size_kb":10.6,"category":"Tratos Culturais","color":"#0891b2","bg":"#ecfeff","border":"#a5f3fc"},{"folder":"Infestação de Broca - Armadilha","clean_name":"Infestação de Broca - Armadilha","rows":116,"cols_count":14,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Responsável Lançamento","Etapa","Fazenda - Talhão","Quantidade Machos","Unnamed: 13"],"latest_date":"01/10/2026","size_kb":22.8,"category":"Fitossanidade","color":"#dc2626","bg":"#fef2f2","border":"#fecaca"},{"folder":"CHECK LIST VEICULAR","clean_name":"CHECK LIST VEICULAR","rows":1277,"cols_count":22,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Frota","GESTORES","Condutor","Data Hora","VIDEOTELEMTRIA","Itens Danificados","Estado de Criticidade Veículo","Observacoes","ID COLABORADOR","ID DO AVALIADOR(A)","Abrir Os ","Os","Unnamed: 21"],"latest_date":"13/11/2026","size_kb":392.9,"category":"Frotas & Logística","color":"#d97706","bg":"#fffbeb","border":"#fde68a"},{"folder":"#Check-list área de vivência _ Colheita","clean_name":"Check-list área de vivência _ Colheita","rows":358,"cols_count":28,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Responsável ","Turno ","Frente","Local (Fazenda - Talhão)","OBS","Água Potável em temperatura adequada ?","Possui água para higienização ?","Possui papel higiênico e suporte?","Possui papel toalha e suporte ?","Pia e descarga funcionando ?"," Limpeza","Possui algum item quebrado ou em falta?"," Está utilizando fita de Isolamento ","Está utilizando  cone de Sinalização ?","Bancos Fixos ","Extintor ","Unnamed: 27"],"latest_date":"03/11/2026","size_kb":82.3,"category":"SSOMA & Segurança","color":"#059669","bg":"#ecfdf5","border":"#a7f3d0"},{"folder":"5S e Gestão - TPL","clean_name":"5S e Gestão - TPL","rows":218,"cols_count":22,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Setor","Fazenda","Frente","Responsável Vistoria","Operação","01-Área de vivência está em boas condições de organização e limpeza?","03 - Não há itens faltando, quebrados ou com sinais de mal uso?","04 - A sinalização está adequada e o acesso ao local é seguro?","05 - Boas condições de organização, limpeza e conservação dos equipamentos?","06 - Os colaboradores estão utilizando os EPIs adequados?","07 - Extintor está válido e carregado?","Observação","Unnamed: 21"],"latest_date":"28/10/2026","size_kb":51.2,"category":"Gestão & Qualidade","color":"#7c3aed","bg":"#f5f3ff","border":"#ddd6fe"}];
+        const formsData = [{"folder":"Plantio - 03.1 - Preparo de Solo - Subsolagem","clean_name":"Plantio - 03.1 - Preparo de Solo - Subsolagem","rows":367,"cols_count":18,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Subsolagem","Unnamed: 17"],"latest_date":"16/11/2026","size_kb":88.2,"category":"Preparo de Solo","color":"#92400e","bg":"#fff7ed","border":"#fed7aa"},{"folder":"Plantio - 03.1 - Preparo de Solo - Canteirização","clean_name":"Plantio - 03.1 - Preparo de Solo - Canteirização","rows":414,"cols_count":18,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Canteirização","Unnamed: 17"],"latest_date":"16/11/2026","size_kb":88.4,"category":"Preparo de Solo","color":"#b45309","bg":"#fffbeb","border":"#fde68a"},{"folder":"Plantio - 05 - Sulcação","clean_name":"Plantio - 05 - Sulcação","rows":2857,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Responsável","Local (Fazenda - Talhão)","OS","Frente","Profundidade do Sulco","Unnamed: 15"],"latest_date":"16/11/2026","size_kb":626.9,"category":"Operação de Plantio","color":"#65a30d","bg":"#f7fee7","border":"#d9f99d"},{"folder":"Plantio - 04 - Dosagem de Produto - Sulcação","clean_name":"Plantio - 04 - Dosagem de Produto - Sulcação","rows":1297,"cols_count":17,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Produto","Dosagem de Produto - Sulcação","Unnamed: 16"],"latest_date":"16/11/2026","size_kb":293.9,"category":"Operação de Plantio","color":"#0284c7","bg":"#f0f9ff","border":"#bae6fd"},{"folder":"Plantio - 06 - Abertura da Asa","clean_name":"Plantio - 06 - Abertura da Asa","rows":985,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Abertura da Asa","Unnamed: 15"],"latest_date":"16/11/2026","size_kb":216.5,"category":"Operação de Plantio","color":"#ea580c","bg":"#fff7ed","border":"#fed7aa"},{"folder":"Plantio - 07 - Paralelismo","clean_name":"Plantio - 07 - Paralelismo","rows":2467,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Paralelismo","Unnamed: 15"],"latest_date":"16/11/2026","size_kb":545.6,"category":"Agricultura de Precisão","color":"#2563eb","bg":"#eff6ff","border":"#bfdbfe"},{"folder":"Plantio - 08 - Qualidade da muda","clean_name":"Plantio - 08 - Qualidade da muda","rows":2744,"cols_count":19,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Qualidade da Muda","Observações ","Unnamed: 18"],"latest_date":"16/11/2026","size_kb":647.8,"category":"Material Genético","color":"#16a34a","bg":"#f0fdf4","border":"#bbf7d0"},{"folder":"Plantio - 09 - Quantidade de Gemas","clean_name":"Plantio - 09 - Quantidade de Gemas","rows":2742,"cols_count":20,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","Frente","OS","Responsável","Quantidade de Gemas Total","Quantidade de Gemas Viáveis","Quantidade de Gemas Inviáveis","Unnamed: 19"],"latest_date":"16/11/2026","size_kb":652.1,"category":"Amostragem de Campo","color":"#15803d","bg":"#f0fdf4","border":"#bbf7d0"},{"folder":"Plantio - 10 - Quantidade de Cana","clean_name":"Plantio - 10 - Quantidade de Cana","rows":2613,"cols_count":19,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Quantidade de Cana","Observações ","Unnamed: 18"],"latest_date":"16/11/2026","size_kb":614.3,"category":"Consumo de Muda","color":"#ca8a04","bg":"#fefce8","border":"#fef08a"},{"folder":"Plantio - 11 - Dosagem de Produto - Cobrição","clean_name":"Plantio - 11 - Dosagem de Produto - Cobrição","rows":933,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Dosagem de Produto - Cobrição","Unnamed: 15"],"latest_date":"16/11/2026","size_kb":205.4,"category":"Proteção de Cultivo","color":"#4f46e5","bg":"#eef2ff","border":"#c7d2fe"},{"folder":"Plantio - 12 - Cobrição","clean_name":"Plantio - 12 - Cobrição","rows":2051,"cols_count":16,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Data Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Profundidade de Cobrição","Unnamed: 15"],"latest_date":"16/11/2026","size_kb":446.8,"category":"Operação de Plantio","color":"#78350f","bg":"#fff7ed","border":"#fed7aa"},{"folder":"Plantio - 13 - Arremate e Acabamento","clean_name":"Plantio - 13 - Arremate e Acabamento","rows":817,"cols_count":18,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Data e Hora do Lançamento","Local (Fazenda - Talhão)","OS","Frente","Responsável","Arremate e Acabamento","Unnamed: 17"],"latest_date":"16/11/2026","size_kb":191.9,"category":"Acabamento Operacional","color":"#475569","bg":"#f8fafc","border":"#cbd5e1"},{"folder":"Tratos - Herbicida","clean_name":"Tratos - Herbicida","rows":33,"cols_count":25,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Fazenda","Ordem de Serviço","Operação","Planta ou Soca","O responsável realizou a avaliação de qualidade antes de iniciar a operação?","O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?","Vento","Umidade Relativa","Temperatura ","Espaçamento de Bico","Abertura do leque","Limpeza de filtros da bomba do implemento ","Limpeza de bicos","Vazão","Observações","Unnamed: 24"],"latest_date":"16/11/2026","size_kb":10.6,"category":"Tratos Culturais","color":"#0891b2","bg":"#ecfeff","border":"#a5f3fc"},{"folder":"Infestação de Broca - Armadilha","clean_name":"Infestação de Broca - Armadilha","rows":116,"cols_count":14,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Responsável Lançamento","Etapa","Fazenda - Talhão","Quantidade Machos","Unnamed: 13"],"latest_date":"16/11/2026","size_kb":22.8,"category":"Fitossanidade","color":"#dc2626","bg":"#fef2f2","border":"#fecaca"},{"folder":"CHECK LIST VEICULAR","clean_name":"CHECK LIST VEICULAR","rows":1277,"cols_count":22,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Frota","GESTORES","Condutor","Data Hora","VIDEOTELEMTRIA","Itens Danificados","Estado de Criticidade Veículo","Observacoes","ID COLABORADOR","ID DO AVALIADOR(A)","Abrir Os ","Os","Unnamed: 21"],"latest_date":"16/11/2026","size_kb":392.9,"category":"Frotas & Logística","color":"#d97706","bg":"#fffbeb","border":"#fde68a"},{"folder":"#Check-list área de vivência _ Colheita","clean_name":"Check-list área de vivência _ Colheita","rows":368,"cols_count":28,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Score perc.","Score desc.","Responsável ","Turno ","Frente","Local (Fazenda - Talhão)","OBS","Água Potável em temperatura adequada ?","Possui água para higienização ?","Possui papel higiênico e suporte?","Possui papel toalha e suporte ?","Pia e descarga funcionando ?"," Limpeza","Possui algum item quebrado ou em falta?"," Está utilizando fita de Isolamento ","Está utilizando  cone de Sinalização ?","Bancos Fixos ","Extintor ","Unnamed: 27"],"latest_date":"16/11/2026","size_kb":82.3,"category":"SSOMA & Segurança","color":"#059669","bg":"#ecfdf5","border":"#a7f3d0"},{"folder":"5S e Gestão - TPL","clean_name":"5S e Gestão - TPL","rows":74,"cols_count":22,"columns":["ID","Usuário","Data","Latitude","Longitude","Data início","Data Fim","Status","Score","Setor","Fazenda","Frente","Responsável Vistoria","Operação","01-Área de vivência está em boas condições de organização e limpeza?","03 - Não há itens faltando, quebrados ou com sinais de mal uso?","04 - A sinalização está adequada e o acesso ao local é seguro?","05 - Boas condições de organização, limpeza e conservação dos equipamentos?","06 - Os colaboradores estão utilizando os EPIs adequados?","07 - Extintor está válido e carregado?","Observação","Unnamed: 21"],"latest_date":"16/11/2026","size_kb":51.2,"category":"Gestão & Qualidade","color":"#7c3aed","bg":"#f5f3ff","border":"#ddd6fe"}];
         const activePanelsMap = {"#Check-list área de vivência _ Colheita": "area_vivencia/index.html", "Plantio - 03.1 - Preparo de Solo - Subsolagem": "subsolagem/index.html", "Plantio - 03.1 - Preparo de Solo - Canteirização": "canteirizacao/index.html", "Plantio - 04 - Dosagem de Produto - Sulcação": "dosagem_sulco/index.html", "Plantio - 05 - Sulcação": "sulcacao/index.html", "Plantio - 06 - Abertura da Asa": "abertura_asa/index.html", "Plantio - 07 - Paralelismo": "paralelismo/index.html", "Plantio - 08 - Qualidade da muda": "qualidade_muda/index.html", "Plantio - 09 - Quantidade de Gemas": "viabilidade_gemas/index.html", "Plantio - 10 - Quantidade de Cana": "qualidade_cana/index.html", "Plantio - 11 - Dosagem de Produto - Cobrição": "dosagem_cobricao/index.html", "Plantio - 12 - Cobrição": "cobricao/index.html", "Plantio - 13 - Arremate e Acabamento": "arremate_acabamento/index.html", "Tratos - Herbicida": "herbicida/index.html", "Infestação de Broca - Armadilha": "broca_armadilha/index.html", "5S e Gestão - TPL": "tpl_5s/index.html", "CHECK LIST VEICULAR": "checklist_veicular/index.html"};
 
         function getActiveUrl(folder) {
@@ -2786,15 +2909,20 @@ html.dark .mandala-node.is-recent-visited .badge-index {
         }
         updateThemeIcon();
 
-        // Alternância de tela entre a Mandala 360° e os Painéis Operacionais
+        // Alternância de tela entre a Mandala 360° e os Painéis Operacionais (com persistência de F5)
         const mandalaSection = document.getElementById('mandalaSection');
         const gridSection = document.getElementById('gridSection');
 
-        function scrollToSection(sectionId) {
+        function scrollToSection(sectionId, savePreference = true) {
             const showMandala = sectionId === 'mandalaSection';
             mandalaSection.hidden = !showMandala;
             gridSection.hidden = showMandala;
             updateNavButtons(showMandala ? 'mandala' : 'grid');
+            if (savePreference) {
+                try {
+                    localStorage.setItem('pitangueiras_active_view', sectionId);
+                } catch(e) {}
+            }
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
@@ -2821,6 +2949,22 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                 btnGridMobile.setAttribute('aria-pressed', String(activeView === 'grid'));
             }
         }
+
+        // Restauração inteligente da visualização ativa: ao dar F5, permanece na aba escolhida
+        (function restoreActiveView() {
+            try {
+                const savedView = localStorage.getItem('pitangueiras_active_view') || 'mandalaSection';
+                if (savedView === 'gridSection') {
+                    mandalaSection.hidden = true;
+                    gridSection.hidden = false;
+                    updateNavButtons('grid');
+                } else {
+                    mandalaSection.hidden = false;
+                    gridSection.hidden = true;
+                    updateNavButtons('mandala');
+                }
+            } catch(e) {}
+        })();
 
         // Interação com o Centro da Mandala ao passar o mouse ou tocar no celular
         const centerDefault = document.getElementById('centerDefault');
@@ -3359,13 +3503,31 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                         if (found.latest_date) nodeEl.setAttribute('data-date', found.latest_date);
                     }
 
-                    // Atualiza card no Grid Executivo
+                                        // Atualiza card no Grid Executivo
                     const gridItem = document.querySelector(`.grid-item[data-index="${idx}"]`);
                     if (gridItem) {
                         gridItem.setAttribute('data-rows', String(found.rows));
+                        if (found.latest_date) {
+                            gridItem.setAttribute('data-date', found.latest_date);
+                        }
                         const spanReg = gridItem.querySelector('.tracking-tight');
                         if (spanReg && spanReg.textContent.includes('reg.')) {
                             spanReg.textContent = `${found.rows.toLocaleString('pt-BR')} reg.`;
+                        }
+                        // Atualiza dinamicamente a data no rodapé do card
+                        const footerSpans = gridItem.querySelectorAll('.border-t span');
+                        if (footerSpans && footerSpans.length >= 2) {
+                            const spanDate = footerSpans[footerSpans.length - 1];
+                            if (spanDate) {
+                                const rawDate = found.latest_date || form.latest_date || '';
+                                const m = String(rawDate).match(/\b(\d{1,2})\/(\d{1,2})(?:\/(\d{2,4}))?\b/);
+                                let displayDate = '16/11';
+                                if (m) {
+                                    displayDate = `${m[1].padStart(2, '0')}/${m[2].padStart(2, '0')}`;
+                                }
+                                spanDate.textContent = displayDate;
+                                spanDate.title = `Última atualização recebida do servidor: ${rawDate || displayDate}`;
+                            }
                         }
                     }
                 }
@@ -3495,10 +3657,10 @@ html.dark .mandala-node.is-recent-visited .badge-index {
                     cometEl.className = 'node-comet-orbit';
                     cometEl.setAttribute('data-comet-slug', slug);
                     cometEl.innerHTML = `
-                        <svg class="comet-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-                            <rect class="comet-track" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="14" ry="14" />
-                            <rect class="tron-trail" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="20" ry="20" />
-                            <rect class="tron-core" pathLength="100" x="2.5" y="2.5" width="95" height="95" rx="20" ry="20" />
+                        <svg class="comet-svg" xmlns="http://www.w3.org/2000/svg">
+                            <rect class="comet-track" x="1" y="1" width="calc(100% - 2px)" height="calc(100% - 2px)" rx="16" ry="16" pathLength="100" />
+                            <rect class="tron-trail" x="1" y="1" width="calc(100% - 2px)" height="calc(100% - 2px)" rx="16" ry="16" pathLength="100" />
+                            <rect class="tron-core" x="1" y="1" width="calc(100% - 2px)" height="calc(100% - 2px)" rx="16" ry="16" pathLength="100" />
                         </svg>
                     `;
                     gridItem.appendChild(cometEl);

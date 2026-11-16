@@ -1,0 +1,252 @@
+/**
+ * pitangueiras_map_core.css
+ * =========================
+ * Estilos Padronizados do Motor Central de Mapas da Usina Pitangueiras.
+ * 
+ * REGRA MANDATÓRIA DO PROGRAMA (Safra 2026):
+ * CONTRASTE MÁXIMO E ZERO TONS DE CINZA.
+ * Sempre BRANCO (#FFFFFF) em cima do PRETO e PRETO (#000000) em cima do BRANCO.
+ * PROIBIDO o uso de cinza em textos, rótulos e balões de medição.
+ */
+
+/* Container do Mapa com Borda Fina e Transição Suave */
+.pitangueiras-map-container {
+    width: 100%;
+    height: 24rem; /* h-96 */
+    border-radius: 0.75rem;
+    position: relative;
+    z-index: 10;
+    overflow: hidden;
+    background: #090d16;
+}
+
+/* Customização dos Clusters do Leaflet */
+.leaflet-cluster-anim .leaflet-marker-icon, 
+.leaflet-cluster-anim .leaflet-marker-shadow {
+    transition: transform 0.25s ease-out, opacity 0.25s ease-in;
+}
+
+.marker-cluster-small {
+    background-color: rgba(16, 185, 129, 0.35) !important;
+}
+.marker-cluster-small div {
+    background-color: rgba(16, 185, 129, 0.95) !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    font-family: 'JetBrains Mono', monospace !important;
+}
+
+.marker-cluster-medium {
+    background-color: rgba(245, 158, 11, 0.35) !important;
+}
+.marker-cluster-medium div {
+    background-color: rgba(245, 158, 11, 0.95) !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    font-family: 'JetBrains Mono', monospace !important;
+}
+
+.marker-cluster-large {
+    background-color: rgba(239, 68, 68, 0.35) !important;
+}
+.marker-cluster-large div {
+    background-color: rgba(239, 68, 68, 0.95) !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    font-family: 'JetBrains Mono', monospace !important;
+}
+
+/* ========================================================================= */
+/* BALÕES E POPUPS DO MAPA — REGRA DE CONTRASTE EXTREMO (ZERO CINZA)        */
+/* ========================================================================= */
+
+/* MODO ESCURO (PADRÃO OU COM CLASSE .dark) */
+html.dark .leaflet-popup-content-wrapper,
+body.dark .leaflet-popup-content-wrapper,
+.dark .leaflet-popup-content-wrapper,
+.leaflet-popup-content-wrapper {
+    background: #090d16 !important; /* Fundo Preto Profundo Dark Glass */
+    color: #ffffff !important;
+    border-radius: 0.75rem !important;
+    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.9), 0 8px 12px -6px rgba(0, 0, 0, 0.7) !important;
+    border: 1px solid rgba(255, 255, 255, 0.35) !important;
+    backdrop-filter: blur(16px) !important;
+}
+
+html.dark .leaflet-popup-tip,
+body.dark .leaflet-popup-tip,
+.dark .leaflet-popup-tip,
+.leaflet-popup-tip {
+    background: #090d16 !important;
+    border: 1px solid rgba(255, 255, 255, 0.35) !important;
+}
+
+/* MODO ESCURO: TODOS OS TEXTOS ESTRUTURAIS SÃO 100% BRANCO PURO (#FFFFFF) */
+html.dark .leaflet-popup-content,
+html.dark .leaflet-popup-content div:not([style*="color"]),
+html.dark .leaflet-popup-content span:not([style*="color"]),
+html.dark .leaflet-popup-content p:not([style*="color"]),
+html.dark .leaflet-popup-content strong:not([style*="color"]),
+html.dark .leaflet-popup-content b:not([style*="color"]),
+html.dark .leaflet-popup-content h1:not([style*="color"]),
+html.dark .leaflet-popup-content h2:not([style*="color"]),
+html.dark .leaflet-popup-content h3:not([style*="color"]),
+html.dark .leaflet-popup-content h4:not([style*="color"]),
+html.dark .leaflet-popup-content [class*="text-slate-"]:not([style*="color"]),
+html.dark .leaflet-popup-content [class*="text-gray-"]:not([style*="color"]),
+html.dark .leaflet-popup-content [class*="text-zinc-"]:not([style*="color"]),
+html.dark .leaflet-popup-content [class*="text-neutral-"]:not([style*="color"]),
+html.dark .leaflet-popup-content .text-black:not([style*="color"]),
+html.dark .leaflet-popup-content .popup-row,
+body.dark .leaflet-popup-content,
+body.dark .leaflet-popup-content div:not([style*="color"]),
+body.dark .leaflet-popup-content span:not([style*="color"]),
+body.dark .leaflet-popup-content p:not([style*="color"]),
+body.dark .leaflet-popup-content strong:not([style*="color"]),
+body.dark .leaflet-popup-content b:not([style*="color"]),
+body.dark .leaflet-popup-content [class*="text-slate-"]:not([style*="color"]),
+body.dark .leaflet-popup-content [class*="text-gray-"]:not([style*="color"]),
+body.dark .leaflet-popup-content [class*="text-zinc-"]:not([style*="color"]),
+body.dark .leaflet-popup-content [class*="text-neutral-"]:not([style*="color"]),
+body.dark .leaflet-popup-content .text-black:not([style*="color"]),
+body.dark .leaflet-popup-content .popup-row,
+.leaflet-popup-content,
+.leaflet-popup-content div:not([style*="color"]),
+.leaflet-popup-content span:not([style*="color"]),
+.leaflet-popup-content p:not([style*="color"]),
+.leaflet-popup-content strong:not([style*="color"]),
+.leaflet-popup-content b:not([style*="color"]),
+.leaflet-popup-content [class*="text-slate-"]:not([style*="color"]),
+.leaflet-popup-content [class*="text-gray-"]:not([style*="color"]),
+.leaflet-popup-content [class*="text-zinc-"]:not([style*="color"]),
+.leaflet-popup-content [class*="text-neutral-"]:not([style*="color"]),
+.leaflet-popup-content .text-black:not([style*="color"]),
+.leaflet-popup-content .popup-row {
+    color: #ffffff !important;
+    opacity: 1 !important;
+}
+
+/* PRESERVAÇÃO E DESTAQUE DOS SEMÁFOROS TÉCNICOS AGRONÔMICOS */
+.leaflet-popup-content .text-emerald-400,
+.leaflet-popup-content .text-emerald-500,
+.leaflet-popup-content .text-emerald-600 {
+    color: #10b981 !important;
+    font-weight: 700 !important;
+}
+.leaflet-popup-content .text-amber-400,
+.leaflet-popup-content .text-amber-500,
+.leaflet-popup-content .text-amber-600 {
+    color: #f59e0b !important;
+    font-weight: 700 !important;
+}
+.leaflet-popup-content .text-rose-400,
+.leaflet-popup-content .text-rose-500,
+.leaflet-popup-content .text-rose-600,
+.leaflet-popup-content .text-red-500,
+.leaflet-popup-content .text-red-600 {
+    color: #ef4444 !important;
+    font-weight: 700 !important;
+}
+.leaflet-popup-content .text-purple-400,
+.leaflet-popup-content .text-purple-500,
+.leaflet-popup-content .text-purple-600 {
+    color: #a855f7 !important;
+    font-weight: 700 !important;
+}
+.leaflet-popup-content .text-cyan-400,
+.leaflet-popup-content .text-cyan-500,
+.leaflet-popup-content .text-cyan-600 {
+    color: #06b6d4 !important;
+    font-weight: 700 !important;
+}
+
+/* Links no popup em modo escuro: Verde Esmeralda vibrante de alto contraste */
+html.dark .leaflet-popup-content a,
+body.dark .leaflet-popup-content a,
+.leaflet-popup-content a {
+    color: #34d399 !important;
+    font-weight: 700 !important;
+    text-decoration: underline !important;
+}
+
+/* Linha divisória interna: branca com contraste limpo */
+html.dark .leaflet-popup-content .border-t,
+body.dark .leaflet-popup-content .border-t,
+html.dark .leaflet-popup-content hr,
+body.dark .leaflet-popup-content hr,
+.leaflet-popup-content .border-t,
+.leaflet-popup-content hr {
+    border-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+/* Botão de Fechar no modo escuro: Branco puro */
+html.dark .leaflet-popup-close-button,
+body.dark .leaflet-popup-close-button,
+.dark .leaflet-popup-close-button,
+.leaflet-popup-close-button {
+    color: #ffffff !important;
+    padding: 6px !important;
+    opacity: 0.9 !important;
+}
+html.dark .leaflet-popup-close-button:hover,
+body.dark .leaflet-popup-close-button:hover,
+.dark .leaflet-popup-close-button:hover,
+.leaflet-popup-close-button:hover {
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.25) !important;
+    border-radius: 4px;
+}
+
+/* ========================================================================= */
+/* MODO CLARO: PRETO (#000000) EM CIMA DO BRANCO (#FFFFFF)                   */
+/* ========================================================================= */
+html:not(.dark) .leaflet-popup-content-wrapper {
+    background: #ffffff !important;
+    color: #000000 !important;
+    border-radius: 0.75rem !important;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.25) !important;
+    border: 1px solid rgba(0, 0, 0, 0.25) !important;
+}
+
+html:not(.dark) .leaflet-popup-tip {
+    background: #ffffff !important;
+    border: 1px solid rgba(0, 0, 0, 0.25) !important;
+}
+
+html:not(.dark) .leaflet-popup-content,
+html:not(.dark) .leaflet-popup-content div:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content span:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content p:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content strong:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content b:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content h1:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content h2:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content h3:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content h4:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content [class*="text-slate-"]:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content [class*="text-gray-"]:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content [class*="text-zinc-"]:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content [class*="text-neutral-"]:not([style*="color"]),
+html:not(.dark) .leaflet-popup-content .popup-row {
+    color: #000000 !important;
+    opacity: 1 !important;
+}
+
+html:not(.dark) .leaflet-popup-content a {
+    color: #059669 !important;
+    font-weight: 700 !important;
+    text-decoration: underline !important;
+}
+
+html:not(.dark) .leaflet-popup-content .border-t,
+html:not(.dark) .leaflet-popup-content hr {
+    border-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+html:not(.dark) .leaflet-popup-close-button {
+    color: #000000 !important;
+}
+html:not(.dark) .leaflet-popup-close-button:hover {
+    color: #000000 !important;
+    background: rgba(0, 0, 0, 0.1) !important;
+}

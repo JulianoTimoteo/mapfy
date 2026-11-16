@@ -255,6 +255,24 @@
 
     // --- MAPA LEAFLET COM SATÉLITE GOOGLE / ESRI E MAPA VETORIAL ---
     function initMap() {
+        if (window.PitangueirasMapCore) {
+            state.map = window.PitangueirasMapCore.init({
+                containerId: 'mapContainer',
+                center: [-21.05, -48.33],
+                zoom: 11
+            });
+            const cluster = window.PitangueirasMapCore.getCluster();
+            state.markersLayer = cluster;
+            state.markerCluster = cluster;
+            window.PitangueirasMapCore.setFilterChangeCallback((syncWithGlobal, range) => {
+                state.mapSyncWithGlobal = syncWithGlobal;
+                state.mapRange = range;
+                if (typeof updateMapMarkers === "function") updateMapMarkers();
+            });
+            return;
+        }
+
+
         const container = document.getElementById('mapContainer');
         if (!container || typeof L === 'undefined') return;
 
@@ -334,7 +352,7 @@ if (!state.map || !state.markersLayer) return;
 
             const popupContent = `
                 <div class="p-1 space-y-1 text-xs">
-                    <div class="flex items-center justify-between gap-2 border-b pb-1 font-bold text-slate-800 dark:text-white">
+                    <div class="flex items-center justify-between gap-2 border-b pb-1 font-bold font-bold">
                         <span>#${r.id} • ${r.setor}</span>
                         <span class="badge ${r.tem_nok ? 'badge-red' : 'badge-emerald'}">${r.perc_conformidade}% Conf.</span>
                     </div>
@@ -966,6 +984,9 @@ if (!state.map || !state.markersLayer) return;
     }
 
     function initMapFilter() {
+        // Gerenciado com exclusividade pelo motor central unificado
+        if (window.PitangueirasMapCore) return;
+
         const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
         const mapSyncIcon = document.getElementById('mapSyncIcon');
         const mapSyncText = document.getElementById('mapSyncText');

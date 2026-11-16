@@ -32,6 +32,8 @@
 
     <!-- Estilos Customizados -->
     <link rel="stylesheet" href="css/styles.css">
+    <!-- Motor Central Unificado de Mapas Pitangueiras -->
+    <link rel="stylesheet" href="../Maps/pitangueiras_map_core.css?v=2026.11.16">
 
     <script>
         tailwind.config = {
@@ -48,6 +50,8 @@
     </script>
     <link rel="stylesheet" href="../common/css/fullscreen_inspector.css?v=2026.11.14_v5">
     <link rel="stylesheet" href="../common/css/design_guardian.css?v=2026.11.13_v7">
+    <!-- html2pdf para geração de PDF Ultra-HD 300 DPI -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <!-- FontAwesome 6.4.0 Oficial -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- PWA e Metatags Mobile Executivas -->
@@ -374,10 +378,16 @@
                         </button>
 
                         <!-- Imprimir Relatório -->
+                        <button id="btnDownloadPDF" type="button"
+                                class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 bg-rose-600 hover:bg-rose-500 text-white transition-all shadow-sm whitespace-nowrap cursor-pointer"
+                                title="Gerar e salvar PDF executivo direto em Altíssima Resolução (300 DPI)">
+                            <span>📄</span>
+                            <span>Salvar PDF</span>
+                        </button>
                         <button id="btnPrintReport" type="button"
                                 class="btn-toolbar-action px-3 py-1.5 rounded-xl border font-semibold text-xs flex items-center gap-1.5 transition-all hover:border-emerald-500 whitespace-nowrap cursor-pointer"
                                 style="background: var(--bg-card); border-color: var(--border-color); color: var(--text-primary);"
-                                title="Imprimir relatório executivo para A4/PDF">
+                                title="Imprimir / Salvar via Microsoft Print to PDF em 300 DPI">
                             <span>🖨️</span>
                             <span>Imprimir</span>
                         </button>
@@ -414,8 +424,8 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Data da Medição</label>
                         <select id="filterDate"
-                               class="w-full p-2 rounded-xl border text-xs font-bold font-mono focus:outline-none focus:border-emerald-500">
-                            <option value="">Todas as Datas com Registros</option>
+                               class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs font-semibold focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
+                            <option value="">Todas as Datas</option>
                         </select>
                     </div>
 
@@ -423,7 +433,7 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Frente Operacional</label>
                         <select id="filterFrente"
-                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
+                                class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
                             <option value="ALL">Todas as Frentes</option>
                         </select>
                     </div>
@@ -432,7 +442,7 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Ordem de Serviço (OS)</label>
                         <select id="filterOS"
-                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
+                                class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
                             <option value="ALL">Todas as OS</option>
                         </select>
                     </div>
@@ -441,7 +451,7 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Responsável</label>
                         <select id="filterResponsavel"
-                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
+                                class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
                             <option value="ALL">Todos os Responsáveis</option>
                         </select>
                     </div>
@@ -450,11 +460,11 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Faixa Técnica</label>
                         <select id="filterFaixa"
-                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
+                                class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
                             <option value="ALL">Todas as Medições</option>
                             <option value="DENTRO">🟢 Dentro da Meta (45 a 55 cm)</option>
                             <option value="ABAIXO">🟡 Abaixo da Meta (&lt; 45 cm)</option>
-                            <option value="ACIMA">ðŸŸ£ Acima da Meta (&gt; 55 cm)</option>
+                            <option value="ACIMA">🟣 Acima da Meta (&gt; 55 cm)</option>
                         </select>
                     </div>
 
@@ -462,7 +472,7 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Localidade / Talhão</label>
                         <select id="filterLocal"
-                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
+                                class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
                             <option value="ALL">Todos os Locais</option>
                         </select>
                     </div>
@@ -471,7 +481,7 @@
                     <div>
                         <label class="block font-medium mb-1 text-[var(--text-secondary)]">Auditoria GPS</label>
                         <select id="filterGPS"
-                                class="w-full p-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500">
+                                class="w-full pl-3 pr-8 py-2 rounded-xl border text-xs focus:outline-none focus:border-emerald-500 truncate cursor-pointer bg-transparent">
                             <option value="ALL">Todos os Registros</option>
                             <option value="GPS_VALIDO">Com GPS Válido</option>
                             <option value="GPS_INVALIDO">GPS Ausente/Inválido</option>
@@ -688,7 +698,7 @@
                             <h2 class="text-sm font-bold tracking-tight text-[var(--text-primary)]">Distribuição de Conformidade</h2>
                             <p class="text-[11px] text-[var(--text-secondary)] mt-0.5">Faixa técnica agronômica</p>
                         </div>
-                        <span class="text-xs text-slate-700 dark:text-slate-200 font-mono font-semibold" id="donutScopeBadge">% da safra</span>
+                        <span id="donutScopeBadge" class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-bold bg-emerald-500/15 border border-emerald-500/40 text-emerald-600 dark:text-emerald-400 font-mono shadow-xs"><span>🔒 Global: Todos</span></span>
                     </div>
 
                     <!-- Canvas da Rosca com Percentual Central em Destaque (Expandido e Centralizado) -->
@@ -696,8 +706,8 @@
                         <canvas id="chartDonut"></canvas>
                         <div id="donutCenterOverlay" class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center justify-center pointer-events-none text-center">
                             <span class="text-3xl sm:text-4xl font-black font-mono text-emerald-500 leading-none" id="donutCenterPerc">83,7%</span>
-                            <span class="text-[11px] font-extrabold uppercase tracking-wider text-slate-800 dark:text-white mt-1">Na Meta</span>
-                            <span class="text-[10px] font-mono text-slate-700 dark:text-slate-200 font-bold" id="donutCenterCount">307 de 367</span>
+                            <span class="text-[11px] font-extrabold uppercase tracking-wider text-black dark:text-white mt-1">Na Meta</span>
+                            <span class="text-[10px] font-mono text-black dark:text-white font-bold" id="donutCenterCount">307 de 367</span>
                         </div>
                     </div>
                 </div>
@@ -1259,6 +1269,8 @@
     <!-- Scripts da Aplicação -->
     <script src="js/data.js?v=2026.5"></script>
     <script src="js/subsolagem_engine.js"></script>
+    <!-- Motor Central Unificado de Mapas Pitangueiras -->
+    <script src="../Maps/pitangueiras_map_core.js?v=2026.11.16"></script>
     <script src="js/dashboard.js"></script>
     <script src="../Maps/pitangueiras_shapes_data.js"></script>
     <script src="../common/js/map_shapes_layer.js?v=2026.11.14_v5"></script>

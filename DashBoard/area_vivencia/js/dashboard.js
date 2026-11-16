@@ -775,6 +775,9 @@
     }
 
     function initMapFilter() {
+        // Gerenciado com exclusividade pelo motor central unificado
+        if (window.PitangueirasMapCore) return;
+
         const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
         const mapSyncIcon = document.getElementById('mapSyncIcon');
         const mapSyncText = document.getElementById('mapSyncText');
@@ -1579,6 +1582,24 @@
      * Mapa Geográfico Interativo (Leaflet)
      */
     function initMap() {
+        if (window.PitangueirasMapCore) {
+            state.map = window.PitangueirasMapCore.init({
+                containerId: 'mapContainer',
+                center: [-21.05, -48.33],
+                zoom: 11
+            });
+            const cluster = window.PitangueirasMapCore.getCluster();
+            state.markersLayer = cluster;
+            state.markerCluster = cluster;
+            window.PitangueirasMapCore.setFilterChangeCallback((syncWithGlobal, range) => {
+                state.mapSyncWithGlobal = syncWithGlobal;
+                state.mapRange = range;
+                if (typeof renderMap === "function") renderMap();
+            });
+            return;
+        }
+
+
         const mapContainer = document.getElementById('mapContainer');
         if (!mapContainer || typeof L === 'undefined') return;
 
@@ -1644,12 +1665,12 @@ const validCoords = mapRecords.filter(r => r.hasValidCoords);
             });
 
             marker.bindPopup(`
-                <div class="p-1 font-sans text-xs">
-                    <div class="font-bold text-slate-900">${r.frente} • Turno ${r.turno}</div>
-                    <div class="text-slate-600 mt-0.5">ID: ${r.id} • ${r.dataHoraBR}</div>
-                    <div class="text-slate-600">Local: Fazenda/Talhão ${r.local}</div>
-                    <div class="mt-1 font-semibold" style="color: ${color};">Resultado: ${r.compliance.classificacao}</div>
-                    <button onclick="window.dashboardOpenModalById('${r.id}')" class="mt-2 w-full py-1 bg-slate-900 text-white rounded text-[11px] font-semibold">
+                <div class="p-1 font-sans text-xs space-y-1">
+                    <div class="font-bold text-sm">${r.frente} • Turno ${r.turno}</div>
+                    <div class="mt-0.5">ID: ${r.id} • ${r.dataHoraBR}</div>
+                    <div>Local: Fazenda/Talhão ${r.local}</div>
+                    <div class="mt-1 pt-1 border-t font-semibold text-sm" style="color: ${color};">Resultado: ${r.compliance.classificacao}</div>
+                    <button onclick="window.dashboardOpenModalById('${r.id}')" class="mt-2 w-full py-1 bg-emerald-600 hover:bg-emerald-500 text-white rounded text-[11px] font-semibold transition shadow-sm">
                         Ver Raio-X Completo
                     </button>
                 </div>

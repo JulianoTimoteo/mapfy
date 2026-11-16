@@ -586,6 +586,9 @@
     }
 
     function initMapFilter() {
+        // Gerenciado com exclusividade pelo motor central unificado
+        if (window.PitangueirasMapCore) return;
+
         const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
         const mapSyncIcon = document.getElementById('mapSyncIcon');
         const mapSyncText = document.getElementById('mapSyncText');
@@ -1151,6 +1154,24 @@
 
     // 14. Mapa Leaflet (OpenStreetMap Livre de API Key e Marcas d'água)
     function initMap() {
+        if (window.PitangueirasMapCore) {
+            state.map = window.PitangueirasMapCore.init({
+                containerId: 'mapContainer',
+                center: [-21.05, -48.33],
+                zoom: 11
+            });
+            const cluster = window.PitangueirasMapCore.getCluster();
+            state.markersLayer = cluster;
+            state.markerCluster = cluster;
+            window.PitangueirasMapCore.setFilterChangeCallback((syncWithGlobal, range) => {
+                state.mapSyncWithGlobal = syncWithGlobal;
+                state.mapRange = range;
+                if (typeof renderMapMarkers === "function") renderMapMarkers();
+            });
+            return;
+        }
+
+
         const container = document.getElementById('mapContainer');
         if (!container) return;
 
