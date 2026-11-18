@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - herbicida
- * Total: 33 registros
- * Atualizado em: 16/11/2026 12:34
+ * Total: 34 registros
+ * Atualizado em: 18/11/2026 16:39
  */
 window.HERBICIDA_DATA = [
   {
@@ -926,6 +926,34 @@ window.HERBICIDA_DATA = [
     "Vazão": "200",
     "Observações": "Trator 11125 ",
     "Fazenda.1": "48501",
+    "Unnamed: 25": null
+  },
+  {
+    "ID": "4058420",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "18/11/2026 14:04",
+    "Latitude": "-21.11998000000000",
+    "Longitude": "-48.46204000000000",
+    "Data início": "18/11/2026 13:44",
+    "Data Fim": "18/11/2026 14:04",
+    "Status": "Open",
+    "Score": "0.00",
+    "Fazenda": "41601",
+    "Ordem de Serviço": "3779",
+    "Operação": "1105-APLC HERBICIDA EM CARREADOR",
+    "Planta ou Soca": "Carreador",
+    "O responsável realizou a avaliação de qualidade antes de iniciar a operação?": "OK",
+    "O responsável possui a Ordem de Serviço e o Mapa da Área disponíveis na frente?": "OK",
+    "Vento": "2.8",
+    "Umidade Relativa": "46",
+    "Temperatura": "36.1",
+    "Espaçamento de Bico": "0.5",
+    "Abertura do leque": "OK",
+    "Limpeza de filtros da bomba do implemento": "OK",
+    "Limpeza de bicos": "OK",
+    "Vazão": "200",
+    "Observações": "Trator 11125 e 11225  \nNo dia 09/11 foi feito uma verificação no 11125 e constatado que o acelerador de pé não estava  funcionando devido a falta do cabo, operador estava usando somente o acelerador de mão, hoje dia 18/11 em uma nova verificação foi constatado que o problema continua, e somente o acelerador de mão funciona. ",
+    "Fazenda.1": "41601",
     "Unnamed: 25": null
   }
 ];

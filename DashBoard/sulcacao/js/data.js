@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - sulcacao
- * Total: 2857 registros
- * Atualizado em: 16/11/2026 12:34
+ * Total: 2860 registros
+ * Atualizado em: 18/11/2026 16:39
  */
 window.SULCACAO_RAW_DATA = [
   {
@@ -65709,6 +65709,75 @@ window.SULCACAO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
     "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4058581",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/11/2026 15:43",
+    "Latitude": "-21.06905000000000",
+    "Longitude": "-48.32612000000000",
+    "Data início": "18/11/2026 15:42",
+    "Data Fim": "18/11/2026 15:43",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/18/2026",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Profundidade do Sulco": "37",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4058577",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/11/2026 15:39",
+    "Latitude": "-21.06881000000000",
+    "Longitude": "-48.32532000000000",
+    "Data início": "18/11/2026 15:38",
+    "Data Fim": "18/11/2026 15:39",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/18/2026",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Profundidade do Sulco": "38",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4058575",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/11/2026 15:36",
+    "Latitude": "-21.06871000000000",
+    "Longitude": "-48.32486000000000",
+    "Data início": "18/11/2026 15:34",
+    "Data Fim": "18/11/2026 15:36",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/18/2026",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Profundidade do Sulco": "37",
+    "Fazenda": "53501",
     "User": null,
     "Date": null,
     "Start date": null,

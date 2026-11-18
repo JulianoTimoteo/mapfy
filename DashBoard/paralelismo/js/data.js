@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - paralelismo
- * Total: 2467 registros
- * Atualizado em: 16/11/2026 12:34
+ * Total: 2470 registros
+ * Atualizado em: 18/11/2026 16:39
  */
 window.PARALELISMO_RAW_DATA = [
   {
@@ -56739,6 +56739,75 @@ window.PARALELISMO_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.5",
     "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4058579",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/11/2026 15:42",
+    "Latitude": "-21.06906000000000",
+    "Longitude": "-48.32607000000000",
+    "Data início": "18/11/2026 15:41",
+    "Data Fim": "18/11/2026 15:42",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/18/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Paralelismo": "1.4",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4058578",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/11/2026 15:40",
+    "Latitude": "-21.06886000000000",
+    "Longitude": "-48.32540000000000",
+    "Data início": "18/11/2026 15:39",
+    "Data Fim": "18/11/2026 15:40",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/18/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Paralelismo": "1.4",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4058576",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/11/2026 15:37",
+    "Latitude": "-21.06869000000000",
+    "Longitude": "-48.32488000000000",
+    "Data início": "18/11/2026 15:36",
+    "Data Fim": "18/11/2026 15:37",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/18/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "EDILIANA CARDOSO DA COSTA",
+    "Paralelismo": "1.4",
+    "Fazenda": "53501",
     "User": null,
     "Date": null,
     "Start date": null,

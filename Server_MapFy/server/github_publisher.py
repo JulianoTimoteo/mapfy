@@ -15,7 +15,9 @@ import httpx
 from dotenv import load_dotenv
 
 from api_gateway import DASHBOARD_FOLDER_MAP, _read_csv_page
-from runtime_paths import DASHBOARD_DIR, ENV_FILE, LEGACY_ENV_FILE, REPORTS_DIR, SERVER_DIR
+from runtime_paths import DASHBOARD_DIR, ENV_FILE, LEGACY_ENV_FILE, PROJECT_ROOT, REPORTS_DIR, SERVER_DIR
+
+REPO_DIR = PROJECT_ROOT
 
 logger = logging.getLogger("mapfy.github")
 
@@ -108,7 +110,7 @@ class GitHubDashboardPublisher:
             "DashBoard/checklist_veicular/js/engine.js",
         ]
         for extra in extra_targets:
-            cands = [REPO_DIR / extra, SERVER_DIR / extra, DASHBOARD_DIR.parent / extra]
+            cands = [PROJECT_ROOT / extra, SERVER_DIR / extra, DASHBOARD_DIR.parent / extra]
             for c in cands:
                 if c.is_file():
                     files[extra] = c.read_bytes()
