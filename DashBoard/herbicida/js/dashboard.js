@@ -167,6 +167,24 @@
 
     // --- MAPA LEAFLET COM OPENSTREETMAP (ZERO CARTO, ZERO WATERMARKS) ---
     function initMap() {
+        if (window.PitangueirasMapCore) {
+            state.map = window.PitangueirasMapCore.init({
+                containerId: 'mapContainer',
+                center: [-21.05, -48.33],
+                zoom: 11
+            });
+            const cluster = window.PitangueirasMapCore.getCluster();
+            state.markersLayer = cluster;
+            state.markerCluster = cluster;
+            window.PitangueirasMapCore.setFilterChangeCallback((syncWithGlobal, range) => {
+                state.mapSyncWithGlobal = syncWithGlobal;
+                state.mapRange = range;
+                if (typeof updateMapMarkers === "function") updateMapMarkers();
+            });
+            return;
+        }
+
+
         const container = document.getElementById('mapContainer');
         if (!container || typeof L === 'undefined') return;
 
@@ -1914,6 +1932,9 @@ if (!state.map || !state.markersLayer) return;
     }
 
     function initMapFilter() {
+        // Gerenciado com exclusividade pelo motor central unificado
+        if (window.PitangueirasMapCore) return;
+
         const btnMapSync = document.getElementById('btnToggleMapSyncFilter');
         const mapSyncIcon = document.getElementById('mapSyncIcon');
         const mapSyncText = document.getElementById('mapSyncText');
