@@ -503,6 +503,7 @@ def ensure_authenticated(
     username: str,
     password: str,
     allow_manual_login: bool = False,
+    password_fallback: str = "",
 ) -> None:
     """
     Garante que a sessão está autenticada.
@@ -550,6 +551,22 @@ def ensure_authenticated(
                     else:
                         page.keyboard.press("Enter")
                     page.wait_for_timeout(4000)
+
+                    # Se falhar no Gatec e houver fallback de senha
+                    if password_fallback and ("gatec.com.br" in page.url or "login" in page.url.lower()):
+                        err_gatec = page.query_selector(".alert-danger, .validation-summary-errors")
+                        if err_gatec and err_gatec.is_visible():
+                            log.warning("Senha principal rejeitada pelo formulário Gatec. Tentando senha alternativa de fallback...")
+                            pass_gatec = page.query_selector("input#Password, input[name='Password']")
+                            if pass_gatec:
+                                pass_gatec.fill("")
+                                pass_gatec.fill(password_fallback)
+                                btn_login = page.query_selector("button.button-login, button:has-text('Entrar')")
+                                if btn_login:
+                                    btn_login.click()
+                                else:
+                                    page.keyboard.press("Enter")
+                                page.wait_for_timeout(4000)
         except Exception as e:
             log.warning(f"Aviso na etapa inicial da Gatec: {e}")
 
@@ -577,9 +594,31 @@ def ensure_authenticated(
         try:
             pass_inp = page.wait_for_selector("input[name='passwd'], input[type='password']", timeout=12000)
             if pass_inp:
+                log.info("Preenchendo senha principal no Microsoft Azure AD...")
                 pass_inp.fill(password)
                 page.locator("input[type='submit'], button[type='submit']").first.click()
-                page.wait_for_timeout(2000)
+                page.wait_for_timeout(2500)
+
+                # Se falhar no Azure AD e houver fallback de senha
+                if password_fallback:
+                    has_pwd_error = False
+                    try:
+                        err_elem = page.query_selector("#passwordError, div[id='passwordError'], .alert-error")
+                        if err_elem and err_elem.is_visible():
+                            has_pwd_error = True
+                        elif page.locator("text='senha está incorreta'").count() > 0 or page.locator("text='incorrect'").count() > 0:
+                            has_pwd_error = True
+                    except Exception:
+                        pass
+
+                    if has_pwd_error:
+                        log.warning("Senha principal rejeitada pelo Azure AD. Tentando senha alternativa de fallback...")
+                        pass_inp = page.wait_for_selector("input[name='passwd'], input[type='password']", timeout=5000)
+                        if pass_inp:
+                            pass_inp.fill("")
+                            pass_inp.fill(password_fallback)
+                            page.locator("input[type='submit'], button[type='submit']").first.click()
+                            page.wait_for_timeout(2500)
         except PlaywrightTimeout:
             log.info("Campo de senha não exibido; o SSO pode exigir confirmação adicional.")
 
@@ -982,7 +1021,8 @@ def run_full_extraction(
     password: str | None = None,
     log_callback: Any = None,
     progress_callback: Any = None,
-    cancel_event: Any = None
+    cancel_event: Any = None,
+    password_fallback: str | None = None,
 ) -> list[dict[str, Any]]:
     """
     Executa a rotina completa de extração incremental.
@@ -990,6 +1030,7 @@ def run_full_extraction(
     """
     username = username or os.getenv("MAPFY_USER", "").strip()
     password = password or os.getenv("MAPFY_PASS", "")
+    password_fallback = password_fallback or os.getenv("MAPFY_PASS_FALLBACK", "")
     if not username or not password:
         raise RuntimeError(
             "Credenciais ausentes. Configure MAPFY_USER e MAPFY_PASS no arquivo .env."
@@ -1087,19 +1128,41 @@ def run_full_extraction(
                 raise e
         page = context.new_page()
 
-        # Garante autenticação
-        try:
-            ensure_authenticated(
-                page,
-                context,
-                username,
-                password,
-                allow_manual_login=not headless,
-            )
-        except Exception as e:
-            emit(f"Falha de autenticação: {e}", "ERROR")
+        # Garante autenticação com fallback duplo
+        passwords_to_try = [password]
+        if password_fallback and password_fallback not in passwords_to_try:
+            passwords_to_try.append(password_fallback)
+
+        authenticated = False
+        last_auth_error = None
+        for idx, pwd in enumerate(passwords_to_try, start=1):
+            try:
+                if len(passwords_to_try) > 1:
+                    emit(f"Tentativa de autenticação {idx}/{len(passwords_to_try)}...")
+                ensure_authenticated(
+                    page,
+                    context,
+                    username,
+                    pwd,
+                    allow_manual_login=not headless,
+                    password_fallback=password_fallback if pwd == password else "",
+                )
+                authenticated = True
+                break
+            except Exception as e:
+                last_auth_error = e
+                if idx < len(passwords_to_try):
+                    emit(f"Falha na autenticação com a senha {idx}: {e}. Tentando senha alternativa de fallback...", "WARNING")
+                    try:
+                        page.close()
+                    except Exception:
+                        pass
+                    page = context.new_page()
+
+        if not authenticated:
+            emit(f"Falha de autenticação: {last_auth_error}", "ERROR")
             browser.close()
-            raise RuntimeError(f"Falha de autenticação: {e}") from e
+            raise RuntimeError(f"Falha de autenticação: {last_auth_error}") from last_auth_error
 
         # Obtém lista de formulários disponíveis na tela filtrando por atividade em 2026
         emit("Identificando formulários disponíveis no painel...")

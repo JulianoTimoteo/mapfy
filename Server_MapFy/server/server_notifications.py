@@ -28,6 +28,7 @@ class TelegramLogHandler(logging.Handler):
             message = self.format(record)
             for variable in (
                 "MAPFY_PASS",
+                "MAPFY_PASS_FALLBACK",
                 "MAPFY_GITHUB_TOKEN",
                 "MAPFY_API_KEY",
                 "MAPFY_TELEGRAM_BOT_TOKEN",
