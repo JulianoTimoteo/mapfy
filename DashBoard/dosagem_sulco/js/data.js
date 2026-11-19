@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_sulco
- * Total: 1308 registros
- * Atualizado em: 19/11/2026 11:40
+ * Total: 1309 registros
+ * Atualizado em: 19/11/2026 12:43
  */
 window.DOSAGEM_RAW_DATA = [
   {
@@ -31221,6 +31221,30 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.67",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 17": null
+  },
+  {
+    "ID": "4060376",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "19/11/2026 09:08",
+    "Latitude": "-21.06423000000000",
+    "Longitude": "-48.32512000000000",
+    "Data início": "19/11/2026 09:06",
+    "Data Fim": "19/11/2026 09:08",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/19/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.61",
     "Fazenda": "53501",
     "User": null,
     "Date": null,
