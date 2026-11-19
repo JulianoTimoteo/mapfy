@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - tpl_5s
  * Total: 81 registros
- * Atualizado em: 19/11/2026 13:46
+ * Atualizado em: 19/11/2026 14:50
  */
 window.TPL_5S_DATA = [
   {
@@ -2392,37 +2392,6 @@ window.TPL_5S_DATA = [
     "Unnamed: 22": null
   },
   {
-    "ID": "4060492",
-    "Usuário": "qualidade9@usinapitangueiras.com.br",
-    "Data": "19/11/2026 12:54",
-    "Latitude": "-21.07007000000000",
-    "Longitude": "-48.33070000000000",
-    "Data início": "19/11/2026 12:47",
-    "Data Fim": "19/11/2026 12:54",
-    "Status": "Open",
-    "Score": "0.00",
-    "Setor": "PLANTIO",
-    "Fazenda": "53501",
-    "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
-    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
-    "Operação": "1076-PLANTIO COM TORTA",
-    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
-    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
-    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
-    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
-    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
-    "07 - Extintor está válido e carregado?": "NOK",
-    "Observação": "Equipamentos: 60120, 11421,732 ",
-    "Fazenda.1": "53501",
-    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
-    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 22": null
-  },
-  {
     "ID": "4058421",
     "Usuário": "qualidade9@usinapitangueiras.com.br",
     "Data": "18/11/2026 14:11",
@@ -2508,6 +2477,37 @@ window.TPL_5S_DATA = [
     "Observação": "Frente motobomba 91",
     "Fazenda.1": "281409",
     "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "NOK",
+    "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 22": null
+  },
+  {
+    "ID": "4060492",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "19/11/2026 12:54",
+    "Latitude": "-21.07007000000000",
+    "Longitude": "-48.33070000000000",
+    "Data início": "19/11/2026 12:47",
+    "Data Fim": "19/11/2026 12:54",
+    "Status": "Open",
+    "Score": "0.00",
+    "Setor": "PLANTIO",
+    "Fazenda": "53501",
+    "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
+    "Responsável Vistoria": "REGINALDO DA SILVA GOMES ",
+    "Operação": "1076-PLANTIO COM TORTA",
+    "01-Área de vivência está em boas condições de organização e limpeza?": "N / A",
+    "03 - Não há itens faltando, quebrados ou com sinais de mal uso?": null,
+    "04 - A sinalização está adequada e o acesso ao local é seguro?": "OK",
+    "05 - Boas condições de organização, limpeza e conservação dos equipamentos?": null,
+    "06 - Os colaboradores estão utilizando os EPIs adequados?": "OK",
+    "07 - Extintor está válido e carregado?": "NOK",
+    "Observação": "Equipamentos: 60120, 11421,732 ",
+    "Fazenda.1": "53501",
+    "03 - Não há itens faltando/ quebrados ou com sinais de mal uso?": "OK",
     "05 - Boas condições de organização/ limpeza e conservação dos equipamentos?": "OK",
     "User": null,
     "Date": null,
