@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - sulcacao
- * Total: 2860 registros
- * Atualizado em: 19/11/2026 10:37
+ * Total: 2862 registros
+ * Atualizado em: 19/11/2026 11:40
  */
 window.SULCACAO_RAW_DATA = [
   {
@@ -65709,6 +65709,52 @@ window.SULCACAO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Profundidade do Sulco": "38",
     "Fazenda": "46601",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4060358",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "19/11/2026 10:07",
+    "Latitude": "-21.07006000000000",
+    "Longitude": "-48.32953000000000",
+    "Data início": "19/11/2026 10:06",
+    "Data Fim": "19/11/2026 10:07",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/19/2026",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Profundidade do Sulco": "36",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
+    "Unnamed: 16": null
+  },
+  {
+    "ID": "4060352",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "19/11/2026 09:59",
+    "Latitude": "-21.06921000000000",
+    "Longitude": "-48.32698000000000",
+    "Data início": "19/11/2026 09:58",
+    "Data Fim": "19/11/2026 09:59",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/19/2026",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Profundidade do Sulco": "37",
+    "Fazenda": "53501",
     "User": null,
     "Date": null,
     "Start date": null,

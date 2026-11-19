@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - canteirizacao
- * Total: 421 registros
- * Atualizado em: 19/11/2026 10:37
+ * Total: 422 registros
+ * Atualizado em: 19/11/2026 11:40
  */
 window.CANTEIRIZACAO_RAW_DATA = [
   {
@@ -10352,6 +10352,31 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Date": "09/12/2026 09:17 AM",
     "Start date": "09/12/2026 09:16 AM",
     "End date": "09/12/2026 09:17 AM",
+    "Unnamed: 18": null
+  },
+  {
+    "ID": "4060364",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "19/11/2026 10:13",
+    "Latitude": "-21.07002000000000",
+    "Longitude": "-48.32977000000000",
+    "Data início": "19/11/2026 10:12",
+    "Data Fim": "19/11/2026 10:13",
+    "Status": "Open",
+    "Score": "42.00",
+    "Score perc.": "100",
+    "Score desc.": null,
+    "Data Lançamento": "11/19/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3846",
+    "Frente": "261-PLANTIO MANUAL E CARPA",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Canteirização": "42",
+    "Fazenda": "53501",
+    "User": null,
+    "Date": null,
+    "Start date": null,
+    "End date": null,
     "Unnamed: 18": null
   },
   {
