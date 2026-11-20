@@ -1,46 +1,39 @@
 @echo off
 chcp 65001 > nul
-title Instalacao MapFy Telegram Monitor
+title MapFy Sentinel v2 [127.0.0.1:8765]
 cd /d "%~dp0"
 
 echo ==========================================================
-echo    INSTALACAO - MAPFY TELEGRAM MONITOR
+echo    CONFIGURACAO E INICIALIZACAO - MAPFY SENTINEL v2
 echo ==========================================================
 
 REM Detecta interpretador Python
-set PYTHON_EXE=python
+set "PYTHON_EXE="
 if exist "..\server\runtime\python.exe" (
     set "PYTHON_EXE=..\server\runtime\python.exe"
+) else if exist "%~dp0..\server\runtime\python.exe" (
+    set "PYTHON_EXE=%~dp0..\server\runtime\python.exe"
+) else (
+    set PYTHON_EXE=python
 )
 
-echo [INFO] Interpretador: %PYTHON_EXE%
-%PYTHON_EXE% --version
-if errorlevel 1 (
-    echo [ERRO] Python nao encontrado!
-    pause
-    exit /b 1
-)
-
-echo.
-echo [1/3] Instalando dependencias...
-%PYTHON_EXE% -m pip install -r requirements.txt
-
-echo.
-echo [2/3] Criando pastas data e logs...
+echo [INFO] Interpretador Python: %PYTHON_EXE%
+echo [INFO] Criando pastas data/ e logs/ se necessario...
 if not exist "data" mkdir data
 if not exist "logs" mkdir logs
 
-echo.
-echo [3/3] Verificando .env...
 if not exist ".env" (
     copy .env.example .env > nul
-    echo [AVISO] Arquivo .env criado a partir de .env.example.
-) else (
-    echo [OK] Arquivo .env ja presente.
+    echo [OK] Arquivo .env criado a partir de .env.example.
 )
 
 echo.
 echo ==========================================================
-echo Instalacao concluida com sucesso!
+echo [OK] AMBIENTE PRONTO! INICIANDO SENTINEL v2 AGORA...
+echo O monitor ficara ativo nesta janela. Nao feche.
+echo Endereco: http://127.0.0.1:8765/dashboard
 echo ==========================================================
+echo.
+
+%PYTHON_EXE% run_server.py
 pause

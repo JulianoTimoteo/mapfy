@@ -30,6 +30,17 @@ precompilados podem conter o fluxo antigo e nao devem ser usados para inicializa
       Desativa a inicializacao automatica e solicita o encerramento do supervisor,
       servidor e Sentinel.
 
+  [SENTINEL v2 - TELEGRAM E OBSERVABILIDADE 24/7]
+  - REGISTRAR_SENTINEL_INICIALIZACAO.bat
+      Registra o Sentinel v2 no Agendador de Tarefas do Windows para iniciar
+      automaticamente com o sistema, 100% em segundo plano (sem janela).
+  - INICIAR_SENTINEL_SEGUNDO_PLANO.bat
+      Inicia o Sentinel v2 em segundo plano imediatamente via pythonw.
+  - STATUS_SENTINEL.bat
+      Mostra se o Sentinel v2 esta ativo na porta 8765 e responde ao Telegram.
+  - PARAR_SENTINEL.bat
+      Encerra o processo do Sentinel v2 em segundo plano.
+
 ===============================================================================
 FUNCIONAMENTO EM COMPUTADORES SEM PYTHON INSTALADO:
 ===============================================================================
