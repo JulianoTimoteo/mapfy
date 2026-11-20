@@ -49,6 +49,12 @@ if %errorlevel% equ 0 (
 ) else (
     echo [OFFLINE] Servidor MapFy 24/7: INATIVO (Porta 8000 livre)
 )
+netstat -ano | findstr :8765 | findstr LISTENING >nul
+if %errorlevel% equ 0 (
+    echo [ONLINE] MapFy Sentinel v2: ATIVO na Porta 8765 (@MapfySentinelBot)
+) else (
+    echo [OFFLINE] MapFy Sentinel v2: INATIVO (Porta 8765 livre)
+)
 if exist "%SERVER_DIR%\sentinel_agent.pid" (
     echo [ATIVO] Agente Sentinel: Heartbeat operacional (PID gravado)
 ) else (

@@ -1,26 +1,22 @@
-# MapFy Telegram Monitor
+# MapFy Sentinel v2 — Centro de Controle Operacional
 
-Microservidor Python independente e desacoplado para observabilidade, heartbeat contínuo e notificações em tempo real do processo de extração de dados do **MapFy** via Telegram Bot API oficial.
+Microserviço autônomo de observabilidade, resiliência, mensageria durável e controle remoto via Telegram para a automação de extração de dados do **MapFy**.
 
 ---
 
-## 1. Visão Geral da Arquitetura
+## 1. Visão Geral
 
-O **MapFy Telegram Monitor** opera como um serviço satélite leve que roda localmente em `127.0.0.1:8765`. Ele não interfere nas regras de negócio, seletores, Playwright ou fluxo de dados do extrator principal.
+O **Sentinel v2** transforma o monitor passivo original em um **centro de controle operacional completo**, executando localmente em `127.0.0.1:8765`. Ele acompanha o ciclo de vida da automação (`automacao_mapfy.py`), detecta travamentos no navegador, pontos cegos do agendador, expõe um cockpit visual em tempo real e permite comando bidirecional interativo via Telegram com botões inline.
 
-### Principais Características
-- **Independência Total:** Se o monitor ou o Telegram estiverem offline, o processo de extração do MapFy continua normalmente sem ser interrompido.
-- **Segurança Reforçada:**
-  - O Token do Telegram reside exclusivamente no arquivo `.env` (nunca no código ou versionado).
-  - Todas as mensagens e logs passam por sanitização automática (`[REDACTED_TELEGRAM_TOKEN]`).
-  - Endpoints operacionais protegidos por chave de API (`X-API-Key`).
-  - Restrição rígida de destinatário: notificações são enviadas exclusivamente para o `TELEGRAM_CHAT_ID` configurado.
-- **Máquina de Estados & Heartbeat:**
-  - Estados: `IDLE`, `RUNNING`, `RUNNING_WITH_ERRORS`, `COMPLETED`, `FAILED`, `NO_HEARTBEAT`, `RECOVERED`.
-  - Se a extração passar mais de 180 segundos sem enviar heartbeat, um incidente é aberto no SQLite e um alerta de interrupção é disparado (com proteção anti-duplicação).
-  - Ao retomar os pulsos de vida, o incidente é fechado e uma notificação de recuperação é enviada.
-- **Banco de Dados Local SQLite (Modo WAL):**
-  - Armazena histórico completo de execuções, tempos de início/término, durações, eventos, erros e incidentes em `data/monitor.db`.
+### Destaques Arquiteturais
+- **Zero Interferência:** Se o Telegram ou a rede oscilarem, a extração real nunca é interrompida.
+- **Fila Durável Outbox:** Mensagens persistidas no SQLite em modo WAL com retry exponencial, backoff, jitter e respeito a rate limit HTTP 429 (`retry_after`).
+- **Telegram Bidirecional com RBAC:** Suporte a comandos interativos (`/status`, `/ultimo`, `/historico`, `/erros`, `/logs`, `/saude`, `/rodar_agora`, `/silenciar`) e botões inline com perfis `admin` e `viewer`.
+- **Anti-Flood Inteligente:** Erros repetitivos são agrupados por fingerprint e atualizados in-place na mensagem original sem gerar enxurrada de notificações.
+- **Dead Man's Switch:** Dispara alerta caso o Agendador de Tarefas do Windows falhe e nenhuma extração inicie dentro da janela programada.
+- **Detecção de STALLED:** Monitora o estágio atual do navegador e detecta travamento mesmo se a thread Python continuar viva.
+- **Cockpit Visual HTML:** Dashboard responsivo de página única acessível em `http://127.0.0.1:8765/dashboard` sem dependências externas de CDN.
+- **Métricas Prometheus:** Exportação padronizada em `http://127.0.0.1:8765/metrics`.
 
 ---
 
@@ -29,134 +25,105 @@ O **MapFy Telegram Monitor** opera como um serviço satélite leve que roda loca
 ```text
 MapFy_Telegram_Monitor/
 │
-├── .env                     # Credenciais locais (ignorado no Git)
-├── .env.example             # Modelo de configuração
+├── .env.example             # Modelo oficial de configuração
 ├── requirements.txt         # Dependências do microservidor
-├── README.md                # Documentação do sistema
-├── run_server.py            # Ponto de entrada do microservidor
-├── install_windows.ps1      # Script PowerShell de instalação
-├── install_windows.bat      # Script Batch de instalação
-├── start_windows.bat        # Script para iniciar o serviço
-├── stop_windows.bat         # Script para parar o serviço
+├── README.md                # Documentação completa
+├── CHANGELOG.md             # Histórico de versões
+├── run_server.py            # Ponto de entrada com CLI de autodiagnóstico
+├── install_windows.ps1      # Instalação e agendamento como tarefa no Windows
+├── uninstall_windows.ps1    # Remoção e limpeza de tarefa agendada
+├── start_windows.bat        # Inicialização rápida
+├── stop_windows.bat         # Encerramento limpo de processo
+├── MapFy_Telegram_Monitor.spec # Configuração de empacotamento PyInstaller
 │
-├── notifier/                # Núcleo do Microservidor
-│   ├── __init__.py
-│   ├── app.py               # MicroAPI FastAPI com rotas protegidas
-│   ├── telegram.py          # Cliente oficial Telegram Bot API e modelos
-│   ├── database.py          # Gerenciador SQLite com modo WAL e índices
-│   ├── monitor.py           # Máquina de estados e thread de heartbeat
-│   ├── security.py          # Validação de API Key e autorização de chat
-│   └── config.py            # Leitura de configurações e sanitização de logs
+├── notifier/                # Núcleo Operacional do Sentinel
+│   ├── app.py               # API FastAPI, rotas, dashboard HTML e métricas
+│   ├── bot_commands.py      # Manipulador de comandos e permissões do Telegram
+│   ├── config.py            # Resolução em cascata (Keyring -> Env -> .env)
+│   ├── database.py          # SQLite WAL versionado (v2), Outbox e incidentes
+│   ├── monitor.py           # Máquina de estados, Dead Man's Switch e STALLED
+│   ├── security.py          # Comparação em tempo constante e IP Rate Limiting
+│   └── telegram.py          # Cliente HTTP, workers de outbox e long-polling
 │
-├── integration/             # Módulos para o Extrator MapFy
-│   ├── __init__.py
-│   ├── notifier_client.py   # Cliente desacoplado e resiliente (ExtractionReporter)
-│   └── logging_handler.py   # Handler do logging Python para captura automática
+├── integration/             # Módulos de Integração para a Automação
+│   ├── notifier_client.py   # ExtractionReporter com context managers de estágio
+│   └── logging_handler.py   # Handler para roteamento de logs do Python
 │
-├── tests/                   # Suíte de Testes Automatizados
-│   ├── test_telegram.py     # Testes de formatação, sanitização e segurança
-│   ├── test_database.py     # Testes de persistência, métricas e integridade
-│   ├── test_api.py          # Testes dos endpoints HTTP e autenticação
-│   └── test_monitor.py      # Testes de máquina de estados e timeouts
-│
-├── data/
-│   └── monitor.db           # Banco SQLite de monitoramento
-│
-└── logs/
-    └── monitor.log          # Arquivo de logs rotativos do monitor
+└── tests/                   # Bateria com 31 testes unitários automatizados
+    ├── test_api.py          # Testes de contrato REST e segurança da API
+    ├── test_database.py     # Testes de persistência, migrações e incidentes
+    ├── test_monitor.py      # Testes de transição de estados e timeouts
+    ├── test_telegram.py     # Testes de formatação e sanitização de dados
+    └── test_sentinel_v2.py  # Testes de Outbox, anti-flood, RBAC e comandos
 ```
 
 ---
 
-## 3. Configuração do Bot do Telegram
+## 3. Instalação e Configuração
 
-1. Acesse o **BotFather** no Telegram e crie seu bot (ou use o bot existente `@MapfySentinelBot`).
-2. Obtenha o token gerado (ex: `1234567890:ABCdefGHIjklMNOpqrsTUVwxyz123456789`).
-3. Abra uma conversa com o bot no Telegram (`https://t.me/MapfySentinelBot`) e envie a mensagem `/start`.
-4. Configure as variáveis no arquivo `.env`:
-   ```env
-   TELEGRAM_BOT_USERNAME=MapfySentinelBot
-   TELEGRAM_BOT_TOKEN=seu_token_aqui
-   TELEGRAM_CHAT_ID=seu_chat_id_aqui
-   MONITOR_API_KEY=mapfy_monitor_secret_key_2026
-   ```
-
-*(Dica: Se não souber seu CHAT_ID, envie `/start` ao bot e use a ferramenta de descoberta do monitor).*
-
----
-
-## 4. Como Executar
-
-### Instalação
-Dê um duplo clique em `install_windows.bat` ou execute via PowerShell:
+### 3.1 Instalação Automática no Windows
+Abra o PowerShell na pasta do projeto e execute:
 ```powershell
 .\install_windows.ps1
 ```
-
-### Inicialização
-Dê um duplo clique em `start_windows.bat`. O servidor subirá em:
-`http://127.0.0.1:8765`
-
-### Parada
-Dê um duplo clique em `stop_windows.bat`.
-
----
-
-## 5. Endpoints da MicroAPI
-
-| Método | Endpoint | Protegido? | Descrição |
-| :--- | :--- | :---: | :--- |
-| `GET` | `/health` | Não | Verifica se o microservidor está online |
-| `GET` | `/status` | **Sim** (`X-API-Key`) | Retorna estado atual, execução ativa e incidentes |
-| `GET` | `/report/latest` | **Sim** (`X-API-Key`) | Retorna relatório da última extração e eventos |
-| `POST` | `/telegram/test` | **Sim** (`X-API-Key`) | Dispara mensagem de teste para o chat configurado |
-| `POST` | `/telegram/discover-chat` | **Sim** (`X-API-Key`) | Detecta o CHAT_ID que enviou `/start` ao bot |
-| `POST` | `/extraction/start` | **Sim** (`X-API-Key`) | Inicia monitoramento de uma execução |
-| `POST` | `/extraction/event` | **Sim** (`X-API-Key`) | Registra evento/erro operacional ou exceção |
-| `POST` | `/extraction/heartbeat`| **Sim** (`X-API-Key`) | Pulso de vida da extração (a cada 60s) |
-| `POST` | `/extraction/finish` | **Sim** (`X-API-Key`) | Encerra execução e gera relatório consolidado |
-
----
-
-## 6. Como Usar no Extrator MapFy
-
-```python
-from integration.notifier_client import ExtractionReporter
-from integration.logging_handler import TelegramMonitorLoggingHandler
-import logging
-
-# 1. Cria a instância do reporter
-reporter = ExtractionReporter(
-    base_url="http://127.0.0.1:8765",
-    api_key="mapfy_monitor_secret_key_2026",
-    auto_heartbeat=True  # Thread em segundo plano envia pulso a cada 60s
-)
-
-# 2. Conecta ao logging do Python para captura automática de erros
-logging.getLogger().addHandler(TelegramMonitorLoggingHandler(reporter))
-
-# 3. Notifica o início da extração
-run_id = reporter.start()
-
-try:
-    # Executa a rotina do MapFy normalmente...
-    # ...
-    # Pode enviar eventos manuais quando desejar:
-    reporter.event(level="INFO", message="Download concluído com sucesso")
-
-    # Finaliza com sucesso
-    reporter.finish(status="COMPLETED", summary={"total_linhas": 1500})
-except Exception as e:
-    reporter.event(level="ERROR", message=str(e), details=traceback.format_exc())
-    reporter.finish(status="FAILED")
-    raise
-```
-
----
-
-## 7. Execução dos Testes Automatizados
-
-Para rodar todos os testes automatizados:
+Para registrar o Sentinel como **Tarefa Agendada do Windows** com auto-recuperação contínua:
 ```powershell
-python -m unittest discover -s tests -v
+.\install_windows.ps1 -AsTask
 ```
+
+### 3.2 Geração de Chave de API e Configuração de Segredos
+O Sentinel nunca utiliza senhas padrão em produção. Para gerar uma chave criptográfica forte:
+```powershell
+python run_server.py --generate-key
+```
+
+Para armazenar a chave com segurança no **Windows Credential Manager**:
+```powershell
+python run_server.py --set-secret MONITOR_API_KEY --value "SUA_CHAVE_AQUI"
+```
+
+### 3.3 Autodiagnóstico Pré-Voo
+Verifique se todo o ambiente, banco de dados e permissões estão íntegros executando:
+```powershell
+python run_server.py --selfcheck
+```
+
+---
+
+## 4. Comandos do Bot no Telegram
+
+| Comando | Descrição | Nível de Acesso |
+| :--- | :--- | :---: |
+| `/status` | Exibe o estado operacional, estágio atual e progresso | Todos |
+| `/ultimo` | Relatório analítico completo da última extração | Todos |
+| `/historico` | Lista consolidada das últimas 5 execuções | Todos |
+| `/erros` | Últimos 5 erros registrados com traceback | Todos |
+| `/logs [N]` | Últimas N linhas do log operacional ativo | Todos |
+| `/proxima` | Previsão da próxima execução agendada | Todos |
+| `/saude` | Diagnóstico de CPU, RAM, discos C: e D: e SQLite | Todos |
+| `/silenciar [m]` | Suspende notificações de incidentes por M minutos | Todos |
+| `/retomar` | Reativa notificações operacionais imediatamente | Todos |
+| `/rodar_agora` | Dispara o extrator `automacao_mapfy.py` manualmente | **Admin** |
+| `/parar` | Solicita cancelamento da execução ativa | **Admin** |
+| `/parear [código]`| Pareia o primeiro administrador usando código de 6 dígitos | — |
+| `/ajuda` | Exibe o menu completo e atalhos rápidos | Todos |
+
+---
+
+## 5. Dashboard Cockpit Visual
+
+Acesse `http://127.0.0.1:8765/dashboard` diretamente pelo navegador da máquina host para visualizar:
+- KPIs de execução em tempo real (Estado, Estágio, Linhas, Taxa de Sucesso);
+- Fila Outbox e diagnósticos do sistema;
+- Histórico tabular recente atualizado automaticamente a cada 4 segundos.
+
+---
+
+## 6. Execução da Bateria de Testes
+
+Para validar a integridade de todas as camadas do sistema:
+```powershell
+$env:PYTHONPATH="."
+python -m unittest discover -s tests
+```
+*Total de 31 testes unitários com cobertura de banco de dados, API, concorrência, outbox e comandos.*
