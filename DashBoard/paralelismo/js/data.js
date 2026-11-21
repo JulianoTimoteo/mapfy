@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - paralelismo
- * Total: 2479 registros
- * Atualizado em: 21/11/2026 14:21
+ * Total: 2485 registros
+ * Atualizado em: 21/11/2026 15:26
  */
 window.PARALELISMO_RAW_DATA = [
   {
@@ -44462,6 +44462,114 @@ window.PARALELISMO_RAW_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Paralelismo": "1.4",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065669",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/11/2026 12:30",
+    "Latitude": "-21.06845000000000",
+    "Longitude": "-48.32734000000000",
+    "Data início": "21/11/2026 12:28",
+    "Data Fim": "21/11/2026 12:30",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.44",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065667",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/11/2026 12:24",
+    "Latitude": "-21.06814000000000",
+    "Longitude": "-48.32656000000000",
+    "Data início": "21/11/2026 12:21",
+    "Data Fim": "21/11/2026 12:24",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065665",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/11/2026 12:17",
+    "Latitude": "-21.06796000000000",
+    "Longitude": "-48.32582000000000",
+    "Data início": "21/11/2026 12:16",
+    "Data Fim": "21/11/2026 12:17",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.57",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065663",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/11/2026 09:20",
+    "Latitude": "-21.06883000000000",
+    "Longitude": "-48.32773000000000",
+    "Data início": "21/11/2026 09:16",
+    "Data Fim": "21/11/2026 09:19",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.44",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065661",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/11/2026 09:11",
+    "Latitude": "-21.06863000000000",
+    "Longitude": "-48.32714000000000",
+    "Data início": "21/11/2026 09:05",
+    "Data Fim": "21/11/2026 09:11",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.4",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065660",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/11/2026 09:04",
+    "Latitude": "-21.06839000000000",
+    "Longitude": "-48.32639000000000",
+    "Data início": "21/11/2026 09:02",
+    "Data Fim": "21/11/2026 09:04",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
+    "Paralelismo": "1.47",
     "Fazenda": "53501"
   },
   {
