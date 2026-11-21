@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - broca_armadilha
  * Total: 116 registros
- * Atualizado em: 21/11/2026 07:40
+ * Atualizado em: 21/11/2026 07:46
  */
 window.BROCA_ARMADILHA_DATA = [
   {
@@ -19,8 +19,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39101 > 1855",
     "Quantidade Machos": "19",
     "Fazenda": "39101",
-    "Talhão": "1855",
-    "Unnamed: 15": null
+    "Talhão": "1855"
   },
   {
     "ID": "3952282",
@@ -37,8 +36,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 10",
     "Quantidade Machos": "29",
     "Fazenda": "70417",
-    "Talhão": "10",
-    "Unnamed: 15": null
+    "Talhão": "10"
   },
   {
     "ID": "3952281",
@@ -55,8 +53,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 39",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "39",
-    "Unnamed: 15": null
+    "Talhão": "39"
   },
   {
     "ID": "3952280",
@@ -73,8 +70,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 42",
     "Quantidade Machos": "3",
     "Fazenda": "70417",
-    "Talhão": "42",
-    "Unnamed: 15": null
+    "Talhão": "42"
   },
   {
     "ID": "3952279",
@@ -91,8 +87,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "38302 > 8",
     "Quantidade Machos": "2",
     "Fazenda": "38302",
-    "Talhão": "8",
-    "Unnamed: 15": null
+    "Talhão": "8"
   },
   {
     "ID": "3952278",
@@ -109,8 +104,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70420 > 5",
     "Quantidade Machos": "2",
     "Fazenda": "70420",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3949541",
@@ -127,8 +121,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 4",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "4",
-    "Unnamed: 15": null
+    "Talhão": "4"
   },
   {
     "ID": "3949540",
@@ -145,8 +138,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 7",
     "Quantidade Machos": "1",
     "Fazenda": "70422",
-    "Talhão": "7",
-    "Unnamed: 15": null
+    "Talhão": "7"
   },
   {
     "ID": "3949539",
@@ -163,8 +155,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 5",
     "Quantidade Machos": "1",
     "Fazenda": "70422",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3949538",
@@ -181,8 +172,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70419 > 7",
     "Quantidade Machos": "11",
     "Fazenda": "70419",
-    "Talhão": "7",
-    "Unnamed: 15": null
+    "Talhão": "7"
   },
   {
     "ID": "3949537",
@@ -199,8 +189,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63201 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "63201",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3949536",
@@ -217,8 +206,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 6",
     "Quantidade Machos": "0",
     "Fazenda": "68802",
-    "Talhão": "6",
-    "Unnamed: 15": null
+    "Talhão": "6"
   },
   {
     "ID": "3949534",
@@ -235,8 +223,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 4",
     "Quantidade Machos": "38",
     "Fazenda": "68802",
-    "Talhão": "4",
-    "Unnamed: 15": null
+    "Talhão": "4"
   },
   {
     "ID": "3949533",
@@ -253,8 +240,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68801 > 2",
     "Quantidade Machos": "25",
     "Fazenda": "68801",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3946492",
@@ -271,8 +257,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "32201 > 21",
     "Quantidade Machos": "3",
     "Fazenda": "32201",
-    "Talhão": "21",
-    "Unnamed: 15": null
+    "Talhão": "21"
   },
   {
     "ID": "3945943",
@@ -289,8 +274,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 1",
     "Quantidade Machos": "1",
     "Fazenda": "70406",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3945942",
@@ -307,8 +291,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 6",
     "Quantidade Machos": "10",
     "Fazenda": "70411",
-    "Talhão": "6",
-    "Unnamed: 15": null
+    "Talhão": "6"
   },
   {
     "ID": "3945941",
@@ -325,8 +308,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 2",
     "Quantidade Machos": "2",
     "Fazenda": "70411",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3945939",
@@ -343,8 +325,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 3",
     "Quantidade Machos": "16",
     "Fazenda": "70406",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3945938",
@@ -361,8 +342,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39001 > 1",
     "Quantidade Machos": "36",
     "Fazenda": "39001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3936709",
@@ -379,8 +359,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "54401 > 2",
     "Quantidade Machos": "22",
     "Fazenda": "54401",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3930747",
@@ -397,8 +376,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34706 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "34706",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3930746",
@@ -415,8 +393,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "35001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "35001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3928158",
@@ -433,8 +410,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "46501 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "46501",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3928157",
@@ -451,8 +427,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "61501 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "61501",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3928155",
@@ -469,8 +444,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68501 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "68501",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3928154",
@@ -487,8 +461,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "30502 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "30502",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3928153",
@@ -505,8 +478,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63301 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "63301",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3928152",
@@ -523,8 +495,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "30202 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "30202",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3928151",
@@ -541,8 +512,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "37101 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "37101",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3926241",
@@ -559,8 +529,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "53401 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "53401",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3926240",
@@ -577,8 +546,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39101 > 1855",
     "Quantidade Machos": "0",
     "Fazenda": "39101",
-    "Talhão": "1855",
-    "Unnamed: 15": null
+    "Talhão": "1855"
   },
   {
     "ID": "3926239",
@@ -595,8 +563,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "33401 > 2570",
     "Quantidade Machos": "0",
     "Fazenda": "33401",
-    "Talhão": "2570",
-    "Unnamed: 15": null
+    "Talhão": "2570"
   },
   {
     "ID": "3926238",
@@ -613,8 +580,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43401 > 23",
     "Quantidade Machos": "50",
     "Fazenda": "43401",
-    "Talhão": "23",
-    "Unnamed: 15": null
+    "Talhão": "23"
   },
   {
     "ID": "3926237",
@@ -631,8 +597,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "32201 > 21",
     "Quantidade Machos": "0",
     "Fazenda": "32201",
-    "Talhão": "21",
-    "Unnamed: 15": null
+    "Talhão": "21"
   },
   {
     "ID": "3923353",
@@ -649,8 +614,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41801 > 3",
     "Quantidade Machos": "4",
     "Fazenda": "41801",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3923351",
@@ -667,8 +631,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41701 > 5",
     "Quantidade Machos": "17",
     "Fazenda": "41701",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3923349",
@@ -685,8 +648,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34704 > 74",
     "Quantidade Machos": "13",
     "Fazenda": "34704",
-    "Talhão": "74",
-    "Unnamed: 15": null
+    "Talhão": "74"
   },
   {
     "ID": "3922084",
@@ -703,8 +665,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "47601 > 46",
     "Quantidade Machos": "6",
     "Fazenda": "47601",
-    "Talhão": "46",
-    "Unnamed: 15": null
+    "Talhão": "46"
   },
   {
     "ID": "3917698",
@@ -721,8 +682,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 5",
     "Quantidade Machos": "3",
     "Fazenda": "40101",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3917697",
@@ -739,8 +699,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 7",
     "Quantidade Machos": "21",
     "Fazenda": "40101",
-    "Talhão": "7",
-    "Unnamed: 15": null
+    "Talhão": "7"
   },
   {
     "ID": "3917696",
@@ -757,8 +716,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 9",
     "Quantidade Machos": "47",
     "Fazenda": "40101",
-    "Talhão": "9",
-    "Unnamed: 15": null
+    "Talhão": "9"
   },
   {
     "ID": "3917695",
@@ -775,8 +733,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 11",
     "Quantidade Machos": "25",
     "Fazenda": "40101",
-    "Talhão": "11",
-    "Unnamed: 15": null
+    "Talhão": "11"
   },
   {
     "ID": "3917691",
@@ -793,8 +750,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 31",
     "Quantidade Machos": "14",
     "Fazenda": "34802",
-    "Talhão": "31",
-    "Unnamed: 15": null
+    "Talhão": "31"
   },
   {
     "ID": "3917693",
@@ -811,8 +767,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 27",
     "Quantidade Machos": "34",
     "Fazenda": "34802",
-    "Talhão": "27",
-    "Unnamed: 15": null
+    "Talhão": "27"
   },
   {
     "ID": "3917694",
@@ -829,8 +784,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 16",
     "Quantidade Machos": "14",
     "Fazenda": "40101",
-    "Talhão": "16",
-    "Unnamed: 15": null
+    "Talhão": "16"
   },
   {
     "ID": "3915685",
@@ -847,8 +801,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70414 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "70414",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3915684",
@@ -865,8 +818,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 10",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "10",
-    "Unnamed: 15": null
+    "Talhão": "10"
   },
   {
     "ID": "3915683",
@@ -883,8 +835,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 39",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "39",
-    "Unnamed: 15": null
+    "Talhão": "39"
   },
   {
     "ID": "3915694",
@@ -901,8 +852,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70417 > 42",
     "Quantidade Machos": "0",
     "Fazenda": "70417",
-    "Talhão": "42",
-    "Unnamed: 15": null
+    "Talhão": "42"
   },
   {
     "ID": "3917112",
@@ -919,8 +869,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "38302 > 8",
     "Quantidade Machos": "0",
     "Fazenda": "38302",
-    "Talhão": "8",
-    "Unnamed: 15": null
+    "Talhão": "8"
   },
   {
     "ID": "3915704",
@@ -937,8 +886,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70420 > 5",
     "Quantidade Machos": "0",
     "Fazenda": "70420",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3915703",
@@ -955,8 +903,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 5",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3915533",
@@ -973,8 +920,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 4",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "4",
-    "Unnamed: 15": null
+    "Talhão": "4"
   },
   {
     "ID": "3915532",
@@ -991,8 +937,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70422 > 7",
     "Quantidade Machos": "0",
     "Fazenda": "70422",
-    "Talhão": "7",
-    "Unnamed: 15": null
+    "Talhão": "7"
   },
   {
     "ID": "3915531",
@@ -1009,8 +954,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70419 > 7",
     "Quantidade Machos": "0",
     "Fazenda": "70419",
-    "Talhão": "7",
-    "Unnamed: 15": null
+    "Talhão": "7"
   },
   {
     "ID": "3915526",
@@ -1027,8 +971,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "71001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "71001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3913645",
@@ -1045,8 +988,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43401 > 23",
     "Quantidade Machos": "0",
     "Fazenda": "43401",
-    "Talhão": "23",
-    "Unnamed: 15": null
+    "Talhão": "23"
   },
   {
     "ID": "3913644",
@@ -1063,8 +1005,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68801 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "68801",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3913643",
@@ -1081,8 +1022,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 4",
     "Quantidade Machos": "0",
     "Fazenda": "68802",
-    "Talhão": "4",
-    "Unnamed: 15": null
+    "Talhão": "4"
   },
   {
     "ID": "3914895",
@@ -1099,8 +1039,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "68802 > 6",
     "Quantidade Machos": "0",
     "Fazenda": "68802",
-    "Talhão": "6",
-    "Unnamed: 15": null
+    "Talhão": "6"
   },
   {
     "ID": "3914894",
@@ -1117,8 +1056,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63201 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "63201",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3914958",
@@ -1135,8 +1073,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "54401 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "54401",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3914890",
@@ -1153,8 +1090,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "70406",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3914889",
@@ -1171,8 +1107,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70406 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "70406",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3914888",
@@ -1189,8 +1124,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3914887",
@@ -1207,8 +1141,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 6",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "6",
-    "Unnamed: 15": null
+    "Talhão": "6"
   },
   {
     "ID": "3914886",
@@ -1225,8 +1158,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 15",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "15",
-    "Unnamed: 15": null
+    "Talhão": "15"
   },
   {
     "ID": "3914885",
@@ -1243,8 +1175,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 17",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "17",
-    "Unnamed: 15": null
+    "Talhão": "17"
   },
   {
     "ID": "3914884",
@@ -1261,8 +1192,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 13",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "13",
-    "Unnamed: 15": null
+    "Talhão": "13"
   },
   {
     "ID": "3914883",
@@ -1279,8 +1209,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70404 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "70404",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3914882",
@@ -1297,8 +1226,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "43001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3914881",
@@ -1315,8 +1243,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "43001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3914880",
@@ -1333,8 +1260,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63501 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "63501",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3914879",
@@ -1351,8 +1277,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63401 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "63401",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3914878",
@@ -1369,8 +1294,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63502 > 2977",
     "Quantidade Machos": "0",
     "Fazenda": "63502",
-    "Talhão": "2977",
-    "Unnamed: 15": null
+    "Talhão": "2977"
   },
   {
     "ID": "3914877",
@@ -1387,8 +1311,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "53201 > 38",
     "Quantidade Machos": "0",
     "Fazenda": "53201",
-    "Talhão": "38",
-    "Unnamed: 15": null
+    "Talhão": "38"
   },
   {
     "ID": "3914876",
@@ -1405,8 +1328,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "39701",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3914873",
@@ -1423,8 +1345,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 2",
     "Quantidade Machos": "0",
     "Fazenda": "39701",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3912534",
@@ -1441,8 +1362,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "39001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3912533",
@@ -1459,8 +1379,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "47601 > 46",
     "Quantidade Machos": "0",
     "Fazenda": "47601",
-    "Talhão": "46",
-    "Unnamed: 15": null
+    "Talhão": "46"
   },
   {
     "ID": "3912532",
@@ -1477,8 +1396,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41701 > 5",
     "Quantidade Machos": "0",
     "Fazenda": "41701",
-    "Talhão": "5",
-    "Unnamed: 15": null
+    "Talhão": "5"
   },
   {
     "ID": "3912531",
@@ -1495,8 +1413,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "41801 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "41801",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3912530",
@@ -1513,8 +1430,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34704 > 74",
     "Quantidade Machos": "0",
     "Fazenda": "34704",
-    "Talhão": "74",
-    "Unnamed: 15": null
+    "Talhão": "74"
   },
   {
     "ID": "3912529",
@@ -1531,8 +1447,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 3",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3912528",
@@ -1549,8 +1464,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 7",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "7",
-    "Unnamed: 15": null
+    "Talhão": "7"
   },
   {
     "ID": "3912527",
@@ -1567,8 +1481,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 9",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "9",
-    "Unnamed: 15": null
+    "Talhão": "9"
   },
   {
     "ID": "3912526",
@@ -1585,8 +1498,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 11",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "11",
-    "Unnamed: 15": null
+    "Talhão": "11"
   },
   {
     "ID": "3912525",
@@ -1603,8 +1515,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 14",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "14",
-    "Unnamed: 15": null
+    "Talhão": "14"
   },
   {
     "ID": "3912524",
@@ -1621,8 +1532,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "40101 > 16",
     "Quantidade Machos": "0",
     "Fazenda": "40101",
-    "Talhão": "16",
-    "Unnamed: 15": null
+    "Talhão": "16"
   },
   {
     "ID": "3912523",
@@ -1639,8 +1549,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 27",
     "Quantidade Machos": "0",
     "Fazenda": "34802",
-    "Talhão": "27",
-    "Unnamed: 15": null
+    "Talhão": "27"
   },
   {
     "ID": "3912522",
@@ -1657,170 +1566,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "34802 > 31",
     "Quantidade Machos": "0",
     "Fazenda": "34802",
-    "Talhão": "31",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955216",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 10:48",
-    "Latitude": "-21.14117000000000",
-    "Longitude": "-48.39613000000000",
-    "Data início": "01/10/2026 10:48",
-    "Data Fim": "01/10/2026 10:48",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "46501 > 2",
-    "Quantidade Machos": "16",
-    "Fazenda": "46501",
-    "Talhão": "2",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955160",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 10:27",
-    "Latitude": "-21.18408000000000",
-    "Longitude": "-48.40190000000000",
-    "Data início": "01/10/2026 10:26",
-    "Data Fim": "01/10/2026 10:27",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "61501 > 1",
-    "Quantidade Machos": "35",
-    "Fazenda": "61501",
-    "Talhão": "1",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955159",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 09:48",
-    "Latitude": "-21.08965000000000",
-    "Longitude": "-48.44516000000000",
-    "Data início": "01/10/2026 09:48",
-    "Data Fim": "01/10/2026 09:48",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "68501 > 2",
-    "Quantidade Machos": "18",
-    "Fazenda": "68501",
-    "Talhão": "2",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955157",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 09:33",
-    "Latitude": "-21.04122000000000",
-    "Longitude": "-48.47037000000000",
-    "Data início": "01/10/2026 09:32",
-    "Data Fim": "01/10/2026 09:33",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "30502 > 1",
-    "Quantidade Machos": "15",
-    "Fazenda": "30502",
-    "Talhão": "1",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955154",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 09:28",
-    "Latitude": "-21.03940000000000",
-    "Longitude": "-48.46637000000000",
-    "Data início": "01/10/2026 09:28",
-    "Data Fim": "01/10/2026 09:28",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "63301 > 1",
-    "Quantidade Machos": "31",
-    "Fazenda": "63301",
-    "Talhão": "1",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955152",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 09:23",
-    "Latitude": "-21.03183000000000",
-    "Longitude": "-48.46299000000000",
-    "Data início": "01/10/2026 09:22",
-    "Data Fim": "01/10/2026 09:23",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "30202 > 3",
-    "Quantidade Machos": "9",
-    "Fazenda": "30202",
-    "Talhão": "3",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955151",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 09:18",
-    "Latitude": "-21.03376000000000",
-    "Longitude": "-48.46089000000000",
-    "Data início": "01/10/2026 09:18",
-    "Data Fim": "01/10/2026 09:18",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "37101 > 1",
-    "Quantidade Machos": "30",
-    "Fazenda": "37101",
-    "Talhão": "1",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955149",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 08:27",
-    "Latitude": "-20.87820000000000",
-    "Longitude": "-48.67094000000000",
-    "Data início": "01/10/2026 08:26",
-    "Data Fim": "01/10/2026 08:27",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "34706 > 2",
-    "Quantidade Machos": "0",
-    "Fazenda": "34706",
-    "Talhão": "2",
-    "Unnamed: 15": null
-  },
-  {
-    "ID": "3955147",
-    "Usuário": "qualidade3@usinapitangueiras.com.br",
-    "Data": "01/10/2026 08:02",
-    "Latitude": "-20.92598000000000",
-    "Longitude": "-48.51858000000000",
-    "Data início": "01/10/2026 08:02",
-    "Data Fim": "01/10/2026 08:02",
-    "Status": "Open",
-    "Score": "0.00",
-    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
-    "Etapa": "RECOLHIMENTO",
-    "Fazenda - Talhão": "35001 > 1",
-    "Quantidade Machos": "2",
-    "Fazenda": "35001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "31"
   },
   {
     "ID": "3952537",
@@ -1837,8 +1583,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63502 > 2977",
     "Quantidade Machos": "38",
     "Fazenda": "63502",
-    "Talhão": "2977",
-    "Unnamed: 15": null
+    "Talhão": "2977"
   },
   {
     "ID": "3952536",
@@ -1855,8 +1600,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63401 > 1",
     "Quantidade Machos": "50",
     "Fazenda": "63401",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3952535",
@@ -1873,8 +1617,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63401 > 1",
     "Quantidade Machos": "50",
     "Fazenda": "63401",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3952534",
@@ -1891,8 +1634,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "63501 > 2",
     "Quantidade Machos": "19",
     "Fazenda": "63501",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3952533",
@@ -1909,8 +1651,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 13",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "13",
-    "Unnamed: 15": null
+    "Talhão": "13"
   },
   {
     "ID": "3952532",
@@ -1927,8 +1668,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 15",
     "Quantidade Machos": "0",
     "Fazenda": "70411",
-    "Talhão": "15",
-    "Unnamed: 15": null
+    "Talhão": "15"
   },
   {
     "ID": "3952531",
@@ -1945,8 +1685,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70411 > 17",
     "Quantidade Machos": "31",
     "Fazenda": "70411",
-    "Talhão": "17",
-    "Unnamed: 15": null
+    "Talhão": "17"
   },
   {
     "ID": "3952530",
@@ -1963,8 +1702,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70404 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "70404",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3952529",
@@ -1981,8 +1719,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "43001 > 1",
     "Quantidade Machos": "0",
     "Fazenda": "43001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3952528",
@@ -1999,8 +1736,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "53401 > 2",
     "Quantidade Machos": "43",
     "Fazenda": "53401",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
   },
   {
     "ID": "3952527",
@@ -2017,8 +1753,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "70414 > 3",
     "Quantidade Machos": "5",
     "Fazenda": "70414",
-    "Talhão": "3",
-    "Unnamed: 15": null
+    "Talhão": "3"
   },
   {
     "ID": "3952526",
@@ -2035,8 +1770,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "33401 > 2570",
     "Quantidade Machos": "1",
     "Fazenda": "33401",
-    "Talhão": "2570",
-    "Unnamed: 15": null
+    "Talhão": "2570"
   },
   {
     "ID": "3952286",
@@ -2053,8 +1787,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "71001 > 1",
     "Quantidade Machos": "1",
     "Fazenda": "71001",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3952285",
@@ -2071,8 +1804,7 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 1",
     "Quantidade Machos": "7",
     "Fazenda": "39701",
-    "Talhão": "1",
-    "Unnamed: 15": null
+    "Talhão": "1"
   },
   {
     "ID": "3952284",
@@ -2089,7 +1821,159 @@ window.BROCA_ARMADILHA_DATA = [
     "Fazenda - Talhão": "39701 > 2",
     "Quantidade Machos": "36",
     "Fazenda": "39701",
-    "Talhão": "2",
-    "Unnamed: 15": null
+    "Talhão": "2"
+  },
+  {
+    "ID": "3955216",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 10:48",
+    "Latitude": "-21.14117000000000",
+    "Longitude": "-48.39613000000000",
+    "Data início": "01/10/2026 10:48",
+    "Data Fim": "01/10/2026 10:48",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "46501 > 2",
+    "Quantidade Machos": "16",
+    "Fazenda": "46501",
+    "Talhão": "2"
+  },
+  {
+    "ID": "3955160",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 10:27",
+    "Latitude": "-21.18408000000000",
+    "Longitude": "-48.40190000000000",
+    "Data início": "01/10/2026 10:26",
+    "Data Fim": "01/10/2026 10:27",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "61501 > 1",
+    "Quantidade Machos": "35",
+    "Fazenda": "61501",
+    "Talhão": "1"
+  },
+  {
+    "ID": "3955159",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 09:48",
+    "Latitude": "-21.08965000000000",
+    "Longitude": "-48.44516000000000",
+    "Data início": "01/10/2026 09:48",
+    "Data Fim": "01/10/2026 09:48",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "68501 > 2",
+    "Quantidade Machos": "18",
+    "Fazenda": "68501",
+    "Talhão": "2"
+  },
+  {
+    "ID": "3955157",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 09:33",
+    "Latitude": "-21.04122000000000",
+    "Longitude": "-48.47037000000000",
+    "Data início": "01/10/2026 09:32",
+    "Data Fim": "01/10/2026 09:33",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "30502 > 1",
+    "Quantidade Machos": "15",
+    "Fazenda": "30502",
+    "Talhão": "1"
+  },
+  {
+    "ID": "3955154",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 09:28",
+    "Latitude": "-21.03940000000000",
+    "Longitude": "-48.46637000000000",
+    "Data início": "01/10/2026 09:28",
+    "Data Fim": "01/10/2026 09:28",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "63301 > 1",
+    "Quantidade Machos": "31",
+    "Fazenda": "63301",
+    "Talhão": "1"
+  },
+  {
+    "ID": "3955152",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 09:23",
+    "Latitude": "-21.03183000000000",
+    "Longitude": "-48.46299000000000",
+    "Data início": "01/10/2026 09:22",
+    "Data Fim": "01/10/2026 09:23",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "30202 > 3",
+    "Quantidade Machos": "9",
+    "Fazenda": "30202",
+    "Talhão": "3"
+  },
+  {
+    "ID": "3955151",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 09:18",
+    "Latitude": "-21.03376000000000",
+    "Longitude": "-48.46089000000000",
+    "Data início": "01/10/2026 09:18",
+    "Data Fim": "01/10/2026 09:18",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "37101 > 1",
+    "Quantidade Machos": "30",
+    "Fazenda": "37101",
+    "Talhão": "1"
+  },
+  {
+    "ID": "3955149",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 08:27",
+    "Latitude": "-20.87820000000000",
+    "Longitude": "-48.67094000000000",
+    "Data início": "01/10/2026 08:26",
+    "Data Fim": "01/10/2026 08:27",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "34706 > 2",
+    "Quantidade Machos": "0",
+    "Fazenda": "34706",
+    "Talhão": "2"
+  },
+  {
+    "ID": "3955147",
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "01/10/2026 08:02",
+    "Latitude": "-20.92598000000000",
+    "Longitude": "-48.51858000000000",
+    "Data início": "01/10/2026 08:02",
+    "Data Fim": "01/10/2026 08:02",
+    "Status": "Open",
+    "Score": "0.00",
+    "Responsável Lançamento": "EDILIANA CARDOSO DA COSTA",
+    "Etapa": "RECOLHIMENTO",
+    "Fazenda - Talhão": "35001 > 1",
+    "Quantidade Machos": "2",
+    "Fazenda": "35001",
+    "Talhão": "1"
   }
 ];

@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - cobricao
  * Total: 2051 registros
- * Atualizado em: 21/11/2026 07:40
+ * Atualizado em: 21/11/2026 07:46
  */
 window.COBRICAO_DATA = [
   {
@@ -20,8 +20,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577110",
@@ -39,8 +38,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576703",
@@ -58,8 +56,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576701",
@@ -77,8 +74,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576699",
@@ -96,8 +92,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576697",
@@ -115,8 +110,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576695",
@@ -134,8 +128,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576743",
@@ -153,8 +146,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576742",
@@ -172,8 +164,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576741",
@@ -191,8 +182,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576740",
@@ -210,8 +200,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576739",
@@ -229,8 +218,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577394",
@@ -248,8 +236,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576738",
@@ -267,8 +254,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577393",
@@ -286,8 +272,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3576737",
@@ -305,8 +290,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577392",
@@ -324,8 +308,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577391",
@@ -343,8 +326,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577390",
@@ -362,8 +344,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577389",
@@ -381,8 +362,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3577388",
@@ -400,8 +380,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574687",
@@ -419,8 +398,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574686",
@@ -438,8 +416,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574685",
@@ -457,8 +434,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574531",
@@ -476,8 +452,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574526",
@@ -495,8 +470,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574452",
@@ -514,8 +488,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574451",
@@ -533,8 +506,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574450",
@@ -552,8 +524,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574449",
@@ -571,8 +542,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574448",
@@ -590,8 +560,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574781",
@@ -609,8 +578,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574780",
@@ -628,8 +596,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574779",
@@ -647,8 +614,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574778",
@@ -666,8 +632,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574777",
@@ -685,8 +650,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574566",
@@ -704,8 +668,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574509",
@@ -723,8 +686,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574508",
@@ -742,8 +704,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574507",
@@ -761,8 +722,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574506",
@@ -780,8 +740,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574505",
@@ -799,8 +758,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574504",
@@ -818,8 +776,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3574503",
@@ -837,8 +794,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572600",
@@ -856,8 +812,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572599",
@@ -875,8 +830,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572597",
@@ -894,8 +848,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572596",
@@ -913,8 +866,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572595",
@@ -932,8 +884,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572411",
@@ -951,8 +902,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572410",
@@ -970,8 +920,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572409",
@@ -989,8 +938,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572404",
@@ -1008,8 +956,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572201",
@@ -1027,8 +974,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572200",
@@ -1046,8 +992,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572199",
@@ -1065,8 +1010,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572198",
@@ -1084,8 +1028,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3572197",
@@ -1103,8 +1046,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3571046",
@@ -1122,8 +1064,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3571047",
@@ -1141,8 +1082,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3571045",
@@ -1160,8 +1100,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3571043",
@@ -1179,8 +1118,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3571044",
@@ -1198,8 +1136,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570250",
@@ -1217,8 +1154,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570249",
@@ -1236,8 +1172,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570282",
@@ -1255,8 +1190,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570281",
@@ -1274,8 +1208,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570280",
@@ -1293,8 +1226,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570144",
@@ -1312,8 +1244,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570143",
@@ -1331,8 +1262,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570142",
@@ -1350,8 +1280,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570141",
@@ -1369,8 +1298,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570074",
@@ -1388,8 +1316,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570070",
@@ -1407,8 +1334,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570069",
@@ -1426,8 +1352,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3570068",
@@ -1445,8 +1370,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569860",
@@ -1464,8 +1388,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569859",
@@ -1483,8 +1406,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569857",
@@ -1502,8 +1424,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569858",
@@ -1521,8 +1442,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569856",
@@ -1540,8 +1460,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569855",
@@ -1559,8 +1478,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569854",
@@ -1578,8 +1496,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3569853",
@@ -1597,8 +1514,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567737",
@@ -1616,8 +1532,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567736",
@@ -1635,8 +1550,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567720",
@@ -1654,8 +1568,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567719",
@@ -1673,8 +1586,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567717",
@@ -1692,8 +1604,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567735",
@@ -1711,8 +1622,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567079",
@@ -1730,8 +1640,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567078",
@@ -1749,8 +1658,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3567077",
@@ -1768,8 +1676,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3565578",
@@ -1787,8 +1694,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3565577",
@@ -1806,8 +1712,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3565576",
@@ -1825,8 +1730,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3565575",
@@ -1844,8 +1748,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3562937",
@@ -1863,8 +1766,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3562936",
@@ -1882,8 +1784,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3562935",
@@ -1901,8 +1802,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3560768",
@@ -1920,8 +1820,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3560767",
@@ -1939,8 +1838,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558589",
@@ -1958,8 +1856,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558588",
@@ -1977,8 +1874,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558587",
@@ -1996,8 +1892,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558586",
@@ -2015,8 +1910,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558536",
@@ -2034,8 +1928,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558447",
@@ -2053,8 +1946,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558446",
@@ -2072,8 +1964,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558245",
@@ -2091,8 +1982,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558244",
@@ -2110,8 +2000,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558243",
@@ -2129,8 +2018,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558242",
@@ -2148,8 +2036,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558271",
@@ -2167,8 +2054,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558270",
@@ -2186,8 +2072,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3558269",
@@ -2205,8 +2090,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3557981",
@@ -2224,8 +2108,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3557980",
@@ -2243,8 +2126,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3557977",
@@ -2262,8 +2144,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556308",
@@ -2281,8 +2162,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556307",
@@ -2300,8 +2180,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556305",
@@ -2319,8 +2198,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556306",
@@ -2338,8 +2216,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556304",
@@ -2357,8 +2234,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556303",
@@ -2376,8 +2252,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556302",
@@ -2395,8 +2270,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556295",
@@ -2414,8 +2288,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556292",
@@ -2433,8 +2306,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556291",
@@ -2452,8 +2324,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556090",
@@ -2471,8 +2342,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556089",
@@ -2490,8 +2360,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556148",
@@ -2509,8 +2378,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556145",
@@ -2528,8 +2396,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556143",
@@ -2547,8 +2414,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556142",
@@ -2566,8 +2432,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556141",
@@ -2585,8 +2450,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556188",
@@ -2604,8 +2468,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556135",
@@ -2623,8 +2486,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556134",
@@ -2642,8 +2504,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556187",
@@ -2661,8 +2522,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556132",
@@ -2680,8 +2540,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3555956",
@@ -2699,8 +2558,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3555953",
@@ -2718,8 +2576,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3555952",
@@ -2737,8 +2594,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3555951",
@@ -2756,8 +2612,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556084",
@@ -2775,8 +2630,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3556083",
@@ -2794,8 +2648,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553809",
@@ -2813,8 +2666,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553807",
@@ -2832,8 +2684,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553667",
@@ -2851,8 +2702,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553666",
@@ -2870,8 +2720,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553776",
@@ -2889,8 +2738,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553576",
@@ -2908,8 +2756,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553575",
@@ -2927,8 +2774,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553574",
@@ -2946,8 +2792,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553709",
@@ -2965,8 +2810,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553708",
@@ -2984,8 +2828,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553707",
@@ -3003,8 +2846,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553706",
@@ -3022,8 +2864,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553705",
@@ -3041,8 +2882,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553704",
@@ -3060,8 +2900,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553703",
@@ -3079,8 +2918,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553702",
@@ -3098,8 +2936,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553194",
@@ -3117,8 +2954,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553193",
@@ -3136,8 +2972,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553763",
@@ -3155,8 +2990,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553762",
@@ -3174,8 +3008,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553232",
@@ -3193,8 +3026,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553231",
@@ -3212,8 +3044,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553230",
@@ -3231,8 +3062,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553229",
@@ -3250,8 +3080,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553228",
@@ -3269,8 +3098,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553525",
@@ -3288,8 +3116,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553524",
@@ -3307,8 +3134,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553523",
@@ -3326,8 +3152,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553522",
@@ -3345,8 +3170,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3553521",
@@ -3364,8 +3188,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551431",
@@ -3383,8 +3206,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551430",
@@ -3402,8 +3224,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551393",
@@ -3421,8 +3242,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551392",
@@ -3440,8 +3260,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551429",
@@ -3459,8 +3278,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551428",
@@ -3478,8 +3296,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551427",
@@ -3497,8 +3314,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551426",
@@ -3516,8 +3332,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551391",
@@ -3535,8 +3350,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551425",
@@ -3554,8 +3368,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551424",
@@ -3573,8 +3386,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551390",
@@ -3592,8 +3404,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551423",
@@ -3611,8 +3422,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551422",
@@ -3630,8 +3440,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551421",
@@ -3649,8 +3458,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551331",
@@ -3668,8 +3476,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551329",
@@ -3687,8 +3494,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551355",
@@ -3706,8 +3512,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551354",
@@ -3725,8 +3530,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551328",
@@ -3744,8 +3548,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3551326",
@@ -3763,8 +3566,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549606",
@@ -3782,8 +3584,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549605",
@@ -3801,8 +3602,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549604",
@@ -3820,8 +3620,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549597",
@@ -3839,8 +3638,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549596",
@@ -3858,8 +3656,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549595",
@@ -3877,8 +3674,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549594",
@@ -3896,8 +3692,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549593",
@@ -3915,8 +3710,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549400",
@@ -3934,8 +3728,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549399",
@@ -3953,8 +3746,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549398",
@@ -3972,8 +3764,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549209",
@@ -3991,8 +3782,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549208",
@@ -4010,8 +3800,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549233",
@@ -4029,8 +3818,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549230",
@@ -4048,8 +3836,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549199",
@@ -4067,8 +3854,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549196",
@@ -4086,8 +3872,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3549195",
@@ -4105,8 +3890,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547501",
@@ -4124,8 +3908,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547500",
@@ -4143,8 +3926,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547530",
@@ -4162,8 +3944,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547518",
@@ -4181,8 +3962,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547517",
@@ -4200,8 +3980,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547516",
@@ -4219,8 +3998,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547515",
@@ -4238,8 +4016,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547509",
@@ -4257,8 +4034,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547508",
@@ -4276,8 +4052,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547506",
@@ -4295,8 +4070,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547505",
@@ -4314,8 +4088,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547502",
@@ -4333,8 +4106,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547436",
@@ -4352,8 +4124,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547435",
@@ -4371,8 +4142,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547617",
@@ -4390,8 +4160,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547043",
@@ -4409,8 +4178,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547611",
@@ -4428,8 +4196,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547038",
@@ -4447,8 +4214,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3546933",
@@ -4466,8 +4232,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547028",
@@ -4485,8 +4250,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547305",
@@ -4504,8 +4268,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547304",
@@ -4523,8 +4286,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547303",
@@ -4542,8 +4304,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3547302",
@@ -4561,8 +4322,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544922",
@@ -4580,8 +4340,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544921",
@@ -4599,8 +4358,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544764",
@@ -4618,8 +4376,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544739",
@@ -4637,8 +4394,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545046",
@@ -4656,8 +4412,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544628",
@@ -4675,8 +4430,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545044",
@@ -4694,8 +4448,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544720",
@@ -4713,8 +4466,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544627",
@@ -4732,8 +4484,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544626",
@@ -4751,8 +4502,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545042",
@@ -4770,8 +4520,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544625",
@@ -4789,8 +4538,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545040",
@@ -4808,8 +4556,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545039",
@@ -4827,8 +4574,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545038",
@@ -4846,8 +4592,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544844",
@@ -4865,8 +4610,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545037",
@@ -4884,8 +4628,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545036",
@@ -4903,8 +4646,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544843",
@@ -4922,8 +4664,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545035",
@@ -4941,8 +4682,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544842",
@@ -4960,8 +4700,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3545034",
@@ -4979,8 +4718,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544841",
@@ -4998,8 +4736,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544840",
@@ -5017,8 +4754,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544288",
@@ -5036,8 +4772,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544287",
@@ -5055,8 +4790,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544430",
@@ -5074,8 +4808,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544427",
@@ -5093,8 +4826,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544425",
@@ -5112,8 +4844,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544567",
@@ -5131,8 +4862,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3544566",
@@ -5150,8 +4880,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542346",
@@ -5169,8 +4898,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542345",
@@ -5188,8 +4916,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542388",
@@ -5207,8 +4934,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542386",
@@ -5226,8 +4952,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542385",
@@ -5245,8 +4970,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542276",
@@ -5264,8 +4988,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542275",
@@ -5283,8 +5006,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542274",
@@ -5302,8 +5024,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541920",
@@ -5321,8 +5042,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541901",
@@ -5340,8 +5060,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542090",
@@ -5359,8 +5078,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542089",
@@ -5378,8 +5096,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542088",
@@ -5397,8 +5114,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542087",
@@ -5416,8 +5132,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541890",
@@ -5435,8 +5150,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541885",
@@ -5454,8 +5168,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542314",
@@ -5473,8 +5186,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3542313",
@@ -5492,8 +5204,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540777",
@@ -5511,8 +5222,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "17",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540776",
@@ -5530,8 +5240,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "13",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540775",
@@ -5549,8 +5258,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540774",
@@ -5568,8 +5276,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540773",
@@ -5587,8 +5294,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540772",
@@ -5606,8 +5312,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541645",
@@ -5625,8 +5330,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541644",
@@ -5644,8 +5348,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3541641",
@@ -5663,8 +5366,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540669",
@@ -5682,8 +5384,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540668",
@@ -5701,8 +5402,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540222",
@@ -5720,8 +5420,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540219",
@@ -5739,8 +5438,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540028",
@@ -5758,8 +5456,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540029",
@@ -5777,8 +5474,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540030",
@@ -5796,8 +5492,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539993",
@@ -5815,8 +5510,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539992",
@@ -5834,8 +5528,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539991",
@@ -5853,8 +5546,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539603",
@@ -5872,8 +5564,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539602",
@@ -5891,8 +5582,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539601",
@@ -5910,8 +5600,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539600",
@@ -5929,8 +5618,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539599",
@@ -5948,8 +5636,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540209",
@@ -5967,8 +5654,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539598",
@@ -5986,8 +5672,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539597",
@@ -6005,8 +5690,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539596",
@@ -6024,8 +5708,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539595",
@@ -6043,8 +5726,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3539594",
@@ -6062,8 +5744,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540202",
@@ -6081,8 +5762,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3540196",
@@ -6100,8 +5780,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538036",
@@ -6119,8 +5798,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538033",
@@ -6138,8 +5816,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538029",
@@ -6157,8 +5834,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538016",
@@ -6176,8 +5852,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538003",
@@ -6195,8 +5870,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538844",
@@ -6214,8 +5888,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537990",
@@ -6233,8 +5906,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538843",
@@ -6252,8 +5924,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537988",
@@ -6271,8 +5942,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538842",
@@ -6290,8 +5960,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537987",
@@ -6309,8 +5978,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538833",
@@ -6328,8 +5996,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538832",
@@ -6347,8 +6014,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538831",
@@ -6366,8 +6032,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538406",
@@ -6385,8 +6050,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538405",
@@ -6404,8 +6068,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538404",
@@ -6423,8 +6086,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3538403",
@@ -6442,8 +6104,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537852",
@@ -6461,8 +6122,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537286",
@@ -6480,8 +6140,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537285",
@@ -6499,8 +6158,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537284",
@@ -6518,8 +6176,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537810",
@@ -6537,8 +6194,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537283",
@@ -6556,8 +6212,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537282",
@@ -6575,8 +6230,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537797",
@@ -6594,8 +6248,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537794",
@@ -6613,8 +6266,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3536055",
@@ -6632,8 +6284,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3536054",
@@ -6651,8 +6302,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3536053",
@@ -6670,8 +6320,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3536052",
@@ -6689,8 +6338,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535763",
@@ -6708,8 +6356,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535762",
@@ -6727,8 +6374,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535761",
@@ -6746,8 +6392,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535760",
@@ -6765,8 +6410,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535749",
@@ -6784,8 +6428,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535748",
@@ -6803,8 +6446,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535746",
@@ -6822,8 +6464,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3535745",
@@ -6841,8 +6482,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537127",
@@ -6860,8 +6500,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537126",
@@ -6879,8 +6518,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537124",
@@ -6898,8 +6536,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537123",
@@ -6917,8 +6554,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537122",
@@ -6936,8 +6572,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537121",
@@ -6955,8 +6590,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537120",
@@ -6974,8 +6608,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537096",
@@ -6993,8 +6626,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537095",
@@ -7012,8 +6644,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3537094",
@@ -7031,8 +6662,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534253",
@@ -7050,8 +6680,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534454",
@@ -7069,8 +6698,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534453",
@@ -7088,8 +6716,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534452",
@@ -7107,8 +6734,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534121",
@@ -7126,8 +6752,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534115",
@@ -7145,8 +6770,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534196",
@@ -7164,8 +6788,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534195",
@@ -7183,8 +6806,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534194",
@@ -7202,8 +6824,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533997",
@@ -7221,8 +6842,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533996",
@@ -7240,8 +6860,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533995",
@@ -7259,8 +6878,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533799",
@@ -7278,8 +6896,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533910",
@@ -7297,8 +6914,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533909",
@@ -7316,8 +6932,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533908",
@@ -7335,8 +6950,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533907",
@@ -7354,8 +6968,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533873",
@@ -7373,8 +6986,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533872",
@@ -7392,8 +7004,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533865",
@@ -7411,8 +7022,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533864",
@@ -7430,8 +7040,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533863",
@@ -7449,8 +7058,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533862",
@@ -7468,8 +7076,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534176",
@@ -7487,8 +7094,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533787",
@@ -7506,8 +7112,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534175",
@@ -7525,8 +7130,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3534174",
@@ -7544,8 +7148,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3533780",
@@ -7563,8 +7166,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531899",
@@ -7582,8 +7184,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531698",
@@ -7601,8 +7202,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531697",
@@ -7620,8 +7220,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531696",
@@ -7639,8 +7238,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531695",
@@ -7658,8 +7256,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531874",
@@ -7677,8 +7274,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MAXIMIANO GOMES DA SILVA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531873",
@@ -7696,8 +7292,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MAXIMIANO GOMES DA SILVA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531872",
@@ -7715,8 +7310,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MAXIMIANO GOMES DA SILVA",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531871",
@@ -7734,8 +7328,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MAXIMIANO GOMES DA SILVA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531934",
@@ -7753,8 +7346,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531933",
@@ -7772,8 +7364,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531720",
@@ -7791,8 +7382,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531719",
@@ -7810,8 +7400,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531432",
@@ -7829,8 +7418,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531426",
@@ -7848,8 +7436,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531433",
@@ -7867,8 +7454,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531431",
@@ -7886,8 +7472,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531430",
@@ -7905,8 +7490,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3531464",
@@ -7924,8 +7508,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530171",
@@ -7943,8 +7526,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530170",
@@ -7962,8 +7544,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530169",
@@ -7981,8 +7562,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529628",
@@ -8000,8 +7580,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529627",
@@ -8019,8 +7598,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529626",
@@ -8038,8 +7616,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529625",
@@ -8057,8 +7634,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529916",
@@ -8076,8 +7652,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529915",
@@ -8095,8 +7670,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529670",
@@ -8114,8 +7688,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529671",
@@ -8133,8 +7706,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529520",
@@ -8152,8 +7724,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529519",
@@ -8171,8 +7742,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529518",
@@ -8190,8 +7760,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529517",
@@ -8209,8 +7778,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529651",
@@ -8228,8 +7796,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529650",
@@ -8247,8 +7814,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529649",
@@ -8266,8 +7832,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529824",
@@ -8285,8 +7850,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530047",
@@ -8304,8 +7868,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530046",
@@ -8323,8 +7886,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530045",
@@ -8342,8 +7904,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530044",
@@ -8361,8 +7922,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3530043",
@@ -8380,8 +7940,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529568",
@@ -8399,8 +7958,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529595",
@@ -8418,8 +7976,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529479",
@@ -8437,8 +7994,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529478",
@@ -8456,8 +8012,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529812",
@@ -8475,8 +8030,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3529811",
@@ -8494,8 +8048,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520409",
@@ -8513,8 +8066,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520408",
@@ -8532,8 +8084,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520405",
@@ -8551,8 +8102,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520404",
@@ -8570,8 +8120,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520403",
@@ -8589,8 +8138,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520402",
@@ -8608,8 +8156,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520401",
@@ -8627,8 +8174,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520400",
@@ -8646,8 +8192,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520399",
@@ -8665,8 +8210,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520398",
@@ -8684,8 +8228,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520461",
@@ -8703,8 +8246,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3520460",
@@ -8722,8 +8264,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3519086",
@@ -8741,8 +8282,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3519049",
@@ -8760,8 +8300,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3519048",
@@ -8779,8 +8318,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518569",
@@ -8798,8 +8336,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518568",
@@ -8817,8 +8354,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518685",
@@ -8836,8 +8372,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518684",
@@ -8855,8 +8390,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518649",
@@ -8874,8 +8408,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518648",
@@ -8893,8 +8426,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518683",
@@ -8912,8 +8444,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518647",
@@ -8931,8 +8462,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518644",
@@ -8950,8 +8480,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518682",
@@ -8969,8 +8498,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518322",
@@ -8988,8 +8516,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518317",
@@ -9007,8 +8534,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3518316",
@@ -9026,8 +8552,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516434",
@@ -9045,8 +8570,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516433",
@@ -9064,8 +8588,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516432",
@@ -9083,8 +8606,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516476",
@@ -9102,8 +8624,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516473",
@@ -9121,8 +8642,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516474",
@@ -9140,8 +8660,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516475",
@@ -9159,8 +8678,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516613",
@@ -9178,8 +8696,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516612",
@@ -9197,8 +8714,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516282",
@@ -9216,8 +8732,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516281",
@@ -9235,8 +8750,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516610",
@@ -9254,8 +8768,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516280",
@@ -9273,8 +8786,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516279",
@@ -9292,8 +8804,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516628",
@@ -9311,8 +8822,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516278",
@@ -9330,8 +8840,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516277",
@@ -9349,8 +8858,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516276",
@@ -9368,8 +8876,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516275",
@@ -9387,8 +8894,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516274",
@@ -9406,8 +8912,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516273",
@@ -9425,8 +8930,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516272",
@@ -9444,8 +8948,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516627",
@@ -9463,8 +8966,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516626",
@@ -9482,8 +8984,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516576",
@@ -9501,8 +9002,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3516574",
@@ -9520,8 +9020,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514286",
@@ -9539,8 +9038,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514208",
@@ -9558,8 +9056,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514150",
@@ -9577,8 +9074,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514148",
@@ -9596,8 +9092,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514165",
@@ -9615,8 +9110,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514207",
@@ -9634,8 +9128,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3514198",
@@ -9653,8 +9146,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511714",
@@ -9672,8 +9164,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511713",
@@ -9691,8 +9182,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511712",
@@ -9710,8 +9200,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511711",
@@ -9729,8 +9218,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511710",
@@ -9748,8 +9236,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511709",
@@ -9767,8 +9254,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511708",
@@ -9786,8 +9272,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511707",
@@ -9805,8 +9290,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511706",
@@ -9824,8 +9308,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511823",
@@ -9843,8 +9326,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511822",
@@ -9862,8 +9344,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511821",
@@ -9881,8 +9362,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511820",
@@ -9900,8 +9380,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511313",
@@ -9919,8 +9398,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511312",
@@ -9938,8 +9416,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511302",
@@ -9957,8 +9434,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3511301",
@@ -9976,8 +9452,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509464",
@@ -9995,8 +9470,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509463",
@@ -10014,8 +9488,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509632",
@@ -10033,8 +9506,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509462",
@@ -10052,8 +9524,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509461",
@@ -10071,8 +9542,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509339",
@@ -10090,8 +9560,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509338",
@@ -10109,8 +9578,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509337",
@@ -10128,8 +9596,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509549",
@@ -10147,8 +9614,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509336",
@@ -10166,8 +9632,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509548",
@@ -10185,8 +9650,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509296",
@@ -10204,8 +9668,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509295",
@@ -10223,8 +9686,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509294",
@@ -10242,8 +9704,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509293",
@@ -10261,8 +9722,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509292",
@@ -10280,8 +9740,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509291",
@@ -10299,8 +9758,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509529",
@@ -10318,8 +9776,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509527",
@@ -10337,8 +9794,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509499",
@@ -10356,8 +9812,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509609",
@@ -10375,8 +9830,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3509608",
@@ -10394,8 +9848,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498710",
@@ -10413,8 +9866,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498709",
@@ -10432,8 +9884,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498708",
@@ -10451,8 +9902,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498705",
@@ -10470,8 +9920,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498704",
@@ -10489,8 +9938,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498703",
@@ -10508,8 +9956,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498702",
@@ -10527,8 +9974,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498701",
@@ -10546,8 +9992,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498700",
@@ -10565,8 +10010,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498699",
@@ -10584,8 +10028,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498698",
@@ -10603,8 +10046,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498697",
@@ -10622,8 +10064,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498695",
@@ -10641,8 +10082,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498694",
@@ -10660,8 +10100,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498693",
@@ -10679,8 +10118,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498482",
@@ -10698,8 +10136,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498480",
@@ -10717,8 +10154,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498472",
@@ -10736,8 +10172,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3499002",
@@ -10755,8 +10190,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3499001",
@@ -10774,8 +10208,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498558",
@@ -10793,8 +10226,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498557",
@@ -10812,8 +10244,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498037",
@@ -10831,8 +10262,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3498036",
@@ -10850,8 +10280,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496826",
@@ -10869,8 +10298,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496825",
@@ -10888,8 +10316,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496822",
@@ -10907,8 +10334,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496821",
@@ -10926,8 +10352,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496820",
@@ -10945,8 +10370,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496681",
@@ -10964,8 +10388,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496680",
@@ -10983,8 +10406,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3496679",
@@ -11002,8 +10424,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495225",
@@ -11021,8 +10442,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495224",
@@ -11040,8 +10460,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495223",
@@ -11059,8 +10478,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495222",
@@ -11078,8 +10496,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495219",
@@ -11097,8 +10514,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495218",
@@ -11116,8 +10532,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3495217",
@@ -11135,8 +10550,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494682",
@@ -11154,8 +10568,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494681",
@@ -11173,8 +10586,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494680",
@@ -11192,8 +10604,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494638",
@@ -11211,8 +10622,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494637",
@@ -11230,8 +10640,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494674",
@@ -11249,8 +10658,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494363",
@@ -11268,8 +10676,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494362",
@@ -11287,8 +10694,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494673",
@@ -11306,8 +10712,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494361",
@@ -11325,8 +10730,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494360",
@@ -11344,8 +10748,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3494359",
@@ -11363,8 +10766,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492602",
@@ -11382,8 +10784,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3493097",
@@ -11401,8 +10802,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3493096",
@@ -11420,8 +10820,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492521",
@@ -11439,8 +10838,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492520",
@@ -11458,8 +10856,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492519",
@@ -11477,8 +10874,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492518",
@@ -11496,8 +10892,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492396",
@@ -11515,8 +10910,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492395",
@@ -11534,8 +10928,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492394",
@@ -11553,8 +10946,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492393",
@@ -11572,8 +10964,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492392",
@@ -11591,8 +10982,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492391",
@@ -11610,8 +11000,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492474",
@@ -11629,8 +11018,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492473",
@@ -11648,8 +11036,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492472",
@@ -11667,8 +11054,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492471",
@@ -11686,8 +11072,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492470",
@@ -11705,8 +11090,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3493077",
@@ -11724,8 +11108,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3493076",
@@ -11743,8 +11126,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492072",
@@ -11762,8 +11144,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492071",
@@ -11781,8 +11162,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492070",
@@ -11800,8 +11180,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492069",
@@ -11819,8 +11198,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3492068",
@@ -11838,8 +11216,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3491293",
@@ -11857,8 +11234,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3491287",
@@ -11876,8 +11252,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3491286",
@@ -11895,8 +11270,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3491284",
@@ -11914,8 +11288,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3491283",
@@ -11933,8 +11306,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3491278",
@@ -11952,8 +11324,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490422",
@@ -11971,8 +11342,7 @@ window.COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490421",
@@ -11990,8 +11360,7 @@ window.COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490420",
@@ -12009,8 +11378,7 @@ window.COBRICAO_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490287",
@@ -12028,8 +11396,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490286",
@@ -12047,8 +11414,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490285",
@@ -12066,8 +11432,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490284",
@@ -12085,8 +11450,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490283",
@@ -12104,8 +11468,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490386",
@@ -12123,8 +11486,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490385",
@@ -12142,8 +11504,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490383",
@@ -12161,8 +11522,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490382",
@@ -12180,8 +11540,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3490381",
@@ -12199,8 +11558,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3470009",
@@ -12218,8 +11576,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469983",
@@ -12237,8 +11594,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469981",
@@ -12256,8 +11612,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469980",
@@ -12275,8 +11630,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469979",
@@ -12294,8 +11648,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468239",
@@ -12313,8 +11666,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468233",
@@ -12332,8 +11684,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468232",
@@ -12351,8 +11702,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468231",
@@ -12370,8 +11720,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468092",
@@ -12389,8 +11738,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468090",
@@ -12408,8 +11756,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468089",
@@ -12427,8 +11774,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468087",
@@ -12446,8 +11792,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468086",
@@ -12465,8 +11810,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468084",
@@ -12484,8 +11828,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468083",
@@ -12503,8 +11846,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468082",
@@ -12522,8 +11864,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468003",
@@ -12541,8 +11882,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468002",
@@ -12560,8 +11900,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468137",
@@ -12579,8 +11918,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468136",
@@ -12598,8 +11936,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468135",
@@ -12617,8 +11954,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468134",
@@ -12636,8 +11972,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468133",
@@ -12655,8 +11990,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468132",
@@ -12674,8 +12008,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468070",
@@ -12693,8 +12026,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468069",
@@ -12712,8 +12044,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468068",
@@ -12731,8 +12062,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468067",
@@ -12750,8 +12080,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468066",
@@ -12769,8 +12098,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468177",
@@ -12788,8 +12116,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468176",
@@ -12807,8 +12134,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468175",
@@ -12826,8 +12152,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467660",
@@ -12845,8 +12170,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468174",
@@ -12864,8 +12188,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3468173",
@@ -12883,8 +12206,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467715",
@@ -12902,8 +12224,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467714",
@@ -12921,8 +12242,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467713",
@@ -12940,8 +12260,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467712",
@@ -12959,8 +12278,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467711",
@@ -12978,8 +12296,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467658",
@@ -12997,8 +12314,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3467651",
@@ -13016,8 +12332,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466709",
@@ -13035,8 +12350,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466708",
@@ -13054,8 +12368,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466707",
@@ -13073,8 +12386,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465978",
@@ -13092,8 +12404,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465965",
@@ -13111,8 +12422,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469396",
@@ -13130,8 +12440,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469395",
@@ -13149,8 +12458,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465854",
@@ -13168,8 +12476,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469394",
@@ -13187,8 +12494,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465864",
@@ -13206,8 +12512,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469393",
@@ -13225,8 +12530,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465863",
@@ -13244,8 +12548,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3469392",
@@ -13263,8 +12566,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465835",
@@ -13282,8 +12584,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465834",
@@ -13301,8 +12602,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466005",
@@ -13320,8 +12620,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466004",
@@ -13339,8 +12638,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466003",
@@ -13358,8 +12656,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466002",
@@ -13377,8 +12674,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3466001",
@@ -13396,8 +12692,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465999",
@@ -13415,8 +12710,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465998",
@@ -13434,8 +12728,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465808",
@@ -13453,8 +12746,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465807",
@@ -13472,8 +12764,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465806",
@@ -13491,8 +12782,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465805",
@@ -13510,8 +12800,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465804",
@@ -13529,8 +12818,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465508",
@@ -13548,8 +12836,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3465507",
@@ -13567,8 +12854,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463344",
@@ -13586,8 +12872,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463837",
@@ -13605,8 +12890,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463836",
@@ -13624,8 +12908,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463679",
@@ -13643,8 +12926,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463678",
@@ -13662,8 +12944,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463677",
@@ -13681,8 +12962,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463676",
@@ -13700,8 +12980,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463675",
@@ -13719,8 +12998,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3464577",
@@ -13738,8 +13016,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3464576",
@@ -13757,8 +13034,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463820",
@@ -13776,8 +13052,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463819",
@@ -13795,8 +13070,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463818",
@@ -13814,8 +13088,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463787",
@@ -13833,8 +13106,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3463786",
@@ -13852,8 +13124,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3462177",
@@ -13871,8 +13142,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3461952",
@@ -13890,8 +13160,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3461950",
@@ -13909,8 +13178,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454931",
@@ -13928,8 +13196,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454893",
@@ -13947,8 +13214,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454892",
@@ -13966,8 +13232,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454891",
@@ -13985,8 +13250,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454890",
@@ -14004,8 +13268,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454919",
@@ -14023,8 +13286,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454918",
@@ -14042,8 +13304,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454993",
@@ -14061,8 +13322,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454992",
@@ -14080,8 +13340,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454991",
@@ -14099,8 +13358,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454990",
@@ -14118,8 +13376,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454278",
@@ -14137,8 +13394,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454989",
@@ -14156,8 +13412,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454277",
@@ -14175,8 +13430,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454241",
@@ -14194,8 +13448,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454988",
@@ -14213,8 +13466,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454240",
@@ -14232,8 +13484,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454276",
@@ -14251,8 +13502,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454239",
@@ -14270,8 +13520,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3454275",
@@ -14289,8 +13538,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449767",
@@ -14308,8 +13556,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449766",
@@ -14327,8 +13574,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449765",
@@ -14346,8 +13592,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449764",
@@ -14365,8 +13610,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449572",
@@ -14384,8 +13628,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449571",
@@ -14403,8 +13646,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449570",
@@ -14422,8 +13664,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449568",
@@ -14441,8 +13682,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3449566",
@@ -14460,8 +13700,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445794",
@@ -14479,8 +13718,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445792",
@@ -14498,8 +13736,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445788",
@@ -14517,8 +13754,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445787",
@@ -14536,8 +13772,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445554",
@@ -14555,8 +13790,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445553",
@@ -14574,8 +13808,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3445552",
@@ -14593,8 +13826,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3443861",
@@ -14612,8 +13844,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3443466",
@@ -14631,8 +13862,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3443443",
@@ -14650,8 +13880,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3443460",
@@ -14669,8 +13898,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431609",
@@ -14688,8 +13916,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433474",
@@ -14707,8 +13934,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433475",
@@ -14726,8 +13952,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433476",
@@ -14745,8 +13970,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435547",
@@ -14764,8 +13988,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435545",
@@ -14783,8 +14006,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435544",
@@ -14802,8 +14024,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435543",
@@ -14821,8 +14042,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435601",
@@ -14840,8 +14060,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435600",
@@ -14859,8 +14078,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435599",
@@ -14878,8 +14096,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435597",
@@ -14897,8 +14114,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435589",
@@ -14916,8 +14132,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435463",
@@ -14935,8 +14150,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435588",
@@ -14954,8 +14168,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435587",
@@ -14973,8 +14186,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435462",
@@ -14992,8 +14204,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435586",
@@ -15011,8 +14222,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435585",
@@ -15030,8 +14240,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435461",
@@ -15049,8 +14258,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435460",
@@ -15068,8 +14276,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435477",
@@ -15087,8 +14294,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435289",
@@ -15106,8 +14312,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435284",
@@ -15125,8 +14330,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435278",
@@ -15144,8 +14348,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3435277",
@@ -15163,8 +14366,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433554",
@@ -15182,8 +14384,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433553",
@@ -15201,8 +14402,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433552",
@@ -15220,8 +14420,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433551",
@@ -15239,8 +14438,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433549",
@@ -15258,8 +14456,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433642",
@@ -15277,8 +14474,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433548",
@@ -15296,8 +14492,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3433547",
@@ -15315,8 +14510,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431547",
@@ -15334,8 +14528,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431546",
@@ -15353,8 +14546,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431569",
@@ -15372,8 +14564,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431567",
@@ -15391,8 +14582,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431543",
@@ -15410,8 +14600,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431542",
@@ -15429,8 +14618,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431113",
@@ -15448,8 +14636,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431112",
@@ -15467,8 +14654,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431111",
@@ -15486,8 +14672,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431110",
@@ -15505,8 +14690,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431109",
@@ -15524,8 +14708,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431108",
@@ -15543,8 +14726,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431107",
@@ -15562,8 +14744,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431063",
@@ -15581,8 +14762,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431064",
@@ -15600,8 +14780,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431062",
@@ -15619,8 +14798,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431061",
@@ -15638,8 +14816,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3431060",
@@ -15657,8 +14834,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428882",
@@ -15676,8 +14852,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428881",
@@ -15695,8 +14870,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428880",
@@ -15714,8 +14888,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428879",
@@ -15733,8 +14906,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428878",
@@ -15752,8 +14924,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428830",
@@ -15771,8 +14942,7 @@ window.COBRICAO_DATA = [
     "Frente": "141- BIDU ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428819",
@@ -15790,8 +14960,7 @@ window.COBRICAO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428818",
@@ -15809,8 +14978,7 @@ window.COBRICAO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428817",
@@ -15828,8 +14996,7 @@ window.COBRICAO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428816",
@@ -15847,8 +15014,7 @@ window.COBRICAO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428815",
@@ -15866,8 +15032,7 @@ window.COBRICAO_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3428273",
@@ -15885,8 +15050,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423038",
@@ -15904,8 +15068,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423024",
@@ -15923,8 +15086,7 @@ window.COBRICAO_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423170",
@@ -15942,8 +15104,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423169",
@@ -15961,8 +15122,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423168",
@@ -15980,8 +15140,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423167",
@@ -15999,8 +15158,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423166",
@@ -16018,8 +15176,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3423165",
@@ -16037,8 +15194,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3422750",
@@ -16056,8 +15212,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3422749",
@@ -16075,8 +15230,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3421344",
@@ -16094,8 +15248,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417399",
@@ -16113,8 +15266,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417398",
@@ -16132,8 +15284,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417397",
@@ -16151,8 +15302,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417138",
@@ -16170,8 +15320,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417137",
@@ -16189,8 +15338,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417135",
@@ -16208,8 +15356,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417134",
@@ -16227,8 +15374,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417133",
@@ -16246,8 +15392,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417132",
@@ -16265,8 +15410,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3417131",
@@ -16284,8 +15428,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413626",
@@ -16303,8 +15446,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413625",
@@ -16322,8 +15464,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413624",
@@ -16341,8 +15482,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413623",
@@ -16360,8 +15500,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413649",
@@ -16379,8 +15518,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413648",
@@ -16398,8 +15536,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413645",
@@ -16417,8 +15554,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413644",
@@ -16436,8 +15572,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413442",
@@ -16455,8 +15590,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413441",
@@ -16474,8 +15608,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413440",
@@ -16493,8 +15626,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3413439",
@@ -16512,8 +15644,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3411779",
@@ -16531,8 +15662,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3411778",
@@ -16550,8 +15680,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3410280",
@@ -16569,8 +15698,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3410278",
@@ -16588,8 +15716,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3410279",
@@ -16607,8 +15734,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3410275",
@@ -16626,8 +15752,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3410274",
@@ -16645,8 +15770,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3410273",
@@ -16664,8 +15788,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3408563",
@@ -16683,8 +15806,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3408562",
@@ -16702,8 +15824,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3408561",
@@ -16721,8 +15842,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": null,
-    "Unnamed: 16": null
+    "Fazenda": null
   },
   {
     "ID": "3913073",
@@ -16740,8 +15860,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913072",
@@ -16759,8 +15878,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913071",
@@ -16778,8 +15896,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913058",
@@ -16797,8 +15914,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913057",
@@ -16816,8 +15932,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913056",
@@ -16835,8 +15950,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913055",
@@ -16854,8 +15968,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3913054",
@@ -16873,8 +15986,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3907166",
@@ -16892,8 +16004,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3907165",
@@ -16911,8 +16022,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3907164",
@@ -16930,8 +16040,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3907163",
@@ -16949,8 +16058,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3906877",
@@ -16968,8 +16076,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3906876",
@@ -16987,8 +16094,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3906875",
@@ -17006,8 +16112,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3906874",
@@ -17025,8 +16130,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3906873",
@@ -17044,8 +16148,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3906872",
@@ -17063,8 +16166,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904490",
@@ -17082,8 +16184,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904489",
@@ -17101,8 +16202,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904488",
@@ -17120,8 +16220,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904487",
@@ -17139,8 +16238,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904486",
@@ -17158,8 +16256,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904485",
@@ -17177,8 +16274,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3904484",
@@ -17196,8 +16292,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902245",
@@ -17215,8 +16310,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902244",
@@ -17234,8 +16328,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902243",
@@ -17253,8 +16346,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902242",
@@ -17272,8 +16364,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902191",
@@ -17291,8 +16382,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902190",
@@ -17310,8 +16400,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902189",
@@ -17329,8 +16418,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902188",
@@ -17348,8 +16436,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902187",
@@ -17367,8 +16454,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3902186",
@@ -17386,8 +16472,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408.0",
-    "Unnamed: 16": null
+    "Fazenda": "70408.0"
   },
   {
     "ID": "3899155",
@@ -17405,8 +16490,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3899154",
@@ -17424,8 +16508,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3899153",
@@ -17443,8 +16526,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3899152",
@@ -17462,8 +16544,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3899151",
@@ -17481,8 +16562,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3898995",
@@ -17500,8 +16580,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3898994",
@@ -17519,8 +16598,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3898992",
@@ -17538,8 +16616,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3898990",
@@ -17557,8 +16634,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3898989",
@@ -17576,8 +16652,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896732",
@@ -17595,8 +16670,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896731",
@@ -17614,8 +16688,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896722",
@@ -17633,8 +16706,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896721",
@@ -17652,8 +16724,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896720",
@@ -17671,8 +16742,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896719",
@@ -17690,8 +16760,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896371",
@@ -17709,8 +16778,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896270",
@@ -17728,8 +16796,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896136",
@@ -17747,8 +16814,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896134",
@@ -17766,8 +16832,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896133",
@@ -17785,8 +16850,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896255",
@@ -17804,8 +16868,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3896254",
@@ -17823,8 +16886,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893920",
@@ -17842,8 +16904,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893919",
@@ -17861,8 +16922,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893918",
@@ -17880,8 +16940,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893917",
@@ -17899,8 +16958,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893916",
@@ -17918,8 +16976,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893915",
@@ -17937,8 +16994,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893914",
@@ -17956,8 +17012,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3893912",
@@ -17975,8 +17030,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "52501.0",
-    "Unnamed: 16": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3887015",
@@ -17994,8 +17048,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887014",
@@ -18013,8 +17066,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887013",
@@ -18032,8 +17084,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887012",
@@ -18051,8 +17102,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887011",
@@ -18070,8 +17120,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887010",
@@ -18089,8 +17138,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887009",
@@ -18108,8 +17156,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887008",
@@ -18127,8 +17174,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887007",
@@ -18146,8 +17192,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3887006",
@@ -18165,8 +17210,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36801.0",
-    "Unnamed: 16": null
+    "Fazenda": "36801.0"
   },
   {
     "ID": "3884082",
@@ -18184,8 +17228,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3884081",
@@ -18203,8 +17246,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3884080",
@@ -18222,8 +17264,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3884078",
@@ -18241,8 +17282,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3884079",
@@ -18260,8 +17300,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880991",
@@ -18279,8 +17318,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880990",
@@ -18298,8 +17336,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880989",
@@ -18317,8 +17354,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880988",
@@ -18336,8 +17372,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880987",
@@ -18355,8 +17390,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880926",
@@ -18374,8 +17408,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880925",
@@ -18393,8 +17426,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880924",
@@ -18412,8 +17444,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880923",
@@ -18431,8 +17462,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3880905",
@@ -18450,8 +17480,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878194",
@@ -18469,8 +17498,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878193",
@@ -18488,8 +17516,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878184",
@@ -18507,8 +17534,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878183",
@@ -18526,8 +17552,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878182",
@@ -18545,8 +17570,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878181",
@@ -18564,8 +17588,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878180",
@@ -18583,8 +17606,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878179",
@@ -18602,8 +17624,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878178",
@@ -18621,8 +17642,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878177",
@@ -18640,8 +17660,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3878176",
@@ -18659,8 +17678,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36807.0",
-    "Unnamed: 16": null
+    "Fazenda": "36807.0"
   },
   {
     "ID": "3874802",
@@ -18678,8 +17696,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3874799",
@@ -18697,8 +17714,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3874794",
@@ -18716,8 +17732,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3874793",
@@ -18735,8 +17750,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3874791",
@@ -18754,8 +17768,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872797",
@@ -18773,8 +17786,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872796",
@@ -18792,8 +17804,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872795",
@@ -18811,8 +17822,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872794",
@@ -18830,8 +17840,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872781",
@@ -18849,8 +17858,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872780",
@@ -18868,8 +17876,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872769",
@@ -18887,8 +17894,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872764",
@@ -18906,8 +17912,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872759",
@@ -18925,8 +17930,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872758",
@@ -18944,8 +17948,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872757",
@@ -18963,8 +17966,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872756",
@@ -18982,8 +17984,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872755",
@@ -19001,8 +18002,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872728",
@@ -19020,8 +18020,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872727",
@@ -19039,8 +18038,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872285",
@@ -19058,8 +18056,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872284",
@@ -19077,8 +18074,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3872283",
@@ -19096,8 +18092,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870283",
@@ -19115,8 +18110,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870276",
@@ -19134,8 +18128,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870271",
@@ -19153,8 +18146,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870266",
@@ -19172,8 +18164,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870265",
@@ -19191,8 +18182,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870132",
@@ -19210,8 +18200,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870131",
@@ -19229,8 +18218,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870130",
@@ -19248,8 +18236,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3870129",
@@ -19267,8 +18254,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867378",
@@ -19286,8 +18272,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867373",
@@ -19305,8 +18290,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867368",
@@ -19324,8 +18308,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867363",
@@ -19343,8 +18326,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867358",
@@ -19362,8 +18344,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867357",
@@ -19381,8 +18362,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867177",
@@ -19400,8 +18380,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867176",
@@ -19419,8 +18398,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867346",
@@ -19438,8 +18416,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867345",
@@ -19457,8 +18434,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867175",
@@ -19476,8 +18452,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867344",
@@ -19495,8 +18470,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867343",
@@ -19514,8 +18488,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867174",
@@ -19533,8 +18506,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867341",
@@ -19552,8 +18524,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867173",
@@ -19571,8 +18542,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3867340",
@@ -19590,8 +18560,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3864204",
@@ -19609,8 +18578,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3864203",
@@ -19628,8 +18596,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3864202",
@@ -19647,8 +18614,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3864201",
@@ -19666,8 +18632,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3864200",
@@ -19685,8 +18650,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3864199",
@@ -19704,8 +18668,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3864167",
@@ -19723,8 +18686,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861950",
@@ -19742,8 +18704,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861948",
@@ -19761,8 +18722,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861947",
@@ -19780,8 +18740,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861946",
@@ -19799,8 +18758,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861916",
@@ -19818,8 +18776,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861914",
@@ -19837,8 +18794,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861913",
@@ -19856,8 +18812,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861912",
@@ -19875,8 +18830,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861911",
@@ -19894,8 +18848,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861910",
@@ -19913,8 +18866,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3861905",
@@ -19932,8 +18884,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859037",
@@ -19951,8 +18902,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859036",
@@ -19970,8 +18920,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859035",
@@ -19989,8 +18938,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859034",
@@ -20008,8 +18956,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859033",
@@ -20027,8 +18974,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3855144",
@@ -20046,8 +18992,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "51401.0",
-    "Unnamed: 16": null
+    "Fazenda": "51401.0"
   },
   {
     "ID": "3859012",
@@ -20065,8 +19010,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859011",
@@ -20084,8 +19028,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859010",
@@ -20103,8 +19046,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859009",
@@ -20122,8 +19064,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3859008",
@@ -20141,8 +19082,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70417.0",
-    "Unnamed: 16": null
+    "Fazenda": "70417.0"
   },
   {
     "ID": "3855180",
@@ -20160,8 +19100,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "51401.0",
-    "Unnamed: 16": null
+    "Fazenda": "51401.0"
   },
   {
     "ID": "3855179",
@@ -20179,8 +19118,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "51401.0",
-    "Unnamed: 16": null
+    "Fazenda": "51401.0"
   },
   {
     "ID": "3855177",
@@ -20198,8 +19136,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "51401.0",
-    "Unnamed: 16": null
+    "Fazenda": "51401.0"
   },
   {
     "ID": "3855160",
@@ -20217,8 +19154,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "51401.0",
-    "Unnamed: 16": null
+    "Fazenda": "51401.0"
   },
   {
     "ID": "3852427",
@@ -20236,8 +19172,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852426",
@@ -20255,8 +19190,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852425",
@@ -20274,8 +19208,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852424",
@@ -20293,8 +19226,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852423",
@@ -20312,8 +19244,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852406",
@@ -20331,8 +19262,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852395",
@@ -20350,8 +19280,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3852394",
@@ -20369,8 +19298,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3849781",
@@ -20388,8 +19316,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3849780",
@@ -20407,8 +19334,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3849779",
@@ -20426,8 +19352,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3849778",
@@ -20445,8 +19370,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3849777",
@@ -20464,8 +19388,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70411.0",
-    "Unnamed: 16": null
+    "Fazenda": "70411.0"
   },
   {
     "ID": "3846856",
@@ -20483,8 +19406,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3846854",
@@ -20502,8 +19424,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3846853",
@@ -20521,8 +19442,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3846852",
@@ -20540,8 +19460,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3846851",
@@ -20559,8 +19478,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3846850",
@@ -20578,8 +19496,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3846849",
@@ -20597,8 +19514,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3591086",
@@ -20616,8 +19532,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "281401.0",
-    "Unnamed: 16": null
+    "Fazenda": "281401.0"
   },
   {
     "ID": "3591087",
@@ -20635,8 +19550,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "281401.0",
-    "Unnamed: 16": null
+    "Fazenda": "281401.0"
   },
   {
     "ID": "3574239",
@@ -20654,8 +19568,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "282415.0",
-    "Unnamed: 16": null
+    "Fazenda": "282415.0"
   },
   {
     "ID": "3574240",
@@ -20673,8 +19586,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "282415.0",
-    "Unnamed: 16": null
+    "Fazenda": "282415.0"
   },
   {
     "ID": "3574241",
@@ -20692,8 +19604,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "282415.0",
-    "Unnamed: 16": null
+    "Fazenda": "282415.0"
   },
   {
     "ID": "3641104",
@@ -20711,8 +19622,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3641101",
@@ -20730,8 +19640,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3641098",
@@ -20749,8 +19658,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3638343",
@@ -20768,8 +19676,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3638342",
@@ -20787,8 +19694,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3638341",
@@ -20806,8 +19712,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3638340",
@@ -20825,8 +19730,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3638339",
@@ -20844,8 +19748,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3636045",
@@ -20863,8 +19766,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3636044",
@@ -20882,8 +19784,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3636043",
@@ -20901,8 +19802,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3636042",
@@ -20920,8 +19820,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3635340",
@@ -20939,8 +19838,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635339",
@@ -20958,8 +19856,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635338",
@@ -20977,8 +19874,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635337",
@@ -20996,8 +19892,7 @@ window.COBRICAO_DATA = [
     "Frente": "134 - FRENTE BRUVAL",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635336",
@@ -21015,8 +19910,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635335",
@@ -21034,8 +19928,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635334",
@@ -21053,8 +19946,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3635344",
@@ -21072,8 +19964,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "34703.0",
-    "Unnamed: 16": null
+    "Fazenda": "34703.0"
   },
   {
     "ID": "3632413",
@@ -21091,8 +19982,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3632412",
@@ -21110,8 +20000,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3632410",
@@ -21129,8 +20018,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3629718",
@@ -21148,8 +20036,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628857",
@@ -21167,8 +20054,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628856",
@@ -21186,8 +20072,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628820",
@@ -21205,8 +20090,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628819",
@@ -21224,8 +20108,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628855",
@@ -21243,8 +20126,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3629710",
@@ -21262,8 +20144,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628853",
@@ -21281,8 +20162,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3629701",
@@ -21300,8 +20180,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628880",
@@ -21319,8 +20198,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628879",
@@ -21338,8 +20216,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628804",
@@ -21357,8 +20234,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628803",
@@ -21376,8 +20252,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628878",
@@ -21395,8 +20270,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628876",
@@ -21414,8 +20288,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628799",
@@ -21433,8 +20306,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628942",
@@ -21452,8 +20324,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628941",
@@ -21471,8 +20342,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628940",
@@ -21490,8 +20360,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628764",
@@ -21509,8 +20378,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628763",
@@ -21528,8 +20396,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3628762",
@@ -21547,8 +20414,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627242",
@@ -21566,8 +20432,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627235",
@@ -21585,8 +20450,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627169",
@@ -21604,8 +20468,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627052",
@@ -21623,8 +20486,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626588",
@@ -21642,8 +20504,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626587",
@@ -21661,8 +20522,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626586",
@@ -21680,8 +20540,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626585",
@@ -21699,8 +20558,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627046",
@@ -21718,8 +20576,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626584",
@@ -21737,8 +20594,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626583",
@@ -21756,8 +20612,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627040",
@@ -21775,8 +20630,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627168",
@@ -21794,8 +20648,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627166",
@@ -21813,8 +20666,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627167",
@@ -21832,8 +20684,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627160",
@@ -21851,8 +20702,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627159",
@@ -21870,8 +20720,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626418",
@@ -21889,8 +20738,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626412",
@@ -21908,8 +20756,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627035",
@@ -21927,8 +20774,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626411",
@@ -21946,8 +20792,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627034",
@@ -21965,8 +20810,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626410",
@@ -21984,8 +20828,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626409",
@@ -22003,8 +20846,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3626408",
@@ -22022,8 +20864,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627187",
@@ -22041,8 +20882,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627185",
@@ -22060,8 +20900,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627182",
@@ -22079,8 +20918,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3627172",
@@ -22098,8 +20936,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624973",
@@ -22117,8 +20954,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624965",
@@ -22136,8 +20972,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624844",
@@ -22155,8 +20990,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624964",
@@ -22174,8 +21008,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624843",
@@ -22193,8 +21026,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624831",
@@ -22212,8 +21044,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624827",
@@ -22231,8 +21062,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624810",
@@ -22250,8 +21080,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624803",
@@ -22269,8 +21098,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624637",
@@ -22288,8 +21116,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624636",
@@ -22307,8 +21134,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624635",
@@ -22326,8 +21152,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624634",
@@ -22345,8 +21170,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624325",
@@ -22364,8 +21188,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624324",
@@ -22383,8 +21206,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3625474",
@@ -22402,8 +21224,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3624323",
@@ -22421,8 +21242,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3625473",
@@ -22440,8 +21260,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3624322",
@@ -22459,8 +21278,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3625472",
@@ -22478,8 +21296,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3625469",
@@ -22497,8 +21314,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3624321",
@@ -22516,8 +21332,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3624320",
@@ -22535,8 +21350,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3625508",
@@ -22554,8 +21368,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625507",
@@ -22573,8 +21386,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625506",
@@ -22592,8 +21404,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625505",
@@ -22611,8 +21422,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625504",
@@ -22630,8 +21440,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625498",
@@ -22649,8 +21458,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625497",
@@ -22668,8 +21476,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625496",
@@ -22687,8 +21494,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625495",
@@ -22706,8 +21512,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625494",
@@ -22725,8 +21530,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625493",
@@ -22744,8 +21548,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3625492",
@@ -22763,8 +21566,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624034",
@@ -22782,8 +21584,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624033",
@@ -22801,8 +21602,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624032",
@@ -22820,8 +21620,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624031",
@@ -22839,8 +21638,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624030",
@@ -22858,8 +21656,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624029",
@@ -22877,8 +21674,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624028",
@@ -22896,8 +21692,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624027",
@@ -22915,8 +21710,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624026",
@@ -22934,8 +21728,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624025",
@@ -22953,8 +21746,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624024",
@@ -22972,8 +21764,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3624023",
@@ -22991,8 +21782,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621615",
@@ -23010,8 +21800,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621614",
@@ -23029,8 +21818,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621947",
@@ -23048,8 +21836,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3622210",
@@ -23067,8 +21854,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3621613",
@@ -23086,8 +21872,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3622209",
@@ -23105,8 +21890,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3622208",
@@ -23124,8 +21908,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3622207",
@@ -23143,8 +21926,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3622206",
@@ -23162,8 +21944,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3622205",
@@ -23181,8 +21962,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3621942",
@@ -23200,8 +21980,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621941",
@@ -23219,8 +21998,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621451",
@@ -23238,8 +22016,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621940",
@@ -23257,8 +22034,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621445",
@@ -23276,8 +22052,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621934",
@@ -23295,8 +22070,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621929",
@@ -23314,8 +22088,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621928",
@@ -23333,8 +22106,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621867",
@@ -23352,8 +22124,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621866",
@@ -23371,8 +22142,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621865",
@@ -23390,8 +22160,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621864",
@@ -23409,8 +22178,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621863",
@@ -23428,8 +22196,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621862",
@@ -23447,8 +22214,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621861",
@@ -23466,8 +22232,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621860",
@@ -23485,8 +22250,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621923",
@@ -23504,8 +22268,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3621859",
@@ -23523,8 +22286,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621858",
@@ -23542,8 +22304,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621857",
@@ -23561,8 +22322,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621856",
@@ -23580,8 +22340,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621855",
@@ -23599,8 +22358,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621854",
@@ -23618,8 +22376,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3621853",
@@ -23637,8 +22394,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3622533",
@@ -23656,8 +22412,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3622532",
@@ -23675,8 +22430,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3622531",
@@ -23694,8 +22448,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3620971",
@@ -23713,8 +22466,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3620874",
@@ -23732,8 +22484,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3620872",
@@ -23751,8 +22502,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621184",
@@ -23770,8 +22520,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621183",
@@ -23789,8 +22538,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621182",
@@ -23808,8 +22556,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621181",
@@ -23827,8 +22574,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621180",
@@ -23846,8 +22592,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3621178",
@@ -23865,8 +22610,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618400",
@@ -23884,8 +22628,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40201.0",
-    "Unnamed: 16": null
+    "Fazenda": "40201.0"
   },
   {
     "ID": "3618367",
@@ -23903,8 +22646,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618366",
@@ -23922,8 +22664,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618398",
@@ -23941,8 +22682,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40201.0",
-    "Unnamed: 16": null
+    "Fazenda": "40201.0"
   },
   {
     "ID": "3618365",
@@ -23960,8 +22700,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618363",
@@ -23979,8 +22718,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618387",
@@ -23998,8 +22736,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40201.0",
-    "Unnamed: 16": null
+    "Fazenda": "40201.0"
   },
   {
     "ID": "3618362",
@@ -24017,8 +22754,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618465",
@@ -24036,8 +22772,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3618361",
@@ -24055,8 +22790,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618360",
@@ -24074,8 +22808,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618359",
@@ -24093,8 +22826,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618358",
@@ -24112,8 +22844,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618381",
@@ -24131,8 +22862,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40201.0",
-    "Unnamed: 16": null
+    "Fazenda": "40201.0"
   },
   {
     "ID": "3618357",
@@ -24150,8 +22880,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618356",
@@ -24169,8 +22898,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3618448",
@@ -24188,8 +22916,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3618796",
@@ -24207,8 +22934,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3618767",
@@ -24226,8 +22952,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3617922",
@@ -24245,8 +22970,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618789",
@@ -24264,8 +22988,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3617916",
@@ -24283,8 +23006,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618380",
@@ -24302,8 +23024,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3617910",
@@ -24321,8 +23042,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618353",
@@ -24340,8 +23060,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3618751",
@@ -24359,8 +23078,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618750",
@@ -24378,8 +23096,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618749",
@@ -24397,8 +23114,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618748",
@@ -24416,8 +23132,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618747",
@@ -24435,8 +23150,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618746",
@@ -24454,8 +23168,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618745",
@@ -24473,8 +23186,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "148101.0",
-    "Unnamed: 16": null
+    "Fazenda": "148101.0"
   },
   {
     "ID": "3618294",
@@ -24492,8 +23204,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3617742",
@@ -24511,8 +23222,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618282",
@@ -24530,8 +23240,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3617894",
@@ -24549,8 +23258,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617893",
@@ -24568,8 +23276,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617715",
@@ -24587,8 +23294,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617880",
@@ -24606,8 +23312,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618264",
@@ -24625,8 +23330,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3617879",
@@ -24644,8 +23348,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618263",
@@ -24663,8 +23366,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3619740",
@@ -24682,8 +23384,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3619739",
@@ -24701,8 +23402,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255301.0",
-    "Unnamed: 16": null
+    "Fazenda": "255301.0"
   },
   {
     "ID": "3617875",
@@ -24720,8 +23420,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617709",
@@ -24739,8 +23438,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3618253",
@@ -24758,8 +23456,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3617564",
@@ -24777,8 +23474,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617854",
@@ -24796,8 +23492,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617853",
@@ -24815,8 +23510,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617852",
@@ -24834,8 +23528,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617557",
@@ -24853,8 +23546,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3617851",
@@ -24872,8 +23564,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614614",
@@ -24891,8 +23582,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614609",
@@ -24910,8 +23600,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614685",
@@ -24929,8 +23618,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614373",
@@ -24948,8 +23636,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614356",
@@ -24967,8 +23654,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3614582",
@@ -24986,8 +23672,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614355",
@@ -25005,8 +23690,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3614354",
@@ -25024,8 +23708,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3614581",
@@ -25043,8 +23726,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614353",
@@ -25062,8 +23744,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3614366",
@@ -25081,8 +23762,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614580",
@@ -25100,8 +23780,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614675",
@@ -25119,8 +23798,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614579",
@@ -25138,8 +23816,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614578",
@@ -25157,8 +23834,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614577",
@@ -25176,8 +23852,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614576",
@@ -25195,8 +23870,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614575",
@@ -25214,8 +23888,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614574",
@@ -25233,8 +23906,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614573",
@@ -25252,8 +23924,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614572",
@@ -25271,8 +23942,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614571",
@@ -25290,8 +23960,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614570",
@@ -25309,8 +23978,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614569",
@@ -25328,8 +23996,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3614674",
@@ -25347,8 +24014,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614227",
@@ -25366,8 +24032,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614673",
@@ -25385,8 +24050,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614219",
@@ -25404,8 +24068,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614225",
@@ -25423,8 +24086,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614660",
@@ -25442,8 +24104,7 @@ window.COBRICAO_DATA = [
     "Frente": "10 - FRENTE 10",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614651",
@@ -25461,8 +24122,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3613813",
@@ -25480,8 +24140,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "226601.0",
-    "Unnamed: 16": null
+    "Fazenda": "226601.0"
   },
   {
     "ID": "3613812",
@@ -25499,8 +24158,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "226601.0",
-    "Unnamed: 16": null
+    "Fazenda": "226601.0"
   },
   {
     "ID": "3614011",
@@ -25518,8 +24176,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614010",
@@ -25537,8 +24194,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614009",
@@ -25556,8 +24212,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614646",
@@ -25575,8 +24230,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614008",
@@ -25594,8 +24248,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3613806",
@@ -25613,8 +24266,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "226601.0",
-    "Unnamed: 16": null
+    "Fazenda": "226601.0"
   },
   {
     "ID": "3613805",
@@ -25632,8 +24284,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "226601.0",
-    "Unnamed: 16": null
+    "Fazenda": "226601.0"
   },
   {
     "ID": "3614645",
@@ -25651,8 +24302,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3614007",
@@ -25670,8 +24320,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3613843",
@@ -25689,8 +24338,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3613842",
@@ -25708,8 +24356,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614640",
@@ -25727,8 +24374,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3613841",
@@ -25746,8 +24392,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614635",
@@ -25765,8 +24410,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3613836",
@@ -25784,8 +24428,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3613835",
@@ -25803,8 +24446,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614006",
@@ -25822,8 +24464,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3614005",
@@ -25841,8 +24482,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3613834",
@@ -25860,8 +24500,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3613608",
@@ -25879,8 +24518,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3613607",
@@ -25898,8 +24536,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3613606",
@@ -25917,8 +24554,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3613605",
@@ -25936,8 +24572,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3611596",
@@ -25955,8 +24590,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611644",
@@ -25974,8 +24608,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3611643",
@@ -25993,8 +24626,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3611641",
@@ -26012,8 +24644,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "102704.0",
-    "Unnamed: 16": null
+    "Fazenda": "102704.0"
   },
   {
     "ID": "3611591",
@@ -26031,8 +24662,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611581",
@@ -26050,8 +24680,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611576",
@@ -26069,8 +24698,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611575",
@@ -26088,8 +24716,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611570",
@@ -26107,8 +24734,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611807",
@@ -26126,8 +24752,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3611806",
@@ -26145,8 +24770,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3611805",
@@ -26164,8 +24788,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3611804",
@@ -26183,8 +24806,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3611803",
@@ -26202,8 +24824,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3611802",
@@ -26221,8 +24842,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3611801",
@@ -26240,8 +24860,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "37101.0",
-    "Unnamed: 16": null
+    "Fazenda": "37101.0"
   },
   {
     "ID": "3612754",
@@ -26259,8 +24878,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612753",
@@ -26278,8 +24896,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612752",
@@ -26297,8 +24914,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612751",
@@ -26316,8 +24932,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612750",
@@ -26335,8 +24950,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612749",
@@ -26354,8 +24968,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612748",
@@ -26373,8 +24986,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612747",
@@ -26392,8 +25004,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612746",
@@ -26411,8 +25022,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612745",
@@ -26430,8 +25040,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612744",
@@ -26449,8 +25058,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3612743",
@@ -26468,8 +25076,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3611587",
@@ -26487,8 +25094,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611550",
@@ -26506,8 +25112,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611548",
@@ -26525,8 +25130,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3611545",
@@ -26544,8 +25148,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "168003.0",
-    "Unnamed: 16": null
+    "Fazenda": "168003.0"
   },
   {
     "ID": "3609648",
@@ -26563,8 +25166,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3608716",
@@ -26582,8 +25184,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146201.0",
-    "Unnamed: 16": null
+    "Fazenda": "146201.0"
   },
   {
     "ID": "3609646",
@@ -26601,8 +25202,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3608715",
@@ -26620,8 +25220,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "146201.0",
-    "Unnamed: 16": null
+    "Fazenda": "146201.0"
   },
   {
     "ID": "3608714",
@@ -26639,8 +25238,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "146201.0",
-    "Unnamed: 16": null
+    "Fazenda": "146201.0"
   },
   {
     "ID": "3608713",
@@ -26658,8 +25256,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "146201.0",
-    "Unnamed: 16": null
+    "Fazenda": "146201.0"
   },
   {
     "ID": "3609645",
@@ -26677,8 +25274,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3609644",
@@ -26696,8 +25292,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3608272",
@@ -26715,8 +25310,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3607899",
@@ -26734,8 +25328,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3607891",
@@ -26753,8 +25346,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3609560",
@@ -26772,8 +25364,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "117701.0",
-    "Unnamed: 16": null
+    "Fazenda": "117701.0"
   },
   {
     "ID": "3608271",
@@ -26791,8 +25382,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3609554",
@@ -26810,8 +25400,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "117701.0",
-    "Unnamed: 16": null
+    "Fazenda": "117701.0"
   },
   {
     "ID": "3608269",
@@ -26829,8 +25418,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3609553",
@@ -26848,8 +25436,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3609552",
@@ -26867,8 +25454,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608268",
@@ -26886,8 +25472,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3609551",
@@ -26905,8 +25490,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608267",
@@ -26924,8 +25508,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3608542",
@@ -26943,8 +25526,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3609550",
@@ -26962,8 +25544,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608541",
@@ -26981,8 +25562,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3609549",
@@ -27000,8 +25580,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608266",
@@ -27019,8 +25598,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3609548",
@@ -27038,8 +25616,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608540",
@@ -27057,8 +25634,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3609547",
@@ -27076,8 +25652,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608265",
@@ -27095,8 +25670,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3608539",
@@ -27114,8 +25688,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3609546",
@@ -27133,8 +25706,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608538",
@@ -27152,8 +25724,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3608264",
@@ -27171,8 +25742,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3608537",
@@ -27190,8 +25760,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3609545",
@@ -27209,8 +25778,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608536",
@@ -27228,8 +25796,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3609544",
@@ -27247,8 +25814,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "117702.0",
-    "Unnamed: 16": null
+    "Fazenda": "117702.0"
   },
   {
     "ID": "3608324",
@@ -27266,8 +25832,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3608323",
@@ -27285,8 +25850,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3608322",
@@ -27304,8 +25868,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3608321",
@@ -27323,8 +25886,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3608320",
@@ -27342,8 +25904,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3608319",
@@ -27361,8 +25922,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3608318",
@@ -27380,8 +25940,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "47601.0",
-    "Unnamed: 16": null
+    "Fazenda": "47601.0"
   },
   {
     "ID": "3607528",
@@ -27399,8 +25958,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3607513",
@@ -27418,8 +25976,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3595331",
@@ -27437,8 +25994,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3593832",
@@ -27456,8 +26012,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "110101.0",
-    "Unnamed: 16": null
+    "Fazenda": "110101.0"
   },
   {
     "ID": "3593833",
@@ -27475,8 +26030,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "110101.0",
-    "Unnamed: 16": null
+    "Fazenda": "110101.0"
   },
   {
     "ID": "3592984",
@@ -27494,8 +26048,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607438",
@@ -27513,8 +26066,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3587815",
@@ -27532,8 +26084,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607423",
@@ -27551,8 +26102,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3607537",
@@ -27570,8 +26120,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607536",
@@ -27589,8 +26138,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607535",
@@ -27608,8 +26156,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607533",
@@ -27627,8 +26174,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607532",
@@ -27646,8 +26192,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607531",
@@ -27665,8 +26210,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607530",
@@ -27684,8 +26228,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3605179",
@@ -27703,8 +26246,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3605178",
@@ -27722,8 +26264,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3605177",
@@ -27741,8 +26282,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3605176",
@@ -27760,8 +26300,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3605014",
@@ -27779,8 +26318,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604495",
@@ -27798,8 +26336,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604494",
@@ -27817,8 +26354,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3605008",
@@ -27836,8 +26372,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604493",
@@ -27855,8 +26390,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3607365",
@@ -27874,8 +26408,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607364",
@@ -27893,8 +26426,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607363",
@@ -27912,8 +26444,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607362",
@@ -27931,8 +26462,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607360",
@@ -27950,8 +26480,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607359",
@@ -27969,8 +26498,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607358",
@@ -27988,8 +26516,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607357",
@@ -28007,8 +26534,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607356",
@@ -28026,8 +26552,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607355",
@@ -28045,8 +26570,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607354",
@@ -28064,8 +26588,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607353",
@@ -28083,8 +26606,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607352",
@@ -28102,8 +26624,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3607351",
@@ -28121,8 +26642,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3605003",
@@ -28140,8 +26660,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604476",
@@ -28159,8 +26678,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604147",
@@ -28178,8 +26696,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "142601.0",
-    "Unnamed: 16": null
+    "Fazenda": "142601.0"
   },
   {
     "ID": "3604146",
@@ -28197,8 +26714,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "142701.0",
-    "Unnamed: 16": null
+    "Fazenda": "142701.0"
   },
   {
     "ID": "3604145",
@@ -28216,8 +26732,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142701.0",
-    "Unnamed: 16": null
+    "Fazenda": "142701.0"
   },
   {
     "ID": "3604144",
@@ -28235,8 +26750,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142601.0",
-    "Unnamed: 16": null
+    "Fazenda": "142601.0"
   },
   {
     "ID": "3604021",
@@ -28254,8 +26768,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604996",
@@ -28273,8 +26786,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604010",
@@ -28292,8 +26804,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604007",
@@ -28311,8 +26822,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604994",
@@ -28330,8 +26840,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3604984",
@@ -28349,8 +26858,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602144",
@@ -28368,8 +26876,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602143",
@@ -28387,8 +26894,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602021",
@@ -28406,8 +26912,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3602142",
@@ -28425,8 +26930,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602141",
@@ -28444,8 +26948,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602361",
@@ -28463,8 +26966,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3601806",
@@ -28482,8 +26984,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3602140",
@@ -28501,8 +27002,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3601805",
@@ -28520,8 +27020,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601804",
@@ -28539,8 +27038,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601803",
@@ -28558,8 +27056,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3602510",
@@ -28577,8 +27074,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "142601.0",
-    "Unnamed: 16": null
+    "Fazenda": "142601.0"
   },
   {
     "ID": "3602509",
@@ -28596,8 +27092,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142601.0",
-    "Unnamed: 16": null
+    "Fazenda": "142601.0"
   },
   {
     "ID": "3601802",
@@ -28615,8 +27110,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3602508",
@@ -28634,8 +27128,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "142601.0",
-    "Unnamed: 16": null
+    "Fazenda": "142601.0"
   },
   {
     "ID": "3602019",
@@ -28653,8 +27146,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3602096",
@@ -28672,8 +27164,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3602092",
@@ -28691,8 +27182,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3602089",
@@ -28710,8 +27200,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "255302.0",
-    "Unnamed: 16": null
+    "Fazenda": "255302.0"
   },
   {
     "ID": "3602351",
@@ -28729,8 +27218,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602128",
@@ -28748,8 +27236,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602343",
@@ -28767,8 +27254,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3601419",
@@ -28786,8 +27272,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3602331",
@@ -28805,8 +27290,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3601418",
@@ -28824,8 +27308,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601417",
@@ -28843,8 +27326,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601416",
@@ -28862,8 +27344,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601415",
@@ -28881,8 +27362,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601414",
@@ -28900,8 +27380,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601413",
@@ -28919,8 +27398,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601412",
@@ -28938,8 +27416,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601411",
@@ -28957,8 +27434,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3602323",
@@ -28976,8 +27452,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3601410",
@@ -28995,8 +27470,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601409",
@@ -29014,8 +27488,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3601485",
@@ -29033,8 +27506,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602313",
@@ -29052,8 +27524,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602102",
@@ -29071,8 +27542,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602302",
@@ -29090,8 +27560,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602101",
@@ -29109,8 +27578,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602100",
@@ -29128,8 +27596,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602099",
@@ -29147,8 +27614,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602098",
@@ -29166,8 +27632,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602097",
@@ -29185,8 +27650,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602095",
@@ -29204,8 +27668,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602094",
@@ -29223,8 +27686,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602093",
@@ -29242,8 +27704,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3602091",
@@ -29261,8 +27722,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3601478",
@@ -29280,8 +27740,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602090",
@@ -29299,8 +27758,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3601477",
@@ -29318,8 +27776,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3602088",
@@ -29337,8 +27794,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3601476",
@@ -29356,8 +27812,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600520",
@@ -29375,8 +27830,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600519",
@@ -29394,8 +27848,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600518",
@@ -29413,8 +27866,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600515",
@@ -29432,8 +27884,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600514",
@@ -29451,8 +27902,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600513",
@@ -29470,8 +27920,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3600512",
@@ -29489,8 +27938,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599174",
@@ -29508,8 +27956,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599173",
@@ -29527,8 +27974,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599171",
@@ -29546,8 +27992,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599170",
@@ -29565,8 +28010,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599169",
@@ -29584,8 +28028,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599168",
@@ -29603,8 +28046,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599167",
@@ -29622,8 +28064,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599166",
@@ -29641,8 +28082,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599165",
@@ -29660,8 +28100,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599164",
@@ -29679,8 +28118,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599163",
@@ -29698,8 +28136,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599162",
@@ -29717,8 +28154,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599127",
@@ -29736,8 +28172,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599161",
@@ -29755,8 +28190,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599126",
@@ -29774,8 +28208,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599160",
@@ -29793,8 +28226,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3599125",
@@ -29812,8 +28244,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599550",
@@ -29831,8 +28262,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599547",
@@ -29850,8 +28280,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599546",
@@ -29869,8 +28298,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599545",
@@ -29888,8 +28316,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599120",
@@ -29907,8 +28334,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599544",
@@ -29926,8 +28352,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599543",
@@ -29945,8 +28370,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599542",
@@ -29964,8 +28388,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599541",
@@ -29983,8 +28406,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599535",
@@ -30002,8 +28424,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599534",
@@ -30021,8 +28442,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "137701.0",
-    "Unnamed: 16": null
+    "Fazenda": "137701.0"
   },
   {
     "ID": "3599107",
@@ -30040,8 +28460,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599101",
@@ -30059,8 +28478,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599100",
@@ -30078,8 +28496,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599099",
@@ -30097,8 +28514,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599086",
@@ -30116,8 +28532,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599085",
@@ -30135,8 +28550,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3599785",
@@ -30154,8 +28568,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596446",
@@ -30173,8 +28586,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596445",
@@ -30192,8 +28604,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596444",
@@ -30211,8 +28622,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596287",
@@ -30230,8 +28640,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596535",
@@ -30249,8 +28658,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596534",
@@ -30268,8 +28676,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596286",
@@ -30287,8 +28694,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596285",
@@ -30306,8 +28712,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596229",
@@ -30325,8 +28730,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596228",
@@ -30344,8 +28748,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596513",
@@ -30363,8 +28766,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596227",
@@ -30382,8 +28784,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596512",
@@ -30401,8 +28802,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596511",
@@ -30420,8 +28820,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596510",
@@ -30439,8 +28838,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596226",
@@ -30458,8 +28856,7 @@ window.COBRICAO_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3596509",
@@ -30477,8 +28874,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596508",
@@ -30496,8 +28892,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596507",
@@ -30515,8 +28910,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596506",
@@ -30534,8 +28928,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596505",
@@ -30553,8 +28946,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3596504",
@@ -30572,8 +28964,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3595904",
@@ -30591,8 +28982,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "135601.0",
-    "Unnamed: 16": null
+    "Fazenda": "135601.0"
   },
   {
     "ID": "3595903",
@@ -30610,8 +29000,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "135601.0",
-    "Unnamed: 16": null
+    "Fazenda": "135601.0"
   },
   {
     "ID": "3595902",
@@ -30629,8 +29018,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "135601.0",
-    "Unnamed: 16": null
+    "Fazenda": "135601.0"
   },
   {
     "ID": "3595901",
@@ -30648,8 +29036,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "135601.0",
-    "Unnamed: 16": null
+    "Fazenda": "135601.0"
   },
   {
     "ID": "3595900",
@@ -30667,8 +29054,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "135601.0",
-    "Unnamed: 16": null
+    "Fazenda": "135601.0"
   },
   {
     "ID": "3595705",
@@ -30686,8 +29072,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "110101.0",
-    "Unnamed: 16": null
+    "Fazenda": "110101.0"
   },
   {
     "ID": "3595704",
@@ -30705,8 +29090,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "110101.0",
-    "Unnamed: 16": null
+    "Fazenda": "110101.0"
   },
   {
     "ID": "3595330",
@@ -30724,8 +29108,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3593834",
@@ -30743,8 +29126,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "110101.0",
-    "Unnamed: 16": null
+    "Fazenda": "110101.0"
   },
   {
     "ID": "3595329",
@@ -30762,8 +29144,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3593831",
@@ -30781,8 +29162,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "110101.0",
-    "Unnamed: 16": null
+    "Fazenda": "110101.0"
   },
   {
     "ID": "3593371",
@@ -30800,8 +29180,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593370",
@@ -30819,8 +29198,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593369",
@@ -30838,8 +29216,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3594960",
@@ -30857,8 +29234,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3594959",
@@ -30876,8 +29252,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3594958",
@@ -30895,8 +29270,7 @@ window.COBRICAO_DATA = [
     "Frente": " 629 - ANDREOGE SERVIÇOS E TRANSPORTE",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3594956",
@@ -30914,8 +29288,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3594955",
@@ -30933,8 +29306,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3594551",
@@ -30952,8 +29324,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3594550",
@@ -30971,8 +29342,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3594549",
@@ -30990,8 +29360,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3594548",
@@ -31009,8 +29378,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3594546",
@@ -31028,8 +29396,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3593356",
@@ -31047,8 +29414,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593355",
@@ -31066,8 +29432,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593354",
@@ -31085,8 +29450,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593353",
@@ -31104,8 +29468,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593352",
@@ -31123,8 +29486,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593351",
@@ -31142,8 +29504,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593350",
@@ -31161,8 +29522,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3593349",
@@ -31180,8 +29540,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "212901.0",
-    "Unnamed: 16": null
+    "Fazenda": "212901.0"
   },
   {
     "ID": "3592992",
@@ -31199,8 +29558,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592990",
@@ -31218,8 +29576,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592987",
@@ -31237,8 +29594,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592986",
@@ -31256,8 +29612,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592985",
@@ -31275,8 +29630,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592983",
@@ -31294,8 +29648,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592982",
@@ -31313,8 +29666,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592981",
@@ -31332,8 +29684,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591203",
@@ -31351,8 +29702,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591202",
@@ -31370,8 +29720,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591201",
@@ -31389,8 +29738,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591200",
@@ -31408,8 +29756,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591199",
@@ -31427,8 +29774,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3590397",
@@ -31446,8 +29792,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590396",
@@ -31465,8 +29810,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590395",
@@ -31484,8 +29828,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590394",
@@ -31503,8 +29846,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590393",
@@ -31522,8 +29864,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590392",
@@ -31541,8 +29882,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590391",
@@ -31560,8 +29900,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590390",
@@ -31579,8 +29918,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590389",
@@ -31598,8 +29936,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3590388",
@@ -31617,8 +29954,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "136101.0",
-    "Unnamed: 16": null
+    "Fazenda": "136101.0"
   },
   {
     "ID": "3591111",
@@ -31636,8 +29972,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "118101.0",
-    "Unnamed: 16": null
+    "Fazenda": "118101.0"
   },
   {
     "ID": "3591109",
@@ -31655,8 +29990,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "118101.0",
-    "Unnamed: 16": null
+    "Fazenda": "118101.0"
   },
   {
     "ID": "3591107",
@@ -31674,8 +30008,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "118101.0",
-    "Unnamed: 16": null
+    "Fazenda": "118101.0"
   },
   {
     "ID": "3591085",
@@ -31693,8 +30026,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "281401.0",
-    "Unnamed: 16": null
+    "Fazenda": "281401.0"
   },
   {
     "ID": "3591161",
@@ -31712,8 +30044,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591160",
@@ -31731,8 +30062,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591159",
@@ -31750,8 +30080,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591158",
@@ -31769,8 +30098,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591157",
@@ -31788,8 +30116,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3591156",
@@ -31807,8 +30134,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3592502",
@@ -31826,8 +30152,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "227203.0",
-    "Unnamed: 16": null
+    "Fazenda": "227203.0"
   },
   {
     "ID": "3592501",
@@ -31845,8 +30170,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "227203.0",
-    "Unnamed: 16": null
+    "Fazenda": "227203.0"
   },
   {
     "ID": "3592500",
@@ -31864,8 +30188,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "227203.0",
-    "Unnamed: 16": null
+    "Fazenda": "227203.0"
   },
   {
     "ID": "3592499",
@@ -31883,8 +30206,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "227203.0",
-    "Unnamed: 16": null
+    "Fazenda": "227203.0"
   },
   {
     "ID": "3592498",
@@ -31902,8 +30224,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "227203.0",
-    "Unnamed: 16": null
+    "Fazenda": "227203.0"
   },
   {
     "ID": "3592497",
@@ -31921,8 +30242,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "227203.0",
-    "Unnamed: 16": null
+    "Fazenda": "227203.0"
   },
   {
     "ID": "3591016",
@@ -31940,8 +30260,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "118101.0",
-    "Unnamed: 16": null
+    "Fazenda": "118101.0"
   },
   {
     "ID": "3591015",
@@ -31959,8 +30278,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "118101.0",
-    "Unnamed: 16": null
+    "Fazenda": "118101.0"
   },
   {
     "ID": "3591014",
@@ -31978,8 +30296,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "118101.0",
-    "Unnamed: 16": null
+    "Fazenda": "118101.0"
   },
   {
     "ID": "3587691",
@@ -31997,8 +30314,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "43001.0",
-    "Unnamed: 16": null
+    "Fazenda": "43001.0"
   },
   {
     "ID": "3587690",
@@ -32016,8 +30332,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "43001.0",
-    "Unnamed: 16": null
+    "Fazenda": "43001.0"
   },
   {
     "ID": "3587689",
@@ -32035,8 +30350,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "43001.0",
-    "Unnamed: 16": null
+    "Fazenda": "43001.0"
   },
   {
     "ID": "3587688",
@@ -32054,8 +30368,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": " Antonio ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "43001.0",
-    "Unnamed: 16": null
+    "Fazenda": "43001.0"
   },
   {
     "ID": "3587823",
@@ -32073,8 +30386,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587822",
@@ -32092,8 +30404,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587820",
@@ -32111,8 +30422,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587819",
@@ -32130,8 +30440,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587818",
@@ -32149,8 +30458,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587817",
@@ -32168,8 +30476,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3588513",
@@ -32187,8 +30494,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "201901.0",
-    "Unnamed: 16": null
+    "Fazenda": "201901.0"
   },
   {
     "ID": "3587816",
@@ -32206,8 +30512,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3588512",
@@ -32225,8 +30530,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "201901.0",
-    "Unnamed: 16": null
+    "Fazenda": "201901.0"
   },
   {
     "ID": "3588511",
@@ -32244,8 +30548,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "201901.0",
-    "Unnamed: 16": null
+    "Fazenda": "201901.0"
   },
   {
     "ID": "3588510",
@@ -32263,8 +30566,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "201901.0",
-    "Unnamed: 16": null
+    "Fazenda": "201901.0"
   },
   {
     "ID": "3587814",
@@ -32282,8 +30584,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587809",
@@ -32301,8 +30602,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587806",
@@ -32320,8 +30620,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3587929",
@@ -32339,8 +30638,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "43001.0",
-    "Unnamed: 16": null
+    "Fazenda": "43001.0"
   },
   {
     "ID": "3586900",
@@ -32358,8 +30656,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586899",
@@ -32377,8 +30674,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586898",
@@ -32396,8 +30692,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586897",
@@ -32415,8 +30710,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3587409",
@@ -32434,8 +30728,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586896",
@@ -32453,8 +30746,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3587408",
@@ -32472,8 +30764,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586895",
@@ -32491,8 +30782,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586894",
@@ -32510,8 +30800,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3587608",
@@ -32529,8 +30818,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586893",
@@ -32548,8 +30836,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586892",
@@ -32567,8 +30854,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586891",
@@ -32586,8 +30872,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586890",
@@ -32605,8 +30890,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586889",
@@ -32624,8 +30908,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586888",
@@ -32643,8 +30926,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586887",
@@ -32662,8 +30944,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586884",
@@ -32681,8 +30962,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586886",
@@ -32700,8 +30980,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3586885",
@@ -32719,8 +30998,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "287101.0",
-    "Unnamed: 16": null
+    "Fazenda": "287101.0"
   },
   {
     "ID": "3585086",
@@ -32738,8 +31016,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3585083",
@@ -32757,8 +31034,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3585081",
@@ -32776,8 +31052,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3585076",
@@ -32795,8 +31070,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3585169",
@@ -32814,8 +31088,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3585168",
@@ -32833,8 +31106,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254701.0",
-    "Unnamed: 16": null
+    "Fazenda": "254701.0"
   },
   {
     "ID": "3585167",
@@ -32852,8 +31124,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3585165",
@@ -32871,8 +31142,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3585164",
@@ -32890,8 +31160,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586290",
@@ -32909,8 +31178,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3585162",
@@ -32928,8 +31196,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586289",
@@ -32947,8 +31214,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586288",
@@ -32966,8 +31232,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586287",
@@ -32985,8 +31250,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3585150",
@@ -33004,8 +31268,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586286",
@@ -33023,8 +31286,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586285",
@@ -33042,8 +31304,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586284",
@@ -33061,8 +31322,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586283",
@@ -33080,8 +31340,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3585141",
@@ -33099,8 +31358,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586282",
@@ -33118,8 +31376,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586281",
@@ -33137,8 +31394,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3585140",
@@ -33156,8 +31412,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3586280",
@@ -33175,8 +31430,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586279",
@@ -33194,8 +31448,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586278",
@@ -33213,8 +31466,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586277",
@@ -33232,8 +31484,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586276",
@@ -33251,8 +31502,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586275",
@@ -33270,8 +31520,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586274",
@@ -33289,8 +31538,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586273",
@@ -33308,8 +31556,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3586272",
@@ -33327,8 +31574,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3584039",
@@ -33346,8 +31592,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3584038",
@@ -33365,8 +31610,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3583997",
@@ -33384,8 +31628,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3583987",
@@ -33403,8 +31646,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3583986",
@@ -33422,8 +31664,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3583985",
@@ -33441,8 +31682,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3583978",
@@ -33460,8 +31700,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3583975",
@@ -33479,8 +31718,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3584081",
@@ -33498,8 +31736,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3584080",
@@ -33517,8 +31754,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3581958",
@@ -33536,8 +31772,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581957",
@@ -33555,8 +31790,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581956",
@@ -33574,8 +31808,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581955",
@@ -33593,8 +31826,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581954",
@@ -33612,8 +31844,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581985",
@@ -33631,8 +31862,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3581988",
@@ -33650,8 +31880,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3581989",
@@ -33669,8 +31898,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3581820",
@@ -33688,8 +31916,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581419",
@@ -33707,8 +31934,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581818",
@@ -33726,8 +31952,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581817",
@@ -33745,8 +31970,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581418",
@@ -33764,8 +31988,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581816",
@@ -33783,8 +32006,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581815",
@@ -33802,8 +32024,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581417",
@@ -33821,8 +32042,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581416",
@@ -33840,8 +32060,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581415",
@@ -33859,8 +32078,7 @@ window.COBRICAO_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581813",
@@ -33878,8 +32096,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581812",
@@ -33897,8 +32114,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3581225",
@@ -33916,8 +32132,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581224",
@@ -33935,8 +32150,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581223",
@@ -33954,8 +32168,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581222",
@@ -33973,8 +32186,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581221",
@@ -33992,8 +32204,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581220",
@@ -34011,8 +32222,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581219",
@@ -34030,8 +32240,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581218",
@@ -34049,8 +32258,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "40101.0",
-    "Unnamed: 16": null
+    "Fazenda": "40101.0"
   },
   {
     "ID": "3581840",
@@ -34068,8 +32276,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3581838",
@@ -34087,8 +32294,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3581837",
@@ -34106,8 +32312,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3581836",
@@ -34125,8 +32330,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "254701.0",
-    "Unnamed: 16": null
+    "Fazenda": "254701.0"
   },
   {
     "ID": "3581835",
@@ -34144,8 +32348,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "254701.0",
-    "Unnamed: 16": null
+    "Fazenda": "254701.0"
   },
   {
     "ID": "3581834",
@@ -34163,8 +32366,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "254701.0",
-    "Unnamed: 16": null
+    "Fazenda": "254701.0"
   },
   {
     "ID": "3580935",
@@ -34182,8 +32384,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "46501.0",
-    "Unnamed: 16": null
+    "Fazenda": "46501.0"
   },
   {
     "ID": "3580934",
@@ -34201,8 +32402,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "46501.0",
-    "Unnamed: 16": null
+    "Fazenda": "46501.0"
   },
   {
     "ID": "3579204",
@@ -34220,8 +32420,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3579199",
@@ -34239,8 +32438,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3579202",
@@ -34258,8 +32456,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3579201",
@@ -34277,8 +32474,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3579352",
@@ -34296,8 +32492,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3579200",
@@ -34315,8 +32510,7 @@ window.COBRICAO_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "254602.0",
-    "Unnamed: 16": null
+    "Fazenda": "254602.0"
   },
   {
     "ID": "3579351",
@@ -34334,8 +32528,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3579350",
@@ -34353,8 +32546,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3579349",
@@ -34372,8 +32564,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3579348",
@@ -34391,8 +32582,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "53201.0",
-    "Unnamed: 16": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3579064",
@@ -34410,8 +32600,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3579063",
@@ -34429,8 +32618,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3579062",
@@ -34448,8 +32636,7 @@ window.COBRICAO_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "204608.0",
-    "Unnamed: 16": null
+    "Fazenda": "204608.0"
   },
   {
     "ID": "3580911",
@@ -34467,8 +32654,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "46501.0",
-    "Unnamed: 16": null
+    "Fazenda": "46501.0"
   },
   {
     "ID": "3580910",
@@ -34486,8 +32672,7 @@ window.COBRICAO_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "46501.0",
-    "Unnamed: 16": null
+    "Fazenda": "46501.0"
   },
   {
     "ID": "4026540",
@@ -34505,8 +32690,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026500",
@@ -34524,8 +32708,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026496",
@@ -34543,8 +32726,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026495",
@@ -34562,8 +32744,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026493",
@@ -34581,8 +32762,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026492",
@@ -34600,8 +32780,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026491",
@@ -34619,8 +32798,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026489",
@@ -34638,8 +32816,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026488",
@@ -34657,8 +32834,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "33302",
-    "Unnamed: 16": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4020663",
@@ -34676,8 +32852,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020662",
@@ -34695,8 +32870,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020661",
@@ -34714,8 +32888,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020660",
@@ -34733,8 +32906,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020659",
@@ -34752,8 +32924,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020658",
@@ -34771,8 +32942,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020657",
@@ -34790,8 +32960,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020656",
@@ -34809,8 +32978,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020655",
@@ -34828,8 +32996,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020654",
@@ -34847,8 +33014,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020653",
@@ -34866,8 +33032,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4020652",
@@ -34885,8 +33050,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70426",
-    "Unnamed: 16": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4013486",
@@ -34904,8 +33068,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013485",
@@ -34923,8 +33086,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013484",
@@ -34942,8 +33104,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013483",
@@ -34961,8 +33122,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013482",
@@ -34980,8 +33140,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013481",
@@ -34999,8 +33158,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013480",
@@ -35018,8 +33176,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013479",
@@ -35037,8 +33194,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013478",
@@ -35056,8 +33212,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013476",
@@ -35075,8 +33230,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013475",
@@ -35094,8 +33248,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010661",
@@ -35113,8 +33266,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010660",
@@ -35132,8 +33284,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010659",
@@ -35151,8 +33302,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010658",
@@ -35170,8 +33320,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010656",
@@ -35189,8 +33338,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010654",
@@ -35208,8 +33356,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010652",
@@ -35227,8 +33374,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010650",
@@ -35246,8 +33392,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70301",
-    "Unnamed: 16": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006547",
@@ -35265,8 +33410,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006546",
@@ -35284,8 +33428,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006545",
@@ -35303,8 +33446,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006531",
@@ -35322,8 +33464,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006530",
@@ -35341,8 +33482,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006529",
@@ -35360,8 +33500,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006528",
@@ -35379,8 +33518,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006527",
@@ -35398,8 +33536,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006526",
@@ -35417,8 +33554,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006525",
@@ -35436,8 +33572,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006524",
@@ -35455,8 +33590,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006523",
@@ -35474,8 +33608,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006250",
@@ -35493,8 +33626,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006249",
@@ -35512,8 +33644,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006247",
@@ -35531,8 +33662,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004109",
@@ -35550,8 +33680,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004096",
@@ -35569,8 +33698,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004095",
@@ -35588,8 +33716,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004094",
@@ -35607,8 +33734,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004093",
@@ -35626,8 +33752,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004092",
@@ -35645,8 +33770,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004091",
@@ -35664,8 +33788,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004090",
@@ -35683,8 +33806,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004088",
@@ -35702,8 +33824,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004089",
@@ -35721,8 +33842,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70431",
-    "Unnamed: 16": null
+    "Fazenda": "70431"
   },
   {
     "ID": "3998494",
@@ -35740,8 +33860,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998493",
@@ -35759,8 +33878,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998492",
@@ -35778,8 +33896,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998490",
@@ -35797,8 +33914,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998489",
@@ -35816,8 +33932,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998488",
@@ -35835,8 +33950,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998487",
@@ -35854,8 +33968,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998486",
@@ -35873,8 +33986,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "199802",
-    "Unnamed: 16": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3949217",
@@ -35892,8 +34004,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36813",
-    "Unnamed: 16": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3949216",
@@ -35911,8 +34022,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36813",
-    "Unnamed: 16": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3949215",
@@ -35930,8 +34040,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36813",
-    "Unnamed: 16": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3949214",
@@ -35949,8 +34058,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36813",
-    "Unnamed: 16": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3949213",
@@ -35968,8 +34076,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36813",
-    "Unnamed: 16": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3949212",
@@ -35987,8 +34094,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "36813",
-    "Unnamed: 16": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3946377",
@@ -36006,8 +34112,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3946376",
@@ -36025,8 +34130,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3946375",
@@ -36044,8 +34148,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3946374",
@@ -36063,8 +34166,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3942421",
@@ -36082,8 +34184,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3942409",
@@ -36101,8 +34202,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3942404",
@@ -36120,8 +34220,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3942403",
@@ -36139,8 +34238,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939359",
@@ -36158,8 +34256,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "177012",
-    "Unnamed: 16": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3939358",
@@ -36177,8 +34274,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "177012",
-    "Unnamed: 16": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3939450",
@@ -36196,8 +34292,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "177012",
-    "Unnamed: 16": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3939096",
@@ -36215,8 +34310,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939095",
@@ -36234,8 +34328,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939094",
@@ -36253,8 +34346,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939093",
@@ -36272,8 +34364,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939092",
@@ -36291,8 +34382,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939091",
@@ -36310,8 +34400,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939089",
@@ -36329,8 +34418,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939088",
@@ -36348,8 +34436,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938580",
@@ -36367,8 +34454,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938572",
@@ -36386,8 +34472,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938516",
@@ -36405,8 +34490,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "177012",
-    "Unnamed: 16": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3938579",
@@ -36424,8 +34508,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938515",
@@ -36443,8 +34526,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "177012",
-    "Unnamed: 16": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3936153",
@@ -36462,8 +34544,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936152",
@@ -36481,8 +34562,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936151",
@@ -36500,8 +34580,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936150",
@@ -36519,8 +34598,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936149",
@@ -36538,8 +34616,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936148",
@@ -36557,8 +34634,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936147",
@@ -36576,8 +34652,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936146",
@@ -36595,8 +34670,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936145",
@@ -36614,8 +34688,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936144",
@@ -36633,8 +34706,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936143",
@@ -36652,8 +34724,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936142",
@@ -36671,8 +34742,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936141",
@@ -36690,8 +34760,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936140",
@@ -36709,8 +34778,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "151901",
-    "Unnamed: 16": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3931261",
@@ -36728,8 +34796,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3931258",
@@ -36747,8 +34814,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3931252",
@@ -36766,8 +34832,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928756",
@@ -36785,8 +34850,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928755",
@@ -36804,8 +34868,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928746",
@@ -36823,8 +34886,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928745",
@@ -36842,8 +34904,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928744",
@@ -36861,8 +34922,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928743",
@@ -36880,8 +34940,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928726",
@@ -36899,8 +34958,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928725",
@@ -36918,8 +34976,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928724",
@@ -36937,8 +34994,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "10",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928723",
@@ -36956,8 +35012,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928705",
@@ -36975,8 +35030,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928828",
@@ -36994,8 +35048,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928948",
@@ -37013,8 +35066,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928827",
@@ -37032,8 +35084,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "67901",
-    "Unnamed: 16": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926133",
@@ -37051,8 +35102,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926132",
@@ -37070,8 +35120,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926138",
@@ -37089,8 +35138,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926137",
@@ -37108,8 +35156,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926136",
@@ -37127,8 +35174,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926135",
@@ -37146,8 +35192,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926086",
@@ -37165,8 +35210,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926084",
@@ -37184,8 +35228,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926083",
@@ -37203,8 +35246,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926082",
@@ -37222,8 +35264,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "177015",
-    "Unnamed: 16": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3922724",
@@ -37241,8 +35282,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922722",
@@ -37260,8 +35300,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922717",
@@ -37279,8 +35318,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3923362",
@@ -37298,8 +35336,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3922708",
@@ -37317,8 +35354,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3923361",
@@ -37336,8 +35372,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3923359",
@@ -37355,8 +35390,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3923343",
@@ -37374,8 +35408,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3922667",
@@ -37393,8 +35426,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3923342",
@@ -37412,8 +35444,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3923341",
@@ -37431,8 +35462,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3922666",
@@ -37450,8 +35480,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3923339",
@@ -37469,8 +35498,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3923338",
@@ -37488,8 +35516,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3922665",
@@ -37507,8 +35534,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "9",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922664",
@@ -37526,8 +35552,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922707",
@@ -37545,8 +35570,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922698",
@@ -37564,8 +35588,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "111201",
-    "Unnamed: 16": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3920402",
@@ -37583,8 +35606,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920315",
@@ -37602,8 +35624,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920314",
@@ -37621,8 +35642,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920313",
@@ -37640,8 +35660,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920397",
@@ -37659,8 +35678,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920312",
@@ -37678,8 +35696,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920311",
@@ -37697,8 +35714,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920309",
@@ -37716,8 +35732,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920308",
@@ -37735,8 +35750,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "142201",
-    "Unnamed: 16": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3920392",
@@ -37754,8 +35768,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920391",
@@ -37773,8 +35786,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920382",
@@ -37792,8 +35804,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920381",
@@ -37811,8 +35822,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920372",
@@ -37830,8 +35840,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920371",
@@ -37849,8 +35858,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920370",
@@ -37868,8 +35876,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920369",
@@ -37887,8 +35894,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920368",
@@ -37906,8 +35912,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920367",
@@ -37925,8 +35930,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920366",
@@ -37944,8 +35948,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919838",
@@ -37963,8 +35966,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919837",
@@ -37982,8 +35984,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919836",
@@ -38001,8 +36002,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919835",
@@ -38020,8 +36020,7 @@ window.COBRICAO_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "146301",
-    "Unnamed: 16": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3917519",
@@ -38039,8 +36038,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3917512",
@@ -38058,8 +36056,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3917511",
@@ -38077,8 +36074,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3917506",
@@ -38096,8 +36092,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3917505",
@@ -38115,8 +36110,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3917504",
@@ -38134,8 +36128,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915774",
@@ -38153,8 +36146,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915769",
@@ -38172,8 +36164,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915753",
@@ -38191,8 +36182,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915752",
@@ -38210,8 +36200,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915751",
@@ -38229,8 +36218,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915750",
@@ -38248,8 +36236,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915749",
@@ -38267,8 +36254,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915748",
@@ -38286,8 +36272,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915747",
@@ -38305,8 +36290,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913558",
@@ -38324,8 +36308,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913553",
@@ -38343,8 +36326,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913548",
@@ -38362,8 +36344,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913544",
@@ -38381,8 +36362,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913543",
@@ -38400,8 +36380,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913396",
@@ -38419,8 +36398,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913395",
@@ -38438,8 +36416,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913394",
@@ -38457,8 +36434,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913393",
@@ -38476,8 +36452,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913392",
@@ -38495,8 +36470,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912021",
@@ -38514,8 +36488,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912019",
@@ -38533,8 +36506,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912014",
@@ -38552,8 +36524,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911948",
@@ -38571,8 +36542,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912013",
@@ -38590,8 +36560,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912012",
@@ -38609,8 +36578,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911935",
@@ -38628,8 +36596,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911934",
@@ -38647,8 +36614,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911933",
@@ -38666,8 +36632,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911932",
@@ -38685,8 +36650,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911931",
@@ -38704,8 +36668,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911930",
@@ -38723,8 +36686,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911929",
@@ -38742,8 +36704,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911928",
@@ -38761,8 +36722,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911927",
@@ -38780,8 +36740,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "70408",
-    "Unnamed: 16": null
+    "Fazenda": "70408"
   },
   {
     "ID": "4038391",
@@ -38799,8 +36758,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "50301",
-    "Unnamed: 16": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4038390",
@@ -38818,8 +36776,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "50301",
-    "Unnamed: 16": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4038389",
@@ -38837,8 +36794,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "50301",
-    "Unnamed: 16": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4038388",
@@ -38856,8 +36812,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "50301",
-    "Unnamed: 16": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4038387",
@@ -38875,8 +36830,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "50301",
-    "Unnamed: 16": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4050441",
@@ -38894,8 +36848,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "46601",
-    "Unnamed: 16": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050440",
@@ -38913,8 +36866,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "8",
-    "Fazenda": "46601",
-    "Unnamed: 16": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050439",
@@ -38932,8 +36884,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "46601",
-    "Unnamed: 16": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050438",
@@ -38951,8 +36902,7 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "7",
-    "Fazenda": "46601",
-    "Unnamed: 16": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050437",
@@ -38970,7 +36920,6 @@ window.COBRICAO_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Profundidade de Cobrição": "6",
-    "Fazenda": "46601",
-    "Unnamed: 16": null
+    "Fazenda": "46601"
   }
 ];

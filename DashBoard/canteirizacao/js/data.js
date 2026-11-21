@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - canteirizacao
  * Total: 432 registros
- * Atualizado em: 21/11/2026 07:40
+ * Atualizado em: 21/11/2026 07:46
  */
 window.CANTEIRIZACAO_RAW_DATA = [
   {
@@ -22,8 +22,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909499",
@@ -43,8 +42,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909498",
@@ -64,8 +62,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909497",
@@ -85,8 +82,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909496",
@@ -106,8 +102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909495",
@@ -127,8 +122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909493",
@@ -148,8 +142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909491",
@@ -169,8 +162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909490",
@@ -190,8 +182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909488",
@@ -211,8 +202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909485",
@@ -232,8 +222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909482",
@@ -253,8 +242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3909479",
@@ -274,8 +262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906889",
@@ -295,8 +282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906887",
@@ -316,8 +302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906886",
@@ -337,8 +322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906885",
@@ -358,8 +342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906884",
@@ -379,8 +362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "57",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906883",
@@ -400,8 +382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906882",
@@ -421,8 +402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906881",
@@ -442,8 +422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906880",
@@ -463,8 +442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906879",
@@ -484,8 +462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3906878",
@@ -505,8 +482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904482",
@@ -526,8 +502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904481",
@@ -547,8 +522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904480",
@@ -568,8 +542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904479",
@@ -589,8 +562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904478",
@@ -610,8 +582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904477",
@@ -631,8 +602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904476",
@@ -652,8 +622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904475",
@@ -673,8 +642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904474",
@@ -694,8 +662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3904473",
@@ -715,8 +682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902185",
@@ -736,8 +702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902184",
@@ -757,8 +722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902183",
@@ -778,8 +742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902182",
@@ -799,8 +762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902181",
@@ -820,8 +782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902180",
@@ -841,8 +802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902176",
@@ -862,8 +822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902174",
@@ -883,8 +842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902173",
@@ -904,8 +862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3902172",
@@ -925,8 +882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3900463",
@@ -946,8 +902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3900462",
@@ -967,8 +922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3900461",
@@ -988,8 +942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3900460",
@@ -1009,8 +962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3900454",
@@ -1030,8 +982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896263",
@@ -1051,8 +1002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896262",
@@ -1072,8 +1022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896139",
@@ -1093,8 +1042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896261",
@@ -1114,8 +1062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896138",
@@ -1135,8 +1082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896260",
@@ -1156,8 +1102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896259",
@@ -1177,8 +1122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896137",
@@ -1198,8 +1142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896258",
@@ -1219,8 +1162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896257",
@@ -1240,8 +1182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3896256",
@@ -1261,8 +1202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893596",
@@ -1282,8 +1222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893595",
@@ -1303,8 +1242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893594",
@@ -1324,8 +1262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893593",
@@ -1345,8 +1282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893592",
@@ -1366,8 +1302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893591",
@@ -1387,8 +1322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893590",
@@ -1408,8 +1342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893589",
@@ -1429,8 +1362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893588",
@@ -1450,8 +1382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893587",
@@ -1471,8 +1402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893586",
@@ -1492,8 +1422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3893585",
@@ -1513,8 +1442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3889489",
@@ -1534,8 +1462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3889488",
@@ -1555,8 +1482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3889487",
@@ -1576,8 +1502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886968",
@@ -1597,8 +1522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886967",
@@ -1618,8 +1542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886965",
@@ -1639,8 +1562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886964",
@@ -1660,8 +1582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886963",
@@ -1681,8 +1602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886962",
@@ -1702,8 +1622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886960",
@@ -1723,8 +1642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886959",
@@ -1744,8 +1662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3886958",
@@ -1765,8 +1682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3883369",
@@ -1786,8 +1702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3883368",
@@ -1807,8 +1722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3883367",
@@ -1828,8 +1742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3883366",
@@ -1849,8 +1762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3883365",
@@ -1870,8 +1782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3883364",
@@ -1891,8 +1802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "41",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880295",
@@ -1912,8 +1822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "62",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880294",
@@ -1933,8 +1842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880293",
@@ -1954,8 +1862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880292",
@@ -1975,8 +1882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880291",
@@ -1996,8 +1902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880290",
@@ -2017,8 +1922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "51",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880289",
@@ -2038,8 +1942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "63",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880288",
@@ -2059,8 +1962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "65",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880287",
@@ -2080,8 +1982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880286",
@@ -2101,8 +2002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "61",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880284",
@@ -2122,8 +2022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "64",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880283",
@@ -2143,8 +2042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "58",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3880282",
@@ -2164,8 +2062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877952",
@@ -2185,8 +2082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877951",
@@ -2206,8 +2102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877950",
@@ -2227,8 +2122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877949",
@@ -2248,8 +2142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877948",
@@ -2269,8 +2162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877947",
@@ -2290,8 +2182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877946",
@@ -2311,8 +2202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877945",
@@ -2332,8 +2222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877944",
@@ -2353,8 +2242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877943",
@@ -2374,8 +2262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877748",
@@ -2395,8 +2282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3877747",
@@ -2416,8 +2302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875228",
@@ -2437,8 +2322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875227",
@@ -2458,8 +2342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875225",
@@ -2479,8 +2362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875215",
@@ -2500,8 +2382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875210",
@@ -2521,8 +2402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875205",
@@ -2542,8 +2422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875203",
@@ -2563,8 +2442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875199",
@@ -2584,8 +2462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875196",
@@ -2605,8 +2482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3875195",
@@ -2626,8 +2502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872199",
@@ -2647,8 +2522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872198",
@@ -2668,8 +2542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872197",
@@ -2689,8 +2562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872196",
@@ -2710,8 +2582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872263",
@@ -2731,8 +2602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872195",
@@ -2752,8 +2622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872194",
@@ -2773,8 +2642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872262",
@@ -2794,8 +2662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872261",
@@ -2815,8 +2682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872193",
@@ -2836,8 +2702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3872192",
@@ -2857,8 +2722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870143",
@@ -2878,8 +2742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870142",
@@ -2899,8 +2762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870141",
@@ -2920,8 +2782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870140",
@@ -2941,8 +2802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870139",
@@ -2962,8 +2822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870138",
@@ -2983,8 +2842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870137",
@@ -3004,8 +2862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870136",
@@ -3025,8 +2882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870135",
@@ -3046,8 +2902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870134",
@@ -3067,8 +2922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3870133",
@@ -3088,8 +2942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867182",
@@ -3109,8 +2962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867181",
@@ -3130,8 +2982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "39",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867180",
@@ -3151,8 +3002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867179",
@@ -3172,8 +3022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867339",
@@ -3193,8 +3042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "53",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867338",
@@ -3214,8 +3062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867171",
@@ -3235,8 +3082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867337",
@@ -3256,8 +3102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867336",
@@ -3277,8 +3122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867169",
@@ -3298,8 +3142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867170",
@@ -3319,8 +3162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Canteirização": "41",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867335",
@@ -3340,8 +3182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867334",
@@ -3361,8 +3202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867333",
@@ -3382,8 +3222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867332",
@@ -3403,8 +3242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "56",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867331",
@@ -3424,8 +3262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867330",
@@ -3445,8 +3282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3867329",
@@ -3466,8 +3302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3864533",
@@ -3487,8 +3322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "57",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866555",
@@ -3508,8 +3342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866554",
@@ -3529,8 +3362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866553",
@@ -3550,8 +3382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "55",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866552",
@@ -3571,8 +3402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866551",
@@ -3592,8 +3422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866550",
@@ -3613,8 +3442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866549",
@@ -3634,8 +3462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3864593",
@@ -3655,8 +3482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866542",
@@ -3676,8 +3502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866543",
@@ -3697,8 +3522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866544",
@@ -3718,8 +3542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866541",
@@ -3739,8 +3562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "58",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3866540",
@@ -3760,8 +3582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3864236",
@@ -3781,8 +3602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3864554",
@@ -3802,8 +3622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "55",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861225",
@@ -3823,8 +3642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861923",
@@ -3844,8 +3662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861922",
@@ -3865,8 +3682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861921",
@@ -3886,8 +3702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861920",
@@ -3907,8 +3722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861919",
@@ -3928,8 +3742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861918",
@@ -3949,8 +3762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861917",
@@ -3970,8 +3782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861223",
@@ -3991,8 +3802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3861243",
@@ -4012,8 +3822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842989",
@@ -4033,8 +3842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842986",
@@ -4054,8 +3862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858066",
@@ -4075,8 +3882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842992",
@@ -4096,8 +3902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "55",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842991",
@@ -4117,8 +3922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842987",
@@ -4138,8 +3942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842988",
@@ -4159,8 +3962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3842990",
@@ -4180,8 +3982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "53",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858065",
@@ -4201,8 +4002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858064",
@@ -4222,8 +4022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858063",
@@ -4243,8 +4042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858042",
@@ -4264,8 +4062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858041",
@@ -4285,8 +4082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3843480",
@@ -4306,8 +4102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3843475",
@@ -4327,8 +4122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3843476",
@@ -4348,8 +4142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3843477",
@@ -4369,8 +4162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3843478",
@@ -4390,8 +4182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3843479",
@@ -4411,8 +4202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858040",
@@ -4432,8 +4222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858039",
@@ -4453,8 +4242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858038",
@@ -4474,8 +4262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858037",
@@ -4495,8 +4282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858036",
@@ -4516,8 +4302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858035",
@@ -4537,8 +4322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "56",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858033",
@@ -4558,8 +4342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858032",
@@ -4579,8 +4362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858031",
@@ -4600,8 +4382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3858026",
@@ -4621,8 +4402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855105",
@@ -4642,8 +4422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855104",
@@ -4663,8 +4442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855103",
@@ -4684,8 +4462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "55",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855102",
@@ -4705,8 +4482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "56",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855101",
@@ -4726,8 +4502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855100",
@@ -4747,8 +4522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "56",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855099",
@@ -4768,8 +4542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "60",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855098",
@@ -4789,8 +4562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855097",
@@ -4810,8 +4582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855096",
@@ -4831,8 +4602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3855095",
@@ -4852,8 +4622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "55",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854604",
@@ -4873,8 +4642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854603",
@@ -4894,8 +4662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854602",
@@ -4915,8 +4682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "46",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854484",
@@ -4936,8 +4702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854483",
@@ -4957,8 +4722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854482",
@@ -4978,8 +4742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854481",
@@ -4999,8 +4762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "40",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854480",
@@ -5020,8 +4782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854479",
@@ -5041,8 +4802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "40",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854478",
@@ -5062,8 +4822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854477",
@@ -5083,8 +4842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "39",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854476",
@@ -5104,8 +4862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "44",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854475",
@@ -5125,8 +4882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "40",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854474",
@@ -5146,8 +4902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854473",
@@ -5167,8 +4922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3854472",
@@ -5188,8 +4942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849220",
@@ -5209,8 +4962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "54",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849219",
@@ -5230,8 +4982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "53",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849218",
@@ -5251,8 +5002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "52",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849217",
@@ -5272,8 +5022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849212",
@@ -5293,8 +5042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849203",
@@ -5314,8 +5062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849198",
@@ -5335,8 +5082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "51",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849192",
@@ -5356,8 +5102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "51",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849182",
@@ -5377,8 +5122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849178",
@@ -5398,8 +5142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849169",
@@ -5419,8 +5162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "45",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849120",
@@ -5440,8 +5182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849119",
@@ -5461,8 +5202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "3849118",
@@ -5482,8 +5222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "47",
-    "Fazenda": null,
-    "Unnamed: 18": null
+    "Fazenda": null
   },
   {
     "ID": "4026268",
@@ -5503,8 +5242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026266",
@@ -5524,8 +5262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026265",
@@ -5545,8 +5282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026264",
@@ -5566,8 +5302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026263",
@@ -5587,8 +5322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026262",
@@ -5608,8 +5342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026261",
@@ -5629,8 +5362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026260",
@@ -5650,8 +5382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026259",
@@ -5671,8 +5402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026258",
@@ -5692,8 +5422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026257",
@@ -5713,8 +5442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "47",
-    "Fazenda": "33302",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4015787",
@@ -5734,8 +5462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015786",
@@ -5755,8 +5482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015785",
@@ -5776,8 +5502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015784",
@@ -5797,8 +5522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015783",
@@ -5818,8 +5542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015782",
@@ -5839,8 +5562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015743",
@@ -5860,8 +5582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015781",
@@ -5881,8 +5602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015780",
@@ -5902,8 +5622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015742",
@@ -5923,8 +5642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015779",
@@ -5944,8 +5662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015778",
@@ -5965,8 +5682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015741",
@@ -5986,8 +5702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "46",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015777",
@@ -6007,8 +5722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70426",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4012692",
@@ -6028,8 +5742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012691",
@@ -6049,8 +5762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012690",
@@ -6070,8 +5782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012689",
@@ -6091,8 +5802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012688",
@@ -6112,8 +5822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012687",
@@ -6133,8 +5842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012686",
@@ -6154,8 +5862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012685",
@@ -6175,8 +5882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012684",
@@ -6196,8 +5902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010082",
@@ -6217,8 +5922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010081",
@@ -6238,8 +5942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010080",
@@ -6259,8 +5962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010079",
@@ -6280,8 +5982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010078",
@@ -6301,8 +6002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010077",
@@ -6322,8 +6022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010076",
@@ -6343,8 +6042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010074",
@@ -6364,8 +6062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010073",
@@ -6385,8 +6082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010072",
@@ -6406,8 +6102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010071",
@@ -6427,8 +6122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010070",
@@ -6448,8 +6142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006257",
@@ -6469,8 +6162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "40",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006256",
@@ -6490,8 +6182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006255",
@@ -6511,8 +6202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "70301",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006562",
@@ -6532,8 +6222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "46",
-    "Fazenda": "195404",
-    "Unnamed: 18": null
+    "Fazenda": "195404"
   },
   {
     "ID": "4006561",
@@ -6553,8 +6242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "41",
-    "Fazenda": "195404",
-    "Unnamed: 18": null
+    "Fazenda": "195404"
   },
   {
     "ID": "4006560",
@@ -6574,8 +6262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "50",
-    "Fazenda": "195404",
-    "Unnamed: 18": null
+    "Fazenda": "195404"
   },
   {
     "ID": "4006559",
@@ -6595,8 +6282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "60",
-    "Fazenda": "195404",
-    "Unnamed: 18": null
+    "Fazenda": "195404"
   },
   {
     "ID": "4006558",
@@ -6616,8 +6302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "52",
-    "Fazenda": "195404",
-    "Unnamed: 18": null
+    "Fazenda": "195404"
   },
   {
     "ID": "4006557",
@@ -6637,8 +6322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Canteirização": "49",
-    "Fazenda": "195404",
-    "Unnamed: 18": null
+    "Fazenda": "195404"
   },
   {
     "ID": "4005885",
@@ -6658,8 +6342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70431",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005884",
@@ -6679,8 +6362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70431",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005883",
@@ -6700,8 +6382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70431",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005882",
@@ -6721,8 +6402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70431",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005880",
@@ -6742,8 +6422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70431",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005881",
@@ -6763,8 +6442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70431",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4001671",
@@ -6784,8 +6462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001670",
@@ -6805,8 +6482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001669",
@@ -6826,8 +6502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001668",
@@ -6847,8 +6522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001667",
@@ -6868,8 +6542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001666",
@@ -6889,8 +6562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001665",
@@ -6910,8 +6582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001660",
@@ -6931,8 +6602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001661",
@@ -6952,8 +6622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "49",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001662",
@@ -6973,8 +6642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001663",
@@ -6994,8 +6662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "48",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001664",
@@ -7015,8 +6682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "285410",
     "Canteirização": "50",
-    "Fazenda": "195403",
-    "Unnamed: 18": null
+    "Fazenda": "195403"
   },
   {
     "ID": "3997768",
@@ -7036,8 +6702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997767",
@@ -7057,8 +6722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998450",
@@ -7078,8 +6742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "44",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998449",
@@ -7099,8 +6762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "41",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997766",
@@ -7120,8 +6782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "53-FRENTE MOTOMECANIZAÇÃO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998495",
@@ -7141,8 +6802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "41",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995538",
@@ -7162,8 +6822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995534",
@@ -7183,8 +6842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995532",
@@ -7204,8 +6862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995531",
@@ -7225,8 +6882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995530",
@@ -7246,8 +6902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "135- Pedrinho",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "199802",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3928885",
@@ -7267,8 +6922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "40",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928217",
@@ -7288,8 +6942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "48",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928701",
@@ -7309,8 +6962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "47",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928700",
@@ -7330,8 +6982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928206",
@@ -7351,8 +7002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "40",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928205",
@@ -7372,8 +7022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "47",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928203",
@@ -7393,8 +7042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928202",
@@ -7414,8 +7062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "49",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928201",
@@ -7435,8 +7082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "47",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928200",
@@ -7456,8 +7102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "50",
-    "Fazenda": "269701",
-    "Unnamed: 18": null
+    "Fazenda": "269701"
   },
   {
     "ID": "3928199",
@@ -7477,8 +7122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Canteirização": "48",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926042",
@@ -7498,8 +7142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925126",
@@ -7519,8 +7162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925125",
@@ -7540,8 +7182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925124",
@@ -7561,8 +7202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925123",
@@ -7582,8 +7222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "57",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925122",
@@ -7603,8 +7242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925121",
@@ -7624,8 +7262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "58",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925120",
@@ -7645,8 +7282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925119",
@@ -7666,8 +7302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925118",
@@ -7687,8 +7322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925117",
@@ -7708,8 +7342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925116",
@@ -7729,8 +7362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "67901",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3922693",
@@ -7750,8 +7382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922692",
@@ -7771,8 +7402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922691",
@@ -7792,8 +7422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922690",
@@ -7813,8 +7442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922689",
@@ -7834,8 +7462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922586",
@@ -7855,8 +7482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922584",
@@ -7876,8 +7502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "45",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922583",
@@ -7897,8 +7522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "44",
-    "Fazenda": "111201",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3919743",
@@ -7918,8 +7542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919742",
@@ -7939,8 +7562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919741",
@@ -7960,8 +7582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919740",
@@ -7981,8 +7602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919739",
@@ -8002,8 +7622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919676",
@@ -8023,8 +7642,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "48",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919673",
@@ -8044,8 +7662,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919671",
@@ -8065,8 +7682,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919669",
@@ -8086,8 +7702,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "49",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919667",
@@ -8107,8 +7722,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "47",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919665",
@@ -8128,8 +7742,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Canteirização": "50",
-    "Fazenda": "142201",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3915764",
@@ -8149,8 +7762,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915762",
@@ -8170,8 +7782,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915761",
@@ -8191,8 +7802,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915760",
@@ -8212,8 +7822,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915759",
@@ -8233,8 +7842,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915758",
@@ -8254,8 +7862,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915757",
@@ -8275,8 +7882,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915756",
@@ -8296,8 +7902,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915755",
@@ -8317,8 +7922,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915754",
@@ -8338,8 +7942,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911989",
@@ -8359,8 +7962,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911988",
@@ -8380,8 +7982,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911987",
@@ -8401,8 +8002,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "43",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911986",
@@ -8422,8 +8022,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911985",
@@ -8443,8 +8042,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "102-PLANTIO MANUAL (PITAA)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911406",
@@ -8464,8 +8062,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911404",
@@ -8485,8 +8082,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911402",
@@ -8506,8 +8102,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911401",
@@ -8527,8 +8122,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911398",
@@ -8548,8 +8142,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911396",
@@ -8569,8 +8162,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911394",
@@ -8590,8 +8182,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911392",
@@ -8611,8 +8202,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911390",
@@ -8632,8 +8222,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911387",
@@ -8653,8 +8242,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911385",
@@ -8674,8 +8262,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911383",
@@ -8695,8 +8282,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "70408",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "4058588",
@@ -8716,8 +8302,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "42",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058587",
@@ -8737,8 +8322,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "44",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058586",
@@ -8758,8 +8342,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "45",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058585",
@@ -8779,8 +8362,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "43",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058584",
@@ -8800,8 +8382,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "42",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058583",
@@ -8821,8 +8402,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "45",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058582",
@@ -8842,8 +8422,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "43",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060954",
@@ -8863,8 +8442,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060953",
@@ -8884,8 +8462,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060952",
@@ -8905,8 +8482,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060946",
@@ -8926,8 +8502,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "50",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060945",
@@ -8947,8 +8522,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "49",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060944",
@@ -8968,8 +8542,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "48",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060943",
@@ -8989,8 +8562,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "47",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060942",
@@ -9010,8 +8582,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Canteirização": "40",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060368",
@@ -9031,8 +8602,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "51",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060367",
@@ -9052,8 +8622,7 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "41",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060364",
@@ -9073,7 +8642,6 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
-    "Fazenda": "53501",
-    "Unnamed: 18": null
+    "Fazenda": "53501"
   }
 ];

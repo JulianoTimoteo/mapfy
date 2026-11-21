@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_sulco
  * Total: 1309 registros
- * Atualizado em: 21/11/2026 07:40
+ * Atualizado em: 21/11/2026 07:46
  */
 window.DOSAGEM_RAW_DATA = [
   {
@@ -21,8 +21,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3909473",
@@ -41,8 +40,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3906893",
@@ -61,8 +59,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,68",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3906892",
@@ -81,8 +78,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,62",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3906890",
@@ -101,8 +97,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3906891",
@@ -121,8 +116,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,035",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3904493",
@@ -141,8 +135,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3904494",
@@ -161,8 +154,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3901771",
@@ -181,8 +173,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,67",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3901770",
@@ -201,8 +192,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3901708",
@@ -221,8 +211,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,075",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3901707",
@@ -241,8 +230,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3900467",
@@ -261,8 +249,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3900465",
@@ -281,8 +268,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3900466",
@@ -301,8 +287,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3900464",
@@ -321,8 +306,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896370",
@@ -341,8 +325,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896369",
@@ -361,8 +344,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896117",
@@ -381,8 +363,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896116",
@@ -401,8 +382,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896145",
@@ -421,8 +401,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,625",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896115",
@@ -441,8 +420,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896243",
@@ -461,8 +439,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3896242",
@@ -481,8 +458,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,185",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3893602",
@@ -501,8 +477,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,805",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3893601",
@@ -521,8 +496,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,73",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3893600",
@@ -541,8 +515,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3893599",
@@ -561,8 +534,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,995",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889484",
@@ -581,8 +553,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889483",
@@ -601,8 +572,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889205",
@@ -621,8 +591,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889204",
@@ -641,8 +610,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889480",
@@ -661,8 +629,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,69",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889481",
@@ -681,8 +648,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,57",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889203",
@@ -701,8 +667,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3889202",
@@ -721,8 +686,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3886582",
@@ -741,8 +705,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3886581",
@@ -761,8 +724,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,165",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3886580",
@@ -781,8 +743,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,715",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3886579",
@@ -801,8 +762,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,745",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3883353",
@@ -821,8 +781,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,78",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3883352",
@@ -841,8 +800,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,735",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3883351",
@@ -861,8 +819,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3883350",
@@ -881,8 +838,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,525",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3880669",
@@ -901,8 +857,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3880668",
@@ -921,8 +876,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,14",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3880418",
@@ -941,8 +895,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3880417",
@@ -961,8 +914,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,765",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3877848",
@@ -981,8 +933,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,71",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3877847",
@@ -1001,8 +952,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,605",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3877750",
@@ -1021,8 +971,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,15",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3877749",
@@ -1041,8 +990,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3875194",
@@ -1061,8 +1009,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,125",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3875193",
@@ -1081,8 +1028,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3875192",
@@ -1101,8 +1047,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,74",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3875191",
@@ -1121,8 +1066,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872171",
@@ -1141,8 +1085,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872258",
@@ -1161,8 +1104,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872170",
@@ -1181,8 +1123,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872257",
@@ -1201,8 +1142,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,025",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872256",
@@ -1221,8 +1161,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872255",
@@ -1241,8 +1180,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872169",
@@ -1261,8 +1199,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,665",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3872167",
@@ -1281,8 +1218,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3870147",
@@ -1301,8 +1237,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3870146",
@@ -1321,8 +1256,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3870145",
@@ -1341,8 +1275,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3870144",
@@ -1361,8 +1294,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,725",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866573",
@@ -1381,8 +1313,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866572",
@@ -1401,8 +1332,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3867110",
@@ -1421,8 +1351,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,76",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3867109",
@@ -1441,8 +1370,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6,195",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866563",
@@ -1461,8 +1389,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866564",
@@ -1481,8 +1408,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,585",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3867107",
@@ -1501,8 +1427,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,585",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3867108",
@@ -1521,8 +1446,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866548",
@@ -1541,8 +1465,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,125",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866547",
@@ -1561,8 +1484,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866546",
@@ -1581,8 +1503,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,645",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3866545",
@@ -1601,8 +1522,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3861222",
@@ -1621,8 +1541,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3861221",
@@ -1641,8 +1560,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,08",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3861220",
@@ -1661,8 +1579,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3861218",
@@ -1681,8 +1598,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3858028",
@@ -1701,8 +1617,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,205",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3858030",
@@ -1721,8 +1636,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3858029",
@@ -1741,8 +1655,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,87",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3858027",
@@ -1761,8 +1674,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,155",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3854887",
@@ -1781,8 +1693,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,755",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3854886",
@@ -1801,8 +1712,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,655",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3854611",
@@ -1821,8 +1731,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,045",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3854610",
@@ -1841,8 +1750,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,17",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3854609",
@@ -1861,8 +1769,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,535",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3854608",
@@ -1881,8 +1788,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3851475",
@@ -1901,8 +1807,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,63",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3851474",
@@ -1921,8 +1826,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3851473",
@@ -1941,8 +1845,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,16",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3851472",
@@ -1961,8 +1864,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,075",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849117",
@@ -1981,8 +1883,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849116",
@@ -2001,8 +1902,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849028",
@@ -2021,8 +1921,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849027",
@@ -2041,8 +1940,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849112",
@@ -2061,8 +1959,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849113",
@@ -2081,8 +1978,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849025",
@@ -2101,8 +1997,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,065",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3849026",
@@ -2121,8 +2016,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3843473",
@@ -2141,8 +2035,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3843472",
@@ -2161,8 +2054,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3843471",
@@ -2181,8 +2073,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3846316",
@@ -2201,8 +2092,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3846317",
@@ -2221,8 +2111,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3846318",
@@ -2241,8 +2130,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3846319",
@@ -2261,8 +2149,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5,575",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3843474",
@@ -2281,8 +2168,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3639881",
@@ -2301,8 +2187,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3639880",
@@ -2321,8 +2206,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3639879",
@@ -2341,8 +2225,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3639878",
@@ -2361,8 +2244,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3635253",
@@ -2381,8 +2263,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3635252",
@@ -2401,8 +2282,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3628770",
@@ -2421,8 +2301,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3628769",
@@ -2441,8 +2320,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626606",
@@ -2461,8 +2339,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626602",
@@ -2481,8 +2358,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626605",
@@ -2501,8 +2377,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626462",
@@ -2521,8 +2396,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626439",
@@ -2541,8 +2415,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3627196",
@@ -2561,8 +2434,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3627190",
@@ -2581,8 +2453,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626990",
@@ -2601,8 +2472,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "6,995",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626989",
@@ -2621,8 +2491,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3626988",
@@ -2641,8 +2510,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3624094",
@@ -2661,8 +2529,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3624093",
@@ -2681,8 +2548,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3624045",
@@ -2701,8 +2567,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3624044",
@@ -2721,8 +2586,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3624042",
@@ -2741,8 +2605,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3624043",
@@ -2761,8 +2624,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3623969",
@@ -2781,8 +2643,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3623968",
@@ -2801,8 +2662,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3621734",
@@ -2821,8 +2681,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3621697",
@@ -2841,8 +2700,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620961",
@@ -2861,8 +2719,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620960",
@@ -2881,8 +2738,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620957",
@@ -2901,8 +2757,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620956",
@@ -2921,8 +2776,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620955",
@@ -2941,8 +2795,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620954",
@@ -2961,8 +2814,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620810",
@@ -2981,8 +2833,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620809",
@@ -3001,8 +2852,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620824",
@@ -3021,8 +2871,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3620823",
@@ -3041,8 +2890,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617888",
@@ -3061,8 +2909,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617887",
@@ -3081,8 +2928,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618590",
@@ -3101,8 +2947,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,14",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618589",
@@ -3121,8 +2966,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618710",
@@ -3141,8 +2985,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618708",
@@ -3161,8 +3004,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618705",
@@ -3181,8 +3023,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,015",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618702",
@@ -3201,8 +3042,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618481",
@@ -3221,8 +3061,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,195",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618480",
@@ -3241,8 +3080,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617708",
@@ -3261,8 +3099,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617707",
@@ -3281,8 +3118,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617607",
@@ -3301,8 +3137,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617606",
@@ -3321,8 +3156,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,388",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617605",
@@ -3341,8 +3175,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617602",
@@ -3361,8 +3194,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618235",
@@ -3381,8 +3213,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617556",
@@ -3401,8 +3232,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3617555",
@@ -3421,8 +3251,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3618233",
@@ -3441,8 +3270,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614349",
@@ -3461,8 +3289,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,58",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614348",
@@ -3481,8 +3308,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614347",
@@ -3501,8 +3327,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614346",
@@ -3521,8 +3346,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614276",
@@ -3541,8 +3365,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614275",
@@ -3561,8 +3384,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614236",
@@ -3581,8 +3403,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614235",
@@ -3601,8 +3422,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614274",
@@ -3621,8 +3441,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614273",
@@ -3641,8 +3460,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613997",
@@ -3661,8 +3479,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,795",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613996",
@@ -3681,8 +3498,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613999",
@@ -3701,8 +3517,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,87",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613998",
@@ -3721,8 +3536,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613982",
@@ -3741,8 +3555,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613981",
@@ -3761,8 +3574,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613755",
@@ -3781,8 +3593,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3613752",
@@ -3801,8 +3612,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614689",
@@ -3821,8 +3631,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3614688",
@@ -3841,8 +3650,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611176",
@@ -3861,8 +3669,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611175",
@@ -3881,8 +3688,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611174",
@@ -3901,8 +3707,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611173",
@@ -3921,8 +3726,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611624",
@@ -3941,8 +3745,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611623",
@@ -3961,8 +3764,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611622",
@@ -3981,8 +3783,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611620",
@@ -4001,8 +3802,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611794",
@@ -4021,8 +3821,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611793",
@@ -4041,8 +3840,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611792",
@@ -4061,8 +3859,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611791",
@@ -4081,8 +3878,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611184",
@@ -4101,8 +3897,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611183",
@@ -4121,8 +3916,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611182",
@@ -4141,8 +3935,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611181",
@@ -4161,8 +3954,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611253",
@@ -4181,8 +3973,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611252",
@@ -4201,8 +3992,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611251",
@@ -4221,8 +4011,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611250",
@@ -4241,8 +4030,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3610832",
@@ -4261,8 +4049,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3610831",
@@ -4281,8 +4068,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611090",
@@ -4301,8 +4087,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3611089",
@@ -4321,8 +4106,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3610830",
@@ -4341,8 +4125,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3610829",
@@ -4361,8 +4144,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3610870",
@@ -4381,8 +4163,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3610869",
@@ -4401,8 +4182,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607606",
@@ -4421,8 +4201,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607605",
@@ -4441,8 +4220,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607604",
@@ -4461,8 +4239,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607603",
@@ -4481,8 +4258,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3608252",
@@ -4501,8 +4277,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3608251",
@@ -4521,8 +4296,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607873",
@@ -4541,8 +4315,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607872",
@@ -4561,8 +4334,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607420",
@@ -4581,8 +4353,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607419",
@@ -4601,8 +4372,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607869",
@@ -4621,8 +4391,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3607868",
@@ -4641,8 +4410,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3605446",
@@ -4661,8 +4429,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3605445",
@@ -4681,8 +4448,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3605443",
@@ -4701,8 +4467,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3605444",
@@ -4721,8 +4486,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,975",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604578",
@@ -4741,8 +4505,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604209",
@@ -4761,8 +4524,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,92",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604208",
@@ -4781,8 +4543,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604207",
@@ -4801,8 +4562,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604206",
@@ -4821,8 +4581,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604052",
@@ -4841,8 +4600,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604051",
@@ -4861,8 +4619,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604050",
@@ -4881,8 +4638,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604049",
@@ -4901,8 +4657,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3603917",
@@ -4921,8 +4676,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604981",
@@ -4941,8 +4695,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3604982",
@@ -4961,8 +4714,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3603916",
@@ -4981,8 +4733,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602503",
@@ -5001,8 +4752,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602502",
@@ -5021,8 +4771,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602501",
@@ -5041,8 +4790,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602500",
@@ -5061,8 +4809,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602342",
@@ -5081,8 +4828,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602340",
@@ -5101,8 +4847,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601431",
@@ -5121,8 +4866,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601430",
@@ -5141,8 +4885,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601429",
@@ -5161,8 +4904,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601428",
@@ -5181,8 +4923,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602301",
@@ -5201,8 +4942,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602300",
@@ -5221,8 +4961,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601541",
@@ -5241,8 +4980,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601540",
@@ -5261,8 +4999,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601539",
@@ -5281,8 +5018,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601538",
@@ -5301,8 +5037,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601465",
@@ -5321,8 +5056,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3601464",
@@ -5341,8 +5075,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602294",
@@ -5361,8 +5094,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3602293",
@@ -5381,8 +5113,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3600537",
@@ -5401,8 +5132,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3600536",
@@ -5421,8 +5151,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,59",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3600531",
@@ -5441,8 +5170,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3600530",
@@ -5461,8 +5189,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599510",
@@ -5481,8 +5208,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,91",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599509",
@@ -5501,8 +5227,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,065",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599508",
@@ -5521,8 +5246,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599507",
@@ -5541,8 +5265,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,25",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3598758",
@@ -5561,8 +5284,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3598757",
@@ -5581,8 +5303,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599249",
@@ -5601,8 +5322,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599031",
@@ -5621,8 +5341,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599016",
@@ -5641,8 +5360,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599015",
@@ -5661,8 +5379,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3598754",
@@ -5681,8 +5398,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3598753",
@@ -5701,8 +5417,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3598203",
@@ -5721,8 +5436,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3598202",
@@ -5741,8 +5455,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599781",
@@ -5761,8 +5474,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3599779",
@@ -5781,8 +5493,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3596360",
@@ -5801,8 +5512,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3596359",
@@ -5821,8 +5531,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "JOYCE RODRIGUES REBOUCAS [22004]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3596221",
@@ -5841,8 +5550,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3596220",
@@ -5861,8 +5569,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595645",
@@ -5881,8 +5588,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595644",
@@ -5901,8 +5607,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595643",
@@ -5921,8 +5626,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595642",
@@ -5941,8 +5645,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595897",
@@ -5961,8 +5664,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595896",
@@ -5981,8 +5683,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,875",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595895",
@@ -6001,8 +5702,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,81",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595894",
@@ -6021,8 +5721,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,725",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595684",
@@ -6041,8 +5740,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595683",
@@ -6061,8 +5759,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595682",
@@ -6081,8 +5778,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595681",
@@ -6101,8 +5797,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595214",
@@ -6121,8 +5816,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595212",
@@ -6141,8 +5835,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3593927",
@@ -6161,8 +5854,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3593926",
@@ -6181,8 +5873,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3593925",
@@ -6201,8 +5892,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3593924",
@@ -6221,8 +5911,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595188",
@@ -6241,8 +5930,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3595187",
@@ -6261,8 +5949,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3594032",
@@ -6281,8 +5968,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3594030",
@@ -6301,8 +5987,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3594029",
@@ -6321,8 +6006,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3594020",
@@ -6341,8 +6025,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3592771",
@@ -6361,8 +6044,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3592770",
@@ -6381,8 +6063,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3592769",
@@ -6401,8 +6082,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,205",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3592768",
@@ -6421,8 +6101,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3591171",
@@ -6441,8 +6120,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3591170",
@@ -6461,8 +6139,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3591169",
@@ -6481,8 +6158,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3591168",
@@ -6501,8 +6177,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3590584",
@@ -6521,8 +6196,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3590583",
@@ -6541,8 +6215,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3590964",
@@ -6561,8 +6234,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3590962",
@@ -6581,8 +6253,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3590957",
@@ -6601,8 +6272,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3590956",
@@ -6621,8 +6291,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3589922",
@@ -6641,8 +6310,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,2",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3589921",
@@ -6661,8 +6329,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,25",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588667",
@@ -6681,8 +6348,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588660",
@@ -6701,8 +6367,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588651",
@@ -6721,8 +6386,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588630",
@@ -6741,8 +6405,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587726",
@@ -6761,8 +6424,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,135",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587725",
@@ -6781,8 +6443,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,185",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587724",
@@ -6801,8 +6462,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587687",
@@ -6821,8 +6481,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587936",
@@ -6841,8 +6500,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587937",
@@ -6861,8 +6519,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587932",
@@ -6881,8 +6538,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,19",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587931",
@@ -6901,8 +6557,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,905",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588287",
@@ -6921,8 +6576,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588290",
@@ -6941,8 +6595,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588289",
@@ -6961,8 +6614,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588288",
@@ -6981,8 +6633,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588489",
@@ -7001,8 +6652,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,02",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588488",
@@ -7021,8 +6671,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588487",
@@ -7041,8 +6690,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3588486",
@@ -7061,8 +6709,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587051",
@@ -7081,8 +6728,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3587050",
@@ -7101,8 +6747,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586979",
@@ -7121,8 +6766,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,09",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586980",
@@ -7141,8 +6785,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586981",
@@ -7161,8 +6804,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,15",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586982",
@@ -7181,8 +6823,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3584449",
@@ -7201,8 +6842,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3584444",
@@ -7221,8 +6861,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3584088",
@@ -7241,8 +6880,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3584087",
@@ -7261,8 +6899,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586214",
@@ -7281,8 +6918,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586213",
@@ -7301,8 +6937,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586212",
@@ -7321,8 +6956,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3586211",
@@ -7341,8 +6975,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3584067",
@@ -7361,8 +6994,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3584066",
@@ -7381,8 +7013,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3585071",
@@ -7401,8 +7032,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,875",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3585070",
@@ -7421,8 +7051,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,85",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3585061",
@@ -7441,8 +7070,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3585057",
@@ -7461,8 +7089,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3583590",
@@ -7481,8 +7108,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3583589",
@@ -7501,8 +7127,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3581039",
@@ -7521,8 +7146,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,165",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3581038",
@@ -7541,8 +7165,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,17",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580991",
@@ -7561,8 +7184,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3581037",
@@ -7581,8 +7203,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,18",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580990",
@@ -7601,8 +7222,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,205",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3581036",
@@ -7621,8 +7241,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,19",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580989",
@@ -7641,8 +7260,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580988",
@@ -7661,8 +7279,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580973",
@@ -7681,8 +7298,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580972",
@@ -7701,8 +7317,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580968",
@@ -7721,8 +7336,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3580967",
@@ -7741,8 +7355,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579071",
@@ -7761,8 +7374,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,11",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579070",
@@ -7781,8 +7393,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579346",
@@ -7801,8 +7412,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579345",
@@ -7821,8 +7431,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578935",
@@ -7841,8 +7450,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578934",
@@ -7861,8 +7469,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578933",
@@ -7881,8 +7488,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578932",
@@ -7901,8 +7507,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579196",
@@ -7921,8 +7526,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579337",
@@ -7941,8 +7545,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579335",
@@ -7961,8 +7564,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579195",
@@ -7981,8 +7583,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578774",
@@ -8001,8 +7602,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578773",
@@ -8021,8 +7621,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578772",
@@ -8041,8 +7640,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578771",
@@ -8061,8 +7659,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579194",
@@ -8081,8 +7678,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,85",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3579193",
@@ -8101,8 +7697,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578962",
@@ -8121,8 +7716,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578961",
@@ -8141,8 +7735,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578958",
@@ -8161,8 +7754,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3578957",
@@ -8181,8 +7773,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3577379",
@@ -8201,8 +7792,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3577378",
@@ -8221,8 +7811,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576726",
@@ -8241,8 +7830,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576926",
@@ -8261,8 +7849,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,175",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576925",
@@ -8281,8 +7868,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,155",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576924",
@@ -8301,8 +7887,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,105",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576725",
@@ -8321,8 +7906,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576923",
@@ -8341,8 +7925,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576293",
@@ -8361,8 +7944,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576294",
@@ -8381,8 +7963,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3577373",
@@ -8401,8 +7982,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3577371",
@@ -8421,8 +8001,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576269",
@@ -8441,8 +8020,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576268",
@@ -8461,8 +8039,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576267",
@@ -8481,8 +8058,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576266",
@@ -8501,8 +8077,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576655",
@@ -8521,8 +8096,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,755",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576654",
@@ -8541,8 +8115,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,79",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576653",
@@ -8561,8 +8134,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,82",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576651",
@@ -8581,8 +8153,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,81",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576207",
@@ -8601,8 +8172,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3576204",
@@ -8621,8 +8191,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574511",
@@ -8641,8 +8210,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574512",
@@ -8661,8 +8229,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574513",
@@ -8681,8 +8248,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574510",
@@ -8701,8 +8267,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574443",
@@ -8721,8 +8286,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574090",
@@ -8741,8 +8305,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574089",
@@ -8761,8 +8324,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574088",
@@ -8781,8 +8343,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574085",
@@ -8801,8 +8362,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3574380",
@@ -8821,8 +8381,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572429",
@@ -8841,8 +8400,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572428",
@@ -8861,8 +8419,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572424",
@@ -8881,8 +8438,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572423",
@@ -8901,8 +8457,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572422",
@@ -8921,8 +8476,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572421",
@@ -8941,8 +8495,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572209",
@@ -8961,8 +8514,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572208",
@@ -8981,8 +8533,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572207",
@@ -9001,8 +8552,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572206",
@@ -9021,8 +8571,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572385",
@@ -9041,8 +8590,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572386",
@@ -9061,8 +8609,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572384",
@@ -9081,8 +8628,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572383",
@@ -9101,8 +8647,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3570998",
@@ -9121,8 +8666,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3570999",
@@ -9141,8 +8685,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,825",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3571051",
@@ -9161,8 +8704,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3571050",
@@ -9181,8 +8723,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3571049",
@@ -9201,8 +8742,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3571048",
@@ -9221,8 +8761,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3570146",
@@ -9241,8 +8780,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3570145",
@@ -9261,8 +8799,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572413",
@@ -9281,8 +8818,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3572412",
@@ -9301,8 +8837,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569967",
@@ -9321,8 +8856,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,095",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569966",
@@ -9341,8 +8875,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569965",
@@ -9361,8 +8894,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,095",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569964",
@@ -9381,8 +8913,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,175",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569879",
@@ -9401,8 +8932,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569878",
@@ -9421,8 +8951,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569877",
@@ -9441,8 +8970,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569876",
@@ -9461,8 +8989,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3570137",
@@ -9481,8 +9008,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3570136",
@@ -9501,8 +9027,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569900",
@@ -9521,8 +9046,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569899",
@@ -9541,8 +9065,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569898",
@@ -9561,8 +9084,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3569897",
@@ -9581,8 +9103,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567576",
@@ -9601,8 +9122,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567575",
@@ -9621,8 +9141,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,09",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567574",
@@ -9641,8 +9160,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,115",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567573",
@@ -9661,8 +9179,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,1",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567151",
@@ -9681,8 +9198,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567150",
@@ -9701,8 +9217,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567149",
@@ -9721,8 +9236,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567148",
@@ -9741,8 +9255,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567546",
@@ -9761,8 +9274,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567545",
@@ -9781,8 +9293,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567544",
@@ -9801,8 +9312,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567543",
@@ -9821,8 +9331,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3565620",
@@ -9841,8 +9350,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,985",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3565642",
@@ -9861,8 +9369,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567025",
@@ -9881,8 +9388,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567024",
@@ -9901,8 +9407,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567023",
@@ -9921,8 +9426,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567022",
@@ -9941,8 +9445,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3565538",
@@ -9961,8 +9464,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3565537",
@@ -9981,8 +9483,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567039",
@@ -10001,8 +9502,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567036",
@@ -10021,8 +9521,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567035",
@@ -10041,8 +9540,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3567034",
@@ -10061,8 +9559,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3565572",
@@ -10081,8 +9578,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,285",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3565571",
@@ -10101,8 +9597,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3562934",
@@ -10121,8 +9616,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3562933",
@@ -10141,8 +9635,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,285",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3562931",
@@ -10161,8 +9654,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3562932",
@@ -10181,8 +9673,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3560798",
@@ -10201,8 +9692,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3560780",
@@ -10221,8 +9711,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3560537",
@@ -10241,8 +9730,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,045",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3560538",
@@ -10261,8 +9749,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3560536",
@@ -10281,8 +9768,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,995",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3560535",
@@ -10301,8 +9787,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,055",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558618",
@@ -10321,8 +9806,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558617",
@@ -10341,8 +9825,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558616",
@@ -10361,8 +9844,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558615",
@@ -10381,8 +9863,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558540",
@@ -10401,8 +9882,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,99",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558539",
@@ -10421,8 +9901,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558538",
@@ -10441,8 +9920,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,815",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558537",
@@ -10461,8 +9939,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,84",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558572",
@@ -10481,8 +9958,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558571",
@@ -10501,8 +9977,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558154",
@@ -10521,8 +9996,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558153",
@@ -10541,8 +10015,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,905",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558570",
@@ -10561,8 +10034,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558569",
@@ -10581,8 +10053,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558185",
@@ -10601,8 +10072,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3558184",
@@ -10621,8 +10091,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556088",
@@ -10641,8 +10110,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556087",
@@ -10661,8 +10129,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556274",
@@ -10681,8 +10148,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556273",
@@ -10701,8 +10167,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3555649",
@@ -10721,8 +10186,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3555648",
@@ -10741,8 +10205,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3555647",
@@ -10761,8 +10224,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3555646",
@@ -10781,8 +10243,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556364",
@@ -10801,8 +10262,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556365",
@@ -10821,8 +10281,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556268",
@@ -10841,8 +10300,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556362",
@@ -10861,8 +10319,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556266",
@@ -10881,8 +10338,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556363",
@@ -10901,8 +10357,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556265",
@@ -10921,8 +10376,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556264",
@@ -10941,8 +10395,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556067",
@@ -10961,8 +10414,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3556068",
@@ -10981,8 +10433,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3555923",
@@ -11001,8 +10452,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,515",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3555922",
@@ -11021,8 +10471,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553684",
@@ -11041,8 +10490,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553683",
@@ -11061,8 +10509,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553273",
@@ -11081,8 +10528,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,905",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553272",
@@ -11101,8 +10547,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,865",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553270",
@@ -11121,8 +10566,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,97",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553271",
@@ -11141,8 +10585,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,885",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553682",
@@ -11161,8 +10604,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553681",
@@ -11181,8 +10623,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553049",
@@ -11201,8 +10642,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553048",
@@ -11221,8 +10661,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553544",
@@ -11241,8 +10680,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553047",
@@ -11261,8 +10699,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553543",
@@ -11281,8 +10718,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553046",
@@ -11301,8 +10737,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553756",
@@ -11321,8 +10756,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553755",
@@ -11341,8 +10775,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553542",
@@ -11361,8 +10794,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3553541",
@@ -11381,8 +10813,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551343",
@@ -11401,8 +10832,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551340",
@@ -11421,8 +10851,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551384",
@@ -11441,8 +10870,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551386",
@@ -11461,8 +10889,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551158",
@@ -11481,8 +10908,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551157",
@@ -11501,8 +10927,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3550942",
@@ -11521,8 +10946,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3550941",
@@ -11541,8 +10965,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,075",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551154",
@@ -11561,8 +10984,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551153",
@@ -11581,8 +11003,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551213",
@@ -11601,8 +11022,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3551212",
@@ -11621,8 +11041,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,99",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3550837",
@@ -11641,8 +11060,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3550836",
@@ -11661,8 +11079,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3550835",
@@ -11681,8 +11098,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,23",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3550834",
@@ -11701,8 +11117,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549642",
@@ -11721,8 +11136,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549641",
@@ -11741,8 +11155,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549601",
@@ -11761,8 +11174,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549600",
@@ -11781,8 +11193,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549308",
@@ -11801,8 +11212,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549309",
@@ -11821,8 +11231,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549244",
@@ -11841,8 +11250,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549243",
@@ -11861,8 +11269,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,105",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549242",
@@ -11881,8 +11288,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,175",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549241",
@@ -11901,8 +11307,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549194",
@@ -11921,8 +11326,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,98",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549193",
@@ -11941,8 +11345,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549537",
@@ -11961,8 +11364,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,25",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549536",
@@ -11981,8 +11383,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549535",
@@ -12001,8 +11402,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3549534",
@@ -12021,8 +11421,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,275",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3548154",
@@ -12041,8 +11440,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3548153",
@@ -12061,8 +11459,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,26",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547566",
@@ -12081,8 +11478,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547565",
@@ -12101,8 +11497,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547169",
@@ -12121,8 +11516,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,685",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547168",
@@ -12141,8 +11535,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547167",
@@ -12161,8 +11554,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,66",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547166",
@@ -12181,8 +11573,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547615",
@@ -12201,8 +11592,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547614",
@@ -12221,8 +11611,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547079",
@@ -12241,8 +11630,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547078",
@@ -12261,8 +11649,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547077",
@@ -12281,8 +11668,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,09",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547074",
@@ -12301,8 +11687,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": " Antonio ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,91",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3546987",
@@ -12321,8 +11706,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3546986",
@@ -12341,8 +11725,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547282",
@@ -12361,8 +11744,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3547281",
@@ -12381,8 +11763,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544803",
@@ -12401,8 +11782,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544802",
@@ -12421,8 +11801,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,215",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3545028",
@@ -12441,8 +11820,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3545027",
@@ -12461,8 +11839,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3545025",
@@ -12481,8 +11858,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3545026",
@@ -12501,8 +11877,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544438",
@@ -12521,8 +11896,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544437",
@@ -12541,8 +11915,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544309",
@@ -12561,8 +11934,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544308",
@@ -12581,8 +11953,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544232",
@@ -12601,8 +11972,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,73",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544231",
@@ -12621,8 +11991,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,625",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544224",
@@ -12641,8 +12010,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544302",
@@ -12661,8 +12029,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,74",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544301",
@@ -12681,8 +12048,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544223",
@@ -12701,8 +12067,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,66",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544123",
@@ -12721,8 +12086,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544122",
@@ -12741,8 +12105,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544121",
@@ -12761,8 +12124,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,08",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3544120",
@@ -12781,8 +12143,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,125",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3542380",
@@ -12801,8 +12162,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3542379",
@@ -12821,8 +12181,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3542238",
@@ -12841,8 +12200,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3542236",
@@ -12861,8 +12219,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3541960",
@@ -12881,8 +12238,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3541959",
@@ -12901,8 +12257,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,69",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3541958",
@@ -12921,8 +12276,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,725",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3541957",
@@ -12941,8 +12295,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,81",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3541884",
@@ -12961,8 +12314,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3541883",
@@ -12981,8 +12333,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540038",
@@ -13001,8 +12352,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540037",
@@ -13021,8 +12371,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540036",
@@ -13041,8 +12390,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540011",
@@ -13061,8 +12409,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540010",
@@ -13081,8 +12428,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540009",
@@ -13101,8 +12447,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3539981",
@@ -13121,8 +12466,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3539980",
@@ -13141,8 +12485,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540085",
@@ -13161,8 +12504,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,09",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540088",
@@ -13181,8 +12523,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,05",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540087",
@@ -13201,8 +12542,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,055",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540086",
@@ -13221,8 +12561,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540192",
@@ -13241,8 +12580,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3540191",
@@ -13261,8 +12599,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3539356",
@@ -13281,8 +12618,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3539355",
@@ -13301,8 +12637,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,005",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3538841",
@@ -13321,8 +12656,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3538840",
@@ -13341,8 +12675,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537504",
@@ -13361,8 +12694,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537503",
@@ -13381,8 +12713,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537502",
@@ -13401,8 +12732,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,13",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537501",
@@ -13421,8 +12751,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537407",
@@ -13441,8 +12770,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537406",
@@ -13461,8 +12789,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537405",
@@ -13481,8 +12808,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537403",
@@ -13501,8 +12827,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537764",
@@ -13521,8 +12846,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537763",
@@ -13541,8 +12865,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537754",
@@ -13561,8 +12884,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537753",
@@ -13581,8 +12903,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537398",
@@ -13601,8 +12922,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537397",
@@ -13621,8 +12941,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537750",
@@ -13641,8 +12960,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537749",
@@ -13661,8 +12979,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537252",
@@ -13681,8 +12998,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,155",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537251",
@@ -13701,8 +13017,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,12",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537172",
@@ -13721,8 +13036,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3537173",
@@ -13741,8 +13055,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535779",
@@ -13761,8 +13074,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535780",
@@ -13781,8 +13093,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535757",
@@ -13801,8 +13112,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535756",
@@ -13821,8 +13131,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535755",
@@ -13841,8 +13150,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535754",
@@ -13861,8 +13169,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535334",
@@ -13881,8 +13188,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535332",
@@ -13901,8 +13207,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535768",
@@ -13921,8 +13226,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535769",
@@ -13941,8 +13245,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,735",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535744",
@@ -13961,8 +13264,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535743",
@@ -13981,8 +13283,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535767",
@@ -14001,8 +13302,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535333",
@@ -14021,8 +13321,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535766",
@@ -14041,8 +13340,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535331",
@@ -14061,8 +13359,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,655",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535736",
@@ -14081,8 +13378,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3535735",
@@ -14101,8 +13397,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3534104",
@@ -14121,8 +13416,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,15",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3534102",
@@ -14141,8 +13435,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,065",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3533603",
@@ -14161,8 +13454,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,04",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3533606",
@@ -14181,8 +13473,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,925",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3533607",
@@ -14201,8 +13492,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3533605",
@@ -14221,8 +13511,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,115",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3533602",
@@ -14241,8 +13530,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3533601",
@@ -14261,8 +13549,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531893",
@@ -14281,8 +13568,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531892",
@@ -14301,8 +13587,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531944",
@@ -14321,8 +13606,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531943",
@@ -14341,8 +13625,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531942",
@@ -14361,8 +13644,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531941",
@@ -14381,8 +13663,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531860",
@@ -14401,8 +13682,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531859",
@@ -14421,8 +13701,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531858",
@@ -14441,8 +13720,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531857",
@@ -14461,8 +13739,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531319",
@@ -14481,8 +13758,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531320",
@@ -14501,8 +13777,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531321",
@@ -14521,8 +13796,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531322",
@@ -14541,8 +13815,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531225",
@@ -14561,8 +13834,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,02",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531226",
@@ -14581,8 +13853,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,145",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531227",
@@ -14601,8 +13872,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,17",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531228",
@@ -14621,8 +13891,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,295",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531395",
@@ -14641,8 +13910,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3531392",
@@ -14661,8 +13929,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530160",
@@ -14681,8 +13948,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530159",
@@ -14701,8 +13967,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530156",
@@ -14721,8 +13986,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,975",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530155",
@@ -14741,8 +14005,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3529697",
@@ -14761,8 +14024,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,695",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3529698",
@@ -14781,8 +14043,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,73",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3529699",
@@ -14801,8 +14062,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,655",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3529700",
@@ -14821,8 +14081,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,68",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530057",
@@ -14841,8 +14100,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530056",
@@ -14861,8 +14119,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530055",
@@ -14881,8 +14138,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530054",
@@ -14901,8 +14157,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530053",
@@ -14921,8 +14176,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530052",
@@ -14941,8 +14195,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530051",
@@ -14961,8 +14214,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3530050",
@@ -14981,8 +14233,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3522551",
@@ -15001,8 +14252,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,07",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3522550",
@@ -15021,8 +14271,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,05",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520539",
@@ -15041,8 +14290,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520540",
@@ -15061,8 +14309,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520670",
@@ -15081,8 +14328,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520669",
@@ -15101,8 +14347,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,595",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520536",
@@ -15121,8 +14366,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520535",
@@ -15141,8 +14385,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520666",
@@ -15161,8 +14404,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520665",
@@ -15181,8 +14423,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,585",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520184",
@@ -15201,8 +14442,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,96",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520183",
@@ -15221,8 +14461,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,835",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520182",
@@ -15241,8 +14480,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,815",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3520181",
@@ -15261,8 +14499,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,88",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3519079",
@@ -15281,8 +14518,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3519078",
@@ -15301,8 +14537,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518625",
@@ -15321,8 +14556,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518624",
@@ -15341,8 +14575,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518987",
@@ -15361,8 +14594,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518986",
@@ -15381,8 +14613,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518324",
@@ -15401,8 +14632,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518325",
@@ -15421,8 +14651,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518307",
@@ -15441,8 +14670,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518306",
@@ -15461,8 +14689,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518294",
@@ -15481,8 +14708,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518293",
@@ -15501,8 +14727,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,235",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518118",
@@ -15521,8 +14746,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,985",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3518093",
@@ -15541,8 +14765,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,01",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516615",
@@ -15561,8 +14784,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516614",
@@ -15581,8 +14803,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516226",
@@ -15601,8 +14822,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,18",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516225",
@@ -15621,8 +14841,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,03",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516365",
@@ -15641,8 +14860,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516364",
@@ -15661,8 +14879,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516363",
@@ -15681,8 +14898,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516360",
@@ -15701,8 +14917,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516221",
@@ -15721,8 +14936,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,145",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516212",
@@ -15741,8 +14955,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,165",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3515825",
@@ -15761,8 +14974,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,275",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3515824",
@@ -15781,8 +14993,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3515823",
@@ -15801,8 +15012,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3515822",
@@ -15821,8 +15031,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516554",
@@ -15841,8 +15050,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3516552",
@@ -15861,8 +15069,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513877",
@@ -15881,8 +15088,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513876",
@@ -15901,8 +15107,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,525",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513915",
@@ -15921,8 +15126,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513916",
@@ -15941,8 +15145,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,27",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513873",
@@ -15961,8 +15164,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513872",
@@ -15981,8 +15183,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513535",
@@ -16001,8 +15202,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513534",
@@ -16021,8 +15221,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513457",
@@ -16041,8 +15240,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513456",
@@ -16061,8 +15259,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3514177",
@@ -16081,8 +15278,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3514173",
@@ -16101,8 +15297,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513462",
@@ -16121,8 +15316,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3513453",
@@ -16141,8 +15335,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511635",
@@ -16161,8 +15354,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511634",
@@ -16181,8 +15373,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511632",
@@ -16201,8 +15392,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511631",
@@ -16221,8 +15411,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,295",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511755",
@@ -16241,8 +15430,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511756",
@@ -16261,8 +15449,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511678",
@@ -16281,8 +15468,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511677",
@@ -16301,8 +15487,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3512309",
@@ -16321,8 +15506,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3512308",
@@ -16341,8 +15525,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3512307",
@@ -16361,8 +15544,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,97",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3512306",
@@ -16381,8 +15563,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,925",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511452",
@@ -16401,8 +15582,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511450",
@@ -16421,8 +15601,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511451",
@@ -16441,8 +15620,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511449",
@@ -16461,8 +15639,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511792",
@@ -16481,8 +15658,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511791",
@@ -16501,8 +15677,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511786",
@@ -16521,8 +15696,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3511789",
@@ -16541,8 +15715,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3509335",
@@ -16561,8 +15734,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,325",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3509334",
@@ -16581,8 +15753,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3509333",
@@ -16601,8 +15772,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3509332",
@@ -16621,8 +15791,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3509617",
@@ -16641,8 +15810,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3509616",
@@ -16661,8 +15829,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507658",
@@ -16681,8 +15848,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507657",
@@ -16701,8 +15867,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507656",
@@ -16721,8 +15886,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507655",
@@ -16741,8 +15905,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507654",
@@ -16761,8 +15924,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507653",
@@ -16781,8 +15943,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507652",
@@ -16801,8 +15962,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507651",
@@ -16821,8 +15981,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507629",
@@ -16841,8 +16000,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507628",
@@ -16861,8 +16019,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507749",
@@ -16881,8 +16038,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507702",
@@ -16901,8 +16057,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507607",
@@ -16921,8 +16076,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3507592",
@@ -16941,8 +16095,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498673",
@@ -16961,8 +16114,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498672",
@@ -16981,8 +16133,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498669",
@@ -17001,8 +16152,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498668",
@@ -17021,8 +16171,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498575",
@@ -17041,8 +16190,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498574",
@@ -17061,8 +16209,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498573",
@@ -17081,8 +16228,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3498572",
@@ -17101,8 +16247,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496815",
@@ -17121,8 +16266,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496814",
@@ -17141,8 +16285,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496813",
@@ -17161,8 +16304,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496812",
@@ -17181,8 +16323,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496811",
@@ -17201,8 +16342,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496810",
@@ -17221,8 +16361,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496809",
@@ -17241,8 +16380,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,51",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496808",
@@ -17261,8 +16399,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496295",
@@ -17281,8 +16418,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496294",
@@ -17301,8 +16437,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496668",
@@ -17321,8 +16456,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3496667",
@@ -17341,8 +16475,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494500",
@@ -17361,8 +16494,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494498",
@@ -17381,8 +16513,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494497",
@@ -17401,8 +16532,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494496",
@@ -17421,8 +16551,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494686",
@@ -17441,8 +16570,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494685",
@@ -17461,8 +16589,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,2",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495185",
@@ -17481,8 +16608,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495184",
@@ -17501,8 +16627,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495183",
@@ -17521,8 +16646,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495182",
@@ -17541,8 +16665,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495181",
@@ -17561,8 +16684,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495180",
@@ -17581,8 +16703,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495179",
@@ -17601,8 +16722,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495178",
@@ -17621,8 +16741,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495177",
@@ -17641,8 +16760,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495176",
@@ -17661,8 +16779,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495175",
@@ -17681,8 +16798,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3495174",
@@ -17701,8 +16817,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494628",
@@ -17721,8 +16836,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494625",
@@ -17741,8 +16855,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494626",
@@ -17761,8 +16874,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494627",
@@ -17781,8 +16893,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494342",
@@ -17801,8 +16912,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,86",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3494341",
@@ -17821,8 +16931,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,87",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3493100",
@@ -17841,8 +16950,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3493099",
@@ -17861,8 +16969,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492282",
@@ -17881,8 +16988,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,73",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492281",
@@ -17901,8 +17007,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,96",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492438",
@@ -17921,8 +17026,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492437",
@@ -17941,8 +17045,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492499",
@@ -17961,8 +17064,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492498",
@@ -17981,8 +17083,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492436",
@@ -18001,8 +17102,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492435",
@@ -18021,8 +17121,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492430",
@@ -18041,8 +17140,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492429",
@@ -18061,8 +17159,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492428",
@@ -18081,8 +17178,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492427",
@@ -18101,8 +17197,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491297",
@@ -18121,8 +17216,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491296",
@@ -18141,8 +17235,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491295",
@@ -18161,8 +17254,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491294",
@@ -18181,8 +17273,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491259",
@@ -18201,8 +17292,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491258",
@@ -18221,8 +17311,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491257",
@@ -18241,8 +17330,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491256",
@@ -18261,8 +17349,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491255",
@@ -18281,8 +17368,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491254",
@@ -18301,8 +17387,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491253",
@@ -18321,8 +17406,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491252",
@@ -18341,8 +17425,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491247",
@@ -18361,8 +17444,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491246",
@@ -18381,8 +17463,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491245",
@@ -18401,8 +17482,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3491244",
@@ -18421,8 +17501,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490180",
@@ -18441,8 +17520,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490179",
@@ -18461,8 +17539,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492561",
@@ -18481,8 +17558,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492560",
@@ -18501,8 +17577,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3470079",
@@ -18521,8 +17596,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3470078",
@@ -18541,8 +17615,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492556",
@@ -18561,8 +17634,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492557",
@@ -18581,8 +17653,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492555",
@@ -18601,8 +17672,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3492554",
@@ -18621,8 +17691,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490339",
@@ -18641,8 +17710,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490338",
@@ -18661,8 +17729,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490337",
@@ -18681,8 +17748,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490336",
@@ -18701,8 +17767,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3470075",
@@ -18721,8 +17786,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3470074",
@@ -18741,8 +17805,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3470071",
@@ -18761,8 +17824,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3470070",
@@ -18781,8 +17843,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490308",
@@ -18801,8 +17862,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490305",
@@ -18821,8 +17881,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490304",
@@ -18841,8 +17900,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490303",
@@ -18861,8 +17919,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490162",
@@ -18881,8 +17938,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490161",
@@ -18901,8 +17957,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490155",
@@ -18921,8 +17976,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490151",
@@ -18941,8 +17995,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3468130",
@@ -18961,8 +18014,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3468120",
@@ -18981,8 +18033,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3468114",
@@ -19001,8 +18052,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3468111",
@@ -19021,8 +18071,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490331",
@@ -19041,8 +18090,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490330",
@@ -19061,8 +18109,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490329",
@@ -19081,8 +18128,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3490328",
@@ -19101,8 +18147,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467541",
@@ -19121,8 +18166,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467540",
@@ -19141,8 +18185,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467538",
@@ -19161,8 +18204,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467537",
@@ -19181,8 +18223,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467536",
@@ -19201,8 +18242,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467535",
@@ -19221,8 +18261,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467531",
@@ -19241,8 +18280,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467532",
@@ -19261,8 +18299,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467646",
@@ -19281,8 +18318,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3467645",
@@ -19301,8 +18337,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465762",
@@ -19321,8 +18356,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465761",
@@ -19341,8 +18375,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465796",
@@ -19361,8 +18394,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465801",
@@ -19381,8 +18413,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465800",
@@ -19401,8 +18432,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465799",
@@ -19421,8 +18451,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465798",
@@ -19441,8 +18470,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465797",
@@ -19461,8 +18489,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465969",
@@ -19481,8 +18508,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465967",
@@ -19501,8 +18527,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465964",
@@ -19521,8 +18546,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465963",
@@ -19541,8 +18565,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465962",
@@ -19561,8 +18584,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465961",
@@ -19581,8 +18603,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465960",
@@ -19601,8 +18622,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465959",
@@ -19621,8 +18641,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465545",
@@ -19641,8 +18660,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465544",
@@ -19661,8 +18679,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3466671",
@@ -19681,8 +18698,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3466666",
@@ -19701,8 +18717,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3466665",
@@ -19721,8 +18736,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3466664",
@@ -19741,8 +18755,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465496",
@@ -19761,8 +18774,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465495",
@@ -19781,8 +18793,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,835",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465542",
@@ -19801,8 +18812,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3465541",
@@ -19821,8 +18831,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463868",
@@ -19841,8 +18850,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463867",
@@ -19861,8 +18869,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463852",
@@ -19881,8 +18888,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463855",
@@ -19901,8 +18907,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463691",
@@ -19921,8 +18926,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,38",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463690",
@@ -19941,8 +18945,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,235",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463412",
@@ -19961,8 +18964,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463417",
@@ -19981,8 +18983,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463520",
@@ -20001,8 +19002,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463519",
@@ -20021,8 +19021,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463518",
@@ -20041,8 +19040,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463466",
@@ -20061,8 +19059,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463683",
@@ -20081,8 +19078,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463682",
@@ -20101,8 +19097,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463461",
@@ -20121,8 +19116,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,45",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463460",
@@ -20141,8 +19135,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463448",
@@ -20161,8 +19154,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,29",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3463447",
@@ -20181,8 +19173,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,575",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454995",
@@ -20201,8 +19192,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454829",
@@ -20221,8 +19211,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454994",
@@ -20241,8 +19230,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454828",
@@ -20261,8 +19249,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454827",
@@ -20281,8 +19268,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454826",
@@ -20301,8 +19287,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454880",
@@ -20321,8 +19306,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454879",
@@ -20341,8 +19325,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454878",
@@ -20361,8 +19344,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454877",
@@ -20381,8 +19363,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454916",
@@ -20401,8 +19382,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454915",
@@ -20421,8 +19401,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454237",
@@ -20441,8 +19420,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454203",
@@ -20461,8 +19439,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454236",
@@ -20481,8 +19458,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,24",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454202",
@@ -20501,8 +19477,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454201",
@@ -20521,8 +19496,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454198",
@@ -20541,8 +19515,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454231",
@@ -20561,8 +19534,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3454230",
@@ -20581,8 +19553,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3451160",
@@ -20601,8 +19572,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,545",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3451159",
@@ -20621,8 +19591,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3451157",
@@ -20641,8 +19610,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3451158",
@@ -20661,8 +19629,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449688",
@@ -20681,8 +19648,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449771",
@@ -20701,8 +19667,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449770",
@@ -20721,8 +19686,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449687",
@@ -20741,8 +19705,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449769",
@@ -20761,8 +19724,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,405",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449768",
@@ -20781,8 +19743,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449569",
@@ -20801,8 +19762,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449567",
@@ -20821,8 +19781,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,75",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3447514",
@@ -20841,8 +19800,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3447515",
@@ -20861,8 +19819,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3447512",
@@ -20881,8 +19838,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3447508",
@@ -20901,8 +19857,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449685",
@@ -20921,8 +19876,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,48",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449686",
@@ -20941,8 +19895,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449684",
@@ -20961,8 +19914,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3449683",
@@ -20981,8 +19933,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445643",
@@ -21001,8 +19952,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445645",
@@ -21021,8 +19971,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,49",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445644",
@@ -21041,8 +19990,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,36",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445642",
@@ -21061,8 +20009,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,28",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445530",
@@ -21081,8 +20028,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445529",
@@ -21101,8 +20047,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,46",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445528",
@@ -21121,8 +20066,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,535",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445560",
@@ -21141,8 +20085,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,595",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445527",
@@ -21161,8 +20104,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445559",
@@ -21181,8 +20123,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,645",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445526",
@@ -21201,8 +20142,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,285",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3445525",
@@ -21221,8 +20161,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443881",
@@ -21241,8 +20180,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,555",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443880",
@@ -21261,8 +20199,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,5",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433125",
@@ -21281,8 +20218,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433126",
@@ -21301,8 +20237,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433322",
@@ -21321,8 +20256,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,275",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433323",
@@ -21341,8 +20275,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,265",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433324",
@@ -21361,8 +20294,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433129",
@@ -21381,8 +20313,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433130",
@@ -21401,8 +20332,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,485",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433325",
@@ -21421,8 +20351,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433181",
@@ -21441,8 +20370,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,855",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433698",
@@ -21461,8 +20389,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,745",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433697",
@@ -21481,8 +20408,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,675",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433182",
@@ -21501,8 +20427,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,76",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435273",
@@ -21521,8 +20446,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,665",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435274",
@@ -21541,8 +20465,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,745",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435664",
@@ -21561,8 +20484,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435318",
@@ -21581,8 +20503,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435666",
@@ -21601,8 +20522,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435665",
@@ -21621,8 +20541,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435319",
@@ -21641,8 +20560,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,255",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435667",
@@ -21661,8 +20579,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435320",
@@ -21681,8 +20598,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435321",
@@ -21701,8 +20617,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435605",
@@ -21721,8 +20636,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,32",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435606",
@@ -21741,8 +20655,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,34",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435611",
@@ -21761,8 +20674,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3435618",
@@ -21781,8 +20693,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431298",
@@ -21801,8 +20712,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431299",
@@ -21821,8 +20731,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431292",
@@ -21841,8 +20750,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431293",
@@ -21861,8 +20769,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443384",
@@ -21881,8 +20788,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443428",
@@ -21901,8 +20807,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443429",
@@ -21921,8 +20826,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443386",
@@ -21941,8 +20845,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443430",
@@ -21961,8 +20864,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443431",
@@ -21981,8 +20883,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,305",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443388",
@@ -22001,8 +20902,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,385",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443390",
@@ -22021,8 +20921,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443453",
@@ -22041,8 +20940,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443454",
@@ -22061,8 +20959,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443376",
@@ -22081,8 +20978,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "5,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443377",
@@ -22101,8 +20997,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,56",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443438",
@@ -22121,8 +21016,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443436",
@@ -22141,8 +21035,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,8",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443879",
@@ -22161,8 +21054,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,26",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3443878",
@@ -22181,8 +21073,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,425",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433175",
@@ -22201,8 +21092,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433174",
@@ -22221,8 +21111,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433173",
@@ -22241,8 +21130,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433172",
@@ -22261,8 +21149,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,345",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433180",
@@ -22281,8 +21168,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,755",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3433179",
@@ -22301,8 +21187,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,71",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431412",
@@ -22321,8 +21206,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,33",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431411",
@@ -22341,8 +21225,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,375",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431408",
@@ -22361,8 +21244,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431407",
@@ -22381,8 +21263,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431317",
@@ -22401,8 +21282,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431316",
@@ -22421,8 +21301,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,6",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431162",
@@ -22441,8 +21320,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431161",
@@ -22461,8 +21339,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431163",
@@ -22481,8 +21358,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,53",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431164",
@@ -22501,8 +21377,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,505",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431303",
@@ -22521,8 +21396,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431300",
@@ -22541,8 +21415,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431301",
@@ -22561,8 +21434,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,42",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431302",
@@ -22581,8 +21453,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431156",
@@ -22601,8 +21472,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431155",
@@ -22621,8 +21491,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431154",
@@ -22641,8 +21510,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,37",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3431153",
@@ -22661,8 +21529,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,245",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428652",
@@ -22681,8 +21548,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,94",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428651",
@@ -22701,8 +21567,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA [172390]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2,9",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428308",
@@ -22721,8 +21586,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428307",
@@ -22741,8 +21605,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3429138",
@@ -22761,8 +21624,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3429137",
@@ -22781,8 +21643,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428251",
@@ -22801,8 +21662,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,55",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428250",
@@ -22821,8 +21681,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,52",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428245",
@@ -22841,8 +21700,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,515",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3428244",
@@ -22861,8 +21719,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3426596",
@@ -22881,8 +21738,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3426595",
@@ -22901,8 +21757,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3426546",
@@ -22921,8 +21776,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,31",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3426545",
@@ -22941,8 +21795,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,54",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3423182",
@@ -22961,8 +21814,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,355",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3423424",
@@ -22981,8 +21833,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3422733",
@@ -23001,8 +21852,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3422732",
@@ -23021,8 +21871,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES [249300]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3422991",
@@ -23041,8 +21890,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3422990",
@@ -23061,8 +21909,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3422775",
@@ -23081,8 +21928,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,43",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3422774",
@@ -23101,8 +21947,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,27",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3421345",
@@ -23121,8 +21966,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3421343",
@@ -23141,8 +21985,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,39",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3420927",
@@ -23161,8 +22004,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,3",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3420926",
@@ -23181,8 +22023,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,29",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3417407",
@@ -23201,8 +22042,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,365",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3417406",
@@ -23221,8 +22061,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,4",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3413629",
@@ -23241,8 +22080,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,445",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3413630",
@@ -23261,8 +22099,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,495",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3413643",
@@ -23281,8 +22118,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,395",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3413642",
@@ -23301,8 +22137,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,415",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3411783",
@@ -23321,8 +22156,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,35",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3411782",
@@ -23341,8 +22175,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,335",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3410268",
@@ -23361,8 +22194,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,41",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3410267",
@@ -23381,8 +22213,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,475",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3408181",
@@ -23401,8 +22232,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,47",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3408180",
@@ -23421,8 +22251,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,455",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3407986",
@@ -23441,8 +22270,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3407985",
@@ -23461,8 +22289,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,435",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3406784",
@@ -23481,8 +22308,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,315",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3406783",
@@ -23501,8 +22327,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,225",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3405681",
@@ -23521,8 +22346,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,465",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "3405682",
@@ -23541,8 +22365,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3,44",
-    "Fazenda": null,
-    "Unnamed: 17": null
+    "Fazenda": null
   },
   {
     "ID": "4035282",
@@ -23561,8 +22384,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.435",
-    "Fazenda": "50301",
-    "Unnamed: 17": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4035281",
@@ -23581,8 +22403,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.52",
-    "Fazenda": "50301",
-    "Unnamed: 17": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4035741",
@@ -23601,8 +22422,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.52",
-    "Fazenda": "50301",
-    "Unnamed: 17": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4035740",
@@ -23621,8 +22441,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.435",
-    "Fazenda": "50301",
-    "Unnamed: 17": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4026255",
@@ -23641,8 +22460,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.345",
-    "Fazenda": "33302",
-    "Unnamed: 17": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026256",
@@ -23661,8 +22479,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.29",
-    "Fazenda": "33302",
-    "Unnamed: 17": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026254",
@@ -23681,8 +22498,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.085",
-    "Fazenda": "33302",
-    "Unnamed: 17": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026253",
@@ -23701,8 +22517,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.005",
-    "Fazenda": "33302",
-    "Unnamed: 17": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4015740",
@@ -23721,8 +22536,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.09",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015776",
@@ -23741,8 +22555,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.09",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015739",
@@ -23761,8 +22574,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.18",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015775",
@@ -23781,8 +22593,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.18",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015738",
@@ -23801,8 +22612,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.41",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015737",
@@ -23821,8 +22631,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.635",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015774",
@@ -23841,8 +22650,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.41",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4015773",
@@ -23861,8 +22669,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.635",
-    "Fazenda": "70426",
-    "Unnamed: 17": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4012683",
@@ -23881,8 +22688,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.685",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012682",
@@ -23901,8 +22707,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.715",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012680",
@@ -23921,8 +22726,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.12",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4012679",
@@ -23941,8 +22745,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.19",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010068",
@@ -23961,8 +22764,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.11",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010069",
@@ -23981,8 +22783,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.185",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010067",
@@ -24001,8 +22802,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.745",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010066",
@@ -24021,8 +22821,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.67",
-    "Fazenda": "70301",
-    "Unnamed: 17": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006253",
@@ -24041,8 +22840,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.135",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006254",
@@ -24061,8 +22859,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006234",
@@ -24081,8 +22878,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.445",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006233",
@@ -24101,8 +22897,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.535",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005886",
@@ -24121,8 +22916,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.465",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005887",
@@ -24141,8 +22935,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.445",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005879",
@@ -24161,8 +22954,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.055",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4005878",
@@ -24181,8 +22973,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.07",
-    "Fazenda": "70431",
-    "Unnamed: 17": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4003742",
@@ -24201,8 +22992,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.175",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4003741",
@@ -24221,8 +23011,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4003740",
@@ -24241,8 +23030,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.62",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4003739",
@@ -24261,8 +23049,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.685",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001675",
@@ -24281,8 +23068,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.2",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001674",
@@ -24301,8 +23087,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.19",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001673",
@@ -24321,8 +23106,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.52",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "4001672",
@@ -24341,8 +23125,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "285410",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.545",
-    "Fazenda": "195403",
-    "Unnamed: 17": null
+    "Fazenda": "195403"
   },
   {
     "ID": "3997763",
@@ -24361,8 +23144,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.575",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997762",
@@ -24381,8 +23163,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.48",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997614",
@@ -24401,8 +23182,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.48",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997613",
@@ -24421,8 +23201,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.575",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997761",
@@ -24441,8 +23220,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.04",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997760",
@@ -24461,8 +23239,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.08",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997612",
@@ -24481,8 +23258,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.08",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3997611",
@@ -24501,8 +23277,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.04",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995529",
@@ -24521,8 +23296,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.265",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3995528",
@@ -24541,8 +23315,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.245",
-    "Fazenda": "199802",
-    "Unnamed: 17": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3945444",
@@ -24561,8 +23334,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.99",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3945443",
@@ -24581,8 +23353,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.005",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3941337",
@@ -24601,8 +23372,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.68",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3941336",
@@ -24621,8 +23391,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.775",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3941335",
@@ -24641,8 +23410,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.82",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3941334",
@@ -24661,8 +23429,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.815",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938430",
@@ -24681,8 +23448,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.03",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938429",
@@ -24701,8 +23467,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.75",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938541",
@@ -24721,8 +23486,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.985",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938571",
@@ -24741,8 +23505,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.985",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938540",
@@ -24761,8 +23524,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.805",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938570",
@@ -24781,8 +23543,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.805",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938500",
@@ -24801,8 +23562,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.37",
-    "Fazenda": "177012",
-    "Unnamed: 17": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3938499",
@@ -24821,8 +23581,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.37",
-    "Fazenda": "177012",
-    "Unnamed: 17": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3938567",
@@ -24841,8 +23600,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.03",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938566",
@@ -24861,8 +23619,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.75",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3931245",
@@ -24881,8 +23638,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.6",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3931247",
@@ -24901,8 +23657,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.785",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3927882",
@@ -24921,8 +23676,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.67",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3927881",
@@ -24941,8 +23695,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.69",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3927880",
@@ -24961,8 +23714,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.605",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3928192",
@@ -24981,8 +23733,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.15",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928187",
@@ -25001,8 +23752,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "1.975",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3927877",
@@ -25021,8 +23771,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.61",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3928183",
@@ -25041,8 +23790,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.69",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928179",
@@ -25061,8 +23809,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "VITOR AMORIM RAMOS ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.845",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926046",
@@ -25081,8 +23828,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.66",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926045",
@@ -25101,8 +23847,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.64",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926044",
@@ -25121,8 +23866,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.01",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926043",
@@ -25141,8 +23885,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "67901",
-    "Unnamed: 17": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3925298",
@@ -25161,8 +23904,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.765",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3925297",
@@ -25181,8 +23923,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.55",
-    "Fazenda": "151901",
-    "Unnamed: 17": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3922604",
@@ -25201,8 +23942,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.015",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922595",
@@ -25221,8 +23961,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.16",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922592",
@@ -25241,8 +23980,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.455",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922587",
@@ -25261,8 +23999,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.87",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922198",
@@ -25281,8 +24018,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.015",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922197",
@@ -25301,8 +24037,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.16",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922219",
@@ -25321,8 +24056,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015",
-    "Unnamed: 17": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3922218",
@@ -25341,8 +24075,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015",
-    "Unnamed: 17": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3922217",
@@ -25361,8 +24094,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015",
-    "Unnamed: 17": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3922216",
@@ -25381,8 +24113,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "4.6",
-    "Fazenda": "177015",
-    "Unnamed: 17": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3922196",
@@ -25401,8 +24132,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.23",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922195",
@@ -25421,8 +24151,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.235",
-    "Fazenda": "111201",
-    "Unnamed: 17": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3919745",
@@ -25441,8 +24170,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.22",
-    "Fazenda": "142201",
-    "Unnamed: 17": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919744",
@@ -25461,8 +24189,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "6.265",
-    "Fazenda": "142201",
-    "Unnamed: 17": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919663",
@@ -25481,8 +24208,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.21",
-    "Fazenda": "142201",
-    "Unnamed: 17": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919661",
@@ -25501,8 +24227,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.245",
-    "Fazenda": "142201",
-    "Unnamed: 17": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919541",
@@ -25521,8 +24246,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.055",
-    "Fazenda": "146301",
-    "Unnamed: 17": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919540",
@@ -25541,8 +24265,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3",
-    "Fazenda": "146301",
-    "Unnamed: 17": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3917624",
@@ -25561,8 +24284,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.155",
-    "Fazenda": "146301",
-    "Unnamed: 17": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3917602",
@@ -25581,8 +24303,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.135",
-    "Fazenda": "146301",
-    "Unnamed: 17": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3914852",
@@ -25601,8 +24322,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.07",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3914851",
@@ -25621,8 +24341,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.015",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3914850",
@@ -25641,8 +24360,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.8",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3914849",
@@ -25661,8 +24379,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.825",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913398",
@@ -25681,8 +24398,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.69",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913397",
@@ -25701,8 +24417,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.71",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913373",
@@ -25721,8 +24436,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.04",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913374",
@@ -25741,8 +24455,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.135",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911970",
@@ -25761,8 +24474,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.46",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911969",
@@ -25781,8 +24493,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911351",
@@ -25801,8 +24512,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.46",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911350",
@@ -25821,8 +24531,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911966",
@@ -25841,8 +24550,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911965",
@@ -25861,8 +24569,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911347",
@@ -25881,8 +24588,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.165",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911346",
@@ -25901,8 +24607,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.16",
-    "Fazenda": "70408",
-    "Unnamed: 17": null
+    "Fazenda": "70408"
   },
   {
     "ID": "4050002",
@@ -25921,8 +24626,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.49",
-    "Fazenda": "46601",
-    "Unnamed: 17": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050001",
@@ -25941,8 +24645,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "3.735",
-    "Fazenda": "46601",
-    "Unnamed: 17": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4058574",
@@ -25961,8 +24664,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.895",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058573",
@@ -25981,8 +24683,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.835",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058572",
@@ -26001,8 +24702,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.83",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4058571",
@@ -26021,8 +24721,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.67",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060376",
@@ -26041,8 +24740,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060346",
@@ -26061,8 +24759,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.625",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060344",
@@ -26081,8 +24778,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.955",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060100",
@@ -26101,8 +24797,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.61",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060099",
@@ -26121,8 +24816,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.625",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060342",
@@ -26141,8 +24835,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.785",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060098",
@@ -26161,8 +24854,7 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.785",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   },
   {
     "ID": "4060097",
@@ -26181,7 +24873,6 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Adubo",
     "Dosagem de Produto - Sulcação": "2.955",
-    "Fazenda": "53501",
-    "Unnamed: 17": null
+    "Fazenda": "53501"
   }
 ];
