@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - area_vivencia
  * Total: 372 registros
- * Atualizado em: 21/11/2026 07:46
+ * Atualizado em: 21/11/2026 08:50
  */
 window.RAW_INSPECTIONS = [
   {
@@ -32,14 +32,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "31401.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "31401.0"
   },
   {
     "ID": "3973921",
@@ -69,14 +62,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "255801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "255801.0"
   },
   {
     "ID": "3981140",
@@ -106,14 +92,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "3970765",
@@ -143,14 +122,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "181401.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "181401.0"
   },
   {
     "ID": "3967582",
@@ -180,14 +152,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "4007581",
@@ -217,14 +182,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "31401.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "31401.0"
   },
   {
     "ID": "3965282",
@@ -254,14 +212,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "4007580",
@@ -291,14 +242,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "31401.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "31401.0"
   },
   {
     "ID": "3960188",
@@ -328,14 +272,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "3957774",
@@ -365,14 +302,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "110903.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "110903.0"
   },
   {
     "ID": "3957204",
@@ -402,14 +332,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "3955272",
@@ -439,14 +362,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "110903.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "110903.0"
   },
   {
     "ID": "3952991",
@@ -476,14 +392,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "281410.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "281410.0"
   },
   {
     "ID": "4007579",
@@ -513,14 +422,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "31401.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "31401.0"
   },
   {
     "ID": "3951705",
@@ -550,14 +452,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "249902.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "249902.0"
   },
   {
     "ID": "3949839",
@@ -587,14 +482,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "52501.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "52501.0"
   },
   {
     "ID": "3943151",
@@ -624,14 +512,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "191005.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "191005.0"
   },
   {
     "ID": "3940835",
@@ -661,14 +542,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "191005.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "191005.0"
   },
   {
     "ID": "3938421",
@@ -698,14 +572,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "191005.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "191005.0"
   },
   {
     "ID": "4007578",
@@ -735,14 +602,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "53201.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "4007577",
@@ -772,14 +632,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "53201.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3927441",
@@ -809,14 +662,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "3925171",
@@ -846,14 +692,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "275601.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "275601.0"
   },
   {
     "ID": "3924437",
@@ -883,14 +722,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "3921294",
@@ -920,14 +752,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "144801.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "144801.0"
   },
   {
     "ID": "3916834",
@@ -957,14 +782,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "34802.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "34802.0"
   },
   {
     "ID": "4007576",
@@ -994,14 +812,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "53201.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "53201.0"
   },
   {
     "ID": "3914486",
@@ -1031,14 +842,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "34802.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "34802.0"
   },
   {
     "ID": "3912750",
@@ -1068,14 +872,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "34802.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "34802.0"
   },
   {
     "ID": "3912749",
@@ -1105,14 +902,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "34802.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "34802.0"
   },
   {
     "ID": "3912478",
@@ -1142,14 +932,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "34802.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "34802.0"
   },
   {
     "ID": "4007575",
@@ -1179,14 +962,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "67901.0",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "67901.0"
   },
   {
     "ID": "4007574",
@@ -1216,14 +992,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3906409",
@@ -1253,14 +1022,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3906386",
@@ -1290,14 +1052,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007573",
@@ -1327,14 +1082,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3903995",
@@ -1364,14 +1112,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3903920",
@@ -1401,14 +1142,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3901934",
@@ -1438,14 +1172,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3901704",
@@ -1475,14 +1202,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3901373",
@@ -1512,14 +1232,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "NÃO",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3895889",
@@ -1549,14 +1262,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007572",
@@ -1586,14 +1292,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3893482",
@@ -1623,14 +1322,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007571",
@@ -1660,14 +1352,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3890713",
@@ -1697,14 +1382,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007570",
@@ -1734,14 +1412,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007569",
@@ -1771,14 +1442,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3886452",
@@ -1808,14 +1472,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3886398",
@@ -1845,14 +1502,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3883226",
@@ -1882,14 +1532,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007568",
@@ -1919,14 +1562,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3886451",
@@ -1956,14 +1592,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3880077",
@@ -1993,14 +1622,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007567",
@@ -2030,14 +1652,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3877574",
@@ -2067,14 +1682,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3873796",
@@ -2104,14 +1712,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3872036",
@@ -2141,14 +1742,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007566",
@@ -2178,14 +1772,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3869291",
@@ -2215,14 +1802,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3866799",
@@ -2252,14 +1832,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3866798",
@@ -2289,14 +1862,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3866660",
@@ -2326,14 +1892,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3866559",
@@ -2363,14 +1922,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3866488",
@@ -2400,14 +1952,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3866485",
@@ -2437,14 +1982,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3864463",
@@ -2474,14 +2012,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3864149",
@@ -2511,14 +2042,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3864009",
@@ -2548,14 +2072,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3839922",
@@ -2585,14 +2102,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3863995",
@@ -2622,14 +2132,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3861280",
@@ -2659,14 +2162,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3861246",
@@ -2696,14 +2192,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007565",
@@ -2733,14 +2222,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3860476",
@@ -2770,14 +2252,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3858184",
@@ -2807,14 +2282,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3857830",
@@ -2844,14 +2312,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3857775",
@@ -2881,14 +2342,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3857727",
@@ -2918,14 +2372,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007564",
@@ -2955,14 +2402,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007563",
@@ -2992,14 +2432,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3854624",
@@ -3029,14 +2462,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3854500",
@@ -3066,14 +2492,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007562",
@@ -3103,14 +2522,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3851593",
@@ -3140,14 +2552,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3851488",
@@ -3177,14 +2582,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3863994",
@@ -3214,14 +2612,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007561",
@@ -3251,14 +2642,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3851087",
@@ -3288,14 +2672,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007560",
@@ -3325,14 +2702,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3850073",
@@ -3362,14 +2732,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3849156",
@@ -3399,14 +2762,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3758451",
@@ -3436,14 +2792,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3849046",
@@ -3473,14 +2822,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3848981",
@@ -3510,14 +2852,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3848280",
@@ -3547,14 +2882,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3846561",
@@ -3584,14 +2912,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3846214",
@@ -3621,14 +2942,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007559",
@@ -3658,14 +2972,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3845620",
@@ -3695,14 +3002,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3845119",
@@ -3732,14 +3032,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3842957",
@@ -3769,14 +3062,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3842782",
@@ -3806,14 +3092,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007558",
@@ -3843,14 +3122,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3842246",
@@ -3880,14 +3152,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3840049",
@@ -3917,14 +3182,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3832878",
@@ -3954,14 +3212,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007557",
@@ -3991,14 +3242,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3837410",
@@ -4028,14 +3272,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3837352",
@@ -4065,14 +3302,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3839921",
@@ -4102,14 +3332,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3837218",
@@ -4139,14 +3362,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007556",
@@ -4176,14 +3392,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3835017",
@@ -4213,14 +3422,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3837349",
@@ -4250,14 +3452,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007555",
@@ -4287,14 +3482,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3834527",
@@ -4324,14 +3512,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3834251",
@@ -4361,14 +3542,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3832679",
@@ -4398,14 +3572,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007554",
@@ -4435,14 +3602,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3804581",
@@ -4472,14 +3632,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3832382",
@@ -4509,14 +3662,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3830724",
@@ -4546,14 +3692,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3830662",
@@ -4583,14 +3722,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007553",
@@ -4620,14 +3752,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007552",
@@ -4657,14 +3782,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007551",
@@ -4694,14 +3812,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3828289",
@@ -4731,14 +3842,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007550",
@@ -4768,14 +3872,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3828119",
@@ -4805,14 +3902,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3828112",
@@ -4842,14 +3932,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3827940",
@@ -4879,14 +3962,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3825595",
@@ -4916,14 +3992,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3828118",
@@ -4953,14 +4022,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3828117",
@@ -4990,14 +4052,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3825353",
@@ -5027,14 +4082,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3825333",
@@ -5064,14 +4112,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007549",
@@ -5101,14 +4142,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3828116",
@@ -5138,14 +4172,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3822501",
@@ -5175,14 +4202,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3822497",
@@ -5212,14 +4232,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3822483",
@@ -5249,14 +4262,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3822388",
@@ -5286,14 +4292,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007548",
@@ -5323,14 +4322,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007547",
@@ -5360,14 +4352,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3818264",
@@ -5397,14 +4382,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3825187",
@@ -5434,14 +4412,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3820004",
@@ -5471,14 +4442,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3819706",
@@ -5508,14 +4472,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3819623",
@@ -5545,14 +4502,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3821909",
@@ -5582,14 +4532,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3821908",
@@ -5619,14 +4562,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3819438",
@@ -5656,14 +4592,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3819010",
@@ -5693,14 +4622,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007546",
@@ -5730,14 +4652,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3818293",
@@ -5767,14 +4682,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3818265",
@@ -5804,14 +4712,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007545",
@@ -5841,14 +4742,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3817656",
@@ -5878,14 +4772,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3817643",
@@ -5915,14 +4802,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3816607",
@@ -5952,14 +4832,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3816367",
@@ -5989,14 +4862,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007544",
@@ -6026,14 +4892,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799280",
@@ -6063,14 +4922,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3815900",
@@ -6100,14 +4952,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3813677",
@@ -6137,14 +4982,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3813361",
@@ -6174,14 +5012,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007543",
@@ -6211,14 +5042,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3811461",
@@ -6248,14 +5072,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3811394",
@@ -6285,14 +5102,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3811388",
@@ -6322,14 +5132,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3811082",
@@ -6359,14 +5162,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007542",
@@ -6396,14 +5192,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3810716",
@@ -6433,14 +5222,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3808550",
@@ -6470,14 +5252,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007541",
@@ -6507,14 +5282,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3808254",
@@ -6544,14 +5312,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3808253",
@@ -6581,14 +5342,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3808078",
@@ -6618,14 +5372,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3807947",
@@ -6655,14 +5402,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3807758",
@@ -6692,14 +5432,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3806528",
@@ -6729,14 +5462,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3806485",
@@ -6766,14 +5492,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3806357",
@@ -6803,14 +5522,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3806219",
@@ -6840,14 +5552,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3805983",
@@ -6877,14 +5582,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3806218",
@@ -6914,14 +5612,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007540",
@@ -6951,14 +5642,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3804608",
@@ -6988,14 +5672,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3804598",
@@ -7025,14 +5702,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007539",
@@ -7062,14 +5732,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3804336",
@@ -7099,14 +5762,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3804214",
@@ -7136,14 +5792,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3803514",
@@ -7173,14 +5822,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007538",
@@ -7210,14 +5852,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007537",
@@ -7247,14 +5882,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3801822",
@@ -7284,14 +5912,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3801532",
@@ -7321,14 +5942,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799763",
@@ -7358,14 +5972,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007536",
@@ -7395,14 +6002,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799582",
@@ -7432,14 +6032,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799345",
@@ -7469,14 +6062,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799282",
@@ -7506,14 +6092,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4007535",
@@ -7543,14 +6122,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799343",
@@ -7580,14 +6152,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799052",
@@ -7617,14 +6182,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3798766",
@@ -7654,14 +6212,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3798653",
@@ -7691,14 +6242,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3798452",
@@ -7728,14 +6272,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3799051",
@@ -7765,14 +6302,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796884",
@@ -7802,14 +6332,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796834",
@@ -7839,14 +6362,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796768",
@@ -7876,14 +6392,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796967",
@@ -7913,14 +6422,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3793900",
@@ -7950,14 +6452,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3793687",
@@ -7987,14 +6482,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3791778",
@@ -8024,14 +6512,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3791548",
@@ -8061,14 +6542,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3788586",
@@ -8098,14 +6572,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796966",
@@ -8135,14 +6602,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3787819",
@@ -8172,14 +6632,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3787734",
@@ -8209,14 +6662,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3787563",
@@ -8246,14 +6692,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3785664",
@@ -8283,14 +6722,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3785409",
@@ -8320,14 +6752,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3782731",
@@ -8357,14 +6782,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3782664",
@@ -8394,14 +6812,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3782115",
@@ -8431,14 +6842,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3779561",
@@ -8468,14 +6872,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3777731",
@@ -8505,14 +6902,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3777675",
@@ -8542,14 +6932,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796965",
@@ -8579,14 +6962,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3777366",
@@ -8616,14 +6992,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796964",
@@ -8653,14 +7022,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3775311",
@@ -8690,14 +7052,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3774978",
@@ -8727,14 +7082,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796963",
@@ -8764,14 +7112,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3774689",
@@ -8801,14 +7142,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3773949",
@@ -8838,14 +7172,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796962",
@@ -8875,14 +7202,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3771478",
@@ -8912,14 +7232,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3771344",
@@ -8949,14 +7262,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3771329",
@@ -8986,14 +7292,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3770998",
@@ -9023,14 +7322,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3770601",
@@ -9060,14 +7352,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3769012",
@@ -9097,14 +7382,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3771328",
@@ -9134,14 +7412,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796961",
@@ -9171,14 +7442,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3768586",
@@ -9208,14 +7472,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3766519",
@@ -9245,14 +7502,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3766113",
@@ -9282,14 +7532,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3766031",
@@ -9319,14 +7562,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3763636",
@@ -9356,14 +7592,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3763471",
@@ -9393,14 +7622,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796960",
@@ -9430,14 +7652,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3762955",
@@ -9467,14 +7682,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3760586",
@@ -9504,14 +7712,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3760400",
@@ -9541,14 +7742,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3763042",
@@ -9578,14 +7772,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796959",
@@ -9615,14 +7802,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3759906",
@@ -9652,14 +7832,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3759008",
@@ -9689,14 +7862,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796958",
@@ -9726,14 +7892,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3757578",
@@ -9763,14 +7922,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3756959",
@@ -9800,14 +7952,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "NÃO",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3754611",
@@ -9837,14 +7982,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796957",
@@ -9874,14 +8012,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3754253",
@@ -9911,14 +8042,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "NÃO",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3754239",
@@ -9948,14 +8072,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3751373",
@@ -9985,14 +8102,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3751368",
@@ -10022,14 +8132,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3751592",
@@ -10059,14 +8162,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796956",
@@ -10096,14 +8192,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3750972",
@@ -10133,14 +8222,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "NÃO",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796955",
@@ -10170,14 +8252,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748591",
@@ -10207,14 +8282,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748501",
@@ -10244,14 +8312,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748372",
@@ -10281,14 +8342,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3745516",
@@ -10318,14 +8372,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748574",
@@ -10355,14 +8402,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748117",
@@ -10392,14 +8432,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748113",
@@ -10429,14 +8462,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748112",
@@ -10466,14 +8492,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748111",
@@ -10503,14 +8522,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3748110",
@@ -10540,14 +8552,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3745925",
@@ -10577,14 +8582,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3745890",
@@ -10614,14 +8612,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3745462",
@@ -10651,14 +8642,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796954",
@@ -10688,14 +8672,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3745332",
@@ -10725,14 +8702,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3745331",
@@ -10762,14 +8732,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3743462",
@@ -10799,14 +8762,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3743123",
@@ -10836,14 +8792,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3743045",
@@ -10873,14 +8822,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3742173",
@@ -10910,14 +8852,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3742169",
@@ -10947,14 +8882,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3742854",
@@ -10984,14 +8912,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3741803",
@@ -11021,14 +8942,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3741056",
@@ -11058,14 +8972,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3741802",
@@ -11095,14 +9002,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3741021",
@@ -11132,14 +9032,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3739245",
@@ -11169,14 +9062,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3739239",
@@ -11206,14 +9092,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796953",
@@ -11243,14 +9122,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3739207",
@@ -11280,14 +9152,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3738971",
@@ -11317,14 +9182,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3737658",
@@ -11354,14 +9212,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3737657",
@@ -11391,14 +9242,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3736684",
@@ -11428,14 +9272,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3735086",
@@ -11465,14 +9302,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3735045",
@@ -11502,14 +9332,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3731866",
@@ -11539,14 +9362,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3730717",
@@ -11576,14 +9392,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3796952",
@@ -11613,14 +9422,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3729092",
@@ -11650,14 +9452,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3728957",
@@ -11687,14 +9482,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "3726389",
@@ -11724,14 +9512,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": null,
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": null
   },
   {
     "ID": "4043139",
@@ -11745,8 +9526,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "142801",
     "OBS": null,
@@ -11755,20 +9536,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "NÃO",
     "Está utilizando  cone de Sinalização ?": "NÃO",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "142801",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "NÃO",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "142801"
   },
   {
     "ID": "4040753",
@@ -11782,8 +9556,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "246703",
     "OBS": null,
@@ -11792,20 +9566,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "246703",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "246703"
   },
   {
     "ID": "4040010",
@@ -11819,8 +9586,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "142801",
     "OBS": null,
@@ -11829,20 +9596,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "NÃO",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "142801",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "NÃO",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "142801"
   },
   {
     "ID": "4037468",
@@ -11856,8 +9616,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Ednaldo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "220601",
     "OBS": null,
@@ -11866,20 +9626,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "220601",
-    "Responsável ": "Ednaldo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "220601"
   },
   {
     "ID": "4035135",
@@ -11893,8 +9646,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "220601",
     "OBS": null,
@@ -11903,20 +9656,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "220601",
-    "Responsável ": "Luiz Paulo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "220601"
   },
   {
     "ID": "4035053",
@@ -11930,8 +9676,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "217401",
     "OBS": null,
@@ -11940,20 +9686,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "217401",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "217401"
   },
   {
     "ID": "4030368",
@@ -11967,8 +9706,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "34704",
     "OBS": null,
@@ -11977,20 +9716,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "NÃO",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "34704",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "NÃO",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "34704"
   },
   {
     "ID": "4028553",
@@ -12004,8 +9736,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Ednaldo",
+    "Turno": "A",
     "Frente": "13 - FRENTE 13",
     "Local (Fazenda - Talhão)": "39101",
     "OBS": null,
@@ -12014,20 +9746,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "39101",
-    "Responsável ": "Ednaldo",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "39101"
   },
   {
     "ID": "4023417",
@@ -12041,8 +9766,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "13 - FRENTE 13",
     "Local (Fazenda - Talhão)": "269506",
     "OBS": null,
@@ -12051,20 +9776,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "269506",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "269506"
   },
   {
     "ID": "4022144",
@@ -12078,8 +9796,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "39003",
     "OBS": null,
@@ -12088,20 +9806,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "39003",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "39003"
   },
   {
     "ID": "4021177",
@@ -12115,8 +9826,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "39003",
     "OBS": null,
@@ -12125,20 +9836,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "39003",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "39003"
   },
   {
     "ID": "4019897",
@@ -12152,8 +9856,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Ednaldo ",
+    "Turno": "A",
     "Frente": "13 - FRENTE 13",
     "Local (Fazenda - Talhão)": "269506",
     "OBS": null,
@@ -12162,20 +9866,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "269506",
-    "Responsável ": "Ednaldo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "269506"
   },
   {
     "ID": "4017675",
@@ -12189,8 +9886,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "69401",
     "OBS": null,
@@ -12199,20 +9896,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "69401",
-    "Responsável ": "Luiz Paulo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "69401"
   },
   {
     "ID": "4017673",
@@ -12226,8 +9916,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando ",
+    "Turno": "A",
     "Frente": "13 - FRENTE 13",
     "Local (Fazenda - Talhão)": "269506",
     "OBS": null,
@@ -12236,20 +9926,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "269506",
-    "Responsável ": "Fernando ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "269506"
   },
   {
     "ID": "4015625",
@@ -12263,8 +9946,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "13 - FRENTE 13",
     "Local (Fazenda - Talhão)": "269506",
     "OBS": null,
@@ -12273,20 +9956,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "269506",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "269506"
   },
   {
     "ID": "4011485",
@@ -12300,8 +9976,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "39003",
     "OBS": null,
@@ -12310,20 +9986,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "39003",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "39003"
   },
   {
     "ID": "4007431",
@@ -12337,8 +10006,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo Rodrigues ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "131901",
     "OBS": null,
@@ -12347,20 +10016,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "131901",
-    "Responsável ": "Luiz Paulo Rodrigues ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "131901"
   },
   {
     "ID": "4007591",
@@ -12374,8 +10036,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Ednaldo zeviani arcenio",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "44301",
     "OBS": null,
@@ -12384,20 +10046,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "44301",
-    "Responsável ": "Ednaldo zeviani arcenio",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "44301"
   },
   {
     "ID": "4007443",
@@ -12411,8 +10066,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "13 - FRENTE 13",
     "Local (Fazenda - Talhão)": "269501",
     "OBS": null,
@@ -12421,20 +10076,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "269501",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "269501"
   },
   {
     "ID": "4006310",
@@ -12448,8 +10096,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "134301",
     "OBS": null,
@@ -12458,20 +10106,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "134301",
-    "Responsável ": "Luiz Paulo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "134301"
   },
   {
     "ID": "4007590",
@@ -12485,8 +10126,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Marcos Vinicius moura ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "31401",
     "OBS": "87185",
@@ -12495,20 +10136,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "31401",
-    "Responsável ": "Marcos Vinicius moura ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "31401"
   },
   {
     "ID": "4000804",
@@ -12522,8 +10156,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "180101",
     "OBS": null,
@@ -12532,20 +10166,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "180101",
-    "Responsável ": "Luiz Paulo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "180101"
   },
   {
     "ID": "4000170",
@@ -12559,8 +10186,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "114301",
     "OBS": null,
@@ -12569,20 +10196,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "114301",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "114301"
   },
   {
     "ID": "3997536",
@@ -12596,8 +10216,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "255501",
     "OBS": null,
@@ -12606,20 +10226,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "255501",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "255501"
   },
   {
     "ID": "4007589",
@@ -12633,8 +10246,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Marcos Vinicius moura ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "31401",
     "OBS": "87185",
@@ -12643,20 +10256,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "31401",
-    "Responsável ": "Marcos Vinicius moura ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "31401"
   },
   {
     "ID": "3994542",
@@ -12670,8 +10276,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "255501",
     "OBS": null,
@@ -12680,20 +10286,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "255501",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "255501"
   },
   {
     "ID": "3993997",
@@ -12707,8 +10306,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "114301",
     "OBS": null,
@@ -12717,20 +10316,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "114301",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "114301"
   },
   {
     "ID": "3992444",
@@ -12744,8 +10336,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "272760",
+    "Turno": "A",
     "Frente": "12 - FRENTE 12",
     "Local (Fazenda - Talhão)": "136603",
     "OBS": null,
@@ -12754,20 +10346,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "136603",
-    "Responsável ": "272760",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "136603"
   },
   {
     "ID": "4007588",
@@ -12781,8 +10366,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Marcos Vinicius moura ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "32101",
     "OBS": "87185",
@@ -12791,20 +10376,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "32101",
-    "Responsável ": "Marcos Vinicius moura ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "32101"
   },
   {
     "ID": "3991546",
@@ -12818,8 +10396,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "118601",
     "OBS": null,
@@ -12828,20 +10406,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "118601",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "118601"
   },
   {
     "ID": "3990851",
@@ -12855,8 +10426,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "118601",
     "OBS": "Sitio Santo Antonio ",
@@ -12865,20 +10436,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "NÃO",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "118601",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "118601"
   },
   {
     "ID": "4007587",
@@ -12892,8 +10456,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Vieira dos Santos ",
+    "Turno": "B",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "32101",
     "OBS": null,
@@ -12902,20 +10466,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "32101",
-    "Responsável ": "Fábio Vieira dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "32101"
   },
   {
     "ID": "3990061",
@@ -12929,8 +10486,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "157401",
     "OBS": null,
@@ -12939,20 +10496,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "157401",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "157401"
   },
   {
     "ID": "3988157",
@@ -12966,8 +10516,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "251210",
+    "Turno": "A",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "118601",
     "OBS": "Área de vivência 87287",
@@ -12976,20 +10526,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "118601",
-    "Responsável ": "251210",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "118601"
   },
   {
     "ID": "3987989",
@@ -13003,8 +10546,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "272760",
+    "Turno": "A",
     "Frente": "12 - FRENTE 12",
     "Local (Fazenda - Talhão)": "136601",
     "OBS": null,
@@ -13013,20 +10556,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "136601",
-    "Responsável ": "272760",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "136601"
   },
   {
     "ID": "3987958",
@@ -13040,8 +10576,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "157401",
     "OBS": null,
@@ -13050,20 +10586,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "157401",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "157401"
   },
   {
     "ID": "4007586",
@@ -13077,8 +10606,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Marcos Vinicius moura ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "32101",
     "OBS": "87185",
@@ -13087,20 +10616,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "32101",
-    "Responsável ": "Marcos Vinicius moura ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "32101"
   },
   {
     "ID": "3986226",
@@ -13114,8 +10636,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "245803",
     "OBS": null,
@@ -13124,20 +10646,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "245803",
-    "Responsável ": "Luiz Paulo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "245803"
   },
   {
     "ID": "4007585",
@@ -13151,8 +10666,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Marcos Vinicius moura ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "32101",
     "OBS": "87185",
@@ -13161,20 +10676,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "32101",
-    "Responsável ": "Marcos Vinicius moura ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "32101"
   },
   {
     "ID": "4007584",
@@ -13188,8 +10696,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Vieira dos Santos ",
+    "Turno": "B",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "32101",
     "OBS": null,
@@ -13198,20 +10706,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "32101",
-    "Responsável ": "Fábio Vieira dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "32101"
   },
   {
     "ID": "3984849",
@@ -13225,8 +10726,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "245803",
     "OBS": null,
@@ -13235,20 +10736,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "245803",
-    "Responsável ": "Luiz Paulo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "245803"
   },
   {
     "ID": "3984770",
@@ -13262,8 +10756,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "157401",
     "OBS": null,
@@ -13272,20 +10766,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "157401",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "157401"
   },
   {
     "ID": "3981141",
@@ -13299,8 +10786,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "118601",
     "OBS": null,
@@ -13309,20 +10796,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "118601",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "118601"
   },
   {
     "ID": "4007583",
@@ -13336,8 +10816,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Marcos Vinicius moura ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "31401",
     "OBS": "87185",
@@ -13346,20 +10826,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "31401",
-    "Responsável ": "Marcos Vinicius moura ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "31401"
   },
   {
     "ID": "4049097",
@@ -13373,8 +10846,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fabio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "142801",
     "OBS": null,
@@ -13383,20 +10856,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "142801",
-    "Responsável ": "Fabio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "142801"
   },
   {
     "ID": "4047157",
@@ -13410,8 +10876,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Luiz Paulo Rodrigues Cassiano ",
+    "Turno": "A",
     "Frente": "15 - FRENTE 15",
     "Local (Fazenda - Talhão)": "34601",
     "OBS": null,
@@ -13420,20 +10886,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "34601",
-    "Responsável ": "Luiz Paulo Rodrigues Cassiano ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "34601"
   },
   {
     "ID": "4046800",
@@ -13447,8 +10906,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Ednaldo ",
+    "Turno": "A",
     "Frente": "10 - FRENTE 10",
     "Local (Fazenda - Talhão)": "189402",
     "OBS": null,
@@ -13457,20 +10916,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "189402",
-    "Responsável ": "Ednaldo ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "189402"
   },
   {
     "ID": "4046649",
@@ -13484,8 +10936,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fernando fiscal ",
+    "Turno": "A",
     "Frente": "14 - FRENTE 14",
     "Local (Fazenda - Talhão)": "231601",
     "OBS": null,
@@ -13494,20 +10946,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "NÃO",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "231601",
-    "Responsável ": "Fernando fiscal ",
-    "Turno ": "A",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "231601"
   },
   {
     "ID": "4045939",
@@ -13521,8 +10966,8 @@ window.RAW_INSPECTIONS = [
     "Score": "0.00",
     "Score perc.": "0",
     "Score desc.": "Baixo",
-    "Responsável": null,
-    "Turno": null,
+    "Responsável": "Fábio Donisete dos Santos ",
+    "Turno": "B",
     "Frente": "11 - FRENTE 11",
     "Local (Fazenda - Talhão)": "142801",
     "OBS": null,
@@ -13531,20 +10976,13 @@ window.RAW_INSPECTIONS = [
     "Possui papel higiênico e suporte?": "SIM",
     "Possui papel toalha e suporte ?": "SIM",
     "Pia e descarga funcionando ?": "SIM",
-    "Limpeza": null,
+    "Limpeza": "BOM",
     "Possui algum item quebrado ou em falta?": "SIM",
-    "Está utilizando fita de Isolamento": null,
+    "Está utilizando fita de Isolamento": "SIM",
     "Está utilizando  cone de Sinalização ?": "SIM",
-    "Bancos Fixos": null,
-    "Extintor": null,
-    "Fazenda": "142801",
-    "Responsável ": "Fábio Donisete dos Santos ",
-    "Turno ": "B",
-    " Limpeza": "BOM",
-    " Está utilizando fita de Isolamento ": "SIM",
-    "Bancos Fixos ": "SIM",
-    "Extintor ": "SIM",
-    "Unnamed: 28": null
+    "Bancos Fixos": "SIM",
+    "Extintor": "SIM",
+    "Fazenda": "142801"
   },
   {
     "ID": "4049497",
@@ -13574,14 +11012,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "171501",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "171501"
   },
   {
     "ID": "4055329",
@@ -13611,14 +11042,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "129101",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "129101"
   },
   {
     "ID": "4052253",
@@ -13648,14 +11072,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "70416",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "70416"
   },
   {
     "ID": "4056476",
@@ -13685,14 +11102,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "142701",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "142701"
   },
   {
     "ID": "4055326",
@@ -13722,14 +11132,7 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "52501",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "52501"
   },
   {
     "ID": "4055330",
@@ -13759,13 +11162,6 @@ window.RAW_INSPECTIONS = [
     "Está utilizando  cone de Sinalização ?": "SIM",
     "Bancos Fixos": "SIM",
     "Extintor": "SIM",
-    "Fazenda": "137702",
-    "Responsável ": null,
-    "Turno ": null,
-    " Limpeza": null,
-    " Está utilizando fita de Isolamento ": null,
-    "Bancos Fixos ": null,
-    "Extintor ": null,
-    "Unnamed: 28": null
+    "Fazenda": "137702"
   }
 ];
