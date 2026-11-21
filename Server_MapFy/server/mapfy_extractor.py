@@ -350,6 +350,31 @@ def safe_atomic_save_df(df: pd.DataFrame, target_path: Path, is_csv: bool = Fals
             logger.error(f"Falha critica definitiva ao salvar {target_path.name}: {e_final}")
 
 
+def deduplicate_dataframe_columns(df: pd.DataFrame) -> pd.DataFrame:
+    """Coalesce colunas que tenham nomes idênticos após strip/normalização para evitar InvalidIndexError."""
+    if df.empty or df.columns.is_unique:
+        return df
+    cols = list(df.columns)
+    unique_cols = []
+    seen = set()
+    for c in cols:
+        if c not in seen:
+            seen.add(c)
+            unique_cols.append(c)
+    new_data = {}
+    for c in unique_cols:
+        col_data = df.loc[:, df.columns == c]
+        if isinstance(col_data, pd.DataFrame):
+            combined_series = col_data.iloc[:, 0].copy()
+            for i in range(1, col_data.shape[1]):
+                combined_series = combined_series.fillna(col_data.iloc[:, i])
+                combined_series = combined_series.replace("", None).fillna(col_data.iloc[:, i])
+            new_data[c] = combined_series
+        else:
+            new_data[c] = col_data
+    return pd.DataFrame(new_data, index=df.index)
+
+
 def merge_and_save_data(
     existing_csv: Path,
     new_csv: Path,
@@ -372,6 +397,7 @@ def merge_and_save_data(
         if cl.lower() == "end date": return "Data Fim"
         return cl
     new_df.columns = [_clean_header(c) for c in new_df.columns]
+    new_df = deduplicate_dataframe_columns(new_df)
 
     # Conversão de datas de formato americano (MM/DD/YYYY AM/PM) para formato brasileiro (DD/MM/YYYY HH:MM)
     def _to_br_dt(val):
@@ -432,6 +458,7 @@ def merge_and_save_data(
     if existing_csv.exists() and existing_csv.stat().st_size > 0:
         old_df = read_csv_smart(existing_csv)
         old_df.columns = [_clean_header(c) for c in old_df.columns]
+        old_df = deduplicate_dataframe_columns(old_df)
         old_id_col = None
         for c in old_df.columns:
             if c.strip().lower() == id_col.strip().lower():
