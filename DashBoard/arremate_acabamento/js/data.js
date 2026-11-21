@@ -1,9 +1,5 @@
-/**
- * Dados Consolidados - arremate_acabamento
- * Total: 817 registros
- * Atualizado em: 21/11/2026 07:28
- */
-window.ARREMATE_DATA = [
+// Auto-gerado em 21/11/2026 07:33:25
+const ARREMATE_ACABAMENTO_DATA = [
   {
     "ID": "3906888",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
@@ -22,12 +18,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3904483",
@@ -47,12 +38,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3902154",
@@ -72,12 +58,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3898967",
@@ -97,12 +78,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3896142",
@@ -122,12 +98,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3896265",
@@ -147,12 +118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3896141",
@@ -172,12 +138,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3896264",
@@ -197,12 +158,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3896140",
@@ -222,12 +178,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3893896",
@@ -247,12 +198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3893899",
@@ -272,12 +218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3886982",
@@ -297,12 +238,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3884084",
@@ -322,12 +258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3884083",
@@ -347,12 +278,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3872770",
@@ -372,12 +298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3872295",
@@ -397,12 +318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3872292",
@@ -422,12 +338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3870278",
@@ -447,12 +358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3870277",
@@ -472,12 +378,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3867178",
@@ -497,12 +398,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "WILLIAM ROBERTO DALLA COSTA [254120]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3867347",
@@ -522,12 +418,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3867342",
@@ -547,12 +438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3864185",
@@ -572,12 +458,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3864184",
@@ -597,12 +478,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3861945",
@@ -622,12 +498,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3861924",
@@ -647,12 +518,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3859039",
@@ -672,12 +538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3859038",
@@ -697,12 +558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3855273",
@@ -722,12 +578,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3641097",
@@ -747,12 +598,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3636041",
@@ -772,12 +618,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3635310",
@@ -797,12 +638,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3633046",
@@ -822,12 +658,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3632414",
@@ -847,12 +678,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3632411",
@@ -872,12 +698,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3632409",
@@ -897,12 +718,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3629717",
@@ -922,12 +738,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3629709",
@@ -947,12 +758,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3628833",
@@ -972,12 +778,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3628943",
@@ -997,12 +798,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3628939",
@@ -1022,12 +818,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626961",
@@ -1047,12 +838,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3627153",
@@ -1072,12 +858,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626413",
@@ -1097,12 +878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626402",
@@ -1122,12 +898,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626567",
@@ -1147,12 +918,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626381",
@@ -1172,12 +938,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3627123",
@@ -1197,12 +958,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624462",
@@ -1222,12 +978,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624633",
@@ -1247,12 +998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3625475",
@@ -1272,12 +1018,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3625471",
@@ -1297,12 +1038,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3625470",
@@ -1322,12 +1058,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624611",
@@ -1347,12 +1078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626669",
@@ -1372,12 +1098,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624022",
@@ -1397,12 +1118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624005",
@@ -1422,12 +1138,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624003",
@@ -1447,12 +1158,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3623973",
@@ -1472,12 +1178,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3623961",
@@ -1497,12 +1198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3623959",
@@ -1522,12 +1218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3624494",
@@ -1547,12 +1238,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3623911",
@@ -1572,12 +1258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3622211",
@@ -1597,12 +1278,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621996",
@@ -1622,12 +1298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3622204",
@@ -1647,12 +1318,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621985",
@@ -1672,12 +1338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621982",
@@ -1697,12 +1358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621598",
@@ -1722,12 +1378,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621597",
@@ -1747,12 +1398,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3620977",
@@ -1772,12 +1418,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3620947",
@@ -1797,12 +1438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3626637",
@@ -1822,12 +1458,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3620926",
@@ -1847,12 +1478,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3620925",
@@ -1872,12 +1498,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621175",
@@ -1897,12 +1518,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621174",
@@ -1922,12 +1538,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3620888",
@@ -1947,12 +1558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3621093",
@@ -1972,12 +1578,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618352",
@@ -1997,12 +1598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618376",
@@ -2022,12 +1618,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618729",
@@ -2047,12 +1638,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618576",
@@ -2072,12 +1658,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618575",
@@ -2097,12 +1678,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618717",
@@ -2122,12 +1698,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618716",
@@ -2147,12 +1718,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618713",
@@ -2172,12 +1738,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3617895",
@@ -2197,12 +1758,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3617769",
@@ -2222,12 +1778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3618591",
@@ -2247,12 +1798,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3619738",
@@ -2272,12 +1818,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3617570",
@@ -2297,12 +1838,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3617860",
@@ -2322,12 +1858,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3614613",
@@ -2347,12 +1878,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3614604",
@@ -2372,12 +1898,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3614583",
@@ -2397,12 +1918,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3614286",
@@ -2422,12 +1938,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3614365",
@@ -2447,12 +1958,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3613949",
@@ -2472,12 +1978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3613794",
@@ -2497,12 +1998,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3613784",
@@ -2522,12 +2018,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3613916",
@@ -2547,12 +2038,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3613604",
@@ -2572,12 +2058,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3611645",
@@ -2597,12 +2078,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3612792",
@@ -2622,12 +2098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3612775",
@@ -2647,12 +2118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3611788",
@@ -2672,12 +2138,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3611787",
@@ -2697,12 +2158,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3611725",
@@ -2722,12 +2178,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3609647",
@@ -2747,12 +2198,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3609643",
@@ -2772,12 +2218,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3609561",
@@ -2797,12 +2238,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3608543",
@@ -2822,12 +2258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607615",
@@ -2847,12 +2278,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3608305",
@@ -2872,12 +2298,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3609529",
@@ -2897,12 +2318,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607587",
@@ -2922,12 +2338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607586",
@@ -2947,12 +2358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3608304",
@@ -2972,12 +2378,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3608303",
@@ -2997,12 +2398,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607876",
@@ -3022,12 +2418,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607429",
@@ -3047,12 +2438,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3608276",
@@ -3072,12 +2458,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607500",
@@ -3097,12 +2478,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607542",
@@ -3122,12 +2498,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3607491",
@@ -3147,12 +2518,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3608241",
@@ -3172,12 +2538,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592927",
@@ -3197,12 +2558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587797",
@@ -3222,12 +2578,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3585177",
@@ -3247,12 +2598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3605438",
@@ -3272,12 +2618,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3605175",
@@ -3297,12 +2638,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3604658",
@@ -3322,12 +2658,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3604143",
@@ -3347,12 +2678,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3604045",
@@ -3372,12 +2698,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3604006",
@@ -3397,12 +2718,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3604003",
@@ -3422,12 +2738,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3604983",
@@ -3447,12 +2758,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3603965",
@@ -3472,12 +2778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3603986",
@@ -3497,12 +2798,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602079",
@@ -3522,12 +2818,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602078",
@@ -3547,12 +2838,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602066",
@@ -3572,12 +2858,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601801",
@@ -3597,12 +2878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602217",
@@ -3622,12 +2898,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602206",
@@ -3647,12 +2918,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602484",
@@ -3672,12 +2938,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601408",
@@ -3697,12 +2958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602482",
@@ -3722,12 +2978,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601386",
@@ -3747,12 +2998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602476",
@@ -3772,12 +3018,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601375",
@@ -3797,12 +3038,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3602455",
@@ -3822,12 +3058,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601533",
@@ -3847,12 +3078,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601369",
@@ -3872,12 +3098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3601349",
@@ -3897,12 +3118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3600517",
@@ -3922,12 +3138,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3600516",
@@ -3947,12 +3158,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3600511",
@@ -3972,12 +3178,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599130",
@@ -3997,12 +3198,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599128",
@@ -4022,12 +3218,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599159",
@@ -4047,12 +3238,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599158",
@@ -4072,12 +3258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599513",
@@ -4097,12 +3278,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599288",
@@ -4122,12 +3298,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599272",
@@ -4147,12 +3318,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599271",
@@ -4172,12 +3338,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3598760",
@@ -4197,12 +3358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599250",
@@ -4222,12 +3378,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599502",
@@ -4247,12 +3398,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3598736",
@@ -4272,12 +3418,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3598725",
@@ -4297,12 +3438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3598724",
@@ -4322,12 +3458,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3599301",
@@ -4347,12 +3478,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3598708",
@@ -4372,12 +3498,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3598697",
@@ -4397,12 +3518,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3596536",
@@ -4422,12 +3538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595915",
@@ -4447,12 +3558,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3596430",
@@ -4472,12 +3578,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595689",
@@ -4497,12 +3598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3596429",
@@ -4522,12 +3618,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595647",
@@ -4547,12 +3638,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3596251",
@@ -4572,12 +3658,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595680",
@@ -4597,12 +3678,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595622",
@@ -4622,12 +3698,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595889",
@@ -4647,12 +3718,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595888",
@@ -4672,12 +3738,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595867",
@@ -4697,12 +3758,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594625",
@@ -4722,12 +3778,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594618",
@@ -4747,12 +3798,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594977",
@@ -4772,12 +3818,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3593822",
@@ -4797,12 +3838,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594552",
@@ -4822,12 +3858,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594961",
@@ -4847,12 +3878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3593348",
@@ -4872,12 +3898,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592994",
@@ -4897,12 +3918,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594497",
@@ -4922,12 +3938,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594486",
@@ -4947,12 +3958,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595300",
@@ -4972,12 +3978,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594485",
@@ -4997,12 +3998,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592980",
@@ -5022,12 +4018,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3595286",
@@ -5047,12 +4038,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3594469",
@@ -5072,12 +4058,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592969",
@@ -5097,12 +4078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592958",
@@ -5122,12 +4098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592957",
@@ -5147,12 +4118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591165",
@@ -5172,12 +4138,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3590582",
@@ -5197,12 +4158,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591098",
@@ -5222,12 +4178,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591162",
@@ -5247,12 +4198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592504",
@@ -5272,12 +4218,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591084",
@@ -5297,12 +4238,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591083",
@@ -5322,12 +4258,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592503",
@@ -5347,12 +4278,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3592496",
@@ -5372,12 +4298,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591155",
@@ -5397,12 +4318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591154",
@@ -5422,12 +4338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3590357",
@@ -5447,12 +4358,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591106",
@@ -5472,12 +4378,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591118",
@@ -5497,12 +4398,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3590335",
@@ -5522,12 +4418,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3590996",
@@ -5547,12 +4438,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3590995",
@@ -5572,12 +4458,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3591054",
@@ -5597,12 +4478,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587344",
@@ -5622,12 +4498,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587824",
@@ -5647,12 +4518,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3588509",
@@ -5672,12 +4538,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587802",
@@ -5697,12 +4558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3588485",
@@ -5722,12 +4578,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3588469",
@@ -5747,12 +4598,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587917",
@@ -5772,12 +4618,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587916",
@@ -5797,12 +4638,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587915",
@@ -5822,12 +4658,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587240",
@@ -5847,12 +4678,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587914",
@@ -5872,12 +4698,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587730",
@@ -5897,12 +4718,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3588464",
@@ -5922,12 +4738,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587023",
@@ -5947,12 +4758,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3587396",
@@ -5972,12 +4778,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3585171",
@@ -5997,12 +4798,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3584219",
@@ -6022,12 +4818,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3586246",
@@ -6047,12 +4838,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3584136",
@@ -6072,12 +4858,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3584135",
@@ -6097,12 +4878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3585072",
@@ -6122,12 +4898,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3586215",
@@ -6147,12 +4918,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3584082",
@@ -6172,12 +4938,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3584112",
@@ -6197,12 +4958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3584015",
@@ -6222,12 +4978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3583989",
@@ -6247,12 +4998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3585074",
@@ -6272,12 +5018,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3585062",
@@ -6297,12 +5038,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581953",
@@ -6322,12 +5058,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581951",
@@ -6347,12 +5078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581819",
@@ -6372,12 +5098,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581971",
@@ -6397,12 +5118,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581814",
@@ -6422,12 +5138,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581921",
@@ -6447,12 +5158,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3583584",
@@ -6472,12 +5178,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581217",
@@ -6497,12 +5198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581214",
@@ -6522,12 +5218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581396",
@@ -6547,12 +5238,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581048",
@@ -6572,12 +5258,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581046",
@@ -6597,12 +5278,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581805",
@@ -6622,12 +5298,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581798",
@@ -6647,12 +5318,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581889",
@@ -6672,12 +5338,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3581172",
@@ -6697,12 +5358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3580993",
@@ -6722,12 +5378,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3580913",
@@ -6747,12 +5398,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3580912",
@@ -6772,12 +5418,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579347",
@@ -6797,12 +5438,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579065",
@@ -6822,12 +5458,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579342",
@@ -6847,12 +5478,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579165",
@@ -6872,12 +5498,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3580897",
@@ -6897,12 +5518,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3578766",
@@ -6922,12 +5538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579046",
@@ -6947,12 +5558,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3578739",
@@ -6972,12 +5578,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3578738",
@@ -6997,12 +5598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579178",
@@ -7022,12 +5618,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3578713",
@@ -7047,12 +5638,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579128",
@@ -7072,12 +5658,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3578707",
@@ -7097,12 +5678,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3579082",
@@ -7122,12 +5698,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3577112",
@@ -7147,12 +5718,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3576796",
@@ -7172,12 +5738,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3577396",
@@ -7197,12 +5758,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3577395",
@@ -7222,12 +5778,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3576775",
@@ -7247,12 +5798,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3577387",
@@ -7272,12 +5818,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3577386",
@@ -7297,12 +5838,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3576731",
@@ -7322,12 +5858,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3577092",
@@ -7347,12 +5878,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3576687",
@@ -7372,12 +5898,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3576684",
@@ -7397,12 +5918,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574711",
@@ -7422,12 +5938,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574576",
@@ -7447,12 +5958,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574518",
@@ -7472,12 +5978,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574447",
@@ -7497,12 +5998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574446",
@@ -7522,12 +6018,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574564",
@@ -7547,12 +6038,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574563",
@@ -7572,12 +6058,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574263",
@@ -7597,12 +6078,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574242",
@@ -7622,12 +6098,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574774",
@@ -7647,12 +6118,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574235",
@@ -7672,12 +6138,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574234",
@@ -7697,12 +6158,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574233",
@@ -7722,12 +6178,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574426",
@@ -7747,12 +6198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574425",
@@ -7772,12 +6218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574481",
@@ -7797,12 +6238,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574480",
@@ -7822,12 +6258,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574682",
@@ -7847,12 +6278,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Ruan Alexandre Lopes",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3574381",
@@ -7872,12 +6298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572598",
@@ -7897,12 +6318,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572594",
@@ -7922,12 +6338,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572603",
@@ -7947,12 +6358,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572631",
@@ -7972,12 +6378,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572195",
@@ -7997,12 +6398,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572194",
@@ -8022,12 +6418,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3572193",
@@ -8047,12 +6438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3570279",
@@ -8072,12 +6458,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3570278",
@@ -8097,12 +6478,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3570251",
@@ -8122,12 +6498,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3570140",
@@ -8147,12 +6518,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3569861",
@@ -8172,12 +6538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3569842",
@@ -8197,12 +6558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3570049",
@@ -8222,12 +6578,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3569831",
@@ -8247,12 +6598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3569909",
@@ -8272,12 +6618,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3569810",
@@ -8297,12 +6638,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567587",
@@ -8322,12 +6658,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567599",
@@ -8347,12 +6678,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567718",
@@ -8372,12 +6698,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567363",
@@ -8397,12 +6718,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567154",
@@ -8422,12 +6738,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567153",
@@ -8447,12 +6758,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567152",
@@ -8472,12 +6778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567553",
@@ -8497,12 +6798,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567133",
@@ -8522,12 +6818,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567547",
@@ -8547,12 +6838,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567071",
@@ -8572,12 +6858,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3567089",
@@ -8597,12 +6878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3565568",
@@ -8622,12 +6898,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3565547",
@@ -8647,12 +6918,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3562966",
@@ -8672,12 +6938,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3562878",
@@ -8697,12 +6958,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560969",
@@ -8722,12 +6978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560956",
@@ -8747,12 +6998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560940",
@@ -8772,12 +7018,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560860",
@@ -8797,12 +7038,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560769",
@@ -8822,12 +7058,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560895",
@@ -8847,12 +7078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3560894",
@@ -8872,12 +7098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3566954",
@@ -8897,12 +7118,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558585",
@@ -8922,12 +7138,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558532",
@@ -8947,12 +7158,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558521",
@@ -8972,12 +7178,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558500",
@@ -8997,12 +7198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558297",
@@ -9022,12 +7218,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558266",
@@ -9047,12 +7238,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558265",
@@ -9072,12 +7258,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558152",
@@ -9097,12 +7278,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558186",
@@ -9122,12 +7298,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3558229",
@@ -9147,12 +7318,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": " Antonio ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3557953",
@@ -9172,12 +7338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3557937",
@@ -9197,12 +7358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556310",
@@ -9222,12 +7378,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556309",
@@ -9247,12 +7398,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556301",
@@ -9272,12 +7418,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556294",
@@ -9297,12 +7438,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556097",
@@ -9322,12 +7458,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556290",
@@ -9347,12 +7478,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556091",
@@ -9372,12 +7498,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556160",
@@ -9397,12 +7518,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3555638",
@@ -9422,12 +7538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556140",
@@ -9447,12 +7558,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3556139",
@@ -9472,12 +7578,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3555664",
@@ -9497,12 +7598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3555924",
@@ -9522,12 +7618,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3555998",
@@ -9547,12 +7638,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3555909",
@@ -9572,12 +7658,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553808",
@@ -9597,12 +7678,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553727",
@@ -9622,12 +7698,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553726",
@@ -9647,12 +7718,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553725",
@@ -9672,12 +7738,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553573",
@@ -9697,12 +7758,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553656",
@@ -9722,12 +7778,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553547",
@@ -9747,12 +7798,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553111",
@@ -9772,12 +7818,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553769",
@@ -9797,12 +7838,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3553190",
@@ -9822,12 +7858,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3552930",
@@ -9847,12 +7878,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3551457",
@@ -9872,12 +7898,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3551456",
@@ -9897,12 +7918,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3551339",
@@ -9922,12 +7938,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3551041",
@@ -9947,12 +7958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3551004",
@@ -9972,12 +7978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3551097",
@@ -9997,12 +7998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549603",
@@ -10022,12 +8018,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549638",
@@ -10047,12 +8038,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549637",
@@ -10072,12 +8058,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549582",
@@ -10097,12 +8078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549581",
@@ -10122,12 +8098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549580",
@@ -10147,12 +8118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549178",
@@ -10172,12 +8138,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549626",
@@ -10197,12 +8158,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549543",
@@ -10222,12 +8178,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3549609",
@@ -10247,12 +8198,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547499",
@@ -10272,12 +8218,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547536",
@@ -10297,12 +8238,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547187",
@@ -10322,12 +8258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547046",
@@ -10347,12 +8278,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3546922",
@@ -10372,12 +8298,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547137",
@@ -10397,12 +8318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547171",
@@ -10422,12 +8338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547301",
@@ -10447,12 +8358,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3547274",
@@ -10472,12 +8378,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544923",
@@ -10497,12 +8398,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3545057",
@@ -10522,12 +8418,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3545049",
@@ -10547,12 +8438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3545048",
@@ -10572,12 +8458,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544718",
@@ -10597,12 +8478,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544569",
@@ -10622,12 +8498,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544568",
@@ -10647,12 +8518,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544291",
@@ -10672,12 +8538,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544997",
@@ -10697,12 +8558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544225",
@@ -10722,12 +8578,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544280",
@@ -10747,12 +8598,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544614",
@@ -10772,12 +8618,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544613",
@@ -10797,12 +8638,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3544973",
@@ -10822,12 +8658,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542277",
@@ -10847,12 +8678,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542273",
@@ -10872,12 +8698,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542340",
@@ -10897,12 +8718,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3541905",
@@ -10922,12 +8738,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542347",
@@ -10947,12 +8758,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3541942",
@@ -10972,12 +8778,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3541906",
@@ -10997,12 +8798,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "Leonardo Ribeiro Teixeira da Silva",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542319",
@@ -11022,12 +8818,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542066",
@@ -11047,12 +8838,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3542065",
@@ -11072,12 +8858,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3540771",
@@ -11097,12 +8878,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3540666",
@@ -11122,12 +8898,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3540561",
@@ -11147,12 +8918,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3540012",
@@ -11172,12 +8938,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3540215",
@@ -11197,12 +8958,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539604",
@@ -11222,12 +8978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539999",
@@ -11247,12 +8998,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3540089",
@@ -11272,12 +9018,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539593",
@@ -11297,12 +9038,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539589",
@@ -11322,12 +9058,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539573",
@@ -11347,12 +9078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539572",
@@ -11372,12 +9098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539373",
@@ -11397,12 +9118,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539357",
@@ -11422,12 +9138,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539543",
@@ -11447,12 +9158,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3539542",
@@ -11472,12 +9178,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3538770",
@@ -11497,12 +9198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3538769",
@@ -11522,12 +9218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3538837",
@@ -11547,12 +9238,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3538830",
@@ -11572,12 +9258,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537930",
@@ -11597,12 +9278,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537928",
@@ -11622,12 +9298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537591",
@@ -11647,12 +9318,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3538402",
@@ -11672,12 +9338,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537872",
@@ -11697,12 +9358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537822",
@@ -11722,12 +9378,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537263",
@@ -11747,12 +9398,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3536056",
@@ -11772,12 +9418,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3535658",
@@ -11797,12 +9438,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537142",
@@ -11822,12 +9458,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537141",
@@ -11847,12 +9478,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3535645",
@@ -11872,12 +9498,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3535644",
@@ -11897,12 +9518,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3537109",
@@ -11922,12 +9538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3534455",
@@ -11947,12 +9558,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3534247",
@@ -11972,12 +9578,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3534213",
@@ -11997,12 +9598,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3534200",
@@ -12022,12 +9618,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3534114",
@@ -12047,12 +9638,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533994",
@@ -12072,12 +9658,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533815",
@@ -12097,12 +9678,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533813",
@@ -12122,12 +9698,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3534181",
@@ -12147,12 +9718,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533860",
@@ -12172,12 +9738,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533822",
@@ -12197,12 +9758,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533762",
@@ -12222,12 +9778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3533400",
@@ -12247,12 +9798,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531842",
@@ -12272,12 +9818,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531687",
@@ -12297,12 +9838,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531442",
@@ -12322,12 +9858,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531767",
@@ -12347,12 +9878,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531457",
@@ -12372,12 +9898,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531434",
@@ -12397,12 +9918,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531924",
@@ -12422,12 +9938,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531671",
@@ -12447,12 +9958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531633",
@@ -12472,12 +9978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3531629",
@@ -12497,12 +9998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3530174",
@@ -12522,12 +10018,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529692",
@@ -12547,12 +10038,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529526",
@@ -12572,12 +10058,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529525",
@@ -12597,12 +10078,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529669",
@@ -12622,12 +10098,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529616",
@@ -12647,12 +10118,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3530049",
@@ -12672,12 +10138,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3530048",
@@ -12697,12 +10158,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529594",
@@ -12722,12 +10178,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529593",
@@ -12747,12 +10198,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3529814",
@@ -12772,12 +10218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3530010",
@@ -12797,12 +10238,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520551",
@@ -12822,12 +10258,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520427",
@@ -12847,12 +10278,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520412",
@@ -12872,12 +10298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520397",
@@ -12897,12 +10318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520363",
@@ -12922,12 +10338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520360",
@@ -12947,12 +10358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3520449",
@@ -12972,12 +10378,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3519085",
@@ -12997,12 +10398,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3519047",
@@ -13022,12 +10418,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3518686",
@@ -13047,12 +10438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3518717",
@@ -13072,12 +10458,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3518656",
@@ -13097,12 +10478,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3518531",
@@ -13122,12 +10498,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3516415",
@@ -13147,12 +10518,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3516611",
@@ -13172,12 +10538,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3516352",
@@ -13197,12 +10558,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3515991",
@@ -13222,12 +10578,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3515990",
@@ -13247,12 +10598,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3515954",
@@ -13272,12 +10618,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3515914",
@@ -13297,12 +10638,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3515913",
@@ -13322,12 +10658,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3515933",
@@ -13347,12 +10678,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3516573",
@@ -13372,12 +10698,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3514285",
@@ -13397,12 +10718,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3513878",
@@ -13422,12 +10738,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3513880",
@@ -13447,12 +10758,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3513879",
@@ -13472,12 +10778,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3514163",
@@ -13497,12 +10798,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3514256",
@@ -13522,12 +10818,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511685",
@@ -13547,12 +10838,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511787",
@@ -13572,12 +10858,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511665",
@@ -13597,12 +10878,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511303",
@@ -13622,12 +10898,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511293",
@@ -13647,12 +10918,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511795",
@@ -13672,12 +10938,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3511793",
@@ -13697,12 +10958,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509460",
@@ -13722,12 +10978,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509622",
@@ -13747,12 +10998,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509547",
@@ -13772,12 +11018,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509525",
@@ -13797,12 +11038,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509257",
@@ -13822,12 +11058,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509256",
@@ -13847,12 +11078,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509498",
@@ -13872,12 +11098,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509615",
@@ -13897,12 +11118,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509922",
@@ -13922,12 +11138,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509854",
@@ -13947,12 +11158,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509323",
@@ -13972,12 +11178,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3509746",
@@ -13997,12 +11198,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498753",
@@ -14022,12 +11218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498475",
@@ -14047,12 +11238,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498492",
@@ -14072,12 +11258,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498646",
@@ -14097,12 +11278,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498685",
@@ -14122,12 +11298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498682",
@@ -14147,12 +11318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498683",
@@ -14172,12 +11338,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498675",
@@ -14197,12 +11358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498986",
@@ -14222,12 +11378,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498674",
@@ -14247,12 +11398,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498552",
@@ -14272,12 +11418,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498979",
@@ -14297,12 +11438,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498639",
@@ -14322,12 +11458,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3498636",
@@ -14347,12 +11478,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3496824",
@@ -14372,12 +11498,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3496823",
@@ -14397,12 +11518,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3496687",
@@ -14422,12 +11538,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3496221",
@@ -14447,12 +11558,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3495226",
@@ -14472,12 +11578,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3495221",
@@ -14497,12 +11598,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3495220",
@@ -14522,12 +11618,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3495216",
@@ -14547,12 +11638,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3494629",
@@ -14572,12 +11658,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3494346",
@@ -14597,12 +11678,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3494379",
@@ -14622,12 +11698,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3494652",
@@ -14647,12 +11718,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3494651",
@@ -14672,12 +11738,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492661",
@@ -14697,12 +11758,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492622",
@@ -14722,12 +11778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492601",
@@ -14747,12 +11798,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3493098",
@@ -14772,12 +11818,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492211",
@@ -14797,12 +11838,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492503",
@@ -14822,12 +11858,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3493078",
@@ -14847,12 +11878,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492444",
@@ -14872,12 +11898,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492443",
@@ -14897,12 +11918,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492442",
@@ -14922,12 +11938,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492441",
@@ -14947,12 +11958,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492347",
@@ -14972,12 +11978,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3492346",
@@ -14997,12 +11998,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3491292",
@@ -15022,12 +12018,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3491285",
@@ -15047,12 +12038,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3491277",
@@ -15072,12 +12058,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3490425",
@@ -15097,12 +12078,7 @@ window.ARREMATE_DATA = [
     "Frente": "133 - FRENTE MANÉZÃO",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3470080",
@@ -15122,12 +12098,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3470091",
@@ -15147,12 +12118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3470067",
@@ -15172,12 +12138,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3490314",
@@ -15197,12 +12158,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3490313",
@@ -15222,12 +12178,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3469978",
@@ -15247,12 +12198,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3470066",
@@ -15272,12 +12218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468230",
@@ -15297,12 +12238,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468229",
@@ -15322,12 +12258,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468104",
@@ -15347,12 +12278,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468094",
@@ -15372,12 +12298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468065",
@@ -15397,12 +12318,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3467720",
@@ -15422,12 +12338,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3467659",
@@ -15447,12 +12358,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3467637",
@@ -15472,12 +12378,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468143",
@@ -15497,12 +12398,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468142",
@@ -15522,12 +12418,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468096",
@@ -15547,12 +12438,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468141",
@@ -15572,12 +12458,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3468095",
@@ -15597,12 +12478,7 @@ window.ARREMATE_DATA = [
     "Frente": "143 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3466706",
@@ -15622,12 +12498,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - Manezão",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3466078",
@@ -15647,12 +12518,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3466088",
@@ -15672,12 +12538,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3466087",
@@ -15697,12 +12558,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465803",
@@ -15722,12 +12578,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465802",
@@ -15747,12 +12598,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465563",
@@ -15772,12 +12618,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465562",
@@ -15797,12 +12638,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465521",
@@ -15822,12 +12658,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3469366",
@@ -15847,12 +12678,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3469365",
@@ -15872,12 +12698,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465608",
@@ -15897,12 +12718,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3465604",
@@ -15922,12 +12738,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463859",
@@ -15947,12 +12758,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463846",
@@ -15972,12 +12778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3464582",
@@ -15997,12 +12798,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463752",
@@ -16022,12 +12818,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463751",
@@ -16047,12 +12838,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463750",
@@ -16072,12 +12858,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463749",
@@ -16097,12 +12878,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463336",
@@ -16122,12 +12898,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463335",
@@ -16147,12 +12918,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3463329",
@@ -16172,12 +12938,7 @@ window.ARREMATE_DATA = [
     "Frente": "139 - FRENTE MANEZÃO",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3461789",
@@ -16197,12 +12958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3461765",
@@ -16222,12 +12978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3461606",
@@ -16247,12 +12998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3461604",
@@ -16272,12 +13018,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3455034",
@@ -16297,12 +13038,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3455033",
@@ -16322,12 +13058,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454929",
@@ -16347,12 +13078,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454998",
@@ -16372,12 +13098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454861",
@@ -16397,12 +13118,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454860",
@@ -16422,12 +13138,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454859",
@@ -16447,12 +13158,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "GABRIEL HENRIQUE MARTINS PEREIRA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454238",
@@ -16472,12 +13178,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454259",
@@ -16497,12 +13198,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3454258",
@@ -16522,12 +13218,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3449803",
@@ -16547,12 +13238,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3449802",
@@ -16572,12 +13258,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3449801",
@@ -16597,12 +13278,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3449560",
@@ -16622,12 +13298,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3449559",
@@ -16647,12 +13318,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3445677",
@@ -16672,12 +13338,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3445672",
@@ -16697,12 +13358,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3445632",
@@ -16722,12 +13378,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - PEDRINHO ",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3445551",
@@ -16747,12 +13398,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3443469",
@@ -16772,12 +13418,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3443317",
@@ -16797,12 +13438,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3443316",
@@ -16822,12 +13458,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428252",
@@ -16847,12 +13478,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428257",
@@ -16872,12 +13498,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3431588",
@@ -16897,12 +13518,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3437736",
@@ -16922,12 +13538,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3437720",
@@ -16947,12 +13558,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435546",
@@ -16972,12 +13578,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435473",
@@ -16997,12 +13598,7 @@ window.ARREMATE_DATA = [
     "Frente": "142 - FRENTE BIDU",
     "Responsável": "GLEISON FELIPE BORGES DE MATOS [266770]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435777",
@@ -17022,12 +13618,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435776",
@@ -17047,12 +13638,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435400",
@@ -17072,12 +13658,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435399",
@@ -17097,12 +13678,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435291",
@@ -17122,12 +13698,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435432",
@@ -17147,12 +13718,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435431",
@@ -17172,12 +13738,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435369",
@@ -17197,12 +13758,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3435346",
@@ -17222,12 +13778,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433763",
@@ -17247,12 +13798,7 @@ window.ARREMATE_DATA = [
     "Frente": "122 - Frente  Bidu",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433706",
@@ -17272,12 +13818,7 @@ window.ARREMATE_DATA = [
     "Frente": "101 - FRENTE MECANIZADA",
     "Responsável": "FERNANDA DE SOUZA [127577]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433570",
@@ -17297,12 +13838,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433569",
@@ -17322,12 +13858,7 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "NILDA CLAUDINO [2510716]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433385",
@@ -17347,12 +13878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433628",
@@ -17372,12 +13898,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433626",
@@ -17397,12 +13918,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433625",
@@ -17422,12 +13938,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433369",
@@ -17447,12 +13958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433395",
@@ -17472,12 +13978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433394",
@@ -17497,12 +13998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3433594",
@@ -17522,12 +14018,7 @@ window.ARREMATE_DATA = [
     "Frente": "105 - FRENTE CASSIO (ZACARIAS)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3431556",
@@ -17547,12 +14038,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3431541",
@@ -17572,12 +14058,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3431539",
@@ -17597,12 +14078,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428414",
@@ -17622,12 +14098,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428406",
@@ -17647,12 +14118,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428687",
@@ -17672,12 +14138,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428367",
@@ -17697,12 +14158,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428365",
@@ -17722,12 +14178,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428661",
@@ -17747,12 +14198,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "268680 - GABRIEL HENRIQUE MARTINS PEREIRA ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3428313",
@@ -17772,12 +14218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3426514",
@@ -17797,12 +14238,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3426513",
@@ -17822,12 +14258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3425041",
@@ -17847,12 +14278,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3425027",
@@ -17872,12 +14298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3425026",
@@ -17897,12 +14318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3422998",
@@ -17922,12 +14338,7 @@ window.ARREMATE_DATA = [
     "Frente": "291 - FRENTE PRÓPRIA ",
     "Responsável": "MICHELI DE SOUZA SANTOS  ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3423151",
@@ -17947,12 +14358,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3423150",
@@ -17972,12 +14378,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3421348",
@@ -17997,12 +14398,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MARCELO DE OLIVEIRA JUNIOR [264820]",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3421132",
@@ -18022,12 +14418,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3421174",
@@ -18047,12 +14438,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3421162",
@@ -18072,12 +14458,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3417439",
@@ -18097,12 +14478,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3417438",
@@ -18122,12 +14498,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3417437",
@@ -18147,12 +14518,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3416399",
@@ -18172,12 +14538,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3416398",
@@ -18197,12 +14558,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3415077",
@@ -18222,12 +14578,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3415066",
@@ -18247,12 +14598,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3414937",
@@ -18272,12 +14618,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3414912",
@@ -18297,12 +14638,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3414871",
@@ -18322,12 +14658,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3414870",
@@ -18347,12 +14678,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3413438",
@@ -18372,12 +14698,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3413436",
@@ -18397,12 +14718,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3413405",
@@ -18422,12 +14738,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3413403",
@@ -18447,12 +14758,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3413381",
@@ -18472,12 +14778,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3411631",
@@ -18497,12 +14798,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3411609",
@@ -18522,12 +14818,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3411607",
@@ -18547,12 +14838,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3411574",
@@ -18572,12 +14858,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3411573",
@@ -18597,12 +14878,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3410282",
@@ -18622,12 +14898,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3410272",
@@ -18647,12 +14918,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3410270",
@@ -18672,12 +14938,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3410002",
@@ -18697,12 +14958,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3408545",
@@ -18722,12 +14978,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3408119",
@@ -18747,12 +14998,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3408116",
@@ -18772,12 +15018,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "3408114",
@@ -18797,21 +15038,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "278400 - Vitor Amorim Ramos ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": null,
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": NaN
   },
   {
     "ID": "4026272",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "04/11/2026 12:59",
     "Latitude": "-20.87224000000000",
     "Longitude": "-48.50876000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "04/11/2026 12:58",
+    "Data Fim": "04/11/2026 12:59",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18822,21 +15058,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "33302",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "11/04/2026 12:59 PM",
-    "Start date": "11/04/2026 12:58 PM",
-    "End date": "11/04/2026 12:59 PM",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4026271",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "04/11/2026 12:58",
     "Latitude": "-20.87227000000000",
     "Longitude": "-48.50877000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "04/11/2026 12:57",
+    "Data Fim": "04/11/2026 12:58",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18847,21 +15078,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "33302",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "11/04/2026 12:58 PM",
-    "Start date": "11/04/2026 12:57 PM",
-    "End date": "11/04/2026 12:58 PM",
-    "Unnamed: 18": null
+    "Fazenda": "33302"
   },
   {
     "ID": "4018228",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "30/10/2026 10:00",
     "Latitude": "-20.89386000000000",
     "Longitude": "-48.50481000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "30/10/2026 10:00",
+    "Data Fim": "30/10/2026 10:00",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18872,21 +15098,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70426",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/30/2026 10:00 AM",
-    "Start date": "10/30/2026 10:00 AM",
-    "End date": "10/30/2026 10:00 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4018227",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "30/10/2026 09:59",
     "Latitude": "-20.89386000000000",
     "Longitude": "-48.50481000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "30/10/2026 09:58",
+    "Data Fim": "30/10/2026 09:59",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18897,21 +15118,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70426",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/30/2026 09:59 AM",
-    "Start date": "10/30/2026 09:58 AM",
-    "End date": "10/30/2026 09:59 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70426"
   },
   {
     "ID": "4013425",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "28/10/2026 11:45",
     "Latitude": "-20.86792000000000",
     "Longitude": "-48.53132000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "28/10/2026 11:44",
+    "Data Fim": "28/10/2026 11:45",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18922,21 +15138,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/28/2026 11:45 AM",
-    "Start date": "10/28/2026 11:44 AM",
-    "End date": "10/28/2026 11:45 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4013424",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "28/10/2026 11:44",
     "Latitude": "-20.86801000000000",
     "Longitude": "-48.53132000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "28/10/2026 11:43",
+    "Data Fim": "28/10/2026 11:44",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18947,21 +15158,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/28/2026 11:44 AM",
-    "Start date": "10/28/2026 11:43 AM",
-    "End date": "10/28/2026 11:44 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010609",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "27/10/2026 12:41",
     "Latitude": "-20.86170000000000",
     "Longitude": "-48.52916000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "27/10/2026 12:39",
+    "Data Fim": "27/10/2026 12:41",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18972,21 +15178,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/27/2026 12:41 PM",
-    "Start date": "10/27/2026 12:39 PM",
-    "End date": "10/27/2026 12:41 PM",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4010608",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "27/10/2026 12:39",
     "Latitude": "-20.86167000000000",
     "Longitude": "-48.52922000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "27/10/2026 12:38",
+    "Data Fim": "27/10/2026 12:39",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -18997,21 +15198,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70301",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/27/2026 12:39 PM",
-    "Start date": "10/27/2026 12:38 PM",
-    "End date": "10/27/2026 12:39 PM",
-    "Unnamed: 18": null
+    "Fazenda": "70301"
   },
   {
     "ID": "4006248",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "24/10/2026 10:39",
     "Latitude": "-20.84258000000000",
     "Longitude": "-48.52359000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "24/10/2026 10:37",
+    "Data Fim": "24/10/2026 10:39",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19022,21 +15218,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "10/24/2026 10:39 AM",
-    "Start date": "10/24/2026 10:37 AM",
-    "End date": "10/24/2026 10:39 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006483",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "24/10/2026 09:46",
     "Latitude": "-20.84328000000000",
     "Longitude": "-48.52506000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "24/10/2026 09:45",
+    "Data Fim": "24/10/2026 09:45",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19047,21 +15238,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/24/2026 09:46 AM",
-    "Start date": "10/24/2026 09:45 AM",
-    "End date": "10/24/2026 09:45 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4006482",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "24/10/2026 09:45",
     "Latitude": "-20.84328000000000",
     "Longitude": "-48.52506000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "24/10/2026 09:43",
+    "Data Fim": "24/10/2026 09:45",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19072,21 +15258,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/24/2026 09:45 AM",
-    "Start date": "10/24/2026 09:43 AM",
-    "End date": "10/24/2026 09:45 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004054",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "23/10/2026 10:36",
     "Latitude": "-20.84462000000000",
     "Longitude": "-48.52436000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "23/10/2026 10:35",
+    "Data Fim": "23/10/2026 10:36",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19097,21 +15278,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/23/2026 10:36 AM",
-    "Start date": "10/23/2026 10:35 AM",
-    "End date": "10/23/2026 10:36 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "4004053",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "23/10/2026 10:35",
     "Latitude": "-20.84462000000000",
     "Longitude": "-48.52436000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "23/10/2026 10:32",
+    "Data Fim": "23/10/2026 10:35",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19122,21 +15298,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "285410",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70431",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/23/2026 10:35 AM",
-    "Start date": "10/23/2026 10:32 AM",
-    "End date": "10/23/2026 10:35 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70431"
   },
   {
     "ID": "3998480",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/10/2026 13:45",
     "Latitude": "-21.10284000000000",
     "Longitude": "-48.39131000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "21/10/2026 13:45",
+    "Data Fim": "21/10/2026 13:45",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19147,21 +15318,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "199802",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/21/2026 01:45 PM",
-    "Start date": "10/21/2026 01:45 PM",
-    "End date": "10/21/2026 01:45 PM",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3998479",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "21/10/2026 13:44",
     "Latitude": "-21.10284000000000",
     "Longitude": "-48.39131000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "21/10/2026 13:43",
+    "Data Fim": "21/10/2026 13:44",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19172,21 +15338,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "199802",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "10/21/2026 01:44 PM",
-    "Start date": "10/21/2026 01:43 PM",
-    "End date": "10/21/2026 01:44 PM",
-    "Unnamed: 18": null
+    "Fazenda": "199802"
   },
   {
     "ID": "3949179",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "29/09/2026 08:10",
     "Latitude": "-21.10790000000000",
     "Longitude": "-48.50410000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "29/09/2026 08:09",
+    "Data Fim": "29/09/2026 08:10",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19197,21 +15358,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "36813",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/29/2026 08:10 AM",
-    "Start date": "09/29/2026 08:09 AM",
-    "End date": "09/29/2026 08:10 AM",
-    "Unnamed: 18": null
+    "Fazenda": "36813"
   },
   {
     "ID": "3946352",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "28/09/2026 10:06",
     "Latitude": "-21.06239000000000",
     "Longitude": "-48.46389000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "28/09/2026 10:05",
+    "Data Fim": "28/09/2026 10:06",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19222,21 +15378,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/28/2026 10:06 AM",
-    "Start date": "09/28/2026 10:05 AM",
-    "End date": "09/28/2026 10:06 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3942423",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "26/09/2026 12:57",
     "Latitude": "-21.06084000000000",
     "Longitude": "-48.46451000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "26/09/2026 12:56",
+    "Data Fim": "26/09/2026 12:57",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19247,21 +15398,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/26/2026 12:57 PM",
-    "Start date": "09/26/2026 12:56 PM",
-    "End date": "09/26/2026 12:57 PM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3942385",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "26/09/2026 10:59",
     "Latitude": "-21.06151000000000",
     "Longitude": "-48.46442000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "26/09/2026 10:58",
+    "Data Fim": "26/09/2026 10:59",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19272,21 +15418,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/26/2026 10:59 AM",
-    "Start date": "09/26/2026 10:58 AM",
-    "End date": "09/26/2026 10:59 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939357",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "25/09/2026 12:54",
     "Latitude": "-21.08995000000000",
     "Longitude": "-48.30989000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 12:52",
+    "Data Fim": "25/09/2026 12:54",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19297,21 +15438,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/25/2026 12:54 PM",
-    "Start date": "09/25/2026 12:52 PM",
-    "End date": "09/25/2026 12:54 PM",
-    "Unnamed: 18": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3939335",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "25/09/2026 12:26",
     "Latitude": "-21.08962000000000",
     "Longitude": "-48.31020000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 12:25",
+    "Data Fim": "25/09/2026 12:26",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19322,21 +15458,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/25/2026 12:26 PM",
-    "Start date": "09/25/2026 12:25 PM",
-    "End date": "09/25/2026 12:26 PM",
-    "Unnamed: 18": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3939334",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "25/09/2026 12:24",
     "Latitude": "-21.08952000000000",
     "Longitude": "-48.31028000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 12:23",
+    "Data Fim": "25/09/2026 12:24",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19347,21 +15478,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/25/2026 12:24 PM",
-    "Start date": "09/25/2026 12:23 PM",
-    "End date": "09/25/2026 12:24 PM",
-    "Unnamed: 18": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3938738",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "25/09/2026 11:54",
     "Latitude": "-21.04088000000000",
     "Longitude": "-48.46221000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 11:39",
+    "Data Fim": "25/09/2026 11:54",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19372,21 +15498,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/25/2026 11:54 AM",
-    "Start date": "09/25/2026 11:39 AM",
-    "End date": "09/25/2026 11:54 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3939087",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "25/09/2026 11:40",
     "Latitude": "-21.04139000000000",
     "Longitude": "-48.46303000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 11:39",
+    "Data Fim": "25/09/2026 11:40",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19397,21 +15518,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/25/2026 11:40 AM",
-    "Start date": "09/25/2026 11:39 AM",
-    "End date": "09/25/2026 11:40 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938592",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "25/09/2026 11:23",
     "Latitude": "-21.03938000000000",
     "Longitude": "-48.46308000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 11:22",
+    "Data Fim": "25/09/2026 11:23",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19422,21 +15538,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/25/2026 11:23 AM",
-    "Start date": "09/25/2026 11:22 AM",
-    "End date": "09/25/2026 11:23 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3938504",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "25/09/2026 10:39",
     "Latitude": "-21.08901000000000",
     "Longitude": "-48.31005000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 10:37",
+    "Data Fim": "25/09/2026 10:39",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19447,21 +15558,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/25/2026 10:39 AM",
-    "Start date": "09/25/2026 10:37 AM",
-    "End date": "09/25/2026 10:39 AM",
-    "Unnamed: 18": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3938503",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "25/09/2026 10:37",
     "Latitude": "-21.08903000000000",
     "Longitude": "-48.31004000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "25/09/2026 10:36",
+    "Data Fim": "25/09/2026 10:37",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19472,21 +15578,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177012",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/25/2026 10:37 AM",
-    "Start date": "09/25/2026 10:36 AM",
-    "End date": "09/25/2026 10:37 AM",
-    "Unnamed: 18": null
+    "Fazenda": "177012"
   },
   {
     "ID": "3936056",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "24/09/2026 10:11",
     "Latitude": "-21.04827000000000",
     "Longitude": "-48.47245000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "24/09/2026 10:10",
+    "Data Fim": "24/09/2026 10:11",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19497,21 +15598,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/24/2026 10:11 AM",
-    "Start date": "09/24/2026 10:10 AM",
-    "End date": "09/24/2026 10:11 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936045",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "24/09/2026 09:34",
     "Latitude": "-21.04556000000000",
     "Longitude": "-48.47190000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "24/09/2026 09:32",
+    "Data Fim": "24/09/2026 09:34",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19522,21 +15618,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/24/2026 09:34 AM",
-    "Start date": "09/24/2026 09:32 AM",
-    "End date": "09/24/2026 09:34 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3936022",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "24/09/2026 08:52",
     "Latitude": "-21.04422000000000",
     "Longitude": "-48.47146000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "24/09/2026 08:51",
+    "Data Fim": "24/09/2026 08:52",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19547,21 +15638,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "151901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/24/2026 08:52 AM",
-    "Start date": "09/24/2026 08:51 AM",
-    "End date": "09/24/2026 08:52 AM",
-    "Unnamed: 18": null
+    "Fazenda": "151901"
   },
   {
     "ID": "3931265",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "22/09/2026 10:07",
     "Latitude": "-20.84560000000000",
     "Longitude": "-48.45248000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "22/09/2026 10:05",
+    "Data Fim": "22/09/2026 10:07",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19572,21 +15658,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/22/2026 10:07 AM",
-    "Start date": "09/22/2026 10:05 AM",
-    "End date": "09/22/2026 10:07 AM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3931264",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "22/09/2026 10:05",
     "Latitude": "-20.84576000000000",
     "Longitude": "-48.45193000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "22/09/2026 10:04",
+    "Data Fim": "22/09/2026 10:05",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19597,21 +15678,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/22/2026 10:05 AM",
-    "Start date": "09/22/2026 10:04 AM",
-    "End date": "09/22/2026 10:05 AM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3931248",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "22/09/2026 10:04",
     "Latitude": "-20.84596000000000",
     "Longitude": "-48.45186000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "22/09/2026 10:03",
+    "Data Fim": "22/09/2026 10:04",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19622,21 +15698,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/22/2026 10:04 AM",
-    "Start date": "09/22/2026 10:03 AM",
-    "End date": "09/22/2026 10:04 AM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928727",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "21/09/2026 13:07",
     "Latitude": "-20.84613000000000",
     "Longitude": "-48.44521000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "21/09/2026 13:06",
+    "Data Fim": "21/09/2026 13:07",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19647,21 +15718,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/21/2026 01:07 PM",
-    "Start date": "09/21/2026 01:06 PM",
-    "End date": "09/21/2026 01:07 PM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928826",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "21/09/2026 12:11",
     "Latitude": "-20.84593000000000",
     "Longitude": "-48.44272000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "21/09/2026 12:09",
+    "Data Fim": "21/09/2026 12:11",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19672,21 +15738,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/21/2026 12:11 PM",
-    "Start date": "09/21/2026 12:09 PM",
-    "End date": "09/21/2026 12:11 PM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928825",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "21/09/2026 12:09",
     "Latitude": "-20.84613000000000",
     "Longitude": "-48.44346000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "21/09/2026 12:08",
+    "Data Fim": "21/09/2026 12:09",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19697,21 +15758,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/21/2026 12:09 PM",
-    "Start date": "09/21/2026 12:08 PM",
-    "End date": "09/21/2026 12:09 PM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3928824",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "21/09/2026 12:08",
     "Latitude": "-20.84610000000000",
     "Longitude": "-48.44369000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "21/09/2026 12:07",
+    "Data Fim": "21/09/2026 12:08",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19722,21 +15778,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "VITOR AMORIM RAMOS ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "67901",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/21/2026 12:08 PM",
-    "Start date": "09/21/2026 12:07 PM",
-    "End date": "09/21/2026 12:08 PM",
-    "Unnamed: 18": null
+    "Fazenda": "67901"
   },
   {
     "ID": "3926074",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "19/09/2026 08:14",
     "Latitude": "-21.06973000000000",
     "Longitude": "-48.28958000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "19/09/2026 08:13",
+    "Data Fim": "19/09/2026 08:14",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19747,21 +15798,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/19/2026 08:14 AM",
-    "Start date": "09/19/2026 08:13 AM",
-    "End date": "09/19/2026 08:14 AM",
-    "Unnamed: 18": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3926073",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "19/09/2026 08:13",
     "Latitude": "-21.06975000000000",
     "Longitude": "-48.28961000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "19/09/2026 08:12",
+    "Data Fim": "19/09/2026 08:13",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19772,21 +15818,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/19/2026 08:13 AM",
-    "Start date": "09/19/2026 08:12 AM",
-    "End date": "09/19/2026 08:13 AM",
-    "Unnamed: 18": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3923376",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "18/09/2026 13:38",
     "Latitude": "-21.06938000000000",
     "Longitude": "-48.28915000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 13:38",
+    "Data Fim": "18/09/2026 13:38",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19797,21 +15838,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/18/2026 01:38 PM",
-    "Start date": "09/18/2026 01:38 PM",
-    "End date": "09/18/2026 01:38 PM",
-    "Unnamed: 18": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3923375",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "18/09/2026 13:38",
     "Latitude": "-21.06936000000000",
     "Longitude": "-48.28913000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 13:37",
+    "Data Fim": "18/09/2026 13:38",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19822,21 +15858,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "177015",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/18/2026 01:38 PM",
-    "Start date": "09/18/2026 01:37 PM",
-    "End date": "09/18/2026 01:38 PM",
-    "Unnamed: 18": null
+    "Fazenda": "177015"
   },
   {
     "ID": "3922723",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "18/09/2026 12:45",
     "Latitude": "-21.04687000000000",
     "Longitude": "-48.32839000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 12:44",
+    "Data Fim": "18/09/2026 12:45",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19847,21 +15878,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "111201",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/18/2026 12:45 PM",
-    "Start date": "09/18/2026 12:44 PM",
-    "End date": "09/18/2026 12:45 PM",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922668",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "18/09/2026 12:04",
     "Latitude": "-21.04663000000000",
     "Longitude": "-48.32852000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 12:03",
+    "Data Fim": "18/09/2026 12:04",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19872,21 +15898,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "111201",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/18/2026 12:04 PM",
-    "Start date": "09/18/2026 12:03 PM",
-    "End date": "09/18/2026 12:04 PM",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3922663",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "18/09/2026 11:23",
     "Latitude": "-21.04527000000000",
     "Longitude": "-48.31973000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 11:22",
+    "Data Fim": "18/09/2026 11:23",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19897,21 +15918,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "111201",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/18/2026 11:23 AM",
-    "Start date": "09/18/2026 11:22 AM",
-    "End date": "09/18/2026 11:23 AM",
-    "Unnamed: 18": null
+    "Fazenda": "111201"
   },
   {
     "ID": "3923401",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "18/09/2026 07:56",
     "Latitude": "-21.02891000000000",
     "Longitude": "-48.26099000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 07:55",
+    "Data Fim": "18/09/2026 07:56",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19922,21 +15938,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/18/2026 07:56 AM",
-    "Start date": "09/18/2026 07:55 AM",
-    "End date": "09/18/2026 07:56 AM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3923400",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "18/09/2026 07:55",
     "Latitude": "-21.02888000000000",
     "Longitude": "-48.26097000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "18/09/2026 07:54",
+    "Data Fim": "18/09/2026 07:55",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19947,21 +15958,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/18/2026 07:55 AM",
-    "Start date": "09/18/2026 07:54 AM",
-    "End date": "09/18/2026 07:55 AM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920275",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "17/09/2026 12:37",
     "Latitude": "-21.13493000000000",
     "Longitude": "-48.44197000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "17/09/2026 12:37",
+    "Data Fim": "17/09/2026 12:37",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19972,21 +15978,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "142201",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/17/2026 12:37 PM",
-    "Start date": "09/17/2026 12:37 PM",
-    "End date": "09/17/2026 12:37 PM",
-    "Unnamed: 18": null
+    "Fazenda": "142201"
   },
   {
     "ID": "3919845",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "17/09/2026 12:37",
     "Latitude": "-21.02852000000000",
     "Longitude": "-48.26592000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "17/09/2026 12:36",
+    "Data Fim": "17/09/2026 12:37",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -19997,21 +15998,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/17/2026 12:37 PM",
-    "Start date": "09/17/2026 12:36 PM",
-    "End date": "09/17/2026 12:37 PM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919840",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "17/09/2026 11:57",
     "Latitude": "-21.03065000000000",
     "Longitude": "-48.26479000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "17/09/2026 11:56",
+    "Data Fim": "17/09/2026 11:57",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20022,21 +16018,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/17/2026 11:57 AM",
-    "Start date": "09/17/2026 11:56 AM",
-    "End date": "09/17/2026 11:57 AM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3919839",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "17/09/2026 11:54",
     "Latitude": "-21.03008000000000",
     "Longitude": "-48.26355000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "17/09/2026 11:53",
+    "Data Fim": "17/09/2026 11:54",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20047,21 +16038,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/17/2026 11:54 AM",
-    "Start date": "09/17/2026 11:53 AM",
-    "End date": "09/17/2026 11:54 AM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920351",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "17/09/2026 09:42",
     "Latitude": "-21.03484000000000",
     "Longitude": "-48.26325000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "17/09/2026 09:41",
+    "Data Fim": "17/09/2026 09:42",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20072,21 +16058,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/17/2026 09:42 AM",
-    "Start date": "09/17/2026 09:41 AM",
-    "End date": "09/17/2026 09:42 AM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3920350",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "anabinatto@usinapitangueiras.com.br",
+    "Data": "17/09/2026 09:41",
     "Latitude": "-21.03487000000000",
     "Longitude": "-48.26323000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "17/09/2026 09:40",
+    "Data Fim": "17/09/2026 09:41",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20097,21 +16078,16 @@ window.ARREMATE_DATA = [
     "Frente": "135 - FRENTE PEDRINHO",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "146301",
-    "User": "anabinatto@usinapitangueiras.com.br",
-    "Date": "09/17/2026 09:41 AM",
-    "Start date": "09/17/2026 09:40 AM",
-    "End date": "09/17/2026 09:41 AM",
-    "Unnamed: 18": null
+    "Fazenda": "146301"
   },
   {
     "ID": "3917467",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "16/09/2026 09:00",
     "Latitude": "-20.84624000000000",
     "Longitude": "-48.44539000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "16/09/2026 08:58",
+    "Data Fim": "16/09/2026 09:00",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20122,21 +16098,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/16/2026 09:00 AM",
-    "Start date": "09/16/2026 08:58 AM",
-    "End date": "09/16/2026 09:00 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915716",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "15/09/2026 09:14",
     "Latitude": "-20.84632000000000",
     "Longitude": "-48.44869000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "15/09/2026 09:13",
+    "Data Fim": "15/09/2026 09:14",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20147,21 +16118,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/15/2026 09:14 AM",
-    "Start date": "09/15/2026 09:13 AM",
-    "End date": "09/15/2026 09:14 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3915715",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "15/09/2026 09:13",
     "Latitude": "-20.84633000000000",
     "Longitude": "-48.44873000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "15/09/2026 09:12",
+    "Data Fim": "15/09/2026 09:13",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20172,21 +16138,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/15/2026 09:13 AM",
-    "Start date": "09/15/2026 09:12 AM",
-    "End date": "09/15/2026 09:13 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3913074",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "14/09/2026 08:47",
     "Latitude": "-20.85265000000000",
     "Longitude": "-48.44984000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "14/09/2026 08:46",
+    "Data Fim": "14/09/2026 08:47",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20197,21 +16158,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "MABILA HELEN D FIGUEIREDO",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/14/2026 08:47 AM",
-    "Start date": "09/14/2026 08:46 AM",
-    "End date": "09/14/2026 08:47 AM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3912022",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "12/09/2026 14:16",
     "Latitude": "-20.85220000000000",
     "Longitude": "-48.45337000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "12/09/2026 14:16",
+    "Data Fim": "12/09/2026 14:16",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20222,21 +16178,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade9@usinapitangueiras.com.br",
-    "Date": "09/12/2026 02:16 PM",
-    "Start date": "09/12/2026 02:16 PM",
-    "End date": "09/12/2026 02:16 PM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911897",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "12/09/2026 12:09",
     "Latitude": "-20.85218000000000",
     "Longitude": "-48.45315000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "12/09/2026 12:08",
+    "Data Fim": "12/09/2026 12:09",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20247,21 +16198,16 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/12/2026 12:09 PM",
-    "Start date": "09/12/2026 12:08 PM",
-    "End date": "09/12/2026 12:09 PM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "3911896",
-    "Usuário": null,
-    "Data": null,
+    "Usuário": "qualidade3@usinapitangueiras.com.br",
+    "Data": "12/09/2026 12:08",
     "Latitude": "-20.85218000000000",
     "Longitude": "-48.45315000000000",
-    "Data início": null,
-    "Data Fim": null,
+    "Data início": "12/09/2026 12:06",
+    "Data Fim": "12/09/2026 12:08",
     "Status": "Open",
     "Score": "10.00",
     "Score perc.": "100",
@@ -20272,12 +16218,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "70408",
-    "User": "qualidade3@usinapitangueiras.com.br",
-    "Date": "09/12/2026 12:08 PM",
-    "Start date": "09/12/2026 12:06 PM",
-    "End date": "09/12/2026 12:08 PM",
-    "Unnamed: 18": null
+    "Fazenda": "70408"
   },
   {
     "ID": "4037663",
@@ -20297,12 +16238,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "50301",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037912",
@@ -20322,12 +16258,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "50301",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4037911",
@@ -20347,12 +16278,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "50301",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": "50301"
   },
   {
     "ID": "4050429",
@@ -20372,12 +16298,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "46601",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050419",
@@ -20397,12 +16318,7 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "46601",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": "46601"
   },
   {
     "ID": "4050418",
@@ -20422,11 +16338,6 @@ window.ARREMATE_DATA = [
     "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
     "Responsável": "EDILIANA CARDOSO DA COSTA",
     "Arremate e Acabamento": "BOM",
-    "Fazenda": "46601",
-    "User": null,
-    "Date": null,
-    "Start date": null,
-    "End date": null,
-    "Unnamed: 18": null
+    "Fazenda": "46601"
   }
 ];
