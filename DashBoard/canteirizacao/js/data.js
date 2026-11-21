@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - canteirizacao
- * Total: 439 registros
- * Atualizado em: 21/11/2026 15:26
+ * Total: 442 registros
+ * Atualizado em: 21/11/2026 16:33
  */
 window.CANTEIRIZACAO_RAW_DATA = [
   {
@@ -8642,6 +8642,66 @@ window.CANTEIRIZACAO_RAW_DATA = [
     "Frente": "261-PLANTIO MANUAL E CARPA",
     "Responsável": "REGINALDO DA SILVA GOMES ",
     "Canteirização": "42",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065778",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 09:14",
+    "Latitude": "-21.06895000000000",
+    "Longitude": "-48.32867000000000",
+    "Data início": "21/11/2026 09:13",
+    "Data Fim": "21/11/2026 09:14",
+    "Status": "Open",
+    "Score": "40.00",
+    "Score perc.": "100",
+    "Score desc.": null,
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3846",
+    "Frente": "261-PLANTIO MANUAL E CARPA",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Canteirização": "40",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065777",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 09:08",
+    "Latitude": "-21.06826000000000",
+    "Longitude": "-48.32705000000000",
+    "Data início": "21/11/2026 09:06",
+    "Data Fim": "21/11/2026 09:08",
+    "Status": "Open",
+    "Score": "43.00",
+    "Score perc.": "100",
+    "Score desc.": null,
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3846",
+    "Frente": "261-PLANTIO MANUAL E CARPA",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Canteirização": "43",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065776",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 09:03",
+    "Latitude": "-21.06806000000000",
+    "Longitude": "-48.32569000000000",
+    "Data início": "21/11/2026 09:02",
+    "Data Fim": "21/11/2026 09:03",
+    "Status": "Open",
+    "Score": "54.00",
+    "Score perc.": "100",
+    "Score desc.": null,
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3846",
+    "Frente": "261-PLANTIO MANUAL E CARPA",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Canteirização": "54",
     "Fazenda": "53501"
   },
   {

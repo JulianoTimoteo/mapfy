@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - dosagem_sulco
- * Total: 1313 registros
- * Atualizado em: 21/11/2026 15:26
+ * Total: 1317 registros
+ * Atualizado em: 21/11/2026 16:33
  */
 window.DOSAGEM_RAW_DATA = [
   {
@@ -24895,6 +24895,44 @@ window.DOSAGEM_RAW_DATA = [
     "Fazenda": "53501"
   },
   {
+    "ID": "4065773",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 08:31",
+    "Latitude": "-21.06907000000000",
+    "Longitude": "-48.33038000000000",
+    "Data início": "21/11/2026 08:31",
+    "Data Fim": "21/11/2026 08:31",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.41",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065772",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 08:31",
+    "Latitude": "-21.06908000000000",
+    "Longitude": "-48.33039000000000",
+    "Data início": "21/11/2026 08:29",
+    "Data Fim": "21/11/2026 08:31",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Torta ",
+    "Dosagem de Produto - Sulcação": "5.4",
+    "Fazenda": "53501"
+  },
+  {
     "ID": "4064969",
     "Usuário": "qualidade3@usinapitangueiras.com.br",
     "Data": "21/11/2026 08:30",
@@ -24911,6 +24949,44 @@ window.DOSAGEM_RAW_DATA = [
     "Responsável": "284860  - Juliana Aparecida Ferreira De Freitas",
     "Produto": "Torta ",
     "Dosagem de Produto - Sulcação": "5.4",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065771",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 08:26",
+    "Latitude": "-21.06917000000000",
+    "Longitude": "-48.33054000000000",
+    "Data início": "21/11/2026 08:25",
+    "Data Fim": "21/11/2026 08:26",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.735",
+    "Fazenda": "53501"
+  },
+  {
+    "ID": "4065770",
+    "Usuário": "qualidade9@usinapitangueiras.com.br",
+    "Data": "21/11/2026 08:25",
+    "Latitude": "-21.06917000000000",
+    "Longitude": "-48.33056000000000",
+    "Data início": "21/11/2026 08:24",
+    "Data Fim": "21/11/2026 08:25",
+    "Status": "Open",
+    "Score": "0.00",
+    "Data Lançamento": "11/21/2026",
+    "Local (Fazenda - Talhão)": "53501",
+    "OS": "3840",
+    "Frente": "261 - FRENTE PRÓPRIA  (EDMILSON)",
+    "Responsável": "REGINALDO DA SILVA GOMES ",
+    "Produto": "Adubo",
+    "Dosagem de Produto - Sulcação": "2.96",
     "Fazenda": "53501"
   },
   {
