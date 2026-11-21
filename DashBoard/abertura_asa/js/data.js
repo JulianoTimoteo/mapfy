@@ -1,7 +1,7 @@
 /**
  * Dados Consolidados - abertura_asa
  * Total: 985 registros
- * Atualizado em: 21/11/2026 00:09
+ * Atualizado em: 21/11/2026 00:15
  */
 window.ABERTURA_ASA_RAW_DATA = [
   {
